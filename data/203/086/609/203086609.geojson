@@ -1,0 +1,68 @@
+{
+  "id": 203086609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.946999,41.281601,-95.946999,41.281601",
+    "geom:latitude":41.281601,
+    "geom:longitude":-95.946999,
+    "iso:country":"US",
+    "sg:address":"2505 N 24th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 991 4663",
+    "sg:postcode":"68110",
+    "sg:province":"NE",
+    "sg:tags":[
+        "home",
+        "inspector"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7bvBZsLEXnQWx4Ax6vDG06_41.281601_-95.946999@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ba8187fc076ef511e2cbc7bfa3df6b37",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872525,
+            "region_id":85688563,
+            "venue_id":203086609
+        }
+    ],
+    "wof:id":203086609,
+    "wof:lastmodified":1449026250,
+    "wof:name":"Fd and Associates",
+    "wof:parent_id":85872525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "inspector"
+    ]
+},
+  "bbox": [-95.946999,41.281601,-95.946999,41.281601],
+  "geometry": {"coordinates":[-95.946999,41.281601],"type":"Point"}
+}

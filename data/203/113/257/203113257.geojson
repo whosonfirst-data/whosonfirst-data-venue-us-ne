@@ -1,0 +1,71 @@
+{
+  "id": 203113257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.046577,41.201438,-96.046577,41.201438",
+    "geom:latitude":41.201438,
+    "geom:longitude":-96.046577,
+    "iso:country":"US",
+    "sg:address":"8607 Park Dr",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 593 0781",
+    "sg:postcode":"68127",
+    "sg:province":"NE",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "sg:website":"http://www.ravenlabs.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973487,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3IZe2eG8Et4xFssstqJ1xb_41.201438_-96.046577@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0564922c416b734ae7bf1d34610ddf6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973487,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203113257
+        }
+    ],
+    "wof:id":203113257,
+    "wof:lastmodified":1449026701,
+    "wof:name":"Raven Biological Laboratories",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [-96.046577,41.201438,-96.046577,41.201438],
+  "geometry": {"coordinates":[-96.046577,41.201438],"type":"Point"}
+}

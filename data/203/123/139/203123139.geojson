@@ -1,0 +1,66 @@
+{
+  "id": 203123139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.976501,41.259602,-95.976501,41.259602",
+    "geom:latitude":41.259602,
+    "geom:longitude":-95.976501,
+    "iso:country":"US",
+    "sg:address":"4353 Dodge St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Optometrist",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 552 2020",
+    "sg:postcode":"68131",
+    "sg:province":"NE",
+    "sg:tags":[
+        "ophthalmologist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4446tW6tamnkcDXwtxfVzU_41.259602_-95.976501@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"dc780b51818838c8b6f91c40fe3bf622",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872523,
+            "region_id":85688563,
+            "venue_id":203123139
+        }
+    ],
+    "wof:id":203123139,
+    "wof:lastmodified":1449025475,
+    "wof:name":"Madson Everett C MD",
+    "wof:parent_id":85872523,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ophthalmologist"
+    ]
+},
+  "bbox": [-95.976501,41.259602,-95.976501,41.259602],
+  "geometry": {"coordinates":[-95.976501,41.259602],"type":"Point"}
+}

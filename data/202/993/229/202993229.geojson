@@ -1,0 +1,65 @@
+{
+  "id": 202993229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.125661,41.078753,-96.125661,41.078753",
+    "geom:latitude":41.078753,
+    "geom:longitude":-96.125661,
+    "iso:country":"US",
+    "sg:address":"811 Maple St",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 253 2363",
+    "sg:postcode":"68059",
+    "sg:province":"NE",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974553,
+        102082777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4FONDSqapFT9PdjpEgLJbm_41.078753_-96.125661@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4541b86791dfe70a25cf29ac1e4de59e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974553,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":202993229
+        }
+    ],
+    "wof:id":202993229,
+    "wof:lastmodified":1449061249,
+    "wof:name":"Barrett Contracting",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [-96.125661,41.078753,-96.125661,41.078753],
+  "geometry": {"coordinates":[-96.125661,41.078753],"type":"Point"}
+}

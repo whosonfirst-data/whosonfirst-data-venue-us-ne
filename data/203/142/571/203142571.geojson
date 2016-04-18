@@ -1,0 +1,85 @@
+{
+  "id": 203142571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.123818,41.155974,-96.123818,41.155974",
+    "geom:latitude":41.155974,
+    "geom:longitude":-96.123818,
+    "iso:country":"US",
+    "sg:address":"13423 Lynam Dr",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 593 5000",
+    "sg:postcode":"68138",
+    "sg:province":"NE",
+    "sg:tags":[
+        "pharmaceutical",
+        "product",
+        "proprietary",
+        "products-wholesale",
+        "medicines-patent",
+        "manufacturer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        102082789,
+        85834285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5gcWCXExr8KkdSt9Dw8NJc_41.155974_-96.123818@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"30b3ea10513c40dd0b4937905a85363b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":-1,
+            "neighbourhood_id":85834285,
+            "region_id":85688563,
+            "venue_id":203142571
+        }
+    ],
+    "wof:id":203142571,
+    "wof:lastmodified":1449026454,
+    "wof:name":"Seacoast Pharmaceuticals",
+    "wof:parent_id":85834285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pharmaceutical",
+        "product",
+        "proprietary",
+        "products-wholesale",
+        "medicines-patent",
+        "manufacturer"
+    ]
+},
+  "bbox": [-96.123818,41.155974,-96.123818,41.155974],
+  "geometry": {"coordinates":[-96.123818,41.155974],"type":"Point"}
+}

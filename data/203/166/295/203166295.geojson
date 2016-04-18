@@ -1,0 +1,84 @@
+{
+  "id": 203166295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.634552,40.85918,-96.634552,40.85918",
+    "geom:latitude":40.85918,
+    "geom:longitude":-96.634552,
+    "iso:country":"US",
+    "sg:address":"6301 Burlington Ave",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 464 4093",
+    "sg:postcode":"68507",
+    "sg:province":"NE",
+    "sg:tags":[
+        "steel",
+        "fabricator",
+        "welder",
+        "trailer",
+        "hitch"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85824241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3EsjTGBguE0BWklAw2Qrdh_40.859180_-96.634552@1303262943"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"26a304b23efaec99d2e00c99d7f8fba7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85824241,
+            "region_id":85688563,
+            "venue_id":203166295
+        }
+    ],
+    "wof:id":203166295,
+    "wof:lastmodified":1449026010,
+    "wof:name":"Havelock Welding Shop",
+    "wof:parent_id":85824241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "steel",
+        "fabricator",
+        "welder",
+        "trailer",
+        "hitch"
+    ]
+},
+  "bbox": [-96.634552,40.85918,-96.634552,40.85918],
+  "geometry": {"coordinates":[-96.634552,40.85918],"type":"Point"}
+}

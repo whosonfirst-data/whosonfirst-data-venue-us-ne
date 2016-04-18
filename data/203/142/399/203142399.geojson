@@ -1,0 +1,74 @@
+{
+  "id": 203142399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.143878,41.159345,-96.143878,41.159345",
+    "geom:latitude":41.159345,
+    "geom:longitude":-96.143878,
+    "iso:country":"US",
+    "sg:address":"10201 Sapp Brothers Dr",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        },
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 934 7727",
+    "sg:postcode":"68138",
+    "sg:province":"NE",
+    "sg:tags":[
+        "local",
+        "trucking-motor",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        102082789,
+        85834285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4cdt1F1md1fRk3FYiJ81jH_41.159345_-96.143878@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c550524ff0472d85eb792668cb0adaa1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":-1,
+            "neighbourhood_id":85834285,
+            "region_id":85688563,
+            "venue_id":203142399
+        }
+    ],
+    "wof:id":203142399,
+    "wof:lastmodified":1449026453,
+    "wof:name":"Midwest Truck Sales & Leasing",
+    "wof:parent_id":85834285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "local",
+        "trucking-motor",
+        "trucking"
+    ]
+},
+  "bbox": [-96.143878,41.159345,-96.143878,41.159345],
+  "geometry": {"coordinates":[-96.143878,41.159345],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 203112583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.046837,41.219553,-96.046837,41.219553",
+    "geom:latitude":41.219553,
+    "geom:longitude":-96.046837,
+    "iso:country":"US",
+    "sg:address":"4115 S 87th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Office Equipment",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Stationery & Office Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 895 1143",
+    "sg:postcode":"68127",
+    "sg:province":"NE",
+    "sg:tags":[
+        "register",
+        "autographic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872511
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4fzMFS3n49FTbiAfuSfIkd_41.219553_-96.046837@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ef956a21d3e7f4eb2d6dc6798850d26d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872511,
+            "region_id":85688563,
+            "venue_id":203112583
+        }
+    ],
+    "wof:id":203112583,
+    "wof:lastmodified":1449025786,
+    "wof:name":"Data Documents",
+    "wof:parent_id":85872511,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "register",
+        "autographic"
+    ]
+},
+  "bbox": [-96.046837,41.219553,-96.046837,41.219553],
+  "geometry": {"coordinates":[-96.046837,41.219553],"type":"Point"}
+}

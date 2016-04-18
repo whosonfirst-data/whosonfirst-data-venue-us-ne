@@ -1,0 +1,66 @@
+{
+  "id": 203106217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.990641,41.216781,-95.990641,41.216781",
+    "geom:latitude":41.216781,
+    "geom:longitude":-95.990641,
+    "iso:country":"US",
+    "sg:address":"4250 S 50th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Hardware",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 733 8665",
+    "sg:postcode":"68117",
+    "sg:province":"NE",
+    "sg:tags":[
+        "store"
+    ],
+    "sg:website":"www.acehardware.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3kLbGRnBxwxmP5OWx6WYCd_41.216781_-95.990641@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2d3fab8a55ed17a6baf8f1c2287c22d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203106217
+        }
+    ],
+    "wof:id":203106217,
+    "wof:lastmodified":1449024923,
+    "wof:name":"Westlake Ace Hardware",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "store"
+    ]
+},
+  "bbox": [-95.990641,41.216781,-95.990641,41.216781],
+  "geometry": {"coordinates":[-95.990641,41.216781],"type":"Point"}
+}

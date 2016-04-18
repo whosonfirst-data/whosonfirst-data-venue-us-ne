@@ -1,0 +1,74 @@
+{
+  "id": 203047657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.0084,41.2869,-96.0084,41.2869",
+    "geom:latitude":41.2869,
+    "geom:longitude":-96.0084,
+    "iso:country":"US",
+    "sg:address":"6152 Military Ave",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 556 9596",
+    "sg:postcode":"68104",
+    "sg:province":"NE",
+    "sg:tags":[
+        "body",
+        "shop",
+        "painting",
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0DK7WyLsK5CMreVrGw4blg_41.286900_-96.008400@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"307920d16d6a50d45d2b3ff51ca32c2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872535,
+            "region_id":85688563,
+            "venue_id":203047657
+        }
+    ],
+    "wof:id":203047657,
+    "wof:lastmodified":1449026195,
+    "wof:name":"Magic Auto Body",
+    "wof:parent_id":85872535,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "shop",
+        "painting",
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-96.0084,41.2869,-96.0084,41.2869],
+  "geometry": {"coordinates":[-96.0084,41.2869],"type":"Point"}
+}

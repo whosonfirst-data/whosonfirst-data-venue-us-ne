@@ -1,0 +1,72 @@
+{
+  "id": 203079959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.926903,41.248199,-95.926903,41.248199",
+    "geom:latitude":41.248199,
+    "geom:longitude":-95.926903,
+    "iso:country":"US",
+    "sg:address":"802 Pierce St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 346 4784",
+    "sg:postcode":"68108",
+    "sg:province":"NE",
+    "sg:tags":[
+        "electrician",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7F849ZDBvoiwjPmHVumXgR_41.248199_-95.926903@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f2339ad948380d317797b830b299088c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203079959
+        }
+    ],
+    "wof:id":203079959,
+    "wof:lastmodified":1449026531,
+    "wof:name":"Vacanti Brothers Electric",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrician",
+        "contractor"
+    ]
+},
+  "bbox": [-95.926903,41.248199,-95.926903,41.248199],
+  "geometry": {"coordinates":[-95.926903,41.248199],"type":"Point"}
+}

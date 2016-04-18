@@ -1,0 +1,79 @@
+{
+  "id": 203118881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.192536,41.23428,-96.192536,41.23428",
+    "geom:latitude":41.23428,
+    "geom:longitude":-96.192536,
+    "iso:country":"US",
+    "sg:address":"17710 W Center Rd",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 334 0184",
+    "sg:postcode":"68130",
+    "sg:province":"NE",
+    "sg:tags":[
+        "dvd",
+        "video",
+        "tape",
+        "sale",
+        "dvds-rental"
+    ],
+    "sg:website":"http://www.blockbuster.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Wp5IQNlBH2uCPvZPQWdNT_41.234280_-96.192536@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a3e9f5c0e016cf5b3480ef7d68e067fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203118881
+        }
+    ],
+    "wof:id":203118881,
+    "wof:lastmodified":1449026477,
+    "wof:name":"Blockbuster Video",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dvd",
+        "video",
+        "tape",
+        "sale",
+        "dvds-rental"
+    ]
+},
+  "bbox": [-96.192536,41.23428,-96.192536,41.23428],
+  "geometry": {"coordinates":[-96.192536,41.23428],"type":"Point"}
+}

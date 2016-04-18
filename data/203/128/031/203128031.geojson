@@ -1,0 +1,66 @@
+{
+  "id": 203128031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.967034,41.259897,-95.967034,41.259897",
+    "geom:latitude":41.259897,
+    "geom:longitude":-95.967034,
+    "iso:country":"US",
+    "sg:address":"Attorney at Law 3610 Dodge Street",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 346 9330",
+    "sg:postcode":"68131",
+    "sg:province":"NE",
+    "sg:tags":[
+        "litigation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6YbBm8tHHjkyluulL5CUiD_41.259897_-95.967034@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f025ff57288b41062a2f8442e65d6798",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872525,
+            "region_id":85688563,
+            "venue_id":203128031
+        }
+    ],
+    "wof:id":203128031,
+    "wof:lastmodified":1449025650,
+    "wof:name":"Jerrold L. Strasheim",
+    "wof:parent_id":85872525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "litigation"
+    ]
+},
+  "bbox": [-95.967034,41.259897,-95.967034,41.259897],
+  "geometry": {"coordinates":[-95.967034,41.259897],"type":"Point"}
+}

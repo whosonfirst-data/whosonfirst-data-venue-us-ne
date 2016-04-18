@@ -1,0 +1,66 @@
+{
+  "id": 203060587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.013267,41.247791,-96.013267,41.247791",
+    "geom:latitude":41.247791,
+    "geom:longitude":-96.013267,
+    "iso:country":"US",
+    "sg:address":"6455 Pierce St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 203 6143",
+    "sg:postcode":"68106",
+    "sg:province":"NE",
+    "sg:tags":[
+        "tree"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85867059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1esGWVs1VitGmgRP8vU1lo_41.247791_-96.013267@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"87859c0e02ed1ada16cdb3f7ff65384c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85867059,
+            "region_id":85688563,
+            "venue_id":203060587
+        }
+    ],
+    "wof:id":203060587,
+    "wof:lastmodified":1449026690,
+    "wof:name":"Arbor 1 Tree Service",
+    "wof:parent_id":85867059,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tree"
+    ]
+},
+  "bbox": [-96.013267,41.247791,-96.013267,41.247791],
+  "geometry": {"coordinates":[-96.013267,41.247791],"type":"Point"}
+}

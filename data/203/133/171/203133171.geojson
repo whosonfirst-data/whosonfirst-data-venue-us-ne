@@ -1,0 +1,71 @@
+{
+  "id": 203133171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.023269,41.266946,-96.023269,41.266946",
+    "geom:latitude":41.266946,
+    "geom:longitude":-96.023269,
+    "iso:country":"US",
+    "sg:address":"820 Mayfield Ave",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        },
+        {
+            "category":"Education",
+            "subcategory":"Preschool",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 403 4539",
+    "sg:postcode":"68132",
+    "sg:province":"NE",
+    "sg:tags":[
+        "kindergarten"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4pGClv8u9h2Fm76ITyzEof_41.266946_-96.023269@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a160d23103db9f74c21b1174bbbf78e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872507,
+            "region_id":85688563,
+            "venue_id":203133171
+        }
+    ],
+    "wof:id":203133171,
+    "wof:lastmodified":1449026517,
+    "wof:name":"Childs Play",
+    "wof:parent_id":85872507,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "kindergarten"
+    ]
+},
+  "bbox": [-96.023269,41.266946,-96.023269,41.266946],
+  "geometry": {"coordinates":[-96.023269,41.266946],"type":"Point"}
+}

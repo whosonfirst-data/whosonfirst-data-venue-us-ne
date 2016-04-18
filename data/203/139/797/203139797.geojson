@@ -1,0 +1,90 @@
+{
+  "id": 203139797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.155392,41.206281,-96.155392,41.206281",
+    "geom:latitude":41.206281,
+    "geom:longitude":-96.155392,
+    "iso:country":"US",
+    "sg:address":"15325 Weir St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Hazard Insurance",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Title Insurance",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Life Insurance",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 895 2871",
+    "sg:postcode":"68137",
+    "sg:province":"NE",
+    "sg:tags":[
+        "business",
+        "auto",
+        "commercial",
+        "homeowner",
+        "motorcycle",
+        "renter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3GxEjG6SWElbZfnqE1WoKi_41.206281_-96.155392@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c87a6679cc8e066665c79e7d2505c5c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203139797
+        }
+    ],
+    "wof:id":203139797,
+    "wof:lastmodified":1449025113,
+    "wof:name":"Allstate Insurance Company - Ryan Grothaus",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "business",
+        "auto",
+        "commercial",
+        "homeowner",
+        "motorcycle",
+        "renter"
+    ]
+},
+  "bbox": [-96.155392,41.206281,-96.155392,41.206281],
+  "geometry": {"coordinates":[-96.155392,41.206281],"type":"Point"}
+}

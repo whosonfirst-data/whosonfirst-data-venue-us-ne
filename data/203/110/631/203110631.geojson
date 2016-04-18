@@ -1,0 +1,84 @@
+{
+  "id": 203110631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.023781,41.321097,-96.023781,41.321097",
+    "geom:latitude":41.321097,
+    "geom:longitude":-96.023781,
+    "iso:country":"US",
+    "sg:address":"6751 N 72nd St Ste 104",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 572 2441",
+    "sg:postcode":"68122",
+    "sg:province":"NE",
+    "sg:tags":[
+        "medical",
+        "addiction-information",
+        "therapist",
+        "therapy",
+        "treatment",
+        "gambling",
+        "physical"
+    ],
+    "sg:website":"http://www.alegent.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85813863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Wu5FuNzvFUarqtJM5b5eU_41.321097_-96.023781@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"21b0a298f49569a6d8552083213e1239",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85813863,
+            "region_id":85688563,
+            "venue_id":203110631
+        }
+    ],
+    "wof:id":203110631,
+    "wof:lastmodified":1449025542,
+    "wof:name":"Alegent Health Physical",
+    "wof:parent_id":85813863,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical",
+        "addiction-information",
+        "therapist",
+        "therapy",
+        "treatment",
+        "gambling",
+        "physical"
+    ]
+},
+  "bbox": [-96.023781,41.321097,-96.023781,41.321097],
+  "geometry": {"coordinates":[-96.023781,41.321097],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 203034419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.942276,41.255502,-95.942276,41.255502",
+    "geom:latitude":41.255502,
+    "geom:longitude":-95.942276,
+    "iso:country":"US",
+    "sg:address":"60 S Dodge",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"University",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 554 2200",
+    "sg:postcode":"68102",
+    "sg:province":"NE",
+    "sg:tags":[
+        "college"
+    ],
+    "sg:website":"www.unomaha.edu",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_00z7CV2aTvBrf7yQOnYWbv_41.255502_-95.942276@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"eae234ebf7c2f854dd73b3a320f9a45c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203034419
+        }
+    ],
+    "wof:id":203034419,
+    "wof:lastmodified":1449025158,
+    "wof:name":"University of Nebraska At Omaha",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "college"
+    ]
+},
+  "bbox": [-95.942276,41.255502,-95.942276,41.255502],
+  "geometry": {"coordinates":[-95.942276,41.255502],"type":"Point"}
+}

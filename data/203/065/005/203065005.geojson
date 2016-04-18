@@ -1,0 +1,66 @@
+{
+  "id": 203065005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.978266,41.213109,-95.978266,41.213109",
+    "geom:latitude":41.213109,
+    "geom:longitude":-95.978266,
+    "iso:country":"US",
+    "sg:address":"4230 L St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 932 6243",
+    "sg:postcode":"68107",
+    "sg:province":"NE",
+    "sg:tags":[
+        "home"
+    ],
+    "sg:website":"www.mollymaid.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1q7erqtN6vIpRTC9Qg7ZJg_41.213109_-95.978266@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ba77483dab0d6e5c29832b6328d7cfc4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203065005
+        }
+    ],
+    "wof:id":203065005,
+    "wof:lastmodified":1449026859,
+    "wof:name":"Molly Maid",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home"
+    ]
+},
+  "bbox": [-95.978266,41.213109,-95.978266,41.213109],
+  "geometry": {"coordinates":[-95.978266,41.213109],"type":"Point"}
+}

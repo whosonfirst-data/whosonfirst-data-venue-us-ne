@@ -1,0 +1,66 @@
+{
+  "id": 203129057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.979429,41.264683,-95.979429,41.264683",
+    "geom:latitude":41.264683,
+    "geom:longitude":-95.979429,
+    "iso:country":"US",
+    "sg:address":"4429 California St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Tobacco",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 556 6070",
+    "sg:postcode":"68131",
+    "sg:province":"NE",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85867055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_33FZGyz4pI0gyXT6VBoLCW_41.264683_-95.979429@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9662180d51a6c52363caca0a493d53ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85867055,
+            "region_id":85688563,
+            "venue_id":203129057
+        }
+    ],
+    "wof:id":203129057,
+    "wof:lastmodified":1449026468,
+    "wof:name":"Tobacco and Phones",
+    "wof:parent_id":85867055,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [-95.979429,41.264683,-95.979429,41.264683],
+  "geometry": {"coordinates":[-95.979429,41.264683],"type":"Point"}
+}

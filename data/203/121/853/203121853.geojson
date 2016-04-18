@@ -1,0 +1,70 @@
+{
+  "id": 203121853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.962058,41.257697,-95.962058,41.257697",
+    "geom:latitude":41.257697,
+    "geom:longitude":-95.962058,
+    "iso:country":"US",
+    "sg:address":"3333 Farnam St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 877 374 2958",
+    "sg:postcode":"68131",
+    "sg:province":"NE",
+    "sg:tags":[
+        "apartment",
+        "rental",
+        "finder"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_15wCBRCe7nwrmgfo1qloL8_41.257697_-95.962058@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a4e9b78bff5ce59137b2dfbe5f628f20",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872525,
+            "region_id":85688563,
+            "venue_id":203121853
+        }
+    ],
+    "wof:id":203121853,
+    "wof:lastmodified":1449026415,
+    "wof:name":"Midtown Crossing at Turner Park",
+    "wof:parent_id":85872525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment",
+        "rental",
+        "finder"
+    ]
+},
+  "bbox": [-95.962058,41.257697,-95.962058,41.257697],
+  "geometry": {"coordinates":[-95.962058,41.257697],"type":"Point"}
+}

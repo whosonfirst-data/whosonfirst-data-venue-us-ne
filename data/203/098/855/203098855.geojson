@@ -1,0 +1,72 @@
+{
+  "id": 203098855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.065009,41.266027,-96.065009,41.266027",
+    "geom:latitude":41.266027,
+    "geom:longitude":-96.065009,
+    "iso:country":"US",
+    "sg:address":"637 N 98th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Day Spa",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Nail Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 415 0082",
+    "sg:postcode":"68114",
+    "sg:province":"NE",
+    "sg:website":"http://www.anythinggoesforhair.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85867061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2SnXggR58Dwb2yBmf5DsKs_41.266027_-96.065009@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ea4c9bda1ad142d1791ccc858b6a15eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85867061,
+            "region_id":85688563,
+            "venue_id":203098855
+        }
+    ],
+    "wof:id":203098855,
+    "wof:lastmodified":1449026670,
+    "wof:name":"Anything Goes Salon",
+    "wof:parent_id":85867061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-96.065009,41.266027,-96.065009,41.266027],
+  "geometry": {"coordinates":[-96.065009,41.266027],"type":"Point"}
+}

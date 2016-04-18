@@ -1,0 +1,66 @@
+{
+  "id": 203060933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.99515,41.247837,-95.99515,41.247837",
+    "geom:latitude":41.247837,
+    "geom:longitude":-95.99515,
+    "iso:country":"US",
+    "sg:address":"5200 Pierce St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Locksmith",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 715 9681",
+    "sg:postcode":"68106",
+    "sg:province":"NE",
+    "sg:tags":[
+        "key"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ZvY7JH4nAohxjFYM0Yx2h_41.247837_-95.995150@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"117f41558adabcace7f3cf7497c571ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872523,
+            "region_id":85688563,
+            "venue_id":203060933
+        }
+    ],
+    "wof:id":203060933,
+    "wof:lastmodified":1449026689,
+    "wof:name":"A & 1 Locksmith 24 Hour",
+    "wof:parent_id":85872523,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "key"
+    ]
+},
+  "bbox": [-95.99515,41.247837,-95.99515,41.247837],
+  "geometry": {"coordinates":[-95.99515,41.247837],"type":"Point"}
+}

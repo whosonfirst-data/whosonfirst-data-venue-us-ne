@@ -1,0 +1,86 @@
+{
+  "id": 203136943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.037144,41.277803,-96.037144,41.277803",
+    "geom:latitude":41.277803,
+    "geom:longitude":-96.037144,
+    "iso:country":"US",
+    "sg:address":"8061 BLONDO ST",
+    "sg:city":"OMAHA",
+    "sg:classifiers":[
+        {
+            "category":"Place Of Worship",
+            "subcategory":"Church",
+            "type":"Public Place"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Event Space",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 505 9994",
+    "sg:postcode":"68134",
+    "sg:province":"NE",
+    "sg:tags":[
+        "ceremony",
+        "facility",
+        "hall",
+        "location",
+        "reception",
+        "wedding",
+        "banquet",
+        "chapel"
+    ],
+    "sg:website":"http://itsaneventsocialhall.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Tw6CYMbvQg7MJcaj22Obk_41.277803_-96.037144@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"458497732c82077944c2c9386d5cb784",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872507,
+            "region_id":85688563,
+            "venue_id":203136943
+        }
+    ],
+    "wof:id":203136943,
+    "wof:lastmodified":1449026852,
+    "wof:name":"It's An Event! Social Hall",
+    "wof:parent_id":85872507,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ceremony",
+        "facility",
+        "hall",
+        "location",
+        "reception",
+        "wedding",
+        "banquet",
+        "chapel"
+    ]
+},
+  "bbox": [-96.037144,41.277803,-96.037144,41.277803],
+  "geometry": {"coordinates":[-96.037144,41.277803],"type":"Point"}
+}

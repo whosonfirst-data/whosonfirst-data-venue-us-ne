@@ -1,0 +1,70 @@
+{
+  "id": 203061883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.985802,41.244801,-95.985802,41.244801",
+    "geom:latitude":41.244801,
+    "geom:longitude":-95.985802,
+    "iso:country":"US",
+    "sg:address":"4837 Woolworth Ave",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 551 1540",
+    "sg:postcode":"68106",
+    "sg:province":"NE",
+    "sg:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6jeBx5cHVMUqjCNZJYr4Ni_41.244801_-95.985802@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d38b27d83c70355e0db5481a8a749af7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872523,
+            "region_id":85688563,
+            "venue_id":203061883
+        }
+    ],
+    "wof:id":203061883,
+    "wof:lastmodified":1449026337,
+    "wof:name":"Holy Cross Catholic Church",
+    "wof:parent_id":85872523,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ]
+},
+  "bbox": [-95.985802,41.244801,-95.985802,41.244801],
+  "geometry": {"coordinates":[-95.985802,41.244801],"type":"Point"}
+}

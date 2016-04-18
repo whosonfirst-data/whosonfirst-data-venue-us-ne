@@ -1,0 +1,67 @@
+{
+  "id": 203059391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.9953,41.240601,-95.9953,41.240601",
+    "geom:latitude":41.240601,
+    "geom:longitude":-95.9953,
+    "iso:country":"US",
+    "sg:address":"5201 Center St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Funeral Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 551 1242",
+    "sg:postcode":"68106",
+    "sg:province":"NE",
+    "sg:tags":[
+        "cemetery"
+    ],
+    "sg:website":"bohemiancemeteryomaha.webplus.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1qFRdfcA5yt1QYreiSUDOm_41.240601_-95.995300@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"dda5c2bc1d884999e841ba66df257072",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872513,
+            "region_id":85688563,
+            "venue_id":203059391
+        }
+    ],
+    "wof:id":203059391,
+    "wof:lastmodified":1449025429,
+    "wof:name":"Bohemian Cemetery",
+    "wof:parent_id":85872513,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cemetery"
+    ]
+},
+  "bbox": [-95.9953,41.240601,-95.9953,41.240601],
+  "geometry": {"coordinates":[-95.9953,41.240601],"type":"Point"}
+}

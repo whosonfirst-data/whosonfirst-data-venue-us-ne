@@ -1,0 +1,85 @@
+{
+  "id": 203097525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.067001,41.264469,-96.067001,41.264469",
+    "geom:latitude":41.264469,
+    "geom:longitude":-96.067001,
+    "iso:country":"US",
+    "sg:address":"10000 California St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Stationery & Office Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Jewelry",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 342 4525",
+    "sg:postcode":"68114",
+    "sg:province":"NE",
+    "sg:tags":[
+        "shop",
+        "store",
+        "novelty",
+        "greeting",
+        "card"
+    ],
+    "sg:website":"http://www.hallmark.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85867061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4o5yVjxF2vN6vJT6qT7kVv_41.264469_-96.067001@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a75ac8e92aa036bcd735305314671208",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85867061,
+            "region_id":85688563,
+            "venue_id":203097525
+        }
+    ],
+    "wof:id":203097525,
+    "wof:lastmodified":1449025659,
+    "wof:name":"Amy's Hallmark Shop",
+    "wof:parent_id":85867061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "store",
+        "novelty",
+        "greeting",
+        "card"
+    ]
+},
+  "bbox": [-96.067001,41.264469,-96.067001,41.264469],
+  "geometry": {"coordinates":[-96.067001,41.264469],"type":"Point"}
+}

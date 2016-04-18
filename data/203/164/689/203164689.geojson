@@ -1,0 +1,76 @@
+{
+  "id": 203164689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.68457,40.823602,-96.68457,40.823602",
+    "geom:latitude":40.823602,
+    "geom:longitude":-96.68457,
+    "iso:country":"US",
+    "sg:address":"1012 N 25th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Electric",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 435 3514",
+    "sg:postcode":"68503",
+    "sg:province":"NE",
+    "sg:tags":[
+        "industrial",
+        "electrician",
+        "contractors-commercial"
+    ],
+    "sg:website":"http://www.abcelectric.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2p3r1TNjhl11t7gGxHsMeK_40.823602_-96.684570@1303262943"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"67649ae0301386fcccd504a45972ad4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878723,
+            "region_id":85688563,
+            "venue_id":203164689
+        }
+    ],
+    "wof:id":203164689,
+    "wof:lastmodified":1449025171,
+    "wof:name":"ABC Electric Co",
+    "wof:parent_id":85878723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industrial",
+        "electrician",
+        "contractors-commercial"
+    ]
+},
+  "bbox": [-96.68457,40.823602,-96.68457,40.823602],
+  "geometry": {"coordinates":[-96.68457,40.823602],"type":"Point"}
+}

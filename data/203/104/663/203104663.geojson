@@ -1,0 +1,91 @@
+{
+  "id": 203104663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.984966,41.219742,-95.984966,41.219742",
+    "geom:latitude":41.219742,
+    "geom:longitude":-95.984966,
+    "iso:country":"US",
+    "sg:address":"4700 F St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Office Equipment",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Electronics",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Printing & Photocopies",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 734 4400",
+    "sg:postcode":"68117",
+    "sg:province":"NE",
+    "sg:tags":[
+        "scanning",
+        "printer",
+        "supply",
+        "lithographer",
+        "printers-equipment",
+        "plotting"
+    ],
+    "sg:website":"http://www.omahaprint.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1PKStm1Y3c3YgaU1re0Egu_41.219742_-95.984966@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"69fe16a5bb737f9e87e3d2eacfda5b14",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203104663
+        }
+    ],
+    "wof:id":203104663,
+    "wof:lastmodified":1449025709,
+    "wof:name":"Omaha Print",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "scanning",
+        "printer",
+        "supply",
+        "lithographer",
+        "printers-equipment",
+        "plotting"
+    ]
+},
+  "bbox": [-95.984966,41.219742,-95.984966,41.219742],
+  "geometry": {"coordinates":[-95.984966,41.219742],"type":"Point"}
+}

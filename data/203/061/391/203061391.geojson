@@ -1,0 +1,66 @@
+{
+  "id": 203061391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.995595,41.253165,-95.995595,41.253165",
+    "geom:latitude":41.253165,
+    "geom:longitude":-95.995595,
+    "iso:country":"US",
+    "sg:address":"5181 Jones St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Locksmith",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 881 3697",
+    "sg:postcode":"68106",
+    "sg:province":"NE",
+    "sg:tags":[
+        "key"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85867055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2qaWcvep9YE1eJFD5XtBN3_41.253165_-95.995595@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f35b06b11bcbb21df803b44869fe7249",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85867055,
+            "region_id":85688563,
+            "venue_id":203061391
+        }
+    ],
+    "wof:id":203061391,
+    "wof:lastmodified":1449026339,
+    "wof:name":"Any Local Locksmith",
+    "wof:parent_id":85867055,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "key"
+    ]
+},
+  "bbox": [-95.995595,41.253165,-95.995595,41.253165],
+  "geometry": {"coordinates":[-95.995595,41.253165],"type":"Point"}
+}

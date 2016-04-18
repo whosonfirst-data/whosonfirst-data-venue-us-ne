@@ -1,0 +1,87 @@
+{
+  "id": 203099313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.029519,41.252049,-96.029519,41.252049",
+    "geom:latitude":41.252049,
+    "geom:longitude":-96.029519,
+    "iso:country":"US",
+    "sg:address":"730 S 75th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Office Equipment",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Printing & Photocopies",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 392 2400",
+    "sg:postcode":"68114",
+    "sg:province":"NE",
+    "sg:tags":[
+        "scanning",
+        "printer",
+        "supply",
+        "services-commercial",
+        "lithographer",
+        "plotting"
+    ],
+    "sg:website":"http://www.msmprint.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7A4fDhj76WwjNFHHN0r3b0_41.252049_-96.029519@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"eb00f9c03d38ce93c72de9dcb87ad9c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872509,
+            "region_id":85688563,
+            "venue_id":203099313
+        }
+    ],
+    "wof:id":203099313,
+    "wof:lastmodified":1449026211,
+    "wof:name":"Msm Printing",
+    "wof:parent_id":85872509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "scanning",
+        "printer",
+        "supply",
+        "services-commercial",
+        "lithographer",
+        "plotting"
+    ]
+},
+  "bbox": [-96.029519,41.252049,-96.029519,41.252049],
+  "geometry": {"coordinates":[-96.029519,41.252049],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 203141123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.148783,41.219987,-96.148783,41.219987",
+    "geom:latitude":41.219987,
+    "geom:longitude":-96.148783,
+    "iso:country":"US",
+    "sg:address":"15009 Atlas Ct",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 933 9953",
+    "sg:postcode":"68137",
+    "sg:province":"NE",
+    "sg:tags":[
+        "limousine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5914bEm6hpwic5CT7ZuWUq_41.219987_-96.148783@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"70f2157db7aee6272b2e065985965e34",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203141123
+        }
+    ],
+    "wof:id":203141123,
+    "wof:lastmodified":1449025586,
+    "wof:name":"Y Not A Limo",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "limousine"
+    ]
+},
+  "bbox": [-96.148783,41.219987,-96.148783,41.219987],
+  "geometry": {"coordinates":[-96.148783,41.219987],"type":"Point"}
+}

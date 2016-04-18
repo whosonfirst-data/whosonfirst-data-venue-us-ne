@@ -1,0 +1,76 @@
+{
+  "id": 203150037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.1036,41.276046,-96.1036,41.276046",
+    "geom:latitude":41.276046,
+    "geom:longitude":-96.1036,
+    "iso:country":"US",
+    "sg:address":"1735 N 121st St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        },
+        {
+            "category":"Education",
+            "subcategory":"Preschool",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 493 5399",
+    "sg:postcode":"68154",
+    "sg:province":"NE",
+    "sg:tags":[
+        "kindergarten",
+        "nursery",
+        "day"
+    ],
+    "sg:website":"http://www.kindercare.com/our-centers/center-details/300796/?cid=YP_KC300796",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ZTS02XQOganzdMHtnUrD8_41.276046_-96.103600@1303262943"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b59a0575651ae277ff7bfde6f988316d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872503,
+            "region_id":85688563,
+            "venue_id":203150037
+        }
+    ],
+    "wof:id":203150037,
+    "wof:lastmodified":1449024968,
+    "wof:name":"Candlewood KinderCare",
+    "wof:parent_id":85872503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "kindergarten",
+        "nursery",
+        "day"
+    ]
+},
+  "bbox": [-96.1036,41.276046,-96.1036,41.276046],
+  "geometry": {"coordinates":[-96.1036,41.276046],"type":"Point"}
+}

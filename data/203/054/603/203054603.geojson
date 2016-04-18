@@ -1,0 +1,70 @@
+{
+  "id": 203054603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.9599,41.2523,-95.9599,41.2523",
+    "geom:latitude":41.2523,
+    "geom:longitude":-95.9599,
+    "iso:country":"US",
+    "sg:address":"3171 Leavenworth St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 341 7573",
+    "sg:postcode":"68105",
+    "sg:province":"NE",
+    "sg:tags":[
+        "air",
+        "heating",
+        "conditioning/hvac"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1IE5flpk1IopdEbdivfnS9_41.252300_-95.959900@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"647937167fbfa291dc9e5f07dc6c5540",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872525,
+            "region_id":85688563,
+            "venue_id":203054603
+        }
+    ],
+    "wof:id":203054603,
+    "wof:lastmodified":1449025814,
+    "wof:name":"Micek Refrigeration & Heating",
+    "wof:parent_id":85872525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "air",
+        "heating",
+        "conditioning/hvac"
+    ]
+},
+  "bbox": [-95.9599,41.2523,-95.9599,41.2523],
+  "geometry": {"coordinates":[-95.9599,41.2523],"type":"Point"}
+}

@@ -1,0 +1,87 @@
+{
+  "id": 203098027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.069611,41.260592,-96.069611,41.260592",
+    "geom:latitude":41.260592,
+    "geom:longitude":-96.069611,
+    "iso:country":"US",
+    "sg:address":"10020 Regency Cir",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Farmers Market",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 393 1200",
+    "sg:postcode":"68114",
+    "sg:province":"NE",
+    "sg:tags":[
+        "product",
+        "natural",
+        "diet",
+        "fruit",
+        "health",
+        "vegetable"
+    ],
+    "sg:website":"http://www.wholefoodsmarket.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85867061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0inlbANvQmPMQ4VMyAFZO9_41.260592_-96.069611@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8efbdd6812419d5a6de640e871a6aaaa",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85867061,
+            "region_id":85688563,
+            "venue_id":203098027
+        }
+    ],
+    "wof:id":203098027,
+    "wof:lastmodified":1449026668,
+    "wof:name":"Whole Foods Market",
+    "wof:parent_id":85867061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "natural",
+        "diet",
+        "fruit",
+        "health",
+        "vegetable"
+    ]
+},
+  "bbox": [-96.069611,41.260592,-96.069611,41.260592],
+  "geometry": {"coordinates":[-96.069611,41.260592],"type":"Point"}
+}

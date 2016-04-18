@@ -1,0 +1,90 @@
+{
+  "id": 337286805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.008538,41.284988,-96.008538,41.284988",
+    "geom:latitude":41.284988,
+    "geom:longitude":-96.008538,
+    "iso:country":"US",
+    "sg:address":"6212 Maple St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Music",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 884 5353",
+    "sg:postcode":"68104",
+    "sg:province":"NE",
+    "sg:tags":[
+        "maternity",
+        "flavor",
+        "clothes",
+        "venue",
+        "local"
+    ],
+    "sg:website":"www.waitingroomlounge.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4G4EdGIbyL0sAsXOc2U78H_41.284988_-96.008538@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"daa9a808c063cfa1e88cdba127957b5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872535,
+            "region_id":85688563,
+            "venue_id":337286805
+        }
+    ],
+    "wof:id":337286805,
+    "wof:lastmodified":1449027145,
+    "wof:name":"The Waiting Room",
+    "wof:parent_id":85872535,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maternity",
+        "flavor",
+        "clothes",
+        "venue",
+        "local"
+    ]
+},
+  "bbox": [-96.008538,41.284988,-96.008538,41.284988],
+  "geometry": {"coordinates":[-96.008538,41.284988],"type":"Point"}
+}

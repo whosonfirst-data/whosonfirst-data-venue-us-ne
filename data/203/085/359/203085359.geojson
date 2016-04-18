@@ -1,0 +1,68 @@
+{
+  "id": 203085359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.946828,41.279426,-95.946828,41.279426",
+    "geom:latitude":41.279426,
+    "geom:longitude":-95.946828,
+    "iso:country":"US",
+    "sg:address":"2221 N 24th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 502 5153",
+    "sg:postcode":"68110",
+    "sg:province":"NE",
+    "sg:tags":[
+        "service/non-profit",
+        "community"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2qJ2UROMNahMkcMC8MTQOF_41.279426_-95.946828@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7c5006b0ccabd74524d6e6faacee4742",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872525,
+            "region_id":85688563,
+            "venue_id":203085359
+        }
+    ],
+    "wof:id":203085359,
+    "wof:lastmodified":1449025384,
+    "wof:name":"Empowerment Network",
+    "wof:parent_id":85872525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "service/non-profit",
+        "community"
+    ]
+},
+  "bbox": [-95.946828,41.279426,-95.946828,41.279426],
+  "geometry": {"coordinates":[-95.946828,41.279426],"type":"Point"}
+}

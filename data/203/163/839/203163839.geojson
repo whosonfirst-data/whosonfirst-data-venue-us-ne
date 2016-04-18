@@ -1,0 +1,66 @@
+{
+  "id": 203163839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.677682,40.779404,-96.677682,40.779404",
+    "geom:latitude":40.779404,
+    "geom:longitude":-96.677682,
+    "iso:country":"US",
+    "sg:address":"3303 S 31st St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 423 1085",
+    "sg:postcode":"68502",
+    "sg:province":"NE",
+    "sg:tags":[
+        "trust"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7mAQrBE8bn4Pa1VTgZgWvD_40.779404_-96.677682@1303262943"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7517f4d8198a1dc712e8e8cae1ecfc95",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878713,
+            "region_id":85688563,
+            "venue_id":203163839
+        }
+    ],
+    "wof:id":203163839,
+    "wof:lastmodified":1449026839,
+    "wof:name":"Conway Charitable Trust",
+    "wof:parent_id":85878713,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trust"
+    ]
+},
+  "bbox": [-96.677682,40.779404,-96.677682,40.779404],
+  "geometry": {"coordinates":[-96.677682,40.779404],"type":"Point"}
+}

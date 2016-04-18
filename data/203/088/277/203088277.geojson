@@ -1,0 +1,66 @@
+{
+  "id": 203088277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.966321,41.273945,-95.966321,41.273945",
+    "geom:latitude":41.273945,
+    "geom:longitude":-95.966321,
+    "iso:country":"US",
+    "sg:address":"3611 Seward St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 502 4400",
+    "sg:postcode":"68111",
+    "sg:province":"NE",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7G424jZ6Qku2rsdkxFSBSq_41.273945_-95.966321@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"64ad34570268a42c5f4b01cfb620f626",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872525,
+            "region_id":85688563,
+            "venue_id":203088277
+        }
+    ],
+    "wof:id":203088277,
+    "wof:lastmodified":1449026412,
+    "wof:name":"Happy Daycare",
+    "wof:parent_id":85872525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [-95.966321,41.273945,-95.966321,41.273945],
+  "geometry": {"coordinates":[-95.966321,41.273945],"type":"Point"}
+}

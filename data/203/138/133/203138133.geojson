@@ -1,0 +1,83 @@
+{
+  "id": 203138133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.175306,41.205137,-96.175306,41.205137",
+    "geom:latitude":41.205137,
+    "geom:longitude":-96.175306,
+    "iso:country":"US",
+    "sg:address":"16707 Q St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Hazard Insurance",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Life Insurance",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Title Insurance",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 682 8381",
+    "sg:postcode":"68135",
+    "sg:province":"NE",
+    "sg:tags":[
+        "auto",
+        "homeowner"
+    ],
+    "sg:website":"http://statefarm.mqgroup.com/url.asp?usr=279658",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1zK6aEvf4faWqMBe1odSCN_41.205137_-96.175306@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5fa4b4981687481327f7d1797b7d1bfb",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203138133
+        }
+    ],
+    "wof:id":203138133,
+    "wof:lastmodified":1449025455,
+    "wof:name":"Bergmeier, Jay - State Farm Insurance Agent",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "auto",
+        "homeowner"
+    ]
+},
+  "bbox": [-96.175306,41.205137,-96.175306,41.205137],
+  "geometry": {"coordinates":[-96.175306,41.205137],"type":"Point"}
+}

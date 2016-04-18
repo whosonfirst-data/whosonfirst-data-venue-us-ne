@@ -1,0 +1,66 @@
+{
+  "id": 203073063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.928001,41.247101,-95.928001,41.247101",
+    "geom:latitude":41.247101,
+    "geom:longitude":-95.928001,
+    "iso:country":"US",
+    "sg:address":"1311 S 9th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"University",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 449 2800",
+    "sg:postcode":"68108",
+    "sg:province":"NE",
+    "sg:tags":[
+        "college"
+    ],
+    "sg:website":"www.graceuniversity.edu",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7WjkxgWj6NqNmAeuQx1U4O_41.247101_-95.928001@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"528cf4e7a434e3254ec2258b1c85da14",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203073063
+        }
+    ],
+    "wof:id":203073063,
+    "wof:lastmodified":1449025200,
+    "wof:name":"Grace University",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "college"
+    ]
+},
+  "bbox": [-95.928001,41.247101,-95.928001,41.247101],
+  "geometry": {"coordinates":[-95.928001,41.247101],"type":"Point"}
+}

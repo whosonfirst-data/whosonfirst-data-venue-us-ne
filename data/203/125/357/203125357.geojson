@@ -1,0 +1,71 @@
+{
+  "id": 203125357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.973099,41.266998,-95.973099,41.266998",
+    "geom:latitude":41.266998,
+    "geom:longitude":-95.973099,
+    "iso:country":"US",
+    "sg:address":"813 N 40th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Candy",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 934 6427",
+    "sg:postcode":"68131",
+    "sg:province":"NE",
+    "sg:tags":[
+        "dessert"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2x3UuGU5sRag5vcKhZuDq4_41.266998_-95.973099@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8214a676c9622646edcc98ca58177d91",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872525,
+            "region_id":85688563,
+            "venue_id":203125357
+        }
+    ],
+    "wof:id":203125357,
+    "wof:lastmodified":1449026807,
+    "wof:name":"Sweet Magnolias",
+    "wof:parent_id":85872525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dessert"
+    ]
+},
+  "bbox": [-95.973099,41.266998,-95.973099,41.266998],
+  "geometry": {"coordinates":[-95.973099,41.266998],"type":"Point"}
+}

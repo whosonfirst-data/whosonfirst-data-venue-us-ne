@@ -1,0 +1,78 @@
+{
+  "id": 203062487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.011913,41.237618,-96.011913,41.237618",
+    "geom:latitude":41.237618,
+    "geom:longitude":-96.011913,
+    "iso:country":"US",
+    "sg:address":"2323 S 64th Ave",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 957 1914",
+    "sg:postcode":"68106",
+    "sg:province":"NE",
+    "sg:tags":[
+        "pet",
+        "hospital",
+        "veterinarian",
+        "clinic"
+    ],
+    "sg:website":"www.vcaanimalmedicalomaha.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85867059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_76TT8lGrmNsl8R55p3rIHs_41.237618_-96.011913@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"de70d4674a43662192f4eb03ce425305",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85867059,
+            "region_id":85688563,
+            "venue_id":203062487
+        }
+    ],
+    "wof:id":203062487,
+    "wof:lastmodified":1449026734,
+    "wof:name":"VCA Animal Medical Center Of Omaha",
+    "wof:parent_id":85867059,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "hospital",
+        "veterinarian",
+        "clinic"
+    ]
+},
+  "bbox": [-96.011913,41.237618,-96.011913,41.237618],
+  "geometry": {"coordinates":[-96.011913,41.237618],"type":"Point"}
+}

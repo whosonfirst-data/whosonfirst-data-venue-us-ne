@@ -1,0 +1,67 @@
+{
+  "id": 203124575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.965175,41.26685,-95.965175,41.26685",
+    "geom:latitude":41.26685,
+    "geom:longitude":-95.965175,
+    "iso:country":"US",
+    "sg:address":"3524 Burt St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Place Of Worship",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 556 6048",
+    "sg:postcode":"68131",
+    "sg:province":"NE",
+    "sg:tags":[
+        "church"
+    ],
+    "sg:website":"http://www.cofchrist.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4nriilEYnRAZCmykeLEQRW_41.266850_-95.965175@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3fac57a933628444244f9bb268a6033e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872525,
+            "region_id":85688563,
+            "venue_id":203124575
+        }
+    ],
+    "wof:id":203124575,
+    "wof:lastmodified":1449026725,
+    "wof:name":"Community Of Christ",
+    "wof:parent_id":85872525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [-95.965175,41.26685,-95.965175,41.26685],
+  "geometry": {"coordinates":[-95.965175,41.26685],"type":"Point"}
+}

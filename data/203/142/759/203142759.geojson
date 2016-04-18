@@ -1,0 +1,86 @@
+{
+  "id": 203142759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.156346,41.150483,-96.156346,41.150483",
+    "geom:latitude":41.150483,
+    "geom:longitude":-96.156346,
+    "iso:country":"US",
+    "sg:address":"10726 Sapp Brothers Dr",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 894 1550",
+    "sg:postcode":"68138",
+    "sg:province":"NE",
+    "sg:tags":[
+        "body",
+        "repairing",
+        "tire",
+        "automobile",
+        "detailing",
+        "painting"
+    ],
+    "sg:website":"http://www.bodyprosomaha.net/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        102082789,
+        85834285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6sSITJVgpFf69tILDNxCsP_41.150483_-96.156346@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6986c81bac3eca2cbf76cb57fb43bd68",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":-1,
+            "neighbourhood_id":85834285,
+            "region_id":85688563,
+            "venue_id":203142759
+        }
+    ],
+    "wof:id":203142759,
+    "wof:lastmodified":1449026456,
+    "wof:name":"Body Pros Inc. Collision Center",
+    "wof:parent_id":85834285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "repairing",
+        "tire",
+        "automobile",
+        "detailing",
+        "painting"
+    ]
+},
+  "bbox": [-96.156346,41.150483,-96.156346,41.150483],
+  "geometry": {"coordinates":[-96.156346,41.150483],"type":"Point"}
+}

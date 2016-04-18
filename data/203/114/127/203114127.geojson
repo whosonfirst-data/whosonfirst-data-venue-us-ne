@@ -1,0 +1,71 @@
+{
+  "id": 203114127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.024016,41.21973,-96.024016,41.21973",
+    "geom:latitude":41.21973,
+    "geom:longitude":-96.024016,
+    "iso:country":"US",
+    "sg:address":"7202 F St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 502 5116",
+    "sg:postcode":"68127",
+    "sg:province":"NE",
+    "sg:tags":[
+        "grocers-specialty"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85867059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4mITB7Wo2T8ThtUJSNYGbw_41.219730_-96.024016@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3ea10c9e64cbf60ce321f35fc20b951f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85867059,
+            "region_id":85688563,
+            "venue_id":203114127
+        }
+    ],
+    "wof:id":203114127,
+    "wof:lastmodified":1449025719,
+    "wof:name":"Regis Food Mart",
+    "wof:parent_id":85867059,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocers-specialty"
+    ]
+},
+  "bbox": [-96.024016,41.21973,-96.024016,41.21973],
+  "geometry": {"coordinates":[-96.024016,41.21973],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 203072271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.9757,41.220501,-95.9757,41.220501",
+    "geom:latitude":41.220501,
+    "geom:longitude":-95.9757,
+    "iso:country":"US",
+    "sg:address":"4151 E St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Optometrist",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Optician",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 731 1363",
+    "sg:postcode":"68107",
+    "sg:province":"NE",
+    "sg:tags":[
+        "ophthalmologist",
+        "eyewear"
+    ],
+    "sg:website":"www.tobineye.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_62JFHMQX6rw8mzI6aGzJMl_41.220501_-95.975700@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d8ff9bef90cf38667daf5f0e9f0140d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203072271
+        }
+    ],
+    "wof:id":203072271,
+    "wof:lastmodified":1449025947,
+    "wof:name":"Tobin Eye Institute",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ophthalmologist",
+        "eyewear"
+    ]
+},
+  "bbox": [-95.9757,41.220501,-95.9757,41.220501],
+  "geometry": {"coordinates":[-95.9757,41.220501],"type":"Point"}
+}

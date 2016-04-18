@@ -1,0 +1,79 @@
+{
+  "id": 203062313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.994904,41.252499,-95.994904,41.252499",
+    "geom:latitude":41.252499,
+    "geom:longitude":-95.994904,
+    "iso:country":"US",
+    "sg:address":"5180 Leavenworth St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Candy",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 553 6774",
+    "sg:postcode":"68106",
+    "sg:province":"NE",
+    "sg:tags":[
+        "german",
+        "dessert"
+    ],
+    "sg:website":"www.gerdasgermanrestaurant.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85867055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1KdczZcQHg8kJinpQkhgO6_41.252499_-95.994904@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"09bafcf5b18f84e4a88fa6cbd5c03115",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85867055,
+            "region_id":85688563,
+            "venue_id":203062313
+        }
+    ],
+    "wof:id":203062313,
+    "wof:lastmodified":1449026733,
+    "wof:name":"Gerda's Bakery",
+    "wof:parent_id":85867055,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "german",
+        "dessert"
+    ]
+},
+  "bbox": [-95.994904,41.252499,-95.994904,41.252499],
+  "geometry": {"coordinates":[-95.994904,41.252499],"type":"Point"}
+}

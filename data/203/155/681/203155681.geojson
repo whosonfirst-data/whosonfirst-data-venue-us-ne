@@ -1,0 +1,76 @@
+{
+  "id": 203155681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.935952,41.268005,-95.935952,41.268005",
+    "geom:latitude":41.268005,
+    "geom:longitude":-95.935952,
+    "iso:country":"US",
+    "sg:address":"1502 Cuming St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"Arcade",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Event Space",
+            "type":"Services"
+        },
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"Sports Bar",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 991 7400",
+    "sg:postcode":"68198",
+    "sg:province":"NE",
+    "sg:tags":[
+        "venue"
+    ],
+    "sg:website":"www.inplaypeoria.com/Omaha/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2PoDh2EBKcwPf9BFg4HbUT_41.268005_-95.935952@1303262943"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5ec88569d8a655674f5c06c6c93a5f81",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203155681
+        }
+    ],
+    "wof:id":203155681,
+    "wof:lastmodified":1449026508,
+    "wof:name":"In Play",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "venue"
+    ]
+},
+  "bbox": [-95.935952,41.268005,-95.935952,41.268005],
+  "geometry": {"coordinates":[-95.935952,41.268005],"type":"Point"}
+}

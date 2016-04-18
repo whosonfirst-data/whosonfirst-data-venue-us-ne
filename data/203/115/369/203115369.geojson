@@ -1,0 +1,99 @@
+{
+  "id": 203115369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.037842,41.198181,-96.037842,41.198181",
+    "geom:latitude":41.198181,
+    "geom:longitude":-96.037842,
+    "iso:country":"US",
+    "sg:address":"8000 Serum Ave",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Construction Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Military Area",
+            "subcategory":"Armory",
+            "type":"Public Place"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Building Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 331 3385",
+    "sg:postcode":"68127",
+    "sg:province":"NE",
+    "sg:tags":[
+        "repair",
+        "fence",
+        "fence-sales",
+        "contractor",
+        "fence-wholesale",
+        "gate",
+        "accessory",
+        "manufacturer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973487,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_05kCgsJMSHBvSC6j6Mlm49_41.198181_-96.037842@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"dc5733d707a8fec28feee69fcdbc6ae5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973487,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203115369
+        }
+    ],
+    "wof:id":203115369,
+    "wof:lastmodified":1449024928,
+    "wof:name":"Midwest Fence",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "fence",
+        "fence-sales",
+        "contractor",
+        "fence-wholesale",
+        "gate",
+        "accessory",
+        "manufacturer"
+    ]
+},
+  "bbox": [-96.037842,41.198181,-96.037842,41.198181],
+  "geometry": {"coordinates":[-96.037842,41.198181],"type":"Point"}
+}

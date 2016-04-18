@@ -1,0 +1,90 @@
+{
+  "id": 203081093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.940598,41.233101,-95.940598,41.233101",
+    "geom:latitude":41.233101,
+    "geom:longitude":-95.940598,
+    "iso:country":"US",
+    "sg:address":"1822 Vinton St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 341 5143",
+    "sg:postcode":"68108",
+    "sg:province":"NE",
+    "sg:tags":[
+        "plumber",
+        "industrial",
+        "system",
+        "specialty",
+        "heating",
+        "contractors-commercial",
+        "clean",
+        "contractor",
+        "air conditioning",
+        "boilers-repair",
+        "conditioning/hvac"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0iYtn9tTnGC6ooWZpRoaDD_41.233101_-95.940598@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c2e80b60c4f0a2be1ff9ef9d7507ff4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203081093
+        }
+    ],
+    "wof:id":203081093,
+    "wof:lastmodified":1449025492,
+    "wof:name":"Rybin Plumbing & Heating Co",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumber",
+        "industrial",
+        "system",
+        "specialty",
+        "heating",
+        "contractors-commercial",
+        "clean",
+        "contractor",
+        "air conditioning",
+        "boilers-repair",
+        "conditioning/hvac"
+    ]
+},
+  "bbox": [-95.940598,41.233101,-95.940598,41.233101],
+  "geometry": {"coordinates":[-95.940598,41.233101],"type":"Point"}
+}

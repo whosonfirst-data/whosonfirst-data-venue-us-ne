@@ -1,0 +1,77 @@
+{
+  "id": 203061157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.019096,41.2379,-96.019096,41.2379",
+    "geom:latitude":41.2379,
+    "geom:longitude":-96.019096,
+    "iso:country":"US",
+    "sg:address":"6901 Mercy Rd Ste 200",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 390 6600",
+    "sg:postcode":"68106",
+    "sg:province":"NE",
+    "sg:tags":[
+        "counseling",
+        "obstetrician",
+        "mental",
+        "gynecologist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6q5PRPPujJEnWE65BGVVcU_41.237900_-96.019096@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5a68d1e10a907d8e236ef8f76760a589",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872513,
+            "region_id":85688563,
+            "venue_id":203061157
+        }
+    ],
+    "wof:id":203061157,
+    "wof:lastmodified":1449026337,
+    "wof:name":"Pope Paul VI Institute",
+    "wof:parent_id":85872513,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "counseling",
+        "obstetrician",
+        "mental",
+        "gynecologist"
+    ]
+},
+  "bbox": [-96.019096,41.2379,-96.019096,41.2379],
+  "geometry": {"coordinates":[-96.019096,41.2379],"type":"Point"}
+}

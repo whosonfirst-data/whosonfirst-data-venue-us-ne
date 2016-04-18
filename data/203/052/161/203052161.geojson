@@ -1,0 +1,66 @@
+{
+  "id": 203052161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.966473,41.251939,-95.966473,41.251939",
+    "geom:latitude":41.251939,
+    "geom:longitude":-95.966473,
+    "iso:country":"US",
+    "sg:address":"3621 Leavenworth Ct",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 553 5825",
+    "sg:postcode":"68105",
+    "sg:province":"NE",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0JmtVBRo5m3XjTkOsR8e5x_41.251939_-95.966473@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ca56a119aa6efcd0a4d6bd101c9c2d3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872527,
+            "region_id":85688563,
+            "venue_id":203052161
+        }
+    ],
+    "wof:id":203052161,
+    "wof:lastmodified":1449025766,
+    "wof:name":"Novak and Sons Inc",
+    "wof:parent_id":85872527,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [-95.966473,41.251939,-95.966473,41.251939],
+  "geometry": {"coordinates":[-95.966473,41.251939],"type":"Point"}
+}

@@ -1,0 +1,60 @@
+{
+  "id": 202989625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.162162,41.000817,-96.162162,41.000817",
+    "geom:latitude":41.000817,
+    "geom:longitude":-96.162162,
+    "iso:country":"US",
+    "sg:address":"217 Main St",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Library",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 234 6265",
+    "sg:postcode":"68037",
+    "sg:province":"NE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974337,
+        102082791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7drb3b1LPQN3elH6yuOEeK_41.000817_-96.162162@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"29357d32fd7f9e4ce0d12aaf9fa1f9d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082791,
+            "locality_id":85974337,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":202989625
+        }
+    ],
+    "wof:id":202989625,
+    "wof:lastmodified":1449061959,
+    "wof:name":"Louisville Public Library",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-96.162162,41.000817,-96.162162,41.000817],
+  "geometry": {"coordinates":[-96.162162,41.000817],"type":"Point"}
+}

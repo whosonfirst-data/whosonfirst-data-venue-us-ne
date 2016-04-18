@@ -1,0 +1,66 @@
+{
+  "id": 203023159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.930901,41.256401,-95.930901,41.256401",
+    "geom:latitude":41.256401,
+    "geom:longitude":-95.930901,
+    "iso:country":"US",
+    "sg:address":"1101 Harney St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 614 9333",
+    "sg:postcode":"68102",
+    "sg:province":"NE",
+    "sg:tags":[
+        "barbeque"
+    ],
+    "sg:website":"www.famousdaves.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6TYyWeEGgTedG90Kp6K71E_41.256401_-95.930901@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"dfb5cc2dbea0661f6b14c35aed945d43",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203023159
+        }
+    ],
+    "wof:id":203023159,
+    "wof:lastmodified":1449026683,
+    "wof:name":"Famous Dave's",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "barbeque"
+    ]
+},
+  "bbox": [-95.930901,41.256401,-95.930901,41.256401],
+  "geometry": {"coordinates":[-95.930901,41.256401],"type":"Point"}
+}

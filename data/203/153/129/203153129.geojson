@@ -1,0 +1,71 @@
+{
+  "id": 203153129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.008466,41.284987,-96.008466,41.284987",
+    "geom:latitude":41.284987,
+    "geom:longitude":-96.008466,
+    "iso:country":"US",
+    "sg:address":"6206 Maple St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 934 9633",
+    "sg:postcode":"68197",
+    "sg:province":"NE",
+    "sg:tags":[
+        "beer",
+        "spirit",
+        "wine"
+    ],
+    "sg:website":"www.jakescigarsandspirits.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0vXSlTjy5M8nUUQtxWrXQN_41.284987_-96.008466@1303262943"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1bcd834073fe35d94b06366a4b67d5c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872535,
+            "region_id":85688563,
+            "venue_id":203153129
+        }
+    ],
+    "wof:id":203153129,
+    "wof:lastmodified":1449026287,
+    "wof:name":"Jake's Cigars and Spirits",
+    "wof:parent_id":85872535,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beer",
+        "spirit",
+        "wine"
+    ]
+},
+  "bbox": [-96.008466,41.284987,-96.008466,41.284987],
+  "geometry": {"coordinates":[-96.008466,41.284987],"type":"Point"}
+}

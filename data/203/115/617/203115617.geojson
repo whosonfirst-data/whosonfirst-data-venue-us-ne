@@ -1,0 +1,81 @@
+{
+  "id": 203115617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.040552,41.21977,-96.040552,41.21977",
+    "geom:latitude":41.21977,
+    "geom:longitude":-96.040552,
+    "iso:country":"US",
+    "sg:address":"8222 F St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 965 8751",
+    "sg:postcode":"68127",
+    "sg:province":"NE",
+    "sg:tags":[
+        "apartment",
+        "vacancy",
+        "management",
+        "listing",
+        "rental",
+        "finder"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872511
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7CYAvquaD9AzbfsxI8ouqb_41.219770_-96.040552@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f4204b19843d73d454e86175601d0c30",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872511,
+            "region_id":85688563,
+            "venue_id":203115617
+        }
+    ],
+    "wof:id":203115617,
+    "wof:lastmodified":1449024926,
+    "wof:name":"Greater Omaha/Lincoln Apt",
+    "wof:parent_id":85872511,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment",
+        "vacancy",
+        "management",
+        "listing",
+        "rental",
+        "finder"
+    ]
+},
+  "bbox": [-96.040552,41.21977,-96.040552,41.21977],
+  "geometry": {"coordinates":[-96.040552,41.21977],"type":"Point"}
+}

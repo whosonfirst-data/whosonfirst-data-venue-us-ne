@@ -1,0 +1,64 @@
+{
+  "id": 203148915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.980904,41.362801,-95.980904,41.362801",
+    "geom:latitude":41.362801,
+    "geom:longitude":-95.980904,
+    "iso:country":"US",
+    "sg:address":"11460 Calhoun Rd",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Pet Boarding",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 453 2400",
+    "sg:postcode":"68152",
+    "sg:province":"NE",
+    "sg:tags":[
+        "boarding/pet",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633793,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4cM44a6oHDQNggahtRpnrq_41.362801_-95.980904@1303262943"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d3001b67d8988d510f8b07285e5edb60",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203148915
+        }
+    ],
+    "wof:id":203148915,
+    "wof:lastmodified":1449026550,
+    "wof:name":"Holiday Kennels",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "boarding/pet",
+        "sitting"
+    ]
+},
+  "bbox": [-95.980904,41.362801,-95.980904,41.362801],
+  "geometry": {"coordinates":[-95.980904,41.362801],"type":"Point"}
+}

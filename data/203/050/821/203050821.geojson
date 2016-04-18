@@ -1,0 +1,66 @@
+{
+  "id": 203050821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.971199,41.2407,-95.971199,41.2407",
+    "geom:latitude":41.2407,
+    "geom:longitude":-95.971199,
+    "iso:country":"US",
+    "sg:address":"1938 S 38th Ave",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 934 4091",
+    "sg:postcode":"68105",
+    "sg:province":"NE",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6SPmOrdA3oM3RQdWUFVXeX_41.240700_-95.971199@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1d3949f34ae76acc3f04503c6a11bcd4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872527,
+            "region_id":85688563,
+            "venue_id":203050821
+        }
+    ],
+    "wof:id":203050821,
+    "wof:lastmodified":1449025990,
+    "wof:name":"Williamsburg Apartments",
+    "wof:parent_id":85872527,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [-95.971199,41.2407,-95.971199,41.2407],
+  "geometry": {"coordinates":[-95.971199,41.2407],"type":"Point"}
+}

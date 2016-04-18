@@ -1,0 +1,73 @@
+{
+  "id": 202996723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.930571,41.255753,-95.930571,41.255753",
+    "geom:latitude":41.255753,
+    "geom:longitude":-95.930571,
+    "iso:country":"US",
+    "sg:address":"422 S. 11th Street",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 342 2550",
+    "sg:postcode":"68102",
+    "sg:province":"NE",
+    "sg:tags":[
+        "new",
+        "american"
+    ],
+    "sg:website":"www.mspubomaha.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_02aep0Gkb0nsEkMtkCwA3Q_41.255753_-95.930571@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8f45c3504b0ca58f44de383f637bd964",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":202996723
+        }
+    ],
+    "wof:id":202996723,
+    "wof:lastmodified":1449060800,
+    "wof:name":"M's Pub",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "new",
+        "american"
+    ]
+},
+  "bbox": [-95.930571,41.255753,-95.930571,41.255753],
+  "geometry": {"coordinates":[-95.930571,41.255753],"type":"Point"}
+}

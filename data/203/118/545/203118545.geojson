@@ -1,0 +1,75 @@
+{
+  "id": 203118545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.187031,41.235546,-96.187031,41.235546",
+    "geom:latitude":41.235546,
+    "geom:longitude":-96.187031,
+    "iso:country":"US",
+    "sg:address":"17370 Lakeside Hills Plz",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 333 4673",
+    "sg:postcode":"68130",
+    "sg:province":"NE",
+    "sg:tags":[
+        "saving",
+        "loan",
+        "commercial"
+    ],
+    "sg:website":"http://usbank.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ys44UVjd5wYsLK5iZNXY3_41.235546_-96.187031@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d01d5174c8717e53d09e3f6b2829059f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203118545
+        }
+    ],
+    "wof:id":203118545,
+    "wof:lastmodified":1449026477,
+    "wof:name":"Us Bank",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "saving",
+        "loan",
+        "commercial"
+    ]
+},
+  "bbox": [-96.187031,41.235546,-96.187031,41.235546],
+  "geometry": {"coordinates":[-96.187031,41.235546],"type":"Point"}
+}

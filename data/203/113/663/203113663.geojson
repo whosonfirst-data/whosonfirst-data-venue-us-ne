@@ -1,0 +1,74 @@
+{
+  "id": 203113663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.076782,41.219409,-96.076782,41.219409",
+    "geom:latitude":41.219409,
+    "geom:longitude":-96.076782,
+    "iso:country":"US",
+    "sg:address":"10404 F Plz",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Meat",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Meat & Fish",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 339 1911",
+    "sg:postcode":"68127",
+    "sg:province":"NE",
+    "sg:tags":[
+        "packer",
+        "processing"
+    ],
+    "sg:website":"http://www.qpii.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872511
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3iDI5jb2L1MuLMJqiNI7tZ_41.219409_-96.076782@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"48a042ff87c2473dc8881aff04154835",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872511,
+            "region_id":85688563,
+            "venue_id":203113663
+        }
+    ],
+    "wof:id":203113663,
+    "wof:lastmodified":1449026703,
+    "wof:name":"Quality Pork Intl Inc",
+    "wof:parent_id":85872511,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "packer",
+        "processing"
+    ]
+},
+  "bbox": [-96.076782,41.219409,-96.076782,41.219409],
+  "geometry": {"coordinates":[-96.076782,41.219409],"type":"Point"}
+}

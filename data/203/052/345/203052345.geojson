@@ -1,0 +1,66 @@
+{
+  "id": 203052345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.976297,41.245937,-95.976297,41.245937",
+    "geom:latitude":41.245937,
+    "geom:longitude":-95.976297,
+    "iso:country":"US",
+    "sg:address":"4241 William St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Locksmith",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 881 3649",
+    "sg:postcode":"68105",
+    "sg:province":"NE",
+    "sg:tags":[
+        "key"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_44IGwKmtuEJCoEXiq3lj81_41.245937_-95.976297@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0ea1bd647d02e67fd011e2d1022aebb1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872523,
+            "region_id":85688563,
+            "venue_id":203052345
+        }
+    ],
+    "wof:id":203052345,
+    "wof:lastmodified":1449025768,
+    "wof:name":"25 Locksmith",
+    "wof:parent_id":85872523,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "key"
+    ]
+},
+  "bbox": [-95.976297,41.245937,-95.976297,41.245937],
+  "geometry": {"coordinates":[-95.976297,41.245937],"type":"Point"}
+}

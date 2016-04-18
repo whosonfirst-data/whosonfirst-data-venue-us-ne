@@ -1,0 +1,86 @@
+{
+  "id": 203133719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.985689,41.272285,-95.985689,41.272285",
+    "geom:latitude":41.272285,
+    "geom:longitude":-95.985689,
+    "iso:country":"US",
+    "sg:address":"1415 N Saddle Creek Rd",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Building Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 690 5206",
+    "sg:postcode":"68132",
+    "sg:province":"NE",
+    "sg:tags":[
+        "terrazzo",
+        "solid",
+        "top",
+        "counter",
+        "surface",
+        "marble"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85867055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6704UioABRomaVQCQ3eQwG_41.272285_-95.985689@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8b33e1f915ace5b8e216f78e3b688039",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85867055,
+            "region_id":85688563,
+            "venue_id":203133719
+        }
+    ],
+    "wof:id":203133719,
+    "wof:lastmodified":1449026512,
+    "wof:name":"Granite Works, Inc.",
+    "wof:parent_id":85867055,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "terrazzo",
+        "solid",
+        "top",
+        "counter",
+        "surface",
+        "marble"
+    ]
+},
+  "bbox": [-95.985689,41.272285,-95.985689,41.272285],
+  "geometry": {"coordinates":[-95.985689,41.272285],"type":"Point"}
+}

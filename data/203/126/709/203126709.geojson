@@ -1,0 +1,61 @@
+{
+  "id": 203126709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.976411,41.257978,-95.976411,41.257978",
+    "geom:latitude":41.257978,
+    "geom:longitude":-95.976411,
+    "iso:country":"US",
+    "sg:address":"4242 Farnam St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 552 2650",
+    "sg:postcode":"68131",
+    "sg:province":"NE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7YVEF0FYZQgyNCfNqYDsPM_41.257978_-95.976411@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"98e3fa91c07759fd36f37e9decef3434",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872523,
+            "region_id":85688563,
+            "venue_id":203126709
+        }
+    ],
+    "wof:id":203126709,
+    "wof:lastmodified":1449025617,
+    "wof:name":"Goodman Scott MD",
+    "wof:parent_id":85872523,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-95.976411,41.257978,-95.976411,41.257978],
+  "geometry": {"coordinates":[-95.976411,41.257978],"type":"Point"}
+}

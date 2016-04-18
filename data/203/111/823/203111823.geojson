@@ -1,0 +1,74 @@
+{
+  "id": 203111823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.07312,41.24814,-96.07312,41.24814",
+    "geom:latitude":41.24814,
+    "geom:longitude":-96.07312,
+    "iso:country":"US",
+    "sg:address":"1125 S 103rd St Ste 200",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Radio Station",
+            "type":"Services"
+        },
+        {
+            "category":"Communications",
+            "subcategory":"Television Station",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 330 2520",
+    "sg:postcode":"68124",
+    "sg:province":"NE",
+    "sg:tags":[
+        "broadcast",
+        "representative"
+    ],
+    "sg:website":"http://www.kqky.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4viSRU9N4Mswza6kf7Y0S5_41.248140_-96.073120@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"af327cd61e824586df5fd116dddd20cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872533,
+            "region_id":85688563,
+            "venue_id":203111823
+        }
+    ],
+    "wof:id":203111823,
+    "wof:lastmodified":1449026907,
+    "wof:name":"Gold Circle Entertainment",
+    "wof:parent_id":85872533,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "broadcast",
+        "representative"
+    ]
+},
+  "bbox": [-96.07312,41.24814,-96.07312,41.24814],
+  "geometry": {"coordinates":[-96.07312,41.24814],"type":"Point"}
+}

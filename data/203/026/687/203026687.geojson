@@ -1,0 +1,71 @@
+{
+  "id": 203026687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.934447,41.266118,-95.934447,41.266118",
+    "geom:latitude":41.266118,
+    "geom:longitude":-95.934447,
+    "iso:country":"US",
+    "sg:address":"729 N 14th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Music",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 345 7575",
+    "sg:postcode":"68102",
+    "sg:province":"NE",
+    "sg:tags":[
+        "venue"
+    ],
+    "sg:website":"www.theslowdown.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_32cQFJzD1yqV6Kqn0TWRJl_41.266118_-95.934447@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2da2f3c2260aa34f904ab535808bfa24",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203026687
+        }
+    ],
+    "wof:id":203026687,
+    "wof:lastmodified":1449026063,
+    "wof:name":"Slowdown",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "venue"
+    ]
+},
+  "bbox": [-95.934447,41.266118,-95.934447,41.266118],
+  "geometry": {"coordinates":[-95.934447,41.266118],"type":"Point"}
+}

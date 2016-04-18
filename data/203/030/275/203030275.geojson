@@ -1,0 +1,65 @@
+{
+  "id": 203030275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.937202,41.257599,-95.937202,41.257599",
+    "geom:latitude":41.257599,
+    "geom:longitude":-95.937202,
+    "iso:country":"US",
+    "sg:address":"300 S 16th St Ofc",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 345 1600",
+    "sg:postcode":"68102",
+    "sg:province":"NE",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_434pXGsbfMcaksvmzWrmyb_41.257599_-95.937202@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"49e017998e15e69283fba25e96ae73b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203030275
+        }
+    ],
+    "wof:id":203030275,
+    "wof:lastmodified":1449025610,
+    "wof:name":"Farnam 1600 Apartments",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [-95.937202,41.257599,-95.937202,41.257599],
+  "geometry": {"coordinates":[-95.937202,41.257599],"type":"Point"}
+}

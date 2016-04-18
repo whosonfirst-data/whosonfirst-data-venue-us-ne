@@ -1,0 +1,73 @@
+{
+  "id": 203149097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.090996,41.26005,-96.090996,41.26005",
+    "geom:latitude":41.26005,
+    "geom:longitude":-96.090996,
+    "iso:country":"US",
+    "sg:address":"258 N 114th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Dentist",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 334 9239",
+    "sg:postcode":"68154",
+    "sg:province":"NE",
+    "sg:tags":[
+        "dental",
+        "dentists-cosmetic",
+        "clinic",
+        "dentistry"
+    ],
+    "sg:website":"http://www.paulkrausedental.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3GBrqo9A6I0fRKMetQhx80_41.260050_-96.090996@1303262943"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e72a192069b23613fe189da948951a68",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872503,
+            "region_id":85688563,
+            "venue_id":203149097
+        }
+    ],
+    "wof:id":203149097,
+    "wof:lastmodified":1449024942,
+    "wof:name":"Paul Krause Dental - Dr. Paul Krause",
+    "wof:parent_id":85872503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dental",
+        "dentists-cosmetic",
+        "clinic",
+        "dentistry"
+    ]
+},
+  "bbox": [-96.090996,41.26005,-96.090996,41.26005],
+  "geometry": {"coordinates":[-96.090996,41.26005],"type":"Point"}
+}

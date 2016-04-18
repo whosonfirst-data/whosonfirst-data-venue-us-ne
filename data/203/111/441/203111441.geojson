@@ -1,0 +1,68 @@
+{
+  "id": 203111441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.04845,41.244203,-96.04845,41.244203",
+    "geom:latitude":41.244203,
+    "geom:longitude":-96.04845,
+    "iso:country":"US",
+    "sg:address":"8731 Woolworth Ave",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 932 3387",
+    "sg:postcode":"68124",
+    "sg:province":"NE",
+    "sg:tags":[
+        "contractor",
+        "mechanical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Uro1R7L0a2buoL7cyxmZr_41.244203_-96.048450@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6b6d8c413730f351a3412c09776509e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872533,
+            "region_id":85688563,
+            "venue_id":203111441
+        }
+    ],
+    "wof:id":203111441,
+    "wof:lastmodified":1449026903,
+    "wof:name":"Ryan Mechanical",
+    "wof:parent_id":85872533,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor",
+        "mechanical"
+    ]
+},
+  "bbox": [-96.04845,41.244203,-96.04845,41.244203],
+  "geometry": {"coordinates":[-96.04845,41.244203],"type":"Point"}
+}

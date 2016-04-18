@@ -1,0 +1,77 @@
+{
+  "id": 203167555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.650017,40.800468,-96.650017,40.800468",
+    "geom:latitude":40.800468,
+    "geom:longitude":-96.650017,
+    "iso:country":"US",
+    "sg:address":"1265 S Cotner Blvd Ste 13",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pets & Pet Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Museum",
+            "subcategory":"Aquarium",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 489 1277",
+    "sg:postcode":"68510",
+    "sg:province":"NE",
+    "sg:tags":[
+        "furnishing",
+        "dog",
+        "store",
+        "cat"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2sewedHMzE1nlU1spR8WiQ_40.800468_-96.650017@1303262943"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9a4ad713bf5d15f95de2af33da270d1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878683,
+            "region_id":85688563,
+            "venue_id":203167555
+        }
+    ],
+    "wof:id":203167555,
+    "wof:lastmodified":1449025921,
+    "wof:name":"Fish World",
+    "wof:parent_id":85878683,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "furnishing",
+        "dog",
+        "store",
+        "cat"
+    ]
+},
+  "bbox": [-96.650017,40.800468,-96.650017,40.800468],
+  "geometry": {"coordinates":[-96.650017,40.800468],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 203050721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.970645,41.25359,-95.970645,41.25359",
+    "geom:latitude":41.25359,
+    "geom:longitude":-95.970645,
+    "iso:country":"US",
+    "sg:address":"704 S 38th Ave",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Optician",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 559 2463",
+    "sg:postcode":"68105",
+    "sg:province":"NE",
+    "sg:tags":[
+        "eyewear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0wc9KiyVYzdQjKbP9c4QhK_41.253590_-95.970645@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0730c592c5ae3b9510b88685ff7fef1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872523,
+            "region_id":85688563,
+            "venue_id":203050721
+        }
+    ],
+    "wof:id":203050721,
+    "wof:lastmodified":1449025990,
+    "wof:name":"Shepherd John D MD",
+    "wof:parent_id":85872523,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eyewear"
+    ]
+},
+  "bbox": [-95.970645,41.25359,-95.970645,41.25359],
+  "geometry": {"coordinates":[-95.970645,41.25359],"type":"Point"}
+}

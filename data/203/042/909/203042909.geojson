@@ -1,0 +1,67 @@
+{
+  "id": 203042909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.937258,41.260817,-95.937258,41.260817",
+    "geom:latitude":41.260817,
+    "geom:longitude":-95.937258,
+    "iso:country":"US",
+    "sg:address":"1616 Capitol Ave",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 342 4720",
+    "sg:postcode":"68102",
+    "sg:province":"NE",
+    "sg:tags":[
+        "service/non-profit",
+        "community"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0zC6JbzV2Up2LzOGc8QtJD_41.260817_-95.937258@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a2996c0599e37ed449fa5bae5988c328",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203042909
+        }
+    ],
+    "wof:id":203042909,
+    "wof:lastmodified":1449026384,
+    "wof:name":"Goodwilll Industries",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "service/non-profit",
+        "community"
+    ]
+},
+  "bbox": [-95.937258,41.260817,-95.937258,41.260817],
+  "geometry": {"coordinates":[-95.937258,41.260817],"type":"Point"}
+}

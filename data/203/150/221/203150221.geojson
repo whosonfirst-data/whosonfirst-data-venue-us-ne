@@ -1,0 +1,86 @@
+{
+  "id": 203150221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.091274,41.260273,-96.091274,41.260273",
+    "geom:latitude":41.260273,
+    "geom:longitude":-96.091274,
+    "iso:country":"US",
+    "sg:address":"11421 Davenport St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 991 0772",
+    "sg:postcode":"68154",
+    "sg:province":"NE",
+    "sg:tags":[
+        "family",
+        "professional",
+        "counselors-licensed",
+        "individual",
+        "marriage",
+        "child",
+        "counseling",
+        "counselor"
+    ],
+    "sg:website":"http://www.mwccs.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_27s7Db3W3rAH9f2l07MM5M_41.260273_-96.091274@1303262943"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"882b76e2ccbc28e81d7ad7d72f21722d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872503,
+            "region_id":85688563,
+            "venue_id":203150221
+        }
+    ],
+    "wof:id":203150221,
+    "wof:lastmodified":1449024966,
+    "wof:name":"Midwest Courts Counseling",
+    "wof:parent_id":85872503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "family",
+        "professional",
+        "counselors-licensed",
+        "individual",
+        "marriage",
+        "child",
+        "counseling",
+        "counselor"
+    ]
+},
+  "bbox": [-96.091274,41.260273,-96.091274,41.260273],
+  "geometry": {"coordinates":[-96.091274,41.260273],"type":"Point"}
+}

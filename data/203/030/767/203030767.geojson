@@ -1,0 +1,73 @@
+{
+  "id": 203030767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.947029,41.270013,-95.947029,41.270013",
+    "geom:latitude":41.270013,
+    "geom:longitude":-95.947029,
+    "iso:country":"US",
+    "sg:address":"1104 N 24th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Place Of Worship",
+            "subcategory":"Church",
+            "type":"Public Place"
+        },
+        {
+            "category":"Place Of Worship",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 502 5887",
+    "sg:postcode":"68102",
+    "sg:province":"NE",
+    "sg:tags":[
+        "churches-catholic-traditional",
+        "churches-catholic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6XtB7bF2zxFOKiogd2yIfz_41.270013_-95.947029@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a11e14757346cccce90abb4acef8a640",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872525,
+            "region_id":85688563,
+            "venue_id":203030767
+        }
+    ],
+    "wof:id":203030767,
+    "wof:lastmodified":1449025610,
+    "wof:name":"Omaha Catholic Worker Inc",
+    "wof:parent_id":85872525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "churches-catholic-traditional",
+        "churches-catholic"
+    ]
+},
+  "bbox": [-95.947029,41.270013,-95.947029,41.270013],
+  "geometry": {"coordinates":[-95.947029,41.270013],"type":"Point"}
+}

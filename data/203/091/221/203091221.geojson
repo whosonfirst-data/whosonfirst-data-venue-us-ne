@@ -1,0 +1,79 @@
+{
+  "id": 203091221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.956619,41.273,-95.956619,41.273",
+    "geom:latitude":41.273,
+    "geom:longitude":-95.956619,
+    "iso:country":"US",
+    "sg:address":"1517 N 30th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Place Of Worship",
+            "subcategory":"Church",
+            "type":"Public Place"
+        },
+        {
+            "category":"Place Of Worship",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 934 7744",
+    "sg:postcode":"68111",
+    "sg:province":"NE",
+    "sg:tags":[
+        "churches-interdenominational",
+        "churches-pentecostal-independent",
+        "churches-various",
+        "churches-pentecostal",
+        "denomination"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3YfUudrpzEEdi0oFs1Ufs4_41.273000_-95.956619@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1cdf0a443319ce88516396039c064d96",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872525,
+            "region_id":85688563,
+            "venue_id":203091221
+        }
+    ],
+    "wof:id":203091221,
+    "wof:lastmodified":1449025125,
+    "wof:name":"Iglesia De Dios Pentecostal I M",
+    "wof:parent_id":85872525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "churches-interdenominational",
+        "churches-pentecostal-independent",
+        "churches-various",
+        "churches-pentecostal",
+        "denomination"
+    ]
+},
+  "bbox": [-95.956619,41.273,-95.956619,41.273],
+  "geometry": {"coordinates":[-95.956619,41.273],"type":"Point"}
+}

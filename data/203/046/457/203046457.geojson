@@ -1,0 +1,66 @@
+{
+  "id": 203046457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.009456,41.299333,-96.009456,41.299333",
+    "geom:latitude":41.299333,
+    "geom:longitude":-96.009456,
+    "iso:country":"US",
+    "sg:address":"6303 Ames Ave",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Locksmith",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 881 3070",
+    "sg:postcode":"68104",
+    "sg:province":"NE",
+    "sg:tags":[
+        "key"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85805755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4wq1aI3HVKD0IHxA3qxhp8_41.299333_-96.009456@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"387ebe2a77d61c69f4e784544afcaa8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85805755,
+            "region_id":85688563,
+            "venue_id":203046457
+        }
+    ],
+    "wof:id":203046457,
+    "wof:lastmodified":1449025998,
+    "wof:name":"Locksmith 24 Hours",
+    "wof:parent_id":85805755,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "key"
+    ]
+},
+  "bbox": [-96.009456,41.299333,-96.009456,41.299333],
+  "geometry": {"coordinates":[-96.009456,41.299333],"type":"Point"}
+}

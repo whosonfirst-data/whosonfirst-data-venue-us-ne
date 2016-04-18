@@ -1,0 +1,66 @@
+{
+  "id": 203090183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.964842,41.284615,-95.964842,41.284615",
+    "geom:latitude":41.284615,
+    "geom:longitude":-95.964842,
+    "iso:country":"US",
+    "sg:address":"3489 Maple St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Locksmith",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 881 3891",
+    "sg:postcode":"68111",
+    "sg:province":"NE",
+    "sg:tags":[
+        "key"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1OlcqQwPJauURFI859gPO9_41.284615_-95.964842@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"87d73dd4b77f61c3012e622bf72d7c0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872525,
+            "region_id":85688563,
+            "venue_id":203090183
+        }
+    ],
+    "wof:id":203090183,
+    "wof:lastmodified":1449026446,
+    "wof:name":"Aaland 24 Hour Locksmith",
+    "wof:parent_id":85872525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "key"
+    ]
+},
+  "bbox": [-95.964842,41.284615,-95.964842,41.284615],
+  "geometry": {"coordinates":[-95.964842,41.284615],"type":"Point"}
+}

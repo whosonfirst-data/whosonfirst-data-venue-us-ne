@@ -1,0 +1,84 @@
+{
+  "id": 203116493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.06216,41.210228,-96.06216,41.210228",
+    "geom:latitude":41.210228,
+    "geom:longitude":-96.06216,
+    "iso:country":"US",
+    "sg:address":"4868 S 96TH ST",
+    "sg:city":"OMAHA",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Chiropractor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 331 0392",
+    "sg:postcode":"68127",
+    "sg:province":"NE",
+    "sg:tags":[
+        "medicine",
+        "alternative",
+        "management",
+        "pain",
+        "chiropractic"
+    ],
+    "sg:website":"http://www.godfreychiro.net/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0HBJJAQUFagl8txkuCJrAL_41.210228_-96.062160@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4eb33d5378bea6c0d322e4a4cc2de4e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203116493
+        }
+    ],
+    "wof:id":203116493,
+    "wof:lastmodified":1449025210,
+    "wof:name":"Godfrey Chiropractic",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicine",
+        "alternative",
+        "management",
+        "pain",
+        "chiropractic"
+    ]
+},
+  "bbox": [-96.06216,41.210228,-96.06216,41.210228],
+  "geometry": {"coordinates":[-96.06216,41.210228],"type":"Point"}
+}

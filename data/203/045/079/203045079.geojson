@@ -1,0 +1,61 @@
+{
+  "id": 203045079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.004496,41.297512,-96.004496,41.297512",
+    "geom:latitude":41.297512,
+    "geom:longitude":-96.004496,
+    "iso:country":"US",
+    "sg:address":"4219 N 60th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 451 7275",
+    "sg:postcode":"68104",
+    "sg:province":"NE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85805755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1DW9vouLUz7c33BgiHz9Lp_41.297512_-96.004496@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"53507aa2f64d7fdd96b3f93303bce152",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85805755,
+            "region_id":85688563,
+            "venue_id":203045079
+        }
+    ],
+    "wof:id":203045079,
+    "wof:lastmodified":1449026649,
+    "wof:name":"All American Pumps",
+    "wof:parent_id":85805755,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-96.004496,41.297512,-96.004496,41.297512],
+  "geometry": {"coordinates":[-96.004496,41.297512],"type":"Point"}
+}

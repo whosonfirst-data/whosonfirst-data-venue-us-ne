@@ -1,0 +1,84 @@
+{
+  "id": 203117923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.197275,41.232783,-96.197275,41.232783",
+    "geom:latitude":41.232783,
+    "geom:longitude":-96.197275,
+    "iso:country":"US",
+    "sg:address":"18102 Wright St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 918 2505",
+    "sg:postcode":"68130",
+    "sg:province":"NE",
+    "sg:tags":[
+        "saving",
+        "commercial"
+    ],
+    "sg:website":"http://www.bankofthewest.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789
+    ],
+    "wof:brand_id":420575383,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6IvNDByUMun7OBxXQWe0QB_41.232783_-96.197275@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"662d678f7474a82b03ddfef41486915c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203117923
+        }
+    ],
+    "wof:id":203117923,
+    "wof:lastmodified":1457209561,
+    "wof:name":"Bank Of The West",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "saving",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -96.197275,
+    41.232783,
+    -96.197275,
+    41.232783
+],
+  "geometry": {"coordinates":[-96.197275,41.232783],"type":"Point"}
+}

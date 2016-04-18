@@ -1,0 +1,72 @@
+{
+  "id": 203110035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.191196,41.264731,-96.191196,41.264731",
+    "geom:latitude":41.264731,
+    "geom:longitude":-96.191196,
+    "iso:country":"US",
+    "sg:address":"17750 Burt St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 403 0479",
+    "sg:postcode":"68118",
+    "sg:province":"NE",
+    "sg:tags":[
+        "truck",
+        "leasing",
+        "car"
+    ],
+    "sg:website":"http://www.enterprise.com/car_rental/deeplinkmap.do?gpbr=621W&bid=004&cnty=US&arc=YPTRL01&cm_mmc=Yellowpages.com-_-IYP-_-Tradelisting-_-branch",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633793,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3fnylF9oSt4e0pHGD9QW3b_41.264731_-96.191196@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"267a5a934eb26aa419e94d1e58fe8cf3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203110035
+        }
+    ],
+    "wof:id":203110035,
+    "wof:lastmodified":1449025543,
+    "wof:name":"Enterprise Rent-A-Car",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck",
+        "leasing",
+        "car"
+    ]
+},
+  "bbox": [-96.191196,41.264731,-96.191196,41.264731],
+  "geometry": {"coordinates":[-96.191196,41.264731],"type":"Point"}
+}

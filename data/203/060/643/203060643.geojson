@@ -1,0 +1,68 @@
+{
+  "id": 203060643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.9925,41.255299,-95.9925,41.255299",
+    "geom:latitude":41.255299,
+    "geom:longitude":-95.9925,
+    "iso:country":"US",
+    "sg:address":"521 S 51st St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 502 1661",
+    "sg:postcode":"68106",
+    "sg:province":"NE",
+    "sg:tags":[
+        "home",
+        "inspector"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85867055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2v1ZuVdW1T893cFdmIvOuE_41.255299_-95.992500@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"072bebebeda4f9bf9afb7b54862cf615",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85867055,
+            "region_id":85688563,
+            "venue_id":203060643
+        }
+    ],
+    "wof:id":203060643,
+    "wof:lastmodified":1449026690,
+    "wof:name":"Corner Stone Home Inspections Services Llc",
+    "wof:parent_id":85867055,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "inspector"
+    ]
+},
+  "bbox": [-95.9925,41.255299,-95.9925,41.255299],
+  "geometry": {"coordinates":[-95.9925,41.255299],"type":"Point"}
+}

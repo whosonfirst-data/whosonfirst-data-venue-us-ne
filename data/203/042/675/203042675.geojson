@@ -1,0 +1,66 @@
+{
+  "id": 203042675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.93982,41.259647,-95.93982,41.259647",
+    "geom:latitude":41.259647,
+    "geom:longitude":-95.93982,
+    "iso:country":"US",
+    "sg:address":"111 S 18th Plz Ste B06",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 221 4781",
+    "sg:postcode":"68102",
+    "sg:province":"NE",
+    "sg:tags":[
+        "department"
+    ],
+    "sg:website":"http://www.jorgensenassociates.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5SBRsVfrjdjWNw2DNQ2C6n_41.259647_-95.939820@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e199375fc12839e9e202bd9d5774dd42",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203042675
+        }
+    ],
+    "wof:id":203042675,
+    "wof:lastmodified":1449026383,
+    "wof:name":"District Of Nebraska",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [-95.93982,41.259647,-95.93982,41.259647],
+  "geometry": {"coordinates":[-95.93982,41.259647],"type":"Point"}
+}

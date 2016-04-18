@@ -1,0 +1,68 @@
+{
+  "id": 203158447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.9758,41.2551,-95.9758,41.2551",
+    "geom:latitude":41.2551,
+    "geom:longitude":-95.9758,
+    "iso:country":"US",
+    "sg:address":"981080 Nebraska Medical Ctr",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 559 8000",
+    "sg:postcode":"68198",
+    "sg:province":"NE",
+    "sg:tags":[
+        "podiatrist",
+        "orthopedist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2YIhThjFT33yTDoPTTVC2g_41.255100_-95.975800@1303262943"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b92b501bd1552753b6a96fbabffc239f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872523,
+            "region_id":85688563,
+            "venue_id":203158447
+        }
+    ],
+    "wof:id":203158447,
+    "wof:lastmodified":1449026243,
+    "wof:name":"Mormino Matthew MD",
+    "wof:parent_id":85872523,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "podiatrist",
+        "orthopedist"
+    ]
+},
+  "bbox": [-95.9758,41.2551,-95.9758,41.2551],
+  "geometry": {"coordinates":[-95.9758,41.2551],"type":"Point"}
+}

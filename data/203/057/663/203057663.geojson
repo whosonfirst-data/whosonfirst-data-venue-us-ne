@@ -1,0 +1,70 @@
+{
+  "id": 203057663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.014701,41.243784,-96.014701,41.243784",
+    "geom:latitude":41.243784,
+    "geom:longitude":-96.014701,
+    "iso:country":"US",
+    "sg:address":"2283 S 67th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Catalog Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 763 8455",
+    "sg:postcode":"68106",
+    "sg:province":"NE",
+    "sg:tags":[
+        "mail",
+        "order",
+        "online"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85867059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4CBgSQLXXv9oH17vMtEoFk_41.243784_-96.014701@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2aaef37d11ae728df9e63e9cb714db06",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85867059,
+            "region_id":85688563,
+            "venue_id":203057663
+        }
+    ],
+    "wof:id":203057663,
+    "wof:lastmodified":1449025861,
+    "wof:name":"Learning Headquarters",
+    "wof:parent_id":85867059,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mail",
+        "order",
+        "online"
+    ]
+},
+  "bbox": [-96.014701,41.243784,-96.014701,41.243784],
+  "geometry": {"coordinates":[-96.014701,41.243784],"type":"Point"}
+}

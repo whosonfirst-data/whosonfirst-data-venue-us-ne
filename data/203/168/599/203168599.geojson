@@ -1,0 +1,67 @@
+{
+  "id": 203168599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.598312,40.813381,-96.598312,40.813381",
+    "geom:latitude":40.813381,
+    "geom:longitude":-96.598312,
+    "iso:country":"US",
+    "sg:address":"8800 O St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"University",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 471 3333",
+    "sg:postcode":"68520",
+    "sg:province":"NE",
+    "sg:tags":[
+        "college"
+    ],
+    "sg:website":"http://www.southeast.edu",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1W35S1Bms5ZKN22S0vuqnP_40.813381_-96.598312@1303262943"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e8302efea5bba1ff46fd14d987d9b97a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878725,
+            "region_id":85688563,
+            "venue_id":203168599
+        }
+    ],
+    "wof:id":203168599,
+    "wof:lastmodified":1449025927,
+    "wof:name":"Southeast Community College",
+    "wof:parent_id":85878725,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "college"
+    ]
+},
+  "bbox": [-96.598312,40.813381,-96.598312,40.813381],
+  "geometry": {"coordinates":[-96.598312,40.813381],"type":"Point"}
+}

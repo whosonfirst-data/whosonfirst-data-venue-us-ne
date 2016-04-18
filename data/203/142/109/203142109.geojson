@@ -1,0 +1,83 @@
+{
+  "id": 203142109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.121221,41.172321,-96.121221,41.172321",
+    "geom:latitude":41.172321,
+    "geom:longitude":-96.121221,
+    "iso:country":"US",
+    "sg:address":"13239 Portal Dr Ste 101",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Buildings",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 553 8687",
+    "sg:postcode":"68138",
+    "sg:province":"NE",
+    "sg:tags":[
+        "industrial",
+        "builder",
+        "contractor",
+        "contractors-commercial",
+        "home",
+        "masonry",
+        "mason"
+    ],
+    "sg:website":"http://www.duffybros.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        102082789,
+        85834285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Q4YaFBfUsF4fsMWRjWkKm_41.172321_-96.121221@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"eab4f8cb171697b7096681a12ec9684c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":-1,
+            "neighbourhood_id":85834285,
+            "region_id":85688563,
+            "venue_id":203142109
+        }
+    ],
+    "wof:id":203142109,
+    "wof:lastmodified":1449026454,
+    "wof:name":"Duffy Brothers Construction Inc",
+    "wof:parent_id":85834285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industrial",
+        "builder",
+        "contractor",
+        "contractors-commercial",
+        "home",
+        "masonry",
+        "mason"
+    ]
+},
+  "bbox": [-96.121221,41.172321,-96.121221,41.172321],
+  "geometry": {"coordinates":[-96.121221,41.172321],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 203142487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.129422,41.188375,-96.129422,41.188375",
+    "geom:latitude":41.188375,
+    "geom:longitude":-96.129422,
+    "iso:country":"US",
+    "sg:address":"13802 Edna St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        },
+        {
+            "category":"Utilities",
+            "subcategory":"Recycling",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 208 6921",
+    "sg:postcode":"68138",
+    "sg:province":"NE",
+    "sg:tags":[
+        "rubbish",
+        "collection",
+        "garbage",
+        "removal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        102082789,
+        85834285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5M3iKzLgLPU4P0rCAyJhFI_41.188375_-96.129422@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ca01ef3110c8fd38f2078135015f96cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":-1,
+            "neighbourhood_id":85834285,
+            "region_id":85688563,
+            "venue_id":203142487
+        }
+    ],
+    "wof:id":203142487,
+    "wof:lastmodified":1449026453,
+    "wof:name":"Entremanure K9 Waste Removal",
+    "wof:parent_id":85834285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "rubbish",
+        "collection",
+        "garbage",
+        "removal"
+    ]
+},
+  "bbox": [-96.129422,41.188375,-96.129422,41.188375],
+  "geometry": {"coordinates":[-96.129422,41.188375],"type":"Point"}
+}

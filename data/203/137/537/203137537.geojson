@@ -1,0 +1,83 @@
+{
+  "id": 203137537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.042184,41.279942,-96.042184,41.279942",
+    "geom:latitude":41.279942,
+    "geom:longitude":-96.042184,
+    "iso:country":"US",
+    "sg:address":"2318 N 83rd St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Military Area",
+            "subcategory":"Armory",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 391 3300",
+    "sg:postcode":"68134",
+    "sg:province":"NE",
+    "sg:tags":[
+        "repair",
+        "fence-sales",
+        "fence",
+        "contractor"
+    ],
+    "sg:website":"http://www.diamondfencecompany.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0JAiiK9wyxPiQnr8VHs1Z4_41.279942_-96.042184@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3487bceb100f58ede0aecb08af319901",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872507,
+            "region_id":85688563,
+            "venue_id":203137537
+        }
+    ],
+    "wof:id":203137537,
+    "wof:lastmodified":1449026600,
+    "wof:name":"Diamond Fence Company",
+    "wof:parent_id":85872507,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "fence-sales",
+        "fence",
+        "contractor"
+    ]
+},
+  "bbox": [-96.042184,41.279942,-96.042184,41.279942],
+  "geometry": {"coordinates":[-96.042184,41.279942],"type":"Point"}
+}

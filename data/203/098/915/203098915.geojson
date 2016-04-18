@@ -1,0 +1,85 @@
+{
+  "id": 203098915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.033265,41.259496,-96.033265,41.259496",
+    "geom:latitude":41.259496,
+    "geom:longitude":-96.033265,
+    "iso:country":"US",
+    "sg:address":"110 S 77th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Chiropractor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 403 3025",
+    "sg:postcode":"68114",
+    "sg:province":"NE",
+    "sg:tags":[
+        "therapist",
+        "management",
+        "pain",
+        "physical",
+        "chiropractic"
+    ],
+    "sg:website":"http://www.alliedomaha.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6BWOyEXP7jbit73WJZAiru_41.259496_-96.033265@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"934bef92b4fb8e340ca37c72728c88e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872509,
+            "region_id":85688563,
+            "venue_id":203098915
+        }
+    ],
+    "wof:id":203098915,
+    "wof:lastmodified":1449026672,
+    "wof:name":"Allied Chiropractic Associates",
+    "wof:parent_id":85872509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "management",
+        "pain",
+        "physical",
+        "chiropractic"
+    ]
+},
+  "bbox": [-96.033265,41.259496,-96.033265,41.259496],
+  "geometry": {"coordinates":[-96.033265,41.259496],"type":"Point"}
+}

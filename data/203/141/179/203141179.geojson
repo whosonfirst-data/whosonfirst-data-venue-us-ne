@@ -1,0 +1,73 @@
+{
+  "id": 203141179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.136549,41.216803,-96.136549,41.216803",
+    "geom:latitude":41.216803,
+    "geom:longitude":-96.136549,
+    "iso:country":"US",
+    "sg:address":"14225 Dayton Cir # 11",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 331 4173",
+    "sg:postcode":"68137",
+    "sg:province":"NE",
+    "sg:tags":[
+        "industrial",
+        "electrician",
+        "contractors-commercial",
+        "electric"
+    ],
+    "sg:website":"http://www.starkselectric.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7jrLuOr3RS72RezFpwFkgw_41.216803_-96.136549@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7c5320f479046fa603ec16ba436710b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872531,
+            "region_id":85688563,
+            "venue_id":203141179
+        }
+    ],
+    "wof:id":203141179,
+    "wof:lastmodified":1449025591,
+    "wof:name":"Stark's Electric",
+    "wof:parent_id":85872531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industrial",
+        "electrician",
+        "contractors-commercial",
+        "electric"
+    ]
+},
+  "bbox": [-96.136549,41.216803,-96.136549,41.216803],
+  "geometry": {"coordinates":[-96.136549,41.216803],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 203147709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.014796,41.326802,-96.014796,41.326802",
+    "geom:latitude":41.326802,
+    "geom:longitude":-96.014796,
+    "iso:country":"US",
+    "sg:address":"6637 Country Club Rd",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 572 7212",
+    "sg:postcode":"68152",
+    "sg:province":"NE",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85813863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2NH0qU9VhY9NWLWw3aLl5v_41.326802_-96.014796@1303262943"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"41f15969edeec5140bde6a6004d3ba6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85813863,
+            "region_id":85688563,
+            "venue_id":203147709
+        }
+    ],
+    "wof:id":203147709,
+    "wof:lastmodified":1449026660,
+    "wof:name":"Lofton W C DVM",
+    "wof:parent_id":85813863,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [-96.014796,41.326802,-96.014796,41.326802],
+  "geometry": {"coordinates":[-96.014796,41.326802],"type":"Point"}
+}

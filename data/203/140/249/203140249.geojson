@@ -1,0 +1,85 @@
+{
+  "id": 203140249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.082084,41.205282,-96.082084,41.205282",
+    "geom:latitude":41.205282,
+    "geom:longitude":-96.082084,
+    "iso:country":"US",
+    "sg:address":"10841 Q St Ste 113",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Research",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Advertising",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 597 1044",
+    "sg:postcode":"68137",
+    "sg:province":"NE",
+    "sg:tags":[
+        "marketing",
+        "program",
+        "market",
+        "analysis",
+        "consultant"
+    ],
+    "sg:website":"http://www.promodata.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3z7trACdWJADgZmM6fG1UV_41.205282_-96.082084@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"416de7b2fe8fc46cc2ca7e9725651525",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872531,
+            "region_id":85688563,
+            "venue_id":203140249
+        }
+    ],
+    "wof:id":203140249,
+    "wof:lastmodified":1449025203,
+    "wof:name":"Add Activity Marketing Service",
+    "wof:parent_id":85872531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "marketing",
+        "program",
+        "market",
+        "analysis",
+        "consultant"
+    ]
+},
+  "bbox": [-96.082084,41.205282,-96.082084,41.205282],
+  "geometry": {"coordinates":[-96.082084,41.205282],"type":"Point"}
+}

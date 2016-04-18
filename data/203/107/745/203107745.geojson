@@ -1,0 +1,86 @@
+{
+  "id": 203107745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.988885,41.206051,-95.988885,41.206051",
+    "geom:latitude":41.206051,
+    "geom:longitude":-95.988885,
+    "iso:country":"US",
+    "sg:address":"5110 S 49th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"Retirement Home",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 731 2118",
+    "sg:postcode":"68117",
+    "sg:province":"NE",
+    "sg:tags":[
+        "living",
+        "residential",
+        "assisted",
+        "convalescent",
+        "homes-institutional",
+        "aged"
+    ],
+    "sg:website":"http://www.southviewheightsomaha.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2yy4YIzJnqknfJ8B3zIWCH_41.206051_-95.988885@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4f2490abee7a954fde665e0e19a13d84",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203107745
+        }
+    ],
+    "wof:id":203107745,
+    "wof:lastmodified":1449024948,
+    "wof:name":"Southview Heights",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "living",
+        "residential",
+        "assisted",
+        "convalescent",
+        "homes-institutional",
+        "aged"
+    ]
+},
+  "bbox": [-95.988885,41.206051,-95.988885,41.206051],
+  "geometry": {"coordinates":[-95.988885,41.206051],"type":"Point"}
+}

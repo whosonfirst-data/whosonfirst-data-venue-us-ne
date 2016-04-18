@@ -1,0 +1,61 @@
+{
+  "id": 203107053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.013984,41.212163,-96.013984,41.212163",
+    "geom:latitude":41.212163,
+    "geom:longitude":-96.013984,
+    "iso:country":"US",
+    "sg:address":"6603 L St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 800 889 1893",
+    "sg:postcode":"68117",
+    "sg:province":"NE",
+    "sg:website":"www.woodhouse.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2rQzcBLV9ErRM0AUKzeCVc_41.212163_-96.013984@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"bec5d33e770918b32a0e01c3df25d704",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203107053
+        }
+    ],
+    "wof:id":203107053,
+    "wof:lastmodified":1449024945,
+    "wof:name":"Woodhouse Auto Family",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-96.013984,41.212163,-96.013984,41.212163],
+  "geometry": {"coordinates":[-96.013984,41.212163],"type":"Point"}
+}

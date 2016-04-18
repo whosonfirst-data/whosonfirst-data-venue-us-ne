@@ -1,0 +1,87 @@
+{
+  "id": 203141189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.129201,41.203799,-96.129201,41.203799",
+    "geom:latitude":41.203799,
+    "geom:longitude":-96.129201,
+    "iso:country":"US",
+    "sg:address":"5311 S 138th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 896 0555",
+    "sg:postcode":"68137",
+    "sg:province":"NE",
+    "sg:tags":[
+        "delivery",
+        "take",
+        "pizza"
+    ],
+    "sg:website":"http://www.godfatherspizza.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872531
+    ],
+    "wof:brand_id":420575225,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6rqq738l75ao3ytBSSKOsB_41.203799_-96.129201@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d3b9af42fcb8bb4618bd611afd574357",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872531,
+            "region_id":85688563,
+            "venue_id":203141189
+        }
+    ],
+    "wof:id":203141189,
+    "wof:lastmodified":1457209470,
+    "wof:name":"Godfather's Pizza",
+    "wof:parent_id":85872531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delivery",
+        "take",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -96.129201,
+    41.203799,
+    -96.129201,
+    41.203799
+],
+  "geometry": {"coordinates":[-96.12920099999999,41.203799],"type":"Point"}
+}

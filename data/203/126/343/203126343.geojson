@@ -1,0 +1,70 @@
+{
+  "id": 203126343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.981959,41.257674,-95.981959,41.257674",
+    "geom:latitude":41.257674,
+    "geom:longitude":-95.981959,
+    "iso:country":"US",
+    "sg:address":"4469 Farnam St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 554 8460",
+    "sg:postcode":"68131",
+    "sg:province":"NE",
+    "sg:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0CeTmzcKvhuOTSByIqZd8I_41.257674_-95.981959@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d98d7e4d474c1854eb87e25c799daed3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872523,
+            "region_id":85688563,
+            "venue_id":203126343
+        }
+    ],
+    "wof:id":203126343,
+    "wof:lastmodified":1449025618,
+    "wof:name":"Omaha Public Schools",
+    "wof:parent_id":85872523,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ]
+},
+  "bbox": [-95.981959,41.257674,-95.981959,41.257674],
+  "geometry": {"coordinates":[-95.981959,41.257674],"type":"Point"}
+}

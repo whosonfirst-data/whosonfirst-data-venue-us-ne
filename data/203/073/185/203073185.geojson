@@ -1,0 +1,70 @@
+{
+  "id": 203073185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.929553,41.242837,-95.929553,41.242837",
+    "geom:latitude":41.242837,
+    "geom:longitude":-95.929553,
+    "iso:country":"US",
+    "sg:address":"1702 S 10th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 342 4843",
+    "sg:postcode":"68108",
+    "sg:province":"NE",
+    "sg:tags":[
+        "air",
+        "heating",
+        "conditioning/hvac"
+    ],
+    "sg:website":"www.aaaheat.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4YRyCrrEJv0okrJl2jmf3a_41.242837_-95.929553@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"28ea75b85a16ac8d8dc56c0eb5070e9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203073185
+        }
+    ],
+    "wof:id":203073185,
+    "wof:lastmodified":1449025200,
+    "wof:name":"AA American Heating and Air Conditioning",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "air",
+        "heating",
+        "conditioning/hvac"
+    ]
+},
+  "bbox": [-95.929553,41.242837,-95.929553,41.242837],
+  "geometry": {"coordinates":[-95.929553,41.242837],"type":"Point"}
+}

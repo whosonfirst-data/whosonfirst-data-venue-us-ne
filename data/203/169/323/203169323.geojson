@@ -1,0 +1,61 @@
+{
+  "id": 203169323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.72801,40.814852,-96.72801,40.814852",
+    "geom:latitude":40.814852,
+    "geom:longitude":-96.72801,
+    "iso:country":"US",
+    "sg:address":"320 W P St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 477 6074",
+    "sg:postcode":"68528",
+    "sg:province":"NE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3RJIHIWk2T4WckziBc8Jlf_40.814852_-96.728010@1303262943"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f15731c4a5b83898eb5a34ec5538adfb",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878689,
+            "region_id":85688563,
+            "venue_id":203169323
+        }
+    ],
+    "wof:id":203169323,
+    "wof:lastmodified":1449026106,
+    "wof:name":"Yellow Cab",
+    "wof:parent_id":85878689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-96.72801,40.814852,-96.72801,40.814852],
+  "geometry": {"coordinates":[-96.72801,40.814852],"type":"Point"}
+}

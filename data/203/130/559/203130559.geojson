@@ -1,0 +1,62 @@
+{
+  "id": 203130559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.981239,41.265365,-95.981239,41.265365",
+    "geom:latitude":41.265365,
+    "geom:longitude":-95.981239,
+    "iso:country":"US",
+    "sg:address":"608 N Saddle Creek Rd",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 800 275 8777",
+    "sg:postcode":"68132",
+    "sg:province":"NE",
+    "sg:website":"www.usps.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85867055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ivzgxYr8HNi1NzsVw630R_41.265365_-95.981239@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"70578b827d336a119a7e994406363d5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85867055,
+            "region_id":85688563,
+            "venue_id":203130559
+        }
+    ],
+    "wof:id":203130559,
+    "wof:lastmodified":1449025571,
+    "wof:name":"United States Post Office",
+    "wof:parent_id":85867055,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-95.981239,41.265365,-95.981239,41.265365],
+  "geometry": {"coordinates":[-95.981239,41.265365],"type":"Point"}
+}

@@ -1,0 +1,94 @@
+{
+  "id": 203099593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.05265,41.269138,-96.05265,41.269138",
+    "geom:latitude":41.269138,
+    "geom:longitude":-96.05265,
+    "iso:country":"US",
+    "sg:address":"1000 N 90th St # 300",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 955 6190",
+    "sg:postcode":"68114",
+    "sg:province":"NE",
+    "sg:tags":[
+        "information",
+        "mental",
+        "family",
+        "professional",
+        "counselors-licensed",
+        "individual",
+        "marriage",
+        "child",
+        "counseling",
+        "counselor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85867061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5oan8Ntq79WLARmbtMSdJ7_41.269138_-96.052650@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ee013aa8776904e9878b667be6bb979e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85867061,
+            "region_id":85688563,
+            "venue_id":203099593
+        }
+    ],
+    "wof:id":203099593,
+    "wof:lastmodified":1449026216,
+    "wof:name":"Children's Eating Disorders",
+    "wof:parent_id":85867061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "information",
+        "mental",
+        "family",
+        "professional",
+        "counselors-licensed",
+        "individual",
+        "marriage",
+        "child",
+        "counseling",
+        "counselor"
+    ]
+},
+  "bbox": [-96.05265,41.269138,-96.05265,41.269138],
+  "geometry": {"coordinates":[-96.05265,41.269138],"type":"Point"}
+}

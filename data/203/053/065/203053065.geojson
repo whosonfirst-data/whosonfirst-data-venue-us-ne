@@ -1,0 +1,66 @@
+{
+  "id": 203053065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.975697,41.24114,-95.975697,41.24114",
+    "geom:latitude":41.24114,
+    "geom:longitude":-95.975697,
+    "iso:country":"US",
+    "sg:address":"1941 S 42nd St Ste 119",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Funeral Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 333 7200",
+    "sg:postcode":"68105",
+    "sg:province":"NE",
+    "sg:tags":[
+        "cemetery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ou2T1jPJPQerbNI63BPU9_41.241140_-95.975697@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9e741afdf94d498d63019ebbed66eda5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872523,
+            "region_id":85688563,
+            "venue_id":203053065
+        }
+    ],
+    "wof:id":203053065,
+    "wof:lastmodified":1449025296,
+    "wof:name":"Burket Earl H Funeral Director",
+    "wof:parent_id":85872523,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cemetery"
+    ]
+},
+  "bbox": [-95.975697,41.24114,-95.975697,41.24114],
+  "geometry": {"coordinates":[-95.975697,41.24114],"type":"Point"}
+}

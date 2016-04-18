@@ -1,0 +1,77 @@
+{
+  "id": 203130967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.007517,41.27232,-96.007517,41.27232",
+    "geom:latitude":41.27232,
+    "geom:longitude":-96.007517,
+    "iso:country":"US",
+    "sg:address":"6126 Hamilton St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Military Area",
+            "subcategory":"Armory",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 991 6489",
+    "sg:postcode":"68132",
+    "sg:province":"NE",
+    "sg:tags":[
+        "repair",
+        "fence-sales",
+        "fence",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4T71SlNlrMGrpqPa9AqSx5_41.272320_-96.007517@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2dac40542fd6633cd0bf2fcbd6ed027d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872535,
+            "region_id":85688563,
+            "venue_id":203130967
+        }
+    ],
+    "wof:id":203130967,
+    "wof:lastmodified":1449025570,
+    "wof:name":"Biggs Fence",
+    "wof:parent_id":85872535,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "fence-sales",
+        "fence",
+        "contractor"
+    ]
+},
+  "bbox": [-96.007517,41.27232,-96.007517,41.27232],
+  "geometry": {"coordinates":[-96.007517,41.27232],"type":"Point"}
+}

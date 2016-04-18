@@ -1,0 +1,66 @@
+{
+  "id": 203052095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.9758,41.241299,-95.9758,41.241299",
+    "geom:latitude":41.241299,
+    "geom:longitude":-95.9758,
+    "iso:country":"US",
+    "sg:address":"1941 S 42nd St Ste 527",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 315 3338",
+    "sg:postcode":"68105",
+    "sg:province":"NE",
+    "sg:tags":[
+        "podiatrist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ybLlhcth8fEWRMcroxlp6_41.241299_-95.975800@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2037a4fbcd29d071131a736d4bf967b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872523,
+            "region_id":85688563,
+            "venue_id":203052095
+        }
+    ],
+    "wof:id":203052095,
+    "wof:lastmodified":1449025766,
+    "wof:name":"Meinhold Steven D DPM",
+    "wof:parent_id":85872523,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "podiatrist"
+    ]
+},
+  "bbox": [-95.9758,41.241299,-95.9758,41.241299],
+  "geometry": {"coordinates":[-95.9758,41.241299],"type":"Point"}
+}

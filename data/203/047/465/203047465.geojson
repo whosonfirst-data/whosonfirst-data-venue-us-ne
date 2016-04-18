@@ -1,0 +1,66 @@
+{
+  "id": 203047465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.00043,41.294263,-96.00043,41.294263",
+    "geom:latitude":41.294263,
+    "geom:longitude":-96.00043,
+    "iso:country":"US",
+    "sg:address":"5646 Spaulding St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Locksmith",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 881 3598",
+    "sg:postcode":"68104",
+    "sg:province":"NE",
+    "sg:tags":[
+        "key"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85805755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_75ixGne5MJImjmaK7soEdX_41.294263_-96.000430@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f3808947fa6aa50bca1819423bd8d743",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85805755,
+            "region_id":85688563,
+            "venue_id":203047465
+        }
+    ],
+    "wof:id":203047465,
+    "wof:lastmodified":1449026194,
+    "wof:name":"Locksmith Service",
+    "wof:parent_id":85805755,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "key"
+    ]
+},
+  "bbox": [-96.00043,41.294263,-96.00043,41.294263],
+  "geometry": {"coordinates":[-96.00043,41.294263],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 203100751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.158047,41.290171,-96.158047,41.290171",
+    "geom:latitude":41.290171,
+    "geom:longitude":-96.158047,
+    "iso:country":"US",
+    "sg:address":"3601 N 156th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 444 6824",
+    "sg:postcode":"68116",
+    "sg:province":"NE",
+    "sg:tags":[
+        "department"
+    ],
+    "sg:website":"http://www.dccorr.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633793,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_490PakwuGbsZPFUL3MtBRx_41.290171_-96.158047@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"bbb1cef6d9868495e1e80ff8d38e6c0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203100751
+        }
+    ],
+    "wof:id":203100751,
+    "wof:lastmodified":1449026363,
+    "wof:name":"Douglas Cnty Sheriffs Property",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [-96.158047,41.290171,-96.158047,41.290171],
+  "geometry": {"coordinates":[-96.158047,41.290171],"type":"Point"}
+}

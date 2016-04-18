@@ -1,0 +1,70 @@
+{
+  "id": 203046215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.001404,41.2994,-96.001404,41.2994",
+    "geom:latitude":41.2994,
+    "geom:longitude":-96.001404,
+    "iso:country":"US",
+    "sg:address":"5627 Ames Ave",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 451 5652",
+    "sg:postcode":"68104",
+    "sg:province":"NE",
+    "sg:tags":[
+        "beer",
+        "spirit",
+        "wine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85805755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4eVQ2l45UYP32V1P7GOC4Q_41.299400_-96.001404@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2b098040832d4b48ba904ad362119b14",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85805755,
+            "region_id":85688563,
+            "venue_id":203046215
+        }
+    ],
+    "wof:id":203046215,
+    "wof:lastmodified":1449025999,
+    "wof:name":"Sugar Hill Package Liquor",
+    "wof:parent_id":85805755,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beer",
+        "spirit",
+        "wine"
+    ]
+},
+  "bbox": [-96.001404,41.2994,-96.001404,41.2994],
+  "geometry": {"coordinates":[-96.001404,41.2994],"type":"Point"}
+}

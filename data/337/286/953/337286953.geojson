@@ -1,0 +1,76 @@
+{
+  "id": 337286953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.964996,41.246899,-95.964996,41.246899",
+    "geom:latitude":41.246899,
+    "geom:longitude":-95.964996,
+    "iso:country":"US",
+    "sg:address":"2802 Oak View Mall Dr",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Hair Removal",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 800 757 7546",
+    "sg:postcode":"68105",
+    "sg:province":"NE",
+    "sg:tags":[
+        "surgeon",
+        "cosmetic",
+        "dermatologist"
+    ],
+    "sg:website":"www.lovelyskin.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0trYr56i6qE4534do6n37H_41.246899_-95.964996@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"16f919ffd63080ee3d9226b168e33180",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872527,
+            "region_id":85688563,
+            "venue_id":337286953
+        }
+    ],
+    "wof:id":337286953,
+    "wof:lastmodified":1449027148,
+    "wof:name":"Skin Specialists PC",
+    "wof:parent_id":85872527,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surgeon",
+        "cosmetic",
+        "dermatologist"
+    ]
+},
+  "bbox": [-95.964996,41.246899,-95.964996,41.246899],
+  "geometry": {"coordinates":[-95.964996,41.246899],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 337285921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.226713,41.291278,-96.226713,41.291278",
+    "geom:latitude":41.291278,
+    "geom:longitude":-96.226713,
+    "iso:country":"US",
+    "sg:address":"20058 Gateway Rd",
+    "sg:city":"Elkhorn",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Military Area",
+            "subcategory":"Armory",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 289 5085",
+    "sg:postcode":"68022",
+    "sg:province":"NE",
+    "sg:tags":[
+        "repair",
+        "fence-sales",
+        "fence",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85868921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6AdNdLhiKK6MBHCAVFegh3_41.291278_-96.226713@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"527885c4acc2702238bf2f1168d7489f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85868921,
+            "region_id":85688563,
+            "venue_id":337285921
+        }
+    ],
+    "wof:id":337285921,
+    "wof:lastmodified":1449026956,
+    "wof:name":"Elkhorn Deck & Fence Refinishi",
+    "wof:parent_id":85868921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "fence-sales",
+        "fence",
+        "contractor"
+    ]
+},
+  "bbox": [-96.226713,41.291278,-96.226713,41.291278],
+  "geometry": {"coordinates":[-96.226713,41.291278],"type":"Point"}
+}

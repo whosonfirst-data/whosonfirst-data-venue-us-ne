@@ -1,0 +1,66 @@
+{
+  "id": 203058799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.989762,41.245914,-95.989762,41.245914",
+    "geom:latitude":41.245914,
+    "geom:longitude":-95.989762,
+    "iso:country":"US",
+    "sg:address":"1414 S Saddle Creek Rd",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Tobacco",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 553 5904",
+    "sg:postcode":"68106",
+    "sg:province":"NE",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2pGiarQ8Ghxq5wLnFSKBpA_41.245914_-95.989762@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7cd7a50581bc980444dc3c3a877e9559",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872523,
+            "region_id":85688563,
+            "venue_id":203058799
+        }
+    ],
+    "wof:id":203058799,
+    "wof:lastmodified":1449025219,
+    "wof:name":"Tabacco Road Discounts",
+    "wof:parent_id":85872523,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [-95.989762,41.245914,-95.989762,41.245914],
+  "geometry": {"coordinates":[-95.989762,41.245914],"type":"Point"}
+}

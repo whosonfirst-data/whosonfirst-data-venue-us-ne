@@ -1,0 +1,71 @@
+{
+  "id": 203135723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.052982,41.306681,-96.052982,41.306681",
+    "geom:latitude":41.306681,
+    "geom:longitude":-96.052982,
+    "iso:country":"US",
+    "sg:address":"9010 Fort St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 452 3670",
+    "sg:postcode":"68134",
+    "sg:province":"NE",
+    "sg:tags":[
+        "grocers-specialty"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85867061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7mxn1m6RPL6Yn8H2QsHspd_41.306681_-96.052982@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"fe7e906ce2ae5b52665ff304360c7b5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85867061,
+            "region_id":85688563,
+            "venue_id":203135723
+        }
+    ],
+    "wof:id":203135723,
+    "wof:lastmodified":1449025646,
+    "wof:name":"K'nyaw Poe Asian Market",
+    "wof:parent_id":85867061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocers-specialty"
+    ]
+},
+  "bbox": [-96.052982,41.306681,-96.052982,41.306681],
+  "geometry": {"coordinates":[-96.052982,41.306681],"type":"Point"}
+}

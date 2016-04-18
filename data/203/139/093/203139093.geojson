@@ -1,0 +1,80 @@
+{
+  "id": 203139093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.087799,41.206161,-96.087799,41.206161",
+    "geom:latitude":41.206161,
+    "geom:longitude":-96.087799,
+    "iso:country":"US",
+    "sg:address":"11248 John Galt Blvd",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 339 9700",
+    "sg:postcode":"68137",
+    "sg:province":"NE",
+    "sg:tags":[
+        "consultant",
+        "payroll",
+        "resource",
+        "human",
+        "bookkeeping"
+    ],
+    "sg:website":"http://www.payrollmaxx.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0HXRm3lPhzsinDi9k2UAZB_41.206161_-96.087799@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5d03916535c058f1575114519e3263de",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872531,
+            "region_id":85688563,
+            "venue_id":203139093
+        }
+    ],
+    "wof:id":203139093,
+    "wof:lastmodified":1449025109,
+    "wof:name":"Payroll Maxx",
+    "wof:parent_id":85872531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "payroll",
+        "resource",
+        "human",
+        "bookkeeping"
+    ]
+},
+  "bbox": [-96.087799,41.206161,-96.087799,41.206161],
+  "geometry": {"coordinates":[-96.087799,41.206161],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 203114545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.05983,41.200214,-96.05983,41.200214",
+    "geom:latitude":41.200214,
+    "geom:longitude":-96.05983,
+    "iso:country":"US",
+    "sg:address":"9434 U Ct",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 339 1320",
+    "sg:postcode":"68127",
+    "sg:province":"NE",
+    "sg:tags":[
+        "vacancy",
+        "apartment",
+        "rental",
+        "finder",
+        "listing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_135pTg3pwyzPqc7VBD0XlV_41.200214_-96.059830@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1f2bdb3d9800485b37088d0b957f11b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203114545
+        }
+    ],
+    "wof:id":203114545,
+    "wof:lastmodified":1449025713,
+    "wof:name":"Briarwood",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "vacancy",
+        "apartment",
+        "rental",
+        "finder",
+        "listing"
+    ]
+},
+  "bbox": [-96.05983,41.200214,-96.05983,41.200214],
+  "geometry": {"coordinates":[-96.05983,41.200214],"type":"Point"}
+}

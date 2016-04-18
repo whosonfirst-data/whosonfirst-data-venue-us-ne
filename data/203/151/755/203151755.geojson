@@ -1,0 +1,66 @@
+{
+  "id": 203151755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.11214,41.286013,-96.11214,41.286013",
+    "geom:latitude":41.286013,
+    "geom:longitude":-96.11214,
+    "iso:country":"US",
+    "sg:address":"12803 Binney St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 493 0500",
+    "sg:postcode":"68164",
+    "sg:province":"NE",
+    "sg:tags":[
+        "laundries-self"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1fiKBQfQUoZwfzSoox18qY_41.286013_-96.112140@1303262943"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0c976891c90182f344adc1e67c98c355",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872503,
+            "region_id":85688563,
+            "venue_id":203151755
+        }
+    ],
+    "wof:id":203151755,
+    "wof:lastmodified":1449024956,
+    "wof:name":"Leslie Suds Inc",
+    "wof:parent_id":85872503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laundries-self"
+    ]
+},
+  "bbox": [-96.11214,41.286013,-96.11214,41.286013],
+  "geometry": {"coordinates":[-96.11214,41.286013],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 202989837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.041446,41.154416,-96.041446,41.154416",
+    "geom:latitude":41.154416,
+    "geom:longitude":-96.041446,
+    "iso:country":"US",
+    "sg:address":"204 E Lincoln St",
+    "sg:city":"Papillion",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Party Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Recreation",
+            "subcategory":"Picnic Area",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Bowling",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 339 3266",
+    "sg:postcode":"68046",
+    "sg:province":"NE",
+    "sg:tags":[
+        "children's",
+        "planning",
+        "place",
+        "amusement",
+        "arcade"
+    ],
+    "sg:website":"http://www.papiobowl.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        102082789,
+        85843697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4vfxavnKuBUOdxPDJuUGIX_41.154416_-96.041446@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9934e03154d6ffeef579e9c72499b079",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":-1,
+            "neighbourhood_id":85843697,
+            "region_id":85688563,
+            "venue_id":202989837
+        }
+    ],
+    "wof:id":202989837,
+    "wof:lastmodified":1449061956,
+    "wof:name":"Papio Entertainment",
+    "wof:parent_id":85843697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "children's",
+        "planning",
+        "place",
+        "amusement",
+        "arcade"
+    ]
+},
+  "bbox": [-96.041446,41.154416,-96.041446,41.154416],
+  "geometry": {"coordinates":[-96.041446,41.154416],"type":"Point"}
+}

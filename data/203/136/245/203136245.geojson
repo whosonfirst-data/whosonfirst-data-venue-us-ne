@@ -1,0 +1,81 @@
+{
+  "id": 203136245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.023881,41.27803,-96.023881,41.27803",
+    "geom:latitude":41.27803,
+    "geom:longitude":-96.023881,
+    "iso:country":"US",
+    "sg:address":"2040 N 72nd St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Hobbies, Toys, & Games",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 391 4843",
+    "sg:postcode":"68134",
+    "sg:province":"NE",
+    "sg:tags":[
+        "shop",
+        "supply",
+        "stamp",
+        "hobby",
+        "model",
+        "coin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6vnS5VkPj0Q8z6u8lmWl6z_41.278030_-96.023881@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"dcb0a61102c9ee39e5e77ca3724bef2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872507,
+            "region_id":85688563,
+            "venue_id":203136245
+        }
+    ],
+    "wof:id":203136245,
+    "wof:lastmodified":1449026856,
+    "wof:name":"National Coin & Stamp Co",
+    "wof:parent_id":85872507,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "supply",
+        "stamp",
+        "hobby",
+        "model",
+        "coin"
+    ]
+},
+  "bbox": [-96.023881,41.27803,-96.023881,41.27803],
+  "geometry": {"coordinates":[-96.023881,41.27803],"type":"Point"}
+}

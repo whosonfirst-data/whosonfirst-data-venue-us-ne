@@ -1,0 +1,71 @@
+{
+  "id": 203124791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.958199,41.272049,-95.958199,41.272049",
+    "geom:latitude":41.272049,
+    "geom:longitude":-95.958199,
+    "iso:country":"US",
+    "sg:address":"3101 Hamilton St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 341 2941",
+    "sg:postcode":"68131",
+    "sg:province":"NE",
+    "sg:tags":[
+        "management"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_23BAHe9vbvCciTEJjlO4CR_41.272049_-95.958199@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c5d357168751f3daed11222c137189e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872525,
+            "region_id":85688563,
+            "venue_id":203124791
+        }
+    ],
+    "wof:id":203124791,
+    "wof:lastmodified":1449026728,
+    "wof:name":"Reames' Enterprises & Real Estate",
+    "wof:parent_id":85872525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "management"
+    ]
+},
+  "bbox": [-95.958199,41.272049,-95.958199,41.272049],
+  "geometry": {"coordinates":[-95.958199,41.272049],"type":"Point"}
+}

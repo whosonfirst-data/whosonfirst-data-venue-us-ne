@@ -1,0 +1,73 @@
+{
+  "id": 203165011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.671562,40.84634,-96.671562,40.84634",
+    "geom:latitude":40.84634,
+    "geom:longitude":-96.671562,
+    "iso:country":"US",
+    "sg:address":"3400 Gladstone St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 467 5550",
+    "sg:postcode":"68504",
+    "sg:province":"NE",
+    "sg:tags":[
+        "industrial",
+        "electrician",
+        "electric",
+        "contractors-commercial"
+    ],
+    "sg:website":"http://www.sentryelectric.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4hTrQuWuFU4JoHjwTBA6tb_40.846340_-96.671562@1303262943"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0b8913f3883d168952cd60ca34a2c70f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878741,
+            "region_id":85688563,
+            "venue_id":203165011
+        }
+    ],
+    "wof:id":203165011,
+    "wof:lastmodified":1449026868,
+    "wof:name":"Sentry Electric Inc",
+    "wof:parent_id":85878741,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industrial",
+        "electrician",
+        "electric",
+        "contractors-commercial"
+    ]
+},
+  "bbox": [-96.671562,40.84634,-96.671562,40.84634],
+  "geometry": {"coordinates":[-96.671562,40.84634],"type":"Point"}
+}

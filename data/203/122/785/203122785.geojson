@@ -1,0 +1,68 @@
+{
+  "id": 203122785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.955164,41.270544,-95.955164,41.270544",
+    "geom:latitude":41.270544,
+    "geom:longitude":-95.955164,
+    "iso:country":"US",
+    "sg:address":"2916 Myrtle Ave",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 884 4308",
+    "sg:postcode":"68131",
+    "sg:province":"NE",
+    "sg:tags":[
+        "nursery",
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_35x4Cj9ljQhYBkW7jXQlzx_41.270544_-95.955164@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"751b575a0078015106e7801bec39c7fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872525,
+            "region_id":85688563,
+            "venue_id":203122785
+        }
+    ],
+    "wof:id":203122785,
+    "wof:lastmodified":1449026029,
+    "wof:name":"Milestone Christian Daycare",
+    "wof:parent_id":85872525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nursery",
+        "day"
+    ]
+},
+  "bbox": [-95.955164,41.270544,-95.955164,41.270544],
+  "geometry": {"coordinates":[-95.955164,41.270544],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 202997445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.929604,41.255402,-95.929604,41.255402",
+    "geom:latitude":41.255402,
+    "geom:longitude":-95.929604,
+    "iso:country":"US",
+    "sg:address":"1007 Howard St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Stationery & Office Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 345 9627",
+    "sg:postcode":"68102",
+    "sg:province":"NE",
+    "sg:tags":[
+        "shop",
+        "store",
+        "merchandise"
+    ],
+    "sg:website":"http://www.otannenbaum.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_186G4OSV2uTDJfDT5kcIHz_41.255402_-95.929604@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e24590437f3e75ab0100c22688f251b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":202997445
+        }
+    ],
+    "wof:id":202997445,
+    "wof:lastmodified":1449062218,
+    "wof:name":"Tannenbaum Christmas Shop",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "store",
+        "merchandise"
+    ]
+},
+  "bbox": [-95.929604,41.255402,-95.929604,41.255402],
+  "geometry": {"coordinates":[-95.929604,41.255402],"type":"Point"}
+}

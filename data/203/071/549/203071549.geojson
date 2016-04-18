@@ -1,0 +1,79 @@
+{
+  "id": 203071549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.948601,41.217098,-95.948601,41.217098",
+    "geom:latitude":41.217098,
+    "geom:longitude":-95.948601,
+    "iso:country":"US",
+    "sg:address":"4318 S 25th St Apt 44",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 734 2927",
+    "sg:postcode":"68107",
+    "sg:province":"NE",
+    "sg:tags":[
+        "vacancy",
+        "apartment",
+        "rental",
+        "finder",
+        "listing"
+    ],
+    "sg:website":"http://www.westportontheriver.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5qzvkyfWtSnDCmf7lq5Uh4_41.217098_-95.948601@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b3f0de485bebef1b919643a533c3bded",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203071549
+        }
+    ],
+    "wof:id":203071549,
+    "wof:lastmodified":1449026153,
+    "wof:name":"Continental House",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "vacancy",
+        "apartment",
+        "rental",
+        "finder",
+        "listing"
+    ]
+},
+  "bbox": [-95.948601,41.217098,-95.948601,41.217098],
+  "geometry": {"coordinates":[-95.948601,41.217098],"type":"Point"}
+}

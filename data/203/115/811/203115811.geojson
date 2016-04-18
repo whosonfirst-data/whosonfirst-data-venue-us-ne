@@ -1,0 +1,71 @@
+{
+  "id": 203115811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.046837,41.218189,-96.046837,41.218189",
+    "geom:latitude":41.218189,
+    "geom:longitude":-96.046837,
+    "iso:country":"US",
+    "sg:address":"4209 S 87th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 592 2124",
+    "sg:postcode":"68127",
+    "sg:province":"NE",
+    "sg:tags":[
+        "products-wholesale"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872511
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7YTi4DAg3dEblPkdgA0mK4_41.218189_-96.046837@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"133ec8499d3dac4ef54ff1e2760d15fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872511,
+            "region_id":85688563,
+            "venue_id":203115811
+        }
+    ],
+    "wof:id":203115811,
+    "wof:lastmodified":1449024927,
+    "wof:name":"Fiesta Bread Co",
+    "wof:parent_id":85872511,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "products-wholesale"
+    ]
+},
+  "bbox": [-96.046837,41.218189,-96.046837,41.218189],
+  "geometry": {"coordinates":[-96.046837,41.218189],"type":"Point"}
+}

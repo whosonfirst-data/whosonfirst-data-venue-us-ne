@@ -1,0 +1,70 @@
+{
+  "id": 203044883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.000801,41.285099,-96.000801,41.285099",
+    "geom:latitude":41.285099,
+    "geom:longitude":-96.000801,
+    "iso:country":"US",
+    "sg:address":"5702 NW Radial Hwy",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 551 5993",
+    "sg:postcode":"68104",
+    "sg:province":"NE",
+    "sg:tags":[
+        "beer",
+        "spirit",
+        "wine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_15rMZqnKs3g2EuzUP2XLuh_41.285099_-96.000801@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3a5c12f282fd134c1d100ca8d053eaac",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872535,
+            "region_id":85688563,
+            "venue_id":203044883
+        }
+    ],
+    "wof:id":203044883,
+    "wof:lastmodified":1449025923,
+    "wof:name":"Louis Liquor",
+    "wof:parent_id":85872535,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beer",
+        "spirit",
+        "wine"
+    ]
+},
+  "bbox": [-96.000801,41.285099,-96.000801,41.285099],
+  "geometry": {"coordinates":[-96.000801,41.285099],"type":"Point"}
+}

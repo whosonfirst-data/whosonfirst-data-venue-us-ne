@@ -1,0 +1,79 @@
+{
+  "id": 337287827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.671073,40.867604,-96.671073,40.867604",
+    "geom:latitude":40.867604,
+    "geom:longitude":-96.671073,
+    "iso:country":"US",
+    "sg:address":"3272 Salt Creek Cir Ste B",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 326 9850",
+    "sg:postcode":"68504",
+    "sg:province":"NE",
+    "sg:tags":[
+        "psychiatry",
+        "physician",
+        "surgeons",
+        "mental",
+        "psychiatric"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2klWRd87G0OVCVVJGl6OyN_40.867604_-96.671073@1303262943"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"592ec8ed538e9e57935addc48bf93abb",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878687,
+            "region_id":85688563,
+            "venue_id":337287827
+        }
+    ],
+    "wof:id":337287827,
+    "wof:lastmodified":1449026989,
+    "wof:name":"Heuer Marissa APRN-BC, Family Psychiatric Nurse Practitioner",
+    "wof:parent_id":85878687,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "psychiatry",
+        "physician",
+        "surgeons",
+        "mental",
+        "psychiatric"
+    ]
+},
+  "bbox": [-96.671073,40.867604,-96.671073,40.867604],
+  "geometry": {"coordinates":[-96.671073,40.867604],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 203062219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.009364,41.239457,-96.009364,41.239457",
+    "geom:latitude":41.239457,
+    "geom:longitude":-96.009364,
+    "iso:country":"US",
+    "sg:address":"2141 S 63rd St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Dentist",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 551 1811",
+    "sg:postcode":"68106",
+    "sg:province":"NE",
+    "sg:website":"www.familypracticedentistry.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6cIc1qzZeHvbWyGT2X9gc1_41.239457_-96.009364@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"05bf99b0412b2fbd83fc87a60fdc6b2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872513,
+            "region_id":85688563,
+            "venue_id":203062219
+        }
+    ],
+    "wof:id":203062219,
+    "wof:lastmodified":1449026738,
+    "wof:name":"Family Practice Dentistry",
+    "wof:parent_id":85872513,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-96.009364,41.239457,-96.009364,41.239457],
+  "geometry": {"coordinates":[-96.009364,41.239457],"type":"Point"}
+}

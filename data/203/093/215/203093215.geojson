@@ -1,0 +1,69 @@
+{
+  "id": 203093215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.959396,41.329601,-95.959396,41.329601",
+    "geom:latitude":41.329601,
+    "geom:longitude":-95.959396,
+    "iso:country":"US",
+    "sg:address":"8613 N 30th St Ste 103",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 453 9900",
+    "sg:postcode":"68112",
+    "sg:province":"NE",
+    "sg:tags":[
+        "practice",
+        "family"
+    ],
+    "sg:website":"www.alegent.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85805287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_60dCia24oGnMlZHr0LI7Qd_41.329601_-95.959396@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b81a2e545d733bc6cc4bd386c23a405b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85805287,
+            "region_id":85688563,
+            "venue_id":203093215
+        }
+    ],
+    "wof:id":203093215,
+    "wof:lastmodified":1449024937,
+    "wof:name":"Alegent Health",
+    "wof:parent_id":85805287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "practice",
+        "family"
+    ]
+},
+  "bbox": [-95.959396,41.329601,-95.959396,41.329601],
+  "geometry": {"coordinates":[-95.959396,41.329601],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 203044895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.987465,41.297118,-95.987465,41.297118",
+    "geom:latitude":41.297118,
+    "geom:longitude":-95.987465,
+    "iso:country":"US",
+    "sg:address":"4842 Sahler St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 455 6061",
+    "sg:postcode":"68104",
+    "sg:province":"NE",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85805755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6siZlmDRfN0BDhtjcdlmQU_41.297118_-95.987465@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a66e07ababdd9d8a22b37a88d0e2d414",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85805755,
+            "region_id":85688563,
+            "venue_id":203044895
+        }
+    ],
+    "wof:id":203044895,
+    "wof:lastmodified":1449025924,
+    "wof:name":"Lindenwood Apartments",
+    "wof:parent_id":85805755,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [-95.987465,41.297118,-95.987465,41.297118],
+  "geometry": {"coordinates":[-95.987465,41.297118],"type":"Point"}
+}

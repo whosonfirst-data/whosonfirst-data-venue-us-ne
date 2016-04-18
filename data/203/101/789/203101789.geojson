@@ -1,0 +1,67 @@
+{
+  "id": 203101789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.158856,41.306543,-96.158856,41.306543",
+    "geom:latitude":41.306543,
+    "geom:longitude":-96.158856,
+    "iso:country":"US",
+    "sg:address":"15656 Fort St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 445 4000",
+    "sg:postcode":"68116",
+    "sg:province":"NE",
+    "sg:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ],
+    "sg:website":"http://www.concordiaomaha.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633793,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1FzLo3800mE8IQ02VdA3HQ_41.306543_-96.158856@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6a8b517acc972ad8b337b7b2a3fa8b6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203101789
+        }
+    ],
+    "wof:id":203101789,
+    "wof:lastmodified":1449025941,
+    "wof:name":"Concordia Lutheran Schools",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ]
+},
+  "bbox": [-96.158856,41.306543,-96.158856,41.306543],
+  "geometry": {"coordinates":[-96.158856,41.306543],"type":"Point"}
+}

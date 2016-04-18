@@ -1,0 +1,72 @@
+{
+  "id": 203068833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.962804,41.210258,-95.962804,41.210258",
+    "geom:latitude":41.210258,
+    "geom:longitude":-95.962804,
+    "iso:country":"US",
+    "sg:address":"4902 S 33rd St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 734 7705",
+    "sg:postcode":"68107",
+    "sg:province":"NE",
+    "sg:tags":[
+        "body",
+        "painting",
+        "repairing",
+        "automobile"
+    ],
+    "sg:website":"http://www.aacollision.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2MJVvyzGTMYmlrMqWcMAto_41.210258_-95.962804@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"80baddbd523d201128700cdddffe7c57",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203068833
+        }
+    ],
+    "wof:id":203068833,
+    "wof:lastmodified":1449025901,
+    "wof:name":"AA Collision Repair",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "painting",
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-95.962804,41.210258,-95.962804,41.210258],
+  "geometry": {"coordinates":[-95.962804,41.210258],"type":"Point"}
+}

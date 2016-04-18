@@ -1,0 +1,81 @@
+{
+  "id": 203150059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.089126,41.260395,-96.089126,41.260395",
+    "geom:latitude":41.260395,
+    "geom:longitude":-96.089126,
+    "iso:country":"US",
+    "sg:address":"11329 Davenport St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Hazard Insurance",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 334 1780",
+    "sg:postcode":"68154",
+    "sg:province":"NE",
+    "sg:tags":[
+        "auto",
+        "recreational",
+        "motorcycle",
+        "vehicle",
+        "marine",
+        "boat"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ThZ81ZD4Q42XBJ03bkX7V_41.260395_-96.089126@1303262943"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9a1169b6c8a0e8d16cba28634a4e0821",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872503,
+            "region_id":85688563,
+            "venue_id":203150059
+        }
+    ],
+    "wof:id":203150059,
+    "wof:lastmodified":1449024964,
+    "wof:name":"ACCREDITED INSURANCE GROUP",
+    "wof:parent_id":85872503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "auto",
+        "recreational",
+        "motorcycle",
+        "vehicle",
+        "marine",
+        "boat"
+    ]
+},
+  "bbox": [-96.089126,41.260395,-96.089126,41.260395],
+  "geometry": {"coordinates":[-96.089126,41.260395],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 203092013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.9804,41.278801,-95.9804,41.278801",
+    "geom:latitude":41.278801,
+    "geom:longitude":-95.9804,
+    "iso:country":"US",
+    "sg:address":"2219 Military Ave",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 558 1212",
+    "sg:postcode":"68111",
+    "sg:province":"NE",
+    "sg:tags":[
+        "body",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1rEjcQ0jTrjOtpLChymMwN_41.278801_-95.980400@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0b0df391757ad7a6d8779dfd58689725",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872535,
+            "region_id":85688563,
+            "venue_id":203092013
+        }
+    ],
+    "wof:id":203092013,
+    "wof:lastmodified":1449026482,
+    "wof:name":"J & T Auto Body",
+    "wof:parent_id":85872535,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "shop"
+    ]
+},
+  "bbox": [-95.9804,41.278801,-95.9804,41.278801],
+  "geometry": {"coordinates":[-95.9804,41.278801],"type":"Point"}
+}

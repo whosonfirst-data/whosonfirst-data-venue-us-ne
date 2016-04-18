@@ -1,0 +1,73 @@
+{
+  "id": 203167439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.625066,40.812889,-96.625066,40.812889",
+    "geom:latitude":40.812889,
+    "geom:longitude":-96.625066,
+    "iso:country":"US",
+    "sg:address":"237 S 70th St Ste 106",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Skin Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 484 7866",
+    "sg:postcode":"68510",
+    "sg:province":"NE",
+    "sg:tags":[
+        "hair",
+        "stylist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7lcaY6EGD8j6wxXaE49HLf_40.812889_-96.625066@1303262943"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c26d6275f9189e6a6eff2be43742fda6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878725,
+            "region_id":85688563,
+            "venue_id":203167439
+        }
+    ],
+    "wof:id":203167439,
+    "wof:lastmodified":1449025918,
+    "wof:name":"Lollipop Children's Hair Salon",
+    "wof:parent_id":85878725,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hair",
+        "stylist"
+    ]
+},
+  "bbox": [-96.625066,40.812889,-96.625066,40.812889],
+  "geometry": {"coordinates":[-96.625066,40.812889],"type":"Point"}
+}

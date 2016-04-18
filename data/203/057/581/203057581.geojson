@@ -1,0 +1,66 @@
+{
+  "id": 203057581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.004898,41.2309,-96.004898,41.2309",
+    "geom:latitude":41.2309,
+    "geom:longitude":-96.004898,
+    "iso:country":"US",
+    "sg:address":"3056 S 60th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 551 2084",
+    "sg:postcode":"68106",
+    "sg:province":"NE",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85867059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_65GRzFYNjXNeEoW0RNZFcy_41.230900_-96.004898@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d489ce46859875828c0d11d7d82f193d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85867059,
+            "region_id":85688563,
+            "venue_id":203057581
+        }
+    ],
+    "wof:id":203057581,
+    "wof:lastmodified":1449025860,
+    "wof:name":"Spring Tree Apartments",
+    "wof:parent_id":85867059,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [-96.004898,41.2309,-96.004898,41.2309],
+  "geometry": {"coordinates":[-96.004898,41.2309],"type":"Point"}
+}

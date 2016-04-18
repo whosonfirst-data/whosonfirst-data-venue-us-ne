@@ -1,0 +1,69 @@
+{
+  "id": 203145141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.099072,41.247878,-96.099072,41.247878",
+    "geom:latitude":41.247878,
+    "geom:longitude":-96.099072,
+    "iso:country":"US",
+    "sg:address":"11917 Pierce Plz",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Research",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 330 6164",
+    "sg:postcode":"68144",
+    "sg:province":"NE",
+    "sg:tags":[
+        "information",
+        "medical"
+    ],
+    "sg:website":"http://www.cff.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Ph4dtoKOGYEMtcYm48Wvv_41.247878_-96.099072@1303262943"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a1ceaadba9c22486a2a807d7e9507e87",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872531,
+            "region_id":85688563,
+            "venue_id":203145141
+        }
+    ],
+    "wof:id":203145141,
+    "wof:lastmodified":1449025488,
+    "wof:name":"Cystic Fibrosis Foundation",
+    "wof:parent_id":85872531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "information",
+        "medical"
+    ]
+},
+  "bbox": [-96.099072,41.247878,-96.099072,41.247878],
+  "geometry": {"coordinates":[-96.099072,41.247878],"type":"Point"}
+}

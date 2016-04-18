@@ -1,0 +1,72 @@
+{
+  "id": 202999331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.947098,41.256302,-95.947098,41.256302",
+    "geom:latitude":41.256302,
+    "geom:longitude":-95.947098,
+    "iso:country":"US",
+    "sg:address":"424 S 24th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 342 7474",
+    "sg:postcode":"68102",
+    "sg:province":"NE",
+    "sg:tags":[
+        "delivery",
+        "courier"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3mHBjC93MwbZ61q3WXRiPv_41.256302_-95.947098@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c0b8a3cc863dd140eebc93811b42e329",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":202999331
+        }
+    ],
+    "wof:id":202999331,
+    "wof:lastmodified":1449062341,
+    "wof:name":"Safeway Cabs Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delivery",
+        "courier"
+    ]
+},
+  "bbox": [-95.947098,41.256302,-95.947098,41.256302],
+  "geometry": {"coordinates":[-95.947098,41.256302],"type":"Point"}
+}

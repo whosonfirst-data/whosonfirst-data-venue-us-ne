@@ -1,0 +1,72 @@
+{
+  "id": 203045179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.989743,41.274008,-95.989743,41.274008",
+    "geom:latitude":41.274008,
+    "geom:longitude":-95.989743,
+    "iso:country":"US",
+    "sg:address":"1540 N Saddle Creek Rd",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 932 7161",
+    "sg:postcode":"68104",
+    "sg:province":"NE",
+    "sg:tags":[
+        "detailing"
+    ],
+    "sg:website":"www.omahaautodetail.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85867055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4OHqMbOWFws50X0Z6wz6xF_41.274008_-95.989743@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b90e56b2547411344456e150cbc9c176",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85867055,
+            "region_id":85688563,
+            "venue_id":203045179
+        }
+    ],
+    "wof:id":203045179,
+    "wof:lastmodified":1449026648,
+    "wof:name":"Omaha Auto Detail",
+    "wof:parent_id":85867055,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "detailing"
+    ]
+},
+  "bbox": [-95.989743,41.274008,-95.989743,41.274008],
+  "geometry": {"coordinates":[-95.989743,41.274008],"type":"Point"}
+}

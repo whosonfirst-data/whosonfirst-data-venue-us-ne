@@ -1,0 +1,65 @@
+{
+  "id": 203094199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.959537,41.336348,-95.959537,41.336348",
+    "geom:latitude":41.336348,
+    "geom:longitude":-95.959537,
+    "iso:country":"US",
+    "sg:address":"2937 State Street",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 455 0425",
+    "sg:postcode":"68112",
+    "sg:province":"NE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ZRjL07JGwVBZeeJCt8pN4_41.336348_-95.959537@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"85920811c48e4e855d75991f8143227e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203094199
+        }
+    ],
+    "wof:id":203094199,
+    "wof:lastmodified":1449026142,
+    "wof:name":"Harold's Sweet Side",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-95.959537,41.336348,-95.959537,41.336348],
+  "geometry": {"coordinates":[-95.959537,41.336348],"type":"Point"}
+}

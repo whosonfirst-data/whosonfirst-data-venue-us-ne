@@ -1,0 +1,76 @@
+{
+  "id": 203115727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.049011,41.219769,-96.049011,41.219769",
+    "geom:latitude":41.219769,
+    "geom:longitude":-96.049011,
+    "iso:country":"US",
+    "sg:address":"8901 F St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 592 3673",
+    "sg:postcode":"68127",
+    "sg:province":"NE",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "removal",
+        "dent",
+        "painting",
+        "repairing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872511
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Ga5TY1E1i9zwAYTA9OlsL_41.219769_-96.049011@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d18b44450787cdbd05746c5a1a3d05b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872511,
+            "region_id":85688563,
+            "venue_id":203115727
+        }
+    ],
+    "wof:id":203115727,
+    "wof:lastmodified":1449024927,
+    "wof:name":"Import Auto Body",
+    "wof:parent_id":85872511,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "removal",
+        "dent",
+        "painting",
+        "repairing"
+    ]
+},
+  "bbox": [-96.049011,41.219769,-96.049011,41.219769],
+  "geometry": {"coordinates":[-96.049011,41.219769],"type":"Point"}
+}

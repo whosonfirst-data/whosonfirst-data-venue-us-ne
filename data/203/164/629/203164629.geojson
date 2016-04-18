@@ -1,0 +1,81 @@
+{
+  "id": 203164629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.656059,40.822111,-96.656059,40.822111",
+    "geom:latitude":40.822111,
+    "geom:longitude":-96.656059,
+    "iso:country":"US",
+    "sg:address":"4600 W St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Printing & Photocopies",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 464 8101",
+    "sg:postcode":"68503",
+    "sg:province":"NE",
+    "sg:tags":[
+        "t-shirt",
+        "screen",
+        "embroidery"
+    ],
+    "sg:website":"http://www.quikts.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Cgsdj0o0ZGNYYVax13tqa_40.822111_-96.656059@1303262943"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0e0cddcfa9bac60c7c45b56958b5d0e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878701,
+            "region_id":85688563,
+            "venue_id":203164629
+        }
+    ],
+    "wof:id":203164629,
+    "wof:lastmodified":1449025170,
+    "wof:name":"Quik-T's Screen Printing & Embroidery",
+    "wof:parent_id":85878701,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "t-shirt",
+        "screen",
+        "embroidery"
+    ]
+},
+  "bbox": [-96.656059,40.822111,-96.656059,40.822111],
+  "geometry": {"coordinates":[-96.656059,40.822111],"type":"Point"}
+}

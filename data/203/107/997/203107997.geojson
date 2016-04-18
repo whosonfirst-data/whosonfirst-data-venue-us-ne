@@ -1,0 +1,65 @@
+{
+  "id": 203107997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.9972,41.219601,-95.9972,41.219601",
+    "geom:latitude":41.219601,
+    "geom:longitude":-95.9972,
+    "iso:country":"US",
+    "sg:address":"5505 F St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 734 4351",
+    "sg:postcode":"68117",
+    "sg:province":"NE",
+    "sg:tags":[
+        "drugstore"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0fay1NbEyF4eQrIVZdd8FC_41.219601_-95.997200@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2c371a6992d7ba35dee49545ff8a0864",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203107997
+        }
+    ],
+    "wof:id":203107997,
+    "wof:lastmodified":1449024947,
+    "wof:name":"Apria Healthcare Pharmacy",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drugstore"
+    ]
+},
+  "bbox": [-95.9972,41.219601,-95.9972,41.219601],
+  "geometry": {"coordinates":[-95.9972,41.219601],"type":"Point"}
+}

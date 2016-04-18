@@ -1,0 +1,92 @@
+{
+  "id": 203166145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.625061,40.785057,-96.625061,40.785057",
+    "geom:latitude":40.785057,
+    "geom:longitude":-96.625061,
+    "iso:country":"US",
+    "sg:address":"2710 S 70th St Ste 103",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Hazard Insurance",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Life Insurance",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Title Insurance",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Health Insurance",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 801 610 2500",
+    "sg:postcode":"68506",
+    "sg:province":"NE",
+    "sg:tags":[
+        "auto",
+        "property",
+        "casualty",
+        "homeowner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7NW6mwsBgIeDekj6zUjyeP_40.785057_-96.625061@1303262943"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1e03835acb9982a8fba1491ac9af2971",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878697,
+            "region_id":85688563,
+            "venue_id":203166145
+        }
+    ],
+    "wof:id":203166145,
+    "wof:lastmodified":1449026010,
+    "wof:name":"Local State Farm Insurance",
+    "wof:parent_id":85878697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "auto",
+        "property",
+        "casualty",
+        "homeowner"
+    ]
+},
+  "bbox": [-96.625061,40.785057,-96.625061,40.785057],
+  "geometry": {"coordinates":[-96.625061,40.785057],"type":"Point"}
+}

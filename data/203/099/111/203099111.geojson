@@ -1,0 +1,72 @@
+{
+  "id": 203099111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.06047,41.254989,-96.06047,41.254989",
+    "geom:latitude":41.254989,
+    "geom:longitude":-96.06047,
+    "iso:country":"US",
+    "sg:address":"9468 Dewey Cir",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 393 1110",
+    "sg:postcode":"68114",
+    "sg:province":"NE",
+    "sg:tags":[
+        "industrial",
+        "electrician",
+        "contractors-commercial",
+        "electric"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85867061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3fH7RG9tGLS62A34GnVjrG_41.254989_-96.060470@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4a365080c9dee8a4bb316bcfce7b5dbd",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85867061,
+            "region_id":85688563,
+            "venue_id":203099111
+        }
+    ],
+    "wof:id":203099111,
+    "wof:lastmodified":1449026216,
+    "wof:name":"B&B Electric",
+    "wof:parent_id":85867061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industrial",
+        "electrician",
+        "contractors-commercial",
+        "electric"
+    ]
+},
+  "bbox": [-96.06047,41.254989,-96.06047,41.254989],
+  "geometry": {"coordinates":[-96.06047,41.254989],"type":"Point"}
+}

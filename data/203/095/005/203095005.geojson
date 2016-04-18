@@ -1,0 +1,66 @@
+{
+  "id": 203095005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.976519,41.360337,-95.976519,41.360337",
+    "geom:latitude":41.360337,
+    "geom:longitude":-95.976519,
+    "iso:country":"US",
+    "sg:address":"11300 N Post Rd",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 457 6415",
+    "sg:postcode":"68112",
+    "sg:province":"NE",
+    "sg:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633793,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3EpZhPKtPmXeS5hocQ2IIX_41.360337_-95.976519@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1e27ed578690447c80d884c6252510d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203095005
+        }
+    ],
+    "wof:id":203095005,
+    "wof:lastmodified":1449025891,
+    "wof:name":"Omaha Public Schools",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ]
+},
+  "bbox": [-95.976519,41.360337,-95.976519,41.360337],
+  "geometry": {"coordinates":[-95.976519,41.360337],"type":"Point"}
+}

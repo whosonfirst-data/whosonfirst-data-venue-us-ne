@@ -1,0 +1,83 @@
+{
+  "id": 202985963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.918121,41.15369,-95.918121,41.15369",
+    "geom:latitude":41.15369,
+    "geom:longitude":-95.918121,
+    "iso:country":"US",
+    "sg:address":"701 Galvin Rd S # 107",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Discount & Variety Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 291 7487",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "merchandise"
+    ],
+    "sg:website":"http://www.dollartree.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85804025
+    ],
+    "wof:brand_id":420573823,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Y8WkHKqL5VRJvUT4o3kUp_41.153690_-95.918121@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2701b4fe185955232a44123e12e4f49a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85804025,
+            "region_id":85688563,
+            "venue_id":202985963
+        }
+    ],
+    "wof:id":202985963,
+    "wof:lastmodified":1457207559,
+    "wof:name":"Dollar Tree",
+    "wof:parent_id":85804025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "merchandise"
+    ]
+},
+  "bbox": [
+    -95.918121,
+    41.15369,
+    -95.918121,
+    41.15369
+],
+  "geometry": {"coordinates":[-95.918121,41.15369],"type":"Point"}
+}

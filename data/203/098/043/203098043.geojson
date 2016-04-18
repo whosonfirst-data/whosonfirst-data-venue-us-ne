@@ -1,0 +1,72 @@
+{
+  "id": 203098043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.048782,41.263039,-96.048782,41.263039",
+    "geom:latitude":41.263039,
+    "geom:longitude":-96.048782,
+    "iso:country":"US",
+    "sg:address":"8701 W Dodge Rd Ste 300",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 398 5282",
+    "sg:postcode":"68114",
+    "sg:province":"NE",
+    "sg:tags":[
+        "apartment",
+        "management",
+        "rental",
+        "finder"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7BSjENmRL2iMYQZ9nUMeHO_41.263039_-96.048782@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"811f097a389a241c67c6093454277b95",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872509,
+            "region_id":85688563,
+            "venue_id":203098043
+        }
+    ],
+    "wof:id":203098043,
+    "wof:lastmodified":1449026670,
+    "wof:name":"Call Tracy",
+    "wof:parent_id":85872509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment",
+        "management",
+        "rental",
+        "finder"
+    ]
+},
+  "bbox": [-96.048782,41.263039,-96.048782,41.263039],
+  "geometry": {"coordinates":[-96.048782,41.263039],"type":"Point"}
+}

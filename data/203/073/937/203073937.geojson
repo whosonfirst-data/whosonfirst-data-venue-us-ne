@@ -1,0 +1,67 @@
+{
+  "id": 203073937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.931847,41.242529,-95.931847,41.242529",
+    "geom:latitude":41.242529,
+    "geom:longitude":-95.931847,
+    "iso:country":"US",
+    "sg:address":"1720 S 12th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 345 3008",
+    "sg:postcode":"68108",
+    "sg:province":"NE",
+    "sg:tags":[
+        "nursery",
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5yIGzUE82BLKLkl45REG6w_41.242529_-95.931847@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a63d5e34bc07d4c8cbf552a54b854ac3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203073937
+        }
+    ],
+    "wof:id":203073937,
+    "wof:lastmodified":1449025202,
+    "wof:name":"Storm Miller Day Care",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nursery",
+        "day"
+    ]
+},
+  "bbox": [-95.931847,41.242529,-95.931847,41.242529],
+  "geometry": {"coordinates":[-95.931847,41.242529],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 203121447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.967903,41.262501,-95.967903,41.262501",
+    "geom:latitude":41.262501,
+    "geom:longitude":-95.967903,
+    "iso:country":"US",
+    "sg:address":"330 S 44th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 554 6771",
+    "sg:postcode":"68131",
+    "sg:province":"NE",
+    "sg:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ],
+    "sg:website":"www.ops.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0xsDXuIRAe2weymwGE4lbT_41.262501_-95.967903@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"857f0131696196c1d7d326355fa8282d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872525,
+            "region_id":85688563,
+            "venue_id":203121447
+        }
+    ],
+    "wof:id":203121447,
+    "wof:lastmodified":1449026416,
+    "wof:name":"Lord Elementary School",
+    "wof:parent_id":85872525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ]
+},
+  "bbox": [-95.967903,41.262501,-95.967903,41.262501],
+  "geometry": {"coordinates":[-95.967903,41.262501],"type":"Point"}
+}

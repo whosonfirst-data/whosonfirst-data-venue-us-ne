@@ -1,0 +1,65 @@
+{
+  "id": 203100285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.141175,41.29209,-96.141175,41.29209",
+    "geom:latitude":41.29209,
+    "geom:longitude":-96.141175,
+    "iso:country":"US",
+    "sg:address":"14513 W Maple Rd Ste 104",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 934 2366",
+    "sg:postcode":"68116",
+    "sg:province":"NE",
+    "sg:tags":[
+        "nutritionist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_28OA7FvoE9hJ5qWqV26X4j_41.292090_-96.141175@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"aa0a59d7dbf3ae087890de5d4cff9bee",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203100285
+        }
+    ],
+    "wof:id":203100285,
+    "wof:lastmodified":1449026364,
+    "wof:name":"Elite Nutrition",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nutritionist"
+    ]
+},
+  "bbox": [-96.141175,41.29209,-96.141175,41.29209],
+  "geometry": {"coordinates":[-96.141175,41.29209],"type":"Point"}
+}

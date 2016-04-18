@@ -1,0 +1,66 @@
+{
+  "id": 203166479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.631587,40.841654,-96.631587,40.841654",
+    "geom:latitude":40.841654,
+    "geom:longitude":-96.631587,
+    "iso:country":"US",
+    "sg:address":"2930 N 65th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 325 9466",
+    "sg:postcode":"68507",
+    "sg:province":"NE",
+    "sg:tags":[
+        "electrician"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85853163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0zucAjCPC71jGGcUYati5a_40.841654_-96.631587@1303262943"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f1851175e4e01038aad8ac3262b96579",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85853163,
+            "region_id":85688563,
+            "venue_id":203166479
+        }
+    ],
+    "wof:id":203166479,
+    "wof:lastmodified":1449026012,
+    "wof:name":"Craig Woolsley Electric",
+    "wof:parent_id":85853163,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrician"
+    ]
+},
+  "bbox": [-96.631587,40.841654,-96.631587,40.841654],
+  "geometry": {"coordinates":[-96.631587,40.841654],"type":"Point"}
+}

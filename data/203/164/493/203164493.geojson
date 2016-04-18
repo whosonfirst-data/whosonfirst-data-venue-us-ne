@@ -1,0 +1,66 @@
+{
+  "id": 203164493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.68248,40.77496,-96.68248,40.77496",
+    "geom:latitude":40.77496,
+    "geom:longitude":-96.68248,
+    "iso:country":"US",
+    "sg:address":"3901 S 27th St Unit 30",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 770 6296",
+    "sg:postcode":"68502",
+    "sg:province":"NE",
+    "sg:tags":[
+        "trust"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0MjWYOEVUNXJR1NAkGAJL7_40.774960_-96.682480@1303262943"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"51a4f5ad8285302db0e13b85796ae286",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878713,
+            "region_id":85688563,
+            "venue_id":203164493
+        }
+    ],
+    "wof:id":203164493,
+    "wof:lastmodified":1449025168,
+    "wof:name":"Hormel Family Foundation",
+    "wof:parent_id":85878713,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trust"
+    ]
+},
+  "bbox": [-96.68248,40.77496,-96.68248,40.77496],
+  "geometry": {"coordinates":[-96.68248,40.77496],"type":"Point"}
+}

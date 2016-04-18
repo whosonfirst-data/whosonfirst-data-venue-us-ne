@@ -1,0 +1,66 @@
+{
+  "id": 203123919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.980173,41.264194,-95.980173,41.264194",
+    "geom:latitude":41.264194,
+    "geom:longitude":-95.980173,
+    "iso:country":"US",
+    "sg:address":"4422 Cass St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 321 3027",
+    "sg:postcode":"68131",
+    "sg:province":"NE",
+    "sg:tags":[
+        "ethiopian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85867055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0SUIcCi5eWAbTn9MGpHv9g_41.264194_-95.980173@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0bf60a6699c1d9e485ca79c2d3960118",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85867055,
+            "region_id":85688563,
+            "venue_id":203123919
+        }
+    ],
+    "wof:id":203123919,
+    "wof:lastmodified":1449025479,
+    "wof:name":"Lalibela Ethiopian Restaurant",
+    "wof:parent_id":85867055,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ethiopian"
+    ]
+},
+  "bbox": [-95.980173,41.264194,-95.980173,41.264194],
+  "geometry": {"coordinates":[-95.980173,41.264194],"type":"Point"}
+}

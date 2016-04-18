@@ -1,0 +1,67 @@
+{
+  "id": 203094145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.963898,41.335602,-95.963898,41.335602",
+    "geom:latitude":41.335602,
+    "geom:longitude":-95.963898,
+    "iso:country":"US",
+    "sg:address":"3215 State St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Landmark",
+            "subcategory":"Historic",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 453 9372",
+    "sg:postcode":"68112",
+    "sg:province":"NE",
+    "sg:tags":[
+        "building",
+        "historical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0tLv5lsS3go08S7DuP5aq0_41.335602_-95.963898@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0b3697be2e58f9fe29b244cbdaa11940",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203094145
+        }
+    ],
+    "wof:id":203094145,
+    "wof:lastmodified":1449026143,
+    "wof:name":"Mormon Trail Center",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "historical"
+    ]
+},
+  "bbox": [-95.963898,41.335602,-95.963898,41.335602],
+  "geometry": {"coordinates":[-95.963898,41.335602],"type":"Point"}
+}

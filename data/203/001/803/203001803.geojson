@@ -1,0 +1,67 @@
+{
+  "id": 203001803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.937302,41.254398,-95.937302,41.254398",
+    "geom:latitude":41.254398,
+    "geom:longitude":-95.937302,
+    "iso:country":"US",
+    "sg:address":"1601 Jackson St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Passenger",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 341 1906",
+    "sg:postcode":"68102",
+    "sg:province":"NE",
+    "sg:website":"www.greyhound.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789
+    ],
+    "wof:brand_id":420574441,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3kbiYLgg4hRRN2OCoT87Qr_41.254398_-95.937302@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"729cd40ad4483525e70512be7640a989",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203001803
+        }
+    ],
+    "wof:id":203001803,
+    "wof:lastmodified":1457208899,
+    "wof:name":"Greyhound Bus Lines",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -95.937302,
+    41.254398,
+    -95.937302,
+    41.254398
+],
+  "geometry": {"coordinates":[-95.937302,41.254398],"type":"Point"}
+}

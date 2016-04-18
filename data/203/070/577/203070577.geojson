@@ -1,0 +1,70 @@
+{
+  "id": 203070577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.946856,41.214479,-95.946856,41.214479",
+    "geom:latitude":41.214479,
+    "geom:longitude":-95.946856,
+    "iso:country":"US",
+    "sg:address":"4519 S 24th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 557 3600",
+    "sg:postcode":"68107",
+    "sg:province":"NE",
+    "sg:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ],
+    "sg:website":"www.ops.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2KEJ6BpF8ItvsH1uMDsKpZ_41.214479_-95.946856@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"90897b480db21c96b02dad7e6f024395",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203070577
+        }
+    ],
+    "wof:id":203070577,
+    "wof:lastmodified":1449025838,
+    "wof:name":"Omaha Public Schools",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ]
+},
+  "bbox": [-95.946856,41.214479,-95.946856,41.214479],
+  "geometry": {"coordinates":[-95.946856,41.214479],"type":"Point"}
+}

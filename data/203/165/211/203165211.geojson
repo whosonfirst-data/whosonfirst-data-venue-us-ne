@@ -1,0 +1,61 @@
+{
+  "id": 203165211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.653783,40.85313,-96.653783,40.85313",
+    "geom:latitude":40.85313,
+    "geom:longitude":-96.653783,
+    "iso:country":"US",
+    "sg:address":"4033 Progressive Ave",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 464 4389",
+    "sg:postcode":"68504",
+    "sg:province":"NE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1B5ULMlZz6FK4HIhEMfg7e_40.853130_-96.653783@1303262943"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"877a9aea7364c67f996b23e14f74fbe3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878741,
+            "region_id":85688563,
+            "venue_id":203165211
+        }
+    ],
+    "wof:id":203165211,
+    "wof:lastmodified":1449026865,
+    "wof:name":"Avr Repair",
+    "wof:parent_id":85878741,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-96.653783,40.85313,-96.653783,40.85313],
+  "geometry": {"coordinates":[-96.653783,40.85313],"type":"Point"}
+}

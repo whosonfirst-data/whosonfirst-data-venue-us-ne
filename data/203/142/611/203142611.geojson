@@ -1,0 +1,68 @@
+{
+  "id": 203142611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.146251,41.156575,-96.146251,41.156575",
+    "geom:latitude":41.156575,
+    "geom:longitude":-96.146251,
+    "iso:country":"US",
+    "sg:address":"14803 Frontier Rd",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 557 0583",
+    "sg:postcode":"68138",
+    "sg:province":"NE",
+    "sg:tags":[
+        "contractor",
+        "fence-sales"
+    ],
+    "sg:website":"http://www.theamericanfencecompany.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        102082789,
+        85834285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5jHpypVCWlsyEnolSFTlmL_41.156575_-96.146251@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9c81459aa142b93901145ec373ee5f3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":-1,
+            "neighbourhood_id":85834285,
+            "region_id":85688563,
+            "venue_id":203142611
+        }
+    ],
+    "wof:id":203142611,
+    "wof:lastmodified":1449026455,
+    "wof:name":"American Fence Company",
+    "wof:parent_id":85834285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor",
+        "fence-sales"
+    ]
+},
+  "bbox": [-96.146251,41.156575,-96.146251,41.156575],
+  "geometry": {"coordinates":[-96.146251,41.156575],"type":"Point"}
+}

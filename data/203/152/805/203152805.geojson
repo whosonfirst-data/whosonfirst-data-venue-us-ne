@@ -1,0 +1,66 @@
+{
+  "id": 203152805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.945162,41.261683,-95.945162,41.261683",
+    "geom:latitude":41.261683,
+    "geom:longitude":-95.945162,
+    "iso:country":"US",
+    "sg:address":"302 N 22nd St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"University",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 546 6200",
+    "sg:postcode":"68178",
+    "sg:province":"NE",
+    "sg:tags":[
+        "college"
+    ],
+    "sg:website":"www.creighton.edu",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_57fpqpAGdRSLMXzVJute0I_41.261683_-95.945162@1303262943"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8b7f502744945fd69e810f13e1836494",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203152805
+        }
+    ],
+    "wof:id":203152805,
+    "wof:lastmodified":1449026392,
+    "wof:name":"Creighton University",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "college"
+    ]
+},
+  "bbox": [-95.945162,41.261683,-95.945162,41.261683],
+  "geometry": {"coordinates":[-95.945162,41.261683],"type":"Point"}
+}

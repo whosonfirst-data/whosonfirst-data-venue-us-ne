@@ -1,0 +1,75 @@
+{
+  "id": 203053051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.949411,41.244778,-95.949411,41.244778",
+    "geom:latitude":41.244778,
+    "geom:longitude":-95.949411,
+    "iso:country":"US",
+    "sg:address":"1525 S 25th Ave",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        },
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 342 0169",
+    "sg:postcode":"68105",
+    "sg:province":"NE",
+    "sg:tags":[
+        "local",
+        "trucking-motor",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7MhhUVKDLPUkZbxTrpuhay_41.244778_-95.949411@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d9a1123691498fa92e8eb9698292eaa3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872527,
+            "region_id":85688563,
+            "venue_id":203053051
+        }
+    ],
+    "wof:id":203053051,
+    "wof:lastmodified":1449025294,
+    "wof:name":"Tony Monico Trucking",
+    "wof:parent_id":85872527,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "local",
+        "trucking-motor",
+        "trucking"
+    ]
+},
+  "bbox": [-95.949411,41.244778,-95.949411,41.244778],
+  "geometry": {"coordinates":[-95.949411,41.244778],"type":"Point"}
+}

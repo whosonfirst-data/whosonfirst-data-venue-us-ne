@@ -1,0 +1,91 @@
+{
+  "id": 203100033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.15805,41.278418,-96.15805,41.278418",
+    "geom:latitude":41.278418,
+    "geom:longitude":-96.15805,
+    "iso:country":"US",
+    "sg:address":"2051 N 156th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Hazard Insurance",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Title Insurance",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Life Insurance",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 496 5315",
+    "sg:postcode":"68116",
+    "sg:province":"NE",
+    "sg:tags":[
+        "business",
+        "auto",
+        "commercial",
+        "homeowner",
+        "motorcycle",
+        "renter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973479,
+        102082789,
+        85806957
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2cIkLXpgjBs4dOvU8CjJ5i_41.278418_-96.158050@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6cc7d0c1912e61fcaa8b40735a0a144c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973479,
+            "neighbourhood_id":85806957,
+            "region_id":85688563,
+            "venue_id":203100033
+        }
+    ],
+    "wof:id":203100033,
+    "wof:lastmodified":1449026363,
+    "wof:name":"Allstate Insurance Company - Devan Kennington",
+    "wof:parent_id":85806957,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "business",
+        "auto",
+        "commercial",
+        "homeowner",
+        "motorcycle",
+        "renter"
+    ]
+},
+  "bbox": [-96.15805,41.278418,-96.15805,41.278418],
+  "geometry": {"coordinates":[-96.15805,41.278418],"type":"Point"}
+}

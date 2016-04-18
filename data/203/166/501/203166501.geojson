@@ -1,0 +1,118 @@
+{
+  "id": 203166501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.704033,40.81583,-96.704033,40.81583",
+    "geom:latitude":40.81583,
+    "geom:longitude":-96.704033,
+    "iso:country":"US",
+    "sg:address":"1201 Q St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Printing & Photocopies",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Stationery & Office Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Signs",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 475 2679",
+    "sg:postcode":"68508",
+    "sg:province":"NE",
+    "sg:tags":[
+        "machine",
+        "document",
+        "duplicating",
+        "shipping",
+        "materials-shipping",
+        "packaging",
+        "packing",
+        "imaging",
+        "copying",
+        "digital",
+        "copy"
+    ],
+    "sg:website":"http://www.fedex.com/Dropoff/start?FY11-FXO-YELLOWPAGES",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878699
+    ],
+    "wof:brand_id":420574513,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1nb2mEBgKZyyaOt8h0OCy6_40.815830_-96.704033@1303262943"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"91f2aa397814c4c476287a5b9939d61f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878699,
+            "region_id":85688563,
+            "venue_id":203166501
+        }
+    ],
+    "wof:id":203166501,
+    "wof:lastmodified":1457208964,
+    "wof:name":"FedEx Office Print & Ship Center",
+    "wof:parent_id":85878699,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "document",
+        "duplicating",
+        "shipping",
+        "materials-shipping",
+        "packaging",
+        "packing",
+        "imaging",
+        "copying",
+        "digital",
+        "copy"
+    ]
+},
+  "bbox": [
+    -96.704033,
+    40.81583,
+    -96.704033,
+    40.81583
+],
+  "geometry": {"coordinates":[-96.704033,40.81583],"type":"Point"}
+}

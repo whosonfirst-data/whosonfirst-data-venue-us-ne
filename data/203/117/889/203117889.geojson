@@ -1,0 +1,73 @@
+{
+  "id": 203117889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.18265,41.232578,-96.18265,41.232578",
+    "geom:latitude":41.232578,
+    "geom:longitude":-96.18265,
+    "iso:country":"US",
+    "sg:address":"17650 Wright Plz #7",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Nail Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 934 4647",
+    "sg:postcode":"68130",
+    "sg:province":"NE",
+    "sg:tags":[
+        "hair",
+        "stylist"
+    ],
+    "sg:website":"http://www.ponytailsandbuzzcuts.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6DQ4d8aVDKFzcTivuK0YaZ_41.232578_-96.182650@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"19f13098814c594ea3af1215ff722ebd",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203117889
+        }
+    ],
+    "wof:id":203117889,
+    "wof:lastmodified":1449026270,
+    "wof:name":"Ponytails And Buzzcuts",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hair",
+        "stylist"
+    ]
+},
+  "bbox": [-96.18265,41.232578,-96.18265,41.232578],
+  "geometry": {"coordinates":[-96.18265,41.232578],"type":"Point"}
+}

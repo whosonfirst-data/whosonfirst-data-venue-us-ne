@@ -1,0 +1,75 @@
+{
+  "id": 202986879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.218654,41.359204,-96.218654,41.359204",
+    "geom:latitude":41.359204,
+    "geom:longitude":-96.218654,
+    "iso:country":"US",
+    "sg:address":"19212 Military Rd",
+    "sg:city":"Bennington",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        },
+        {
+            "category":"Utilities",
+            "subcategory":"Recycling",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 238 2875",
+    "sg:postcode":"68007",
+    "sg:province":"NE",
+    "sg:tags":[
+        "rubbish",
+        "container",
+        "collection",
+        "garbage",
+        "removal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633793,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5dMLQlEprBwEXEHlgph49I_41.359204_-96.218654@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f37af26c34e15c1d2ae1e1143e2d2af5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":202986879
+        }
+    ],
+    "wof:id":202986879,
+    "wof:lastmodified":1449062172,
+    "wof:name":"Dale's Trash Service",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "rubbish",
+        "container",
+        "collection",
+        "garbage",
+        "removal"
+    ]
+},
+  "bbox": [-96.218654,41.359204,-96.218654,41.359204],
+  "geometry": {"coordinates":[-96.218654,41.359204],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 203136535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.069383,41.295602,-96.069383,41.295602",
+    "geom:latitude":41.295602,
+    "geom:longitude":-96.069383,
+    "iso:country":"US",
+    "sg:address":"4111 N 100th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 208 0990",
+    "sg:postcode":"68134",
+    "sg:province":"NE",
+    "sg:tags":[
+        "contractors-commercial",
+        "industrial",
+        "electrician",
+        "electric",
+        "improvement"
+    ],
+    "sg:website":"http://www.universalelectricmidwest.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85867061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4gtuXuNyQ0VaMJEXoG0QYc_41.295602_-96.069383@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2ba1db9fbcfc42776ef341f32d75ec3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85867061,
+            "region_id":85688563,
+            "venue_id":203136535
+        }
+    ],
+    "wof:id":203136535,
+    "wof:lastmodified":1449026852,
+    "wof:name":"Universal Electric",
+    "wof:parent_id":85867061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractors-commercial",
+        "industrial",
+        "electrician",
+        "electric",
+        "improvement"
+    ]
+},
+  "bbox": [-96.069383,41.295602,-96.069383,41.295602],
+  "geometry": {"coordinates":[-96.069383,41.295602],"type":"Point"}
+}

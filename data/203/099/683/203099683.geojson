@@ -1,0 +1,68 @@
+{
+  "id": 203099683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.036265,41.261087,-96.036265,41.261087",
+    "geom:latitude":41.261087,
+    "geom:longitude":-96.036265,
+    "iso:country":"US",
+    "sg:address":"275 N 78th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Research",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 998 3140",
+    "sg:postcode":"68114",
+    "sg:province":"NE",
+    "sg:tags":[
+        "analysis",
+        "market"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6MM63BwCIfKFhrfigcU3gA_41.261087_-96.036265@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d9af5f032f36673d449e67f3ee7c6bd1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872509,
+            "region_id":85688563,
+            "venue_id":203099683
+        }
+    ],
+    "wof:id":203099683,
+    "wof:lastmodified":1449026213,
+    "wof:name":"Innovation Research",
+    "wof:parent_id":85872509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "analysis",
+        "market"
+    ]
+},
+  "bbox": [-96.036265,41.261087,-96.036265,41.261087],
+  "geometry": {"coordinates":[-96.036265,41.261087],"type":"Point"}
+}

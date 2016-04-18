@@ -1,0 +1,66 @@
+{
+  "id": 203048477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.006403,41.284857,-96.006403,41.284857",
+    "geom:latitude":41.284857,
+    "geom:longitude":-96.006403,
+    "iso:country":"US",
+    "sg:address":"6069 Maple St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 558 8100",
+    "sg:postcode":"68104",
+    "sg:province":"NE",
+    "sg:tags":[
+        "orthopedist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1pM9wApamVfsNTXheTujRn_41.284857_-96.006403@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b5c205b52a96807cc7111949fbd7d8c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872535,
+            "region_id":85688563,
+            "venue_id":203048477
+        }
+    ],
+    "wof:id":203048477,
+    "wof:lastmodified":1449025584,
+    "wof:name":"York G Patrick DPM",
+    "wof:parent_id":85872535,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "orthopedist"
+    ]
+},
+  "bbox": [-96.006403,41.284857,-96.006403,41.284857],
+  "geometry": {"coordinates":[-96.006403,41.284857],"type":"Point"}
+}

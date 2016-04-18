@@ -1,0 +1,90 @@
+{
+  "id": 203053781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.97336,41.250997,-95.97336,41.250997",
+    "geom:latitude":41.250997,
+    "geom:longitude":-95.97336,
+    "iso:country":"US",
+    "sg:address":"910 S 40th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"Job Training",
+            "type":"Services"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"Retirement Home",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 342 2015",
+    "sg:postcode":"68105",
+    "sg:province":"NE",
+    "sg:tags":[
+        "living",
+        "nursing",
+        "homes-skilled",
+        "facility",
+        "assisted",
+        "convalescent",
+        "homes-institutional",
+        "aged"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0x2bkKaYpiVZTkTFS1SzEC_41.250997_-95.973360@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a56ddf745f6694b54727fe61a8fdded6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872523,
+            "region_id":85688563,
+            "venue_id":203053781
+        }
+    ],
+    "wof:id":203053781,
+    "wof:lastmodified":1449025292,
+    "wof:name":"Lindenwood Nursing Home",
+    "wof:parent_id":85872523,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "living",
+        "nursing",
+        "homes-skilled",
+        "facility",
+        "assisted",
+        "convalescent",
+        "homes-institutional",
+        "aged"
+    ]
+},
+  "bbox": [-95.97336,41.250997,-95.97336,41.250997],
+  "geometry": {"coordinates":[-95.97336,41.250997],"type":"Point"}
+}

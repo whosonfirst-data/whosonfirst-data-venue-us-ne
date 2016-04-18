@@ -1,0 +1,68 @@
+{
+  "id": 203139165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.13059,41.21254,-96.13059,41.21254",
+    "geom:latitude":41.21254,
+    "geom:longitude":-96.13059,
+    "iso:country":"US",
+    "sg:address":"13810 L St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 894 1008",
+    "sg:postcode":"68137",
+    "sg:province":"NE",
+    "sg:tags":[
+        "contractor",
+        "mechanical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2JSxNB3l5S8d3ayG8lWmYC_41.212540_-96.130590@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0a9070ac4fe34a112f5adf7e715c59a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872531,
+            "region_id":85688563,
+            "venue_id":203139165
+        }
+    ],
+    "wof:id":203139165,
+    "wof:lastmodified":1449025115,
+    "wof:name":"Fitzgerald Railcar Specialists",
+    "wof:parent_id":85872531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor",
+        "mechanical"
+    ]
+},
+  "bbox": [-96.13059,41.21254,-96.13059,41.21254],
+  "geometry": {"coordinates":[-96.13059,41.21254],"type":"Point"}
+}

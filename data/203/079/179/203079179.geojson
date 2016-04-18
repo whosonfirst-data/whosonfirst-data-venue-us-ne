@@ -1,0 +1,72 @@
+{
+  "id": 203079179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.932116,41.236913,-95.932116,41.236913",
+    "geom:latitude":41.236913,
+    "geom:longitude":-95.932116,
+    "iso:country":"US",
+    "sg:address":"1208 Castelar St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 933 9036",
+    "sg:postcode":"68108",
+    "sg:province":"NE",
+    "sg:tags":[
+        "buyer",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3VIJEMuti4f01J5h4Vjviz_41.236913_-95.932116@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7e2fc1de8d0668614fe4abeb1002ddf6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203079179
+        }
+    ],
+    "wof:id":203079179,
+    "wof:lastmodified":1449026531,
+    "wof:name":"Rv Realty",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "buyer",
+        "broker"
+    ]
+},
+  "bbox": [-95.932116,41.236913,-95.932116,41.236913],
+  "geometry": {"coordinates":[-95.932116,41.236913],"type":"Point"}
+}

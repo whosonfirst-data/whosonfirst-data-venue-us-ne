@@ -1,0 +1,81 @@
+{
+  "id": 203089285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.968201,41.313099,-95.968201,41.313099",
+    "geom:latitude":41.313099,
+    "geom:longitude":-95.968201,
+    "iso:country":"US",
+    "sg:address":"3650 Crown Point Ave",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        },
+        {
+            "category":"Education",
+            "subcategory":"Preschool",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 455 2442",
+    "sg:postcode":"68111",
+    "sg:province":"NE",
+    "sg:tags":[
+        "high",
+        "middle",
+        "day",
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3SdpyV3AphJ2JLPecz7EdJ_41.313099_-95.968201@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d1ba1b4dc331ecd4151a5f2f0c90652f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203089285
+        }
+    ],
+    "wof:id":203089285,
+    "wof:lastmodified":1449025315,
+    "wof:name":"Nareds Pee Wee Palace",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "high",
+        "middle",
+        "day",
+        "elementary"
+    ]
+},
+  "bbox": [-95.968201,41.313099,-95.968201,41.313099],
+  "geometry": {"coordinates":[-95.968201,41.313099],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 203169007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.723329,40.867113,-96.723329,40.867113",
+    "geom:latitude":40.867113,
+    "geom:longitude":-96.723329,
+    "iso:country":"US",
+    "sg:address":"5701 NW 1st St Ste 1",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 476 4226",
+    "sg:postcode":"68521",
+    "sg:province":"NE",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5cMUT5Ca7AUS14VXhooat3_40.867113_-96.723329@1303262943"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1f6cab43cc0eb80263c13c9640c7614c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878717,
+            "region_id":85688563,
+            "venue_id":203169007
+        }
+    ],
+    "wof:id":203169007,
+    "wof:lastmodified":1449026114,
+    "wof:name":"Amigos",
+    "wof:parent_id":85878717,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [-96.723329,40.867113,-96.723329,40.867113],
+  "geometry": {"coordinates":[-96.723329,40.867113],"type":"Point"}
+}

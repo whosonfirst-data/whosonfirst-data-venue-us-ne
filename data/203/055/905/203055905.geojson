@@ -1,0 +1,67 @@
+{
+  "id": 203055905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.978008,41.24141,-95.978008,41.24141",
+    "geom:latitude":41.24141,
+    "geom:longitude":-95.978008,
+    "iso:country":"US",
+    "sg:address":"1915 S 44th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 556 7979",
+    "sg:postcode":"68105",
+    "sg:province":"NE",
+    "sg:tags":[
+        "apartment"
+    ],
+    "sg:website":"www.laseville.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2DuBIKwXoAsoi6iOyT4Rt8_41.241410_-95.978008@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8a3816ecc8ddc7d78d39875a16ba8153",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872523,
+            "region_id":85688563,
+            "venue_id":203055905
+        }
+    ],
+    "wof:id":203055905,
+    "wof:lastmodified":1449025350,
+    "wof:name":"Laseville",
+    "wof:parent_id":85872523,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [-95.978008,41.24141,-95.978008,41.24141],
+  "geometry": {"coordinates":[-95.978008,41.24141],"type":"Point"}
+}

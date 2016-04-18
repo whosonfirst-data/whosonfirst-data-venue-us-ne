@@ -1,0 +1,70 @@
+{
+  "id": 203108801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.991504,41.219742,-95.991504,41.219742",
+    "geom:latitude":41.219742,
+    "geom:longitude":-95.991504,
+    "iso:country":"US",
+    "sg:address":"5051 F St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Labor Organization",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 573 9103",
+    "sg:postcode":"68117",
+    "sg:province":"NE",
+    "sg:tags":[
+        "carpenter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_30h20w8H2dTpB33ikYbu4q_41.219742_-95.991504@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"dd5457eae561cd7f31deb17d44343e1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203108801
+        }
+    ],
+    "wof:id":203108801,
+    "wof:lastmodified":1449024981,
+    "wof:name":"Carpenters Local 444",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carpenter"
+    ]
+},
+  "bbox": [-95.991504,41.219742,-95.991504,41.219742],
+  "geometry": {"coordinates":[-95.991504,41.219742],"type":"Point"}
+}

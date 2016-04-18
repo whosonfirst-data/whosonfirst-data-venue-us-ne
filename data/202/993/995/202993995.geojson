@@ -1,0 +1,72 @@
+{
+  "id": 202993995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.622589,41.209561,-96.622589,41.209561",
+    "geom:latitude":41.209561,
+    "geom:longitude":-96.622589,
+    "iso:country":"US",
+    "sg:address":"450 N Chestnut St Ste 3",
+    "sg:city":"Wahoo",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Tanning Parlor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 443 4247",
+    "sg:postcode":"68066",
+    "sg:province":"NE",
+    "sg:tags":[
+        "hair",
+        "stylist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974275,
+        102082199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5XKl2MQnSon98pbq1ataPx_41.209561_-96.622589@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ca9b1b42fab4501ef453a693ca088211",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082199,
+            "locality_id":85974275,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":202993995
+        }
+    ],
+    "wof:id":202993995,
+    "wof:lastmodified":1449061249,
+    "wof:name":"The Hair Studio",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hair",
+        "stylist"
+    ]
+},
+  "bbox": [-96.622589,41.209561,-96.622589,41.209561],
+  "geometry": {"coordinates":[-96.622589,41.209561],"type":"Point"}
+}

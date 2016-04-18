@@ -1,0 +1,74 @@
+{
+  "id": 203132743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.991832,41.265059,-95.991832,41.265059",
+    "geom:latitude":41.265059,
+    "geom:longitude":-95.991832,
+    "iso:country":"US",
+    "sg:address":"5019 Underwood Ave",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Thrift Store",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 964 2270",
+    "sg:postcode":"68132",
+    "sg:province":"NE",
+    "sg:tags":[
+        "vintage",
+        "consignment"
+    ],
+    "sg:website":"www.myspace.com/scoutdrygoods",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85867055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5GbjAtlg5XOqDT02jyWhZG_41.265059_-95.991832@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"afad77ace687d491467392461c682b75",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85867055,
+            "region_id":85688563,
+            "venue_id":203132743
+        }
+    ],
+    "wof:id":203132743,
+    "wof:lastmodified":1449025844,
+    "wof:name":"Scout",
+    "wof:parent_id":85867055,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "vintage",
+        "consignment"
+    ]
+},
+  "bbox": [-95.991832,41.265059,-95.991832,41.265059],
+  "geometry": {"coordinates":[-95.991832,41.265059],"type":"Point"}
+}

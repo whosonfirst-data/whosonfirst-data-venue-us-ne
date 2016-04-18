@@ -1,0 +1,75 @@
+{
+  "id": 203067767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.946098,41.212101,-95.946098,41.212101",
+    "geom:latitude":41.212101,
+    "geom:longitude":-95.946098,
+    "iso:country":"US",
+    "sg:address":"2323 L St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 738 8061",
+    "sg:postcode":"68107",
+    "sg:province":"NE",
+    "sg:tags":[
+        "photography",
+        "drugstore",
+        "store"
+    ],
+    "sg:website":"www.walgreens.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7HrBw4fJd51bPjvh5GF5SX_41.212101_-95.946098@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f82762f503f317a309f48cc74cc31d52",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203067767
+        }
+    ],
+    "wof:id":203067767,
+    "wof:lastmodified":1449025060,
+    "wof:name":"Walgreen Drug Stores",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photography",
+        "drugstore",
+        "store"
+    ]
+},
+  "bbox": [-95.946098,41.212101,-95.946098,41.212101],
+  "geometry": {"coordinates":[-95.946098,41.212101],"type":"Point"}
+}

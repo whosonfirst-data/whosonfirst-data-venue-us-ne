@@ -1,0 +1,74 @@
+{
+  "id": 203141503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.081457,41.206541,-96.081457,41.206541",
+    "geom:latitude":41.206541,
+    "geom:longitude":-96.081457,
+    "iso:country":"US",
+    "sg:address":"5062 S 108th St Ste 1",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 331 2014",
+    "sg:postcode":"68137",
+    "sg:province":"NE",
+    "sg:tags":[
+        "mail",
+        "public",
+        "shipping",
+        "labeling",
+        "notary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_42jUp5Zi3CdZE2kNdFWU9p_41.206541_-96.081457@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"fe5742273576ba4cc59d23d3b9b39d1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872531,
+            "region_id":85688563,
+            "venue_id":203141503
+        }
+    ],
+    "wof:id":203141503,
+    "wof:lastmodified":1449025592,
+    "wof:name":"The Mail Room",
+    "wof:parent_id":85872531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mail",
+        "public",
+        "shipping",
+        "labeling",
+        "notary"
+    ]
+},
+  "bbox": [-96.081457,41.206541,-96.081457,41.206541],
+  "geometry": {"coordinates":[-96.081457,41.206541],"type":"Point"}
+}

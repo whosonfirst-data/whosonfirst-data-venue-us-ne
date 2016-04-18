@@ -1,0 +1,90 @@
+{
+  "id": 203109787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.064333,41.321667,-96.064333,41.321667",
+    "geom:latitude":41.321667,
+    "geom:longitude":-96.064333,
+    "iso:country":"US",
+    "sg:address":"6935 N 97th Cir",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Office Equipment",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Printing & Photocopies",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 895 3033",
+    "sg:postcode":"68122",
+    "sg:province":"NE",
+    "sg:tags":[
+        "scanning",
+        "printer",
+        "supply",
+        "services-commercial",
+        "duplicating",
+        "copying",
+        "lithographer",
+        "plotting"
+    ],
+    "sg:website":"http://www.actiongp.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        102082789,
+        85872505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ifGAUw4zCIOQDIZQ1pmKX_41.321667_-96.064333@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"be6b275af8323824bcc8e2f7b0f69945",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":-1,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":203109787
+        }
+    ],
+    "wof:id":203109787,
+    "wof:lastmodified":1449025579,
+    "wof:name":"Anderson Print Group",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "scanning",
+        "printer",
+        "supply",
+        "services-commercial",
+        "duplicating",
+        "copying",
+        "lithographer",
+        "plotting"
+    ]
+},
+  "bbox": [-96.064333,41.321667,-96.064333,41.321667],
+  "geometry": {"coordinates":[-96.064333,41.321667],"type":"Point"}
+}

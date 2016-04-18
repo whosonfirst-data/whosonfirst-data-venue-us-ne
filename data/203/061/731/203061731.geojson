@@ -1,0 +1,68 @@
+{
+  "id": 203061731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.014999,41.228001,-96.014999,41.228001",
+    "geom:latitude":41.228001,
+    "geom:longitude":-96.014999,
+    "iso:country":"US",
+    "sg:address":"3315 S 66th Avenue Cir",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 399 9292",
+    "sg:postcode":"68106",
+    "sg:province":"NE",
+    "sg:tags":[
+        "body",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85867059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7TXkH2cXMHuNaGpykvW8P6_41.228001_-96.014999@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2c8249fcbd4e0b05bc8f72bbcfa53e91",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85867059,
+            "region_id":85688563,
+            "venue_id":203061731
+        }
+    ],
+    "wof:id":203061731,
+    "wof:lastmodified":1449026337,
+    "wof:name":"Automotive Appearance Specialist",
+    "wof:parent_id":85867059,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "shop"
+    ]
+},
+  "bbox": [-96.014999,41.228001,-96.014999,41.228001],
+  "geometry": {"coordinates":[-96.014999,41.228001],"type":"Point"}
+}

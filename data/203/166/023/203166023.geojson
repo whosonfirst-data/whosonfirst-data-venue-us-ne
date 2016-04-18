@@ -1,0 +1,78 @@
+{
+  "id": 203166023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.625059,40.783729,-96.625059,40.783729",
+    "geom:latitude":40.783729,
+    "geom:longitude":-96.625059,
+    "iso:country":"US",
+    "sg:address":"2840 S 70th St Ste 11",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Stationery & Office Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 488 7477",
+    "sg:postcode":"68506",
+    "sg:province":"NE",
+    "sg:tags":[
+        "shop",
+        "card",
+        "greeting",
+        "store"
+    ],
+    "sg:website":"http://www.hallmark.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ndvgRBNxA9yX0n3qpByjS_40.783729_-96.625059@1303262943"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a72afcb3b1b164682d1ddd3b25c02277",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878697,
+            "region_id":85688563,
+            "venue_id":203166023
+        }
+    ],
+    "wof:id":203166023,
+    "wof:lastmodified":1449026016,
+    "wof:name":"Barb's Hallmark",
+    "wof:parent_id":85878697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "card",
+        "greeting",
+        "store"
+    ]
+},
+  "bbox": [-96.625059,40.783729,-96.625059,40.783729],
+  "geometry": {"coordinates":[-96.625059,40.783729],"type":"Point"}
+}

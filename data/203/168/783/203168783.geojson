@@ -1,0 +1,68 @@
+{
+  "id": 203168783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.68585,40.85576,-96.68585,40.85576",
+    "geom:latitude":40.85576,
+    "geom:longitude":-96.68585,
+    "iso:country":"US",
+    "sg:address":"4440 N 24th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 742 4776",
+    "sg:postcode":"68521",
+    "sg:province":"NE",
+    "sg:tags":[
+        "nursery",
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0cUPNnPjmftQ6hhjsGwXAs_40.855760_-96.685850@1303262943"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5d6428ca0a437fd9d91965fbc5782e0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878721,
+            "region_id":85688563,
+            "venue_id":203168783
+        }
+    ],
+    "wof:id":203168783,
+    "wof:lastmodified":1449025926,
+    "wof:name":"Little Munchkinland",
+    "wof:parent_id":85878721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nursery",
+        "day"
+    ]
+},
+  "bbox": [-96.68585,40.85576,-96.68585,40.85576],
+  "geometry": {"coordinates":[-96.68585,40.85576],"type":"Point"}
+}

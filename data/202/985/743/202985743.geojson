@@ -1,0 +1,66 @@
+{
+  "id": 202985743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.925249,41.16909,-95.925249,41.16909",
+    "geom:latitude":41.16909,
+    "geom:longitude":-95.925249,
+    "iso:country":"US",
+    "sg:address":"605 Fort Crook Rd N",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 733 8754",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85804025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_123HFJFMlzN4gG6XWfpnwv_41.169090_-95.925249@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"59fa32ffee2d84e7ab137ced63be58c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85804025,
+            "region_id":85688563,
+            "venue_id":202985743
+        }
+    ],
+    "wof:id":202985743,
+    "wof:lastmodified":1449061381,
+    "wof:name":"La Mesa Restaurant",
+    "wof:parent_id":85804025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [-95.925249,41.16909,-95.925249,41.16909],
+  "geometry": {"coordinates":[-95.925249,41.16909],"type":"Point"}
+}

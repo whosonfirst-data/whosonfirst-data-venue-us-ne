@@ -1,0 +1,68 @@
+{
+  "id": 203125279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.95665,41.257679,-95.95665,41.257679",
+    "geom:latitude":41.257679,
+    "geom:longitude":-95.95665,
+    "iso:country":"US",
+    "sg:address":"3000 Farnam St Ste 1AE",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 738 1101",
+    "sg:postcode":"68131",
+    "sg:province":"NE",
+    "sg:tags":[
+        "list",
+        "mailing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7IpXzbM5kFRNAZBUQCy97K_41.257679_-95.956650@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d64ed07d43bd63675c127f5fb12467d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872525,
+            "region_id":85688563,
+            "venue_id":203125279
+        }
+    ],
+    "wof:id":203125279,
+    "wof:lastmodified":1449026805,
+    "wof:name":"Data Line Of Omaha",
+    "wof:parent_id":85872525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "list",
+        "mailing"
+    ]
+},
+  "bbox": [-95.95665,41.257679,-95.95665,41.257679],
+  "geometry": {"coordinates":[-95.95665,41.257679],"type":"Point"}
+}

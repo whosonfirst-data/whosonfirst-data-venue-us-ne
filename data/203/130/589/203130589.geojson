@@ -1,0 +1,75 @@
+{
+  "id": 203130589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.011997,41.268674,-96.011997,41.268674",
+    "geom:latitude":41.268674,
+    "geom:longitude":-96.011997,
+    "iso:country":"US",
+    "sg:address":"1025 N 64th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Buildings",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 306 5026",
+    "sg:postcode":"68132",
+    "sg:province":"NE",
+    "sg:tags":[
+        "home",
+        "builder",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2GeXGMzagnc36lCwtvd5WJ_41.268674_-96.011997@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7fa7eb6edf4d275460ca5bba7759c43d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872535,
+            "region_id":85688563,
+            "venue_id":203130589
+        }
+    ],
+    "wof:id":203130589,
+    "wof:lastmodified":1449025571,
+    "wof:name":"Stormberg Homes",
+    "wof:parent_id":85872535,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "builder",
+        "contractor"
+    ]
+},
+  "bbox": [-96.011997,41.268674,-96.011997,41.268674],
+  "geometry": {"coordinates":[-96.011997,41.268674],"type":"Point"}
+}

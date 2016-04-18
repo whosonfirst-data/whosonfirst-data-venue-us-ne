@@ -1,0 +1,65 @@
+{
+  "id": 203019673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.935822,41.258493,-95.935822,41.258493",
+    "geom:latitude":41.258493,
+    "geom:longitude":-95.935822,
+    "iso:country":"US",
+    "sg:address":"215 S 15th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Library",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 444 4833",
+    "sg:postcode":"68102",
+    "sg:province":"NE",
+    "sg:tags":[
+        "research"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1mUWx2k34UaMwzQyebc09u_41.258493_-95.935822@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"bbddd48a60b70dfede7159957d6462c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203019673
+        }
+    ],
+    "wof:id":203019673,
+    "wof:lastmodified":1449026038,
+    "wof:name":"City Of Omaha Northwest Library Facilities Corporation",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "research"
+    ]
+},
+  "bbox": [-95.935822,41.258493,-95.935822,41.258493],
+  "geometry": {"coordinates":[-95.935822,41.258493],"type":"Point"}
+}

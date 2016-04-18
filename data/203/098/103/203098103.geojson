@@ -1,0 +1,72 @@
+{
+  "id": 203098103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.02996,41.252418,-96.02996,41.252418",
+    "geom:latitude":41.252418,
+    "geom:longitude":-96.02996,
+    "iso:country":"US",
+    "sg:address":"7515 Howard St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 800 571 5735",
+    "sg:postcode":"68114",
+    "sg:province":"NE",
+    "sg:tags":[
+        "apartment",
+        "management",
+        "rental",
+        "finder"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3306jizBpp6B9cvHp1yb02_41.252418_-96.029960@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b835355429c8f7e1f6a14a78fee2bcf2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872509,
+            "region_id":85688563,
+            "venue_id":203098103
+        }
+    ],
+    "wof:id":203098103,
+    "wof:lastmodified":1449026669,
+    "wof:name":"Loveland Apts & Crown Park Townhomes",
+    "wof:parent_id":85872509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment",
+        "management",
+        "rental",
+        "finder"
+    ]
+},
+  "bbox": [-96.02996,41.252418,-96.02996,41.252418],
+  "geometry": {"coordinates":[-96.02996,41.252418],"type":"Point"}
+}

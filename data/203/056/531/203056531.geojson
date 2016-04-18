@@ -1,0 +1,71 @@
+{
+  "id": 203056531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.956001,41.246399,-95.956001,41.246399",
+    "geom:latitude":41.246399,
+    "geom:longitude":-95.956001,
+    "iso:country":"US",
+    "sg:address":"1336 Park Ave",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Carpets & Floor Coverings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 616 4951",
+    "sg:postcode":"68105",
+    "sg:province":"NE",
+    "sg:tags":[
+        "carpeting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_64DGPZz52uoYZpApmozkCR_41.246399_-95.956001@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"24b1269c988948ed1104a8122b0b75b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872527,
+            "region_id":85688563,
+            "venue_id":203056531
+        }
+    ],
+    "wof:id":203056531,
+    "wof:lastmodified":1449025438,
+    "wof:name":"Acme Rug & Carpet Cleaning",
+    "wof:parent_id":85872527,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carpeting"
+    ]
+},
+  "bbox": [-95.956001,41.246399,-95.956001,41.246399],
+  "geometry": {"coordinates":[-95.956001,41.246399],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 203049815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.000458,41.299726,-96.000458,41.299726",
+    "geom:latitude":41.299726,
+    "geom:longitude":-96.000458,
+    "iso:country":"US",
+    "sg:address":"5608 Ames Ave",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 455 2772",
+    "sg:postcode":"68104",
+    "sg:province":"NE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85805755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1wt7pvIGJ87BRHuyVi6PLa_41.299726_-96.000458@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"256104667085ef32e608734ab571ef66",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85805755,
+            "region_id":85688563,
+            "venue_id":203049815
+        }
+    ],
+    "wof:id":203049815,
+    "wof:lastmodified":1449025868,
+    "wof:name":"Cubby's Ames",
+    "wof:parent_id":85805755,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-96.000458,41.299726,-96.000458,41.299726],
+  "geometry": {"coordinates":[-96.000458,41.299726],"type":"Point"}
+}

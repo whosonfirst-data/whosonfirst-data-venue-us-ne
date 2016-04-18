@@ -1,0 +1,74 @@
+{
+  "id": 203148925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.087352,41.261682,-96.087352,41.261682",
+    "geom:latitude":41.261682,
+    "geom:longitude":-96.087352,
+    "iso:country":"US",
+    "sg:address":"11204 Davenport St # 100",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        },
+        {
+            "category":"Internet Cafe",
+            "subcategory":"None",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 408 3733",
+    "sg:postcode":"68154",
+    "sg:province":"NE",
+    "sg:tags":[
+        "product",
+        "software"
+    ],
+    "sg:website":"http://www.cfwebtools.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2JFAcC3gcY8qlQE2qKmfqY_41.261682_-96.087352@1303262943"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1a9d67de010c3795051efae2fce926f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872503,
+            "region_id":85688563,
+            "venue_id":203148925
+        }
+    ],
+    "wof:id":203148925,
+    "wof:lastmodified":1449026544,
+    "wof:name":"Cf Webtools",
+    "wof:parent_id":85872503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "software"
+    ]
+},
+  "bbox": [-96.087352,41.261682,-96.087352,41.261682],
+  "geometry": {"coordinates":[-96.087352,41.261682],"type":"Point"}
+}

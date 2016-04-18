@@ -1,0 +1,76 @@
+{
+  "id": 203169291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.605362,40.76598,-96.605362,40.76598",
+    "geom:latitude":40.76598,
+    "geom:longitude":-96.605362,
+    "iso:country":"US",
+    "sg:address":"4706 S 85th Ct",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Bowling",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 873 3501",
+    "sg:postcode":"68526",
+    "sg:province":"NE",
+    "sg:tags":[
+        "brew"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6FTirNg5AYbpAKVM32lV4L_40.765980_-96.605362@1303262943"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"60917c5b4e2fa2883ffbbc4ed601a9f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878707,
+            "region_id":85688563,
+            "venue_id":203169291
+        }
+    ],
+    "wof:id":203169291,
+    "wof:lastmodified":1449026112,
+    "wof:name":"Perry Lanes",
+    "wof:parent_id":85878707,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "brew"
+    ]
+},
+  "bbox": [-96.605362,40.76598,-96.605362,40.76598],
+  "geometry": {"coordinates":[-96.605362,40.76598],"type":"Point"}
+}

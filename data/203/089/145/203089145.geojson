@@ -1,0 +1,69 @@
+{
+  "id": 203089145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.957741,41.294624,-95.957741,41.294624",
+    "geom:latitude":41.294624,
+    "geom:longitude":-95.957741,
+    "iso:country":"US",
+    "sg:address":"3030 Spaulding St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 344 7895",
+    "sg:postcode":"68111",
+    "sg:province":"NE",
+    "sg:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2eQv7a8Tzwz89nFjD5C8HG_41.294624_-95.957741@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"fd7a90045d19eab7edf310ad8f9f2600",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203089145
+        }
+    ],
+    "wof:id":203089145,
+    "wof:lastmodified":1449025315,
+    "wof:name":"Omaha Public Schools",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ]
+},
+  "bbox": [-95.957741,41.294624,-95.957741,41.294624],
+  "geometry": {"coordinates":[-95.957741,41.294624],"type":"Point"}
+}

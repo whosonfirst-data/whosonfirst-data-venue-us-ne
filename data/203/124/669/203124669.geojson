@@ -1,0 +1,61 @@
+{
+  "id": 203124669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.96107,41.261877,-95.96107,41.261877",
+    "geom:latitude":41.261877,
+    "geom:longitude":-95.96107,
+    "iso:country":"US",
+    "sg:address":"3260 Davenport St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 898 9145",
+    "sg:postcode":"68131",
+    "sg:province":"NE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2VmAv4st64GblFiTIgFaGA_41.261877_-95.961070@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4da17c938bfd93cc33e56abf5fb67f57",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872525,
+            "region_id":85688563,
+            "venue_id":203124669
+        }
+    ],
+    "wof:id":203124669,
+    "wof:lastmodified":1449026724,
+    "wof:name":"Omaha Public Schools",
+    "wof:parent_id":85872525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-95.96107,41.261877,-95.96107,41.261877],
+  "geometry": {"coordinates":[-95.96107,41.261877],"type":"Point"}
+}

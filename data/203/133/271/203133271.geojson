@@ -1,0 +1,67 @@
+{
+  "id": 203133271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.984418,41.264874,-95.984418,41.264874",
+    "geom:latitude":41.264874,
+    "geom:longitude":-95.984418,
+    "iso:country":"US",
+    "sg:address":"620 N 47th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 558 3143",
+    "sg:postcode":"68132",
+    "sg:province":"NE",
+    "sg:tags":[
+        "consultant"
+    ],
+    "sg:website":"http://www.davidgpark.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85867055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6uXuHCDlTch815T7pyUzxQ_41.264874_-95.984418@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ce0bdf24cc093be2291a6b7d0102895e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85867055,
+            "region_id":85688563,
+            "venue_id":203133271
+        }
+    ],
+    "wof:id":203133271,
+    "wof:lastmodified":1449026513,
+    "wof:name":"David G Parks",
+    "wof:parent_id":85867055,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant"
+    ]
+},
+  "bbox": [-95.984418,41.264874,-95.984418,41.264874],
+  "geometry": {"coordinates":[-95.984418,41.264874],"type":"Point"}
+}

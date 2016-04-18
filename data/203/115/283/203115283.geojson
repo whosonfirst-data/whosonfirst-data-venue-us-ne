@@ -1,0 +1,76 @@
+{
+  "id": 203115283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.031917,41.200355,-96.031917,41.200355",
+    "geom:latitude":41.200355,
+    "geom:longitude":-96.031917,
+    "iso:country":"US",
+    "sg:address":"5740 S 77th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Glass & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 331 4462",
+    "sg:postcode":"68127",
+    "sg:province":"NE",
+    "sg:tags":[
+        "plate",
+        "window",
+        "windshield",
+        "glass-auto"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973487,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1CpLlFytjNt7449ZvQXmiC_41.200355_-96.031917@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e5c84e4789397d98c2e54b4e58d62c6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973487,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203115283
+        }
+    ],
+    "wof:id":203115283,
+    "wof:lastmodified":1449024927,
+    "wof:name":"SAFELITE AUTO GLASS",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plate",
+        "window",
+        "windshield",
+        "glass-auto"
+    ]
+},
+  "bbox": [-96.031917,41.200355,-96.031917,41.200355],
+  "geometry": {"coordinates":[-96.031917,41.200355],"type":"Point"}
+}

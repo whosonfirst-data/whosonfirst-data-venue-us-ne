@@ -1,0 +1,74 @@
+{
+  "id": 203075863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.930702,41.2523,-95.930702,41.2523",
+    "geom:latitude":41.2523,
+    "geom:longitude":-95.930702,
+    "iso:country":"US",
+    "sg:address":"813 S 11th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 371 1333",
+    "sg:postcode":"68108",
+    "sg:province":"NE",
+    "sg:tags":[
+        "air",
+        "heating",
+        "conditioning/hvac"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_17b0AlyUYBrA76aRL8LewL_41.252300_-95.930702@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b5aa03a0f696903a7c5dd8515229ee72",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203075863
+        }
+    ],
+    "wof:id":203075863,
+    "wof:lastmodified":1449025975,
+    "wof:name":"Pettitt Plumbing & Heating",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "air",
+        "heating",
+        "conditioning/hvac"
+    ]
+},
+  "bbox": [-95.930702,41.2523,-95.930702,41.2523],
+  "geometry": {"coordinates":[-95.930702,41.2523],"type":"Point"}
+}

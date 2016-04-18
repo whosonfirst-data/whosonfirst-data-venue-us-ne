@@ -1,0 +1,64 @@
+{
+  "id": 202989785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.1689,40.9981,-96.1689,40.9981",
+    "geom:latitude":40.9981,
+    "geom:longitude":-96.1689,
+    "iso:country":"US",
+    "sg:address":"37651 Mahoney Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 234 6785",
+    "sg:postcode":"68037",
+    "sg:province":"NE",
+    "sg:tags":[
+        "body",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633793,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Z12MfnJJ7QRnl0oPHkcC5_40.998100_-96.168900@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ee72538b139f829c70a154739cb9f61e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":202989785
+        }
+    ],
+    "wof:id":202989785,
+    "wof:lastmodified":1449061959,
+    "wof:name":"Frank's Body Shop Auto & Truck Repair",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "shop"
+    ]
+},
+  "bbox": [-96.1689,40.9981,-96.1689,40.9981],
+  "geometry": {"coordinates":[-96.1689,40.9981],"type":"Point"}
+}

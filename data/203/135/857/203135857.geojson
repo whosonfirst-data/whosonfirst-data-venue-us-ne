@@ -1,0 +1,73 @@
+{
+  "id": 203135857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.044047,41.277823,-96.044047,41.277823",
+    "geom:latitude":41.277823,
+    "geom:longitude":-96.044047,
+    "iso:country":"US",
+    "sg:address":"8425 Blondo St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 206 2199",
+    "sg:postcode":"68134",
+    "sg:province":"NE",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting",
+        "repairing"
+    ],
+    "sg:website":"http://www.kscrc.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85867061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_732PNk7wi1PiKJU329nnFW_41.277823_-96.044047@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"cfe796cb3eb503ff741cc3c4ba4834e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85867061,
+            "region_id":85688563,
+            "venue_id":203135857
+        }
+    ],
+    "wof:id":203135857,
+    "wof:lastmodified":1449025647,
+    "wof:name":"K & S Collision Repair Center LLC",
+    "wof:parent_id":85867061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting",
+        "repairing"
+    ]
+},
+  "bbox": [-96.044047,41.277823,-96.044047,41.277823],
+  "geometry": {"coordinates":[-96.044047,41.277823],"type":"Point"}
+}

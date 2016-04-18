@@ -1,0 +1,77 @@
+{
+  "id": 203142183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.123535,41.159773,-96.123535,41.159773",
+    "geom:latitude":41.159773,
+    "geom:longitude":-96.123535,
+    "iso:country":"US",
+    "sg:address":"10064 S 134th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        },
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 894 4882",
+    "sg:postcode":"68138",
+    "sg:province":"NE",
+    "sg:tags":[
+        "trucking",
+        "local",
+        "trucking-motor",
+        "broker"
+    ],
+    "sg:website":"http://www.cannonball-express.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        102082789,
+        85834285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5GDVfLfKIJ1fMGeA2Jfgsh_41.159773_-96.123535@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"47688fb8a88d8f5a0f2c58853f5208b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":-1,
+            "neighbourhood_id":85834285,
+            "region_id":85688563,
+            "venue_id":203142183
+        }
+    ],
+    "wof:id":203142183,
+    "wof:lastmodified":1449026453,
+    "wof:name":"Cannonball Express",
+    "wof:parent_id":85834285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking",
+        "local",
+        "trucking-motor",
+        "broker"
+    ]
+},
+  "bbox": [-96.123535,41.159773,-96.123535,41.159773],
+  "geometry": {"coordinates":[-96.123535,41.159773],"type":"Point"}
+}

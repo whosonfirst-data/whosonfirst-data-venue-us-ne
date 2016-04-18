@@ -1,0 +1,86 @@
+{
+  "id": 203142967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.121221,41.172321,-96.121221,41.172321",
+    "geom:latitude":41.172321,
+    "geom:longitude":-96.121221,
+    "iso:country":"US",
+    "sg:address":"13239 Portal Dr #107",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Military Area",
+            "subcategory":"Armory",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 800 845 9839",
+    "sg:postcode":"68138",
+    "sg:province":"NE",
+    "sg:tags":[
+        "repair",
+        "fence",
+        "improvement",
+        "vinyl",
+        "contractor",
+        "fence-sales"
+    ],
+    "sg:website":"http://guierfence.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        102082789,
+        85834285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2SYEd8MsXTxl5faLGe8RG5_41.172321_-96.121221@1303262943"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"eab4f8cb171697b7096681a12ec9684c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":-1,
+            "neighbourhood_id":85834285,
+            "region_id":85688563,
+            "venue_id":203142967
+        }
+    ],
+    "wof:id":203142967,
+    "wof:lastmodified":1449026455,
+    "wof:name":"Guier Fence",
+    "wof:parent_id":85834285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "fence",
+        "improvement",
+        "vinyl",
+        "contractor",
+        "fence-sales"
+    ]
+},
+  "bbox": [-96.121221,41.172321,-96.121221,41.172321],
+  "geometry": {"coordinates":[-96.121221,41.172321],"type":"Point"}
+}

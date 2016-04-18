@@ -1,0 +1,67 @@
+{
+  "id": 203078441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.947,41.228738,-95.947,41.228738",
+    "geom:latitude":41.228738,
+    "geom:longitude":-95.947,
+    "iso:country":"US",
+    "sg:address":"3213 S 24th St Ste 100",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 345 9132",
+    "sg:postcode":"68108",
+    "sg:province":"NE",
+    "sg:tags":[
+        "obstetrician",
+        "gynecologist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_62FFidv7xNZNkj758sPTiW_41.228738_-95.947000@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"95f6cba5ad308420a12f072173f4f877",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203078441
+        }
+    ],
+    "wof:id":203078441,
+    "wof:lastmodified":1449026552,
+    "wof:name":"Metro OB Gyn",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "obstetrician",
+        "gynecologist"
+    ]
+},
+  "bbox": [-95.947,41.228738,-95.947,41.228738],
+  "geometry": {"coordinates":[-95.947,41.228738],"type":"Point"}
+}

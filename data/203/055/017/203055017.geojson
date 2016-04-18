@@ -1,0 +1,70 @@
+{
+  "id": 203055017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.969037,41.252206,-95.969037,41.252206",
+    "geom:latitude":41.252206,
+    "geom:longitude":-95.969037,
+    "iso:country":"US",
+    "sg:address":"814 S 38th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 866 958 9102",
+    "sg:postcode":"68105",
+    "sg:province":"NE",
+    "sg:tags":[
+        "apartment",
+        "rental",
+        "finder"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4TXmuJhb2XOB9aIFrZdKTA_41.252206_-95.969037@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a5469552787ad4830be906ede6d6700f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872523,
+            "region_id":85688563,
+            "venue_id":203055017
+        }
+    ],
+    "wof:id":203055017,
+    "wof:lastmodified":1449025350,
+    "wof:name":"The Field Club by Urban Village",
+    "wof:parent_id":85872523,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment",
+        "rental",
+        "finder"
+    ]
+},
+  "bbox": [-95.969037,41.252206,-95.969037,41.252206],
+  "geometry": {"coordinates":[-95.969037,41.252206],"type":"Point"}
+}

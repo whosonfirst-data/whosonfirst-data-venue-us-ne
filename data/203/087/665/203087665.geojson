@@ -1,0 +1,70 @@
+{
+  "id": 203087665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.956723,41.290612,-95.956723,41.290612",
+    "geom:latitude":41.290612,
+    "geom:longitude":-95.956723,
+    "iso:country":"US",
+    "sg:address":"3510 N 30th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Tobacco",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 455 0502",
+    "sg:postcode":"68111",
+    "sg:province":"NE",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4L2bBQPfRqaBjj8gYmOfpN_41.290612_-95.956723@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"94271b0464d7db51feb3e6342b66e2ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203087665
+        }
+    ],
+    "wof:id":203087665,
+    "wof:lastmodified":1449025789,
+    "wof:name":"Johnson Tobacco Barn",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [-95.956723,41.290612,-95.956723,41.290612],
+  "geometry": {"coordinates":[-95.956723,41.290612],"type":"Point"}
+}

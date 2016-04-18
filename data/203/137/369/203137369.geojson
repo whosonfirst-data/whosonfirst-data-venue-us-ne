@@ -1,0 +1,88 @@
+{
+  "id": 203137369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.049474,41.310604,-96.049474,41.310604",
+    "geom:latitude":41.310604,
+    "geom:longitude":-96.049474,
+    "iso:country":"US",
+    "sg:address":"8635 Military Rd",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Train Station",
+            "subcategory":"Rail",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 403 0187",
+    "sg:postcode":"68134",
+    "sg:province":"NE",
+    "sg:tags":[
+        "stairway",
+        "fence",
+        "rails",
+        "accessory",
+        "railing",
+        "contractor",
+        "fence-sales"
+    ],
+    "sg:website":"http://www.acreagefences.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        102082789,
+        85872505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7YFtvYLt6rsufck2JhY1NN_41.310604_-96.049474@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"613c08ad90feebc1b44f682904b567c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":-1,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":203137369
+        }
+    ],
+    "wof:id":203137369,
+    "wof:lastmodified":1449026602,
+    "wof:name":"Acreage Fences Inc",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "stairway",
+        "fence",
+        "rails",
+        "accessory",
+        "railing",
+        "contractor",
+        "fence-sales"
+    ]
+},
+  "bbox": [-96.049474,41.310604,-96.049474,41.310604],
+  "geometry": {"coordinates":[-96.049474,41.310604],"type":"Point"}
+}

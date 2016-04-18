@@ -1,0 +1,76 @@
+{
+  "id": 203055981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.975835,41.241212,-95.975835,41.241212",
+    "geom:latitude":41.241212,
+    "geom:longitude":-95.975835,
+    "iso:country":"US",
+    "sg:address":"1941 S 42nd St Ste 104",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Advertising",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 342 1570",
+    "sg:postcode":"68105",
+    "sg:province":"NE",
+    "sg:tags":[
+        "marketing",
+        "program",
+        "consultant"
+    ],
+    "sg:website":"http://www.classyautos.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0gGs224bvPUi0kDenicDzr_41.241212_-95.975835@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"19604048e620d9fd6fd7bef53ba85ac2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872523,
+            "region_id":85688563,
+            "venue_id":203055981
+        }
+    ],
+    "wof:id":203055981,
+    "wof:lastmodified":1449025354,
+    "wof:name":"Classy Auto",
+    "wof:parent_id":85872523,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "marketing",
+        "program",
+        "consultant"
+    ]
+},
+  "bbox": [-95.975835,41.241212,-95.975835,41.241212],
+  "geometry": {"coordinates":[-95.975835,41.241212],"type":"Point"}
+}

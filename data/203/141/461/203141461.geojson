@@ -1,0 +1,91 @@
+{
+  "id": 203141461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.084419,41.216221,-96.084419,41.216221",
+    "geom:latitude":41.216221,
+    "geom:longitude":-96.084419,
+    "iso:country":"US",
+    "sg:address":"11011 I St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Hardware",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 715 5999",
+    "sg:postcode":"68137",
+    "sg:province":"NE",
+    "sg:tags":[
+        "renting",
+        "lawn",
+        "outdoor",
+        "power",
+        "landscaping",
+        "equipment-sales",
+        "equipment",
+        "saw"
+    ],
+    "sg:website":"http://www.stihlusa.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Wxgcdnx5xgBdXHMpOJdxv_41.216221_-96.084419@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1c34aa354f379a6933ce12bda7268ba8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872531,
+            "region_id":85688563,
+            "venue_id":203141461
+        }
+    ],
+    "wof:id":203141461,
+    "wof:lastmodified":1449025588,
+    "wof:name":"Powerhouse Distributing, LLC.",
+    "wof:parent_id":85872531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "lawn",
+        "outdoor",
+        "power",
+        "landscaping",
+        "equipment-sales",
+        "equipment",
+        "saw"
+    ]
+},
+  "bbox": [-96.084419,41.216221,-96.084419,41.216221],
+  "geometry": {"coordinates":[-96.084419,41.216221],"type":"Point"}
+}

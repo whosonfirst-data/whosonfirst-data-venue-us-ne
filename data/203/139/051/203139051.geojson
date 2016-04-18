@@ -1,0 +1,68 @@
+{
+  "id": 203139051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.177562,41.189659,-96.177562,41.189659",
+    "geom:latitude":41.189659,
+    "geom:longitude":-96.177562,
+    "iso:country":"US",
+    "sg:address":"16821 Audrey St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 895 2938",
+    "sg:postcode":"68136",
+    "sg:province":"NE",
+    "sg:tags":[
+        "saving",
+        "commercial"
+    ],
+    "sg:website":"http://www.pinnbank.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        102082789,
+        85834285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3KX0cWSrRsQC7YkhT6LBeo_41.189659_-96.177562@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"85c65d82e931b3d61e4852d3175d179c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":-1,
+            "neighbourhood_id":85834285,
+            "region_id":85688563,
+            "venue_id":203139051
+        }
+    ],
+    "wof:id":203139051,
+    "wof:lastmodified":1449025114,
+    "wof:name":"Pinnacle Bank",
+    "wof:parent_id":85834285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "saving",
+        "commercial"
+    ]
+},
+  "bbox": [-96.177562,41.189659,-96.177562,41.189659],
+  "geometry": {"coordinates":[-96.177562,41.189659],"type":"Point"}
+}

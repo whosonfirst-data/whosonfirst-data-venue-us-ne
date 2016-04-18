@@ -1,0 +1,61 @@
+{
+  "id": 203098805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.043005,41.252835,-96.043005,41.252835",
+    "geom:latitude":41.252835,
+    "geom:longitude":-96.043005,
+    "iso:country":"US",
+    "sg:address":"530 S 84th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 393 0926",
+    "sg:postcode":"68114",
+    "sg:province":"NE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6DB9v5ppuly3eGz9cYYgJQ_41.252835_-96.043005@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b5cfb2f34b7e88715bec59c17d5d05ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872509,
+            "region_id":85688563,
+            "venue_id":203098805
+        }
+    ],
+    "wof:id":203098805,
+    "wof:lastmodified":1449026669,
+    "wof:name":"Neon Goose Inc Dba Taxi S Rest",
+    "wof:parent_id":85872509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-96.043005,41.252835,-96.043005,41.252835],
+  "geometry": {"coordinates":[-96.043005,41.252835],"type":"Point"}
+}

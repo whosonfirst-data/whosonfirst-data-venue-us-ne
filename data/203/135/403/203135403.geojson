@@ -1,0 +1,82 @@
+{
+  "id": 203135403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.051726,41.310572,-96.051726,41.310572",
+    "geom:latitude":41.310572,
+    "geom:longitude":-96.051726,
+    "iso:country":"US",
+    "sg:address":"8802 Military Rd",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 573 5800",
+    "sg:postcode":"68134",
+    "sg:province":"NE",
+    "sg:tags":[
+        "cleaner",
+        "plumber",
+        "industrial",
+        "repairer",
+        "sewer",
+        "contractors-commercial",
+        "plumbing-drain"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        102082789,
+        85872505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0G5eYSrP7i4SXbjc1zkPup_41.310572_-96.051726@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"13772066b7153a1db97e3dcf62ce9819",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":-1,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":203135403
+        }
+    ],
+    "wof:id":203135403,
+    "wof:lastmodified":1449025648,
+    "wof:name":"Malloy Plumbing Inc",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaner",
+        "plumber",
+        "industrial",
+        "repairer",
+        "sewer",
+        "contractors-commercial",
+        "plumbing-drain"
+    ]
+},
+  "bbox": [-96.051726,41.310572,-96.051726,41.310572],
+  "geometry": {"coordinates":[-96.051726,41.310572],"type":"Point"}
+}

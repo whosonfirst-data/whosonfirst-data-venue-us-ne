@@ -1,0 +1,91 @@
+{
+  "id": 202987019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.23637,41.266485,-96.23637,41.266485",
+    "geom:latitude":41.266485,
+    "geom:longitude":-96.23637,
+    "iso:country":"US",
+    "sg:address":"21206 Cumberland Dr",
+    "sg:city":"Elkhorn",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Hardware",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 352 3167",
+    "sg:postcode":"68022",
+    "sg:province":"NE",
+    "sg:tags":[
+        "renting",
+        "lawn",
+        "outdoor",
+        "power",
+        "landscaping",
+        "equipment-sales",
+        "equipment",
+        "saw"
+    ],
+    "sg:website":"http://www.stihlusa.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85868921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5oV9qkNetZTFCloSKH9Jt5_41.266485_-96.236370@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6295047fc198e99a4a99f46f6979a462",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85868921,
+            "region_id":85688563,
+            "venue_id":202987019
+        }
+    ],
+    "wof:id":202987019,
+    "wof:lastmodified":1449061522,
+    "wof:name":"QC Supply, LLC",
+    "wof:parent_id":85868921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "lawn",
+        "outdoor",
+        "power",
+        "landscaping",
+        "equipment-sales",
+        "equipment",
+        "saw"
+    ]
+},
+  "bbox": [-96.23637,41.266485,-96.23637,41.266485],
+  "geometry": {"coordinates":[-96.23637,41.266485],"type":"Point"}
+}

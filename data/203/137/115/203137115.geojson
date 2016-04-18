@@ -1,0 +1,82 @@
+{
+  "id": 203137115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.059231,41.28043,-96.059231,41.28043",
+    "geom:latitude":41.28043,
+    "geom:longitude":-96.059231,
+    "iso:country":"US",
+    "sg:address":"9415 Cady Ave",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 397 5445",
+    "sg:postcode":"68134",
+    "sg:province":"NE",
+    "sg:tags":[
+        "management",
+        "vacancy",
+        "apartment",
+        "listing",
+        "rental",
+        "finder"
+    ],
+    "sg:website":"http://www.seldin.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85867061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7kAqrvl4ofkCYBlYzLgnDg_41.280430_-96.059231@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7dbec28ce3b3a2c440f9c251a3e78920",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85867061,
+            "region_id":85688563,
+            "venue_id":203137115
+        }
+    ],
+    "wof:id":203137115,
+    "wof:lastmodified":1449026598,
+    "wof:name":"Camelot Village Vi Apartments",
+    "wof:parent_id":85867061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "management",
+        "vacancy",
+        "apartment",
+        "listing",
+        "rental",
+        "finder"
+    ]
+},
+  "bbox": [-96.059231,41.28043,-96.059231,41.28043],
+  "geometry": {"coordinates":[-96.059231,41.28043],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 203124061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.980258,41.261463,-95.980258,41.261463",
+    "geom:latitude":41.261463,
+    "geom:longitude":-95.980258,
+    "iso:country":"US",
+    "sg:address":"225 N Saddle Creek Rd",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 551 1797",
+    "sg:postcode":"68131",
+    "sg:province":"NE",
+    "sg:tags":[
+        "photography",
+        "drugstore",
+        "store"
+    ],
+    "sg:website":"www.walgreens.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85867055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0IcHcWKh6igsrQ4TSxfC51_41.261463_-95.980258@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1d72d46b998f1ef006e1b0232a066bd6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85867055,
+            "region_id":85688563,
+            "venue_id":203124061
+        }
+    ],
+    "wof:id":203124061,
+    "wof:lastmodified":1449026728,
+    "wof:name":"Walgreen Drug Stores",
+    "wof:parent_id":85867055,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photography",
+        "drugstore",
+        "store"
+    ]
+},
+  "bbox": [-95.980258,41.261463,-95.980258,41.261463],
+  "geometry": {"coordinates":[-95.980258,41.261463],"type":"Point"}
+}

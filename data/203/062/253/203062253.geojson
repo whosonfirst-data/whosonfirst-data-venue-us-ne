@@ -1,0 +1,68 @@
+{
+  "id": 203062253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.016296,41.223099,-96.016296,41.223099",
+    "geom:latitude":41.223099,
+    "geom:longitude":-96.016296,
+    "iso:country":"US",
+    "sg:address":"6777 C St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Pet Boarding",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 397 6950",
+    "sg:postcode":"68106",
+    "sg:province":"NE",
+    "sg:tags":[
+        "boarding/pet",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85867059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1oXQY4CLUuZ5OhhiFSmmUP_41.223099_-96.016296@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5f359f6daccc4217c35465768fb71037",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85867059,
+            "region_id":85688563,
+            "venue_id":203062253
+        }
+    ],
+    "wof:id":203062253,
+    "wof:lastmodified":1449026735,
+    "wof:name":"Karsim Kennel",
+    "wof:parent_id":85867059,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "boarding/pet",
+        "sitting"
+    ]
+},
+  "bbox": [-96.016296,41.223099,-96.016296,41.223099],
+  "geometry": {"coordinates":[-96.016296,41.223099],"type":"Point"}
+}

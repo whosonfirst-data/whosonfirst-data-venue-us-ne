@@ -1,0 +1,68 @@
+{
+  "id": 203048923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.999901,41.2841,-95.999901,41.2841",
+    "geom:latitude":41.2841,
+    "geom:longitude":-95.999901,
+    "iso:country":"US",
+    "sg:address":"2821 N 56th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 554 0404",
+    "sg:postcode":"68104",
+    "sg:province":"NE",
+    "sg:tags":[
+        "surgeon",
+        "oral"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ynpfRJK2WMpYHEo907yvH_41.284100_-95.999901@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"027d9c28e93e5a3dc67b16bfb1d389f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872535,
+            "region_id":85688563,
+            "venue_id":203048923
+        }
+    ],
+    "wof:id":203048923,
+    "wof:lastmodified":1449025585,
+    "wof:name":"Kelley Lawrence J DDS",
+    "wof:parent_id":85872535,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surgeon",
+        "oral"
+    ]
+},
+  "bbox": [-95.999901,41.2841,-95.999901,41.2841],
+  "geometry": {"coordinates":[-95.999901,41.2841],"type":"Point"}
+}

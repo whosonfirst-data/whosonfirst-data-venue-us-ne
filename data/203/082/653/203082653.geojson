@@ -1,0 +1,88 @@
+{
+  "id": 203082653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.927673,41.276821,-95.927673,41.276821",
+    "geom:latitude":41.276821,
+    "geom:longitude":-95.927673,
+    "iso:country":"US",
+    "sg:address":"900 Grace St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        },
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        },
+        {
+            "category":"Utilities",
+            "subcategory":"Recycling",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 734 3103",
+    "sg:postcode":"68110",
+    "sg:province":"NE",
+    "sg:tags":[
+        "container",
+        "garbage",
+        "trucking-light",
+        "hauling",
+        "collection",
+        "removal",
+        "rubbish"
+    ],
+    "sg:website":"http://www.aquikdump.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_41ULU9NQBJCxmWNQDhc9OD_41.276821_-95.927673@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1f41331e5d1eabc578bf9876d9bbfddf",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203082653
+        }
+    ],
+    "wof:id":203082653,
+    "wof:lastmodified":1449024996,
+    "wof:name":"A Quick Dump",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "container",
+        "garbage",
+        "trucking-light",
+        "hauling",
+        "collection",
+        "removal",
+        "rubbish"
+    ]
+},
+  "bbox": [-95.927673,41.276821,-95.927673,41.276821],
+  "geometry": {"coordinates":[-95.927673,41.276821],"type":"Point"}
+}

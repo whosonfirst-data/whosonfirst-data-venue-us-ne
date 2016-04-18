@@ -1,0 +1,85 @@
+{
+  "id": 203110963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.967742,41.142011,-95.967742,41.142011",
+    "geom:latitude":41.142011,
+    "geom:longitude":-95.967742,
+    "iso:country":"US",
+    "sg:address":"3604 Twin Creek Dr Ste 111",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 682 9000",
+    "sg:postcode":"68123",
+    "sg:province":"NE",
+    "sg:tags":[
+        "control",
+        "physician",
+        "management",
+        "weight",
+        "loss",
+        "dietitian",
+        "surgeons",
+        "nutritionist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85821583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5x5gRYX7jVZ1XG5qJcmG9U_41.142011_-95.967742@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"184124a72b138d94679034de768e480e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85821583,
+            "region_id":85688563,
+            "venue_id":203110963
+        }
+    ],
+    "wof:id":203110963,
+    "wof:lastmodified":1449025539,
+    "wof:name":"Metabolic Research Ctr",
+    "wof:parent_id":85821583,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "control",
+        "physician",
+        "management",
+        "weight",
+        "loss",
+        "dietitian",
+        "surgeons",
+        "nutritionist"
+    ]
+},
+  "bbox": [-95.967742,41.142011,-95.967742,41.142011],
+  "geometry": {"coordinates":[-95.967742,41.142011],"type":"Point"}
+}

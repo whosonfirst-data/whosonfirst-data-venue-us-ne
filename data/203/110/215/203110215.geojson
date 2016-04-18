@@ -1,0 +1,69 @@
+{
+  "id": 203110215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.062167,41.366761,-96.062167,41.366761",
+    "geom:latitude":41.366761,
+    "geom:longitude":-96.062167,
+    "iso:country":"US",
+    "sg:address":"11885 N 96th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 571 0288",
+    "sg:postcode":"68122",
+    "sg:province":"NE",
+    "sg:tags":[
+        "isp",
+        "provider",
+        "internet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        102082789,
+        85872505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3paAuDjJaG6HJqfy7yyZ62_41.366761_-96.062167@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"bc556c6a54b8066e9a04ae4c49f70bf4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":-1,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":203110215
+        }
+    ],
+    "wof:id":203110215,
+    "wof:lastmodified":1449025544,
+    "wof:name":"Worldwide Access Solutions Inc",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "isp",
+        "provider",
+        "internet"
+    ]
+},
+  "bbox": [-96.062167,41.366761,-96.062167,41.366761],
+  "geometry": {"coordinates":[-96.062167,41.366761],"type":"Point"}
+}

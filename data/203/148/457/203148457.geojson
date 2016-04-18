@@ -1,0 +1,84 @@
+{
+  "id": 203148457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.079386,41.260273,-96.079386,41.260273",
+    "geom:latitude":41.260273,
+    "geom:longitude":-96.079386,
+    "iso:country":"US",
+    "sg:address":"10832 Old Mill Rd Ste 8",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Event Space",
+            "type":"Services"
+        },
+        {
+            "category":"Conference Center",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 333 3062",
+    "sg:postcode":"68154",
+    "sg:province":"NE",
+    "sg:tags":[
+        "facility",
+        "hall",
+        "planning",
+        "reception",
+        "convention",
+        "meeting",
+        "banquet"
+    ],
+    "sg:website":"http://www.planitomaha.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85867061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_13l6cTMFKFpGMKLvV9Wzis_41.260273_-96.079386@1303262943"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"691e918b7803f554724f231eeefae79a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85867061,
+            "region_id":85688563,
+            "venue_id":203148457
+        }
+    ],
+    "wof:id":203148457,
+    "wof:lastmodified":1449026549,
+    "wof:name":"planitOmaha inc",
+    "wof:parent_id":85867061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "facility",
+        "hall",
+        "planning",
+        "reception",
+        "convention",
+        "meeting",
+        "banquet"
+    ]
+},
+  "bbox": [-96.079386,41.260273,-96.079386,41.260273],
+  "geometry": {"coordinates":[-96.079386,41.260273],"type":"Point"}
+}

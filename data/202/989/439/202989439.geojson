@@ -1,0 +1,95 @@
+{
+  "id": 202989439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.055886,41.154461,-96.055886,41.154461",
+    "geom:latitude":41.154461,
+    "geom:longitude":-96.055886,
+    "iso:country":"US",
+    "sg:address":"1010 W Lincoln St",
+    "sg:city":"Papillion",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Party Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Event Space",
+            "type":"Services"
+        },
+        {
+            "category":"Conference Center",
+            "subcategory":"",
+            "type":"Public Place"
+        },
+        {
+            "category":"Exhibition Hall",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 593 8099",
+    "sg:postcode":"68046",
+    "sg:province":"NE",
+    "sg:tags":[
+        "ballroom",
+        "facility",
+        "convention",
+        "halls",
+        "reception",
+        "wedding",
+        "banquet",
+        "auditorium"
+    ],
+    "sg:website":"http://www.theclubomaha.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        102082789,
+        85843697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2gz8lYlHohlT5SbeDZay2K_41.154461_-96.055886@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a25ae9f46361368718b8f3b59bd3fdd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":-1,
+            "neighbourhood_id":85843697,
+            "region_id":85688563,
+            "venue_id":202989439
+        }
+    ],
+    "wof:id":202989439,
+    "wof:lastmodified":1449061957,
+    "wof:name":"Club Convention Center",
+    "wof:parent_id":85843697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ballroom",
+        "facility",
+        "convention",
+        "halls",
+        "reception",
+        "wedding",
+        "banquet",
+        "auditorium"
+    ]
+},
+  "bbox": [-96.055886,41.154461,-96.055886,41.154461],
+  "geometry": {"coordinates":[-96.055886,41.154461],"type":"Point"}
+}

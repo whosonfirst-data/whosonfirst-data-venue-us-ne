@@ -1,0 +1,80 @@
+{
+  "id": 203110763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.950716,41.129374,-95.950716,41.129374",
+    "geom:latitude":41.129374,
+    "geom:longitude":-95.950716,
+    "iso:country":"US",
+    "sg:address":"2726 Kennedy Blvd",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"Preschool",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 293 4794",
+    "sg:postcode":"68123",
+    "sg:province":"NE",
+    "sg:tags":[
+        "kindergarten",
+        "educational",
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85821583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1B2mQMZ7I6zfcs5MDYIusw_41.129374_-95.950716@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ff82c188dd7dcac7a0527e1510cba477",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85821583,
+            "region_id":85688563,
+            "venue_id":203110763
+        }
+    ],
+    "wof:id":203110763,
+    "wof:lastmodified":1449025545,
+    "wof:name":"Le May Elementary School",
+    "wof:parent_id":85821583,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "kindergarten",
+        "educational",
+        "elementary"
+    ]
+},
+  "bbox": [-95.950716,41.129374,-95.950716,41.129374],
+  "geometry": {"coordinates":[-95.950716,41.129374],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 203051815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.955902,41.250198,-95.955902,41.250198",
+    "geom:latitude":41.250198,
+    "geom:longitude":-95.955902,
+    "iso:country":"US",
+    "sg:address":"1026 Park Ave Apt 318",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 346 6538",
+    "sg:postcode":"68105",
+    "sg:province":"NE",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7521LLPoF0dk2STUceC93F_41.250198_-95.955902@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b1c2482d4083e8b3c4ac36726dfcfd50",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872527,
+            "region_id":85688563,
+            "venue_id":203051815
+        }
+    ],
+    "wof:id":203051815,
+    "wof:lastmodified":1449026117,
+    "wof:name":"Park Ave Plaza Apts",
+    "wof:parent_id":85872527,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [-95.955902,41.250198,-95.955902,41.250198],
+  "geometry": {"coordinates":[-95.955902,41.250198],"type":"Point"}
+}

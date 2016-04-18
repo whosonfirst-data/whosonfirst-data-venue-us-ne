@@ -1,0 +1,74 @@
+{
+  "id": 202990523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.042938,41.156471,-96.042938,41.156471",
+    "geom:latitude":41.156471,
+    "geom:longitude":-96.042938,
+    "iso:country":"US",
+    "sg:address":"101 E 1st St",
+    "sg:city":"Papillion",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"Picnic Area",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Landmark",
+            "subcategory":"Tourist Information",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 331 5183",
+    "sg:postcode":"68046",
+    "sg:province":"NE",
+    "sg:tags":[
+        "attraction",
+        "amusement",
+        "arcade"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        102082789,
+        85843697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3sR3F6rZt7Uqx10IGxcnfG_41.156471_-96.042938@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"fffb0ad9d42af6c2913d2eabddd3cd32",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":-1,
+            "neighbourhood_id":85843697,
+            "region_id":85688563,
+            "venue_id":202990523
+        }
+    ],
+    "wof:id":202990523,
+    "wof:lastmodified":1449061785,
+    "wof:name":"Clarence Peterson Concession",
+    "wof:parent_id":85843697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attraction",
+        "amusement",
+        "arcade"
+    ]
+},
+  "bbox": [-96.042938,41.156471,-96.042938,41.156471],
+  "geometry": {"coordinates":[-96.042938,41.156471],"type":"Point"}
+}

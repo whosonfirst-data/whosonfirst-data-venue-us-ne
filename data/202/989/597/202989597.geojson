@@ -1,0 +1,69 @@
+{
+  "id": 202989597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.163984,40.999863,-96.163984,40.999863",
+    "geom:latitude":40.999863,
+    "geom:longitude":-96.163984,
+    "iso:country":"US",
+    "sg:address":"200 W 3rd St",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 234 4215",
+    "sg:postcode":"68037",
+    "sg:province":"NE",
+    "sg:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974337,
+        102082791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0f7jL2HsieX2V14iiWldJq_40.999863_-96.163984@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"24b8f2b646714e893278ce959136996d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082791,
+            "locality_id":85974337,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":202989597
+        }
+    ],
+    "wof:id":202989597,
+    "wof:lastmodified":1449061959,
+    "wof:name":"Schools",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ]
+},
+  "bbox": [-96.163984,40.999863,-96.163984,40.999863],
+  "geometry": {"coordinates":[-96.163984,40.999863],"type":"Point"}
+}

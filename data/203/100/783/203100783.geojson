@@ -1,0 +1,73 @@
+{
+  "id": 203100783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.174629,41.307259,-96.174629,41.307259",
+    "geom:latitude":41.307259,
+    "geom:longitude":-96.174629,
+    "iso:country":"US",
+    "sg:address":"16601 Ogden St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Hobbies, Toys, & Games",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 614 2393",
+    "sg:postcode":"68116",
+    "sg:province":"NE",
+    "sg:tags":[
+        "shop",
+        "hobby",
+        "model",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633793,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2gH1P2mKWx0DvTZ8j4ezTR_41.307259_-96.174629@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7b9705d0401d0e5ed2a70461e27794e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203100783
+        }
+    ],
+    "wof:id":203100783,
+    "wof:lastmodified":1449026364,
+    "wof:name":"Crafts By Kitty",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "hobby",
+        "model",
+        "supply"
+    ]
+},
+  "bbox": [-96.174629,41.307259,-96.174629,41.307259],
+  "geometry": {"coordinates":[-96.174629,41.307259],"type":"Point"}
+}

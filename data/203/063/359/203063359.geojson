@@ -1,0 +1,66 @@
+{
+  "id": 203063359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.009697,41.237886,-96.009697,41.237886",
+    "geom:latitude":41.237886,
+    "geom:longitude":-96.009697,
+    "iso:country":"US",
+    "sg:address":"6307 Center St.",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 452 7231",
+    "sg:postcode":"68106",
+    "sg:province":"NE",
+    "sg:tags":[
+        "hair"
+    ],
+    "sg:website":"www.modstudiosalon.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5l9GN7BloxXvVO5u2F3loD_41.237886_-96.009697@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"cd0225ade313a3e98f4672e466dd2c62",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203063359
+        }
+    ],
+    "wof:id":203063359,
+    "wof:lastmodified":1449025098,
+    "wof:name":"Mod Studio Salon",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hair"
+    ]
+},
+  "bbox": [-96.009697,41.237886,-96.009697,41.237886],
+  "geometry": {"coordinates":[-96.009697,41.237886],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 203078379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.944199,41.229401,-95.944199,41.229401",
+    "geom:latitude":41.229401,
+    "geom:longitude":-95.944199,
+    "iso:country":"US",
+    "sg:address":"2109 Vinton St Apt 29",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 341 1468",
+    "sg:postcode":"68108",
+    "sg:province":"NE",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6gYoqphLwPXrIjMeU6uLZl_41.229401_-95.944199@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"386c5c4857f396f99bf4c652964233d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203078379
+        }
+    ],
+    "wof:id":203078379,
+    "wof:lastmodified":1449026553,
+    "wof:name":"Vinton Street Apartments",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [-95.944199,41.229401,-95.944199,41.229401],
+  "geometry": {"coordinates":[-95.944199,41.229401],"type":"Point"}
+}

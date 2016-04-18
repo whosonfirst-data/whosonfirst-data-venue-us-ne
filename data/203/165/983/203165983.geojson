@@ -1,0 +1,67 @@
+{
+  "id": 203165983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.653765,40.786203,-96.653765,40.786203",
+    "geom:latitude":40.786203,
+    "geom:longitude":-96.653765,
+    "iso:country":"US",
+    "sg:address":"2600 S 48th St Ste 6",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 483 6067",
+    "sg:postcode":"68506",
+    "sg:province":"NE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878735
+    ],
+    "wof:brand_id":420575537,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_25OD8gyic4A6iHL8lxm8lf_40.786203_-96.653765@1303262943"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e9917f62f326effe107034f2db5d007f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878735,
+            "region_id":85688563,
+            "venue_id":203165983
+        }
+    ],
+    "wof:id":203165983,
+    "wof:lastmodified":1457209635,
+    "wof:name":"Hair Masters",
+    "wof:parent_id":85878735,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.653765,
+    40.786203,
+    -96.653765,
+    40.786203
+],
+  "geometry": {"coordinates":[-96.65376500000001,40.786203],"type":"Point"}
+}

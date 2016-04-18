@@ -1,0 +1,66 @@
+{
+  "id": 203090817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.980301,41.278702,-95.980301,41.278702",
+    "geom:latitude":41.278702,
+    "geom:longitude":-95.980301,
+    "iso:country":"US",
+    "sg:address":"2205 Military Ave",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 553 6394",
+    "sg:postcode":"68111",
+    "sg:province":"NE",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2mYlWrQR0fbsQ9rJDO31so_41.278702_-95.980301@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"95c808c7675d41bbfd699d96c8624718",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872535,
+            "region_id":85688563,
+            "venue_id":203090817
+        }
+    ],
+    "wof:id":203090817,
+    "wof:lastmodified":1449026446,
+    "wof:name":"AAA Electrostatic Painting Inc",
+    "wof:parent_id":85872535,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [-95.980301,41.278702,-95.980301,41.278702],
+  "geometry": {"coordinates":[-95.980301,41.278702],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 203117131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.17012,41.24493,-96.17012,41.24493",
+    "geom:latitude":41.24493,
+    "geom:longitude":-96.17012,
+    "iso:country":"US",
+    "sg:address":"1305 S 163rd Ave",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Place Of Worship",
+            "subcategory":"",
+            "type":"Public Place"
+        },
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 933 4095",
+    "sg:postcode":"68130",
+    "sg:province":"NE",
+    "sg:tags":[
+        "church"
+    ],
+    "sg:website":"http://www.stepuptolife.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2c0CtguTUuASmYeOo08pfz_41.244930_-96.170120@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3d098741b246a4434c38afacf5368ef4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203117131
+        }
+    ],
+    "wof:id":203117131,
+    "wof:lastmodified":1449026270,
+    "wof:name":"Step Up To Life Ministries",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [-96.17012,41.24493,-96.17012,41.24493],
+  "geometry": {"coordinates":[-96.17012,41.24493],"type":"Point"}
+}

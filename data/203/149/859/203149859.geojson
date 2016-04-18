@@ -1,0 +1,81 @@
+{
+  "id": 203149859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.156898,41.264912,-96.156898,41.264912",
+    "geom:latitude":41.264912,
+    "geom:longitude":-96.156898,
+    "iso:country":"US",
+    "sg:address":"589 N 155th Plz",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 932 8110",
+    "sg:postcode":"68154",
+    "sg:province":"NE",
+    "sg:tags":[
+        "shop",
+        "sandwich",
+        "take"
+    ],
+    "sg:website":"http://www.jimmyjohns.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973479,
+        102082789,
+        85806957
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6XSHbFrrVust3M6aDuLmuU_41.264912_-96.156898@1303262943"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a9deb179e9911144d61d07eaadff4283",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973479,
+            "neighbourhood_id":85806957,
+            "region_id":85688563,
+            "venue_id":203149859
+        }
+    ],
+    "wof:id":203149859,
+    "wof:lastmodified":1449024942,
+    "wof:name":"Jimmy John's",
+    "wof:parent_id":85806957,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "sandwich",
+        "take"
+    ]
+},
+  "bbox": [-96.156898,41.264912,-96.156898,41.264912],
+  "geometry": {"coordinates":[-96.156898,41.264912],"type":"Point"}
+}

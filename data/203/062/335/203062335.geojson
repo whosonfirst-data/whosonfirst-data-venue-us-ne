@@ -1,0 +1,70 @@
+{
+  "id": 203062335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.014512,41.225031,-96.014512,41.225031",
+    "geom:latitude":41.225031,
+    "geom:longitude":-96.014512,
+    "iso:country":"US",
+    "sg:address":"3718 S 66th St Ste 1",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 334 9595",
+    "sg:postcode":"68106",
+    "sg:province":"NE",
+    "sg:tags":[
+        "air",
+        "heating",
+        "conditioning/hvac"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85867059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Mpm3aV8cJdZi0atdXkabn_41.225031_-96.014512@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2f64fd709b0cc0f81ffe820f56ef4c7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85867059,
+            "region_id":85688563,
+            "venue_id":203062335
+        }
+    ],
+    "wof:id":203062335,
+    "wof:lastmodified":1449026734,
+    "wof:name":"Donovan Brothers Heating & Cooling Inc",
+    "wof:parent_id":85867059,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "air",
+        "heating",
+        "conditioning/hvac"
+    ]
+},
+  "bbox": [-96.014512,41.225031,-96.014512,41.225031],
+  "geometry": {"coordinates":[-96.014512,41.225031],"type":"Point"}
+}

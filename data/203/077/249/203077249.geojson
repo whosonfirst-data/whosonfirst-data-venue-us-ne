@@ -1,0 +1,65 @@
+{
+  "id": 203077249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.929703,41.248001,-95.929703,41.248001",
+    "geom:latitude":41.248001,
+    "geom:longitude":-95.929703,
+    "iso:country":"US",
+    "sg:address":"1001 Pierce St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 345 4420",
+    "sg:postcode":"68108",
+    "sg:province":"NE",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7EAY3Q6Lm0jDYFv3VW8DZT_41.248001_-95.929703@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b71b43e0fba857a30d0e0b25011b1106",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203077249
+        }
+    ],
+    "wof:id":203077249,
+    "wof:lastmodified":1449025231,
+    "wof:name":"M C of A Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [-95.929703,41.248001,-95.929703,41.248001],
+  "geometry": {"coordinates":[-95.929703,41.248001],"type":"Point"}
+}

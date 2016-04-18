@@ -1,0 +1,68 @@
+{
+  "id": 203168695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.724048,40.857579,-96.724048,40.857579",
+    "geom:latitude":40.857579,
+    "geom:longitude":-96.724048,
+    "iso:country":"US",
+    "sg:address":"4665 Innovation Dr Ste 150",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 323 2700",
+    "sg:postcode":"68521",
+    "sg:province":"NE",
+    "sg:tags":[
+        "repair",
+        "equipment-service"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4eS3upDJpUpzkrgObTlSOr_40.857579_-96.724048@1303262943"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7ab733b0fc3f0044645e2c57d4b957a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878717,
+            "region_id":85688563,
+            "venue_id":203168695
+        }
+    ],
+    "wof:id":203168695,
+    "wof:lastmodified":1449025927,
+    "wof:name":"Computer Services Inc",
+    "wof:parent_id":85878717,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "equipment-service"
+    ]
+},
+  "bbox": [-96.724048,40.857579,-96.724048,40.857579],
+  "geometry": {"coordinates":[-96.724048,40.857579],"type":"Point"}
+}

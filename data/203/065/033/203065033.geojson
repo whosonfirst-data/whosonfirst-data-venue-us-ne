@@ -1,0 +1,68 @@
+{
+  "id": 203065033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.958298,41.212399,-95.958298,41.212399",
+    "geom:latitude":41.212399,
+    "geom:longitude":-95.958298,
+    "iso:country":"US",
+    "sg:address":"3030 L St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Pet Boarding",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 734 1494",
+    "sg:postcode":"68107",
+    "sg:province":"NE",
+    "sg:tags":[
+        "boarding/pet",
+        "sitting"
+    ],
+    "sg:website":"www.bestcarepethospitalomaha.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Lvglmb01seWJ1L3sywWUe_41.212399_-95.958298@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0ab0700993f152b403ec367efc92685e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203065033
+        }
+    ],
+    "wof:id":203065033,
+    "wof:lastmodified":1449026858,
+    "wof:name":"Best Care Pet Hospital",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "boarding/pet",
+        "sitting"
+    ]
+},
+  "bbox": [-95.958298,41.212399,-95.958298,41.212399],
+  "geometry": {"coordinates":[-95.958298,41.212399],"type":"Point"}
+}

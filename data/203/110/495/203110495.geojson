@@ -1,0 +1,75 @@
+{
+  "id": 203110495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.026397,41.322498,-96.026397,41.322498",
+    "geom:latitude":41.322498,
+    "geom:longitude":-96.026397,
+    "iso:country":"US",
+    "sg:address":"7021 N 74th Cir",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Buildings",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 612 3553",
+    "sg:postcode":"68122",
+    "sg:province":"NE",
+    "sg:tags":[
+        "home",
+        "builder",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85813863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_63kLCckw3jMCWQTj08g6q1_41.322498_-96.026397@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6f20ffe1d5f6084666171196989e1d49",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85813863,
+            "region_id":85688563,
+            "venue_id":203110495
+        }
+    ],
+    "wof:id":203110495,
+    "wof:lastmodified":1449025542,
+    "wof:name":"Home Motives",
+    "wof:parent_id":85813863,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "builder",
+        "contractor"
+    ]
+},
+  "bbox": [-96.026397,41.322498,-96.026397,41.322498],
+  "geometry": {"coordinates":[-96.026397,41.322498],"type":"Point"}
+}

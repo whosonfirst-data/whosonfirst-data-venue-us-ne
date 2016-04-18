@@ -1,0 +1,70 @@
+{
+  "id": 203107253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.996233,41.199296,-95.996233,41.199296",
+    "geom:latitude":41.199296,
+    "geom:longitude":-95.996233,
+    "iso:country":"US",
+    "sg:address":"5829 S 52nd St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Advertising",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 733 4416",
+    "sg:postcode":"68117",
+    "sg:province":"NE",
+    "sg:tags":[
+        "outdoor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0SZXEN11FtIRxzMESDSMPX_41.199296_-95.996233@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"927f5ec2a12d54ff182712033c701cda",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203107253
+        }
+    ],
+    "wof:id":203107253,
+    "wof:lastmodified":1449024948,
+    "wof:name":"Hansen Outdoor Advertising",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "outdoor"
+    ]
+},
+  "bbox": [-95.996233,41.199296,-95.996233,41.199296],
+  "geometry": {"coordinates":[-95.996233,41.199296],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 203120823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.9673,41.2668,-95.9673,41.2668",
+    "geom:latitude":41.2668,
+    "geom:longitude":-95.9673,
+    "iso:country":"US",
+    "sg:address":"3601 Burt St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 558 3800",
+    "sg:postcode":"68131",
+    "sg:province":"NE",
+    "sg:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3MkrfJ2ROiSvDoSjAAqUuK_41.266800_-95.967300@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ad57caced7bfb687bf6fa5d3f08cc3da",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872525,
+            "region_id":85688563,
+            "venue_id":203120823
+        }
+    ],
+    "wof:id":203120823,
+    "wof:lastmodified":1449026586,
+    "wof:name":"Duchesne Academy of the Sacred Heart",
+    "wof:parent_id":85872525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ]
+},
+  "bbox": [-95.9673,41.2668,-95.9673,41.2668],
+  "geometry": {"coordinates":[-95.9673,41.2668],"type":"Point"}
+}

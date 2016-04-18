@@ -1,0 +1,89 @@
+{
+  "id": 203120463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.972099,41.257099,-95.972099,41.257099",
+    "geom:latitude":41.257099,
+    "geom:longitude":-95.972099,
+    "iso:country":"US",
+    "sg:address":"400 S 39th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        },
+        {
+            "category":"Education",
+            "subcategory":"Preschool",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"University",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 393 1311",
+    "sg:postcode":"68131",
+    "sg:province":"NE",
+    "sg:tags":[
+        "high",
+        "middle",
+        "college",
+        "day",
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_11xMizLI5lDEdPIePJtohN_41.257099_-95.972099@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4a88ca784ebbd0acaecc778c70002765",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872525,
+            "region_id":85688563,
+            "venue_id":203120463
+        }
+    ],
+    "wof:id":203120463,
+    "wof:lastmodified":1449026585,
+    "wof:name":"Montessori Educational Centers Inc",
+    "wof:parent_id":85872525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "high",
+        "middle",
+        "college",
+        "day",
+        "elementary"
+    ]
+},
+  "bbox": [-95.972099,41.257099,-95.972099,41.257099],
+  "geometry": {"coordinates":[-95.972099,41.257099],"type":"Point"}
+}

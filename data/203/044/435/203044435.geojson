@@ -1,0 +1,70 @@
+{
+  "id": 203044435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.994904,41.307201,-95.994904,41.307201",
+    "geom:latitude":41.307201,
+    "geom:longitude":-95.994904,
+    "iso:country":"US",
+    "sg:address":"5322 N 52nd St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 457 5117",
+    "sg:postcode":"68104",
+    "sg:province":"NE",
+    "sg:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85805755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ZMJbc8og7302qABNyfDIp_41.307201_-95.994904@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"cc44b272e00f600d4a04fdb491a99124",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85805755,
+            "region_id":85688563,
+            "venue_id":203044435
+        }
+    ],
+    "wof:id":203044435,
+    "wof:lastmodified":1449025925,
+    "wof:name":"Omaha Public Schools",
+    "wof:parent_id":85805755,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ]
+},
+  "bbox": [-95.994904,41.307201,-95.994904,41.307201],
+  "geometry": {"coordinates":[-95.994904,41.307201],"type":"Point"}
+}

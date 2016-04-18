@@ -1,0 +1,65 @@
+{
+  "id": 203084035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.881104,41.305599,-95.881104,41.305599",
+    "geom:latitude":41.305599,
+    "geom:longitude":-95.881104,
+    "iso:country":"US",
+    "sg:address":"3737 Orville Plz",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Airline",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 345 2359",
+    "sg:postcode":"68110",
+    "sg:province":"NE",
+    "sg:tags":[
+        "airport"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5fnGgEEsSXexGSFTGS5wwc_41.305599_-95.881104@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"036758dbc0c605480aa0b88fcd954989",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203084035
+        }
+    ],
+    "wof:id":203084035,
+    "wof:lastmodified":1449025148,
+    "wof:name":"Omaha Flight Center",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [-95.881104,41.305599,-95.881104,41.305599],
+  "geometry": {"coordinates":[-95.881104,41.305599],"type":"Point"}
+}

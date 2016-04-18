@@ -1,0 +1,68 @@
+{
+  "id": 203148415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.0121,41.317799,-96.0121,41.317799",
+    "geom:latitude":41.317799,
+    "geom:longitude":-96.0121,
+    "iso:country":"US",
+    "sg:address":"6530 Sorensen Pkwy",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 571 7200",
+    "sg:postcode":"68152",
+    "sg:province":"NE",
+    "sg:tags":[
+        "surgeon",
+        "oral"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85805755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_26M6I7oNDT69i97LHJZN61_41.317799_-96.012100@1303262943"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"65921dac685a2e82270508c772cbcedd",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85805755,
+            "region_id":85688563,
+            "venue_id":203148415
+        }
+    ],
+    "wof:id":203148415,
+    "wof:lastmodified":1449026549,
+    "wof:name":"Wupper John F DDS",
+    "wof:parent_id":85805755,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surgeon",
+        "oral"
+    ]
+},
+  "bbox": [-96.0121,41.317799,-96.0121,41.317799],
+  "geometry": {"coordinates":[-96.0121,41.317799],"type":"Point"}
+}

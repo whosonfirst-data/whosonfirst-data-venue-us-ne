@@ -1,0 +1,67 @@
+{
+  "id": 202987717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.498364,41.436895,-96.498364,41.436895",
+    "geom:latitude":41.436895,
+    "geom:longitude":-96.498364,
+    "iso:country":"US",
+    "sg:address":"805 S Broad St",
+    "sg:city":"Fremont",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 727 6771",
+    "sg:postcode":"68025",
+    "sg:province":"NE",
+    "sg:tags":[
+        "car",
+        "used"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973631,
+        102082773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7lofgNFALgAI2Cs204M1so_41.436895_-96.498364@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9a820789fcd4a809d386d389caf18c94",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082773,
+            "locality_id":85973631,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":202987717
+        }
+    ],
+    "wof:id":202987717,
+    "wof:lastmodified":1449061520,
+    "wof:name":"Sid Perkins Used Cars",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "used"
+    ]
+},
+  "bbox": [-96.498364,41.436895,-96.498364,41.436895],
+  "geometry": {"coordinates":[-96.498364,41.436895],"type":"Point"}
+}

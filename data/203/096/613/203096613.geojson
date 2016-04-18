@@ -1,0 +1,70 @@
+{
+  "id": 203096613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.960525,41.33746,-95.960525,41.33746",
+    "geom:latitude":41.33746,
+    "geom:longitude":-95.960525,
+    "iso:country":"US",
+    "sg:address":"8523 N 30th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Antiques",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 932 9282",
+    "sg:postcode":"68112",
+    "sg:province":"NE",
+    "sg:tags":[
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7C5gZQOGORaAca6vOoul36_41.337460_-95.960525@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"435051a4a2aa8f3b73faae7687e26b5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203096613
+        }
+    ],
+    "wof:id":203096613,
+    "wof:lastmodified":1449025532,
+    "wof:name":"Mill Creek Mercantile",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "store"
+    ]
+},
+  "bbox": [-95.960525,41.33746,-95.960525,41.33746],
+  "geometry": {"coordinates":[-95.960525,41.33746],"type":"Point"}
+}

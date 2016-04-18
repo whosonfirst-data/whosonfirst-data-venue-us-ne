@@ -1,0 +1,70 @@
+{
+  "id": 203134949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.006897,41.261101,-96.006897,41.261101",
+    "geom:latitude":41.261101,
+    "geom:longitude":-96.006897,
+    "iso:country":"US",
+    "sg:address":"123 N 61st St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 551 6663",
+    "sg:postcode":"68132",
+    "sg:province":"NE",
+    "sg:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0hI0DzOjnmCj7pDkizDW4f_41.261101_-96.006897@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"dfefa9956ed8732a8d69844398002e1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872535,
+            "region_id":85688563,
+            "venue_id":203134949
+        }
+    ],
+    "wof:id":203134949,
+    "wof:lastmodified":1449026763,
+    "wof:name":"St Margaret Mary's School Extended Care",
+    "wof:parent_id":85872535,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ]
+},
+  "bbox": [-96.006897,41.261101,-96.006897,41.261101],
+  "geometry": {"coordinates":[-96.006897,41.261101],"type":"Point"}
+}

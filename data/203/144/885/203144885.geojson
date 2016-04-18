@@ -1,0 +1,77 @@
+{
+  "id": 203144885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.119429,41.232035,-96.119429,41.232035",
+    "geom:latitude":41.232035,
+    "geom:longitude":-96.119429,
+    "iso:country":"US",
+    "sg:address":"2945 S 132nd St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 964 0595",
+    "sg:postcode":"68144",
+    "sg:province":"NE",
+    "sg:tags":[
+        "commercial",
+        "loan",
+        "saving",
+        "mortgage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1CcjDjz8RGZzKTDhDYdkuJ_41.232035_-96.119429@1303262943"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"580493b3d5c67b98bfeaf8393b07b136",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872531,
+            "region_id":85688563,
+            "venue_id":203144885
+        }
+    ],
+    "wof:id":203144885,
+    "wof:lastmodified":1449026361,
+    "wof:name":"First Community Bank",
+    "wof:parent_id":85872531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "loan",
+        "saving",
+        "mortgage"
+    ]
+},
+  "bbox": [-96.119429,41.232035,-96.119429,41.232035],
+  "geometry": {"coordinates":[-96.119429,41.232035],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 203061779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.998703,41.238701,-95.998703,41.238701",
+    "geom:latitude":41.238701,
+    "geom:longitude":-95.998703,
+    "iso:country":"US",
+    "sg:address":"5502 Center St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Hardware",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 553 2686",
+    "sg:postcode":"68106",
+    "sg:province":"NE",
+    "sg:tags":[
+        "store"
+    ],
+    "sg:website":"www.acehardware.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6aKQ217g858LFivoUvHAgL_41.238701_-95.998703@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1d511c8019012d940fe1cbd77ec951f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872513,
+            "region_id":85688563,
+            "venue_id":203061779
+        }
+    ],
+    "wof:id":203061779,
+    "wof:lastmodified":1449026334,
+    "wof:name":"Center Ace Hardware",
+    "wof:parent_id":85872513,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "store"
+    ]
+},
+  "bbox": [-95.998703,41.238701,-95.998703,41.238701],
+  "geometry": {"coordinates":[-95.998703,41.238701],"type":"Point"}
+}

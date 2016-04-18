@@ -1,0 +1,81 @@
+{
+  "id": 203041501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.930801,41.2556,-95.930801,41.2556",
+    "geom:latitude":41.2556,
+    "geom:longitude":-95.930801,
+    "iso:country":"US",
+    "sg:address":"1120 Howard St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Stationery & Office Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Stationery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 345 3570",
+    "sg:postcode":"68102",
+    "sg:province":"NE",
+    "sg:tags":[
+        "shop",
+        "store",
+        "greeting",
+        "card"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2vWj00i2cbCSibLCE1F2fO_41.255600_-95.930801@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0b71fe9396a80ce4544d61f5e742b784",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203041501
+        }
+    ],
+    "wof:id":203041501,
+    "wof:lastmodified":1449025598,
+    "wof:name":"City Limits",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "store",
+        "greeting",
+        "card"
+    ]
+},
+  "bbox": [-95.930801,41.2556,-95.930801,41.2556],
+  "geometry": {"coordinates":[-95.930801,41.2556],"type":"Point"}
+}

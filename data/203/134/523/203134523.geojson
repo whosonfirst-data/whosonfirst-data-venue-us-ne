@@ -1,0 +1,70 @@
+{
+  "id": 203134523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.989507,41.259675,-95.989507,41.259675",
+    "geom:latitude":41.259675,
+    "geom:longitude":-95.989507,
+    "iso:country":"US",
+    "sg:address":"4967 Dodge St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Music School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 556 6125",
+    "sg:postcode":"68132",
+    "sg:province":"NE",
+    "sg:tags":[
+        "instrument",
+        "teacher",
+        "musical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85867055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5aMMAn6tcWKfT75f1GUvpm_41.259675_-95.989507@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4d06c0ccbbf95ed31202772ce0a2c03e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85867055,
+            "region_id":85688563,
+            "venue_id":203134523
+        }
+    ],
+    "wof:id":203134523,
+    "wof:lastmodified":1449026765,
+    "wof:name":"Garage Guitar",
+    "wof:parent_id":85867055,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instrument",
+        "teacher",
+        "musical"
+    ]
+},
+  "bbox": [-95.989507,41.259675,-95.989507,41.259675],
+  "geometry": {"coordinates":[-95.989507,41.259675],"type":"Point"}
+}

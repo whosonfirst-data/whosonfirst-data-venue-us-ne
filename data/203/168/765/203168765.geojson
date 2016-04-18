@@ -1,0 +1,66 @@
+{
+  "id": 203168765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.736041,40.837551,-96.736041,40.837551",
+    "geom:latitude":40.837551,
+    "geom:longitude":-96.736041,
+    "iso:country":"US",
+    "sg:address":"1011 W Dawes Ave",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"Lounge",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 475 1629",
+    "sg:postcode":"68521",
+    "sg:province":"NE",
+    "sg:tags":[
+        "cocktail"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85855865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_78bkOOISMkRlFVyG5yXBsK_40.837551_-96.736041@1303262943"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"09579c9d1574a35e5b460e78d2d0d6dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85855865,
+            "region_id":85688563,
+            "venue_id":203168765
+        }
+    ],
+    "wof:id":203168765,
+    "wof:lastmodified":1449025927,
+    "wof:name":"The Point After",
+    "wof:parent_id":85855865,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cocktail"
+    ]
+},
+  "bbox": [-96.736041,40.837551,-96.736041,40.837551],
+  "geometry": {"coordinates":[-96.736041,40.837551],"type":"Point"}
+}

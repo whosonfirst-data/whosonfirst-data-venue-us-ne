@@ -1,0 +1,71 @@
+{
+  "id": 203059495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.004799,41.244999,-96.004799,41.244999",
+    "geom:latitude":41.244999,
+    "geom:longitude":-96.004799,
+    "iso:country":"US",
+    "sg:address":"1512 S 60th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Chiropractor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 551 0410",
+    "sg:postcode":"68106",
+    "sg:province":"NE",
+    "sg:tags":[
+        "acupuncture"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6cESO20h3Z4WFQzOVlrUCk_41.244999_-96.004799@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1199c7055ab9e7a2056e31410d44afc0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872513,
+            "region_id":85688563,
+            "venue_id":203059495
+        }
+    ],
+    "wof:id":203059495,
+    "wof:lastmodified":1449025426,
+    "wof:name":"Guenther Chiropractic",
+    "wof:parent_id":85872513,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "acupuncture"
+    ]
+},
+  "bbox": [-96.004799,41.244999,-96.004799,41.244999],
+  "geometry": {"coordinates":[-96.004799,41.244999],"type":"Point"}
+}

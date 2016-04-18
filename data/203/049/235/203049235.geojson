@@ -1,0 +1,71 @@
+{
+  "id": 203049235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.995041,41.292441,-95.995041,41.292441",
+    "geom:latitude":41.292441,
+    "geom:longitude":-95.995041,
+    "iso:country":"US",
+    "sg:address":"3713 N 52nd St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        },
+        {
+            "category":"Education",
+            "subcategory":"Preschool",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 453 5552",
+    "sg:postcode":"68104",
+    "sg:province":"NE",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85805755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2lH60e2LXAWvOjUJRqo0Iu_41.292441_-95.995041@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"12d309711e607458dcae2beaac75b4bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85805755,
+            "region_id":85688563,
+            "venue_id":203049235
+        }
+    ],
+    "wof:id":203049235,
+    "wof:lastmodified":1449025862,
+    "wof:name":"Creche Preschool & Child Care Center",
+    "wof:parent_id":85805755,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [-95.995041,41.292441,-95.995041,41.292441],
+  "geometry": {"coordinates":[-95.995041,41.292441],"type":"Point"}
+}

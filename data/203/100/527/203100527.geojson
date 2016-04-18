@@ -1,0 +1,67 @@
+{
+  "id": 203100527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.162022,41.292061,-96.162022,41.292061",
+    "geom:latitude":41.292061,
+    "geom:longitude":-96.162022,
+    "iso:country":"US",
+    "sg:address":"15909 W Maple Rd",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 502 7577",
+    "sg:postcode":"68116",
+    "sg:province":"NE",
+    "sg:tags":[
+        "laboratories-pathological",
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_54cT17rQKNIw3t8VZwRaEc_41.292061_-96.162022@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"442b809b729edee856a7ddf6b59626c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203100527
+        }
+    ],
+    "wof:id":203100527,
+    "wof:lastmodified":1449026366,
+    "wof:name":"Omaha Clinical Research Pc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratories-pathological",
+        "laboratory"
+    ]
+},
+  "bbox": [-96.162022,41.292061,-96.162022,41.292061],
+  "geometry": {"coordinates":[-96.162022,41.292061],"type":"Point"}
+}

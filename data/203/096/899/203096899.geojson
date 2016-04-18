@@ -1,0 +1,66 @@
+{
+  "id": 203096899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.065008,41.266035,-96.065008,41.266035",
+    "geom:latitude":41.266035,
+    "geom:longitude":-96.065008,
+    "iso:country":"US",
+    "sg:address":"643 N 98th St Ste 126",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Airport",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 238 1650",
+    "sg:postcode":"68114",
+    "sg:province":"NE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85867061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_605HmNdDNePiq57S4YLSko_41.266035_-96.065008@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f004f2bc2fce1147ae014b6e14f48891",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85867061,
+            "region_id":85688563,
+            "venue_id":203096899
+        }
+    ],
+    "wof:id":203096899,
+    "wof:lastmodified":1449025533,
+    "wof:name":"Baratta Taxi Cab and Airport Shuttle",
+    "wof:parent_id":85867061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-96.065008,41.266035,-96.065008,41.266035],
+  "geometry": {"coordinates":[-96.065008,41.266035],"type":"Point"}
+}

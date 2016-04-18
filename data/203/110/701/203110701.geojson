@@ -1,0 +1,81 @@
+{
+  "id": 203110701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.975442,41.14143,-95.975442,41.14143",
+    "geom:latitude":41.14143,
+    "geom:longitude":-95.975442,
+    "iso:country":"US",
+    "sg:address":"4155 Twin Creek Dr",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 614 4447",
+    "sg:postcode":"68123",
+    "sg:province":"NE",
+    "sg:tags":[
+        "shop",
+        "sandwich",
+        "take"
+    ],
+    "sg:website":"http://www.jimmyjohns.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85821583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4fVSpfYFVzlt9q2nfpPtQD_41.141430_-95.975442@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5a3fcf981dd6b1cbe00e02f5286c6ed9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85821583,
+            "region_id":85688563,
+            "venue_id":203110701
+        }
+    ],
+    "wof:id":203110701,
+    "wof:lastmodified":1449025542,
+    "wof:name":"Jimmy John's",
+    "wof:parent_id":85821583,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "sandwich",
+        "take"
+    ]
+},
+  "bbox": [-95.975442,41.14143,-95.975442,41.14143],
+  "geometry": {"coordinates":[-95.975442,41.14143],"type":"Point"}
+}

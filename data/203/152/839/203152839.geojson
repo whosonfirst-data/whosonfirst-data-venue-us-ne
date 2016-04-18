@@ -1,0 +1,66 @@
+{
+  "id": 203152839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.942658,41.261787,-95.942658,41.261787",
+    "geom:latitude":41.261787,
+    "geom:longitude":-95.942658,
+    "iso:country":"US",
+    "sg:address":"320 N 20th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"University",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 546 6300",
+    "sg:postcode":"68178",
+    "sg:province":"NE",
+    "sg:tags":[
+        "college"
+    ],
+    "sg:website":"www.creighton.edu",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1pYGMRHwL2iF8NuG1KrrW1_41.261787_-95.942658@1303262943"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ae777364f4dad93d0e48d878479bac9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203152839
+        }
+    ],
+    "wof:id":203152839,
+    "wof:lastmodified":1449026393,
+    "wof:name":"Creighton University",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "college"
+    ]
+},
+  "bbox": [-95.942658,41.261787,-95.942658,41.261787],
+  "geometry": {"coordinates":[-95.942658,41.261787],"type":"Point"}
+}

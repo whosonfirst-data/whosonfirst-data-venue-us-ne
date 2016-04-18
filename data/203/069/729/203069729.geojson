@@ -1,0 +1,69 @@
+{
+  "id": 203069729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.974197,41.214401,-95.974197,41.214401",
+    "geom:latitude":41.214401,
+    "geom:longitude":-95.974197,
+    "iso:country":"US",
+    "sg:address":"4501 S 41st St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 731 0484",
+    "sg:postcode":"68107",
+    "sg:province":"NE",
+    "sg:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3mTMDfDaNOf5IAgy6ZhFgw_41.214401_-95.974197@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f86b3dca173621f1fa05cdcd105f6844",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203069729
+        }
+    ],
+    "wof:id":203069729,
+    "wof:lastmodified":1449026163,
+    "wof:name":"St Stanislaus Church",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ]
+},
+  "bbox": [-95.974197,41.214401,-95.974197,41.214401],
+  "geometry": {"coordinates":[-95.974197,41.214401],"type":"Point"}
+}

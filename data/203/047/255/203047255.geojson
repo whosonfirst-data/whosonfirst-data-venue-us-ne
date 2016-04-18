@@ -1,0 +1,66 @@
+{
+  "id": 203047255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.004402,41.299702,-96.004402,41.299702",
+    "geom:latitude":41.299702,
+    "geom:longitude":-96.004402,
+    "iso:country":"US",
+    "sg:address":"5914 Ames Ave",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 453 9950",
+    "sg:postcode":"68104",
+    "sg:province":"NE",
+    "sg:tags":[
+        "tire"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85805755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0U4xemMShlb5CQK9cE9Em5_41.299702_-96.004402@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"11befae881978d3dbc74c656352b7d7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85805755,
+            "region_id":85688563,
+            "venue_id":203047255
+        }
+    ],
+    "wof:id":203047255,
+    "wof:lastmodified":1449026194,
+    "wof:name":"Firestone Tire & Service Centers",
+    "wof:parent_id":85805755,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tire"
+    ]
+},
+  "bbox": [-96.004402,41.299702,-96.004402,41.299702],
+  "geometry": {"coordinates":[-96.004402,41.299702],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 203057947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.007127,41.241237,-96.007127,41.241237",
+    "geom:latitude":41.241237,
+    "geom:longitude":-96.007127,
+    "iso:country":"US",
+    "sg:address":"1929 S 61st Ave",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 932 1800",
+    "sg:postcode":"68106",
+    "sg:province":"NE",
+    "sg:website":"www.OmahaRealEstate.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5FU7EljlvAOuXDTJtxLqy7_41.241237_-96.007127@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4b8e88d3164fa704fa5c9314db1ea51f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872513,
+            "region_id":85688563,
+            "venue_id":203057947
+        }
+    ],
+    "wof:id":203057947,
+    "wof:lastmodified":1449025861,
+    "wof:name":"SureMove Realty",
+    "wof:parent_id":85872513,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-96.007127,41.241237,-96.007127,41.241237],
+  "geometry": {"coordinates":[-96.007127,41.241237],"type":"Point"}
+}

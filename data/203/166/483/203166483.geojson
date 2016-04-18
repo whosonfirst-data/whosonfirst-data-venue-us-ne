@@ -1,0 +1,71 @@
+{
+  "id": 203166483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.702259,40.813599,-96.702259,40.813599",
+    "geom:latitude":40.813599,
+    "geom:longitude":-96.702259,
+    "iso:country":"US",
+    "sg:address":"1323 O St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"Lounge",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 476 7997",
+    "sg:postcode":"68508",
+    "sg:province":"NE",
+    "sg:tags":[
+        "cocktail"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1kIb6uMQP0a9dNGaWOQXDn_40.813599_-96.702259@1303262943"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6047d2c2560860cdb43c40baaf35629e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878699,
+            "region_id":85688563,
+            "venue_id":203166483
+        }
+    ],
+    "wof:id":203166483,
+    "wof:lastmodified":1449026011,
+    "wof:name":"Cliff's Lounge",
+    "wof:parent_id":85878699,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cocktail"
+    ]
+},
+  "bbox": [-96.702259,40.813599,-96.702259,40.813599],
+  "geometry": {"coordinates":[-96.702259,40.813599],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 203150427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.106398,41.277012,-96.106398,41.277012",
+    "geom:latitude":41.277012,
+    "geom:longitude":-96.106398,
+    "iso:country":"US",
+    "sg:address":"12329 Parker Cir",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Petroleum Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 496 2819",
+    "sg:postcode":"68154",
+    "sg:province":"NE",
+    "sg:tags":[
+        "lubricating",
+        "oil",
+        "lubricant"
+    ],
+    "sg:website":"http://www.amsoil.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5KpLtxlL3BJCtl1dPFOGai_41.277012_-96.106398@1303262943"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"aff973aae51010b42ff3e5d45a2536cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872503,
+            "region_id":85688563,
+            "venue_id":203150427
+        }
+    ],
+    "wof:id":203150427,
+    "wof:lastmodified":1449024964,
+    "wof:name":"Amsoil Dealer Direct Jobber",
+    "wof:parent_id":85872503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lubricating",
+        "oil",
+        "lubricant"
+    ]
+},
+  "bbox": [-96.106398,41.277012,-96.106398,41.277012],
+  "geometry": {"coordinates":[-96.106398,41.277012],"type":"Point"}
+}

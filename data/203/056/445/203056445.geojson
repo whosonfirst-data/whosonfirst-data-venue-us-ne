@@ -1,0 +1,66 @@
+{
+  "id": 203056445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.956242,41.245987,-95.956242,41.245987",
+    "geom:latitude":41.245987,
+    "geom:longitude":-95.956242,
+    "iso:country":"US",
+    "sg:address":"1328 Park Ave",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 934 7575",
+    "sg:postcode":"68105",
+    "sg:province":"NE",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2MBgepGpI4kUuIkWkoxa8S_41.245987_-95.956242@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"cd3d78cd6cdf6150a7242a6967d35ca2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872527,
+            "region_id":85688563,
+            "venue_id":203056445
+        }
+    ],
+    "wof:id":203056445,
+    "wof:lastmodified":1449025437,
+    "wof:name":"La Casita",
+    "wof:parent_id":85872527,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [-95.956242,41.245987,-95.956242,41.245987],
+  "geometry": {"coordinates":[-95.956242,41.245987],"type":"Point"}
+}

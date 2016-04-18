@@ -1,0 +1,68 @@
+{
+  "id": 203111871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.048536,41.231899,-96.048536,41.231899",
+    "geom:latitude":41.231899,
+    "geom:longitude":-96.048536,
+    "iso:country":"US",
+    "sg:address":"8715 Oak St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 333 0898",
+    "sg:postcode":"68124",
+    "sg:province":"NE",
+    "sg:tags":[
+        "information",
+        "mental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4537c7U1hD7WbVT2RW3I14_41.231899_-96.048536@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"34494fb63a18677647458abae8170849",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872533,
+            "region_id":85688563,
+            "venue_id":203111871
+        }
+    ],
+    "wof:id":203111871,
+    "wof:lastmodified":1449026905,
+    "wof:name":"Omni Bhvrl Hlth Eating Disordr",
+    "wof:parent_id":85872533,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "information",
+        "mental"
+    ]
+},
+  "bbox": [-96.048536,41.231899,-96.048536,41.231899],
+  "geometry": {"coordinates":[-96.048536,41.231899],"type":"Point"}
+}

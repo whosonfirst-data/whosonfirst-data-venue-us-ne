@@ -1,0 +1,62 @@
+{
+  "id": 203110681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.96573,41.14169,-95.96573,41.14169",
+    "geom:latitude":41.14169,
+    "geom:longitude":-95.96573,
+    "iso:country":"US",
+    "sg:address":"3503 Samson Way",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 291 4750",
+    "sg:postcode":"68123",
+    "sg:province":"NE",
+    "sg:website":"http://www.ever-bloomfloral.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85821583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3IzmLpv2S337uxJ7eTJEHo_41.141690_-95.965730@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8eb4dfd71f89bd52be26c3da628c6432",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85821583,
+            "region_id":85688563,
+            "venue_id":203110681
+        }
+    ],
+    "wof:id":203110681,
+    "wof:lastmodified":1449025542,
+    "wof:name":"Ever-Bloom",
+    "wof:parent_id":85821583,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-95.96573,41.14169,-95.96573,41.14169],
+  "geometry": {"coordinates":[-95.96573,41.14169],"type":"Point"}
+}

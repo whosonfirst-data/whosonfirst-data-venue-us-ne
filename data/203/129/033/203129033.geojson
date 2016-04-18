@@ -1,0 +1,67 @@
+{
+  "id": 203129033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.962025,41.257703,-95.962025,41.257703",
+    "geom:latitude":41.257703,
+    "geom:longitude":-95.962025,
+    "iso:country":"US",
+    "sg:address":"3333 Farnam St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Community Center",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 559 2000",
+    "sg:postcode":"68131",
+    "sg:province":"NE",
+    "sg:tags":[
+        "medical"
+    ],
+    "sg:website":"www.nebraskamed.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Rns5Ek5fNvf30mc9UVnBQ_41.257703_-95.962025@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"db5cb9e95a5f84f4c7d1ce2e5bd4ced0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872525,
+            "region_id":85688563,
+            "venue_id":203129033
+        }
+    ],
+    "wof:id":203129033,
+    "wof:lastmodified":1449026468,
+    "wof:name":"The Nebraska Medical Center",
+    "wof:parent_id":85872525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [-95.962025,41.257703,-95.962025,41.257703],
+  "geometry": {"coordinates":[-95.962025,41.257703],"type":"Point"}
+}

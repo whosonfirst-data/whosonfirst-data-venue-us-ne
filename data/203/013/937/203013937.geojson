@@ -1,0 +1,75 @@
+{
+  "id": 203013937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.946627,41.256193,-95.946627,41.256193",
+    "geom:latitude":41.256193,
+    "geom:longitude":-95.946627,
+    "iso:country":"US",
+    "sg:address":"2323 Harney St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 342 3800",
+    "sg:postcode":"68102",
+    "sg:province":"NE",
+    "sg:tags":[
+        "truck",
+        "leasing",
+        "car"
+    ],
+    "sg:website":"www.enterprise.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_74HB1cWGkyYQGK0KLqJrHp_41.256193_-95.946627@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b20bd5e8f9255c9ebbe5d32161316e27",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203013937
+        }
+    ],
+    "wof:id":203013937,
+    "wof:lastmodified":1449026260,
+    "wof:name":"Enterprise Rent-A-Car",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck",
+        "leasing",
+        "car"
+    ]
+},
+  "bbox": [-95.946627,41.256193,-95.946627,41.256193],
+  "geometry": {"coordinates":[-95.946627,41.256193],"type":"Point"}
+}

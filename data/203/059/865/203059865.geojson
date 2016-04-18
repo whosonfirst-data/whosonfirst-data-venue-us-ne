@@ -1,0 +1,77 @@
+{
+  "id": 203059865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.009437,41.23785,-96.009437,41.23785",
+    "geom:latitude":41.23785,
+    "geom:longitude":-96.009437,
+    "iso:country":"US",
+    "sg:address":"6205 Center St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 334 2496",
+    "sg:postcode":"68106",
+    "sg:province":"NE",
+    "sg:tags":[
+        "vintage",
+        "clothing",
+        "consignment",
+        "children's"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85867059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6w4sGyCqAc0S1tawTvIbhe_41.237850_-96.009437@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"228cc12cb316e92fb3d37e0525e5bf7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85867059,
+            "region_id":85688563,
+            "venue_id":203059865
+        }
+    ],
+    "wof:id":203059865,
+    "wof:lastmodified":1449025429,
+    "wof:name":"Deja Vu Inc",
+    "wof:parent_id":85867059,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "vintage",
+        "clothing",
+        "consignment",
+        "children's"
+    ]
+},
+  "bbox": [-96.009437,41.23785,-96.009437,41.23785],
+  "geometry": {"coordinates":[-96.009437,41.23785],"type":"Point"}
+}

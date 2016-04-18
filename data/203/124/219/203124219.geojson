@@ -1,0 +1,73 @@
+{
+  "id": 203124219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.959112,41.258715,-95.959112,41.258715",
+    "geom:latitude":41.258715,
+    "geom:longitude":-95.959112,
+    "iso:country":"US",
+    "sg:address":"200 S 31st Ave",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 345 9999",
+    "sg:postcode":"68131",
+    "sg:province":"NE",
+    "sg:tags":[
+        "new",
+        "american",
+        "sushi",
+        "bar"
+    ],
+    "sg:website":"Www.craveamerica.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4RFaOGrwbZuBps6NoWpzNJ_41.258715_-95.959112@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a566f956134ef95747274cc413036012",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872525,
+            "region_id":85688563,
+            "venue_id":203124219
+        }
+    ],
+    "wof:id":203124219,
+    "wof:lastmodified":1449026728,
+    "wof:name":"Crave",
+    "wof:parent_id":85872525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "new",
+        "american",
+        "sushi",
+        "bar"
+    ]
+},
+  "bbox": [-95.959112,41.258715,-95.959112,41.258715],
+  "geometry": {"coordinates":[-95.959112,41.258715],"type":"Point"}
+}

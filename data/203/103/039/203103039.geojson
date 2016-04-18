@@ -1,0 +1,68 @@
+{
+  "id": 203103039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.986298,41.2127,-95.986298,41.2127",
+    "geom:latitude":41.2127,
+    "geom:longitude":-95.986298,
+    "iso:country":"US",
+    "sg:address":"4802 L St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 731 0500",
+    "sg:postcode":"68117",
+    "sg:province":"NE",
+    "sg:tags":[
+        "chicken",
+        "wing"
+    ],
+    "sg:website":"www.kfc.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5EacC8yuvUvThbV0AAbIgx_41.212700_-95.986298@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"bc739ddf1479715031c40fbd2e2b6cfc",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203103039
+        }
+    ],
+    "wof:id":203103039,
+    "wof:lastmodified":1449026136,
+    "wof:name":"Kentucky Fried Chicken",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chicken",
+        "wing"
+    ]
+},
+  "bbox": [-95.986298,41.2127,-95.986298,41.2127],
+  "geometry": {"coordinates":[-95.986298,41.2127],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 203137391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.034044,41.303055,-96.034044,41.303055",
+    "geom:latitude":41.303055,
+    "geom:longitude":-96.034044,
+    "iso:country":"US",
+    "sg:address":"7811 Military Ave",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Music School",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 455 1160",
+    "sg:postcode":"68134",
+    "sg:province":"NE",
+    "sg:website":"http://www.omahaschoolofmusic.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4uX9xddF1xREkPLKQQCD8x_41.303055_-96.034044@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2cdf4fe9a54faa21ef92d7f1d732edf6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872515,
+            "region_id":85688563,
+            "venue_id":203137391
+        }
+    ],
+    "wof:id":203137391,
+    "wof:lastmodified":1449026604,
+    "wof:name":"The Omaha School Of Music Inc",
+    "wof:parent_id":85872515,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-96.034044,41.303055,-96.034044,41.303055],
+  "geometry": {"coordinates":[-96.034044,41.303055],"type":"Point"}
+}

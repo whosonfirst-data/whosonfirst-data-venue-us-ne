@@ -1,0 +1,81 @@
+{
+  "id": 202990807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.037514,41.175204,-96.037514,41.175204",
+    "geom:latitude":41.175204,
+    "geom:longitude":-96.037514,
+    "iso:country":"US",
+    "sg:address":"1304 Edgewood Blvd",
+    "sg:city":"Papillion",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Military Area",
+            "subcategory":"Armory",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 813 1375",
+    "sg:postcode":"68046",
+    "sg:province":"NE",
+    "sg:tags":[
+        "repair",
+        "fence-sales",
+        "fence",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        102082789,
+        85843697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7PCFaeBxm6pXJtiLuvKLtw_41.175204_-96.037514@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d9fd5385fc1d60db4288ab4defeb7848",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":-1,
+            "neighbourhood_id":85843697,
+            "region_id":85688563,
+            "venue_id":202990807
+        }
+    ],
+    "wof:id":202990807,
+    "wof:lastmodified":1449061784,
+    "wof:name":"Done Right Fence",
+    "wof:parent_id":85843697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "fence-sales",
+        "fence",
+        "contractor"
+    ]
+},
+  "bbox": [-96.037514,41.175204,-96.037514,41.175204],
+  "geometry": {"coordinates":[-96.037514,41.175204],"type":"Point"}
+}

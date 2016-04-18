@@ -1,0 +1,62 @@
+{
+  "id": 203139233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.113274,41.205181,-96.113274,41.205181",
+    "geom:latitude":41.205181,
+    "geom:longitude":-96.113274,
+    "iso:country":"US",
+    "sg:address":"12759 Q St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 895 6812",
+    "sg:postcode":"68137",
+    "sg:province":"NE",
+    "sg:website":"http://www.kohlls.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2JfWjEq7t8n5hJ3MGNl38u_41.205181_-96.113274@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"73b96337900325645eb5fb97ec236136",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872531,
+            "region_id":85688563,
+            "venue_id":203139233
+        }
+    ],
+    "wof:id":203139233,
+    "wof:lastmodified":1449025114,
+    "wof:name":"Kohlls Pharmacy",
+    "wof:parent_id":85872531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-96.113274,41.205181,-96.113274,41.205181],
+  "geometry": {"coordinates":[-96.113274,41.205181],"type":"Point"}
+}

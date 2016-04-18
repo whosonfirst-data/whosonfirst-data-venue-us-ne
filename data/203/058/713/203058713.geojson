@@ -1,0 +1,66 @@
+{
+  "id": 203058713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.005227,41.243273,-96.005227,41.243273",
+    "geom:latitude":41.243273,
+    "geom:longitude":-96.005227,
+    "iso:country":"US",
+    "sg:address":"6031 Hickory St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 515 5444",
+    "sg:postcode":"68106",
+    "sg:province":"NE",
+    "sg:tags":[
+        "carpenter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1F6OkGTuhUtruoVxkrlq3z_41.243273_-96.005227@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"08c9839d7958c32f92e60a4f6d718195",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872513,
+            "region_id":85688563,
+            "venue_id":203058713
+        }
+    ],
+    "wof:id":203058713,
+    "wof:lastmodified":1449025219,
+    "wof:name":"J.D. Carpentry Co.",
+    "wof:parent_id":85872513,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carpenter"
+    ]
+},
+  "bbox": [-96.005227,41.243273,-96.005227,41.243273],
+  "geometry": {"coordinates":[-96.005227,41.243273],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 203134353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.98251,41.268863,-95.98251,41.268863",
+    "geom:latitude":41.268863,
+    "geom:longitude":-95.98251,
+    "iso:country":"US",
+    "sg:address":"4601 Izard St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 558 6744",
+    "sg:postcode":"68132",
+    "sg:province":"NE",
+    "sg:tags":[
+        "glass"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85867055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_03j04iFcD7LU8TNRmZcb0r_41.268863_-95.982510@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3f565306ae8d41ac67bd0ce8e90ae0ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85867055,
+            "region_id":85688563,
+            "venue_id":203134353
+        }
+    ],
+    "wof:id":203134353,
+    "wof:lastmodified":1449026762,
+    "wof:name":"Kryger Glass",
+    "wof:parent_id":85867055,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass"
+    ]
+},
+  "bbox": [-95.98251,41.268863,-95.98251,41.268863],
+  "geometry": {"coordinates":[-95.98251,41.268863],"type":"Point"}
+}

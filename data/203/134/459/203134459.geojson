@@ -1,0 +1,77 @@
+{
+  "id": 203134459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.990444,41.26508,-95.990444,41.26508",
+    "geom:latitude":41.26508,
+    "geom:longitude":-95.990444,
+    "iso:country":"US",
+    "sg:address":"5008 Underwood Ave Ste 1",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Art Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 991 7277",
+    "sg:postcode":"68132",
+    "sg:province":"NE",
+    "sg:tags":[
+        "rental",
+        "photographers-portrait",
+        "photographic",
+        "darkroom"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85867055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0lUQadBey9aNTrOmWnHbDF_41.265080_-95.990444@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"91b23ad6fd40e7db7a22a0af244ecd67",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85867055,
+            "region_id":85688563,
+            "venue_id":203134459
+        }
+    ],
+    "wof:id":203134459,
+    "wof:lastmodified":1449026762,
+    "wof:name":"Janine Mcclintock Studios",
+    "wof:parent_id":85867055,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "rental",
+        "photographers-portrait",
+        "photographic",
+        "darkroom"
+    ]
+},
+  "bbox": [-95.990444,41.26508,-95.990444,41.26508],
+  "geometry": {"coordinates":[-95.990444,41.26508],"type":"Point"}
+}

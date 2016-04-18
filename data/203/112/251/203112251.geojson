@@ -1,0 +1,74 @@
+{
+  "id": 203112251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.043105,41.233111,-96.043105,41.233111",
+    "geom:latitude":41.233111,
+    "geom:longitude":-96.043105,
+    "iso:country":"US",
+    "sg:address":"2820 S 84th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 391 7280",
+    "sg:postcode":"68124",
+    "sg:province":"NE",
+    "sg:tags":[
+        "wheel",
+        "tire"
+    ],
+    "sg:website":"http://www.jensentire.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872511
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_78ZpcLXKdAPM72i0Chw01I_41.233111_-96.043105@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ffb0a7b7bdacc7ef0ccbfbb73fe75f0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872511,
+            "region_id":85688563,
+            "venue_id":203112251
+        }
+    ],
+    "wof:id":203112251,
+    "wof:lastmodified":1449025784,
+    "wof:name":"Jensen Tire & Auto",
+    "wof:parent_id":85872511,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wheel",
+        "tire"
+    ]
+},
+  "bbox": [-96.043105,41.233111,-96.043105,41.233111],
+  "geometry": {"coordinates":[-96.043105,41.233111],"type":"Point"}
+}

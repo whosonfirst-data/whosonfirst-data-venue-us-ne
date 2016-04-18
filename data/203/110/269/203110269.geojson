@@ -1,0 +1,65 @@
+{
+  "id": 203110269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.907097,41.306499,-95.907097,41.306499",
+    "geom:latitude":41.306499,
+    "geom:longitude":-95.907097,
+    "iso:country":"US",
+    "sg:address":"PO Box 19294",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Airline",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 345 2359",
+    "sg:postcode":"68119",
+    "sg:province":"NE",
+    "sg:tags":[
+        "airport"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7A8PJnvzBnkzbr684OcGFJ_41.306499_-95.907097@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"44ed1f713a1c19900b426b666a9f62e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203110269
+        }
+    ],
+    "wof:id":203110269,
+    "wof:lastmodified":1449025543,
+    "wof:name":"Omaha Flight Center the",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [-95.907097,41.306499,-95.907097,41.306499],
+  "geometry": {"coordinates":[-95.907097,41.306499],"type":"Point"}
+}

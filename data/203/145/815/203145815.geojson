@@ -1,0 +1,76 @@
+{
+  "id": 203145815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.127864,41.224535,-96.127864,41.224535",
+    "geom:latitude":41.224535,
+    "geom:longitude":-96.127864,
+    "iso:country":"US",
+    "sg:address":"13705 A St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Advertising",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 334 7150",
+    "sg:postcode":"68144",
+    "sg:province":"NE",
+    "sg:tags":[
+        "marketing",
+        "program",
+        "consultant"
+    ],
+    "sg:website":"http://www.totalpartitions.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1wzo2cqLUBkMZqCM1hBqjE_41.224535_-96.127864@1303262943"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d3c99eca4dd93362e070c5cb83d0251b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872531,
+            "region_id":85688563,
+            "venue_id":203145815
+        }
+    ],
+    "wof:id":203145815,
+    "wof:lastmodified":1449025489,
+    "wof:name":"Total Marketing Inc",
+    "wof:parent_id":85872531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "marketing",
+        "program",
+        "consultant"
+    ]
+},
+  "bbox": [-96.127864,41.224535,-96.127864,41.224535],
+  "geometry": {"coordinates":[-96.127864,41.224535],"type":"Point"}
+}

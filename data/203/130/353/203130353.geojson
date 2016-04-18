@@ -1,0 +1,61 @@
+{
+  "id": 203130353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.968903,41.259602,-95.968903,41.259602",
+    "geom:latitude":41.259602,
+    "geom:longitude":-95.968903,
+    "iso:country":"US",
+    "sg:address":"3801 Dodge St Ste A",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Dentist",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 556 9117",
+    "sg:postcode":"68131",
+    "sg:province":"NE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_419iVfp9VdegKULIbF74e3_41.259602_-95.968903@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"db3f7fd07f0369d524f61934f1f4ca40",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872525,
+            "region_id":85688563,
+            "venue_id":203130353
+        }
+    ],
+    "wof:id":203130353,
+    "wof:lastmodified":1449025567,
+    "wof:name":"Midtown Dental Office",
+    "wof:parent_id":85872525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-95.968903,41.259602,-95.968903,41.259602],
+  "geometry": {"coordinates":[-95.968903,41.259602],"type":"Point"}
+}

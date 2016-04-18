@@ -1,0 +1,67 @@
+{
+  "id": 203050299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.965923,41.241765,-95.965923,41.241765",
+    "geom:latitude":41.241765,
+    "geom:longitude":-95.965923,
+    "iso:country":"US",
+    "sg:address":"3548 Center Steet",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 933 0808",
+    "sg:postcode":"68105",
+    "sg:province":"NE",
+    "sg:tags":[
+        "pet"
+    ],
+    "sg:website":"www.inoahsbark.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2luEGlsmFhW4Zjvh2NKwVf_41.241765_-95.965923@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"95cacd0989dfafa24b90f76d999114ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872527,
+            "region_id":85688563,
+            "venue_id":203050299
+        }
+    ],
+    "wof:id":203050299,
+    "wof:lastmodified":1449025989,
+    "wof:name":"NOAH'S bARK",
+    "wof:parent_id":85872527,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet"
+    ]
+},
+  "bbox": [-95.965923,41.241765,-95.965923,41.241765],
+  "geometry": {"coordinates":[-95.965923,41.241765],"type":"Point"}
+}

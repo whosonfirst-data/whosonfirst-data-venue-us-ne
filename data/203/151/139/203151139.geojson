@@ -1,0 +1,68 @@
+{
+  "id": 203151139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.1027,41.28567,-96.1027,41.28567",
+    "geom:latitude":41.28567,
+    "geom:longitude":-96.1027,
+    "iso:country":"US",
+    "sg:address":"12065 Binney St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 498 8276",
+    "sg:postcode":"68164",
+    "sg:province":"NE",
+    "sg:tags":[
+        "laboratories-pathological",
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4NZ5uSJ93cKFZH2kRcnZom_41.285670_-96.102700@1303262943"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ab83248f872c4b599087bd8c72648a56",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872503,
+            "region_id":85688563,
+            "venue_id":203151139
+        }
+    ],
+    "wof:id":203151139,
+    "wof:lastmodified":1449024954,
+    "wof:name":"Jays Optical Lab Services",
+    "wof:parent_id":85872503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratories-pathological",
+        "laboratory"
+    ]
+},
+  "bbox": [-96.1027,41.28567,-96.1027,41.28567],
+  "geometry": {"coordinates":[-96.1027,41.28567],"type":"Point"}
+}

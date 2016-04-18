@@ -1,0 +1,80 @@
+{
+  "id": 203103309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.992963,41.207983,-95.992963,41.207983",
+    "geom:latitude":41.207983,
+    "geom:longitude":-95.992963,
+    "iso:country":"US",
+    "sg:address":"5050 S 51st St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"Preschool",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 734 6001",
+    "sg:postcode":"68117",
+    "sg:province":"NE",
+    "sg:tags":[
+        "kindergarten",
+        "elementary",
+        "educational"
+    ],
+    "sg:website":"http://www.msd.anl.gov",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_33sjxFmvrmk6YQcg0a4efx_41.207983_-95.992963@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3560b7a898c9ffb23443e8cf870f405c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203103309
+        }
+    ],
+    "wof:id":203103309,
+    "wof:lastmodified":1449026134,
+    "wof:name":"Ashland Park-Robbins School",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "kindergarten",
+        "elementary",
+        "educational"
+    ]
+},
+  "bbox": [-95.992963,41.207983,-95.992963,41.207983],
+  "geometry": {"coordinates":[-95.992963,41.207983],"type":"Point"}
+}

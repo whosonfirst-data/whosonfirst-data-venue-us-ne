@@ -1,0 +1,66 @@
+{
+  "id": 203007143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.080823,41.093752,-96.080823,41.093752",
+    "geom:latitude":41.093752,
+    "geom:longitude":-96.080823,
+    "iso:country":"US",
+    "sg:address":"14801 S 108 St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 592 1300",
+    "sg:postcode":"68102",
+    "sg:province":"NE",
+    "sg:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633793,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Eoe0TnM26crkMmTn8nmzI_41.093752_-96.080823@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a62ba046634cac3d12ed4b60c76cadc5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203007143
+        }
+    ],
+    "wof:id":203007143,
+    "wof:lastmodified":1449026520,
+    "wof:name":"Schools",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ]
+},
+  "bbox": [-96.080823,41.093752,-96.080823,41.093752],
+  "geometry": {"coordinates":[-96.080823,41.093752],"type":"Point"}
+}

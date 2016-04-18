@@ -1,0 +1,88 @@
+{
+  "id": 203149131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.097794,41.263459,-96.097794,41.263459",
+    "geom:latitude":41.263459,
+    "geom:longitude":-96.097794,
+    "iso:country":"US",
+    "sg:address":"11720 W Dodge Rd",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Hazard Insurance",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Life Insurance",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Title Insurance",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 493 3033",
+    "sg:postcode":"68154",
+    "sg:province":"NE",
+    "sg:tags":[
+        "auto",
+        "commercial",
+        "business",
+        "homeowner"
+    ],
+    "sg:website":"http://www.farmersagent.com/plemmers/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4wmgZtouIfj41bY3E4eF0D_41.263459_-96.097794@1303262943"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f4304d389d539fcad7b25fc3d305cef1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872503,
+            "region_id":85688563,
+            "venue_id":203149131
+        }
+    ],
+    "wof:id":203149131,
+    "wof:lastmodified":1449024939,
+    "wof:name":"Patrick Lemmers Insurance Agency Inc - Farmers Insurance",
+    "wof:parent_id":85872503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "auto",
+        "commercial",
+        "business",
+        "homeowner"
+    ]
+},
+  "bbox": [-96.097794,41.263459,-96.097794,41.263459],
+  "geometry": {"coordinates":[-96.097794,41.263459],"type":"Point"}
+}

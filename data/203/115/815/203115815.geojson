@@ -1,0 +1,89 @@
+{
+  "id": 203115815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.029671,41.21973,-96.029671,41.21973",
+    "geom:latitude":41.21973,
+    "geom:longitude":-96.029671,
+    "iso:country":"US",
+    "sg:address":"4100 S 76th Cir Ste 5",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        },
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 331 9753",
+    "sg:postcode":"68127",
+    "sg:province":"NE",
+    "sg:tags":[
+        "delivery",
+        "local",
+        "trucking-motor",
+        "courier",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85867059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5D35ncSdG90G1oquyZ55rg_41.219730_-96.029671@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b1570e2d1c740566c527408cf4645905",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85867059,
+            "region_id":85688563,
+            "venue_id":203115815
+        }
+    ],
+    "wof:id":203115815,
+    "wof:lastmodified":1449024927,
+    "wof:name":"Irish Tiger Express",
+    "wof:parent_id":85867059,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delivery",
+        "local",
+        "trucking-motor",
+        "courier",
+        "trucking"
+    ]
+},
+  "bbox": [-96.029671,41.21973,-96.029671,41.21973],
+  "geometry": {"coordinates":[-96.029671,41.21973],"type":"Point"}
+}

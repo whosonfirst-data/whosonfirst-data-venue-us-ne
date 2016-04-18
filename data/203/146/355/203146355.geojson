@@ -1,0 +1,76 @@
+{
+  "id": 203146355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.133859,41.234387,-96.133859,41.234387",
+    "geom:latitude":41.234387,
+    "geom:longitude":-96.133859,
+    "iso:country":"US",
+    "sg:address":"2625 S 140th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 554 7330",
+    "sg:postcode":"68144",
+    "sg:province":"NE",
+    "sg:tags":[
+        "saving",
+        "loan",
+        "commercial"
+    ],
+    "sg:website":"http://www.tieronebank.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5CADJpPsxHDdi8bZm40iym_41.234387_-96.133859@1303262943"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6c16e6da940b8ddd2ea1eec724c420a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872531,
+            "region_id":85688563,
+            "venue_id":203146355
+        }
+    ],
+    "wof:id":203146355,
+    "wof:lastmodified":1449025710,
+    "wof:name":"Tierone Bank",
+    "wof:parent_id":85872531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "saving",
+        "loan",
+        "commercial"
+    ]
+},
+  "bbox": [-96.133859,41.234387,-96.133859,41.234387],
+  "geometry": {"coordinates":[-96.133859,41.234387],"type":"Point"}
+}

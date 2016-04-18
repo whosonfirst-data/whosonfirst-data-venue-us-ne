@@ -1,0 +1,91 @@
+{
+  "id": 203087705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.956703,41.2813,-95.956703,41.2813",
+    "geom:latitude":41.2813,
+    "geom:longitude":-95.956703,
+    "iso:country":"US",
+    "sg:address":"3005 Lake St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 451 7201",
+    "sg:postcode":"68111",
+    "sg:province":"NE",
+    "sg:tags":[
+        "photography",
+        "health",
+        "aid",
+        "home",
+        "first",
+        "drugstore",
+        "store",
+        "care"
+    ],
+    "sg:website":"www.walgreens.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2AYqLoFUzwvSRwhaqnG0ne_41.281300_-95.956703@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"338cf42ba82a8097a9899067ad986b06",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872525,
+            "region_id":85688563,
+            "venue_id":203087705
+        }
+    ],
+    "wof:id":203087705,
+    "wof:lastmodified":1449025794,
+    "wof:name":"Walgreen Drug Stores",
+    "wof:parent_id":85872525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photography",
+        "health",
+        "aid",
+        "home",
+        "first",
+        "drugstore",
+        "store",
+        "care"
+    ]
+},
+  "bbox": [-95.956703,41.2813,-95.956703,41.2813],
+  "geometry": {"coordinates":[-95.956703,41.2813],"type":"Point"}
+}

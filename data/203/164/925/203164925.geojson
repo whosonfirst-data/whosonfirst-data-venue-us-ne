@@ -1,0 +1,74 @@
+{
+  "id": 203164925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.653713,40.836681,-96.653713,40.836681",
+    "geom:latitude":40.836681,
+    "geom:longitude":-96.653713,
+    "iso:country":"US",
+    "sg:address":"2427 N 48th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 800 275 8777",
+    "sg:postcode":"68504",
+    "sg:province":"NE",
+    "sg:tags":[
+        "mail",
+        "shipping"
+    ],
+    "sg:website":"http://www.usps.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85853163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5WaSXH0aSM2VsV6EE9yIuk_40.836681_-96.653713@1303262943"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"40a230f77c6689cbbd5cf2404af2f0c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85853163,
+            "region_id":85688563,
+            "venue_id":203164925
+        }
+    ],
+    "wof:id":203164925,
+    "wof:lastmodified":1449025166,
+    "wof:name":"USPS - United States Post Office - University Place Station",
+    "wof:parent_id":85853163,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mail",
+        "shipping"
+    ]
+},
+  "bbox": [-96.653713,40.836681,-96.653713,40.836681],
+  "geometry": {"coordinates":[-96.653713,40.836681],"type":"Point"}
+}

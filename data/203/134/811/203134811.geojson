@@ -1,0 +1,61 @@
+{
+  "id": 203134811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.982803,41.269798,-95.982803,41.269798",
+    "geom:latitude":41.269798,
+    "geom:longitude":-95.982803,
+    "iso:country":"US",
+    "sg:address":"1101 NW Radial Hwy",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 551 3011",
+    "sg:postcode":"68132",
+    "sg:province":"NE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85867055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6tGwDchBxrsNSr0cQomqE9_41.269798_-95.982803@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"00341887a29682b7571cb62ba6766f8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85867055,
+            "region_id":85688563,
+            "venue_id":203134811
+        }
+    ],
+    "wof:id":203134811,
+    "wof:lastmodified":1449026761,
+    "wof:name":"Ultimate Auto Service",
+    "wof:parent_id":85867055,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-95.982803,41.269798,-95.982803,41.269798],
+  "geometry": {"coordinates":[-95.982803,41.269798],"type":"Point"}
+}

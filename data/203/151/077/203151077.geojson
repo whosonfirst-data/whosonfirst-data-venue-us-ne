@@ -1,0 +1,78 @@
+{
+  "id": 203151077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.138191,41.306591,-96.138191,41.306591",
+    "geom:latitude":41.306591,
+    "geom:longitude":-96.138191,
+    "iso:country":"US",
+    "sg:address":"14345 Fort St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Hazard Insurance",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Title Insurance",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 445 6117",
+    "sg:postcode":"68164",
+    "sg:province":"NE",
+    "sg:tags":[
+        "auto",
+        "homeowner"
+    ],
+    "sg:website":"http://apps.amfam.com/agentlocator/?sourceid=yp3",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        102082789,
+        85872505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3J2GK4mib3H907lAo3kZbH_41.306591_-96.138191@1303262943"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"40ff60a8f58aebe0d6544f7bb2e95d85",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":-1,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":203151077
+        }
+    ],
+    "wof:id":203151077,
+    "wof:lastmodified":1449024955,
+    "wof:name":"American Family Insurance- Travis Prater",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "auto",
+        "homeowner"
+    ]
+},
+  "bbox": [-96.138191,41.306591,-96.138191,41.306591],
+  "geometry": {"coordinates":[-96.138191,41.306591],"type":"Point"}
+}

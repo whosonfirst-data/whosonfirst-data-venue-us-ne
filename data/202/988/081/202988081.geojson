@@ -1,0 +1,65 @@
+{
+  "id": 202988081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.162006,41.000874,-96.162006,41.000874",
+    "geom:latitude":41.000874,
+    "geom:longitude":-96.162006,
+    "iso:country":"US",
+    "sg:address":"213 Main St",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 234 3025",
+    "sg:postcode":"68037",
+    "sg:province":"NE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974337,
+        102082791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1mcKlhBEubzSxv24yy11iy_41.000874_-96.162006@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"501d50704827ab06eb7521513be5516e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082791,
+            "locality_id":85974337,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":202988081
+        }
+    ],
+    "wof:id":202988081,
+    "wof:lastmodified":1449060985,
+    "wof:name":"Leader Drug Store",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-96.162006,41.000874,-96.162006,41.000874],
+  "geometry": {"coordinates":[-96.162006,41.000874],"type":"Point"}
+}

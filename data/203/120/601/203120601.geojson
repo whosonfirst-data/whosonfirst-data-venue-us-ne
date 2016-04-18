@@ -1,0 +1,66 @@
+{
+  "id": 203120601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.962899,41.258559,-95.962899,41.258559",
+    "geom:latitude":41.258559,
+    "geom:longitude":-95.962899,
+    "iso:country":"US",
+    "sg:address":"216 S 34th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Place Of Worship",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 341 7073",
+    "sg:postcode":"68131",
+    "sg:province":"NE",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6uuqiVRB14isnU1XUWqGjl_41.258559_-95.962899@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"107eee822ab0a804d74a9a2487f8b932",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872525,
+            "region_id":85688563,
+            "venue_id":203120601
+        }
+    ],
+    "wof:id":203120601,
+    "wof:lastmodified":1449026586,
+    "wof:name":"Faith In Action Respite Connection",
+    "wof:parent_id":85872525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [-95.962899,41.258559,-95.962899,41.258559],
+  "geometry": {"coordinates":[-95.962899,41.258559],"type":"Point"}
+}

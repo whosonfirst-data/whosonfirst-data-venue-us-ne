@@ -1,0 +1,66 @@
+{
+  "id": 203133305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.986397,41.2598,-95.986397,41.2598",
+    "geom:latitude":41.2598,
+    "geom:longitude":-95.986397,
+    "iso:country":"US",
+    "sg:address":"4820 Dodge St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 558 9999",
+    "sg:postcode":"68132",
+    "sg:province":"NE",
+    "sg:tags":[
+        "carpet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85867055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1EqyXZPNLf408qsAOUp3SM_41.259800_-95.986397@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f3a057faa6395c04c3f393b3f3c04f08",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85867055,
+            "region_id":85688563,
+            "venue_id":203133305
+        }
+    ],
+    "wof:id":203133305,
+    "wof:lastmodified":1449026512,
+    "wof:name":"Bishop Building Services",
+    "wof:parent_id":85867055,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carpet"
+    ]
+},
+  "bbox": [-95.986397,41.2598,-95.986397,41.2598],
+  "geometry": {"coordinates":[-95.986397,41.2598],"type":"Point"}
+}

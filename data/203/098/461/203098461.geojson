@@ -1,0 +1,70 @@
+{
+  "id": 203098461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.048782,41.263039,-96.048782,41.263039",
+    "geom:latitude":41.263039,
+    "geom:longitude":-96.048782,
+    "iso:country":"US",
+    "sg:address":"8701 W Dodge Rd",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Dentist",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 403 9928",
+    "sg:postcode":"68114",
+    "sg:province":"NE",
+    "sg:tags":[
+        "dentists-oral",
+        "surgery",
+        "maxillofacial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2I1WxBg5e8Ck08ACpwwIbo_41.263039_-96.048782@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"811f097a389a241c67c6093454277b95",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872509,
+            "region_id":85688563,
+            "venue_id":203098461
+        }
+    ],
+    "wof:id":203098461,
+    "wof:lastmodified":1449026669,
+    "wof:name":"Morgan James Guy MS DDS MD",
+    "wof:parent_id":85872509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentists-oral",
+        "surgery",
+        "maxillofacial"
+    ]
+},
+  "bbox": [-96.048782,41.263039,-96.048782,41.263039],
+  "geometry": {"coordinates":[-96.048782,41.263039],"type":"Point"}
+}

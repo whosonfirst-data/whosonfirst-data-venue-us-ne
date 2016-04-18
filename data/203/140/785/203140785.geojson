@@ -1,0 +1,88 @@
+{
+  "id": 203140785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.129196,41.203537,-96.129196,41.203537",
+    "geom:latitude":41.203537,
+    "geom:longitude":-96.129196,
+    "iso:country":"US",
+    "sg:address":"5332 S 138th St #203",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Hazard Insurance",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Life Insurance",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Title Insurance",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 933 3405",
+    "sg:postcode":"68137",
+    "sg:province":"NE",
+    "sg:tags":[
+        "auto",
+        "commercial",
+        "business",
+        "homeowner"
+    ],
+    "sg:website":"http://www.farmersagent.com/mmusselman1/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3zx2sIYGyGcgQfzwHr0BPJ_41.203537_-96.129196@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"aea441eb89102b72f4d6d64b58cf3fad",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872531,
+            "region_id":85688563,
+            "venue_id":203140785
+        }
+    ],
+    "wof:id":203140785,
+    "wof:lastmodified":1449025208,
+    "wof:name":"Michael Musselman - Farmers Insurance",
+    "wof:parent_id":85872531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "auto",
+        "commercial",
+        "business",
+        "homeowner"
+    ]
+},
+  "bbox": [-96.129196,41.203537,-96.129196,41.203537],
+  "geometry": {"coordinates":[-96.129196,41.203537],"type":"Point"}
+}

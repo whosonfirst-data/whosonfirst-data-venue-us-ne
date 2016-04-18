@@ -1,0 +1,72 @@
+{
+  "id": 203164853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.653783,40.85313,-96.653783,40.85313",
+    "geom:latitude":40.85313,
+    "geom:longitude":-96.653783,
+    "iso:country":"US",
+    "sg:address":"4033 Progressive Ave Ste 4",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 430 6515",
+    "sg:postcode":"68504",
+    "sg:province":"NE",
+    "sg:tags":[
+        "dealers-used",
+        "car",
+        "used",
+        "cars-wholesale"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_63Y75IZsxXP7NqPYWERmTM_40.853130_-96.653783@1303262943"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"877a9aea7364c67f996b23e14f74fbe3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878741,
+            "region_id":85688563,
+            "venue_id":203164853
+        }
+    ],
+    "wof:id":203164853,
+    "wof:lastmodified":1449025170,
+    "wof:name":"Lincoln Auto Sales Inc",
+    "wof:parent_id":85878741,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dealers-used",
+        "car",
+        "used",
+        "cars-wholesale"
+    ]
+},
+  "bbox": [-96.653783,40.85313,-96.653783,40.85313],
+  "geometry": {"coordinates":[-96.653783,40.85313],"type":"Point"}
+}

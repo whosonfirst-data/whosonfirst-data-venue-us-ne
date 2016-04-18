@@ -1,0 +1,72 @@
+{
+  "id": 203126187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.960166,41.259917,-95.960166,41.259917",
+    "geom:latitude":41.259917,
+    "geom:longitude":-95.960166,
+    "iso:country":"US",
+    "sg:address":"117 N 32nd Ave Ste 101",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Optometrist",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Optician",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 933 6699",
+    "sg:postcode":"68131",
+    "sg:province":"NE",
+    "sg:tags":[
+        "eyewear"
+    ],
+    "sg:website":"www.drsjns.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Rq87CqgrBVT4vxVXF796c_41.259917_-95.960166@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"365aa178d1ed0eb89fee6cfa2ee1e3d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872525,
+            "region_id":85688563,
+            "venue_id":203126187
+        }
+    ],
+    "wof:id":203126187,
+    "wof:lastmodified":1449025616,
+    "wof:name":"Drs Jackson & Schaffer Family Eye Care",
+    "wof:parent_id":85872525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eyewear"
+    ]
+},
+  "bbox": [-95.960166,41.259917,-95.960166,41.259917],
+  "geometry": {"coordinates":[-95.960166,41.259917],"type":"Point"}
+}

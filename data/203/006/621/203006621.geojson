@@ -1,0 +1,65 @@
+{
+  "id": 203006621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.929199,41.2575,-95.929199,41.2575",
+    "geom:latitude":41.2575,
+    "geom:longitude":-95.929199,
+    "iso:country":"US",
+    "sg:address":"1001 Farnam St Ste 200",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Landmark",
+            "subcategory":"Tourist Information",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 444 4660",
+    "sg:postcode":"68102",
+    "sg:province":"NE",
+    "sg:tags":[
+        "tour"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6VQ7wefJH84o3h3pBJ4Wrd_41.257500_-95.929199@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b0d26b28f9edf76fd13f2331b07b972c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203006621
+        }
+    ],
+    "wof:id":203006621,
+    "wof:lastmodified":1449026465,
+    "wof:name":"Omaha Convention & Visitors Bureau",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tour"
+    ]
+},
+  "bbox": [-95.929199,41.2575,-95.929199,41.2575],
+  "geometry": {"coordinates":[-95.929199,41.2575],"type":"Point"}
+}

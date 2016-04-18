@@ -1,0 +1,70 @@
+{
+  "id": 203123489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.96583,41.269131,-95.96583,41.269131",
+    "geom:latitude":41.269131,
+    "geom:longitude":-95.96583,
+    "iso:country":"US",
+    "sg:address":"3606 Lincoln Blvd",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 553 3353",
+    "sg:postcode":"68131",
+    "sg:province":"NE",
+    "sg:tags":[
+        "air",
+        "heating",
+        "conditioning/hvac"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_76Ii2ZW3jiwK1nhhddCE97_41.269131_-95.965830@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"21169f01f65f97d663c330d5ed540b1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872525,
+            "region_id":85688563,
+            "venue_id":203123489
+        }
+    ],
+    "wof:id":203123489,
+    "wof:lastmodified":1449025476,
+    "wof:name":"Abraham Heating & Air Conditioning",
+    "wof:parent_id":85872525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "air",
+        "heating",
+        "conditioning/hvac"
+    ]
+},
+  "bbox": [-95.96583,41.269131,-95.96583,41.269131],
+  "geometry": {"coordinates":[-95.96583,41.269131],"type":"Point"}
+}

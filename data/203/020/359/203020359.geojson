@@ -1,0 +1,82 @@
+{
+  "id": 203020359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.931497,41.254104,-95.931497,41.254104",
+    "geom:latitude":41.254104,
+    "geom:longitude":-95.931497,
+    "iso:country":"US",
+    "sg:address":"1125 Jackson St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 932 3229",
+    "sg:postcode":"68102",
+    "sg:province":"NE",
+    "sg:tags":[
+        "vintage",
+        "clothing",
+        "men's",
+        "consignment"
+    ],
+    "sg:website":"www.omahavintage.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_226ufbqwc4MS5DwXEbhPLO_41.254104_-95.931497@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"47da55b6290bd752da26390ad2a4aedf",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203020359
+        }
+    ],
+    "wof:id":203020359,
+    "wof:lastmodified":1449025797,
+    "wof:name":"The Flying Worm",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "vintage",
+        "clothing",
+        "men's",
+        "consignment"
+    ]
+},
+  "bbox": [-95.931497,41.254104,-95.931497,41.254104],
+  "geometry": {"coordinates":[-95.931497,41.254104],"type":"Point"}
+}

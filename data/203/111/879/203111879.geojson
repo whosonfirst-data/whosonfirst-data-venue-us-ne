@@ -1,0 +1,91 @@
+{
+  "id": 203111879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.023934,41.236212,-96.023934,41.236212",
+    "geom:latitude":41.236212,
+    "geom:longitude":-96.023934,
+    "iso:country":"US",
+    "sg:address":"2505 S 72nd St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        },
+        {
+            "category":"Communications",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Communications",
+            "subcategory":"Television Station",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 866 310 4761",
+    "sg:postcode":"68124",
+    "sg:province":"NE",
+    "sg:tags":[
+        "satellite",
+        "cable",
+        "tv",
+        "isp",
+        "system",
+        "equipment",
+        "internet",
+        "provider"
+    ],
+    "sg:website":"http://www.directsattv.com/directv/?tfid=ypm",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_50WzajGEMTKXdDfftMKjwt_41.236212_-96.023934@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"efde5c9f16a59cab6f92fe47a8191169",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872513,
+            "region_id":85688563,
+            "venue_id":203111879
+        }
+    ],
+    "wof:id":203111879,
+    "wof:lastmodified":1449026901,
+    "wof:name":"Direct Sat TV - An Authorized DIRECTV Dealer",
+    "wof:parent_id":85872513,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "satellite",
+        "cable",
+        "tv",
+        "isp",
+        "system",
+        "equipment",
+        "internet",
+        "provider"
+    ]
+},
+  "bbox": [-96.023934,41.236212,-96.023934,41.236212],
+  "geometry": {"coordinates":[-96.023934,41.236212],"type":"Point"}
+}

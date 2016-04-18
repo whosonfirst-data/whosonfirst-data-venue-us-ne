@@ -1,0 +1,72 @@
+{
+  "id": 203059115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.014585,41.23919,-96.014585,41.23919",
+    "geom:latitude":41.23919,
+    "geom:longitude":-96.014585,
+    "iso:country":"US",
+    "sg:address":"Aksarben Village 2285 S 67th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"Lounge",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Music",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 884 5410",
+    "sg:postcode":"68106",
+    "sg:province":"NE",
+    "sg:tags":[
+        "venue"
+    ],
+    "sg:website":"www.livlounge.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3XsOhyN4c14PRdKKTIMOrZ_41.239190_-96.014585@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8a097768f9c4b021aeaeb79bdef8a93c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872513,
+            "region_id":85688563,
+            "venue_id":203059115
+        }
+    ],
+    "wof:id":203059115,
+    "wof:lastmodified":1449025426,
+    "wof:name":"Liv Lounge",
+    "wof:parent_id":85872513,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "venue"
+    ]
+},
+  "bbox": [-96.014585,41.23919,-96.014585,41.23919],
+  "geometry": {"coordinates":[-96.014585,41.23919],"type":"Point"}
+}

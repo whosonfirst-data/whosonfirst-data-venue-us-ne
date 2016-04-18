@@ -1,0 +1,78 @@
+{
+  "id": 203168363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.60844,40.75703,-96.60844,40.75703",
+    "geom:latitude":40.75703,
+    "geom:longitude":-96.60844,
+    "iso:country":"US",
+    "sg:address":"5537 Ezekiel Pl",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Electric",
+            "type":"Services"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Electronics",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 483 4483",
+    "sg:postcode":"68516",
+    "sg:province":"NE",
+    "sg:tags":[
+        "electrician",
+        "equipment-testing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_44PvMPOUZULToNby2QZvJ3_40.757030_-96.608440@1303262943"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0f6a0ea00a5536e871c252a783e989f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878707,
+            "region_id":85688563,
+            "venue_id":203168363
+        }
+    ],
+    "wof:id":203168363,
+    "wof:lastmodified":1449025927,
+    "wof:name":"Nebraska Iowa Electrical",
+    "wof:parent_id":85878707,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrician",
+        "equipment-testing"
+    ]
+},
+  "bbox": [-96.60844,40.75703,-96.60844,40.75703],
+  "geometry": {"coordinates":[-96.60844,40.75703],"type":"Point"}
+}

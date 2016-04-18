@@ -1,0 +1,79 @@
+{
+  "id": 203146093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.138652,41.226757,-96.138652,41.226757",
+    "geom:latitude":41.226757,
+    "geom:longitude":-96.138652,
+    "iso:country":"US",
+    "sg:address":"3422 S 144th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Dentist",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 877 591 1998",
+    "sg:postcode":"68144",
+    "sg:province":"NE",
+    "sg:tags":[
+        "dentists-cosmetic",
+        "denture",
+        "dentists-prosthodontists",
+        "dentists-pediatric",
+        "dentists-endodontists",
+        "dentistry",
+        "implant",
+        "dentists-implantology"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1H7VNKEvsZSJxOjlWM1nqs_41.226757_-96.138652@1303262943"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"865288adaf1e925e2d6498dabbd4d65a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203146093
+        }
+    ],
+    "wof:id":203146093,
+    "wof:lastmodified":1449025709,
+    "wof:name":"Oakview Dental",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentists-cosmetic",
+        "denture",
+        "dentists-prosthodontists",
+        "dentists-pediatric",
+        "dentists-endodontists",
+        "dentistry",
+        "implant",
+        "dentists-implantology"
+    ]
+},
+  "bbox": [-96.138652,41.226757,-96.138652,41.226757],
+  "geometry": {"coordinates":[-96.138652,41.226757],"type":"Point"}
+}

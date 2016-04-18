@@ -1,0 +1,72 @@
+{
+  "id": 203129169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.977464,41.257477,-95.977464,41.257477",
+    "geom:latitude":41.257477,
+    "geom:longitude":-95.977464,
+    "iso:country":"US",
+    "sg:address":"4239 Farnam St Ste 825",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 552 2550",
+    "sg:postcode":"68131",
+    "sg:province":"NE",
+    "sg:tags":[
+        "medicine",
+        "practice",
+        "internal",
+        "family"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3pcM7utk3UTaTYw3HMExYZ_41.257477_-95.977464@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ddc419f7a3fcb1aae712fefc75d1d971",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872523,
+            "region_id":85688563,
+            "venue_id":203129169
+        }
+    ],
+    "wof:id":203129169,
+    "wof:lastmodified":1449026469,
+    "wof:name":"Forsman Richard O MD",
+    "wof:parent_id":85872523,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicine",
+        "practice",
+        "internal",
+        "family"
+    ]
+},
+  "bbox": [-95.977464,41.257477,-95.977464,41.257477],
+  "geometry": {"coordinates":[-95.977464,41.257477],"type":"Point"}
+}

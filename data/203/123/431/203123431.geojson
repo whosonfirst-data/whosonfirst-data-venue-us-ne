@@ -1,0 +1,74 @@
+{
+  "id": 203123431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.959322,41.25766,-95.959322,41.25766",
+    "geom:latitude":41.25766,
+    "geom:longitude":-95.959322,
+    "iso:country":"US",
+    "sg:address":"3157 Farnam Street, Suite 7112",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 341 2000",
+    "sg:postcode":"68131",
+    "sg:province":"NE",
+    "sg:tags":[
+        "advisory",
+        "management"
+    ],
+    "sg:website":"http://www.callahanfp.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7HjuTET01P4Hwk9LHDfKPT_41.257660_-95.959322@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"60bf9269e44ff892bbb314a2e7203138",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872525,
+            "region_id":85688563,
+            "venue_id":203123431
+        }
+    ],
+    "wof:id":203123431,
+    "wof:lastmodified":1449025475,
+    "wof:name":"Callahan Financial Planning",
+    "wof:parent_id":85872525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "advisory",
+        "management"
+    ]
+},
+  "bbox": [-95.959322,41.25766,-95.959322,41.25766],
+  "geometry": {"coordinates":[-95.959322,41.25766],"type":"Point"}
+}

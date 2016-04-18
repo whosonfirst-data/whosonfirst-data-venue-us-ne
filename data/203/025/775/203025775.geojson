@@ -1,0 +1,66 @@
+{
+  "id": 203025775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.933498,41.268283,-95.933498,41.268283",
+    "geom:latitude":41.268283,
+    "geom:longitude":-95.933498,
+    "iso:country":"US",
+    "sg:address":"1314 Cuming St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 345 5100",
+    "sg:postcode":"68102",
+    "sg:province":"NE",
+    "sg:tags":[
+        "lodging"
+    ],
+    "sg:website":"http://www.omahadowntown.homewoodsuites.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ctT2ITxE73512BcCtM8HO_41.268283_-95.933498@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"22284ed4ac3bfe6db246960e2d32af60",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203025775
+        }
+    ],
+    "wof:id":203025775,
+    "wof:lastmodified":1449026541,
+    "wof:name":"Homewood Suites by Hilton Omaha Downtown",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lodging"
+    ]
+},
+  "bbox": [-95.933498,41.268283,-95.933498,41.268283],
+  "geometry": {"coordinates":[-95.933498,41.268283],"type":"Point"}
+}

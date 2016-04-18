@@ -1,0 +1,67 @@
+{
+  "id": 203050433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.9757,41.241299,-95.9757,41.241299",
+    "geom:latitude":41.241299,
+    "geom:longitude":-95.9757,
+    "iso:country":"US",
+    "sg:address":"1913 S 42nd St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 345 4400",
+    "sg:postcode":"68105",
+    "sg:province":"NE",
+    "sg:tags":[
+        "sandwich"
+    ],
+    "sg:website":"hmsbrownbaggers.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2qpDXFFZTtHzxljtJhApXZ_41.241299_-95.975700@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9d2bd8e7974db46ef0dc190ebdcc57cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872523,
+            "region_id":85688563,
+            "venue_id":203050433
+        }
+    ],
+    "wof:id":203050433,
+    "wof:lastmodified":1449025988,
+    "wof:name":"HMS Brown Baggers",
+    "wof:parent_id":85872523,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandwich"
+    ]
+},
+  "bbox": [-95.9757,41.241299,-95.9757,41.241299],
+  "geometry": {"coordinates":[-95.9757,41.241299],"type":"Point"}
+}

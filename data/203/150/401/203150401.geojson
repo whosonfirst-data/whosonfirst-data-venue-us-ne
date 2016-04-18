@@ -1,0 +1,84 @@
+{
+  "id": 203150401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.118795,41.272874,-96.118795,41.272874",
+    "geom:latitude":41.272874,
+    "geom:longitude":-96.118795,
+    "iso:country":"US",
+    "sg:address":"1433 N 131st Avenue Cir",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Advertising",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Research",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 934 4880",
+    "sg:postcode":"68154",
+    "sg:province":"NE",
+    "sg:tags":[
+        "marketing",
+        "program",
+        "market",
+        "analysis",
+        "consultant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973479,
+        102082789,
+        85806957
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6vybKAi29DzBH4VnFGAE5F_41.272874_-96.118795@1303262943"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3ed42772073dcf5577d2aa3c13a86e7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973479,
+            "neighbourhood_id":85806957,
+            "region_id":85688563,
+            "venue_id":203150401
+        }
+    ],
+    "wof:id":203150401,
+    "wof:lastmodified":1449024966,
+    "wof:name":"M S Marketing Solutions, Inc.",
+    "wof:parent_id":85806957,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "marketing",
+        "program",
+        "market",
+        "analysis",
+        "consultant"
+    ]
+},
+  "bbox": [-96.118795,41.272874,-96.118795,41.272874],
+  "geometry": {"coordinates":[-96.118795,41.272874],"type":"Point"}
+}

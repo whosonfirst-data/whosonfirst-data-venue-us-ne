@@ -1,0 +1,74 @@
+{
+  "id": 203026121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.933096,41.266268,-95.933096,41.266268",
+    "geom:latitude":41.266268,
+    "geom:longitude":-95.933096,
+    "iso:country":"US",
+    "sg:address":"720 N 13th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Advertising",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 505 9999",
+    "sg:postcode":"68102",
+    "sg:province":"NE",
+    "sg:tags":[
+        "marketing",
+        "program",
+        "consultant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2rLu1I5SBcvXCYAJWZXzY1_41.266268_-95.933096@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d072a981f91fc9d82a5318618384b5d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203026121
+        }
+    ],
+    "wof:id":203026121,
+    "wof:lastmodified":1449026065,
+    "wof:name":"Blue Stone Development",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "marketing",
+        "program",
+        "consultant"
+    ]
+},
+  "bbox": [-95.933096,41.266268,-95.933096,41.266268],
+  "geometry": {"coordinates":[-95.933096,41.266268],"type":"Point"}
+}

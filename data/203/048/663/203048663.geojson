@@ -1,0 +1,66 @@
+{
+  "id": 203048663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.006162,41.28564,-96.006162,41.28564",
+    "geom:latitude":41.28564,
+    "geom:longitude":-96.006162,
+    "iso:country":"US",
+    "sg:address":"6035 Binney St Ste 2",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 614 9463",
+    "sg:postcode":"68104",
+    "sg:province":"NE",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_35PWstwdzCYxbvEcaTlSks_41.285640_-96.006162@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a94904767f7f30108128e5fc102043fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872535,
+            "region_id":85688563,
+            "venue_id":203048663
+        }
+    ],
+    "wof:id":203048663,
+    "wof:lastmodified":1449025584,
+    "wof:name":"Tri-Win Properties",
+    "wof:parent_id":85872535,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [-96.006162,41.28564,-96.006162,41.28564],
+  "geometry": {"coordinates":[-96.006162,41.28564],"type":"Point"}
+}

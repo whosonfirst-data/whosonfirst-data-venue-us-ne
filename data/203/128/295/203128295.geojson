@@ -1,0 +1,61 @@
+{
+  "id": 203128295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.973148,41.259766,-95.973148,41.259766",
+    "geom:latitude":41.259766,
+    "geom:longitude":-95.973148,
+    "iso:country":"US",
+    "sg:address":"111 N 40th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Dentist",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 763 8998",
+    "sg:postcode":"68131",
+    "sg:province":"NE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4wSkMkQETmHobA7dkMRSRb_41.259766_-95.973148@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"59c521de802fd663a23324b3e2110882",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872525,
+            "region_id":85688563,
+            "venue_id":203128295
+        }
+    ],
+    "wof:id":203128295,
+    "wof:lastmodified":1449025650,
+    "wof:name":"40th & Dodge Family Dentistry",
+    "wof:parent_id":85872525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-95.973148,41.259766,-95.973148,41.259766],
+  "geometry": {"coordinates":[-95.973148,41.259766],"type":"Point"}
+}

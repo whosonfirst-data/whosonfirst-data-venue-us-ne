@@ -1,0 +1,75 @@
+{
+  "id": 202998125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.931115,41.253356,-95.931115,41.253356",
+    "geom:latitude":41.253356,
+    "geom:longitude":-95.931115,
+    "iso:country":"US",
+    "sg:address":"1110 Jones St.",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"Wine Bar",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 916 9274",
+    "sg:postcode":"68102",
+    "sg:province":"NE",
+    "sg:tags":[
+        "new",
+        "american",
+        "french"
+    ],
+    "sg:website":"www.theboilerroomrestaurant.com/...",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Tz0B4KhncdSDHfO2lNKb5_41.253356_-95.931115@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c2b0e399bd4d04ed9a59076b10826ecd",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":202998125
+        }
+    ],
+    "wof:id":202998125,
+    "wof:lastmodified":1449060949,
+    "wof:name":"The Boiler Room",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "new",
+        "american",
+        "french"
+    ]
+},
+  "bbox": [-95.931115,41.253356,-95.931115,41.253356],
+  "geometry": {"coordinates":[-95.931115,41.253356],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 203049767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.980698,41.2827,-95.980698,41.2827",
+    "geom:latitude":41.2827,
+    "geom:longitude":-95.980698,
+    "iso:country":"US",
+    "sg:address":"2603 N 45th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 455 4410",
+    "sg:postcode":"68104",
+    "sg:province":"NE",
+    "sg:tags":[
+        "air",
+        "heating",
+        "conditioning/hvac"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3sA8WgkvL6CNqjWhHLKjD9_41.282700_-95.980698@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"67d68a4c25d0aaad01c014445028d3e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872535,
+            "region_id":85688563,
+            "venue_id":203049767
+        }
+    ],
+    "wof:id":203049767,
+    "wof:lastmodified":1449025863,
+    "wof:name":"Park & Sons Heating & Air Conditioning",
+    "wof:parent_id":85872535,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "air",
+        "heating",
+        "conditioning/hvac"
+    ]
+},
+  "bbox": [-95.980698,41.2827,-95.980698,41.2827],
+  "geometry": {"coordinates":[-95.980698,41.2827],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 203098497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.035429,41.259692,-96.035429,41.259692",
+    "geom:latitude":41.259692,
+    "geom:longitude":-96.035429,
+    "iso:country":"US",
+    "sg:address":"7810 Dodge St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Furniture",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Carpets & Floor Coverings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 445 2980",
+    "sg:postcode":"68114",
+    "sg:province":"NE",
+    "sg:tags":[
+        "store",
+        "mattress"
+    ],
+    "sg:website":"http://www.relaxtheback.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4dDxenbUNRrJ7cljy4xRhy_41.259692_-96.035429@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2d5ac993a94edd8739d05df60822b946",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872509,
+            "region_id":85688563,
+            "venue_id":203098497
+        }
+    ],
+    "wof:id":203098497,
+    "wof:lastmodified":1449026671,
+    "wof:name":"Relax The Back Store",
+    "wof:parent_id":85872509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "store",
+        "mattress"
+    ]
+},
+  "bbox": [-96.035429,41.259692,-96.035429,41.259692],
+  "geometry": {"coordinates":[-96.035429,41.259692],"type":"Point"}
+}

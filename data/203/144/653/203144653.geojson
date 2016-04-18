@@ -1,0 +1,72 @@
+{
+  "id": 203144653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.138689,41.235609,-96.138689,41.235609",
+    "geom:latitude":41.235609,
+    "geom:longitude":-96.138689,
+    "iso:country":"US",
+    "sg:address":"2610 S 144th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 403 4615",
+    "sg:postcode":"68144",
+    "sg:province":"NE",
+    "sg:tags":[
+        "tire"
+    ],
+    "sg:website":"http://www.tiresplus.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973479,
+        102082789,
+        85806957
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4BybVaP0LD2UqXWNHj6ISs_41.235609_-96.138689@1303262943"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a4477325cabc79aed3f683abac39eac8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973479,
+            "neighbourhood_id":85806957,
+            "region_id":85688563,
+            "venue_id":203144653
+        }
+    ],
+    "wof:id":203144653,
+    "wof:lastmodified":1449026360,
+    "wof:name":"Tires Plus Total Car Care",
+    "wof:parent_id":85806957,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tire"
+    ]
+},
+  "bbox": [-96.138689,41.235609,-96.138689,41.235609],
+  "geometry": {"coordinates":[-96.138689,41.235609],"type":"Point"}
+}

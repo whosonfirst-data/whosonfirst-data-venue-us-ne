@@ -1,0 +1,69 @@
+{
+  "id": 203091623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.961197,41.298,-95.961197,41.298",
+    "geom:latitude":41.298,
+    "geom:longitude":-95.961197,
+    "iso:country":"US",
+    "sg:address":"4304 N 33rd St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 453 6857",
+    "sg:postcode":"68111",
+    "sg:province":"NE",
+    "sg:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0t0x471buAn1Yl1TCOCuAf_41.298000_-95.961197@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"76eab6cb1a7d29d71d856ae634c3af4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203091623
+        }
+    ],
+    "wof:id":203091623,
+    "wof:lastmodified":1449025125,
+    "wof:name":"Skinner Magnet Center",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ]
+},
+  "bbox": [-95.961197,41.298,-95.961197,41.298],
+  "geometry": {"coordinates":[-95.961197,41.298],"type":"Point"}
+}

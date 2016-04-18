@@ -1,0 +1,67 @@
+{
+  "id": 203101501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.154679,41.281343,-96.154679,41.281343",
+    "geom:latitude":41.281343,
+    "geom:longitude":-96.154679,
+    "iso:country":"US",
+    "sg:address":"2614 N 154th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Advertising",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 933 5400",
+    "sg:postcode":"68116",
+    "sg:province":"NE",
+    "sg:tags":[
+        "outdoor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633793,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3AKlcFSPFf8OJ3a0YJcYLh_41.281343_-96.154679@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0a56478dfdbef472536a30b10c70f02b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203101501
+        }
+    ],
+    "wof:id":203101501,
+    "wof:lastmodified":1449025944,
+    "wof:name":"Outdoor Connection",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "outdoor"
+    ]
+},
+  "bbox": [-96.154679,41.281343,-96.154679,41.281343],
+  "geometry": {"coordinates":[-96.154679,41.281343],"type":"Point"}
+}

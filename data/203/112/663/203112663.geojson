@@ -1,0 +1,105 @@
+{
+  "id": 203112663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.02971,41.216391,-96.02971,41.216391",
+    "geom:latitude":41.216391,
+    "geom:longitude":-96.02971,
+    "iso:country":"US",
+    "sg:address":"4404 S 76th Cir",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Building Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 592 1999",
+    "sg:postcode":"68127",
+    "sg:province":"NE",
+    "sg:tags":[
+        "control",
+        "extinguisher",
+        "monitoring",
+        "physician",
+        "alarm",
+        "system",
+        "systems-wholesale",
+        "surgeon",
+        "medical",
+        "manufacturer"
+    ],
+    "sg:website":"http://www.fireguardusa.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85867059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_06yvpZGf67z35m89tstnCi_41.216391_-96.029710@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b28be1ba475f11423c1a95cdb2cd077e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85867059,
+            "region_id":85688563,
+            "venue_id":203112663
+        }
+    ],
+    "wof:id":203112663,
+    "wof:lastmodified":1449025786,
+    "wof:name":"Fireguard",
+    "wof:parent_id":85867059,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "control",
+        "extinguisher",
+        "monitoring",
+        "physician",
+        "alarm",
+        "system",
+        "systems-wholesale",
+        "surgeon",
+        "medical",
+        "manufacturer"
+    ]
+},
+  "bbox": [-96.02971,41.216391,-96.02971,41.216391],
+  "geometry": {"coordinates":[-96.02971,41.216391],"type":"Point"}
+}

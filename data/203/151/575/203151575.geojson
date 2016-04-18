@@ -1,0 +1,75 @@
+{
+  "id": 203151575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.105016,41.278205,-96.105016,41.278205",
+    "geom:latitude":41.278205,
+    "geom:longitude":-96.105016,
+    "iso:country":"US",
+    "sg:address":"12216 Patrick Ave",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Skate Park",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 445 9156",
+    "sg:postcode":"68164",
+    "sg:province":"NE",
+    "sg:tags":[
+        "magician",
+        "entertainers-family",
+        "business"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5cfU9F8HvM9sYDufiZ0t2r_41.278205_-96.105016@1303262943"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"cb37f11898cf98934e2a86e7cb88601d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872503,
+            "region_id":85688563,
+            "venue_id":203151575
+        }
+    ],
+    "wof:id":203151575,
+    "wof:lastmodified":1449024957,
+    "wof:name":"Bob The Magic Man",
+    "wof:parent_id":85872503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "magician",
+        "entertainers-family",
+        "business"
+    ]
+},
+  "bbox": [-96.105016,41.278205,-96.105016,41.278205],
+  "geometry": {"coordinates":[-96.105016,41.278205],"type":"Point"}
+}

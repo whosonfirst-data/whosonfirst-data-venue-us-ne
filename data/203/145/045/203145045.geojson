@@ -1,0 +1,101 @@
+{
+  "id": 203145045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.13702,41.247549,-96.13702,41.247549",
+    "geom:latitude":41.247549,
+    "geom:longitude":-96.13702,
+    "iso:country":"US",
+    "sg:address":"14216 Pierce Plz",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Hazard Insurance",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Title Insurance",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Health Insurance",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Life Insurance",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 334 5170",
+    "sg:postcode":"68144",
+    "sg:province":"NE",
+    "sg:tags":[
+        "business",
+        "auto",
+        "commercial",
+        "homeowner",
+        "benefit",
+        "employee",
+        "property",
+        "casualty"
+    ],
+    "sg:website":"http://www.farmersagent.com/sdodds",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973479,
+        102082789,
+        85806957
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3fjjVblYM8mY4mPmjVOC90_41.247549_-96.137020@1303262943"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"09e0c7202d8d7207e6d658033ee36a98",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973479,
+            "neighbourhood_id":85806957,
+            "region_id":85688563,
+            "venue_id":203145045
+        }
+    ],
+    "wof:id":203145045,
+    "wof:lastmodified":1449025489,
+    "wof:name":"Dodds, Stephen R - Farmers Insurance Group",
+    "wof:parent_id":85806957,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "business",
+        "auto",
+        "commercial",
+        "homeowner",
+        "benefit",
+        "employee",
+        "property",
+        "casualty"
+    ]
+},
+  "bbox": [-96.13702,41.247549,-96.13702,41.247549],
+  "geometry": {"coordinates":[-96.13702,41.247549],"type":"Point"}
+}

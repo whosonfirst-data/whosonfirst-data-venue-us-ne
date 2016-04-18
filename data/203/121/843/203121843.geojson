@@ -1,0 +1,78 @@
+{
+  "id": 203121843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.969351,41.259659,-95.969351,41.259659",
+    "geom:latitude":41.259659,
+    "geom:longitude":-95.969351,
+    "iso:country":"US",
+    "sg:address":"3808 Dodge St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 553 5536",
+    "sg:postcode":"68131",
+    "sg:province":"NE",
+    "sg:tags":[
+        "counseling",
+        "community",
+        "mental",
+        "service/non-profit"
+    ],
+    "sg:website":"www.projecthomelessnomore.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_44VRRiOLjDEEZmu5L9BHWK_41.259659_-95.969351@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f3a9d713fb55957226cbd7b70d15544e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872525,
+            "region_id":85688563,
+            "venue_id":203121843
+        }
+    ],
+    "wof:id":203121843,
+    "wof:lastmodified":1449026413,
+    "wof:name":"Project Homeless No More",
+    "wof:parent_id":85872525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "counseling",
+        "community",
+        "mental",
+        "service/non-profit"
+    ]
+},
+  "bbox": [-95.969351,41.259659,-95.969351,41.259659],
+  "geometry": {"coordinates":[-95.969351,41.259659],"type":"Point"}
+}

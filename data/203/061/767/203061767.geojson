@@ -1,0 +1,73 @@
+{
+  "id": 203061767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.988602,41.248001,-95.988602,41.248001",
+    "geom:latitude":41.248001,
+    "geom:longitude":-95.988602,
+    "iso:country":"US",
+    "sg:address":"1110 S Saddle Creek Rd",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 551 9902",
+    "sg:postcode":"68106",
+    "sg:province":"NE",
+    "sg:tags":[
+        "electrician",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1QNeaHcarsvSuB8E7w7Jqt_41.248001_-95.988602@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"993d0aabde06879b1458b9aaabd2a099",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872523,
+            "region_id":85688563,
+            "venue_id":203061767
+        }
+    ],
+    "wof:id":203061767,
+    "wof:lastmodified":1449026334,
+    "wof:name":"Roberts Electric",
+    "wof:parent_id":85872523,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrician",
+        "contractor"
+    ]
+},
+  "bbox": [-95.988602,41.248001,-95.988602,41.248001],
+  "geometry": {"coordinates":[-95.988602,41.248001],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 203111155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.967756,41.142011,-95.967756,41.142011",
+    "geom:latitude":41.142011,
+    "geom:longitude":-95.967756,
+    "iso:country":"US",
+    "sg:address":"3608 Twin Creek Dr",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 991 3400",
+    "sg:postcode":"68123",
+    "sg:province":"NE",
+    "sg:tags":[
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85821583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0s8TGZF1TdXGT3psPTh1BL_41.142011_-95.967756@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"bc09e4952319c5fb9aeeabab4d4819d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85821583,
+            "region_id":85688563,
+            "venue_id":203111155
+        }
+    ],
+    "wof:id":203111155,
+    "wof:lastmodified":1449026904,
+    "wof:name":"Sam & Louie's New York Pizzeria",
+    "wof:parent_id":85821583,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pizza"
+    ]
+},
+  "bbox": [-95.967756,41.142011,-95.967756,41.142011],
+  "geometry": {"coordinates":[-95.967756,41.142011],"type":"Point"}
+}

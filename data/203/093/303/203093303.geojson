@@ -1,0 +1,67 @@
+{
+  "id": 203093303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.934628,41.323147,-95.934628,41.323147",
+    "geom:latitude":41.323147,
+    "geom:longitude":-95.934628,
+    "iso:country":"US",
+    "sg:address":"7075 N 14th Ave",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 341 8737",
+    "sg:postcode":"68112",
+    "sg:province":"NE",
+    "sg:tags":[
+        "contractor"
+    ],
+    "sg:website":"www.fhr.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85805287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_195SP4sKiXhJsoFFCJd8Iy_41.323147_-95.934628@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f8ab6ce0b6f35cb1865a931edf62e1d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85805287,
+            "region_id":85688563,
+            "venue_id":203093303
+        }
+    ],
+    "wof:id":203093303,
+    "wof:lastmodified":1449024936,
+    "wof:name":"Flint Hills Resources Lp",
+    "wof:parent_id":85805287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [-95.934628,41.323147,-95.934628,41.323147],
+  "geometry": {"coordinates":[-95.934628,41.323147],"type":"Point"}
+}

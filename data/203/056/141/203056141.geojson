@@ -1,0 +1,68 @@
+{
+  "id": 203056141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.975639,41.241211,-95.975639,41.241211",
+    "geom:latitude":41.241211,
+    "geom:longitude":-95.975639,
+    "iso:country":"US",
+    "sg:address":"1941 S 42nd St Ste 543",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 505 9901",
+    "sg:postcode":"68105",
+    "sg:province":"NE",
+    "sg:tags":[
+        "service/non-profit",
+        "community"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1L2C1lywmhKPJqghqXlFl5_41.241211_-95.975639@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d8e57bd1ee7b16f199704b862081a7f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872523,
+            "region_id":85688563,
+            "venue_id":203056141
+        }
+    ],
+    "wof:id":203056141,
+    "wof:lastmodified":1449025442,
+    "wof:name":"Crohn's & Colitis Foundation of America",
+    "wof:parent_id":85872523,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "service/non-profit",
+        "community"
+    ]
+},
+  "bbox": [-95.975639,41.241211,-95.975639,41.241211],
+  "geometry": {"coordinates":[-95.975639,41.241211],"type":"Point"}
+}

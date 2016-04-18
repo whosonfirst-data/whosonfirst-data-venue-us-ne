@@ -1,0 +1,70 @@
+{
+  "id": 203060197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.989152,41.251572,-95.989152,41.251572",
+    "geom:latitude":41.251572,
+    "geom:longitude":-95.989152,
+    "iso:country":"US",
+    "sg:address":"826 S 49th Ave",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 390 2642",
+    "sg:postcode":"68106",
+    "sg:province":"NE",
+    "sg:tags":[
+        "air",
+        "heating",
+        "conditioning/hvac"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7KvIIyuSLYB5QdkktcMcs8_41.251572_-95.989152@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2cd4e914b0d9578fa0c807c0bb2e59ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872523,
+            "region_id":85688563,
+            "venue_id":203060197
+        }
+    ],
+    "wof:id":203060197,
+    "wof:lastmodified":1449026691,
+    "wof:name":"Am Heating & Air Conditioning Inc",
+    "wof:parent_id":85872523,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "air",
+        "heating",
+        "conditioning/hvac"
+    ]
+},
+  "bbox": [-95.989152,41.251572,-95.989152,41.251572],
+  "geometry": {"coordinates":[-95.989152,41.251572],"type":"Point"}
+}

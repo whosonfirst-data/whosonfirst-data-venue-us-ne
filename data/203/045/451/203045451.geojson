@@ -1,0 +1,66 @@
+{
+  "id": 203045451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.9935,41.283298,-95.9935,41.283298",
+    "geom:latitude":41.283298,
+    "geom:longitude":-95.9935,
+    "iso:country":"US",
+    "sg:address":"5151 NW Radial Hwy",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"University",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 558 6212",
+    "sg:postcode":"68104",
+    "sg:province":"NE",
+    "sg:tags":[
+        "college"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_27iz5g58zvq2IXWLXxdeHt_41.283298_-95.993500@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2175b1b7f06e1a36ea4f8d77d32bb2c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872535,
+            "region_id":85688563,
+            "venue_id":203045451
+        }
+    ],
+    "wof:id":203045451,
+    "wof:lastmodified":1449026646,
+    "wof:name":"Bethany Lutheran Pre-School",
+    "wof:parent_id":85872535,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "college"
+    ]
+},
+  "bbox": [-95.9935,41.283298,-95.9935,41.283298],
+  "geometry": {"coordinates":[-95.9935,41.283298],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 203056887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.007099,41.229387,-96.007099,41.229387",
+    "geom:latitude":41.229387,
+    "geom:longitude":-96.007099,
+    "iso:country":"US",
+    "sg:address":"3115 S 61st Ave",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Electronics",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Printing & Photocopies",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 339 3700",
+    "sg:postcode":"68106",
+    "sg:province":"NE",
+    "sg:tags":[
+        "lithographer",
+        "printers-equipment",
+        "supply"
+    ],
+    "sg:website":"http://www.graphictec.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85867059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_69YmfM3rI62psOFNkf3mWe_41.229387_-96.007099@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"bcd84da2a64f5b15f6c8c6e6cd2baa1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85867059,
+            "region_id":85688563,
+            "venue_id":203056887
+        }
+    ],
+    "wof:id":203056887,
+    "wof:lastmodified":1449025442,
+    "wof:name":"Graphic Technologies Inc",
+    "wof:parent_id":85867059,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lithographer",
+        "printers-equipment",
+        "supply"
+    ]
+},
+  "bbox": [-96.007099,41.229387,-96.007099,41.229387],
+  "geometry": {"coordinates":[-96.007099,41.229387],"type":"Point"}
+}

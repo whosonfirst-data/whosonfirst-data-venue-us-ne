@@ -1,0 +1,74 @@
+{
+  "id": 203145259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.119518,41.236281,-96.119518,41.236281",
+    "geom:latitude":41.236281,
+    "geom:longitude":-96.119518,
+    "iso:country":"US",
+    "sg:address":"2434 S 132nd St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 330 9236",
+    "sg:postcode":"68144",
+    "sg:province":"NE",
+    "sg:tags":[
+        "take",
+        "italian"
+    ],
+    "sg:website":"http://www.fazolis.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1xbYHKF65NqUYWj042VZMV_41.236281_-96.119518@1303262943"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a71828233517a333004fdab6dce4425c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872531,
+            "region_id":85688563,
+            "venue_id":203145259
+        }
+    ],
+    "wof:id":203145259,
+    "wof:lastmodified":1449025483,
+    "wof:name":"Fazoli's",
+    "wof:parent_id":85872531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "take",
+        "italian"
+    ]
+},
+  "bbox": [-96.119518,41.236281,-96.119518,41.236281],
+  "geometry": {"coordinates":[-96.119518,41.236281],"type":"Point"}
+}

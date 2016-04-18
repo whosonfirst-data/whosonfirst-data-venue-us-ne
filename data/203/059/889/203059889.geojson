@@ -1,0 +1,101 @@
+{
+  "id": 203059889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.988166,41.248531,-95.988166,41.248531",
+    "geom:latitude":41.248531,
+    "geom:longitude":-95.988166,
+    "iso:country":"US",
+    "sg:address":"1106 S Saddle Creek Rd",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Home Furnishings",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Glass & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Building Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 558 6500",
+    "sg:postcode":"68106",
+    "sg:province":"NE",
+    "sg:tags":[
+        "plate",
+        "glass-auto",
+        "accessory",
+        "window",
+        "doors",
+        "mirror",
+        "frames",
+        "windshield"
+    ],
+    "sg:website":"http://www.aunitedglass.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Jja5FTDVfrcETYn7xVlZg_41.248531_-95.988166@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2f57ebaed0b7be9cd3e5513689dfc76f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872523,
+            "region_id":85688563,
+            "venue_id":203059889
+        }
+    ],
+    "wof:id":203059889,
+    "wof:lastmodified":1449025426,
+    "wof:name":"A United Automatic Doors & Glass, Inc.",
+    "wof:parent_id":85872523,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plate",
+        "glass-auto",
+        "accessory",
+        "window",
+        "doors",
+        "mirror",
+        "frames",
+        "windshield"
+    ]
+},
+  "bbox": [-95.988166,41.248531,-95.988166,41.248531],
+  "geometry": {"coordinates":[-95.988166,41.248531],"type":"Point"}
+}

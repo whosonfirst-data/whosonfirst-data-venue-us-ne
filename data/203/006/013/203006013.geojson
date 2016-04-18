@@ -1,0 +1,69 @@
+{
+  "id": 203006013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.938441,41.260823,-95.938441,41.260823",
+    "geom:latitude":41.260823,
+    "geom:longitude":-95.938441,
+    "iso:country":"US",
+    "sg:address":"215 N 17th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 965 9670",
+    "sg:postcode":"68102",
+    "sg:province":"NE",
+    "sg:tags":[
+        "enforcement",
+        "law",
+        "agencies-government"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_08KfzR719whNPUA4Z4HNzj_41.260823_-95.938441@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7b5f2392042aa882c23b667e4b23a4b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203006013
+        }
+    ],
+    "wof:id":203006013,
+    "wof:lastmodified":1449026465,
+    "wof:name":"Us Secret Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "enforcement",
+        "law",
+        "agencies-government"
+    ]
+},
+  "bbox": [-95.938441,41.260823,-95.938441,41.260823],
+  "geometry": {"coordinates":[-95.938441,41.260823],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 203135315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.022377,41.173,-96.022377,41.173",
+    "geom:latitude":41.173,
+    "geom:longitude":-96.022377,
+    "iso:country":"US",
+    "sg:address":"8650 S 71st Plz",
+    "sg:city":"Papillion",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 592 6866",
+    "sg:postcode":"68133",
+    "sg:province":"NE",
+    "sg:tags":[
+        "product",
+        "health",
+        "diet"
+    ],
+    "sg:website":"http://www.gnc.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        102082789,
+        85843697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7U5Moud31N2vv5GzpqQZ4p_41.173000_-96.022377@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f6c8a1393290dced6cae028fc1345210",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":-1,
+            "neighbourhood_id":85843697,
+            "region_id":85688563,
+            "venue_id":203135315
+        }
+    ],
+    "wof:id":203135315,
+    "wof:lastmodified":1449025648,
+    "wof:name":"Gnc Inc",
+    "wof:parent_id":85843697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "health",
+        "diet"
+    ]
+},
+  "bbox": [-96.022377,41.173,-96.022377,41.173],
+  "geometry": {"coordinates":[-96.022377,41.173],"type":"Point"}
+}

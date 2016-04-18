@@ -1,0 +1,70 @@
+{
+  "id": 203163423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.719612,40.956691,-96.719612,40.956691",
+    "geom:latitude":40.956691,
+    "geom:longitude":-96.719612,
+    "iso:country":"US",
+    "sg:address":"14700 N 1st St",
+    "sg:city":"Raymond",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 783 3411",
+    "sg:postcode":"68428",
+    "sg:province":"NE",
+    "sg:tags":[
+        "mail",
+        "shipping"
+    ],
+    "sg:website":"http://www.usps.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633793,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5qe4FFQSKKFU649Rsbf99V_40.956691_-96.719612@1303262943"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0db895b88102fb5a02106b5a40f75efe",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203163423
+        }
+    ],
+    "wof:id":203163423,
+    "wof:lastmodified":1449026836,
+    "wof:name":"Us Post Office",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mail",
+        "shipping"
+    ]
+},
+  "bbox": [-96.719612,40.956691,-96.719612,40.956691],
+  "geometry": {"coordinates":[-96.719612,40.956691],"type":"Point"}
+}

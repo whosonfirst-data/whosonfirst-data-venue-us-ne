@@ -1,0 +1,75 @@
+{
+  "id": 203169395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.740952,40.817371,-96.740952,40.817371",
+    "geom:latitude":40.817371,
+    "geom:longitude":-96.740952,
+    "iso:country":"US",
+    "sg:address":"1301 W S St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Musical Instruments",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Music",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 477 0236",
+    "sg:postcode":"68528",
+    "sg:province":"NE",
+    "sg:tags":[
+        "guitar",
+        "amplifier",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_67RZTGiTlnE4blGX1UxwDf_40.817371_-96.740952@1303262943"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"94cd5de2466d76be6fd5031c0ca13b8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878689,
+            "region_id":85688563,
+            "venue_id":203169395
+        }
+    ],
+    "wof:id":203169395,
+    "wof:lastmodified":1449026115,
+    "wof:name":"J&P Czech Record Sales & Sq Dance Apparel",
+    "wof:parent_id":85878689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "guitar",
+        "amplifier",
+        "store"
+    ]
+},
+  "bbox": [-96.740952,40.817371,-96.740952,40.817371],
+  "geometry": {"coordinates":[-96.740952,40.817371],"type":"Point"}
+}

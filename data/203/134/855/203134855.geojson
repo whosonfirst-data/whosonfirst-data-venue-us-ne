@@ -1,0 +1,87 @@
+{
+  "id": 203134855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.982732,41.269571,-95.982732,41.269571",
+    "geom:latitude":41.269571,
+    "geom:longitude":-95.982732,
+    "iso:country":"US",
+    "sg:address":"1140 NW Radial Hwy",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        },
+        {
+            "category":"Structure",
+            "subcategory":"Warehouse",
+            "type":"Public Place"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Storage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 556 7849",
+    "sg:postcode":"68132",
+    "sg:province":"NE",
+    "sg:tags":[
+        "moving-self",
+        "warehouses-public-commercial",
+        "household",
+        "commercial",
+        "truck",
+        "self"
+    ],
+    "sg:website":"http://www.uhaul.com/Locations/Rentals-near-Omaha-NE-68132/036739",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85867055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_789t0Wti7Kr3LAsfC0P9dc_41.269571_-95.982732@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5f38d7bc3795d4a22fd3c2e2b272fd06",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85867055,
+            "region_id":85688563,
+            "venue_id":203134855
+        }
+    ],
+    "wof:id":203134855,
+    "wof:lastmodified":1449026764,
+    "wof:name":"U-Haul Neighborhood Dealer - Armor Storage",
+    "wof:parent_id":85867055,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "moving-self",
+        "warehouses-public-commercial",
+        "household",
+        "commercial",
+        "truck",
+        "self"
+    ]
+},
+  "bbox": [-95.982732,41.269571,-95.982732,41.269571],
+  "geometry": {"coordinates":[-95.982732,41.269571],"type":"Point"}
+}

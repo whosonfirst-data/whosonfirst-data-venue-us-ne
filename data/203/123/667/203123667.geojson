@@ -1,0 +1,76 @@
+{
+  "id": 203123667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.972183,41.257771,-95.972183,41.257771",
+    "geom:latitude":41.257771,
+    "geom:longitude":-95.972183,
+    "iso:country":"US",
+    "sg:address":"3920 Farnam St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Stationery & Office Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Office Equipment",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Furniture",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 551 4547",
+    "sg:postcode":"68131",
+    "sg:province":"NE",
+    "sg:tags":[
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ylO4cSjwJ7kqleIMtICQg_41.257771_-95.972183@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5f1886f07394332a2b678b9db39e3581",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872523,
+            "region_id":85688563,
+            "venue_id":203123667
+        }
+    ],
+    "wof:id":203123667,
+    "wof:lastmodified":1449025475,
+    "wof:name":"Business Furniture Cleaning",
+    "wof:parent_id":85872523,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "store"
+    ]
+},
+  "bbox": [-95.972183,41.257771,-95.972183,41.257771],
+  "geometry": {"coordinates":[-95.972183,41.257771],"type":"Point"}
+}

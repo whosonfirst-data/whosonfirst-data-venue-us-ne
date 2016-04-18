@@ -1,0 +1,79 @@
+{
+  "id": 203136113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.030292,41.28501,-96.030292,41.28501",
+    "geom:latitude":41.28501,
+    "geom:longitude":-96.030292,
+    "iso:country":"US",
+    "sg:address":"7555 Maple St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Hazard Insurance",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Title Insurance",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 393 2924",
+    "sg:postcode":"68134",
+    "sg:province":"NE",
+    "sg:tags":[
+        "auto",
+        "homeowner"
+    ],
+    "sg:website":"http://apps.amfam.com/agentlocator/DOLSON?sourceid=yp3",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3P3iDslK8wa22ArZGBw7Ba_41.285010_-96.030292@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"fa105e07bc0a9c3c7067ca0085974325",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872507,
+            "region_id":85688563,
+            "venue_id":203136113
+        }
+    ],
+    "wof:id":203136113,
+    "wof:lastmodified":1449026856,
+    "wof:name":"American Family Insurance- Dale Olson Agency Inc",
+    "wof:parent_id":85872507,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "auto",
+        "homeowner"
+    ]
+},
+  "bbox": [-96.030292,41.28501,-96.030292,41.28501],
+  "geometry": {"coordinates":[-96.030292,41.28501],"type":"Point"}
+}

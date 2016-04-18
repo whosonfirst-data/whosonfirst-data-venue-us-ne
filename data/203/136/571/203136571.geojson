@@ -1,0 +1,72 @@
+{
+  "id": 203136571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.052696,41.283328,-96.052696,41.283328",
+    "geom:latitude":41.283328,
+    "geom:longitude":-96.052696,
+    "iso:country":"US",
+    "sg:address":"2650 N 90th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Supermarket",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 390 0440",
+    "sg:postcode":"68134",
+    "sg:province":"NE",
+    "sg:tags":[
+        "super"
+    ],
+    "sg:website":"http://www.bagnsave.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85867061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Kj7SWbDD5goWH7tM1kmdf_41.283328_-96.052696@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1c331fe3c3a9610a69549624b6a1c6d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85867061,
+            "region_id":85688563,
+            "venue_id":203136571
+        }
+    ],
+    "wof:id":203136571,
+    "wof:lastmodified":1449026855,
+    "wof:name":"Bag N Save",
+    "wof:parent_id":85867061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "super"
+    ]
+},
+  "bbox": [-96.052696,41.283328,-96.052696,41.283328],
+  "geometry": {"coordinates":[-96.052696,41.283328],"type":"Point"}
+}

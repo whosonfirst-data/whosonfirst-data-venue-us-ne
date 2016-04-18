@@ -1,0 +1,66 @@
+{
+  "id": 203001721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.943604,41.258598,-95.943604,41.258598",
+    "geom:latitude":41.258598,
+    "geom:longitude":-95.943604,
+    "iso:country":"US",
+    "sg:address":"2111 Douglas St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Massage",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Chiropractor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 345 7500",
+    "sg:postcode":"68102",
+    "sg:province":"NE",
+    "sg:website":"www.downtownchiropracticomaha.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7QTh4FTIPeDWyq8c5V4gUG_41.258598_-95.943604@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ebe81def41b40dc124c80b366a0e9a61",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203001721
+        }
+    ],
+    "wof:id":203001721,
+    "wof:lastmodified":1449025362,
+    "wof:name":"Miller Ritch E Chiropractor",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-95.943604,41.258598,-95.943604,41.258598],
+  "geometry": {"coordinates":[-95.943604,41.258598],"type":"Point"}
+}

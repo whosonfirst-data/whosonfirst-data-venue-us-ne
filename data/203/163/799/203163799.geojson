@@ -1,0 +1,88 @@
+{
+  "id": 203163799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.722223,40.793353,-96.722223,40.793353",
+    "geom:latitude":40.793353,
+    "geom:longitude":-96.722223,
+    "iso:country":"US",
+    "sg:address":"168 Harwood Ct",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Building Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 438 4477",
+    "sg:postcode":"68502",
+    "sg:province":"NE",
+    "sg:tags":[
+        "roofing",
+        "sheet",
+        "work",
+        "metal",
+        "siding",
+        "contractor",
+        "window"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_23Zs2olJDF0SSF3mXo9HT3_40.793353_-96.722223@1303262943"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"78dd5d3b286412e6b71ce224976e27cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878737,
+            "region_id":85688563,
+            "venue_id":203163799
+        }
+    ],
+    "wof:id":203163799,
+    "wof:lastmodified":1449026841,
+    "wof:name":"American Building Supply, Inc.",
+    "wof:parent_id":85878737,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "roofing",
+        "sheet",
+        "work",
+        "metal",
+        "siding",
+        "contractor",
+        "window"
+    ]
+},
+  "bbox": [-96.722223,40.793353,-96.722223,40.793353],
+  "geometry": {"coordinates":[-96.722223,40.793353],"type":"Point"}
+}

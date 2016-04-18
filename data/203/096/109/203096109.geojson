@@ -1,0 +1,72 @@
+{
+  "id": 203096109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.959598,41.338477,-95.959598,41.338477",
+    "geom:latitude":41.338477,
+    "geom:longitude":-95.959598,
+    "iso:country":"US",
+    "sg:address":"8615 N 29th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 457 5064",
+    "sg:postcode":"68112",
+    "sg:province":"NE",
+    "sg:tags":[
+        "contractor",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7UEkJccP6e0UlQI7Yqjuhv_41.338477_-95.959598@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"42238d430d4e5151706bacc4f5090d3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203096109
+        }
+    ],
+    "wof:id":203096109,
+    "wof:lastmodified":1449025532,
+    "wof:name":"Arctic Insulation Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor",
+        "supply"
+    ]
+},
+  "bbox": [-95.959598,41.338477,-95.959598,41.338477],
+  "geometry": {"coordinates":[-95.959598,41.338477],"type":"Point"}
+}

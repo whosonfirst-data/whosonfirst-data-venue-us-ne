@@ -1,0 +1,69 @@
+{
+  "id": 203142295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.138812,41.218663,-96.138812,41.218663",
+    "geom:latitude":41.218663,
+    "geom:longitude":-96.138812,
+    "iso:country":"US",
+    "sg:address":"4150 S 144th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 894 9411",
+    "sg:postcode":"68137",
+    "sg:province":"NE",
+    "sg:tags":[
+        "seafood",
+        "take"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633793,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0q3R8FK7yGf8A3cHNKFDyg_41.218663_-96.138812@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6a4f4ed485bdbddc3c86a272d246d617",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203142295
+        }
+    ],
+    "wof:id":203142295,
+    "wof:lastmodified":1449026453,
+    "wof:name":"Charlie's On The Lake",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "seafood",
+        "take"
+    ]
+},
+  "bbox": [-96.138812,41.218663,-96.138812,41.218663],
+  "geometry": {"coordinates":[-96.138812,41.218663],"type":"Point"}
+}

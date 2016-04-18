@@ -1,0 +1,68 @@
+{
+  "id": 203057239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.98831,41.241667,-95.98831,41.241667",
+    "geom:latitude":41.241667,
+    "geom:longitude":-95.98831,
+    "iso:country":"US",
+    "sg:address":"4920 Center St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 558 6625",
+    "sg:postcode":"68106",
+    "sg:province":"NE",
+    "sg:tags":[
+        "practice",
+        "family"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6d8sgFH25ExvUcTaU49aqr_41.241667_-95.988310@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"fe856569195cf11b4f33ed793592c8e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872523,
+            "region_id":85688563,
+            "venue_id":203057239
+        }
+    ],
+    "wof:id":203057239,
+    "wof:lastmodified":1449025860,
+    "wof:name":"Barone Eugene J MD MD",
+    "wof:parent_id":85872523,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "practice",
+        "family"
+    ]
+},
+  "bbox": [-95.98831,41.241667,-95.98831,41.241667],
+  "geometry": {"coordinates":[-95.98831,41.241667],"type":"Point"}
+}

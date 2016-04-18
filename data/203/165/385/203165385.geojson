@@ -1,0 +1,73 @@
+{
+  "id": 203165385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.603964,40.831324,-96.603964,40.831324",
+    "geom:latitude":40.831324,
+    "geom:longitude":-96.603964,
+    "iso:country":"US",
+    "sg:address":"8531 Lexington Ave Ste 101",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 466 1383",
+    "sg:postcode":"68505",
+    "sg:province":"NE",
+    "sg:tags":[
+        "clinic",
+        "hospital",
+        "veterinarian",
+        "specialty"
+    ],
+    "sg:website":"http://www.optimumpethealth.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_58OCdXfnsy58oPljTkdWFD_40.831324_-96.603964@1303262943"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"47fbc91d5ecda5deda363ab09ae7f697",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878725,
+            "region_id":85688563,
+            "venue_id":203165385
+        }
+    ],
+    "wof:id":203165385,
+    "wof:lastmodified":1449026867,
+    "wof:name":"Optimum Pet Health & Wellness",
+    "wof:parent_id":85878725,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic",
+        "hospital",
+        "veterinarian",
+        "specialty"
+    ]
+},
+  "bbox": [-96.603964,40.831324,-96.603964,40.831324],
+  "geometry": {"coordinates":[-96.603964,40.831324],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 203164257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.702815,40.780281,-96.702815,40.780281",
+    "geom:latitude":40.780281,
+    "geom:longitude":-96.702815,
+    "iso:country":"US",
+    "sg:address":"3239 S 13th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 420 6228",
+    "sg:postcode":"68502",
+    "sg:province":"NE",
+    "sg:tags":[
+        "take",
+        "chinese"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_57VhxDALMvAiD0FERecTPF_40.780281_-96.702815@1303262943"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"90eab3d743d7f0e5821ed1ac2a0c261e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878719,
+            "region_id":85688563,
+            "venue_id":203164257
+        }
+    ],
+    "wof:id":203164257,
+    "wof:lastmodified":1449025168,
+    "wof:name":"Magic Wok",
+    "wof:parent_id":85878719,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "take",
+        "chinese"
+    ]
+},
+  "bbox": [-96.702815,40.780281,-96.702815,40.780281],
+  "geometry": {"coordinates":[-96.702815,40.780281],"type":"Point"}
+}

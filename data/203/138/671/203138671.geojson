@@ -1,0 +1,72 @@
+{
+  "id": 203138671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.195316,41.182892,-96.195316,41.182892",
+    "geom:latitude":41.182892,
+    "geom:longitude":-96.195316,
+    "iso:country":"US",
+    "sg:address":"17911 Storage Rd",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        },
+        {
+            "category":"Utilities",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 330 3603",
+    "sg:postcode":"68136",
+    "sg:province":"NE",
+    "sg:tags":[
+        "collection",
+        "garbage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        102082789,
+        85834285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Sp6NreAoTBubjSlpSecxd_41.182892_-96.195316@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f6d46f24e092c470d90492d3ccdae7f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":-1,
+            "neighbourhood_id":85834285,
+            "region_id":85688563,
+            "venue_id":203138671
+        }
+    ],
+    "wof:id":203138671,
+    "wof:lastmodified":1449025449,
+    "wof:name":"Elkhorn Sanitation Svc",
+    "wof:parent_id":85834285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "collection",
+        "garbage"
+    ]
+},
+  "bbox": [-96.195316,41.182892,-96.195316,41.182892],
+  "geometry": {"coordinates":[-96.195316,41.182892],"type":"Point"}
+}

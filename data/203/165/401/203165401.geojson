@@ -1,0 +1,72 @@
+{
+  "id": 203165401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.62152,40.82602,-96.62152,40.82602",
+    "geom:latitude":40.82602,
+    "geom:longitude":-96.62152,
+    "iso:country":"US",
+    "sg:address":"7225 Dudley St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 464 9736",
+    "sg:postcode":"68505",
+    "sg:province":"NE",
+    "sg:tags":[
+        "marking",
+        "maintenance",
+        "lot",
+        "parking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Rv8nhAn0UU5Hl3AnPV91L_40.826020_-96.621520@1303262943"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6c6fca6b1eadc371be55c4c16bf0b5e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878725,
+            "region_id":85688563,
+            "venue_id":203165401
+        }
+    ],
+    "wof:id":203165401,
+    "wof:lastmodified":1449026869,
+    "wof:name":"D Swartz Striping",
+    "wof:parent_id":85878725,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "marking",
+        "maintenance",
+        "lot",
+        "parking"
+    ]
+},
+  "bbox": [-96.62152,40.82602,-96.62152,40.82602],
+  "geometry": {"coordinates":[-96.62152,40.82602],"type":"Point"}
+}

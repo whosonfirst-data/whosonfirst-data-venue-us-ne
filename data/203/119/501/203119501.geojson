@@ -1,0 +1,91 @@
+{
+  "id": 203119501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.163047,41.235009,-96.163047,41.235009",
+    "geom:latitude":41.235009,
+    "geom:longitude":-96.163047,
+    "iso:country":"US",
+    "sg:address":"2604 S 158th Plz",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Buildings",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Developer",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 333 0121",
+    "sg:postcode":"68130",
+    "sg:province":"NE",
+    "sg:tags":[
+        "industrial",
+        "specialty",
+        "builder",
+        "system",
+        "heating",
+        "contractor",
+        "home",
+        "air conditioning",
+        "contractors-commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6UFHcAR5SPbeyAgKNGEqY8_41.235009_-96.163047@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2cd58630bd74dc9a168a8a142bd99ffb",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203119501
+        }
+    ],
+    "wof:id":203119501,
+    "wof:lastmodified":1449026322,
+    "wof:name":"Arjay Builders Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industrial",
+        "specialty",
+        "builder",
+        "system",
+        "heating",
+        "contractor",
+        "home",
+        "air conditioning",
+        "contractors-commercial"
+    ]
+},
+  "bbox": [-96.163047,41.235009,-96.163047,41.235009],
+  "geometry": {"coordinates":[-96.163047,41.235009],"type":"Point"}
+}

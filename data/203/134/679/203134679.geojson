@@ -1,0 +1,76 @@
+{
+  "id": 203134679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.986209,41.26802,-95.986209,41.26802",
+    "geom:latitude":41.26802,
+    "geom:longitude":-95.986209,
+    "iso:country":"US",
+    "sg:address":"909 N 48th Ave",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 933 1973",
+    "sg:postcode":"68132",
+    "sg:province":"NE",
+    "sg:tags":[
+        "management",
+        "vacancy",
+        "apartment",
+        "listing",
+        "rental",
+        "finder"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85867055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_01xkj6x6X85sq56w5eboFo_41.268020_-95.986209@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b2127b5477a4606663c10aa4b22993bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85867055,
+            "region_id":85688563,
+            "venue_id":203134679
+        }
+    ],
+    "wof:id":203134679,
+    "wof:lastmodified":1449026765,
+    "wof:name":"Century House",
+    "wof:parent_id":85867055,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "management",
+        "vacancy",
+        "apartment",
+        "listing",
+        "rental",
+        "finder"
+    ]
+},
+  "bbox": [-95.986209,41.26802,-95.986209,41.26802],
+  "geometry": {"coordinates":[-95.986209,41.26802],"type":"Point"}
+}

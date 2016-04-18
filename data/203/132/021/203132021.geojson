@@ -1,0 +1,80 @@
+{
+  "id": 203132021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.990327,41.265208,-95.990327,41.265208",
+    "geom:latitude":41.265208,
+    "geom:longitude":-95.990327,
+    "iso:country":"US",
+    "sg:address":"5002 Underwood Ave",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 280 1185",
+    "sg:postcode":"68132",
+    "sg:province":"NE",
+    "sg:tags":[
+        "medicine",
+        "physician",
+        "surgeon",
+        "internal",
+        "osteopathic"
+    ],
+    "sg:website":"www.findyourphysician.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85867055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4FL6SlW3JGjZyaqvqfFJcQ_41.265208_-95.990327@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6e93b4700946378137f4e55d516f56bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85867055,
+            "region_id":85688563,
+            "venue_id":203132021
+        }
+    ],
+    "wof:id":203132021,
+    "wof:lastmodified":1449025840,
+    "wof:name":"Creighton Medical Associates",
+    "wof:parent_id":85867055,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicine",
+        "physician",
+        "surgeon",
+        "internal",
+        "osteopathic"
+    ]
+},
+  "bbox": [-95.990327,41.265208,-95.990327,41.265208],
+  "geometry": {"coordinates":[-95.990327,41.265208],"type":"Point"}
+}

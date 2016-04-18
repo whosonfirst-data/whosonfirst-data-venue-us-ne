@@ -1,0 +1,73 @@
+{
+  "id": 203092733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.977682,41.310027,-95.977682,41.310027",
+    "geom:latitude":41.310027,
+    "geom:longitude":-95.977682,
+    "iso:country":"US",
+    "sg:address":"4205 Redman Ave",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 451 1795",
+    "sg:postcode":"68111",
+    "sg:province":"NE",
+    "sg:tags":[
+        "shop",
+        "variety"
+    ],
+    "sg:website":"http://www.99centstoreandmore.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0xUSDTslhml9EjAFRgvDt4_41.310027_-95.977682@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0111cb2c981cd08f2a6f660070549717",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203092733
+        }
+    ],
+    "wof:id":203092733,
+    "wof:lastmodified":1449026479,
+    "wof:name":"99 Cent & More",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "variety"
+    ]
+},
+  "bbox": [-95.977682,41.310027,-95.977682,41.310027],
+  "geometry": {"coordinates":[-95.977682,41.310027],"type":"Point"}
+}

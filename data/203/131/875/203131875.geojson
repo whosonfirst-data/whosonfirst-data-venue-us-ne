@@ -1,0 +1,84 @@
+{
+  "id": 203131875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.982821,41.259701,-95.982821,41.259701",
+    "geom:latitude":41.259701,
+    "geom:longitude":-95.982821,
+    "iso:country":"US",
+    "sg:address":"4610 Dodge St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 558 7526",
+    "sg:postcode":"68132",
+    "sg:province":"NE",
+    "sg:tags":[
+        "control",
+        "information",
+        "planning",
+        "birth",
+        "family"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85867055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1OskPEwccH5RB0pcuz3xMe_41.259701_-95.982821@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"23c36f8d3244b9434b05d951cb5e9030",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85867055,
+            "region_id":85688563,
+            "venue_id":203131875
+        }
+    ],
+    "wof:id":203131875,
+    "wof:lastmodified":1449025481,
+    "wof:name":"Facts Of Lifeline",
+    "wof:parent_id":85867055,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "control",
+        "information",
+        "planning",
+        "birth",
+        "family"
+    ]
+},
+  "bbox": [-95.982821,41.259701,-95.982821,41.259701],
+  "geometry": {"coordinates":[-95.982821,41.259701],"type":"Point"}
+}

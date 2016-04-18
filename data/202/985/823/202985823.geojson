@@ -1,0 +1,68 @@
+{
+  "id": 202985823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.90034,41.132183,-95.90034,41.132183",
+    "geom:latitude":41.132183,
+    "geom:longitude":-95.90034,
+    "iso:country":"US",
+    "sg:address":"2608 Jackson St",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 614 1028",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "contractor",
+        "mechanical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974747,
+        102082777,
+        85820061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2XQ6GpeSi1tTNcg0yxFWms_41.132183_-95.900340@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"91d7f3b1ae88c918a67786833d670757",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974747,
+            "neighbourhood_id":85820061,
+            "region_id":85688563,
+            "venue_id":202985823
+        }
+    ],
+    "wof:id":202985823,
+    "wof:lastmodified":1449061381,
+    "wof:name":"William C Walter",
+    "wof:parent_id":85820061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor",
+        "mechanical"
+    ]
+},
+  "bbox": [-95.90034,41.132183,-95.90034,41.132183],
+  "geometry": {"coordinates":[-95.90034,41.132183],"type":"Point"}
+}

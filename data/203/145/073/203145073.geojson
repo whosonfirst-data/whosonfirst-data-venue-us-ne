@@ -1,0 +1,88 @@
+{
+  "id": 203145073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.13613,41.226957,-96.13613,41.226957",
+    "geom:latitude":41.226957,
+    "geom:longitude":-96.13613,
+    "iso:country":"US",
+    "sg:address":"3420 Oak View Dr",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 334 3728",
+    "sg:postcode":"68144",
+    "sg:province":"NE",
+    "sg:tags":[
+        "oil",
+        "tire",
+        "automobile",
+        "accessory",
+        "lube",
+        "part",
+        "supplies-used",
+        "brake",
+        "rebuilt"
+    ],
+    "sg:website":"http://www.sears.com/shc/s/v_10153_12605_Automotive?adCell=AH",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2id9ZYROhY8AFEboKyZAjM_41.226957_-96.136130@1303262943"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2eb293fd9a10d2e5212ab8e71303fa5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872531,
+            "region_id":85688563,
+            "venue_id":203145073
+        }
+    ],
+    "wof:id":203145073,
+    "wof:lastmodified":1449025482,
+    "wof:name":"Sears Auto Center",
+    "wof:parent_id":85872531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil",
+        "tire",
+        "automobile",
+        "accessory",
+        "lube",
+        "part",
+        "supplies-used",
+        "brake",
+        "rebuilt"
+    ]
+},
+  "bbox": [-96.13613,41.226957,-96.13613,41.226957],
+  "geometry": {"coordinates":[-96.13613,41.226957],"type":"Point"}
+}

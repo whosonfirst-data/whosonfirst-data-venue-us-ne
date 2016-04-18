@@ -1,0 +1,75 @@
+{
+  "id": 203135829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.01712,41.15984,-96.01712,41.15984",
+    "geom:latitude":41.15984,
+    "geom:longitude":-96.01712,
+    "iso:country":"US",
+    "sg:address":"404 Oakwood Dr",
+    "sg:city":"Papillion",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Landmark",
+            "subcategory":"Tourist Information",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 592 4146",
+    "sg:postcode":"68133",
+    "sg:province":"NE",
+    "sg:tags":[
+        "attraction",
+        "agency",
+        "services-commercial",
+        "tours-operators",
+        "promoter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633793,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1MdQMm1T46ePeuhvCv1AlB_41.159840_-96.017120@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7ffdd3867ba8e373b69f6638303586d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203135829
+        }
+    ],
+    "wof:id":203135829,
+    "wof:lastmodified":1449025647,
+    "wof:name":"Thor International Tours",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attraction",
+        "agency",
+        "services-commercial",
+        "tours-operators",
+        "promoter"
+    ]
+},
+  "bbox": [-96.01712,41.15984,-96.01712,41.15984],
+  "geometry": {"coordinates":[-96.01712,41.15984],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 203147501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.990076,41.325955,-95.990076,41.325955",
+    "geom:latitude":41.325955,
+    "geom:longitude":-95.990076,
+    "iso:country":"US",
+    "sg:address":"7909 Mormon Bridge Rd",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Funeral Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 451 1000",
+    "sg:postcode":"68152",
+    "sg:province":"NE",
+    "sg:tags":[
+        "cemetery"
+    ],
+    "sg:website":"www.forestlawnomaha.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85813863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6wj8GB2Bq6kjotWggirp2k_41.325955_-95.990076@1303262943"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"43fadd1a435459cb7d8c159ba298b7e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85813863,
+            "region_id":85688563,
+            "venue_id":203147501
+        }
+    ],
+    "wof:id":203147501,
+    "wof:lastmodified":1449026663,
+    "wof:name":"Forest Lawn Memorial Park",
+    "wof:parent_id":85813863,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cemetery"
+    ]
+},
+  "bbox": [-95.990076,41.325955,-95.990076,41.325955],
+  "geometry": {"coordinates":[-95.990076,41.325955],"type":"Point"}
+}

@@ -1,0 +1,87 @@
+{
+  "id": 202985155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.912626,41.145306,-95.912626,41.145306",
+    "geom:latitude":41.145306,
+    "geom:longitude":-95.912626,
+    "iso:country":"US",
+    "sg:address":"1504 Galvin Rd S",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 292 5850",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "delivery",
+        "take",
+        "pizza"
+    ],
+    "sg:website":"http://www.godfatherspizza.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85804025
+    ],
+    "wof:brand_id":420575225,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7KAbnhP5usSEsy3WXTf2uv_41.145306_-95.912626@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b9e4289cd92027bbb9d133267a7ef0c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85804025,
+            "region_id":85688563,
+            "venue_id":202985155
+        }
+    ],
+    "wof:id":202985155,
+    "wof:lastmodified":1457209470,
+    "wof:name":"Godfather's Pizza",
+    "wof:parent_id":85804025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delivery",
+        "take",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -95.912626,
+    41.145306,
+    -95.912626,
+    41.145306
+],
+  "geometry": {"coordinates":[-95.912626,41.145306],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 203111083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.976173,41.14666,-95.976173,41.14666",
+    "geom:latitude":41.14666,
+    "geom:longitude":-95.976173,
+    "iso:country":"US",
+    "sg:address":"3802 Raynor Pkwy",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 280 3550",
+    "sg:postcode":"68123",
+    "sg:province":"NE",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85821583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0SI1ugk1dc25Bkc2p02nex_41.146660_-95.976173@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"adde0f6071760d2cee4cad8f6fe8059e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85821583,
+            "region_id":85688563,
+            "venue_id":203111083
+        }
+    ],
+    "wof:id":203111083,
+    "wof:lastmodified":1449026904,
+    "wof:name":"Creighton Family Healthcare",
+    "wof:parent_id":85821583,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-95.976173,41.14666,-95.976173,41.14666],
+  "geometry": {"coordinates":[-95.976173,41.14666],"type":"Point"}
+}

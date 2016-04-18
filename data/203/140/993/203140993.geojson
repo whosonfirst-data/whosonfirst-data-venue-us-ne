@@ -1,0 +1,78 @@
+{
+  "id": 203140993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.153614,41.20772,-96.153614,41.20772",
+    "geom:latitude":41.20772,
+    "geom:longitude":-96.153614,
+    "iso:country":"US",
+    "sg:address":"5026 S 153rd St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Hazard Insurance",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Title Insurance",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 390 9755",
+    "sg:postcode":"68137",
+    "sg:province":"NE",
+    "sg:tags":[
+        "auto",
+        "homeowner"
+    ],
+    "sg:website":"http://apps.amfam.com/agentlocator/DCHEZEM?sourceid=yp3",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_68Mv7OBxy27u9yq6FnnOkY_41.207720_-96.153614@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8f482f902074e1a78bf9eb48f78d8895",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203140993
+        }
+    ],
+    "wof:id":203140993,
+    "wof:lastmodified":1449025204,
+    "wof:name":"American Family Insurance- David Chezem",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "auto",
+        "homeowner"
+    ]
+},
+  "bbox": [-96.153614,41.20772,-96.153614,41.20772],
+  "geometry": {"coordinates":[-96.153614,41.20772],"type":"Point"}
+}

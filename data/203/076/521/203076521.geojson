@@ -1,0 +1,74 @@
+{
+  "id": 203076521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.947197,41.2314,-95.947197,41.2314",
+    "geom:latitude":41.2314,
+    "geom:longitude":-95.947197,
+    "iso:country":"US",
+    "sg:address":"3002 S 24th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 345 7085",
+    "sg:postcode":"68108",
+    "sg:province":"NE",
+    "sg:tags":[
+        "game",
+        "video"
+    ],
+    "sg:website":"www.blockbuster.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789
+    ],
+    "wof:brand_id":420573763,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1XH2FaIEpStHI8ANyf7TWW_41.231400_-95.947197@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"faee10f42ac3700e3621df9c9e9d3555",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203076521
+        }
+    ],
+    "wof:id":203076521,
+    "wof:lastmodified":1457207158,
+    "wof:name":"Blockbuster Video",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "game",
+        "video"
+    ]
+},
+  "bbox": [
+    -95.947197,
+    41.2314,
+    -95.947197,
+    41.2314
+],
+  "geometry": {"coordinates":[-95.947197,41.2314],"type":"Point"}
+}

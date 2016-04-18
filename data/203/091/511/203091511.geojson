@@ -1,0 +1,67 @@
+{
+  "id": 203091511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.960197,41.281502,-95.960197,41.281502",
+    "geom:latitude":41.281502,
+    "geom:longitude":-95.960197,
+    "iso:country":"US",
+    "sg:address":"3226 Lake St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 455 9200",
+    "sg:postcode":"68111",
+    "sg:province":"NE",
+    "sg:tags":[
+        "bookstore"
+    ],
+    "sg:website":"www.aframericanbookstore.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4SpZ9jPuMLDDB2e0CaCmBa_41.281502_-95.960197@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0f33a3832b9dc9badf61f340a0cb7697",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872525,
+            "region_id":85688563,
+            "venue_id":203091511
+        }
+    ],
+    "wof:id":203091511,
+    "wof:lastmodified":1449025124,
+    "wof:name":"Aframerican Book Store",
+    "wof:parent_id":85872525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bookstore"
+    ]
+},
+  "bbox": [-95.960197,41.281502,-95.960197,41.281502],
+  "geometry": {"coordinates":[-95.960197,41.281502],"type":"Point"}
+}

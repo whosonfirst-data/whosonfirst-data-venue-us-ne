@@ -1,0 +1,65 @@
+{
+  "id": 203080897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.931999,41.239601,-95.931999,41.239601",
+    "geom:latitude":41.239601,
+    "geom:longitude":-95.931999,
+    "iso:country":"US",
+    "sg:address":"180th & Arbor St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 758 9504",
+    "sg:postcode":"68108",
+    "sg:province":"NE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0LpeQskjEg24WxVB6rNGv6_41.239601_-95.931999@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"10018afb8fdcb788401d81ac57d412ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203080897
+        }
+    ],
+    "wof:id":203080897,
+    "wof:lastmodified":1449026830,
+    "wof:name":"Anderson Bp Food Shops",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-95.931999,41.239601,-95.931999,41.239601],
+  "geometry": {"coordinates":[-95.931999,41.239601],"type":"Point"}
+}

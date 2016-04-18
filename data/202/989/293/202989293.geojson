@@ -1,0 +1,83 @@
+{
+  "id": 202989293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.043167,41.17626,-96.043167,41.17626",
+    "geom:latitude":41.17626,
+    "geom:longitude":-96.043167,
+    "iso:country":"US",
+    "sg:address":"11109 S 84th St",
+    "sg:city":"Papillion",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 827 0636",
+    "sg:postcode":"68046",
+    "sg:province":"NE",
+    "sg:tags":[
+        "physician",
+        "pediatrics-emergency",
+        "pediatrics",
+        "medical",
+        "surgeons",
+        "medicine",
+        "surgeon"
+    ],
+    "sg:website":"http://www.boystownpediatrics.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        102082789,
+        85843697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_07g2ZLXHpLc8eHKZoZt18e_41.176260_-96.043167@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d6465fe2e58eeb274aa3f2aa44a29292",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":-1,
+            "neighbourhood_id":85843697,
+            "region_id":85688563,
+            "venue_id":202989293
+        }
+    ],
+    "wof:id":202989293,
+    "wof:lastmodified":1449061957,
+    "wof:name":"Boys Town Boys Town Pediatrics Suite 1820",
+    "wof:parent_id":85843697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "pediatrics-emergency",
+        "pediatrics",
+        "medical",
+        "surgeons",
+        "medicine",
+        "surgeon"
+    ]
+},
+  "bbox": [-96.043167,41.17626,-96.043167,41.17626],
+  "geometry": {"coordinates":[-96.043167,41.17626],"type":"Point"}
+}

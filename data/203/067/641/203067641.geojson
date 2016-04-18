@@ -1,0 +1,83 @@
+{
+  "id": 203067641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.954697,41.218601,-95.954697,41.218601",
+    "geom:latitude":41.218601,
+    "geom:longitude":-95.954697,
+    "iso:country":"US",
+    "sg:address":"2911 G St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 734 1818",
+    "sg:postcode":"68107",
+    "sg:province":"NE",
+    "sg:tags":[
+        "roofing",
+        "industrial",
+        "altering",
+        "contractor",
+        "contractors-commercial",
+        "improvement",
+        "remodeling"
+    ],
+    "sg:website":"http://weiomaha.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7YJdu9ztX6pBZBKAr1TwWQ_41.218601_-95.954697@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a48d77bc23322e12b24727091b20a0ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203067641
+        }
+    ],
+    "wof:id":203067641,
+    "wof:lastmodified":1449025061,
+    "wof:name":"Weathercraft Enterprises Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "roofing",
+        "industrial",
+        "altering",
+        "contractor",
+        "contractors-commercial",
+        "improvement",
+        "remodeling"
+    ]
+},
+  "bbox": [-95.954697,41.218601,-95.954697,41.218601],
+  "geometry": {"coordinates":[-95.954697,41.218601],"type":"Point"}
+}

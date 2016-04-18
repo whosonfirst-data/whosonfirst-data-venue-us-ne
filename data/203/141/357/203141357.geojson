@@ -1,0 +1,89 @@
+{
+  "id": 203141357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.112499,41.205181,-96.112499,41.205181",
+    "geom:latitude":41.205181,
+    "geom:longitude":-96.112499,
+    "iso:country":"US",
+    "sg:address":"12712 Q St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Stationery & Office Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Train Station",
+            "subcategory":"Light Rail",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 895 5627",
+    "sg:postcode":"68137",
+    "sg:province":"NE",
+    "sg:tags":[
+        "marking",
+        "industrial",
+        "coding",
+        "accessory",
+        "equipment",
+        "flags",
+        "flagpole"
+    ],
+    "sg:website":"http://www.markingflag.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2kNiNavj1NnECF7L9AM9rL_41.205181_-96.112499@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5aec0611d8019f361d871012d83e0be5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872531,
+            "region_id":85688563,
+            "venue_id":203141357
+        }
+    ],
+    "wof:id":203141357,
+    "wof:lastmodified":1449025588,
+    "wof:name":"American Marking Corp",
+    "wof:parent_id":85872531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "marking",
+        "industrial",
+        "coding",
+        "accessory",
+        "equipment",
+        "flags",
+        "flagpole"
+    ]
+},
+  "bbox": [-96.112499,41.205181,-96.112499,41.205181],
+  "geometry": {"coordinates":[-96.112499,41.205181],"type":"Point"}
+}

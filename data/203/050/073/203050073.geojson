@@ -1,0 +1,71 @@
+{
+  "id": 203050073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.974701,41.245098,-95.974701,41.245098",
+    "geom:latitude":41.245098,
+    "geom:longitude":-95.974701,
+    "iso:country":"US",
+    "sg:address":"4104 Woolworth Ave",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 346 8800",
+    "sg:postcode":"68105",
+    "sg:province":"NE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5vXopafkoLFoaTqhfBbxiB_41.245098_-95.974701@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"eaeb35d64aa1cc485039946dbe9f455f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872523,
+            "region_id":85688563,
+            "venue_id":203050073
+        }
+    ],
+    "wof:id":203050073,
+    "wof:lastmodified":1449025986,
+    "wof:name":"Menolascino Scott MD",
+    "wof:parent_id":85872523,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-95.974701,41.245098,-95.974701,41.245098],
+  "geometry": {"coordinates":[-95.974701,41.245098],"type":"Point"}
+}

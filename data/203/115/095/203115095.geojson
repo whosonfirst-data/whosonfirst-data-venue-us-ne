@@ -1,0 +1,71 @@
+{
+  "id": 203115095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.062307,41.216168,-96.062307,41.216168",
+    "geom:latitude":41.216168,
+    "geom:longitude":-96.062307,
+    "iso:country":"US",
+    "sg:address":"4405 S 96th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 505 6300",
+    "sg:postcode":"68127",
+    "sg:province":"NE",
+    "sg:tags":[
+        "loan",
+        "alternative",
+        "financing"
+    ],
+    "sg:website":"http://www.optimus-corp.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872511
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_64cQYTQpIktxzON1hk7cn7_41.216168_-96.062307@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"20096bed7c315028e05a0e3749243e22",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872511,
+            "region_id":85688563,
+            "venue_id":203115095
+        }
+    ],
+    "wof:id":203115095,
+    "wof:lastmodified":1449024926,
+    "wof:name":"Optimus Corporation",
+    "wof:parent_id":85872511,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan",
+        "alternative",
+        "financing"
+    ]
+},
+  "bbox": [-96.062307,41.216168,-96.062307,41.216168],
+  "geometry": {"coordinates":[-96.062307,41.216168],"type":"Point"}
+}

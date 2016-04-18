@@ -1,0 +1,66 @@
+{
+  "id": 203122009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.978699,41.267799,-95.978699,41.267799",
+    "geom:latitude":41.267799,
+    "geom:longitude":-95.978699,
+    "iso:country":"US",
+    "sg:address":"4415 Cuming St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Funeral Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 556 9392",
+    "sg:postcode":"68131",
+    "sg:province":"NE",
+    "sg:tags":[
+        "cemetery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85867055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4e42R3RXV5lrTgiKaZvZZG_41.267799_-95.978699@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"feb7647db9180c85c2549a1fe50ede56",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85867055,
+            "region_id":85688563,
+            "venue_id":203122009
+        }
+    ],
+    "wof:id":203122009,
+    "wof:lastmodified":1449026028,
+    "wof:name":"Jewish Funeral Home Inc",
+    "wof:parent_id":85867055,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cemetery"
+    ]
+},
+  "bbox": [-95.978699,41.267799,-95.978699,41.267799],
+  "geometry": {"coordinates":[-95.978699,41.267799],"type":"Point"}
+}

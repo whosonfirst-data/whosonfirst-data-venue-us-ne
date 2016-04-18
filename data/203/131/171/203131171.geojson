@@ -1,0 +1,68 @@
+{
+  "id": 203131171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.980904,41.266399,-95.980904,41.266399",
+    "geom:latitude":41.266399,
+    "geom:longitude":-95.980904,
+    "iso:country":"US",
+    "sg:address":"717 N Saddle Creek Rd",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 558 8566",
+    "sg:postcode":"68132",
+    "sg:province":"NE",
+    "sg:tags":[
+        "game",
+        "video"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85867055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Ump307s1Yi5NVd11HJkvd_41.266399_-95.980904@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e58a9ec61370174abc2e32183c202512",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85867055,
+            "region_id":85688563,
+            "venue_id":203131171
+        }
+    ],
+    "wof:id":203131171,
+    "wof:lastmodified":1449025482,
+    "wof:name":"Blockbuster Video-Saddle Creek Center",
+    "wof:parent_id":85867055,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "game",
+        "video"
+    ]
+},
+  "bbox": [-95.980904,41.266399,-95.980904,41.266399],
+  "geometry": {"coordinates":[-95.980904,41.266399],"type":"Point"}
+}

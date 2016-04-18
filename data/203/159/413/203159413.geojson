@@ -1,0 +1,81 @@
+{
+  "id": 203159413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.837554,40.391769,-95.837554,40.391769",
+    "geom:latitude":40.391769,
+    "geom:longitude":-95.837554,
+    "iso:country":"US",
+    "sg:address":"906 13th St",
+    "sg:city":"Auburn",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Discount & Variety Stores",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 274 3447",
+    "sg:postcode":"68305",
+    "sg:province":"NE",
+    "sg:tags":[
+        "merchandise"
+    ],
+    "sg:website":"http://www.dollargeneral.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973675,
+        102083473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0BrZSWJ5yGFhjfDfjgKecm_40.391769_-95.837554@1303262943"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"479ede5a9e96722b22c7c21bb4e61126",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083473,
+            "locality_id":85973675,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203159413
+        }
+    ],
+    "wof:id":203159413,
+    "wof:lastmodified":1449025172,
+    "wof:name":"Dollar General",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "merchandise"
+    ]
+},
+  "bbox": [-95.837554,40.391769,-95.837554,40.391769],
+  "geometry": {"coordinates":[-95.837554,40.391769],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 203111961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.023972,41.239435,-96.023972,41.239435",
+    "geom:latitude":41.239435,
+    "geom:longitude":-96.023972,
+    "iso:country":"US",
+    "sg:address":"2120 S 72nd St Ste 620",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 926 2000",
+    "sg:postcode":"68124",
+    "sg:province":"NE",
+    "sg:tags":[
+        "isp",
+        "provider",
+        "internet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1rLpSITMYEjMnXWzFc64Wx_41.239435_-96.023972@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"19d77652d5a06a475156b3fdfd6d2b82",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872513,
+            "region_id":85688563,
+            "venue_id":203111961
+        }
+    ],
+    "wof:id":203111961,
+    "wof:lastmodified":1449026909,
+    "wof:name":"Client Resources",
+    "wof:parent_id":85872513,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "isp",
+        "provider",
+        "internet"
+    ]
+},
+  "bbox": [-96.023972,41.239435,-96.023972,41.239435],
+  "geometry": {"coordinates":[-96.023972,41.239435],"type":"Point"}
+}

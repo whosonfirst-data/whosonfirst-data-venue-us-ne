@@ -1,0 +1,72 @@
+{
+  "id": 203048473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.012426,41.285019,-96.012426,41.285019",
+    "geom:latitude":41.285019,
+    "geom:longitude":-96.012426,
+    "iso:country":"US",
+    "sg:address":"6519 Maple St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 934 2823",
+    "sg:postcode":"68104",
+    "sg:province":"NE",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting",
+        "repairing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6YP7yFvk74P4RUcB5lZePp_41.285019_-96.012426@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3e8e710b7083d93c596196e500f844c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872535,
+            "region_id":85688563,
+            "venue_id":203048473
+        }
+    ],
+    "wof:id":203048473,
+    "wof:lastmodified":1449025584,
+    "wof:name":"Ken Millard Body Shop",
+    "wof:parent_id":85872535,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting",
+        "repairing"
+    ]
+},
+  "bbox": [-96.012426,41.285019,-96.012426,41.285019],
+  "geometry": {"coordinates":[-96.012426,41.285019],"type":"Point"}
+}

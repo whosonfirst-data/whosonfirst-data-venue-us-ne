@@ -1,0 +1,66 @@
+{
+  "id": 203151551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.1352,41.305029,-96.1352,41.305029",
+    "geom:latitude":41.305029,
+    "geom:longitude":-96.1352,
+    "iso:country":"US",
+    "sg:address":"14010 Browne Cir",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 498 9184",
+    "sg:postcode":"68164",
+    "sg:province":"NE",
+    "sg:tags":[
+        "financing"
+    ],
+    "sg:website":"http://www.amerisphere.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        102082789,
+        85872505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Ipd0L92Dgq6qE4B6XaDIP_41.305029_-96.135200@1303262943"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"016906b8bb191e42ebdb368ab5c5dd87",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":-1,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":203151551
+        }
+    ],
+    "wof:id":203151551,
+    "wof:lastmodified":1449024956,
+    "wof:name":"Amerisphere Financial",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "financing"
+    ]
+},
+  "bbox": [-96.1352,41.305029,-96.1352,41.305029],
+  "geometry": {"coordinates":[-96.1352,41.305029],"type":"Point"}
+}

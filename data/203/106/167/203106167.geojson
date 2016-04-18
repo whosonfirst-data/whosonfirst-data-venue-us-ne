@@ -1,0 +1,74 @@
+{
+  "id": 203106167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.004624,41.199566,-96.004624,41.199566",
+    "geom:latitude":41.199566,
+    "geom:longitude":-96.004624,
+    "iso:country":"US",
+    "sg:address":"5711 S 60th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 612 6888",
+    "sg:postcode":"68117",
+    "sg:province":"NE",
+    "sg:tags":[
+        "water",
+        "plumber",
+        "heater"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3dZT0cFmyY41FJCgIqhPfA_41.199566_-96.004624@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"73062c2ec8f78618cbff7e0d69924470",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203106167
+        }
+    ],
+    "wof:id":203106167,
+    "wof:lastmodified":1449024918,
+    "wof:name":"A to Z Plumbing",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "water",
+        "plumber",
+        "heater"
+    ]
+},
+  "bbox": [-96.004624,41.199566,-96.004624,41.199566],
+  "geometry": {"coordinates":[-96.004624,41.199566],"type":"Point"}
+}

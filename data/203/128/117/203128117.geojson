@@ -1,0 +1,68 @@
+{
+  "id": 203128117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.956902,41.2598,-95.956902,41.2598",
+    "geom:latitude":41.2598,
+    "geom:longitude":-95.956902,
+    "iso:country":"US",
+    "sg:address":"3002 Dodge St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Mobile Phones",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 346 2433",
+    "sg:postcode":"68131",
+    "sg:province":"NE",
+    "sg:website":"www.radioshack.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872525
+    ],
+    "wof:brand_id":420574499,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1KyWwq0RJ7zjvX8VhfD3xh_41.259800_-95.956902@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5463c6b5a9a7ae05ca0f13966340c13c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872525,
+            "region_id":85688563,
+            "venue_id":203128117
+        }
+    ],
+    "wof:id":203128117,
+    "wof:lastmodified":1457208953,
+    "wof:name":"Radioshack",
+    "wof:parent_id":85872525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -95.956902,
+    41.2598,
+    -95.956902,
+    41.2598
+],
+  "geometry": {"coordinates":[-95.956902,41.2598],"type":"Point"}
+}

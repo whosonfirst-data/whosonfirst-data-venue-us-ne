@@ -1,0 +1,61 @@
+{
+  "id": 203131617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.985408,41.272319,-95.985408,41.272319",
+    "geom:latitude":41.272319,
+    "geom:longitude":-95.985408,
+    "iso:country":"US",
+    "sg:address":"1402 N Saddle Creek Rd",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 505 9434",
+    "sg:postcode":"68132",
+    "sg:province":"NE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85867055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1MwdqkcTo4ZTqBtH6tDM1l_41.272319_-95.985408@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7635f32ddde90c6b669f1b7c8639eab8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85867055,
+            "region_id":85688563,
+            "venue_id":203131617
+        }
+    ],
+    "wof:id":203131617,
+    "wof:lastmodified":1449025478,
+    "wof:name":"Miranda Auto Repair",
+    "wof:parent_id":85867055,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-95.985408,41.272319,-95.985408,41.272319],
+  "geometry": {"coordinates":[-95.985408,41.272319],"type":"Point"}
+}

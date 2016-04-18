@@ -1,0 +1,67 @@
+{
+  "id": 203074921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.947098,41.231499,-95.947098,41.231499",
+    "geom:latitude":41.231499,
+    "geom:longitude":-95.947098,
+    "iso:country":"US",
+    "sg:address":"3026 S 24th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 345 7424",
+    "sg:postcode":"68108",
+    "sg:province":"NE",
+    "sg:website":"www.usbank.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789
+    ],
+    "wof:brand_id":420575361,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6mjgSGiJ9vev2YPH98J0gg_41.231499_-95.947098@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3a4b93618028b2a49ffdc19dd1c5da32",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203074921
+        }
+    ],
+    "wof:id":203074921,
+    "wof:lastmodified":1457209550,
+    "wof:name":"U S Bank",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -95.947098,
+    41.231499,
+    -95.947098,
+    41.231499
+],
+  "geometry": {"coordinates":[-95.947098,41.231499],"type":"Point"}
+}

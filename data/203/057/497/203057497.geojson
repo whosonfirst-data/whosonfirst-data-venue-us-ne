@@ -1,0 +1,70 @@
+{
+  "id": 203057497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.981638,41.23783,-95.981638,41.23783",
+    "geom:latitude":41.23783,
+    "geom:longitude":-95.981638,
+    "iso:country":"US",
+    "sg:address":"2235 S 46th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 557 4800",
+    "sg:postcode":"68106",
+    "sg:province":"NE",
+    "sg:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6W2psL87HV5z68or1SjKKt_41.237830_-95.981638@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"87961c0c147a6745ff4f5b1530e7db74",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872523,
+            "region_id":85688563,
+            "venue_id":203057497
+        }
+    ],
+    "wof:id":203057497,
+    "wof:lastmodified":1449025863,
+    "wof:name":"Omaha Public Schools",
+    "wof:parent_id":85872523,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ]
+},
+  "bbox": [-95.981638,41.23783,-95.981638,41.23783],
+  "geometry": {"coordinates":[-95.981638,41.23783],"type":"Point"}
+}

@@ -1,0 +1,87 @@
+{
+  "id": 203145503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.127727,41.224563,-96.127727,41.224563",
+    "geom:latitude":41.224563,
+    "geom:longitude":-96.127727,
+    "iso:country":"US",
+    "sg:address":"13625 A St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        },
+        {
+            "category":"Internet Cafe",
+            "subcategory":"None",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 334 7005",
+    "sg:postcode":"68144",
+    "sg:province":"NE",
+    "sg:tags":[
+        "publisher",
+        "product",
+        "coach",
+        "consultant",
+        "developer",
+        "software"
+    ],
+    "sg:website":"http://www.on-lineimaging.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5nEd5HqYxlG18L6UFpsJA2_41.224563_-96.127727@1303262943"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7a12674562cd2c312ef3b4eae8a282c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872531,
+            "region_id":85688563,
+            "venue_id":203145503
+        }
+    ],
+    "wof:id":203145503,
+    "wof:lastmodified":1449025490,
+    "wof:name":"On-Line Imaging Services",
+    "wof:parent_id":85872531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "publisher",
+        "product",
+        "coach",
+        "consultant",
+        "developer",
+        "software"
+    ]
+},
+  "bbox": [-96.127727,41.224563,-96.127727,41.224563],
+  "geometry": {"coordinates":[-96.127727,41.224563],"type":"Point"}
+}

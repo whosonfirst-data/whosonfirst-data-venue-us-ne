@@ -1,0 +1,65 @@
+{
+  "id": 203003009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.937202,41.257198,-95.937202,41.257198",
+    "geom:latitude":41.257198,
+    "geom:longitude":-95.937202,
+    "iso:country":"US",
+    "sg:address":"1735 McPherson Ave",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 339 6232",
+    "sg:postcode":"68102",
+    "sg:province":"NE",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5FoTr9AQmna4QLJJz9Buu9_41.257198_-95.937202@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"213ea96324d21e0b45bd52a3d7e5558b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203003009
+        }
+    ],
+    "wof:id":203003009,
+    "wof:lastmodified":1449026723,
+    "wof:name":"Animal Clinic of Council Bluffs",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [-95.937202,41.257198,-95.937202,41.257198],
+  "geometry": {"coordinates":[-95.937202,41.257198],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 203104623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.009804,41.217201,-96.009804,41.217201",
+    "geom:latitude":41.217201,
+    "geom:longitude":-96.009804,
+    "iso:country":"US",
+    "sg:address":"6224 H St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 731 7477",
+    "sg:postcode":"68117",
+    "sg:province":"NE",
+    "sg:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85867059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_08eKeEsVe5c8cnsKBTlgnR_41.217201_-96.009804@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ad40af77b7fd03552bebd013d5b6591d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85867059,
+            "region_id":85688563,
+            "venue_id":203104623
+        }
+    ],
+    "wof:id":203104623,
+    "wof:lastmodified":1449025709,
+    "wof:name":"Ralston Public Schools",
+    "wof:parent_id":85867059,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ]
+},
+  "bbox": [-96.009804,41.217201,-96.009804,41.217201],
+  "geometry": {"coordinates":[-96.009804,41.217201],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 203166641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.700314,40.828154,-96.700314,40.828154",
+    "geom:latitude":40.828154,
+    "geom:longitude":-96.700314,
+    "iso:country":"US",
+    "sg:address":"1500 N 15th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 474 1011",
+    "sg:postcode":"68508",
+    "sg:province":"NE",
+    "sg:tags":[
+        "high",
+        "k-",
+        "private"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1gFEUmBifgGcH99Vbx1ZFP_40.828154_-96.700314@1303262943"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"71ba54dff65b6ca3e7af2014f588f88d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878731,
+            "region_id":85688563,
+            "venue_id":203166641
+        }
+    ],
+    "wof:id":203166641,
+    "wof:lastmodified":1449026012,
+    "wof:name":"High School",
+    "wof:parent_id":85878731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "high",
+        "k-",
+        "private"
+    ]
+},
+  "bbox": [-96.700314,40.828154,-96.700314,40.828154],
+  "geometry": {"coordinates":[-96.700314,40.828154],"type":"Point"}
+}

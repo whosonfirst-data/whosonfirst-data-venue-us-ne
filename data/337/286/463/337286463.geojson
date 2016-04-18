@@ -1,0 +1,68 @@
+{
+  "id": 337286463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.924061,41.261849,-95.924061,41.261849",
+    "geom:latitude":41.261849,
+    "geom:longitude":-95.924061,
+    "iso:country":"US",
+    "sg:address":"345 Riverfront Dr",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 345 4545",
+    "sg:postcode":"68102",
+    "sg:province":"NE",
+    "sg:tags":[
+        "seafood",
+        "steakhouse"
+    ],
+    "sg:website":"rickscafeboatyardomaha.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3WLYd0NyEETeaNbp8l1xFY_41.261849_-95.924061@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"cf7b6644575e7cfa4fd7dc5252a98aca",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":337286463
+        }
+    ],
+    "wof:id":337286463,
+    "wof:lastmodified":1449027148,
+    "wof:name":"Rick's Cafe Boatyard",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "seafood",
+        "steakhouse"
+    ]
+},
+  "bbox": [-95.924061,41.261849,-95.924061,41.261849],
+  "geometry": {"coordinates":[-95.924061,41.261849],"type":"Point"}
+}

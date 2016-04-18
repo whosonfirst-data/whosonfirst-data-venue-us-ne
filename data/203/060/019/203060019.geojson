@@ -1,0 +1,61 @@
+{
+  "id": 203060019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.985584,41.251437,-95.985584,41.251437",
+    "geom:latitude":41.251437,
+    "geom:longitude":-95.985584,
+    "iso:country":"US",
+    "sg:address":"904 S 48th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 933 2557",
+    "sg:postcode":"68106",
+    "sg:province":"NE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0GA3ggDMttaeh7RpiHvyL5_41.251437_-95.985584@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0ed32af4466b0ae198894637ef4b8606",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872523,
+            "region_id":85688563,
+            "venue_id":203060019
+        }
+    ],
+    "wof:id":203060019,
+    "wof:lastmodified":1449026689,
+    "wof:name":"Twins Auto",
+    "wof:parent_id":85872523,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-95.985584,41.251437,-95.985584,41.251437],
+  "geometry": {"coordinates":[-95.985584,41.251437],"type":"Point"}
+}

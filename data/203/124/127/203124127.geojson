@@ -1,0 +1,72 @@
+{
+  "id": 203124127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.958963,41.26796,-95.958963,41.26796",
+    "geom:latitude":41.26796,
+    "geom:longitude":-95.958963,
+    "iso:country":"US",
+    "sg:address":"3215 Cuming St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 557 4474",
+    "sg:postcode":"68131",
+    "sg:province":"NE",
+    "sg:tags":[
+        "educational"
+    ],
+    "sg:website":"http://www.msd.anl.gov",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4fCo3sHCuiKWC9m1JXGWd8_41.267960_-95.958963@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"18c12a4520959801a4b9d72ea9a6c33b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872525,
+            "region_id":85688563,
+            "venue_id":203124127
+        }
+    ],
+    "wof:id":203124127,
+    "wof:lastmodified":1449026728,
+    "wof:name":"Douglas County School District 0001",
+    "wof:parent_id":85872525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "educational"
+    ]
+},
+  "bbox": [-95.958963,41.26796,-95.958963,41.26796],
+  "geometry": {"coordinates":[-95.958963,41.26796],"type":"Point"}
+}

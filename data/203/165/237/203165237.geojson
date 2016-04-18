@@ -1,0 +1,68 @@
+{
+  "id": 203165237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.628641,40.828942,-96.628641,40.828942",
+    "geom:latitude":40.828942,
+    "geom:longitude":-96.628641,
+    "iso:country":"US",
+    "sg:address":"6737 Fairfax Ave",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 464 3895",
+    "sg:postcode":"68505",
+    "sg:province":"NE",
+    "sg:tags":[
+        "style",
+        "family"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0J6lt0Wt3unlhnk0MuJ3mL_40.828942_-96.628641@1303262943"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"299b3f291bceb6f1fbd72ac5f164962a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878725,
+            "region_id":85688563,
+            "venue_id":203165237
+        }
+    ],
+    "wof:id":203165237,
+    "wof:lastmodified":1449026864,
+    "wof:name":"Krem",
+    "wof:parent_id":85878725,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "style",
+        "family"
+    ]
+},
+  "bbox": [-96.628641,40.828942,-96.628641,40.828942],
+  "geometry": {"coordinates":[-96.628641,40.828942],"type":"Point"}
+}

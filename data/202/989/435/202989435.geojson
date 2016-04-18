@@ -1,0 +1,65 @@
+{
+  "id": 202989435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.165901,40.992199,-96.165901,40.992199",
+    "geom:latitude":40.992199,
+    "geom:longitude":-96.165901,
+    "iso:country":"US",
+    "sg:address":"810 Sand Hill Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 234 3102",
+    "sg:postcode":"68037",
+    "sg:province":"NE",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974337,
+        102082791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5kkSMig2L2IR3vLAEKeP6x_40.992199_-96.165901@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f02f80d009393ecb88b0348a8238c01e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082791,
+            "locality_id":85974337,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":202989435
+        }
+    ],
+    "wof:id":202989435,
+    "wof:lastmodified":1449061958,
+    "wof:name":"Williams J L Construction",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [-96.165901,40.992199,-96.165901,40.992199],
+  "geometry": {"coordinates":[-96.165901,40.992199],"type":"Point"}
+}

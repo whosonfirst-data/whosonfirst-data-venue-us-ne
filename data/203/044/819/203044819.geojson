@@ -1,0 +1,66 @@
+{
+  "id": 203044819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.997298,41.288827,-95.997298,41.288827",
+    "geom:latitude":41.288827,
+    "geom:longitude":-95.997298,
+    "iso:country":"US",
+    "sg:address":"3319 N 54th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Locksmith",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 881 3626",
+    "sg:postcode":"68104",
+    "sg:province":"NE",
+    "sg:tags":[
+        "key"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_09LjyIdO3FRb0aOFPzzVTz_41.288827_-95.997298@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"aff4da0a705cc6b206abf0ad57cc364f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872535,
+            "region_id":85688563,
+            "venue_id":203044819
+        }
+    ],
+    "wof:id":203044819,
+    "wof:lastmodified":1449025923,
+    "wof:name":"Locksmith 1 2 6",
+    "wof:parent_id":85872535,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "key"
+    ]
+},
+  "bbox": [-95.997298,41.288827,-95.997298,41.288827],
+  "geometry": {"coordinates":[-95.997298,41.288827],"type":"Point"}
+}

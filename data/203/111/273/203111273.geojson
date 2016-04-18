@@ -1,0 +1,70 @@
+{
+  "id": 203111273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.039679,41.243351,-96.039679,41.243351",
+    "geom:latitude":41.243351,
+    "geom:longitude":-96.039679,
+    "iso:country":"US",
+    "sg:address":"8114 Hickory St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Art Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 390 2078",
+    "sg:postcode":"68124",
+    "sg:province":"NE",
+    "sg:tags":[
+        "interior",
+        "designer",
+        "decorator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1uTUA18xtHOLEeU4lO2ptx_41.243351_-96.039679@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c113fb7737456a9a969b8a332dbed6d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872509,
+            "region_id":85688563,
+            "venue_id":203111273
+        }
+    ],
+    "wof:id":203111273,
+    "wof:lastmodified":1449026904,
+    "wof:name":"Designworks",
+    "wof:parent_id":85872509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "interior",
+        "designer",
+        "decorator"
+    ]
+},
+  "bbox": [-96.039679,41.243351,-96.039679,41.243351],
+  "geometry": {"coordinates":[-96.039679,41.243351],"type":"Point"}
+}

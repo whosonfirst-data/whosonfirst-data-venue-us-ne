@@ -1,0 +1,91 @@
+{
+  "id": 203144673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.147209,41.224263,-96.147209,41.224263",
+    "geom:latitude":41.224263,
+    "geom:longitude":-96.147209,
+    "iso:country":"US",
+    "sg:address":"3738 S 149th St Ste 102",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Electronics",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 492 9388",
+    "sg:postcode":"68144",
+    "sg:province":"NE",
+    "sg:tags":[
+        "control",
+        "industrial",
+        "machinery-new",
+        "robotics",
+        "system",
+        "controls",
+        "regulator",
+        "equipment",
+        "used",
+        "supplies-wholesale"
+    ],
+    "sg:website":"http://www.logic-control.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633793,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1OgTO41C8r2OgR6nPp0QOX_41.224263_-96.147209@1303262943"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2e0fe43171b6e6a9a45465ae96e88c81",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203144673
+        }
+    ],
+    "wof:id":203144673,
+    "wof:lastmodified":1449026360,
+    "wof:name":"Logic, Inc.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "control",
+        "industrial",
+        "machinery-new",
+        "robotics",
+        "system",
+        "controls",
+        "regulator",
+        "equipment",
+        "used",
+        "supplies-wholesale"
+    ]
+},
+  "bbox": [-96.147209,41.224263,-96.147209,41.224263],
+  "geometry": {"coordinates":[-96.147209,41.224263],"type":"Point"}
+}

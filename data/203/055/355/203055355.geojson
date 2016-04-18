@@ -1,0 +1,73 @@
+{
+  "id": 203055355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.961609,41.239928,-95.961609,41.239928",
+    "geom:latitude":41.239928,
+    "geom:longitude":-95.961609,
+    "iso:country":"US",
+    "sg:address":"2102 S 33rd St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 884 5053",
+    "sg:postcode":"68105",
+    "sg:province":"NE",
+    "sg:tags":[
+        "buyer",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5gV7BSQhNl4owpEaSGkrF1_41.239928_-95.961609@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"705dd8fc869cc6cde920c0cb43a1bb71",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872527,
+            "region_id":85688563,
+            "venue_id":203055355
+        }
+    ],
+    "wof:id":203055355,
+    "wof:lastmodified":1449025350,
+    "wof:name":"Nick Borghoff Enterprises",
+    "wof:parent_id":85872527,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "buyer",
+        "broker"
+    ]
+},
+  "bbox": [-95.961609,41.239928,-95.961609,41.239928],
+  "geometry": {"coordinates":[-95.961609,41.239928],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 203109613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.182866,41.260883,-96.182866,41.260883",
+    "geom:latitude":41.260883,
+    "geom:longitude":-96.182866,
+    "iso:country":"US",
+    "sg:address":"17151 Davenport St # 109",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Catalog Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 289 5770",
+    "sg:postcode":"68118",
+    "sg:province":"NE",
+    "sg:tags":[
+        "women's",
+        "online",
+        "apparel",
+        "mail",
+        "accessory",
+        "clothing",
+        "order"
+    ],
+    "sg:website":"http://www.coldwatercreek.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3uy1McswEaEV35imcEJIna_41.260883_-96.182866@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"03fefc4b37b011c7823828a846c53ada",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203109613
+        }
+    ],
+    "wof:id":203109613,
+    "wof:lastmodified":1449025579,
+    "wof:name":"Coldwater Creek",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "women's",
+        "online",
+        "apparel",
+        "mail",
+        "accessory",
+        "clothing",
+        "order"
+    ]
+},
+  "bbox": [-96.182866,41.260883,-96.182866,41.260883],
+  "geometry": {"coordinates":[-96.182866,41.260883],"type":"Point"}
+}

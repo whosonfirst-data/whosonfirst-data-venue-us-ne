@@ -1,0 +1,86 @@
+{
+  "id": 203143307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.12013,41.22237,-96.12013,41.22237",
+    "geom:latitude":41.22237,
+    "geom:longitude":-96.12013,
+    "iso:country":"US",
+    "sg:address":"13205 C St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 933 2877",
+    "sg:postcode":"68144",
+    "sg:province":"NE",
+    "sg:tags":[
+        "designer",
+        "consultant",
+        "isp",
+        "integration",
+        "system",
+        "internet",
+        "provider",
+        "engineer"
+    ],
+    "sg:website":"http://www.jagwireless.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7W80HneKFQMOubIjzZ1dWw_41.222370_-96.120130@1303262943"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d3afba5cf75eafd07167cc3753bf7869",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872531,
+            "region_id":85688563,
+            "venue_id":203143307
+        }
+    ],
+    "wof:id":203143307,
+    "wof:lastmodified":1449026522,
+    "wof:name":"Jagwireless",
+    "wof:parent_id":85872531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "designer",
+        "consultant",
+        "isp",
+        "integration",
+        "system",
+        "internet",
+        "provider",
+        "engineer"
+    ]
+},
+  "bbox": [-96.12013,41.22237,-96.12013,41.22237],
+  "geometry": {"coordinates":[-96.12013,41.22237],"type":"Point"}
+}

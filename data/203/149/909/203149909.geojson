@@ -1,0 +1,76 @@
+{
+  "id": 203149909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.119522,41.266772,-96.119522,41.266772",
+    "geom:latitude":41.266772,
+    "geom:longitude":-96.119522,
+    "iso:country":"US",
+    "sg:address":"717 N 132nd St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Television Station",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 933 3000",
+    "sg:postcode":"68154",
+    "sg:province":"NE",
+    "sg:tags":[
+        "satellite",
+        "telecommunication",
+        "cable"
+    ],
+    "sg:website":"http://www.cox.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973479,
+        102082789,
+        85806957
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2dpd7TqruhbjWebggiwue4_41.266772_-96.119522@1303262943"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"fb28649e274d3b7861eb6ffed6b74419",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973479,
+            "neighbourhood_id":85806957,
+            "region_id":85688563,
+            "venue_id":203149909
+        }
+    ],
+    "wof:id":203149909,
+    "wof:lastmodified":1449024944,
+    "wof:name":"Cox Communications",
+    "wof:parent_id":85806957,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "satellite",
+        "telecommunication",
+        "cable"
+    ]
+},
+  "bbox": [-96.119522,41.266772,-96.119522,41.266772],
+  "geometry": {"coordinates":[-96.119522,41.266772],"type":"Point"}
+}

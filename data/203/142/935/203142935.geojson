@@ -1,0 +1,77 @@
+{
+  "id": 203142935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.127447,41.172899,-96.127447,41.172899",
+    "geom:latitude":41.172899,
+    "geom:longitude":-96.127447,
+    "iso:country":"US",
+    "sg:address":"8550 S 137th Cir Suite 8",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Pest Control",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 571 8433",
+    "sg:postcode":"68138",
+    "sg:province":"NE",
+    "sg:tags":[
+        "lawn",
+        "landscape",
+        "maintenance",
+        "contractor"
+    ],
+    "sg:website":"http://iyp.scottslawnservice.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        102082789,
+        85834285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6jMBBtm7lgIQMwfBZRSj9G_41.172899_-96.127447@1303262943"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"bf54ea36963c2d2e27ea38d37bd7b465",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":-1,
+            "neighbourhood_id":85834285,
+            "region_id":85688563,
+            "venue_id":203142935
+        }
+    ],
+    "wof:id":203142935,
+    "wof:lastmodified":1449026455,
+    "wof:name":"Scotts LawnService",
+    "wof:parent_id":85834285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lawn",
+        "landscape",
+        "maintenance",
+        "contractor"
+    ]
+},
+  "bbox": [-96.127447,41.172899,-96.127447,41.172899],
+  "geometry": {"coordinates":[-96.127447,41.172899],"type":"Point"}
+}

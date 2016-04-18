@@ -1,0 +1,68 @@
+{
+  "id": 203040227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.929265,41.257707,-95.929265,41.257707",
+    "geom:latitude":41.257707,
+    "geom:longitude":-95.929265,
+    "iso:country":"US",
+    "sg:address":"1004 Farnam St Ste 102",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 715 4145",
+    "sg:postcode":"68102",
+    "sg:province":"NE",
+    "sg:tags":[
+        "service/non-profit",
+        "community"
+    ],
+    "sg:website":"www.buildingbrightfutures.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5yqCA4zyavwNpqcuGlVYx0_41.257707_-95.929265@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"deda04200919b99bdf82d3491d745815",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203040227
+        }
+    ],
+    "wof:id":203040227,
+    "wof:lastmodified":1449026825,
+    "wof:name":"Building Bright Futures",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "service/non-profit",
+        "community"
+    ]
+},
+  "bbox": [-95.929265,41.257707,-95.929265,41.257707],
+  "geometry": {"coordinates":[-95.929265,41.257707],"type":"Point"}
+}

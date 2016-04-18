@@ -1,0 +1,85 @@
+{
+  "id": 203161993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.954323,40.627941,-96.954323,40.627941",
+    "geom:latitude":40.627941,
+    "geom:longitude":-96.954323,
+    "iso:country":"US",
+    "sg:address":"1600 Grove Ave Ofc",
+    "sg:city":"Crete",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 826 2678",
+    "sg:postcode":"68333",
+    "sg:province":"NE",
+    "sg:tags":[
+        "government-united",
+        "consultant",
+        "housing",
+        "referral",
+        "state"
+    ],
+    "sg:website":"http://www.crete-ne.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973755,
+        102082745
+    ],
+    "wof:brand_id":420575887,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6cpIcAGo8cLjaUF3AhJbhM_40.627941_-96.954323@1303262943"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"64a68783a95c8fa3cd632dc174196fcf",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082745,
+            "locality_id":85973755,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203161993
+        }
+    ],
+    "wof:id":203161993,
+    "wof:lastmodified":1457209814,
+    "wof:name":"Housing Authority",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "government-united",
+        "consultant",
+        "housing",
+        "referral",
+        "state"
+    ]
+},
+  "bbox": [
+    -96.954323,
+    40.627941,
+    -96.954323,
+    40.627941
+],
+  "geometry": {"coordinates":[-96.954323,40.627941],"type":"Point"}
+}

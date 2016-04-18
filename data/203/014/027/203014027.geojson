@@ -1,0 +1,73 @@
+{
+  "id": 203014027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.935015,41.256202,-95.935015,41.256202",
+    "geom:latitude":41.256202,
+    "geom:longitude":-95.935015,
+    "iso:country":"US",
+    "sg:address":"1407 Harney St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 905 2270",
+    "sg:postcode":"68102",
+    "sg:province":"NE",
+    "sg:tags":[
+        "traditional",
+        "american"
+    ],
+    "sg:website":"foundationomaha.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5TLY56m8vp69r4cOFEJlBM_41.256202_-95.935015@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e40baf708cc2d4e217550b7f541a85c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203014027
+        }
+    ],
+    "wof:id":203014027,
+    "wof:lastmodified":1449025849,
+    "wof:name":"The Foundation",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "traditional",
+        "american"
+    ]
+},
+  "bbox": [-95.935015,41.256202,-95.935015,41.256202],
+  "geometry": {"coordinates":[-95.935015,41.256202],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 203127675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.949387,41.259781,-95.949387,41.259781",
+    "geom:latitude":41.259781,
+    "geom:longitude":-95.949387,
+    "iso:country":"US",
+    "sg:address":"2600 Dodge St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Hazard Insurance",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Life Insurance",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Health Insurance",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 633 1000",
+    "sg:postcode":"68131",
+    "sg:province":"NE",
+    "sg:tags":[
+        "commercial",
+        "business"
+    ],
+    "sg:website":"http://www.physiciansmutual.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5U52pZas8DjNT8by9r36Ha_41.259781_-95.949387@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f1ebf7ee20742dfa0419bf32f28d7ea4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203127675
+        }
+    ],
+    "wof:id":203127675,
+    "wof:lastmodified":1449026706,
+    "wof:name":"Physicians Mutual Insurance Co",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "business"
+    ]
+},
+  "bbox": [-95.949387,41.259781,-95.949387,41.259781],
+  "geometry": {"coordinates":[-95.949387,41.259781],"type":"Point"}
+}

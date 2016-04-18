@@ -1,0 +1,65 @@
+{
+  "id": 203067959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.933704,41.222092,-95.933704,41.222092",
+    "geom:latitude":41.222092,
+    "geom:longitude":-95.933704,
+    "iso:country":"US",
+    "sg:address":"4020 S 13th St.",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"Lounge",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"Dive Bar",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 734 9071",
+    "sg:postcode":"68107",
+    "sg:province":"NE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_44zYXOUY8biW0KcijK3xDV_41.222092_-95.933704@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8b050c12579453922ebd6e4bcbeef191",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203067959
+        }
+    ],
+    "wof:id":203067959,
+    "wof:lastmodified":1449025062,
+    "wof:name":"Starsky's Lounge",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-95.933704,41.222092,-95.933704,41.222092],
+  "geometry": {"coordinates":[-95.933704,41.222092],"type":"Point"}
+}

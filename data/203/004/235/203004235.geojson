@@ -1,0 +1,67 @@
+{
+  "id": 203004235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.931999,41.2565,-95.931999,41.2565",
+    "geom:latitude":41.2565,
+    "geom:longitude":-95.931999,
+    "iso:country":"US",
+    "sg:address":"1209 Harney St Ste 200",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 342 3901",
+    "sg:postcode":"68102",
+    "sg:province":"NE",
+    "sg:tags":[
+        "surgeon",
+        "oral"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6FHXL9CWKZSAigx3FK0DKb_41.256500_-95.931999@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"28c81d0f93fe4777cf9660865315179b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203004235
+        }
+    ],
+    "wof:id":203004235,
+    "wof:lastmodified":1449025606,
+    "wof:name":"Fender Derek A DDS",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surgeon",
+        "oral"
+    ]
+},
+  "bbox": [-95.931999,41.2565,-95.931999,41.2565],
+  "geometry": {"coordinates":[-95.931999,41.2565],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 203167151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.707005,40.811261,-96.707005,40.811261",
+    "geom:latitude":40.811261,
+    "geom:longitude":-96.707005,
+    "iso:country":"US",
+    "sg:address":"310 S 10th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 476 6800",
+    "sg:postcode":"68508",
+    "sg:province":"NE",
+    "sg:tags":[
+        "truck",
+        "leasing",
+        "car"
+    ],
+    "sg:website":"http://www.enterprise.com/car_rental/deeplinkmap.do?gpbr=62A1&bid=004&cnty=US&arc=YPTRL01&cm_mmc=Yellowpages.com-_-IYP-_-Tradelisting-_-branch",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_79oPuJWvkgNO6fVsv4iK8C_40.811261_-96.707005@1303262943"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"741a755ee9fdc739b034b3a63053a3e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878699,
+            "region_id":85688563,
+            "venue_id":203167151
+        }
+    ],
+    "wof:id":203167151,
+    "wof:lastmodified":1449025914,
+    "wof:name":"Enterprise Rent-A-Car",
+    "wof:parent_id":85878699,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck",
+        "leasing",
+        "car"
+    ]
+},
+  "bbox": [-96.707005,40.811261,-96.707005,40.811261],
+  "geometry": {"coordinates":[-96.707005,40.811261],"type":"Point"}
+}

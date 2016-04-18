@@ -1,0 +1,73 @@
+{
+  "id": 203090473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.976501,41.275398,-95.976501,41.275398",
+    "geom:latitude":41.275398,
+    "geom:longitude":-95.976501,
+    "iso:country":"US",
+    "sg:address":"1707 N 42nd St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 553 1565",
+    "sg:postcode":"68111",
+    "sg:province":"NE",
+    "sg:tags":[
+        "electrician",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1p05OPWlu1yipPcjnt0okG_41.275398_-95.976501@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f908676ab03f36c05da7887686622d28",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872525,
+            "region_id":85688563,
+            "venue_id":203090473
+        }
+    ],
+    "wof:id":203090473,
+    "wof:lastmodified":1449026444,
+    "wof:name":"David's Electric",
+    "wof:parent_id":85872525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrician",
+        "contractor"
+    ]
+},
+  "bbox": [-95.976501,41.275398,-95.976501,41.275398],
+  "geometry": {"coordinates":[-95.976501,41.275398],"type":"Point"}
+}

@@ -1,0 +1,90 @@
+{
+  "id": 203096591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.03989,41.260608,-96.03989,41.260608",
+    "geom:latitude":41.260608,
+    "geom:longitude":-96.03989,
+    "iso:country":"US",
+    "sg:address":"8008 W Dodge Rd",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 397 9515",
+    "sg:postcode":"68114",
+    "sg:province":"NE",
+    "sg:tags":[
+        "oil",
+        "automotive",
+        "automobile",
+        "lube",
+        "equipment-service",
+        "air conditioning",
+        "tune"
+    ],
+    "sg:website":"http://www.jiffylube.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872509
+    ],
+    "wof:brand_id":420573899,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2uOsEequLB4ejbJsC28toE_41.260608_-96.039890@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"fb2bd7aff71539797440b1defe94d855",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872509,
+            "region_id":85688563,
+            "venue_id":203096591
+        }
+    ],
+    "wof:id":203096591,
+    "wof:lastmodified":1457207837,
+    "wof:name":"Jiffy Lube",
+    "wof:parent_id":85872509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil",
+        "automotive",
+        "automobile",
+        "lube",
+        "equipment-service",
+        "air conditioning",
+        "tune"
+    ]
+},
+  "bbox": [
+    -96.03989,
+    41.260608,
+    -96.03989,
+    41.260608
+],
+  "geometry": {"coordinates":[-96.03989,41.260608],"type":"Point"}
+}

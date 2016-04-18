@@ -1,0 +1,76 @@
+{
+  "id": 203165377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.605957,40.830109,-96.605957,40.830109",
+    "geom:latitude":40.830109,
+    "geom:longitude":-96.605957,
+    "iso:country":"US",
+    "sg:address":"1601 N 84th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 434 9312",
+    "sg:postcode":"68505",
+    "sg:province":"NE",
+    "sg:tags":[
+        "saving",
+        "loan",
+        "commercial"
+    ],
+    "sg:website":"http://www.pinnbank.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0uowLZgx0Ae9RKft13cl2w_40.830109_-96.605957@1303262943"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"13df26c8c2cbaf7f6994efb9150ce9e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878725,
+            "region_id":85688563,
+            "venue_id":203165377
+        }
+    ],
+    "wof:id":203165377,
+    "wof:lastmodified":1449026864,
+    "wof:name":"Pinnacle Bank",
+    "wof:parent_id":85878725,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "saving",
+        "loan",
+        "commercial"
+    ]
+},
+  "bbox": [-96.605957,40.830109,-96.605957,40.830109],
+  "geometry": {"coordinates":[-96.605957,40.830109],"type":"Point"}
+}

@@ -1,0 +1,85 @@
+{
+  "id": 203149823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.093785,41.267956,-96.093785,41.267956",
+    "geom:latitude":41.267956,
+    "geom:longitude":-96.093785,
+    "iso:country":"US",
+    "sg:address":"11515 Miracle Hills Dr",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Event Space",
+            "type":"Services"
+        },
+        {
+            "category":"Travel",
+            "subcategory":"Resort",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 800 345 8082",
+    "sg:postcode":"68154",
+    "sg:province":"NE",
+    "sg:tags":[
+        "hall",
+        "lodging",
+        "banquet",
+        "reception",
+        "facility"
+    ],
+    "sg:website":"http://ad.doubleclick.net/clk;223371278;47096201;d?http://www.holidayinn.com/redirect?path=hd&brandCode=hi&hotelCode=omamh&_PMID=99601036&cm_mmc=mdpr-_-yellowpages-_-hi-_-omamh",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Pd51zgpXdPmRU3sMBYxcx_41.267956_-96.093785@1303262943"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"828184db610559a725581ad208f93c0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872503,
+            "region_id":85688563,
+            "venue_id":203149823
+        }
+    ],
+    "wof:id":203149823,
+    "wof:lastmodified":1449024946,
+    "wof:name":"Holiday Inn Omaha",
+    "wof:parent_id":85872503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hall",
+        "lodging",
+        "banquet",
+        "reception",
+        "facility"
+    ]
+},
+  "bbox": [-96.093785,41.267956,-96.093785,41.267956],
+  "geometry": {"coordinates":[-96.093785,41.267956],"type":"Point"}
+}

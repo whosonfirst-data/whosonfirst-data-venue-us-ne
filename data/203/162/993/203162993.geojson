@@ -1,0 +1,71 @@
+{
+  "id": 203162993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.308329,40.943281,-96.308329,40.943281",
+    "geom:latitude":40.943281,
+    "geom:longitude":-96.308329,
+    "iso:country":"US",
+    "sg:address":"29012 Mill Rd",
+    "sg:city":"Murdock",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Pet Food",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Pets & Pet Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 867 2400",
+    "sg:postcode":"68407",
+    "sg:province":"NE",
+    "sg:tags":[
+        "manufacturer",
+        "store",
+        "foods-wholesale"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633793,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4hi1fAXiRgOXVKBZNNgOHC_40.943281_-96.308329@1303262943"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7377c6f85c6bda91eb3f5213e4ffe3db",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203162993
+        }
+    ],
+    "wof:id":203162993,
+    "wof:lastmodified":1449026575,
+    "wof:name":"Oxbow Animal Health",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "manufacturer",
+        "store",
+        "foods-wholesale"
+    ]
+},
+  "bbox": [-96.308329,40.943281,-96.308329,40.943281],
+  "geometry": {"coordinates":[-96.308329,40.943281],"type":"Point"}
+}

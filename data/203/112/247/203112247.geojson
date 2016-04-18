@@ -1,0 +1,82 @@
+{
+  "id": 203112247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.07532,41.214226,-96.07532,41.214226",
+    "geom:latitude":41.214226,
+    "geom:longitude":-96.07532,
+    "iso:country":"US",
+    "sg:address":"10415 J St Ste 103",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 341 8086",
+    "sg:postcode":"68127",
+    "sg:province":"NE",
+    "sg:tags":[
+        "yard",
+        "scaffolding",
+        "lift",
+        "leasing",
+        "aerial",
+        "store"
+    ],
+    "sg:website":"http://www.safway.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_67YSPbA6KZ0Ix2UIFBOXkZ_41.214226_-96.075320@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"aca9b8f0d6808105e06ca1c32b937f66",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872531,
+            "region_id":85688563,
+            "venue_id":203112247
+        }
+    ],
+    "wof:id":203112247,
+    "wof:lastmodified":1449025786,
+    "wof:name":"Safway Services",
+    "wof:parent_id":85872531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "yard",
+        "scaffolding",
+        "lift",
+        "leasing",
+        "aerial",
+        "store"
+    ]
+},
+  "bbox": [-96.07532,41.214226,-96.07532,41.214226],
+  "geometry": {"coordinates":[-96.07532,41.214226],"type":"Point"}
+}

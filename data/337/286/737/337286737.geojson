@@ -1,0 +1,66 @@
+{
+  "id": 337286737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.009499,41.2995,-96.009499,41.2995",
+    "geom:latitude":41.2995,
+    "geom:longitude":-96.009499,
+    "iso:country":"US",
+    "sg:address":"6304 Ames Ave",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 455 2355",
+    "sg:postcode":"68104",
+    "sg:province":"NE",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85805755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5F6I3aVTPwlS4yPNZvA2Gk_41.299500_-96.009499@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a80c3b500228379d0d791c40ef0322f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85805755,
+            "region_id":85688563,
+            "venue_id":337286737
+        }
+    ],
+    "wof:id":337286737,
+    "wof:lastmodified":1449027147,
+    "wof:name":"Simple Simon's Preschool & Day Care",
+    "wof:parent_id":85805755,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [-96.009499,41.2995,-96.009499,41.2995],
+  "geometry": {"coordinates":[-96.009499,41.2995],"type":"Point"}
+}

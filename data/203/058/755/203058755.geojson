@@ -1,0 +1,66 @@
+{
+  "id": 203058755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.010571,41.27913,-96.010571,41.27913",
+    "geom:latitude":41.27913,
+    "geom:longitude":-96.010571,
+    "iso:country":"US",
+    "sg:address":"2225 S 64th Plz",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 885 8555",
+    "sg:postcode":"68106",
+    "sg:province":"NE",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4u1daAk2DYMGQVYccJRvML_41.279130_-96.010571@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7b97a70766771f998b59ad9621887ce7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872535,
+            "region_id":85688563,
+            "venue_id":203058755
+        }
+    ],
+    "wof:id":203058755,
+    "wof:lastmodified":1449025212,
+    "wof:name":"Broadmoor At Aksarben Village",
+    "wof:parent_id":85872535,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [-96.010571,41.27913,-96.010571,41.27913],
+  "geometry": {"coordinates":[-96.010571,41.27913],"type":"Point"}
+}

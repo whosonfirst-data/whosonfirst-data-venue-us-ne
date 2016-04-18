@@ -1,0 +1,74 @@
+{
+  "id": 203048985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.009943,41.284799,-96.009943,41.284799",
+    "geom:latitude":41.284799,
+    "geom:longitude":-96.009943,
+    "iso:country":"US",
+    "sg:address":"6307 Maple St Ste 2",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Massage",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 884 1881",
+    "sg:postcode":"68104",
+    "sg:province":"NE",
+    "sg:tags":[
+        "spa",
+        "medical"
+    ],
+    "sg:website":"synergiehealthspa.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5OfmX7wxihORyQq8JGrBs2_41.284799_-96.009943@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"26c9c7aaf14cbc8d36448fcf62a69404",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872535,
+            "region_id":85688563,
+            "venue_id":203048985
+        }
+    ],
+    "wof:id":203048985,
+    "wof:lastmodified":1449025585,
+    "wof:name":"Synergie Health Spa",
+    "wof:parent_id":85872535,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "spa",
+        "medical"
+    ]
+},
+  "bbox": [-96.009943,41.284799,-96.009943,41.284799],
+  "geometry": {"coordinates":[-96.009943,41.284799],"type":"Point"}
+}

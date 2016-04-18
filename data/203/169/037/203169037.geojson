@@ -1,0 +1,88 @@
+{
+  "id": 203169037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.743335,40.789465,-96.743335,40.789465",
+    "geom:latitude":40.789465,
+    "geom:longitude":-96.743335,
+    "iso:country":"US",
+    "sg:address":"1501 W Jean Cir",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 770 9749",
+    "sg:postcode":"68522",
+    "sg:province":"NE",
+    "sg:tags":[
+        "recovery",
+        "supply",
+        "repair-business",
+        "hardware",
+        "equipment-service",
+        "data",
+        "software"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878743
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ClY0ydkOJS0URlotOxpBZ_40.789465_-96.743335@1303262943"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b38af20dc740f070e08c68764875ed15",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878743,
+            "region_id":85688563,
+            "venue_id":203169037
+        }
+    ],
+    "wof:id":203169037,
+    "wof:lastmodified":1449026115,
+    "wof:name":"MegaBytes Computer Services",
+    "wof:parent_id":85878743,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "recovery",
+        "supply",
+        "repair-business",
+        "hardware",
+        "equipment-service",
+        "data",
+        "software"
+    ]
+},
+  "bbox": [-96.743335,40.789465,-96.743335,40.789465],
+  "geometry": {"coordinates":[-96.743335,40.789465],"type":"Point"}
+}

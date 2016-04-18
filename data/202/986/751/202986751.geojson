@@ -1,0 +1,65 @@
+{
+  "id": 202986751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.157102,41.363184,-96.157102,41.363184",
+    "geom:latitude":41.363184,
+    "geom:longitude":-96.157102,
+    "iso:country":"US",
+    "sg:address":"15509 Warehouse St",
+    "sg:city":"Bennington",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 238 2727",
+    "sg:postcode":"68007",
+    "sg:province":"NE",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973477,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3FqNTV5m2rZWK09iSch75t_41.363184_-96.157102@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"eae130877d1cdb19580bb4e6c4c39a69",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973477,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":202986751
+        }
+    ],
+    "wof:id":202986751,
+    "wof:lastmodified":1449062173,
+    "wof:name":"Bennington Volunteer Fire & Rescue",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [-96.157102,41.363184,-96.157102,41.363184],
+  "geometry": {"coordinates":[-96.157102,41.363184],"type":"Point"}
+}

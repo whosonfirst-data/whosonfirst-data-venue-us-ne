@@ -1,0 +1,86 @@
+{
+  "id": 203131401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.99025,41.259682,-95.99025,41.259682",
+    "geom:latitude":41.259682,
+    "geom:longitude":-95.99025,
+    "iso:country":"US",
+    "sg:address":"5000 Dodge St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 553 8900",
+    "sg:postcode":"68132",
+    "sg:province":"NE",
+    "sg:tags":[
+        "pharmaceutical",
+        "product",
+        "proprietary",
+        "products-wholesale",
+        "medicines-patent",
+        "manufacturer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85867055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1IWTGsnknVBsbGpzgpnqd1_41.259682_-95.990250@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e18fd5952b8d48bc7e878b237c6e026a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85867055,
+            "region_id":85688563,
+            "venue_id":203131401
+        }
+    ],
+    "wof:id":203131401,
+    "wof:lastmodified":1449025481,
+    "wof:name":"Cris Rexall Drug Store Inc",
+    "wof:parent_id":85867055,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pharmaceutical",
+        "product",
+        "proprietary",
+        "products-wholesale",
+        "medicines-patent",
+        "manufacturer"
+    ]
+},
+  "bbox": [-95.99025,41.259682,-95.99025,41.259682],
+  "geometry": {"coordinates":[-95.99025,41.259682],"type":"Point"}
+}

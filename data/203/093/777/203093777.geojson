@@ -1,0 +1,68 @@
+{
+  "id": 203093777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.959396,41.339199,-95.959396,41.339199",
+    "geom:latitude":41.339199,
+    "geom:longitude":-95.959396,
+    "iso:country":"US",
+    "sg:address":"2859 Clay St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 451 3566",
+    "sg:postcode":"68112",
+    "sg:province":"NE",
+    "sg:tags":[
+        "body",
+        "shop"
+    ],
+    "sg:website":"www.florenceautobody.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3v0C1pptZgrmpF9KDViz1L_41.339199_-95.959396@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9d1967b39ec4708ce60d9538d1e41124",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203093777
+        }
+    ],
+    "wof:id":203093777,
+    "wof:lastmodified":1449024936,
+    "wof:name":"Florence Auto Body Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "shop"
+    ]
+},
+  "bbox": [-95.959396,41.339199,-95.959396,41.339199],
+  "geometry": {"coordinates":[-95.959396,41.339199],"type":"Point"}
+}

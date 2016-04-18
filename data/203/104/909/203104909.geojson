@@ -1,0 +1,66 @@
+{
+  "id": 203104909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.998739,41.219129,-95.998739,41.219129",
+    "geom:latitude":41.219129,
+    "geom:longitude":-95.998739,
+    "iso:country":"US",
+    "sg:address":"5509 F St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Community Center",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 571 0212",
+    "sg:postcode":"68117",
+    "sg:province":"NE",
+    "sg:tags":[
+        "medical"
+    ],
+    "sg:website":"www.ppsc.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Ic9Ut97rvedcMpmDvUaTW_41.219129_-95.998739@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"35cddd812c7ab3d76978a420842a8c2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203104909
+        }
+    ],
+    "wof:id":203104909,
+    "wof:lastmodified":1449025708,
+    "wof:name":"Pacific Pulmonary Services",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [-95.998739,41.219129,-95.998739,41.219129],
+  "geometry": {"coordinates":[-95.998739,41.219129],"type":"Point"}
+}

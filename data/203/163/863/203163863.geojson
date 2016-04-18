@@ -1,0 +1,73 @@
+{
+  "id": 203163863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.773438,40.229343,-95.773438,40.229343",
+    "geom:latitude":40.229343,
+    "geom:longitude":-95.773438,
+    "iso:country":"US",
+    "sg:address":"107 N Main St",
+    "sg:city":"Stella",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 800 275 8777",
+    "sg:postcode":"68442",
+    "sg:province":"NE",
+    "sg:tags":[
+        "mail",
+        "shipping"
+    ],
+    "sg:website":"http://www.usps.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974385,
+        102082741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0SXrDEI3ablQFnxI5JUAYS_40.229343_-95.773438@1303262943"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"36e3cca6814eec95977999a241deef98",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082741,
+            "locality_id":85974385,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203163863
+        }
+    ],
+    "wof:id":203163863,
+    "wof:lastmodified":1449026838,
+    "wof:name":"USPS - United States Post Office - Stella Main Office",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mail",
+        "shipping"
+    ]
+},
+  "bbox": [-95.773438,40.229343,-95.773438,40.229343],
+  "geometry": {"coordinates":[-95.773438,40.229343],"type":"Point"}
+}

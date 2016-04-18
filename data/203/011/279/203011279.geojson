@@ -1,0 +1,65 @@
+{
+  "id": 203011279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.930669,41.255323,-95.930669,41.255323",
+    "geom:latitude":41.255323,
+    "geom:longitude":-95.930669,
+    "iso:country":"US",
+    "sg:address":"1109 Howard St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 345 7776",
+    "sg:postcode":"68102",
+    "sg:province":"NE",
+    "sg:tags":[
+        "italian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2FulJSl4uX9kmnrvMeI9xm_41.255323_-95.930669@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"45d78038c4877570f3160ae42c191b80",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203011279
+        }
+    ],
+    "wof:id":203011279,
+    "wof:lastmodified":1449026488,
+    "wof:name":"Spaghetti Works",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "italian"
+    ]
+},
+  "bbox": [-95.930669,41.255323,-95.930669,41.255323],
+  "geometry": {"coordinates":[-95.930669,41.255323],"type":"Point"}
+}

@@ -1,0 +1,86 @@
+{
+  "id": 203063455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.990549,41.226963,-95.990549,41.226963",
+    "geom:latitude":41.226963,
+    "geom:longitude":-95.990549,
+    "iso:country":"US",
+    "sg:address":"5010 Grover St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 558 1550",
+    "sg:postcode":"68106",
+    "sg:province":"NE",
+    "sg:tags":[
+        "delivery",
+        "take",
+        "pizza"
+    ],
+    "sg:website":"http://www.godfatherspizza.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789
+    ],
+    "wof:brand_id":420575225,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6WgFSCx68fxAdkQMXoX7CI_41.226963_-95.990549@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5a402ff7d0780082a96651e52e7c6a39",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203063455
+        }
+    ],
+    "wof:id":203063455,
+    "wof:lastmodified":1457209470,
+    "wof:name":"Godfather's Pizza",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delivery",
+        "take",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -95.990549,
+    41.226963,
+    -95.990549,
+    41.226963
+],
+  "geometry": {"coordinates":[-95.990549,41.226963],"type":"Point"}
+}

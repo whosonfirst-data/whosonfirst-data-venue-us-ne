@@ -1,0 +1,79 @@
+{
+  "id": 203130523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.992897,41.260399,-95.992897,41.260399",
+    "geom:latitude":41.260399,
+    "geom:longitude":-95.992897,
+    "iso:country":"US",
+    "sg:address":"5103 Capitol Ave",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        },
+        {
+            "category":"Education",
+            "subcategory":"Preschool",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 558 6018",
+    "sg:postcode":"68132",
+    "sg:province":"NE",
+    "sg:tags":[
+        "elementary",
+        "day"
+    ],
+    "sg:website":"www.montessoriofdundee.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85867055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5mJZA7SaLPtDQn9a8Y2yqN_41.260399_-95.992897@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"647cb978b7df5f7699507ca42f7fa57a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85867055,
+            "region_id":85688563,
+            "venue_id":203130523
+        }
+    ],
+    "wof:id":203130523,
+    "wof:lastmodified":1449025571,
+    "wof:name":"Montessori Learning Center of Dundee",
+    "wof:parent_id":85867055,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary",
+        "day"
+    ]
+},
+  "bbox": [-95.992897,41.260399,-95.992897,41.260399],
+  "geometry": {"coordinates":[-95.992897,41.260399],"type":"Point"}
+}

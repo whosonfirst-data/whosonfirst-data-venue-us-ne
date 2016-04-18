@@ -1,0 +1,74 @@
+{
+  "id": 203118751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.181257,41.240002,-96.181257,41.240002",
+    "geom:latitude":41.240002,
+    "geom:longitude":-96.181257,
+    "iso:country":"US",
+    "sg:address":"16929 Frances St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 758 5125",
+    "sg:postcode":"68130",
+    "sg:province":"NE",
+    "sg:tags":[
+        "physician",
+        "surgeon",
+        "osteopathic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0XARascmNS72EarLQAHl7O_41.240002_-96.181257@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b4f9fb02b6009d30c6a2ef4363e840dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203118751
+        }
+    ],
+    "wof:id":203118751,
+    "wof:lastmodified":1449026475,
+    "wof:name":"Boys Town Ntl Research Hosp",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon",
+        "osteopathic"
+    ]
+},
+  "bbox": [-96.181257,41.240002,-96.181257,41.240002],
+  "geometry": {"coordinates":[-96.181257,41.240002],"type":"Point"}
+}

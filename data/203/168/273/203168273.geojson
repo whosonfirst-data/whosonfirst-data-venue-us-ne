@@ -1,0 +1,77 @@
+{
+  "id": 203168273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.699223,40.762594,-96.699223,40.762594",
+    "geom:latitude":40.762594,
+    "geom:longitude":-96.699223,
+    "iso:country":"US",
+    "sg:address":"5005 S 16th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 423 6482",
+    "sg:postcode":"68512",
+    "sg:province":"NE",
+    "sg:tags":[
+        "shop",
+        "mail",
+        "letter",
+        "shipping"
+    ],
+    "sg:website":"http://www.millermailing.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5s2KVd25JI59806hJNAZyG_40.762594_-96.699223@1303262943"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c37b8568e81ca13a244202a0db638283",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203168273
+        }
+    ],
+    "wof:id":203168273,
+    "wof:lastmodified":1449025928,
+    "wof:name":"Miller Mailing",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "mail",
+        "letter",
+        "shipping"
+    ]
+},
+  "bbox": [-96.699223,40.762594,-96.699223,40.762594],
+  "geometry": {"coordinates":[-96.699223,40.762594],"type":"Point"}
+}

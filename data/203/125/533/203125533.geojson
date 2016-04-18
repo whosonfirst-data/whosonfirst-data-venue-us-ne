@@ -1,0 +1,66 @@
+{
+  "id": 203125533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.967903,41.262501,-95.967903,41.262501",
+    "geom:latitude":41.262501,
+    "geom:longitude":-95.967903,
+    "iso:country":"US",
+    "sg:address":"4239 Farnam St Ste 301",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 552 2770",
+    "sg:postcode":"68131",
+    "sg:province":"NE",
+    "sg:tags":[
+        "cardiologist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Mv7egrlI9YTmBu03gWEeI_41.262501_-95.967903@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"857f0131696196c1d7d326355fa8282d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872525,
+            "region_id":85688563,
+            "venue_id":203125533
+        }
+    ],
+    "wof:id":203125533,
+    "wof:lastmodified":1449026805,
+    "wof:name":"Consultants In Cardiology PC",
+    "wof:parent_id":85872525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cardiologist"
+    ]
+},
+  "bbox": [-95.967903,41.262501,-95.967903,41.262501],
+  "geometry": {"coordinates":[-95.967903,41.262501],"type":"Point"}
+}

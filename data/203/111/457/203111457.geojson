@@ -1,0 +1,74 @@
+{
+  "id": 203111457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.04924,41.23086,-96.04924,41.23086",
+    "geom:latitude":41.23086,
+    "geom:longitude":-96.04924,
+    "iso:country":"US",
+    "sg:address":"8720 Frederick St Suite 100",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 397 0700",
+    "sg:postcode":"68124",
+    "sg:province":"NE",
+    "sg:tags":[
+        "physician",
+        "family",
+        "practice",
+        "surgeons",
+        "medicine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1bPqOiJIEkxnxXovJ1lkMn_41.230860_-96.049240@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"bed723ab8f5ac3c5cfe5a681830c3abf",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872533,
+            "region_id":85688563,
+            "venue_id":203111457
+        }
+    ],
+    "wof:id":203111457,
+    "wof:lastmodified":1449026905,
+    "wof:name":"Arbor Heights Family Medicine",
+    "wof:parent_id":85872533,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "family",
+        "practice",
+        "surgeons",
+        "medicine"
+    ]
+},
+  "bbox": [-96.04924,41.23086,-96.04924,41.23086],
+  "geometry": {"coordinates":[-96.04924,41.23086],"type":"Point"}
+}

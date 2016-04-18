@@ -1,0 +1,67 @@
+{
+  "id": 203054073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.960822,41.254353,-95.960822,41.254353",
+    "geom:latitude":41.254353,
+    "geom:longitude":-95.960822,
+    "iso:country":"US",
+    "sg:address":"550 Turner Blvd",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 444 4284",
+    "sg:postcode":"68105",
+    "sg:province":"NE",
+    "sg:tags":[
+        "department"
+    ],
+    "sg:website":"http://www.omagro.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2gNq3F7emJGvwhI5H0zSM9_41.254353_-95.960822@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3e56b04501218ec079afe3dbb988f59c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872525,
+            "region_id":85688563,
+            "venue_id":203054073
+        }
+    ],
+    "wof:id":203054073,
+    "wof:lastmodified":1449025813,
+    "wof:name":"Omaha Fire Department",
+    "wof:parent_id":85872525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [-95.960822,41.254353,-95.960822,41.254353],
+  "geometry": {"coordinates":[-95.960822,41.254353],"type":"Point"}
+}

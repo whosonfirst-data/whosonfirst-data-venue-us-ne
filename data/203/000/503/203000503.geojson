@@ -1,0 +1,94 @@
+{
+  "id": 203000503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.933402,41.255345,-95.933402,41.255345",
+    "geom:latitude":41.255345,
+    "geom:longitude":-95.933402,
+    "iso:country":"US",
+    "sg:address":"512 S 13th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Adult",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Apparel",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 991 2869",
+    "sg:postcode":"68102",
+    "sg:province":"NE",
+    "sg:tags":[
+        "apparel-wholesale",
+        "corset",
+        "girdle",
+        "women's",
+        "lingerie",
+        "bra",
+        "accessory",
+        "clothing",
+        "store",
+        "manufacturer"
+    ],
+    "sg:website":"www.basictease.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1a8z0SPjTQ2CBTMpmzOZko_41.255345_-95.933402@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"42ef197023dc3e16e9709b402d9270bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203000503
+        }
+    ],
+    "wof:id":203000503,
+    "wof:lastmodified":1449025243,
+    "wof:name":"Basic Tease Boutique",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apparel-wholesale",
+        "corset",
+        "girdle",
+        "women's",
+        "lingerie",
+        "bra",
+        "accessory",
+        "clothing",
+        "store",
+        "manufacturer"
+    ]
+},
+  "bbox": [-95.933402,41.255345,-95.933402,41.255345],
+  "geometry": {"coordinates":[-95.933402,41.255345],"type":"Point"}
+}

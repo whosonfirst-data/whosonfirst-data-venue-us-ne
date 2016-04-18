@@ -1,0 +1,65 @@
+{
+  "id": 203115765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.063542,41.209019,-96.063542,41.209019",
+    "geom:latitude":41.209019,
+    "geom:longitude":-96.063542,
+    "iso:country":"US",
+    "sg:address":"9652 Mockingbird Dr",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"Lounge",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 592 3230",
+    "sg:postcode":"68127",
+    "sg:province":"NE",
+    "sg:tags":[
+        "cocktail"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_10qiX35WnzmKKygzyGH2ZH_41.209019_-96.063542@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4ef506581d74dfdbd63318173e817828",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203115765
+        }
+    ],
+    "wof:id":203115765,
+    "wof:lastmodified":1449024927,
+    "wof:name":"Sam's Lounge",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cocktail"
+    ]
+},
+  "bbox": [-96.063542,41.209019,-96.063542,41.209019],
+  "geometry": {"coordinates":[-96.063542,41.209019],"type":"Point"}
+}

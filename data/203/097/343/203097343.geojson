@@ -1,0 +1,79 @@
+{
+  "id": 203097343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.045568,41.251775,-96.045568,41.251775",
+    "geom:latitude":41.251775,
+    "geom:longitude":-96.045568,
+    "iso:country":"US",
+    "sg:address":"654 S 86th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Place Of Worship",
+            "subcategory":"Church",
+            "type":"Public Place"
+        },
+        {
+            "category":"Place Of Worship",
+            "subcategory":"",
+            "type":"Public Place"
+        },
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 391 3606",
+    "sg:postcode":"68114",
+    "sg:province":"NE",
+    "sg:tags":[
+        "churches-catholic-traditional",
+        "churches-catholic"
+    ],
+    "sg:website":"http://www.ctkomaha.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6mB3qL9mWHnRNbrCdwH0mk_41.251775_-96.045568@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3e7bacf0a5acae0e928f3fd1d2483cfe",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872509,
+            "region_id":85688563,
+            "venue_id":203097343
+        }
+    ],
+    "wof:id":203097343,
+    "wof:lastmodified":1449025659,
+    "wof:name":"Christ The King Parish",
+    "wof:parent_id":85872509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "churches-catholic-traditional",
+        "churches-catholic"
+    ]
+},
+  "bbox": [-96.045568,41.251775,-96.045568,41.251775],
+  "geometry": {"coordinates":[-96.045568,41.251775],"type":"Point"}
+}

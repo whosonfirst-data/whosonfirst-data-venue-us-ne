@@ -1,0 +1,79 @@
+{
+  "id": 203139433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.100756,41.218296,-96.100756,41.218296",
+    "geom:latitude":41.218296,
+    "geom:longitude":-96.100756,
+    "iso:country":"US",
+    "sg:address":"4217 S 120th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Skin Care",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Nail Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 682 7902",
+    "sg:postcode":"68137",
+    "sg:province":"NE",
+    "sg:tags":[
+        "hair",
+        "stylist"
+    ],
+    "sg:website":"http://www.omahashairchoice.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2BwQvrttvW5aOWwHP9FCyc_41.218296_-96.100756@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"dc7e1b37576a86e5a639d48f1c90cbac",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872531,
+            "region_id":85688563,
+            "venue_id":203139433
+        }
+    ],
+    "wof:id":203139433,
+    "wof:lastmodified":1449025109,
+    "wof:name":"Omaha's Hair Choice",
+    "wof:parent_id":85872531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hair",
+        "stylist"
+    ]
+},
+  "bbox": [-96.100756,41.218296,-96.100756,41.218296],
+  "geometry": {"coordinates":[-96.100756,41.218296],"type":"Point"}
+}

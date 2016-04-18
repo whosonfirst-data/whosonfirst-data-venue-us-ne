@@ -1,0 +1,68 @@
+{
+  "id": 203072203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.947416,41.206909,-95.947416,41.206909",
+    "geom:latitude":41.206909,
+    "geom:longitude":-95.947416,
+    "iso:country":"US",
+    "sg:address":"2424 P St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 939 8669",
+    "sg:postcode":"68107",
+    "sg:province":"NE",
+    "sg:tags":[
+        "television",
+        "radio-service"
+    ],
+    "sg:website":"http://www.abetterwayservice.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2P5ANJJc2Tp2ky00ABH7tg_41.206909_-95.947416@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"530c93cde7cf695cb5cfd2b41d8ef8f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203072203
+        }
+    ],
+    "wof:id":203072203,
+    "wof:lastmodified":1449025946,
+    "wof:name":"A Better Way Service Company Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "television",
+        "radio-service"
+    ]
+},
+  "bbox": [-95.947416,41.206909,-95.947416,41.206909],
+  "geometry": {"coordinates":[-95.947416,41.206909],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 203168625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.724251,40.858688,-96.724251,40.858688",
+    "geom:latitude":40.858688,
+    "geom:longitude":-96.724251,
+    "iso:country":"US",
+    "sg:address":"4701 Innovation Dr",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"University",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 472 4200",
+    "sg:postcode":"68521",
+    "sg:province":"NE",
+    "sg:tags":[
+        "college"
+    ],
+    "sg:website":"http://www.unk.edu",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_08bJfjNAGT8tTpkmN8kMWx_40.858688_-96.724251@1303262943"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"98044e0fe6726198a255807753db4008",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878717,
+            "region_id":85688563,
+            "venue_id":203168625
+        }
+    ],
+    "wof:id":203168625,
+    "wof:lastmodified":1449025931,
+    "wof:name":"University Of Nebraska",
+    "wof:parent_id":85878717,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "college"
+    ]
+},
+  "bbox": [-96.724251,40.858688,-96.724251,40.858688],
+  "geometry": {"coordinates":[-96.724251,40.858688],"type":"Point"}
+}

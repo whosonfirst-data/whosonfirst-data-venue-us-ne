@@ -1,0 +1,66 @@
+{
+  "id": 203048965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.004601,41.286701,-96.004601,41.286701",
+    "geom:latitude":41.286701,
+    "geom:longitude":-96.004601,
+    "iso:country":"US",
+    "sg:address":"3102 N 60th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 551 4243",
+    "sg:postcode":"68104",
+    "sg:province":"NE",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7DQrkr4Ym3J5mHsEfzIzpD_41.286701_-96.004601@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"97b8e940a7fdc41bfa117e2832acd2ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872535,
+            "region_id":85688563,
+            "venue_id":203048965
+        }
+    ],
+    "wof:id":203048965,
+    "wof:lastmodified":1449025584,
+    "wof:name":"St James Manor Apts",
+    "wof:parent_id":85872535,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [-96.004601,41.286701,-96.004601,41.286701],
+  "geometry": {"coordinates":[-96.004601,41.286701],"type":"Point"}
+}

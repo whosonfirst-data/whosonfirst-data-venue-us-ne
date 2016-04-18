@@ -1,0 +1,74 @@
+{
+  "id": 203165185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.668429,40.843825,-96.668429,40.843825",
+    "geom:latitude":40.843825,
+    "geom:longitude":-96.668429,
+    "iso:country":"US",
+    "sg:address":"3730 Cornhusker Hwy",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 467 1233",
+    "sg:postcode":"68504",
+    "sg:province":"NE",
+    "sg:tags":[
+        "brake",
+        "tire"
+    ],
+    "sg:website":"http://www.napaautocare.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5hajzl8qBmBPaJSU4OG9U4_40.843825_-96.668429@1303262943"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"68f7d67d0d7cd5f17b1b397830312e29",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878741,
+            "region_id":85688563,
+            "venue_id":203165185
+        }
+    ],
+    "wof:id":203165185,
+    "wof:lastmodified":1449026866,
+    "wof:name":"Metzger's Auto Service Inc",
+    "wof:parent_id":85878741,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "brake",
+        "tire"
+    ]
+},
+  "bbox": [-96.668429,40.843825,-96.668429,40.843825],
+  "geometry": {"coordinates":[-96.668429,40.843825],"type":"Point"}
+}

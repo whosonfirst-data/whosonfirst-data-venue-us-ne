@@ -1,0 +1,68 @@
+{
+  "id": 203098745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.073765,41.258177,-96.073765,41.258177",
+    "geom:latitude":41.258177,
+    "geom:longitude":-96.073765,
+    "iso:country":"US",
+    "sg:address":"10306 Regency Parkway Dr",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 730 8954",
+    "sg:postcode":"68114",
+    "sg:province":"NE",
+    "sg:tags":[
+        "laboratories-pathological",
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85867061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2YbaHORlsElOqfOcMlVmR0_41.258177_-96.073765@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"622acf0ad7f6669322f9d7bf9e7e62b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85867061,
+            "region_id":85688563,
+            "venue_id":203098745
+        }
+    ],
+    "wof:id":203098745,
+    "wof:lastmodified":1449026672,
+    "wof:name":"Sanguine Diagnostics And Therapeutics, Inc.",
+    "wof:parent_id":85867061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratories-pathological",
+        "laboratory"
+    ]
+},
+  "bbox": [-96.073765,41.258177,-96.073765,41.258177],
+  "geometry": {"coordinates":[-96.073765,41.258177],"type":"Point"}
+}

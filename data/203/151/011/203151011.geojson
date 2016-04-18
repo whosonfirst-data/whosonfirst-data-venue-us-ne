@@ -1,0 +1,75 @@
+{
+  "id": 203151011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.088827,41.284673,-96.088827,41.284673",
+    "geom:latitude":41.284673,
+    "geom:longitude":-96.088827,
+    "iso:country":"US",
+    "sg:address":"11230 Miami Cir",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Petroleum Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 320 3036",
+    "sg:postcode":"68164",
+    "sg:province":"NE",
+    "sg:tags":[
+        "lubricant",
+        "oil",
+        "lubricating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_62teMe1raZZciuMTRd0zXz_41.284673_-96.088827@1303262943"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6ca5a88b8f82a4809ad4629b8ca1e5d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872503,
+            "region_id":85688563,
+            "venue_id":203151011
+        }
+    ],
+    "wof:id":203151011,
+    "wof:lastmodified":1449024959,
+    "wof:name":"Ep Lubricants",
+    "wof:parent_id":85872503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lubricant",
+        "oil",
+        "lubricating"
+    ]
+},
+  "bbox": [-96.088827,41.284673,-96.088827,41.284673],
+  "geometry": {"coordinates":[-96.088827,41.284673],"type":"Point"}
+}

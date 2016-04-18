@@ -1,0 +1,65 @@
+{
+  "id": 203105053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.990898,41.212601,-95.990898,41.212601",
+    "geom:latitude":41.212601,
+    "geom:longitude":-95.990898,
+    "iso:country":"US",
+    "sg:address":"5000 L St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 733 6935",
+    "sg:postcode":"68117",
+    "sg:province":"NE",
+    "sg:tags":[
+        "drugstore"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1YrTiYRlIqn40R9UHu6YiH_41.212601_-95.990898@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"22b53793207562f01c55dc19c2ec0348",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203105053
+        }
+    ],
+    "wof:id":203105053,
+    "wof:lastmodified":1449025639,
+    "wof:name":"Kmart Stores",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drugstore"
+    ]
+},
+  "bbox": [-95.990898,41.212601,-95.990898,41.212601],
+  "geometry": {"coordinates":[-95.990898,41.212601],"type":"Point"}
+}

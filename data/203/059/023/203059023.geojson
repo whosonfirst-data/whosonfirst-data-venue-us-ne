@@ -1,0 +1,66 @@
+{
+  "id": 203059023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.016558,41.252175,-96.016558,41.252175",
+    "geom:latitude":41.252175,
+    "geom:longitude":-96.016558,
+    "iso:country":"US",
+    "sg:address":"817 S 67th Ave",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Locksmith",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 881 3714",
+    "sg:postcode":"68106",
+    "sg:province":"NE",
+    "sg:tags":[
+        "key"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85867059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2M5s13p6bfdakp5ChKoWLx_41.252175_-96.016558@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"349f6d8a677d8338d3f84744cb632ca1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85867059,
+            "region_id":85688563,
+            "venue_id":203059023
+        }
+    ],
+    "wof:id":203059023,
+    "wof:lastmodified":1449025427,
+    "wof:name":"Aaland 24 Hour Locksmith",
+    "wof:parent_id":85867059,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "key"
+    ]
+},
+  "bbox": [-96.016558,41.252175,-96.016558,41.252175],
+  "geometry": {"coordinates":[-96.016558,41.252175],"type":"Point"}
+}

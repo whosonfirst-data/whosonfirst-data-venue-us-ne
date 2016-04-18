@@ -1,0 +1,91 @@
+{
+  "id": 203151215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.081476,41.288883,-96.081476,41.288883",
+    "geom:latitude":41.288883,
+    "geom:longitude":-96.081476,
+    "iso:country":"US",
+    "sg:address":"3320 N 108th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Hazard Insurance",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Title Insurance",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Life Insurance",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 431 0374",
+    "sg:postcode":"68164",
+    "sg:province":"NE",
+    "sg:tags":[
+        "business",
+        "auto",
+        "commercial",
+        "homeowner",
+        "motorcycle",
+        "renter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1FpMH0ERovO99H9dLSycPm_41.288883_-96.081476@1303262943"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"edc4e7349bb36de177c9540a9eae7f6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872503,
+            "region_id":85688563,
+            "venue_id":203151215
+        }
+    ],
+    "wof:id":203151215,
+    "wof:lastmodified":1449024958,
+    "wof:name":"Allstate Insurance Company - Mike Reynolds",
+    "wof:parent_id":85872503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "business",
+        "auto",
+        "commercial",
+        "homeowner",
+        "motorcycle",
+        "renter"
+    ]
+},
+  "bbox": [-96.081476,41.288883,-96.081476,41.288883],
+  "geometry": {"coordinates":[-96.081476,41.288883],"type":"Point"}
+}

@@ -1,0 +1,87 @@
+{
+  "id": 203140871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.130895,41.204694,-96.130895,41.204694",
+    "geom:latitude":41.204694,
+    "geom:longitude":-96.130895,
+    "iso:country":"US",
+    "sg:address":"13913 R Plz",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Music",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 894 2256",
+    "sg:postcode":"68137",
+    "sg:province":"NE",
+    "sg:tags":[
+        "dvd",
+        "sale",
+        "dvds-rental",
+        "tape",
+        "video",
+        "store"
+    ],
+    "sg:website":"http://www.blockbuster.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7I7619aPAkyqFYTZa2PklE_41.204694_-96.130895@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"568a7ebad0cae1caa20993148903e03e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872531,
+            "region_id":85688563,
+            "venue_id":203140871
+        }
+    ],
+    "wof:id":203140871,
+    "wof:lastmodified":1449025205,
+    "wof:name":"Blockbuster",
+    "wof:parent_id":85872531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dvd",
+        "sale",
+        "dvds-rental",
+        "tape",
+        "video",
+        "store"
+    ]
+},
+  "bbox": [-96.130895,41.204694,-96.130895,41.204694],
+  "geometry": {"coordinates":[-96.130895,41.204694],"type":"Point"}
+}

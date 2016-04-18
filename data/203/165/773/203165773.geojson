@@ -1,0 +1,68 @@
+{
+  "id": 203165773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.663279,40.784238,-96.663279,40.784238",
+    "geom:latitude":40.784238,
+    "geom:longitude":-96.663279,
+    "iso:country":"US",
+    "sg:address":"2820 S 40th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 489 3063",
+    "sg:postcode":"68506",
+    "sg:province":"NE",
+    "sg:tags":[
+        "art",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2UgVcfmes5qFVtf9clnvdX_40.784238_-96.663279@1303262943"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f117fa01121d58bed759364617b839d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878735,
+            "region_id":85688563,
+            "venue_id":203165773
+        }
+    ],
+    "wof:id":203165773,
+    "wof:lastmodified":1449026866,
+    "wof:name":"Penny Lee's",
+    "wof:parent_id":85878735,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "art",
+        "supply"
+    ]
+},
+  "bbox": [-96.663279,40.784238,-96.663279,40.784238],
+  "geometry": {"coordinates":[-96.663279,40.784238],"type":"Point"}
+}

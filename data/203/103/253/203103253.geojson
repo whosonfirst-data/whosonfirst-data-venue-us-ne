@@ -1,0 +1,65 @@
+{
+  "id": 203103253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.990633,41.216951,-95.990633,41.216951",
+    "geom:latitude":41.216951,
+    "geom:longitude":-95.990633,
+    "iso:country":"US",
+    "sg:address":"4240 S 50th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 733 2260",
+    "sg:postcode":"68117",
+    "sg:province":"NE",
+    "sg:tags":[
+        "drugstore"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4XrNatfZTTZtQsPmSUPqOf_41.216951_-95.990633@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e426b61ed7573f1a4659f0d97ff11ea1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203103253
+        }
+    ],
+    "wof:id":203103253,
+    "wof:lastmodified":1449026136,
+    "wof:name":"No Frills Quality Care Pharmacy",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drugstore"
+    ]
+},
+  "bbox": [-95.990633,41.216951,-95.990633,41.216951],
+  "geometry": {"coordinates":[-95.990633,41.216951],"type":"Point"}
+}

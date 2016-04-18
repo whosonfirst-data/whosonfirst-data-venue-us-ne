@@ -1,0 +1,70 @@
+{
+  "id": 203058359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.997101,41.239601,-95.997101,41.239601",
+    "geom:latitude":41.239601,
+    "geom:longitude":-95.997101,
+    "iso:country":"US",
+    "sg:address":"5435 Center St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 558 4331",
+    "sg:postcode":"68106",
+    "sg:province":"NE",
+    "sg:tags":[
+        "beer",
+        "spirit",
+        "wine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7CeuMJrZ1dkduj6fKhLMSO_41.239601_-95.997101@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6f28751117ae43beeb96d6209d5ec0c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872513,
+            "region_id":85688563,
+            "venue_id":203058359
+        }
+    ],
+    "wof:id":203058359,
+    "wof:lastmodified":1449025213,
+    "wof:name":"Center Trophy Company",
+    "wof:parent_id":85872513,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beer",
+        "spirit",
+        "wine"
+    ]
+},
+  "bbox": [-95.997101,41.239601,-95.997101,41.239601],
+  "geometry": {"coordinates":[-95.997101,41.239601],"type":"Point"}
+}

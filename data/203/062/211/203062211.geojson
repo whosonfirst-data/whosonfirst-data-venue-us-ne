@@ -1,0 +1,69 @@
+{
+  "id": 203062211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.016734,41.228329,-96.016734,41.228329",
+    "geom:latitude":41.228329,
+    "geom:longitude":-96.016734,
+    "iso:country":"US",
+    "sg:address":"3326 S 67th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 866 577 1603",
+    "sg:postcode":"68106",
+    "sg:province":"NE",
+    "sg:tags":[
+        "delivery",
+        "courier"
+    ],
+    "sg:website":"www.naparex.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85867059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3GSCSiYRZvEHmTwa6HHlpF_41.228329_-96.016734@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d0de499f7c020c61c5b6b50907c2d829",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85867059,
+            "region_id":85688563,
+            "venue_id":203062211
+        }
+    ],
+    "wof:id":203062211,
+    "wof:lastmodified":1449026732,
+    "wof:name":"Courier Service - Naparex",
+    "wof:parent_id":85867059,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delivery",
+        "courier"
+    ]
+},
+  "bbox": [-96.016734,41.228329,-96.016734,41.228329],
+  "geometry": {"coordinates":[-96.016734,41.228329],"type":"Point"}
+}

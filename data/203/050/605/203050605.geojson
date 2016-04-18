@@ -1,0 +1,76 @@
+{
+  "id": 203050605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.978461,41.228465,-95.978461,41.228465",
+    "geom:latitude":41.228465,
+    "geom:longitude":-95.978461,
+    "iso:country":"US",
+    "sg:address":"3317 S 44th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Hobbies, Toys, & Games",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 553 2222",
+    "sg:postcode":"68105",
+    "sg:province":"NE",
+    "sg:tags":[
+        "shop",
+        "hobby",
+        "model",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2s7Z7Df0xDNBf99ChW95rv_41.228465_-95.978461@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3154eac0be136cb66fb7ba89c068403e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203050605
+        }
+    ],
+    "wof:id":203050605,
+    "wof:lastmodified":1449025989,
+    "wof:name":"Laughlin Crafts",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "hobby",
+        "model",
+        "supply"
+    ]
+},
+  "bbox": [-95.978461,41.228465,-95.978461,41.228465],
+  "geometry": {"coordinates":[-95.978461,41.228465],"type":"Point"}
+}

@@ -1,0 +1,90 @@
+{
+  "id": 203117091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.157135,41.235129,-96.157135,41.235129",
+    "geom:latitude":41.235129,
+    "geom:longitude":-96.157135,
+    "iso:country":"US",
+    "sg:address":"2430 S 156th Cir",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Animal Shelter",
+            "subcategory":"",
+            "type":"Public Place"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Pest Control",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 866 574 1660",
+    "sg:postcode":"68130",
+    "sg:province":"NE",
+    "sg:tags":[
+        "industrial",
+        "supply",
+        "services-commercial",
+        "termite",
+        "bee",
+        "equipment",
+        "mothproofing",
+        "removal"
+    ],
+    "sg:website":"http://orkin.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1u1nJ3abS7lmFTG0A3M5OM_41.235129_-96.157135@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"30663ed37a808c08a02dc6812ceaf02b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203117091
+        }
+    ],
+    "wof:id":203117091,
+    "wof:lastmodified":1449026269,
+    "wof:name":"Orkin Pest & Termite Control",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industrial",
+        "supply",
+        "services-commercial",
+        "termite",
+        "bee",
+        "equipment",
+        "mothproofing",
+        "removal"
+    ]
+},
+  "bbox": [-96.157135,41.235129,-96.157135,41.235129],
+  "geometry": {"coordinates":[-96.157135,41.235129],"type":"Point"}
+}

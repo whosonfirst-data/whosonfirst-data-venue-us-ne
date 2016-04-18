@@ -1,0 +1,73 @@
+{
+  "id": 203148077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.014343,41.317546,-96.014343,41.317546",
+    "geom:latitude":41.317546,
+    "geom:longitude":-96.014343,
+    "iso:country":"US",
+    "sg:address":"6655 Sorensen Pkwy",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Stationery",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 829 3282",
+    "sg:postcode":"68152",
+    "sg:province":"NE",
+    "sg:tags":[
+        "drugstore",
+        "card"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85805755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_50izEH0IDkOgXue4hHvZcW_41.317546_-96.014343@1303262943"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b0493c1e8746205a2159ca6cfede1e2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85805755,
+            "region_id":85688563,
+            "venue_id":203148077
+        }
+    ],
+    "wof:id":203148077,
+    "wof:lastmodified":1449026546,
+    "wof:name":"Seig Pharmacy",
+    "wof:parent_id":85805755,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drugstore",
+        "card"
+    ]
+},
+  "bbox": [-96.014343,41.317546,-96.014343,41.317546],
+  "geometry": {"coordinates":[-96.014343,41.317546],"type":"Point"}
+}

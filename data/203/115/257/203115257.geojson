@@ -1,0 +1,67 @@
+{
+  "id": 203115257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.038961,41.215415,-96.038961,41.215415",
+    "geom:latitude":41.215415,
+    "geom:longitude":-96.038961,
+    "iso:country":"US",
+    "sg:address":"8006 J St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 221 3261",
+    "sg:postcode":"68127",
+    "sg:province":"NE",
+    "sg:tags":[
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3XR1eFnC7AV63ln3OXVifQ_41.215415_-96.038961@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"bec71578addc994a8147d18e55f1901b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203115257
+        }
+    ],
+    "wof:id":203115257,
+    "wof:lastmodified":1449024927,
+    "wof:name":"Mid America Moving",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [-96.038961,41.215415,-96.038961,41.215415],
+  "geometry": {"coordinates":[-96.038961,41.215415],"type":"Point"}
+}

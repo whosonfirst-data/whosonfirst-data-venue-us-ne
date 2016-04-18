@@ -1,0 +1,70 @@
+{
+  "id": 203024375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.932098,41.255402,-95.932098,41.255402",
+    "geom:latitude":41.255402,
+    "geom:longitude":-95.932098,
+    "iso:country":"US",
+    "sg:address":"1201 Howard St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Deli",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 344 2264",
+    "sg:postcode":"68102",
+    "sg:province":"NE",
+    "sg:tags":[
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1WsyHG7Lbv01JvAoAeSiqW_41.255402_-95.932098@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5e53dd1cd20b0dba7cbeba14b00fb5c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203024375
+        }
+    ],
+    "wof:id":203024375,
+    "wof:lastmodified":1449025827,
+    "wof:name":"Little King",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandwich"
+    ]
+},
+  "bbox": [-95.932098,41.255402,-95.932098,41.255402],
+  "geometry": {"coordinates":[-95.932098,41.255402],"type":"Point"}
+}

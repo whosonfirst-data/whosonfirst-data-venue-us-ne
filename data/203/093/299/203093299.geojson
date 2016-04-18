@@ -1,0 +1,73 @@
+{
+  "id": 203093299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.956571,41.302851,-95.956571,41.302851",
+    "geom:latitude":41.302851,
+    "geom:longitude":-95.956571,
+    "iso:country":"US",
+    "sg:address":"30th and Sorensen Pkwy",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"Wine Bar",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 457 2509",
+    "sg:postcode":"68111",
+    "sg:province":"NE",
+    "sg:tags":[
+        "new",
+        "american"
+    ],
+    "sg:website":"www.resource.mccneb.edu/Bistro",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_48E9WUZHrryZTtVCfecXk9_41.302851_-95.956571@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3886f7ab08236d588362d3ce89d97365",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203093299
+        }
+    ],
+    "wof:id":203093299,
+    "wof:lastmodified":1449024936,
+    "wof:name":"Sage Student Bistro",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "new",
+        "american"
+    ]
+},
+  "bbox": [-95.956571,41.302851,-95.956571,41.302851],
+  "geometry": {"coordinates":[-95.956571,41.302851],"type":"Point"}
+}

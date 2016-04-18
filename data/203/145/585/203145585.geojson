@@ -1,0 +1,66 @@
+{
+  "id": 203145585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.119929,41.224382,-96.119929,41.224382",
+    "geom:latitude":41.224382,
+    "geom:longitude":-96.119929,
+    "iso:country":"US",
+    "sg:address":"3616 S 132nd St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Landmark",
+            "subcategory":"Tourist Information",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 333 3555",
+    "sg:postcode":"68144",
+    "sg:province":"NE",
+    "sg:tags":[
+        "attraction"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5TEONcd3EtK0voZfxTUkiJ_41.224382_-96.119929@1303262943"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"92e758c737b2d1e5b5a129cd0ab98363",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872531,
+            "region_id":85688563,
+            "venue_id":203145585
+        }
+    ],
+    "wof:id":203145585,
+    "wof:lastmodified":1449025489,
+    "wof:name":"Lazer Runner",
+    "wof:parent_id":85872531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attraction"
+    ]
+},
+  "bbox": [-96.119929,41.224382,-96.119929,41.224382],
+  "geometry": {"coordinates":[-96.119929,41.224382],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 203096903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.047791,41.263309,-96.047791,41.263309",
+    "geom:latitude":41.263309,
+    "geom:longitude":-96.047791,
+    "iso:country":"US",
+    "sg:address":"501 N 87th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 397 7100",
+    "sg:postcode":"68114",
+    "sg:province":"NE",
+    "sg:tags":[
+        "medicine",
+        "physician",
+        "practice",
+        "surgeons",
+        "family"
+    ],
+    "sg:website":"http://www.omahaimaging.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85867061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2YFyXSD8FcBMVMni2WEdNb_41.263309_-96.047791@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4847a48d9ce9f4245db0fc4ac6c5022f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85867061,
+            "region_id":85688563,
+            "venue_id":203096903
+        }
+    ],
+    "wof:id":203096903,
+    "wof:lastmodified":1449025531,
+    "wof:name":"Omaha Imaging",
+    "wof:parent_id":85867061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicine",
+        "physician",
+        "practice",
+        "surgeons",
+        "family"
+    ]
+},
+  "bbox": [-96.047791,41.263309,-96.047791,41.263309],
+  "geometry": {"coordinates":[-96.047791,41.263309],"type":"Point"}
+}

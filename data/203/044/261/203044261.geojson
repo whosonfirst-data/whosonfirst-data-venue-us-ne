@@ -1,0 +1,70 @@
+{
+  "id": 203044261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.989152,41.281283,-95.989152,41.281283",
+    "geom:latitude":41.281283,
+    "geom:longitude":-95.989152,
+    "iso:country":"US",
+    "sg:address":"4959 NW Radial Hwy",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 551 2215",
+    "sg:postcode":"68104",
+    "sg:province":"NE",
+    "sg:tags":[
+        "air",
+        "heating",
+        "conditioning/hvac"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3kzVAY074a1drg3hRiEqKk_41.281283_-95.989152@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"157e586810069d38577cc911df0d17c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872535,
+            "region_id":85688563,
+            "venue_id":203044261
+        }
+    ],
+    "wof:id":203044261,
+    "wof:lastmodified":1449025922,
+    "wof:name":"Hi-Tech Heating & Air Conditioning Inc",
+    "wof:parent_id":85872535,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "air",
+        "heating",
+        "conditioning/hvac"
+    ]
+},
+  "bbox": [-95.989152,41.281283,-95.989152,41.281283],
+  "geometry": {"coordinates":[-95.989152,41.281283],"type":"Point"}
+}

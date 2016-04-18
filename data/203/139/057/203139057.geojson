@@ -1,0 +1,71 @@
+{
+  "id": 203139057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.190777,41.182867,-96.190777,41.182867",
+    "geom:latitude":41.182867,
+    "geom:longitude":-96.190777,
+    "iso:country":"US",
+    "sg:address":"17610 Storage Road",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 250 3192",
+    "sg:postcode":"68136",
+    "sg:province":"NE",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting",
+        "repairing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        102082789,
+        85834285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2pjr6m4ToTJGZyvpB19OVl_41.182867_-96.190777@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"224473c9a8a2e9425aef719538341268",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":-1,
+            "neighbourhood_id":85834285,
+            "region_id":85688563,
+            "venue_id":203139057
+        }
+    ],
+    "wof:id":203139057,
+    "wof:lastmodified":1449025114,
+    "wof:name":"QUANDT CLASSICS",
+    "wof:parent_id":85834285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting",
+        "repairing"
+    ]
+},
+  "bbox": [-96.190777,41.182867,-96.190777,41.182867],
+  "geometry": {"coordinates":[-96.190777,41.182867],"type":"Point"}
+}

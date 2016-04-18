@@ -1,0 +1,89 @@
+{
+  "id": 202991315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.028379,41.137438,-96.028379,41.137438",
+    "geom:latitude":41.137438,
+    "geom:longitude":-96.028379,
+    "iso:country":"US",
+    "sg:address":"7608 Olson Dr",
+    "sg:city":"Papillion",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Photofinishing",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 339 4290",
+    "sg:postcode":"68046",
+    "sg:province":"NE",
+    "sg:tags":[
+        "photo",
+        "product",
+        "health",
+        "finishing",
+        "wellness"
+    ],
+    "sg:website":"http://www.hy-vee.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974551,
+        102082777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0VKOZS2YXuwbUPK82qgGvV_41.137438_-96.028379@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"354f47fec911d0acf1593a41d579dbf0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974551,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":202991315
+        }
+    ],
+    "wof:id":202991315,
+    "wof:lastmodified":1449060906,
+    "wof:name":"Hy-Vee",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photo",
+        "product",
+        "health",
+        "finishing",
+        "wellness"
+    ]
+},
+  "bbox": [-96.028379,41.137438,-96.028379,41.137438],
+  "geometry": {"coordinates":[-96.028379,41.137438],"type":"Point"}
+}

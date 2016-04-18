@@ -1,0 +1,68 @@
+{
+  "id": 203098429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.050852,41.254661,-96.050852,41.254661",
+    "geom:latitude":41.254661,
+    "geom:longitude":-96.050852,
+    "iso:country":"US",
+    "sg:address":"432 S 89th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Dentist",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 553 3543",
+    "sg:postcode":"68114",
+    "sg:province":"NE",
+    "sg:tags":[
+        "orthopedic",
+        "appliances-manufacturing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_32QriG3f0KV9hXiG2RUzkp_41.254661_-96.050852@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b264b9c4c62b99f34ecec2f925406bd5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872509,
+            "region_id":85688563,
+            "venue_id":203098429
+        }
+    ],
+    "wof:id":203098429,
+    "wof:lastmodified":1449026671,
+    "wof:name":"G M I",
+    "wof:parent_id":85872509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "orthopedic",
+        "appliances-manufacturing"
+    ]
+},
+  "bbox": [-96.050852,41.254661,-96.050852,41.254661],
+  "geometry": {"coordinates":[-96.050852,41.254661],"type":"Point"}
+}

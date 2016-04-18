@@ -1,0 +1,68 @@
+{
+  "id": 203165565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.611746,40.827944,-96.611746,40.827944",
+    "geom:latitude":40.827944,
+    "geom:longitude":-96.611746,
+    "iso:country":"US",
+    "sg:address":"7979 Holdrege St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Musical Instruments",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 770 7773",
+    "sg:postcode":"68505",
+    "sg:province":"NE",
+    "sg:tags":[
+        "guitar",
+        "amplifier"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1sGbqfOZ0pG0oWKSMs79KN_40.827944_-96.611746@1303262943"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1e9efbd2285d6b037715d85abbde85bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878725,
+            "region_id":85688563,
+            "venue_id":203165565
+        }
+    ],
+    "wof:id":203165565,
+    "wof:lastmodified":1449026869,
+    "wof:name":"Kindermusik",
+    "wof:parent_id":85878725,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "guitar",
+        "amplifier"
+    ]
+},
+  "bbox": [-96.611746,40.827944,-96.611746,40.827944],
+  "geometry": {"coordinates":[-96.611746,40.827944],"type":"Point"}
+}

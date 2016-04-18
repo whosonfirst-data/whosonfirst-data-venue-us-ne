@@ -1,0 +1,66 @@
+{
+  "id": 203004929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.933222,41.255358,-95.933222,41.255358",
+    "geom:latitude":41.255358,
+    "geom:longitude":-95.933222,
+    "iso:country":"US",
+    "sg:address":"510 S. 13th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 345 6921",
+    "sg:postcode":"68102",
+    "sg:province":"NE",
+    "sg:tags":[
+        "mexican"
+    ],
+    "sg:website":"www.julios.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4yrPKC2kUFqru2jJCLOuPR_41.255358_-95.933222@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9aadd275a2be4654d6e86de9a3c9904f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203004929
+        }
+    ],
+    "wof:id":203004929,
+    "wof:lastmodified":1449025607,
+    "wof:name":"Julio's",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [-95.933222,41.255358,-95.933222,41.255358],
+  "geometry": {"coordinates":[-95.933222,41.255358],"type":"Point"}
+}

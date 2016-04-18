@@ -1,0 +1,70 @@
+{
+  "id": 203125229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.956596,41.2649,-95.956596,41.2649",
+    "geom:latitude":41.2649,
+    "geom:longitude":-95.956596,
+    "iso:country":"US",
+    "sg:address":"601 N 30th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 280 4403",
+    "sg:postcode":"68131",
+    "sg:province":"NE",
+    "sg:tags":[
+        "medicine",
+        "internal",
+        "dermatologist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0rXmCFadMTpwiYQRxaO9t6_41.264900_-95.956596@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"dc4ffb992923f94bc01eb86a5320ebbb",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872525,
+            "region_id":85688563,
+            "venue_id":203125229
+        }
+    ],
+    "wof:id":203125229,
+    "wof:lastmodified":1449026808,
+    "wof:name":"Bewtra Againdra MD",
+    "wof:parent_id":85872525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicine",
+        "internal",
+        "dermatologist"
+    ]
+},
+  "bbox": [-95.956596,41.2649,-95.956596,41.2649],
+  "geometry": {"coordinates":[-95.956596,41.2649],"type":"Point"}
+}

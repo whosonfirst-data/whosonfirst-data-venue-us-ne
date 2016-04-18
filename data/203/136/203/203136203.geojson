@@ -1,0 +1,76 @@
+{
+  "id": 203136203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.023857,41.291191,-96.023857,41.291191",
+    "geom:latitude":41.291191,
+    "geom:longitude":-96.023857,
+    "iso:country":"US",
+    "sg:address":"3633 N 72nd St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 403 0733",
+    "sg:postcode":"68134",
+    "sg:province":"NE",
+    "sg:tags":[
+        "car",
+        "used",
+        "new"
+    ],
+    "sg:website":"http://www.atchleyford.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7MiBTFS1K9X5ubSfXGAKn9_41.291191_-96.023857@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1a5b0822d1b207e5ffd9d1fbfcff33f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872515,
+            "region_id":85688563,
+            "venue_id":203136203
+        }
+    ],
+    "wof:id":203136203,
+    "wof:lastmodified":1449026852,
+    "wof:name":"Atchley Ford Incorporated",
+    "wof:parent_id":85872515,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "used",
+        "new"
+    ]
+},
+  "bbox": [-96.023857,41.291191,-96.023857,41.291191],
+  "geometry": {"coordinates":[-96.023857,41.291191],"type":"Point"}
+}

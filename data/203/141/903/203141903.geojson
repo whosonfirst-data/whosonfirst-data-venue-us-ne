@@ -1,0 +1,90 @@
+{
+  "id": 203141903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.144145,41.151785,-96.144145,41.151785",
+    "geom:latitude":41.151785,
+    "geom:longitude":-96.144145,
+    "iso:country":"US",
+    "sg:address":"14708 Custer Rd Ste 101",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Buildings",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 896 8913",
+    "sg:postcode":"68138",
+    "sg:province":"NE",
+    "sg:tags":[
+        "industrial",
+        "builder",
+        "contractor",
+        "concrete",
+        "contractors-commercial",
+        "staining",
+        "masonry",
+        "mason"
+    ],
+    "sg:website":"http://www.thunnconstruction.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        102082789,
+        85834285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5SFhOgWjX7tNLJNYviHd0v_41.151785_-96.144145@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"63b572c88af95c7e5b12fad3d73c6c6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":-1,
+            "neighbourhood_id":85834285,
+            "region_id":85688563,
+            "venue_id":203141903
+        }
+    ],
+    "wof:id":203141903,
+    "wof:lastmodified":1449025587,
+    "wof:name":"Thunn Construction Inc",
+    "wof:parent_id":85834285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industrial",
+        "builder",
+        "contractor",
+        "concrete",
+        "contractors-commercial",
+        "staining",
+        "masonry",
+        "mason"
+    ]
+},
+  "bbox": [-96.144145,41.151785,-96.144145,41.151785],
+  "geometry": {"coordinates":[-96.144145,41.151785],"type":"Point"}
+}

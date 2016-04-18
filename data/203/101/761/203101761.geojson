@@ -1,0 +1,73 @@
+{
+  "id": 203101761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.163344,41.289454,-96.163344,41.289454",
+    "geom:latitude":41.289454,
+    "geom:longitude":-96.163344,
+    "iso:country":"US",
+    "sg:address":"3505 N 160th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Military Area",
+            "subcategory":"Armory",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 659 9142",
+    "sg:postcode":"68116",
+    "sg:province":"NE",
+    "sg:tags":[
+        "repair",
+        "fence-sales",
+        "fence",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633793,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2lGhkI553qGrAtFUaiV6vA_41.289454_-96.163344@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c892bb57f5b64414773b783264683ee3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203101761
+        }
+    ],
+    "wof:id":203101761,
+    "wof:lastmodified":1449025943,
+    "wof:name":"Usa Fence Company, Inc.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "fence-sales",
+        "fence",
+        "contractor"
+    ]
+},
+  "bbox": [-96.163344,41.289454,-96.163344,41.289454],
+  "geometry": {"coordinates":[-96.163344,41.289454],"type":"Point"}
+}

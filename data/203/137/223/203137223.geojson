@@ -1,0 +1,72 @@
+{
+  "id": 203137223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.061169,41.296684,-96.061169,41.296684",
+    "geom:latitude":41.296684,
+    "geom:longitude":-96.061169,
+    "iso:country":"US",
+    "sg:address":"9514 Ruggles St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 571 4192",
+    "sg:postcode":"68134",
+    "sg:province":"NE",
+    "sg:tags":[
+        "industrial",
+        "electrician",
+        "contractors-commercial",
+        "electric"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85867061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7CbPRdFgqghinrnzGmAkjs_41.296684_-96.061169@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"22effd8eb31e6d82fe0bc400490e633f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85867061,
+            "region_id":85688563,
+            "venue_id":203137223
+        }
+    ],
+    "wof:id":203137223,
+    "wof:lastmodified":1449026599,
+    "wof:name":"Smith Electric Inc",
+    "wof:parent_id":85867061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industrial",
+        "electrician",
+        "contractors-commercial",
+        "electric"
+    ]
+},
+  "bbox": [-96.061169,41.296684,-96.061169,41.296684],
+  "geometry": {"coordinates":[-96.061169,41.296684],"type":"Point"}
+}

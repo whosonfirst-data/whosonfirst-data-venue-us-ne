@@ -1,0 +1,66 @@
+{
+  "id": 203049671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.015323,41.2945,-96.015323,41.2945",
+    "geom:latitude":41.2945,
+    "geom:longitude":-96.015323,
+    "iso:country":"US",
+    "sg:address":"3943 N 67th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Locksmith",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 881 3583",
+    "sg:postcode":"68104",
+    "sg:province":"NE",
+    "sg:tags":[
+        "key"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85805755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2YdEkh1DT2P2zDzUsDwobq_41.294500_-96.015323@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f071c0b84fce43e6375843af894d3dc9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85805755,
+            "region_id":85688563,
+            "venue_id":203049671
+        }
+    ],
+    "wof:id":203049671,
+    "wof:lastmodified":1449025864,
+    "wof:name":"25 Hour A Locksmith",
+    "wof:parent_id":85805755,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "key"
+    ]
+},
+  "bbox": [-96.015323,41.2945,-96.015323,41.2945],
+  "geometry": {"coordinates":[-96.015323,41.2945],"type":"Point"}
+}

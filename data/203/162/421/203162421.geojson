@@ -1,0 +1,71 @@
+{
+  "id": 203162421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.629453,40.565322,-96.629453,40.565322",
+    "geom:latitude":40.565322,
+    "geom:longitude":-96.629453,
+    "iso:country":"US",
+    "sg:address":"25211 S 68th St",
+    "sg:city":"Firth",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 791 0010",
+    "sg:postcode":"68358",
+    "sg:province":"NE",
+    "sg:tags":[
+        "high",
+        "parish",
+        "government-county"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633793,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3hSc8ni7CPZu0ve7AT1Evc_40.565322_-96.629453@1303262943"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d4dbb38851cc188c8a0c28fe6bde7bbd",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203162421
+        }
+    ],
+    "wof:id":203162421,
+    "wof:lastmodified":1449026577,
+    "wof:name":"Norris High School",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "high",
+        "parish",
+        "government-county"
+    ]
+},
+  "bbox": [-96.629453,40.565322,-96.629453,40.565322],
+  "geometry": {"coordinates":[-96.629453,40.565322],"type":"Point"}
+}

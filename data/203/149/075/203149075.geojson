@@ -1,0 +1,83 @@
+{
+  "id": 203149075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.11888,41.262051,-96.11888,41.262051",
+    "geom:latitude":41.262051,
+    "geom:longitude":-96.11888,
+    "iso:country":"US",
+    "sg:address":"13131 W Dodge Rd",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 697 8600",
+    "sg:postcode":"68154",
+    "sg:province":"NE",
+    "sg:tags":[
+        "commercial",
+        "loan",
+        "saving",
+        "mortgage"
+    ],
+    "sg:website":"http://www.pinnbank.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973479,
+        102082789,
+        85806957
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4onoeQ0rYILMRyDBQJMeKw_41.262051_-96.118880@1303262943"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4a57d3fcca7450a57e29fd49be006f32",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973479,
+            "neighbourhood_id":85806957,
+            "region_id":85688563,
+            "venue_id":203149075
+        }
+    ],
+    "wof:id":203149075,
+    "wof:lastmodified":1449024943,
+    "wof:name":"Pinnacle Bank",
+    "wof:parent_id":85806957,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "loan",
+        "saving",
+        "mortgage"
+    ]
+},
+  "bbox": [-96.11888,41.262051,-96.11888,41.262051],
+  "geometry": {"coordinates":[-96.11888,41.262051],"type":"Point"}
+}

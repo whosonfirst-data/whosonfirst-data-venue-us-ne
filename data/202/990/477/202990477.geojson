@@ -1,0 +1,94 @@
+{
+  "id": 202990477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.029138,41.137176,-96.029138,41.137176",
+    "geom:latitude":41.137176,
+    "geom:longitude":-96.029138,
+    "iso:country":"US",
+    "sg:address":"7775 Olson Dr",
+    "sg:city":"Papillion",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Fruits & Vegetables",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 339 1749",
+    "sg:postcode":"68046",
+    "sg:province":"NE",
+    "sg:tags":[
+        "product",
+        "wellness",
+        "vitamin",
+        "diet",
+        "supplement",
+        "health",
+        "herb"
+    ],
+    "sg:website":"http://www.gnc.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974551,
+        102082777
+    ],
+    "wof:brand_id":420573847,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3R8fubQYhxAP5qqpZy8h27_41.137176_-96.029138@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2dd4cd6f751d2e67849c04fda618fff3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974551,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":202990477
+        }
+    ],
+    "wof:id":202990477,
+    "wof:lastmodified":1457207653,
+    "wof:name":"GNC",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "wellness",
+        "vitamin",
+        "diet",
+        "supplement",
+        "health",
+        "herb"
+    ]
+},
+  "bbox": [
+    -96.029138,
+    41.137176,
+    -96.029138,
+    41.137176
+],
+  "geometry": {"coordinates":[-96.029138,41.137176],"type":"Point"}
+}

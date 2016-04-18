@@ -1,0 +1,69 @@
+{
+  "id": 203096299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.974239,41.354148,-95.974239,41.354148",
+    "geom:latitude":41.354148,
+    "geom:longitude":-95.974239,
+    "iso:country":"US",
+    "sg:address":"10405 Calhoun Rd",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 451 9988",
+    "sg:postcode":"68112",
+    "sg:province":"NE",
+    "sg:tags":[
+        "chicken",
+        "wing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633793,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Wbyv3U91MQxVHh7S5Tbhf_41.354148_-95.974239@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"606e03e6ae4129cd407f2425729d2222",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203096299
+        }
+    ],
+    "wof:id":203096299,
+    "wof:lastmodified":1449025531,
+    "wof:name":"Alpine Inn",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chicken",
+        "wing"
+    ]
+},
+  "bbox": [-95.974239,41.354148,-95.974239,41.354148],
+  "geometry": {"coordinates":[-95.974239,41.354148],"type":"Point"}
+}

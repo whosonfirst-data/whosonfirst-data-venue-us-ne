@@ -1,0 +1,62 @@
+{
+  "id": 203132713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.986397,41.263302,-95.986397,41.263302",
+    "geom:latitude":41.263302,
+    "geom:longitude":-95.986397,
+    "iso:country":"US",
+    "sg:address":"4808 Cass St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Library",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 444 5274",
+    "sg:postcode":"68132",
+    "sg:province":"NE",
+    "sg:website":"www.ci.omaha.ne.us",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85867055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4gd9umKxF45hbQyYyblhIm_41.263302_-95.986397@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a89b6f336302fa11fd76c226dd451e80",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85867055,
+            "region_id":85688563,
+            "venue_id":203132713
+        }
+    ],
+    "wof:id":203132713,
+    "wof:lastmodified":1449025845,
+    "wof:name":"Omaha City Offices",
+    "wof:parent_id":85867055,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-95.986397,41.263302,-95.986397,41.263302],
+  "geometry": {"coordinates":[-95.986397,41.263302],"type":"Point"}
+}

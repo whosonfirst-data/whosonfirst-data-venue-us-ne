@@ -1,0 +1,61 @@
+{
+  "id": 203135925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.052689,41.286864,-96.052689,41.286864",
+    "geom:latitude":41.286864,
+    "geom:longitude":-96.052689,
+    "iso:country":"US",
+    "sg:address":"3070 N 90th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 393 8056",
+    "sg:postcode":"68134",
+    "sg:province":"NE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85867061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_30wuriqyQUX9EAxu3w4ypi_41.286864_-96.052689@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"97e3e01b8e6205a7ba668e083b657bfc",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85867061,
+            "region_id":85688563,
+            "venue_id":203135925
+        }
+    ],
+    "wof:id":203135925,
+    "wof:lastmodified":1449025642,
+    "wof:name":"Walgreens",
+    "wof:parent_id":85867061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-96.052689,41.286864,-96.052689,41.286864],
+  "geometry": {"coordinates":[-96.052689,41.286864],"type":"Point"}
+}

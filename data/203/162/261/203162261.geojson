@@ -1,0 +1,60 @@
+{
+  "id": 203162261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.13428,41.080593,-96.13428,41.080593",
+    "geom:latitude":41.080593,
+    "geom:longitude":-96.13428,
+    "iso:country":"US",
+    "sg:address":"205 S 1st St",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 253 2434",
+    "sg:postcode":"68347",
+    "sg:province":"NE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974553,
+        102082777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_486JeH0Y2JMepU55Hoojlj_41.080593_-96.134280@1303262943"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"63ed4537fc6ee94c5d0f06f464b4ebc7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974553,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203162261
+        }
+    ],
+    "wof:id":203162261,
+    "wof:lastmodified":1449026575,
+    "wof:name":"B & B Garage",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-96.13428,41.080593,-96.13428,41.080593],
+  "geometry": {"coordinates":[-96.13428,41.080593],"type":"Point"}
+}

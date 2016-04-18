@@ -1,0 +1,80 @@
+{
+  "id": 203165761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.672253,40.769856,-96.672253,40.769856",
+    "geom:latitude":40.769856,
+    "geom:longitude":-96.672253,
+    "iso:country":"US",
+    "sg:address":"3321 Pioneers Blvd",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Parking",
+            "subcategory":"Bicycle",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 488 2101",
+    "sg:postcode":"68506",
+    "sg:province":"NE",
+    "sg:tags":[
+        "shop",
+        "rack",
+        "security",
+        "system",
+        "bicycles-repair"
+    ],
+    "sg:website":"http://www.bike-rack.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85811821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ZhGGUOGjjhfZ533n4N7VI_40.769856_-96.672253@1303262943"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"bd6a1ae756571af7e15d56756c75b67b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85811821,
+            "region_id":85688563,
+            "venue_id":203165761
+        }
+    ],
+    "wof:id":203165761,
+    "wof:lastmodified":1449026867,
+    "wof:name":"Bike Rack",
+    "wof:parent_id":85811821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "rack",
+        "security",
+        "system",
+        "bicycles-repair"
+    ]
+},
+  "bbox": [-96.672253,40.769856,-96.672253,40.769856],
+  "geometry": {"coordinates":[-96.672253,40.769856],"type":"Point"}
+}

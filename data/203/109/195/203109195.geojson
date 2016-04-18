@@ -1,0 +1,68 @@
+{
+  "id": 203109195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.177053,41.260961,-96.177053,41.260961",
+    "geom:latitude":41.260961,
+    "geom:longitude":-96.177053,
+    "iso:country":"US",
+    "sg:address":"302 N 168th Cir",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 289 5034",
+    "sg:postcode":"68118",
+    "sg:province":"NE",
+    "sg:tags":[
+        "car",
+        "truck"
+    ],
+    "sg:website":"http://clickserve.dartsearch.net/link/click?lid=43000000357775767",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4nchXSt7TBL9kUt0zyUm4Z_41.260961_-96.177053@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"785bae9abc39e10f4152af92dabbdb48",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203109195
+        }
+    ],
+    "wof:id":203109195,
+    "wof:lastmodified":1449025582,
+    "wof:name":"Hertz Rent-A-Car",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "truck"
+    ]
+},
+  "bbox": [-96.177053,41.260961,-96.177053,41.260961],
+  "geometry": {"coordinates":[-96.177053,41.260961],"type":"Point"}
+}

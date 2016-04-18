@@ -1,0 +1,66 @@
+{
+  "id": 203132575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.986099,41.272301,-95.986099,41.272301",
+    "geom:latitude":41.272301,
+    "geom:longitude":-95.986099,
+    "iso:country":"US",
+    "sg:address":"1411 N Saddle Creek Rd",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 553 9771",
+    "sg:postcode":"68132",
+    "sg:province":"NE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85867055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4SqKWEAarTuEY31Mge9okC_41.272301_-95.986099@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c72a270380dd6f822f74eee3cecc3d90",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85867055,
+            "region_id":85688563,
+            "venue_id":203132575
+        }
+    ],
+    "wof:id":203132575,
+    "wof:lastmodified":1449025838,
+    "wof:name":"A-1 Auto",
+    "wof:parent_id":85867055,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-95.986099,41.272301,-95.986099,41.272301],
+  "geometry": {"coordinates":[-95.986099,41.272301],"type":"Point"}
+}

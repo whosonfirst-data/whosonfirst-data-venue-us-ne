@@ -1,0 +1,67 @@
+{
+  "id": 203135351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.023903,41.281473,-96.023903,41.281473",
+    "geom:latitude":41.281473,
+    "geom:longitude":-96.023903,
+    "iso:country":"US",
+    "sg:address":"2506 N 72nd St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Chiropractor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 331 3480",
+    "sg:postcode":"68134",
+    "sg:province":"NE",
+    "sg:tags":[
+        "chiropractic"
+    ],
+    "sg:website":"http://www.brianbrockman.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ozmDrrRPpkTrIv5smksnn_41.281473_-96.023903@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c1cc12a51d6d5dd29ab0294ce5d73ec8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872507,
+            "region_id":85688563,
+            "venue_id":203135351
+        }
+    ],
+    "wof:id":203135351,
+    "wof:lastmodified":1449025647,
+    "wof:name":"Brian J Brockman",
+    "wof:parent_id":85872507,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chiropractic"
+    ]
+},
+  "bbox": [-96.023903,41.281473,-96.023903,41.281473],
+  "geometry": {"coordinates":[-96.023903,41.281473],"type":"Point"}
+}

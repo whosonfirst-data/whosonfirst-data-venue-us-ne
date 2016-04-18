@@ -1,0 +1,77 @@
+{
+  "id": 203097327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.062186,41.267025,-96.062186,41.267025",
+    "geom:latitude":41.267025,
+    "geom:longitude":-96.062186,
+    "iso:country":"US",
+    "sg:address":"909 N 96th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 330 4555",
+    "sg:postcode":"68114",
+    "sg:province":"NE",
+    "sg:tags":[
+        "physician",
+        "family",
+        "practice",
+        "surgeons",
+        "medicine",
+        "dermatology"
+    ],
+    "sg:website":"http://www.omahaderm.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85867061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2mk62oYypKc2uuIdOtUUOn_41.267025_-96.062186@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"92cc3b07902bf21d9e11d03a5918223c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85867061,
+            "region_id":85688563,
+            "venue_id":203097327
+        }
+    ],
+    "wof:id":203097327,
+    "wof:lastmodified":1449025657,
+    "wof:name":"Dermatology Specialists of Omaha, LLC",
+    "wof:parent_id":85867061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "family",
+        "practice",
+        "surgeons",
+        "medicine",
+        "dermatology"
+    ]
+},
+  "bbox": [-96.062186,41.267025,-96.062186,41.267025],
+  "geometry": {"coordinates":[-96.062186,41.267025],"type":"Point"}
+}

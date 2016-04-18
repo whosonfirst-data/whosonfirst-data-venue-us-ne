@@ -1,0 +1,66 @@
+{
+  "id": 203127973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.947403,41.268101,-95.947403,41.268101",
+    "geom:latitude":41.268101,
+    "geom:longitude":-95.947403,
+    "iso:country":"US",
+    "sg:address":"2420 Cuming St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 342 2288",
+    "sg:postcode":"68131",
+    "sg:province":"NE",
+    "sg:tags":[
+        "chinese"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4XjbxkgHPGhm6iZJejJzTj_41.268101_-95.947403@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"903f22e2a7c1d8845b16568e3d79f721",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872525,
+            "region_id":85688563,
+            "venue_id":203127973
+        }
+    ],
+    "wof:id":203127973,
+    "wof:lastmodified":1449026707,
+    "wof:name":"China Taste",
+    "wof:parent_id":85872525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chinese"
+    ]
+},
+  "bbox": [-95.947403,41.268101,-95.947403,41.268101],
+  "geometry": {"coordinates":[-95.947403,41.268101],"type":"Point"}
+}

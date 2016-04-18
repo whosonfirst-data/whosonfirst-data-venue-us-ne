@@ -1,0 +1,70 @@
+{
+  "id": 203094973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.964996,41.323002,-95.964996,41.323002",
+    "geom:latitude":41.323002,
+    "geom:longitude":-95.964996,
+    "iso:country":"US",
+    "sg:address":"7226 N 35th Cir",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Computers",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 455 3400",
+    "sg:postcode":"68112",
+    "sg:province":"NE",
+    "sg:tags":[
+        "repair"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7TRREi84MfLRSQsTBhWXiJ_41.323002_-95.964996@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9fde1d04ead9e653f1719b574abd35d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203094973
+        }
+    ],
+    "wof:id":203094973,
+    "wof:lastmodified":1449026146,
+    "wof:name":"Friendly Mobile",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair"
+    ]
+},
+  "bbox": [-95.964996,41.323002,-95.964996,41.323002],
+  "geometry": {"coordinates":[-95.964996,41.323002],"type":"Point"}
+}

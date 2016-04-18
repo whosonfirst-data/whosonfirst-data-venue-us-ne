@@ -1,0 +1,67 @@
+{
+  "id": 203077401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.942703,41.230099,-95.942703,41.230099",
+    "geom:latitude":41.230099,
+    "geom:longitude":-95.942703,
+    "iso:country":"US",
+    "sg:address":"2025 Vinton St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 345 6197",
+    "sg:postcode":"68108",
+    "sg:province":"NE",
+    "sg:tags":[
+        "body",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7f8e8MKDOgItmB5NT8vxKn_41.230099_-95.942703@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d1149cac48f49fdc2d2aedacea524ad3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203077401
+        }
+    ],
+    "wof:id":203077401,
+    "wof:lastmodified":1449025236,
+    "wof:name":"J & C Auto Body Repair",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "shop"
+    ]
+},
+  "bbox": [-95.942703,41.230099,-95.942703,41.230099],
+  "geometry": {"coordinates":[-95.942703,41.230099],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 203168669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.682111,40.84605,-96.682111,40.84605",
+    "geom:latitude":40.84605,
+    "geom:longitude":-96.682111,
+    "iso:country":"US",
+    "sg:address":"3410 N 27th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 473 6464",
+    "sg:postcode":"68521",
+    "sg:province":"NE",
+    "sg:tags":[
+        "commercial",
+        "loan",
+        "saving",
+        "mortgage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6TvFcwIMNfLiBLhDgeTm6F_40.846050_-96.682111@1303262943"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b795fa6ca99cb38454558211eee0a16f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878691,
+            "region_id":85688563,
+            "venue_id":203168669
+        }
+    ],
+    "wof:id":203168669,
+    "wof:lastmodified":1449025926,
+    "wof:name":"Great Western Bank",
+    "wof:parent_id":85878691,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "loan",
+        "saving",
+        "mortgage"
+    ]
+},
+  "bbox": [-96.682111,40.84605,-96.682111,40.84605],
+  "geometry": {"coordinates":[-96.682111,40.84605],"type":"Point"}
+}

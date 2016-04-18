@@ -1,0 +1,86 @@
+{
+  "id": 203116123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.031918,41.200267,-96.031918,41.200267",
+    "geom:latitude":41.200267,
+    "geom:longitude":-96.031918,
+    "iso:country":"US",
+    "sg:address":"5750 S 77th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Music School",
+            "type":"Public Place"
+        },
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Music",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Musical Instruments",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 592 5655",
+    "sg:postcode":"68127",
+    "sg:province":"NE",
+    "sg:tags":[
+        "guitar",
+        "instruments-repair",
+        "amplifier",
+        "instruction-instrumental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973487,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Z6U8fGugElUP301U04Q9g_41.200267_-96.031918@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8d76c52909a443654bad545f6854f506",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973487,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203116123
+        }
+    ],
+    "wof:id":203116123,
+    "wof:lastmodified":1449025211,
+    "wof:name":"The Horn Works",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "guitar",
+        "instruments-repair",
+        "amplifier",
+        "instruction-instrumental"
+    ]
+},
+  "bbox": [-96.031918,41.200267,-96.031918,41.200267],
+  "geometry": {"coordinates":[-96.031918,41.200267],"type":"Point"}
+}

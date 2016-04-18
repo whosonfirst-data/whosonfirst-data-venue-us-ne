@@ -1,0 +1,60 @@
+{
+  "id": 203133201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.989059,41.265071,-95.989059,41.265071",
+    "geom:latitude":41.265071,
+    "geom:longitude":-95.989059,
+    "iso:country":"US",
+    "sg:address":"4949 Underwood Ave",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"68132",
+    "sg:province":"NE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85867055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3RKY7nvL5l6e6g06ZBTP0n_41.265071_-95.989059@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"39afc28918577f8aa9fea92efb82ed9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85867055,
+            "region_id":85688563,
+            "venue_id":203133201
+        }
+    ],
+    "wof:id":203133201,
+    "wof:lastmodified":1449026517,
+    "wof:name":"Beer and Loathing in Dundee",
+    "wof:parent_id":85867055,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-95.989059,41.265071,-95.989059,41.265071],
+  "geometry": {"coordinates":[-95.989059,41.265071],"type":"Point"}
+}

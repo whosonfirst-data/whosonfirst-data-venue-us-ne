@@ -1,0 +1,67 @@
+{
+  "id": 203064447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.947205,41.220581,-95.947205,41.220581",
+    "geom:latitude":41.220581,
+    "geom:longitude":-95.947205,
+    "iso:country":"US",
+    "sg:address":"4030 S 24th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 734 0898",
+    "sg:postcode":"68107",
+    "sg:province":"NE",
+    "sg:tags":[
+        "seafood",
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4RFhPHCmK8IhFOV4HodQ6o_41.220581_-95.947205@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"cc828731407e6814813f74c97b68e1f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203064447
+        }
+    ],
+    "wof:id":203064447,
+    "wof:lastmodified":1449025594,
+    "wof:name":"Puerto Nuevo",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "seafood",
+        "mexican"
+    ]
+},
+  "bbox": [-95.947205,41.220581,-95.947205,41.220581],
+  "geometry": {"coordinates":[-95.947205,41.220581],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 203065009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.9487,41.213299,-95.9487,41.213299",
+    "geom:latitude":41.213299,
+    "geom:longitude":-95.9487,
+    "iso:country":"US",
+    "sg:address":"4608 S 25th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 731 1944",
+    "sg:postcode":"68107",
+    "sg:province":"NE",
+    "sg:tags":[
+        "therapy",
+        "physical"
+    ],
+    "sg:website":"www.excelpt.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4lsxf5ndJ58gKIJ15YZBBX_41.213299_-95.948700@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8d960f652a108b774a652bb0356c211f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203065009
+        }
+    ],
+    "wof:id":203065009,
+    "wof:lastmodified":1449026860,
+    "wof:name":"Excel Physical Therapy",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapy",
+        "physical"
+    ]
+},
+  "bbox": [-95.9487,41.213299,-95.9487,41.213299],
+  "geometry": {"coordinates":[-95.9487,41.213299],"type":"Point"}
+}

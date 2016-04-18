@@ -1,0 +1,94 @@
+{
+  "id": 203046213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.022347,41.309899,-96.022347,41.309899",
+    "geom:latitude":41.309899,
+    "geom:longitude":-96.022347,
+    "iso:country":"US",
+    "sg:address":"5655 N 71st St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"Boat Charter",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        },
+        {
+            "category":"Structure",
+            "subcategory":"Warehouse",
+            "type":"Public Place"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Storage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 571 3068",
+    "sg:postcode":"68104",
+    "sg:province":"NE",
+    "sg:tags":[
+        "moving-self",
+        "yard",
+        "warehouses-public-commercial",
+        "household",
+        "commercial",
+        "truck",
+        "self"
+    ],
+    "sg:website":"http://www.uhaul.com/Locations/Rentals-near-Omaha-NE-68104/053626",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85805755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2hbvXSA0Ox8coUDv6yOztz_41.309899_-96.022347@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"18f9858772691e49018665131e187262",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85805755,
+            "region_id":85688563,
+            "venue_id":203046213
+        }
+    ],
+    "wof:id":203046213,
+    "wof:lastmodified":1449025996,
+    "wof:name":"U-Haul Neighborhood Dealer - Armor Storage Hartman",
+    "wof:parent_id":85805755,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "moving-self",
+        "yard",
+        "warehouses-public-commercial",
+        "household",
+        "commercial",
+        "truck",
+        "self"
+    ]
+},
+  "bbox": [-96.022347,41.309899,-96.022347,41.309899],
+  "geometry": {"coordinates":[-96.022347,41.309899],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 203014897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.932197,41.255694,-95.932197,41.255694",
+    "geom:latitude":41.255694,
+    "geom:longitude":-95.932197,
+    "iso:country":"US",
+    "sg:address":"1202 Howard Street",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 955 1485",
+    "sg:postcode":"68102",
+    "sg:province":"NE",
+    "sg:tags":[
+        "traditional",
+        "american",
+        "sandwich",
+        "brunch",
+        "breakfast"
+    ],
+    "sg:website":"www.wheatfieldscatering.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Z4UfQo3q4YMF2Re5HWrgf_41.255694_-95.932197@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"418d5b60d42d049bd1d03a10f56ae701",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203014897
+        }
+    ],
+    "wof:id":203014897,
+    "wof:lastmodified":1449025851,
+    "wof:name":"WheatFields Express",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "traditional",
+        "american",
+        "sandwich",
+        "brunch",
+        "breakfast"
+    ]
+},
+  "bbox": [-95.932197,41.255694,-95.932197,41.255694],
+  "geometry": {"coordinates":[-95.932197,41.255694],"type":"Point"}
+}

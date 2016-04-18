@@ -1,0 +1,91 @@
+{
+  "id": 203151045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.083818,41.287623,-96.083818,41.287623",
+    "geom:latitude":41.287623,
+    "geom:longitude":-96.083818,
+    "iso:country":"US",
+    "sg:address":"10909 W Maple Rd",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Hobbies, Toys, & Games",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"Champagne Bar",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"Sports Bar",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 397 0694",
+    "sg:postcode":"68164",
+    "sg:province":"NE",
+    "sg:tags":[
+        "toy",
+        "supply",
+        "fixture",
+        "equipment",
+        "billiard",
+        "pool",
+        "hall",
+        "store"
+    ],
+    "sg:website":"http://www.alkarbilliards.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7hK5QNUrkiOkep6FPW8md2_41.287623_-96.083818@1303262943"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0e61ed6674c0669c3eeee8e47a6c1b1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872503,
+            "region_id":85688563,
+            "venue_id":203151045
+        }
+    ],
+    "wof:id":203151045,
+    "wof:lastmodified":1449024958,
+    "wof:name":"Alkar Billiards & Bar Stools",
+    "wof:parent_id":85872503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "toy",
+        "supply",
+        "fixture",
+        "equipment",
+        "billiard",
+        "pool",
+        "hall",
+        "store"
+    ]
+},
+  "bbox": [-96.083818,41.287623,-96.083818,41.287623],
+  "geometry": {"coordinates":[-96.083818,41.287623],"type":"Point"}
+}

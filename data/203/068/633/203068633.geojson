@@ -1,0 +1,70 @@
+{
+  "id": 203068633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.96128,41.214523,-95.96128,41.214523",
+    "geom:latitude":41.214523,
+    "geom:longitude":-95.96128,
+    "iso:country":"US",
+    "sg:address":"4513 S 32nd St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Place Of Worship",
+            "subcategory":"Church",
+            "type":"Public Place"
+        },
+        {
+            "category":"Place Of Worship",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 731 0204",
+    "sg:postcode":"68107",
+    "sg:province":"NE",
+    "sg:tags":[
+        "churches-catholic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2U4kt9IBh0zcvMyjNBa86c_41.214523_-95.961280@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"df52a73a2e6ffb0a581cb7187324e3a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203068633
+        }
+    ],
+    "wof:id":203068633,
+    "wof:lastmodified":1449025906,
+    "wof:name":"St Francis Assisi Church",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "churches-catholic"
+    ]
+},
+  "bbox": [-95.96128,41.214523,-95.96128,41.214523],
+  "geometry": {"coordinates":[-95.96128,41.214523],"type":"Point"}
+}

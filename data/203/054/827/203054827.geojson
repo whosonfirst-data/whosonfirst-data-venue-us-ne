@@ -1,0 +1,67 @@
+{
+  "id": 203054827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.9757,41.229599,-95.9757,41.229599",
+    "geom:latitude":41.229599,
+    "geom:longitude":-95.9757,
+    "iso:country":"US",
+    "sg:address":"3225 S 42nd St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 552 7500",
+    "sg:postcode":"68105",
+    "sg:province":"NE",
+    "sg:website":"www.usbank.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789
+    ],
+    "wof:brand_id":420575361,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0lQR9cqXMHjwvdWWLhrTN2_41.229599_-95.975700@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"85f21284e697a06cf648d5803b046e19",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203054827
+        }
+    ],
+    "wof:id":203054827,
+    "wof:lastmodified":1457209550,
+    "wof:name":"U S Bank",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -95.9757,
+    41.229599,
+    -95.9757,
+    41.229599
+],
+  "geometry": {"coordinates":[-95.9757,41.229599],"type":"Point"}
+}

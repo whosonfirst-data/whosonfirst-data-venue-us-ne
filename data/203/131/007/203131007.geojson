@@ -1,0 +1,66 @@
+{
+  "id": 203131007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.010696,41.262001,-96.010696,41.262001",
+    "geom:latitude":41.262001,
+    "geom:longitude":-96.010696,
+    "iso:country":"US",
+    "sg:address":"7070 Capitol Ct Apt 601",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 733 5570",
+    "sg:postcode":"68132",
+    "sg:province":"NE",
+    "sg:tags":[
+        "home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_021yPzgypQlAx4elPRvFvH_41.262001_-96.010696@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2a07c9843264310a616dbe33d71ed74d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872507,
+            "region_id":85688563,
+            "venue_id":203131007
+        }
+    ],
+    "wof:id":203131007,
+    "wof:lastmodified":1449025481,
+    "wof:name":"Daisy Fresh",
+    "wof:parent_id":85872507,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home"
+    ]
+},
+  "bbox": [-96.010696,41.262001,-96.010696,41.262001],
+  "geometry": {"coordinates":[-96.010696,41.262001],"type":"Point"}
+}

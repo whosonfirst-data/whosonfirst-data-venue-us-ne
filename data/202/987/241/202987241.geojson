@@ -1,0 +1,75 @@
+{
+  "id": 202987241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.237906,41.146904,-96.237906,41.146904",
+    "geom:latitude":41.146904,
+    "geom:longitude":-96.237906,
+    "iso:country":"US",
+    "sg:address":"20635 Highway 370",
+    "sg:city":"Gretna",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 332 3377",
+    "sg:postcode":"68028",
+    "sg:province":"NE",
+    "sg:tags":[
+        "saving",
+        "loan",
+        "commercial"
+    ],
+    "sg:website":"http://www.americannationalbank.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        102082789,
+        85834285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5PdlgfvGDqoeDQ2AMOzVyj_41.146904_-96.237906@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"518b61b3a770f8c4a0d4315bb63a14d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":-1,
+            "neighbourhood_id":85834285,
+            "region_id":85688563,
+            "venue_id":202987241
+        }
+    ],
+    "wof:id":202987241,
+    "wof:lastmodified":1449061524,
+    "wof:name":"American National Bank",
+    "wof:parent_id":85834285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "saving",
+        "loan",
+        "commercial"
+    ]
+},
+  "bbox": [-96.237906,41.146904,-96.237906,41.146904],
+  "geometry": {"coordinates":[-96.237906,41.146904],"type":"Point"}
+}

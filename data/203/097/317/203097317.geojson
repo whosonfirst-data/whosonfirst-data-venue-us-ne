@@ -1,0 +1,84 @@
+{
+  "id": 203097317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.02388,41.26086,-96.02388,41.26086",
+    "geom:latitude":41.26086,
+    "geom:longitude":-96.02388,
+    "iso:country":"US",
+    "sg:address":"119 N 72nd St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Carpets & Floor Coverings",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Construction Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Home Furnishings",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 553 3474",
+    "sg:postcode":"68114",
+    "sg:province":"NE",
+    "sg:tags":[
+        "mattresses-wholesale",
+        "makers'",
+        "mattress",
+        "manufacturer",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3faiqBoeTZdTrVMHNqyq8l_41.260860_-96.023880@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"58c5fdd5a554efe0e54eee384beef515",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872507,
+            "region_id":85688563,
+            "venue_id":203097317
+        }
+    ],
+    "wof:id":203097317,
+    "wof:lastmodified":1449025657,
+    "wof:name":"Denver Mattress Co",
+    "wof:parent_id":85872507,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mattresses-wholesale",
+        "makers'",
+        "mattress",
+        "manufacturer",
+        "supply"
+    ]
+},
+  "bbox": [-96.02388,41.26086,-96.02388,41.26086],
+  "geometry": {"coordinates":[-96.02388,41.26086],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 203145625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.138968,41.233795,-96.138968,41.233795",
+    "geom:latitude":41.233795,
+    "geom:longitude":-96.138968,
+    "iso:country":"US",
+    "sg:address":"14445 W Center Rd",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Optical Goods",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Optician",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Optometrist",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 333 7462",
+    "sg:postcode":"68144",
+    "sg:province":"NE",
+    "sg:tags":[
+        "lens",
+        "contact"
+    ],
+    "sg:website":"http://www.shopko.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4KxaLk0rYSTKqq2n3GCzpo_41.233795_-96.138968@1303262943"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4b02d5d75b15c5bbdcbe0f381643bca8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203145625
+        }
+    ],
+    "wof:id":203145625,
+    "wof:lastmodified":1449025491,
+    "wof:name":"Shopko Eyecare Center",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lens",
+        "contact"
+    ]
+},
+  "bbox": [-96.138968,41.233795,-96.138968,41.233795],
+  "geometry": {"coordinates":[-96.138968,41.233795],"type":"Point"}
+}

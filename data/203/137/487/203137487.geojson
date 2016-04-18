@@ -1,0 +1,84 @@
+{
+  "id": 203137487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.023898,41.282888,-96.023898,41.282888",
+    "geom:latitude":41.282888,
+    "geom:longitude":-96.023898,
+    "iso:country":"US",
+    "sg:address":"2622 N 72nd St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Painting Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Building Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 397 0441",
+    "sg:postcode":"68134",
+    "sg:province":"NE",
+    "sg:tags":[
+        "paint",
+        "wallpaper",
+        "wallcoverings",
+        "painter",
+        "equipment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5bnRxYYbqETiRBJVdmTQRr_41.282888_-96.023898@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7ce63c7e9df9cc67489736c0c52d0c6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872507,
+            "region_id":85688563,
+            "venue_id":203137487
+        }
+    ],
+    "wof:id":203137487,
+    "wof:lastmodified":1449026598,
+    "wof:name":"Werner Paint Company",
+    "wof:parent_id":85872507,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paint",
+        "wallpaper",
+        "wallcoverings",
+        "painter",
+        "equipment"
+    ]
+},
+  "bbox": [-96.023898,41.282888,-96.023898,41.282888],
+  "geometry": {"coordinates":[-96.023898,41.282888],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 203098099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.033079,41.26329,-96.033079,41.26329",
+    "geom:latitude":41.26329,
+    "geom:longitude":-96.033079,
+    "iso:country":"US",
+    "sg:address":"7613 Cass St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 391 1224",
+    "sg:postcode":"68114",
+    "sg:province":"NE",
+    "sg:tags":[
+        "financing",
+        "loan"
+    ],
+    "sg:website":"http://citi.bridgetrack.com/citifi/_redir.htm?BTData=302177C736961705A55424AB8BEBEABA298948493FBFBF6E9EAC5C2DECE67BE2&BT_TRF=10467&RedirectID=YLLWPGS_US_CTGRY_TRD_LNK_FNCL_SRVCS_CPC&creativeID=YP_Link",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3NzZjelWRBPvr7SdWDnxBu_41.263290_-96.033079@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d80ec02425ee49b1209b4ce74c4beff2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872509,
+            "region_id":85688563,
+            "venue_id":203098099
+        }
+    ],
+    "wof:id":203098099,
+    "wof:lastmodified":1449026669,
+    "wof:name":"CitiFinancial",
+    "wof:parent_id":85872509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "financing",
+        "loan"
+    ]
+},
+  "bbox": [-96.033079,41.26329,-96.033079,41.26329],
+  "geometry": {"coordinates":[-96.033079,41.26329],"type":"Point"}
+}

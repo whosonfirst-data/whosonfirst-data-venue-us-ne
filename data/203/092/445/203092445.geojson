@@ -1,0 +1,70 @@
+{
+  "id": 203092445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.956703,41.286999,-95.956703,41.286999",
+    "geom:latitude":41.286999,
+    "geom:longitude":-95.956703,
+    "iso:country":"US",
+    "sg:address":"3113 N 30th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 457 4411",
+    "sg:postcode":"68111",
+    "sg:province":"NE",
+    "sg:tags":[
+        "beer",
+        "spirit",
+        "wine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4WTDnLIYYVB3oUMyac4NjK_41.286999_-95.956703@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8721a90c6834fe78f6b5252f8d9d0fa2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872525,
+            "region_id":85688563,
+            "venue_id":203092445
+        }
+    ],
+    "wof:id":203092445,
+    "wof:lastmodified":1449026479,
+    "wof:name":"Dailey's Package Liquor",
+    "wof:parent_id":85872525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beer",
+        "spirit",
+        "wine"
+    ]
+},
+  "bbox": [-95.956703,41.286999,-95.956703,41.286999],
+  "geometry": {"coordinates":[-95.956703,41.286999],"type":"Point"}
+}

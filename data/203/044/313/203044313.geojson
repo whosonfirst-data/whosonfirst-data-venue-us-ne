@@ -1,0 +1,62 @@
+{
+  "id": 203044313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.005185,41.308071,-96.005185,41.308071",
+    "geom:latitude":41.308071,
+    "geom:longitude":-96.005185,
+    "iso:country":"US",
+    "sg:address":"6025 Ogden St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 933 1100",
+    "sg:postcode":"68104",
+    "sg:province":"NE",
+    "sg:website":"http://www.community-alliance.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85805755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_34Qh6SPXWKHCZO4o8cXDu0_41.308071_-96.005185@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ae1aff159c20fb06e27a19b19e459d8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85805755,
+            "region_id":85688563,
+            "venue_id":203044313
+        }
+    ],
+    "wof:id":203044313,
+    "wof:lastmodified":1449025922,
+    "wof:name":"Community Alliance Inc",
+    "wof:parent_id":85805755,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-96.005185,41.308071,-96.005185,41.308071],
+  "geometry": {"coordinates":[-96.005185,41.308071],"type":"Point"}
+}

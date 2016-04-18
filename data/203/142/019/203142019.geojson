@@ -1,0 +1,95 @@
+{
+  "id": 203142019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.127019,41.160518,-96.127019,41.160518",
+    "geom:latitude":41.160518,
+    "geom:longitude":-96.127019,
+    "iso:country":"US",
+    "sg:address":"9931 S 136th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Building Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Hardware",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 592 0922",
+    "sg:postcode":"68138",
+    "sg:province":"NE",
+    "sg:tags":[
+        "product",
+        "supply",
+        "contractor",
+        "concrete",
+        "staining",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        102082789,
+        85834285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0GJMnOucYi6MMyny2rFGpJ_41.160518_-96.127019@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0e4166d0f0e2593aab16dc7f14e2b471",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":-1,
+            "neighbourhood_id":85834285,
+            "region_id":85688563,
+            "venue_id":203142019
+        }
+    ],
+    "wof:id":203142019,
+    "wof:lastmodified":1449026454,
+    "wof:name":"Tritex Icf Products Inc",
+    "wof:parent_id":85834285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "supply",
+        "contractor",
+        "concrete",
+        "staining",
+        "store"
+    ]
+},
+  "bbox": [-96.127019,41.160518,-96.127019,41.160518],
+  "geometry": {"coordinates":[-96.127019,41.160518],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 203165951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.625053,40.797547,-96.625053,40.797547",
+    "geom:latitude":40.797547,
+    "geom:longitude":-96.625053,
+    "iso:country":"US",
+    "sg:address":"1500 S 70th St Ste 102",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 483 6556",
+    "sg:postcode":"68506",
+    "sg:province":"NE",
+    "sg:tags":[
+        "counseling",
+        "attorney",
+        "law",
+        "debt",
+        "bankruptcy"
+    ],
+    "sg:website":"http://www.delairanddelair.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4PW0bi6TS2LzFTxQe6otj1_40.797547_-96.625053@1303262943"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f33ee0636dcb7eeab0664be602bfd793",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878703,
+            "region_id":85688563,
+            "venue_id":203165951
+        }
+    ],
+    "wof:id":203165951,
+    "wof:lastmodified":1449026866,
+    "wof:name":"DeLair & DeLair",
+    "wof:parent_id":85878703,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "counseling",
+        "attorney",
+        "law",
+        "debt",
+        "bankruptcy"
+    ]
+},
+  "bbox": [-96.625053,40.797547,-96.625053,40.797547],
+  "geometry": {"coordinates":[-96.625053,40.797547],"type":"Point"}
+}

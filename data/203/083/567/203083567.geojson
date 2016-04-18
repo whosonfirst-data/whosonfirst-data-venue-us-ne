@@ -1,0 +1,71 @@
+{
+  "id": 203083567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.9468,41.298801,-95.9468,41.298801",
+    "geom:latitude":41.298801,
+    "geom:longitude":-95.9468,
+    "iso:country":"US",
+    "sg:address":"4414 N 24th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 451 5076",
+    "sg:postcode":"68110",
+    "sg:province":"NE",
+    "sg:tags":[
+        "house",
+        "steak",
+        "barbeque",
+        "barbecue"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5WRiQ3EHfPLLy0xKpSXlU9_41.298801_-95.946800@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"37cc12b6a391bb00e1c20d08eca8b954",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203083567
+        }
+    ],
+    "wof:id":203083567,
+    "wof:lastmodified":1449025819,
+    "wof:name":"Bill's Bbq",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "steak",
+        "barbeque",
+        "barbecue"
+    ]
+},
+  "bbox": [-95.9468,41.298801,-95.9468,41.298801],
+  "geometry": {"coordinates":[-95.9468,41.298801],"type":"Point"}
+}

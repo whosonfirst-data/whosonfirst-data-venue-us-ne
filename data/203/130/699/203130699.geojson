@@ -1,0 +1,70 @@
+{
+  "id": 203130699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.983009,41.259572,-95.983009,41.259572",
+    "geom:latitude":41.259572,
+    "geom:longitude":-95.983009,
+    "iso:country":"US",
+    "sg:address":"4623 Dodge St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 556 1100",
+    "sg:postcode":"68132",
+    "sg:province":"NE",
+    "sg:tags":[
+        "air",
+        "heating",
+        "conditioning/hvac"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85867055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_43CwiearSbrbXRaR3xAD1w_41.259572_-95.983009@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1299b51d536c70a031ba644e28f990ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85867055,
+            "region_id":85688563,
+            "venue_id":203130699
+        }
+    ],
+    "wof:id":203130699,
+    "wof:lastmodified":1449025567,
+    "wof:name":"Expert Heating and Air Conditioning",
+    "wof:parent_id":85867055,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "air",
+        "heating",
+        "conditioning/hvac"
+    ]
+},
+  "bbox": [-95.983009,41.259572,-95.983009,41.259572],
+  "geometry": {"coordinates":[-95.983009,41.259572],"type":"Point"}
+}

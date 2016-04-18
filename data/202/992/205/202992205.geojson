@@ -1,0 +1,77 @@
+{
+  "id": 202992205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.881458,41.011166,-95.881458,41.011166",
+    "geom:latitude":41.011166,
+    "geom:longitude":-95.881458,
+    "iso:country":"US",
+    "sg:address":"336 Main St",
+    "sg:city":"Plattsmouth",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 296 3311",
+    "sg:postcode":"68048",
+    "sg:province":"NE",
+    "sg:tags":[
+        "department",
+        "township",
+        "government-city",
+        "village"
+    ],
+    "sg:website":"http://www.cassne.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974349,
+        102082791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5RLfOsEORuvQ38f8395qko_41.011166_-95.881458@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3e4dacebb891c3c913453423289c1b8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082791,
+            "locality_id":85974349,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":202992205
+        }
+    ],
+    "wof:id":202992205,
+    "wof:lastmodified":1449061318,
+    "wof:name":"Nebraska Law Enforcement",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department",
+        "township",
+        "government-city",
+        "village"
+    ]
+},
+  "bbox": [-95.881458,41.011166,-95.881458,41.011166],
+  "geometry": {"coordinates":[-95.881458,41.011166],"type":"Point"}
+}

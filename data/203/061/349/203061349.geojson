@@ -1,0 +1,66 @@
+{
+  "id": 203061349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.007004,41.2313,-96.007004,41.2313",
+    "geom:latitude":41.2313,
+    "geom:longitude":-96.007004,
+    "iso:country":"US",
+    "sg:address":"3125 S 61st Ave",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Optician",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 558 3000",
+    "sg:postcode":"68106",
+    "sg:province":"NE",
+    "sg:tags":[
+        "eyewear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85867059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1A6lrKNFdPgVaEL5oSMaAW_41.231300_-96.007004@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"57aacd362db23588c3526b57d759db0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85867059,
+            "region_id":85688563,
+            "venue_id":203061349
+        }
+    ],
+    "wof:id":203061349,
+    "wof:lastmodified":1449026338,
+    "wof:name":"Innovision",
+    "wof:parent_id":85867059,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eyewear"
+    ]
+},
+  "bbox": [-96.007004,41.2313,-96.007004,41.2313],
+  "geometry": {"coordinates":[-96.007004,41.2313],"type":"Point"}
+}

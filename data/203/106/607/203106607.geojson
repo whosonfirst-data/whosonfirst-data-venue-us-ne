@@ -1,0 +1,88 @@
+{
+  "id": 203106607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.990723,41.212521,-95.990723,41.212521",
+    "geom:latitude":41.212521,
+    "geom:longitude":-95.990723,
+    "iso:country":"US",
+    "sg:address":"5000 L St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Art Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 731 7214",
+    "sg:postcode":"68117",
+    "sg:province":"NE",
+    "sg:tags":[
+        "photographers-portrait",
+        "videography",
+        "darkroom",
+        "rental",
+        "photography",
+        "wedding",
+        "photographic"
+    ],
+    "sg:website":"http://www.olanmills.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_11Aw7VWesB29g8Ot8SP27s_41.212521_-95.990723@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"cfec5e70509eab57aa082cc87f283b6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203106607
+        }
+    ],
+    "wof:id":203106607,
+    "wof:lastmodified":1449024915,
+    "wof:name":"Olan Mills",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photographers-portrait",
+        "videography",
+        "darkroom",
+        "rental",
+        "photography",
+        "wedding",
+        "photographic"
+    ]
+},
+  "bbox": [-95.990723,41.212521,-95.990723,41.212521],
+  "geometry": {"coordinates":[-95.990723,41.212521],"type":"Point"}
+}

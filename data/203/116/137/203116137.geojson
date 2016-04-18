@@ -1,0 +1,67 @@
+{
+  "id": 203116137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.048113,41.215156,-96.048113,41.215156",
+    "geom:latitude":41.215156,
+    "geom:longitude":-96.048113,
+    "iso:country":"US",
+    "sg:address":"4523 S 88th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Military Area",
+            "subcategory":"Coast Guard Base",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 935 0300",
+    "sg:postcode":"68127",
+    "sg:province":"NE",
+    "sg:tags":[
+        "meter"
+    ],
+    "sg:website":"http://www.htmsales.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872511
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3iDSKFh2UgwL4jKeMn0ELM_41.215156_-96.048113@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b9f6086b166d3dbc04a96e8e4ebbd465",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872511,
+            "region_id":85688563,
+            "venue_id":203116137
+        }
+    ],
+    "wof:id":203116137,
+    "wof:lastmodified":1449025212,
+    "wof:name":"Htm Sales Inc",
+    "wof:parent_id":85872511,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "meter"
+    ]
+},
+  "bbox": [-96.048113,41.215156,-96.048113,41.215156],
+  "geometry": {"coordinates":[-96.048113,41.215156],"type":"Point"}
+}

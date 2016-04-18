@@ -1,0 +1,65 @@
+{
+  "id": 203138503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.196797,41.203623,-96.196797,41.203623",
+    "geom:latitude":41.203623,
+    "geom:longitude":-96.196797,
+    "iso:country":"US",
+    "sg:address":"18021 R Plz Suite 1",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Dentist",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 866 969 5921",
+    "sg:postcode":"68135",
+    "sg:province":"NE",
+    "sg:tags":[
+        "dentists-cosmetic",
+        "dentistry"
+    ],
+    "sg:website":"http://www.belcherfamilydentistry.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633793,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_17KtVEdTDxcyrZM3uuRh12_41.203623_-96.196797@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"cf56d47cbca16074078ef763090e0f98",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203138503
+        }
+    ],
+    "wof:id":203138503,
+    "wof:lastmodified":1449025455,
+    "wof:name":"Belcher Family Dentistry",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentists-cosmetic",
+        "dentistry"
+    ]
+},
+  "bbox": [-96.196797,41.203623,-96.196797,41.203623],
+  "geometry": {"coordinates":[-96.196797,41.203623],"type":"Point"}
+}

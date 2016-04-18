@@ -1,0 +1,70 @@
+{
+  "id": 203140869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.1196,41.21942,-96.1196,41.21942",
+    "geom:latitude":41.21942,
+    "geom:longitude":-96.1196,
+    "iso:country":"US",
+    "sg:address":"13205 F St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Meat",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 905 2706",
+    "sg:postcode":"68137",
+    "sg:province":"NE",
+    "sg:tags":[
+        "packer",
+        "equipment",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_76CzcGtyfjeYq37xpTUb5D_41.219420_-96.119600@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"03c1d69312abcc2c63380f1b7176e34f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872531,
+            "region_id":85688563,
+            "venue_id":203140869
+        }
+    ],
+    "wof:id":203140869,
+    "wof:lastmodified":1449025208,
+    "wof:name":"Glenn Valley Foods",
+    "wof:parent_id":85872531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "packer",
+        "equipment",
+        "supply"
+    ]
+},
+  "bbox": [-96.1196,41.21942,-96.1196,41.21942],
+  "geometry": {"coordinates":[-96.1196,41.21942],"type":"Point"}
+}

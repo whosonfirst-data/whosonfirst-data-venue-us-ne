@@ -1,0 +1,86 @@
+{
+  "id": 203168219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.699665,40.765871,-96.699665,40.765871",
+    "geom:latitude":40.765871,
+    "geom:longitude":-96.699665,
+    "iso:country":"US",
+    "sg:address":"1511 Center Park Rd",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Event Space",
+            "type":"Services"
+        },
+        {
+            "category":"Conference Center",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 423 3131",
+    "sg:postcode":"68512",
+    "sg:province":"NE",
+    "sg:tags":[
+        "facility",
+        "convention",
+        "banquet",
+        "reception",
+        "lodging",
+        "hall"
+    ],
+    "sg:website":"http://www.ramada.com/hotel/11284&cid=RANE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5qSiHSmrEQ9uXkjawpEA2C_40.765871_-96.699665@1303262943"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"61e7e1179ec31bbcb8cd4456dd304ede",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203168219
+        }
+    ],
+    "wof:id":203168219,
+    "wof:lastmodified":1449025931,
+    "wof:name":"Ramada Limited South Lincoln",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "facility",
+        "convention",
+        "banquet",
+        "reception",
+        "lodging",
+        "hall"
+    ]
+},
+  "bbox": [-96.699665,40.765871,-96.699665,40.765871],
+  "geometry": {"coordinates":[-96.699665,40.765871],"type":"Point"}
+}

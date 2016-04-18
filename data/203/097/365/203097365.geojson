@@ -1,0 +1,91 @@
+{
+  "id": 203097365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.038123,41.276769,-96.038123,41.276769",
+    "geom:latitude":41.276769,
+    "geom:longitude":-96.038123,
+    "iso:country":"US",
+    "sg:address":"1903 N 81st St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Hazard Insurance",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Title Insurance",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Life Insurance",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 390 9407",
+    "sg:postcode":"68114",
+    "sg:province":"NE",
+    "sg:tags":[
+        "business",
+        "auto",
+        "commercial",
+        "homeowner",
+        "motorcycle",
+        "renter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_48SOW7lM6LcwnUVhILrVTs_41.276769_-96.038123@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ec2e153c4e3e32234b1ea5104f1721d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872509,
+            "region_id":85688563,
+            "venue_id":203097365
+        }
+    ],
+    "wof:id":203097365,
+    "wof:lastmodified":1449025657,
+    "wof:name":"Allstate Insurance Company - James Gresham",
+    "wof:parent_id":85872509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "business",
+        "auto",
+        "commercial",
+        "homeowner",
+        "motorcycle",
+        "renter"
+    ]
+},
+  "bbox": [-96.038123,41.276769,-96.038123,41.276769],
+  "geometry": {"coordinates":[-96.038123,41.276769],"type":"Point"}
+}

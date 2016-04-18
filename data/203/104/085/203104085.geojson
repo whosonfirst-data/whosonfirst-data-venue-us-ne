@@ -1,0 +1,77 @@
+{
+  "id": 203104085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.98851,41.219736,-95.98851,41.219736",
+    "geom:latitude":41.219736,
+    "geom:longitude":-95.98851,
+    "iso:country":"US",
+    "sg:address":"4910 F St Ste 500",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Art Services",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 734 1196",
+    "sg:postcode":"68117",
+    "sg:province":"NE",
+    "sg:tags":[
+        "consultant",
+        "lighting",
+        "designer",
+        "electrician"
+    ],
+    "sg:website":"www.hoffman-electric.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_26krQz9iacoRtS9rvZO75F_41.219736_-95.988510@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"402c195c262529e38692b838e660731c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203104085
+        }
+    ],
+    "wof:id":203104085,
+    "wof:lastmodified":1449025703,
+    "wof:name":"Hoffman Electric Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "lighting",
+        "designer",
+        "electrician"
+    ]
+},
+  "bbox": [-95.98851,41.219736,-95.98851,41.219736],
+  "geometry": {"coordinates":[-95.98851,41.219736],"type":"Point"}
+}

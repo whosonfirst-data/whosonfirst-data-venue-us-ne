@@ -1,0 +1,70 @@
+{
+  "id": 203109955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.070917,41.331523,-96.070917,41.331523",
+    "geom:latitude":41.331523,
+    "geom:longitude":-96.070917,
+    "iso:country":"US",
+    "sg:address":"8035 Irvington Rd",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"Boat Charter",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Boat Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 571 1915",
+    "sg:postcode":"68122",
+    "sg:province":"NE",
+    "sg:tags":[
+        "boat-rental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        102082789,
+        85872505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ixmR54RtfMhDnXBY8yz0v_41.331523_-96.070917@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3d1875b32c3b4c4a00f67632a5119cce",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":-1,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":203109955
+        }
+    ],
+    "wof:id":203109955,
+    "wof:lastmodified":1449025582,
+    "wof:name":"Boat Camp Storage",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "boat-rental"
+    ]
+},
+  "bbox": [-96.070917,41.331523,-96.070917,41.331523],
+  "geometry": {"coordinates":[-96.070917,41.331523],"type":"Point"}
+}

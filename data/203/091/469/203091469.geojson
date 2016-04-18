@@ -1,0 +1,74 @@
+{
+  "id": 203091469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.977696,41.299744,-95.977696,41.299744",
+    "geom:latitude":41.299744,
+    "geom:longitude":-95.977696,
+    "iso:country":"US",
+    "sg:address":"4310 Ames Ave",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 453 4530",
+    "sg:postcode":"68111",
+    "sg:province":"NE",
+    "sg:tags":[
+        "photography",
+        "drugstore",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ustedUHSChM2m8ic1CFLn_41.299744_-95.977696@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1de5c0a45b5407dabe23a4e0e9f1e554",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203091469
+        }
+    ],
+    "wof:id":203091469,
+    "wof:lastmodified":1449025127,
+    "wof:name":"Walgreen Drug Stores",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photography",
+        "drugstore",
+        "store"
+    ]
+},
+  "bbox": [-95.977696,41.299744,-95.977696,41.299744],
+  "geometry": {"coordinates":[-95.977696,41.299744],"type":"Point"}
+}

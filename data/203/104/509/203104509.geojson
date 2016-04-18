@@ -1,0 +1,71 @@
+{
+  "id": 203104509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.995007,41.19965,-95.995007,41.19965",
+    "geom:latitude":41.19965,
+    "geom:longitude":-95.995007,
+    "iso:country":"US",
+    "sg:address":"5819 S 51st Ave",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 734 4062",
+    "sg:postcode":"68117",
+    "sg:province":"NE",
+    "sg:tags":[
+        "bathroom",
+        "planning",
+        "remodeling",
+        "kitchen"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5aidKKy4etdNFCcLJOtGyP_41.199650_-95.995007@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f0309c8b1f52de98aca3da532ccad457",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203104509
+        }
+    ],
+    "wof:id":203104509,
+    "wof:lastmodified":1449025703,
+    "wof:name":"Nielsen Sanitation Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bathroom",
+        "planning",
+        "remodeling",
+        "kitchen"
+    ]
+},
+  "bbox": [-95.995007,41.19965,-95.995007,41.19965],
+  "geometry": {"coordinates":[-95.995007,41.19965],"type":"Point"}
+}

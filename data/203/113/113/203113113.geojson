@@ -1,0 +1,73 @@
+{
+  "id": 203113113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.061478,41.21242,-96.061478,41.21242",
+    "geom:latitude":41.21242,
+    "geom:longitude":-96.061478,
+    "iso:country":"US",
+    "sg:address":"9555 L St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 331 5656",
+    "sg:postcode":"68127",
+    "sg:province":"NE",
+    "sg:tags":[
+        "caterer",
+        "pizza"
+    ],
+    "sg:website":"http://www.romeos.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1hRzWwLUE998QDASwFys5C_41.212420_-96.061478@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ad56cd0f07daf14b44dbbef37d56ca06",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203113113
+        }
+    ],
+    "wof:id":203113113,
+    "wof:lastmodified":1449026703,
+    "wof:name":"Romeo's Mexican Food & Pizza",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caterer",
+        "pizza"
+    ]
+},
+  "bbox": [-96.061478,41.21242,-96.061478,41.21242],
+  "geometry": {"coordinates":[-96.061478,41.21242],"type":"Point"}
+}

@@ -1,0 +1,92 @@
+{
+  "id": 203165395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.637857,40.813844,-96.637857,40.813844",
+    "geom:latitude":40.813844,
+    "geom:longitude":-96.637857,
+    "iso:country":"US",
+    "sg:address":"7 Gateway Mall",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 464 5556",
+    "sg:postcode":"68505",
+    "sg:province":"NE",
+    "sg:tags":[
+        "recovery",
+        "supply",
+        "repair-business",
+        "hardware",
+        "equipment-service",
+        "data"
+    ],
+    "sg:website":"http://www.123ssinc.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2UleGSEncbf7DiUuefMgGq_40.813844_-96.637857@1303262943"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"27e3cfdc5120c819a1dcb65eb3c81932",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878703,
+            "region_id":85688563,
+            "venue_id":203165395
+        }
+    ],
+    "wof:id":203165395,
+    "wof:lastmodified":1449026869,
+    "wof:name":"123 System Solutions",
+    "wof:parent_id":85878703,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "recovery",
+        "supply",
+        "repair-business",
+        "hardware",
+        "equipment-service",
+        "data"
+    ]
+},
+  "bbox": [-96.637857,40.813844,-96.637857,40.813844],
+  "geometry": {"coordinates":[-96.637857,40.813844],"type":"Point"}
+}

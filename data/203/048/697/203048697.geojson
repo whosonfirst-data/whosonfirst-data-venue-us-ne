@@ -1,0 +1,71 @@
+{
+  "id": 203048697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.014,41.3083,-96.014,41.3083",
+    "geom:latitude":41.3083,
+    "geom:longitude":-96.014,
+    "iso:country":"US",
+    "sg:address":"5530 N 66th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 572 1966",
+    "sg:postcode":"68104",
+    "sg:province":"NE",
+    "sg:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ],
+    "sg:website":"www.ops.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85805755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5qNVeg9jm1wqdIUv7LQXlY_41.308300_-96.014000@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d175013d44147f23d1d5c1f9363458b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85805755,
+            "region_id":85688563,
+            "venue_id":203048697
+        }
+    ],
+    "wof:id":203048697,
+    "wof:lastmodified":1449025585,
+    "wof:name":"Hartman Elementary School",
+    "wof:parent_id":85805755,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ]
+},
+  "bbox": [-96.014,41.3083,-96.014,41.3083],
+  "geometry": {"coordinates":[-96.014,41.3083],"type":"Point"}
+}

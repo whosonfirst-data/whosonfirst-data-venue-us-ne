@@ -1,0 +1,65 @@
+{
+  "id": 203083001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.937202,41.312199,-95.937202,41.312199",
+    "geom:latitude":41.312199,
+    "geom:longitude":-95.937202,
+    "iso:country":"US",
+    "sg:address":"6100 N 16th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 455 4886",
+    "sg:postcode":"68110",
+    "sg:province":"NE",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ugMnUvkRRE7qVCO1rga1A_41.312199_-95.937202@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"52f283bb925b0c6c2138c72eaa66ab6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203083001
+        }
+    ],
+    "wof:id":203083001,
+    "wof:lastmodified":1449025816,
+    "wof:name":"Negus-Sons Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [-95.937202,41.312199,-95.937202,41.312199],
+  "geometry": {"coordinates":[-95.937202,41.312199],"type":"Point"}
+}

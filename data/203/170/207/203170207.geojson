@@ -1,0 +1,83 @@
+{
+  "id": 203170207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-99.087173,40.675011,-99.087173,40.675011",
+    "geom:latitude":40.675011,
+    "geom:longitude":-99.087173,
+    "iso:country":"US",
+    "sg:address":"4800 3rd Ave",
+    "sg:city":"Kearney",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Discount & Variety Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 308 237 0644",
+    "sg:postcode":"68845",
+    "sg:province":"NE",
+    "sg:tags":[
+        "clothing",
+        "merchandise"
+    ],
+    "sg:website":"http://www.target.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973527,
+        102084305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5AKN6Bx2DI2yBiN5ZXPMSA_40.675011_-99.087173@1303262943"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"34143b62f1eeefbd0de12baa1a212aa8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084305,
+            "locality_id":85973527,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203170207
+        }
+    ],
+    "wof:id":203170207,
+    "wof:lastmodified":1449025107,
+    "wof:name":"Target",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clothing",
+        "merchandise"
+    ]
+},
+  "bbox": [-99.087173,40.675011,-99.087173,40.675011],
+  "geometry": {"coordinates":[-99.087173,40.675011],"type":"Point"}
+}

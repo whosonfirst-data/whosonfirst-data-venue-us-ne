@@ -1,0 +1,70 @@
+{
+  "id": 203143051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.119529,41.147755,-96.119529,41.147755",
+    "geom:latitude":41.147755,
+    "geom:longitude":-96.119529,
+    "iso:country":"US",
+    "sg:address":"10808 S 132nd St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Structure",
+            "subcategory":"Warehouse",
+            "type":"Public Place"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Storage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 331 6550",
+    "sg:postcode":"68138",
+    "sg:province":"NE",
+    "sg:tags":[
+        "self",
+        "warehouses-merchandise"
+    ],
+    "sg:website":"http://www.shopko.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633793,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Yw8L8yPlset4ug4Gn9yyV_41.147755_-96.119529@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5fb0d803d65d51a70e67ec33bb06aea6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203143051
+        }
+    ],
+    "wof:id":203143051,
+    "wof:lastmodified":1449026523,
+    "wof:name":"Shopko Distribution Ctr 998",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "self",
+        "warehouses-merchandise"
+    ]
+},
+  "bbox": [-96.119529,41.147755,-96.119529,41.147755],
+  "geometry": {"coordinates":[-96.119529,41.147755],"type":"Point"}
+}

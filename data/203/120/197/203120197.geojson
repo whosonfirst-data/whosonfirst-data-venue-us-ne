@@ -1,0 +1,66 @@
+{
+  "id": 203120197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.980698,41.264,-95.980698,41.264",
+    "geom:latitude":41.264,
+    "geom:longitude":-95.980698,
+    "iso:country":"US",
+    "sg:address":"530 N Saddle Creek Rd",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Music",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 561 1111",
+    "sg:postcode":"68131",
+    "sg:province":"NE",
+    "sg:tags":[
+        "dvd's"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85867055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Wh7j7pg15zBxBn1NoYJui_41.264000_-95.980698@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ce00b9ca2e8f5ed95e74be90cd5d46e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85867055,
+            "region_id":85688563,
+            "venue_id":203120197
+        }
+    ],
+    "wof:id":203120197,
+    "wof:lastmodified":1449026587,
+    "wof:name":"Homer's Saddle Creek",
+    "wof:parent_id":85867055,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dvd's"
+    ]
+},
+  "bbox": [-95.980698,41.264,-95.980698,41.264],
+  "geometry": {"coordinates":[-95.980698,41.264],"type":"Point"}
+}

@@ -1,0 +1,98 @@
+{
+  "id": 203112525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.071804,41.219292,-96.071804,41.219292",
+    "geom:latitude":41.219292,
+    "geom:longitude":-96.071804,
+    "iso:country":"US",
+    "sg:address":"10330 F St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        },
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 592 0151",
+    "sg:postcode":"68127",
+    "sg:province":"NE",
+    "sg:tags":[
+        "cargo",
+        "courier",
+        "package",
+        "express",
+        "shipping",
+        "air",
+        "delivery",
+        "mail",
+        "forwarding"
+    ],
+    "sg:website":"http://www.overnite.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872511
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5BXOunwefht5WDvezyAFVP_41.219292_-96.071804@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a5b38321e623abee6e7b5019bd228ab1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872511,
+            "region_id":85688563,
+            "venue_id":203112525
+        }
+    ],
+    "wof:id":203112525,
+    "wof:lastmodified":1449025787,
+    "wof:name":"Ups Freight",
+    "wof:parent_id":85872511,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cargo",
+        "courier",
+        "package",
+        "express",
+        "shipping",
+        "air",
+        "delivery",
+        "mail",
+        "forwarding"
+    ]
+},
+  "bbox": [-96.071804,41.219292,-96.071804,41.219292],
+  "geometry": {"coordinates":[-96.071804,41.219292],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 203005391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.933413,41.258767,-95.933413,41.258767",
+    "geom:latitude":41.258767,
+    "geom:longitude":-95.933413,
+    "iso:country":"US",
+    "sg:address":"1314 Douglas St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Newspaper",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 444 1000",
+    "sg:postcode":"68102",
+    "sg:province":"NE",
+    "sg:tags":[
+        "print",
+        "medium"
+    ],
+    "sg:website":"www.omaha.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7f3B57xFT62cqFvapavI5e_41.258767_-95.933413@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f534d5fc77be001848b1d03eedf4530f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203005391
+        }
+    ],
+    "wof:id":203005391,
+    "wof:lastmodified":1449026711,
+    "wof:name":"Omaha World-Herald",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "print",
+        "medium"
+    ]
+},
+  "bbox": [-95.933413,41.258767,-95.933413,41.258767],
+  "geometry": {"coordinates":[-95.933413,41.258767],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 203067759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.960006,41.205387,-95.960006,41.205387",
+    "geom:latitude":41.205387,
+    "geom:longitude":-95.960006,
+    "iso:country":"US",
+    "sg:address":"5211 S 31st St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 595 2794",
+    "sg:postcode":"68107",
+    "sg:province":"NE",
+    "sg:tags":[
+        "physician",
+        "family",
+        "practice",
+        "surgeons",
+        "medicine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4L8S0ZnjlLrUJs7Ob6DguN_41.205387_-95.960006@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3bb32a380834c63aa4a153bb30de7d92",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203067759
+        }
+    ],
+    "wof:id":203067759,
+    "wof:lastmodified":1449025061,
+    "wof:name":"Sona Family Health Care Ctr",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "family",
+        "practice",
+        "surgeons",
+        "medicine"
+    ]
+},
+  "bbox": [-95.960006,41.205387,-95.960006,41.205387],
+  "geometry": {"coordinates":[-95.960006,41.205387],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 203112199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.025746,41.243342,-96.025746,41.243342",
+    "geom:latitude":41.243342,
+    "geom:longitude":-96.025746,
+    "iso:country":"US",
+    "sg:address":"7315 Hickory St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"Retirement Home",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 392 0767",
+    "sg:postcode":"68124",
+    "sg:province":"NE",
+    "sg:tags":[
+        "living",
+        "assisted",
+        "convalescent",
+        "residential"
+    ],
+    "sg:website":"http://www.bacbloom.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85867059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_12m3gG32TCalCJAnnLgvFA_41.243342_-96.025746@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"80b101bea43a3f16778e47ce0272d885",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85867059,
+            "region_id":85688563,
+            "venue_id":203112199
+        }
+    ],
+    "wof:id":203112199,
+    "wof:lastmodified":1449025784,
+    "wof:name":"Hickory Villa",
+    "wof:parent_id":85867059,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "living",
+        "assisted",
+        "convalescent",
+        "residential"
+    ]
+},
+  "bbox": [-96.025746,41.243342,-96.025746,41.243342],
+  "geometry": {"coordinates":[-96.025746,41.243342],"type":"Point"}
+}

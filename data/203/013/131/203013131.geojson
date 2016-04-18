@@ -1,0 +1,66 @@
+{
+  "id": 203013131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.902057,41.289207,-95.902057,41.289207",
+    "geom:latitude":41.289207,
+    "geom:longitude":-95.902057,
+    "iso:country":"US",
+    "sg:address":"2214 Abbott Dr",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 280 1000",
+    "sg:postcode":"68102",
+    "sg:province":"NE",
+    "sg:tags":[
+        "diner"
+    ],
+    "sg:website":"www.hollywooddiner.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0qBlLulhgkJf7e6AVoEOdj_41.289207_-95.902057@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"094581b8e0a4944755d11613b41c328a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203013131
+        }
+    ],
+    "wof:id":203013131,
+    "wof:lastmodified":1449026260,
+    "wof:name":"Hollywood Diner",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "diner"
+    ]
+},
+  "bbox": [-95.902057,41.289207,-95.902057,41.289207],
+  "geometry": {"coordinates":[-95.902057,41.289207],"type":"Point"}
+}

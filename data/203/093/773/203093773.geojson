@@ -1,0 +1,76 @@
+{
+  "id": 203093773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.956902,41.324501,-95.956902,41.324501",
+    "geom:latitude":41.324501,
+    "geom:longitude":-95.956902,
+    "iso:country":"US",
+    "sg:address":"7202 N 30th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 457 5615",
+    "sg:postcode":"68112",
+    "sg:province":"NE",
+    "sg:tags":[
+        "photography",
+        "drugstore",
+        "store"
+    ],
+    "sg:website":"www.walgreens.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85805287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ctjbpNYyaN0YaVY6luFyZ_41.324501_-95.956902@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f22fe0ce6cbf1c39cd877dc17582c285",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85805287,
+            "region_id":85688563,
+            "venue_id":203093773
+        }
+    ],
+    "wof:id":203093773,
+    "wof:lastmodified":1449024935,
+    "wof:name":"Walgreen Drug Stores",
+    "wof:parent_id":85805287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photography",
+        "drugstore",
+        "store"
+    ]
+},
+  "bbox": [-95.956902,41.324501,-95.956902,41.324501],
+  "geometry": {"coordinates":[-95.956902,41.324501],"type":"Point"}
+}

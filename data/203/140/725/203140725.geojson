@@ -1,0 +1,77 @@
+{
+  "id": 203140725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.119571,41.199847,-96.119571,41.199847",
+    "geom:latitude":41.199847,
+    "geom:longitude":-96.119571,
+    "iso:country":"US",
+    "sg:address":"13225 Discovery Dr",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"Boat Charter",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Storage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 895 0895",
+    "sg:postcode":"68137",
+    "sg:province":"NE",
+    "sg:tags":[
+        "commercial",
+        "self",
+        "yard",
+        "household"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4EWw4LnlIDkhItbuesFxeD_41.199847_-96.119571@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"519cd1d79c0e5205601e830fd7e444c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872531,
+            "region_id":85688563,
+            "venue_id":203140725
+        }
+    ],
+    "wof:id":203140725,
+    "wof:lastmodified":1449025204,
+    "wof:name":"Millard Air Park",
+    "wof:parent_id":85872531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "self",
+        "yard",
+        "household"
+    ]
+},
+  "bbox": [-96.119571,41.199847,-96.119571,41.199847],
+  "geometry": {"coordinates":[-96.119571,41.199847],"type":"Point"}
+}

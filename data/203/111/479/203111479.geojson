@@ -1,0 +1,71 @@
+{
+  "id": 203111479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.058581,41.242766,-96.058581,41.242766",
+    "geom:latitude":41.242766,
+    "geom:longitude":-96.058581,
+    "iso:country":"US",
+    "sg:address":"1715 S 93rd Ave",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Advertising",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 578 4425",
+    "sg:postcode":"68124",
+    "sg:province":"NE",
+    "sg:tags":[
+        "outdoor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0PcGdFRL6Sym9H6CWVDmSY_41.242766_-96.058581@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3e374fd4eb319107e3155668454170db",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872533,
+            "region_id":85688563,
+            "venue_id":203111479
+        }
+    ],
+    "wof:id":203111479,
+    "wof:lastmodified":1449026905,
+    "wof:name":"Mobile Promotions Omaha",
+    "wof:parent_id":85872533,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "outdoor"
+    ]
+},
+  "bbox": [-96.058581,41.242766,-96.058581,41.242766],
+  "geometry": {"coordinates":[-96.058581,41.242766],"type":"Point"}
+}

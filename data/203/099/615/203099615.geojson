@@ -1,0 +1,79 @@
+{
+  "id": 203099615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.049889,41.264919,-96.049889,41.264919",
+    "geom:latitude":41.264919,
+    "geom:longitude":-96.049889,
+    "iso:country":"US",
+    "sg:address":"556 N 88th Plz",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 572 7041",
+    "sg:postcode":"68114",
+    "sg:province":"NE",
+    "sg:tags":[
+        "vacancy",
+        "apartment",
+        "rental",
+        "finder",
+        "listing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85867061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0VC9a9vP8DAqGlE9iaqub5_41.264919_-96.049889@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b1b33d25f65dcc57c5a69808d663dadd",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85867061,
+            "region_id":85688563,
+            "venue_id":203099615
+        }
+    ],
+    "wof:id":203099615,
+    "wof:lastmodified":1449026212,
+    "wof:name":"Westbrook Garden",
+    "wof:parent_id":85867061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "vacancy",
+        "apartment",
+        "rental",
+        "finder",
+        "listing"
+    ]
+},
+  "bbox": [-96.049889,41.264919,-96.049889,41.264919],
+  "geometry": {"coordinates":[-96.049889,41.264919],"type":"Point"}
+}

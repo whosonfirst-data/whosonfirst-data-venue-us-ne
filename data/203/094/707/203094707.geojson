@@ -1,0 +1,75 @@
+{
+  "id": 203094707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.971397,41.3316,-95.971397,41.3316",
+    "geom:latitude":41.3316,
+    "geom:longitude":-95.971397,
+    "iso:country":"US",
+    "sg:address":"8103 N 38th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Carpets & Floor Coverings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 455 9980",
+    "sg:postcode":"68112",
+    "sg:province":"NE",
+    "sg:tags":[
+        "hardwood",
+        "flooring",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85813863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5KLyOYHpScXdJD3HHVumtF_41.331600_-95.971397@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2002a058e49204c9d90f2c4e11e6042d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85813863,
+            "region_id":85688563,
+            "venue_id":203094707
+        }
+    ],
+    "wof:id":203094707,
+    "wof:lastmodified":1449026146,
+    "wof:name":"Husker Hardwood Floors",
+    "wof:parent_id":85813863,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hardwood",
+        "flooring",
+        "contractor"
+    ]
+},
+  "bbox": [-95.971397,41.3316,-95.971397,41.3316],
+  "geometry": {"coordinates":[-95.971397,41.3316],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 203125997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.956596,41.2598,-95.956596,41.2598",
+    "geom:latitude":41.2598,
+    "geom:longitude":-95.956596,
+    "iso:country":"US",
+    "sg:address":"3001 Dodge St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 342 3301",
+    "sg:postcode":"68131",
+    "sg:province":"NE",
+    "sg:tags":[
+        "photography",
+        "drugstore",
+        "store"
+    ],
+    "sg:website":"www.walgreens.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_46dBorbUS5Dne2y2mZv4d7_41.259800_-95.956596@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"32e19ae4d21fb6e13e82d3ab32271dc7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872525,
+            "region_id":85688563,
+            "venue_id":203125997
+        }
+    ],
+    "wof:id":203125997,
+    "wof:lastmodified":1449026807,
+    "wof:name":"Walgreen Drug Stores",
+    "wof:parent_id":85872525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photography",
+        "drugstore",
+        "store"
+    ]
+},
+  "bbox": [-95.956596,41.2598,-95.956596,41.2598],
+  "geometry": {"coordinates":[-95.956596,41.2598],"type":"Point"}
+}

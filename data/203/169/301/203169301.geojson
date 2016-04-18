@@ -1,0 +1,66 @@
+{
+  "id": 203169301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.7397,40.814671,-96.7397,40.814671",
+    "geom:latitude":40.814671,
+    "geom:longitude":-96.7397,
+    "iso:country":"US",
+    "sg:address":"201 Capitol Beach Blvd Suite 2",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Tanning Parlor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 477 7444",
+    "sg:postcode":"68528",
+    "sg:province":"NE",
+    "sg:tags":[
+        "salon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5JJcCVwVTu2N7e3iAK6Mc1_40.814671_-96.739700@1303262943"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"fa6a8e22631a2118b6bd59340825aa88",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878689,
+            "region_id":85688563,
+            "venue_id":203169301
+        }
+    ],
+    "wof:id":203169301,
+    "wof:lastmodified":1449026111,
+    "wof:name":"Max Tan Inc",
+    "wof:parent_id":85878689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "salon"
+    ]
+},
+  "bbox": [-96.7397,40.814671,-96.7397,40.814671],
+  "geometry": {"coordinates":[-96.7397,40.814671],"type":"Point"}
+}

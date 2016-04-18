@@ -1,0 +1,70 @@
+{
+  "id": 202997405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.941299,41.257599,-95.941299,41.257599",
+    "geom:latitude":41.257599,
+    "geom:longitude":-95.941299,
+    "iso:country":"US",
+    "sg:address":"1904 Farnam St Ste 623",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"Nightclub",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 346 1700",
+    "sg:postcode":"68102",
+    "sg:province":"NE",
+    "sg:tags":[
+        "nightlife"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4qbJMdFZtH6o6TjQAXnYDD_41.257599_-95.941299@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5d1a07308612a076886083c1d38c8925",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":202997405
+        }
+    ],
+    "wof:id":202997405,
+    "wof:lastmodified":1449062221,
+    "wof:name":"Monahan & Monahan",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nightlife"
+    ]
+},
+  "bbox": [-95.941299,41.257599,-95.941299,41.257599],
+  "geometry": {"coordinates":[-95.941299,41.257599],"type":"Point"}
+}

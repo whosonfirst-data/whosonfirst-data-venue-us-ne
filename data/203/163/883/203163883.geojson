@@ -1,0 +1,68 @@
+{
+  "id": 203163883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.711047,40.78463,-96.711047,40.78463",
+    "geom:latitude":40.78463,
+    "geom:longitude":-96.711047,
+    "iso:country":"US",
+    "sg:address":"700 Van Dorn St Ste 3",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Dance",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 450 4223",
+    "sg:postcode":"68502",
+    "sg:province":"NE",
+    "sg:tags":[
+        "instruction",
+        "dancing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1EkAPj38PcJpMqgWenp3Ad_40.784630_-96.711047@1303262943"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"11f89b38ea1cc2f299539427c1e9c456",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878719,
+            "region_id":85688563,
+            "venue_id":203163883
+        }
+    ],
+    "wof:id":203163883,
+    "wof:lastmodified":1449026838,
+    "wof:name":"Dance Barre Studios",
+    "wof:parent_id":85878719,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "dancing"
+    ]
+},
+  "bbox": [-96.711047,40.78463,-96.711047,40.78463],
+  "geometry": {"coordinates":[-96.711047,40.78463],"type":"Point"}
+}

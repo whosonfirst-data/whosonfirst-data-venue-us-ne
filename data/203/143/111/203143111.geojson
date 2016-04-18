@@ -1,0 +1,79 @@
+{
+  "id": 203143111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.149086,41.176251,-96.149086,41.176251",
+    "geom:latitude":41.176251,
+    "geom:longitude":-96.149086,
+    "iso:country":"US",
+    "sg:address":"14814 GILES RD",
+    "sg:city":"OMAHA",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 891 1200",
+    "sg:postcode":"68138",
+    "sg:province":"NE",
+    "sg:tags":[
+        "apartment",
+        "vacancy",
+        "listing",
+        "rental",
+        "finder"
+    ],
+    "sg:website":"http://vannrealtyco.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        102082789,
+        85834285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1nExT2GJdy3EFmMdxoJOY2_41.176251_-96.149086@1303262943"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"07f36bec8300340f0fecfdb6efe361b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":-1,
+            "neighbourhood_id":85834285,
+            "region_id":85688563,
+            "venue_id":203143111
+        }
+    ],
+    "wof:id":203143111,
+    "wof:lastmodified":1449026530,
+    "wof:name":"Rock Creek Apartments",
+    "wof:parent_id":85834285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment",
+        "vacancy",
+        "listing",
+        "rental",
+        "finder"
+    ]
+},
+  "bbox": [-96.149086,41.176251,-96.149086,41.176251],
+  "geometry": {"coordinates":[-96.149086,41.176251],"type":"Point"}
+}

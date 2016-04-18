@@ -1,0 +1,66 @@
+{
+  "id": 203126705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.9757,41.259499,-95.9757,41.259499",
+    "geom:latitude":41.259499,
+    "geom:longitude":-95.9757,
+    "iso:country":"US",
+    "sg:address":"115 S 42nd St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 552 2375",
+    "sg:postcode":"68131",
+    "sg:province":"NE",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5pTicF2iJIyPrePW9xDVvr_41.259499_-95.975700@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f0818bc5bdc406185fd7e9e82ea6ff99",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872523,
+            "region_id":85688563,
+            "venue_id":203126705
+        }
+    ],
+    "wof:id":203126705,
+    "wof:lastmodified":1449025618,
+    "wof:name":"Family Place-Nebraska Health System",
+    "wof:parent_id":85872523,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [-95.9757,41.259499,-95.9757,41.259499],
+  "geometry": {"coordinates":[-95.9757,41.259499],"type":"Point"}
+}

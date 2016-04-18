@@ -1,0 +1,73 @@
+{
+  "id": 203059793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.982979,41.252842,-95.982979,41.252842",
+    "geom:latitude":41.252842,
+    "geom:longitude":-95.982979,
+    "iso:country":"US",
+    "sg:address":"702 S 46th Ave",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 403 4866",
+    "sg:postcode":"68106",
+    "sg:province":"NE",
+    "sg:tags":[
+        "body",
+        "repairing",
+        "painting",
+        "automobile"
+    ],
+    "sg:website":"http://www.centralbody.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ZWVDzwMt1i4acWBPoSVgW_41.252842_-95.982979@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ddc52ff1c46a51e9cea09258031208ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872523,
+            "region_id":85688563,
+            "venue_id":203059793
+        }
+    ],
+    "wof:id":203059793,
+    "wof:lastmodified":1449025427,
+    "wof:name":"Central Body Co Inc",
+    "wof:parent_id":85872523,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "repairing",
+        "painting",
+        "automobile"
+    ]
+},
+  "bbox": [-95.982979,41.252842,-95.982979,41.252842],
+  "geometry": {"coordinates":[-95.982979,41.252842],"type":"Point"}
+}

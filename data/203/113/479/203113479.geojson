@@ -1,0 +1,77 @@
+{
+  "id": 203113479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.080395,41.210115,-96.080395,41.210115",
+    "geom:latitude":41.210115,
+    "geom:longitude":-96.080395,
+    "iso:country":"US",
+    "sg:address":"10760 O St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Electronics",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Printing & Photocopies",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 346 0910",
+    "sg:postcode":"68127",
+    "sg:province":"NE",
+    "sg:tags":[
+        "lithographer",
+        "printers-equipment",
+        "supply",
+        "typesetting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_74RLLwM4EBvN9gQs8xOLo4_41.210115_-96.080395@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a2b1b0559b3a36823d59ce1d2a9ff9f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872531,
+            "region_id":85688563,
+            "venue_id":203113479
+        }
+    ],
+    "wof:id":203113479,
+    "wof:lastmodified":1449026703,
+    "wof:name":"Commonwealth Press Corporation",
+    "wof:parent_id":85872531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lithographer",
+        "printers-equipment",
+        "supply",
+        "typesetting"
+    ]
+},
+  "bbox": [-96.080395,41.210115,-96.080395,41.210115],
+  "geometry": {"coordinates":[-96.080395,41.210115],"type":"Point"}
+}

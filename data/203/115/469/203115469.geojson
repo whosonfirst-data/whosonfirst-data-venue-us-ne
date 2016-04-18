@@ -1,0 +1,77 @@
+{
+  "id": 203115469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.063562,41.205341,-96.063562,41.205341",
+    "geom:latitude":41.205341,
+    "geom:longitude":-96.063562,
+    "iso:country":"US",
+    "sg:address":"9707 Q St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Supermarket",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 339 3054",
+    "sg:postcode":"68127",
+    "sg:province":"NE",
+    "sg:tags":[
+        "super",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4M0B7F33gleYmvqmdF6jZu_41.205341_-96.063562@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b1c066d557c0df164f4a4facab4b706d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203115469
+        }
+    ],
+    "wof:id":203115469,
+    "wof:lastmodified":1449024929,
+    "wof:name":"Hy-Vee Foods Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "super",
+        "store"
+    ]
+},
+  "bbox": [-96.063562,41.205341,-96.063562,41.205341],
+  "geometry": {"coordinates":[-96.063562,41.205341],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 203098065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.065643,41.268959,-96.065643,41.268959",
+    "geom:latitude":41.268959,
+    "geom:longitude":-96.065643,
+    "iso:country":"US",
+    "sg:address":"9900 Nicholas St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Court House",
+            "type":"Public Place"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 758 8981",
+    "sg:postcode":"68114",
+    "sg:province":"NE",
+    "sg:tags":[
+        "government-united",
+        "state",
+        "legislator"
+    ],
+    "sg:website":"http://www.senate.gov",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85867061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3uur5RXROu7Bqjw10WtFgO_41.268959_-96.065643@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b7d417f3d4179fcdf4b9e7ae2ecd6133",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85867061,
+            "region_id":85688563,
+            "venue_id":203098065
+        }
+    ],
+    "wof:id":203098065,
+    "wof:lastmodified":1449026671,
+    "wof:name":"Mike Johanns Senator",
+    "wof:parent_id":85867061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "government-united",
+        "state",
+        "legislator"
+    ]
+},
+  "bbox": [-96.065643,41.268959,-96.065643,41.268959],
+  "geometry": {"coordinates":[-96.065643,41.268959],"type":"Point"}
+}

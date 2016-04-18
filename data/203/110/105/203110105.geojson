@@ -1,0 +1,80 @@
+{
+  "id": 203110105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.023951,41.32194,-96.023951,41.32194",
+    "geom:latitude":41.32194,
+    "geom:longitude":-96.023951,
+    "iso:country":"US",
+    "sg:address":"6828 N 72nd St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 572 3663",
+    "sg:postcode":"68122",
+    "sg:province":"NE",
+    "sg:tags":[
+        "physician",
+        "family",
+        "practice",
+        "surgeons",
+        "vascular",
+        "medicine",
+        "surgery",
+        "surgery-general"
+    ],
+    "sg:website":"http://www.omahaveinclinic.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        102082789,
+        85872505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2DSCY1q5vcstFESWsbIgLK_41.321940_-96.023951@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c4613a72a570cf8e266b52cb34c71858",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":-1,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":203110105
+        }
+    ],
+    "wof:id":203110105,
+    "wof:lastmodified":1449025541,
+    "wof:name":"White Thomas J MD",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "family",
+        "practice",
+        "surgeons",
+        "vascular",
+        "medicine",
+        "surgery",
+        "surgery-general"
+    ]
+},
+  "bbox": [-96.023951,41.32194,-96.023951,41.32194],
+  "geometry": {"coordinates":[-96.023951,41.32194],"type":"Point"}
+}

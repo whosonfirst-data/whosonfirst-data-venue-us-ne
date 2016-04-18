@@ -1,0 +1,91 @@
+{
+  "id": 203143789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.146958,41.229689,-96.146958,41.229689",
+    "geom:latitude":41.229689,
+    "geom:longitude":-96.146958,
+    "iso:country":"US",
+    "sg:address":"15037 Industrial Rd",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Hazard Insurance",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Title Insurance",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Life Insurance",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 330 9905",
+    "sg:postcode":"68144",
+    "sg:province":"NE",
+    "sg:tags":[
+        "business",
+        "auto",
+        "commercial",
+        "homeowner",
+        "property",
+        "casualty"
+    ],
+    "sg:website":"http://www.farmers.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5m2oTR1emem6PeeMij6QJs_41.229689_-96.146958@1303262943"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"713d4223c97f5770fa181892a72cebf8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203143789
+        }
+    ],
+    "wof:id":203143789,
+    "wof:lastmodified":1449026523,
+    "wof:name":"Vandervorst, Greg - Farmers Insurance",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "business",
+        "auto",
+        "commercial",
+        "homeowner",
+        "property",
+        "casualty"
+    ]
+},
+  "bbox": [-96.146958,41.229689,-96.146958,41.229689],
+  "geometry": {"coordinates":[-96.146958,41.229689],"type":"Point"}
+}

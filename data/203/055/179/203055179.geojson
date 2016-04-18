@@ -1,0 +1,60 @@
+{
+  "id": 203055179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.966202,41.227402,-95.966202,41.227402",
+    "geom:latitude":41.227402,
+    "geom:longitude":-95.966202,
+    "iso:country":"US",
+    "sg:address":"3408 S 36th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 556 6666",
+    "sg:postcode":"68105",
+    "sg:province":"NE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2SePZ2Q2oAn4mBUULe6DDz_41.227402_-95.966202@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c415fddc7a207077486de85970c3a656",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203055179
+        }
+    ],
+    "wof:id":203055179,
+    "wof:lastmodified":1449025352,
+    "wof:name":"Andy's Auto Service",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-95.966202,41.227402,-95.966202,41.227402],
+  "geometry": {"coordinates":[-95.966202,41.227402],"type":"Point"}
+}

@@ -1,0 +1,90 @@
+{
+  "id": 203112797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.044555,41.201305,-96.044555,41.201305",
+    "geom:latitude":41.201305,
+    "geom:longitude":-96.044555,
+    "iso:country":"US",
+    "sg:address":"8517 Park Dr",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Hazard Insurance",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Title Insurance",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Life Insurance",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 339 1975",
+    "sg:postcode":"68127",
+    "sg:province":"NE",
+    "sg:tags":[
+        "business",
+        "auto",
+        "commercial",
+        "homeowner",
+        "motorcycle",
+        "renter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973487,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1jLccUQGTqtqWbLrUvsHtj_41.201305_-96.044555@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9a475d4a1e8348bd8391c030c6525896",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973487,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203112797
+        }
+    ],
+    "wof:id":203112797,
+    "wof:lastmodified":1449025785,
+    "wof:name":"Allstate Insurance Company - Paul Stuke",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "business",
+        "auto",
+        "commercial",
+        "homeowner",
+        "motorcycle",
+        "renter"
+    ]
+},
+  "bbox": [-96.044555,41.201305,-96.044555,41.201305],
+  "geometry": {"coordinates":[-96.044555,41.201305],"type":"Point"}
+}

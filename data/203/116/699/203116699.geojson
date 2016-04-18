@@ -1,0 +1,76 @@
+{
+  "id": 203116699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.048728,41.19237,-96.048728,41.19237",
+    "geom:latitude":41.19237,
+    "geom:longitude":-96.048728,
+    "iso:country":"US",
+    "sg:address":"6733 Woodbine Cir",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Military Area",
+            "subcategory":"Armory",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 201 8054",
+    "sg:postcode":"68127",
+    "sg:province":"NE",
+    "sg:tags":[
+        "repair",
+        "fence-sales",
+        "fence",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973487,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4eNjDWd40EXh3AIa8Q8uxd_41.192370_-96.048728@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3e8004b40a5ce7d65d5311980112f573",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973487,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203116699
+        }
+    ],
+    "wof:id":203116699,
+    "wof:lastmodified":1449025208,
+    "wof:name":"Affordable Fence",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "fence-sales",
+        "fence",
+        "contractor"
+    ]
+},
+  "bbox": [-96.048728,41.19237,-96.048728,41.19237],
+  "geometry": {"coordinates":[-96.048728,41.19237],"type":"Point"}
+}

@@ -1,0 +1,87 @@
+{
+  "id": 203137337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.053223,41.291147,-96.053223,41.291147",
+    "geom:latitude":41.291147,
+    "geom:longitude":-96.053223,
+    "iso:country":"US",
+    "sg:address":"3520 N 90th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 918 2670",
+    "sg:postcode":"68134",
+    "sg:province":"NE",
+    "sg:tags":[
+        "saving",
+        "loan",
+        "commercial"
+    ],
+    "sg:website":"http://www.bankofthewest.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85867061
+    ],
+    "wof:brand_id":420575383,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1nY7EtHaRtg7hAIAC3LKd9_41.291147_-96.053223@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"56e8cdbbe9862ff78c48afb0325f00fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85867061,
+            "region_id":85688563,
+            "venue_id":203137337
+        }
+    ],
+    "wof:id":203137337,
+    "wof:lastmodified":1457209561,
+    "wof:name":"Bank Of The West",
+    "wof:parent_id":85867061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "saving",
+        "loan",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -96.053223,
+    41.291147,
+    -96.053223,
+    41.291147
+],
+  "geometry": {"coordinates":[-96.053223,41.291147],"type":"Point"}
+}

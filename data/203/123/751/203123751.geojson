@@ -1,0 +1,75 @@
+{
+  "id": 203123751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.976945,41.257756,-95.976945,41.257756",
+    "geom:latitude":41.257756,
+    "geom:longitude":-95.976945,
+    "iso:country":"US",
+    "sg:address":"4242 Farnam St Ste 270",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 552 3378",
+    "sg:postcode":"68131",
+    "sg:province":"NE",
+    "sg:tags":[
+        "physician",
+        "family",
+        "practice",
+        "surgeons",
+        "medicine"
+    ],
+    "sg:website":"http://www.simplywell.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_25whi8Heq0mksJd5POlnUr_41.257756_-95.976945@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1e84fb44af675ac015bacbbf13b8d28e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872523,
+            "region_id":85688563,
+            "venue_id":203123751
+        }
+    ],
+    "wof:id":203123751,
+    "wof:lastmodified":1449025472,
+    "wof:name":"Simply Well",
+    "wof:parent_id":85872523,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "family",
+        "practice",
+        "surgeons",
+        "medicine"
+    ]
+},
+  "bbox": [-95.976945,41.257756,-95.976945,41.257756],
+  "geometry": {"coordinates":[-95.976945,41.257756],"type":"Point"}
+}

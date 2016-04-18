@@ -1,0 +1,77 @@
+{
+  "id": 203092887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.956596,41.313999,-95.956596,41.313999",
+    "geom:latitude":41.313999,
+    "geom:longitude":-95.956596,
+    "iso:country":"US",
+    "sg:address":"3025 Kansas Ave",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        },
+        {
+            "category":"Education",
+            "subcategory":"Preschool",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 733 2400",
+    "sg:postcode":"68111",
+    "sg:province":"NE",
+    "sg:tags":[
+        "elementary",
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3hovJPrF6n1sLYrh3DsvgP_41.313999_-95.956596@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f4307c9fed197a0c5558dd223fbbb4bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203092887
+        }
+    ],
+    "wof:id":203092887,
+    "wof:lastmodified":1449026482,
+    "wof:name":"Learning Key Child Care Center",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary",
+        "day"
+    ]
+},
+  "bbox": [-95.956596,41.313999,-95.956596,41.313999],
+  "geometry": {"coordinates":[-95.956596,41.313999],"type":"Point"}
+}

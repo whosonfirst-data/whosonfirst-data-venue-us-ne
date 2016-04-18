@@ -1,0 +1,77 @@
+{
+  "id": 203148955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.097767,41.259689,-96.097767,41.259689",
+    "geom:latitude":41.259689,
+    "geom:longitude":-96.097767,
+    "iso:country":"US",
+    "sg:address":"11810 Burke St Side Of Building",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Place Of Worship",
+            "subcategory":"Church",
+            "type":"Public Place"
+        },
+        {
+            "category":"Place Of Worship",
+            "subcategory":"",
+            "type":"Public Place"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 333 6886",
+    "sg:postcode":"68154",
+    "sg:province":"NE",
+    "sg:tags":[
+        "churches-methodist"
+    ],
+    "sg:website":"http://www.stlukeumc.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7K8EyKSXoaQLjk2bQvrRXC_41.259689_-96.097767@1303262943"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4b1dc3de7134fe0382396738898514ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872503,
+            "region_id":85688563,
+            "venue_id":203148955
+        }
+    ],
+    "wof:id":203148955,
+    "wof:lastmodified":1449026550,
+    "wof:name":"St Luke Child Development Center",
+    "wof:parent_id":85872503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "churches-methodist"
+    ]
+},
+  "bbox": [-96.097767,41.259689,-96.097767,41.259689],
+  "geometry": {"coordinates":[-96.097767,41.259689],"type":"Point"}
+}

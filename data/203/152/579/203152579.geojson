@@ -1,0 +1,67 @@
+{
+  "id": 203152579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.950295,41.264623,-95.950295,41.264623",
+    "geom:latitude":41.264623,
+    "geom:longitude":-95.950295,
+    "iso:country":"US",
+    "sg:address":"2615 California Plz",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"University",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 546 6700",
+    "sg:postcode":"68178",
+    "sg:province":"NE",
+    "sg:tags":[
+        "college"
+    ],
+    "sg:website":"www.creighton.edu",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_10QuRSCP0ZDKtW5R0A7ihz_41.264623_-95.950295@1303262943"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"64ed1f319e07aa4c507887ff01f05f02",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872525,
+            "region_id":85688563,
+            "venue_id":203152579
+        }
+    ],
+    "wof:id":203152579,
+    "wof:lastmodified":1449026392,
+    "wof:name":"Creighton University",
+    "wof:parent_id":85872525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "college"
+    ]
+},
+  "bbox": [-95.950295,41.264623,-95.950295,41.264623],
+  "geometry": {"coordinates":[-95.950295,41.264623],"type":"Point"}
+}

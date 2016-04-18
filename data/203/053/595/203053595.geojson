@@ -1,0 +1,66 @@
+{
+  "id": 203053595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.959999,41.246399,-95.959999,41.246399",
+    "geom:latitude":41.246399,
+    "geom:longitude":-95.959999,
+    "iso:country":"US",
+    "sg:address":"1326 S 32nd St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Event Space",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 595 1180",
+    "sg:postcode":"68105",
+    "sg:province":"NE",
+    "sg:tags":[
+        "venue"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5rdVdkcBpAp4r9o8U9c0pi_41.246399_-95.959999@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5ebe9d735c989070f0d409933459be0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872527,
+            "region_id":85688563,
+            "venue_id":203053595
+        }
+    ],
+    "wof:id":203053595,
+    "wof:lastmodified":1449025294,
+    "wof:name":"Nebraska State Offices",
+    "wof:parent_id":85872527,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "venue"
+    ]
+},
+  "bbox": [-95.959999,41.246399,-95.959999,41.246399],
+  "geometry": {"coordinates":[-95.959999,41.246399],"type":"Point"}
+}

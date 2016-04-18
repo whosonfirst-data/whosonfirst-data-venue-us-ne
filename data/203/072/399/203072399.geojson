@@ -1,0 +1,72 @@
+{
+  "id": 203072399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.969758,41.21852,-95.969758,41.21852",
+    "geom:latitude":41.21852,
+    "geom:longitude":-95.969758,
+    "iso:country":"US",
+    "sg:address":"4201 S 38th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"Sports Bar",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 614 7111",
+    "sg:postcode":"68107",
+    "sg:province":"NE",
+    "sg:tags":[
+        "hall",
+        "pool"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2aUwZ50gXGu1DkGzDyJLXZ_41.218520_-95.969758@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"20efc532b0d715be2fe583c74123f5d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203072399
+        }
+    ],
+    "wof:id":203072399,
+    "wof:lastmodified":1449025943,
+    "wof:name":"Corner Pocket Bar",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hall",
+        "pool"
+    ]
+},
+  "bbox": [-95.969758,41.21852,-95.969758,41.21852],
+  "geometry": {"coordinates":[-95.969758,41.21852],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 202991941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.910497,40.929378,-95.910497,40.929378",
+    "geom:latitude":40.929378,
+    "geom:longitude":-95.910497,
+    "iso:country":"US",
+    "sg:address":"109 Rock Bluff Rd",
+    "sg:city":"Plattsmouth",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 235 2525",
+    "sg:postcode":"68048",
+    "sg:province":"NE",
+    "sg:tags":[
+        "delivery",
+        "take",
+        "pizza"
+    ],
+    "sg:website":"http://www.godfatherspizza.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633793,
+        85688563
+    ],
+    "wof:brand_id":420575225,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1qcy24d54wYgiuPG2Nb7Tv_40.929378_-95.910497@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2ebcb6475c8385799325832900537fe3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":202991941
+        }
+    ],
+    "wof:id":202991941,
+    "wof:lastmodified":1457209470,
+    "wof:name":"Godfather's Pizza",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delivery",
+        "take",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -95.910497,
+    40.929378,
+    -95.910497,
+    40.929378
+],
+  "geometry": {"coordinates":[-95.91049700000001,40.929378],"type":"Point"}
+}

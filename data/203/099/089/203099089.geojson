@@ -1,0 +1,75 @@
+{
+  "id": 203099089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.068153,41.268957,-96.068153,41.268957",
+    "geom:latitude":41.268957,
+    "geom:longitude":-96.068153,
+    "iso:country":"US",
+    "sg:address":"10020 Nicholas St Ste 102",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 399 8365",
+    "sg:postcode":"68114",
+    "sg:province":"NE",
+    "sg:tags":[
+        "laboratories-pathological",
+        "laboratory"
+    ],
+    "sg:website":"http://www.questdiagnostics.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85867061
+    ],
+    "wof:brand_id":420574409,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7heHNj2VJu39g84RSVJuPV_41.268957_-96.068153@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"20c7bf22dd47aca9453792f7966fc3b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85867061,
+            "region_id":85688563,
+            "venue_id":203099089
+        }
+    ],
+    "wof:id":203099089,
+    "wof:lastmodified":1457208867,
+    "wof:name":"Quest Diagnostics",
+    "wof:parent_id":85867061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratories-pathological",
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -96.068153,
+    41.268957,
+    -96.068153,
+    41.268957
+],
+  "geometry": {"coordinates":[-96.068153,41.268957],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 203099501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.05773,41.27058,-96.05773,41.27058",
+    "geom:latitude":41.27058,
+    "geom:longitude":-96.05773,
+    "iso:country":"US",
+    "sg:address":"9320 Western Ave Apt 107",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 812 0624",
+    "sg:postcode":"68114",
+    "sg:province":"NE",
+    "sg:tags":[
+        "counseling",
+        "treatment",
+        "outpatient",
+        "alcoholism",
+        "information"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85867061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3s4GLRk49WDGXt2wTDPJDZ_41.270580_-96.057730@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"420731a32f75440d70a76b7fc385cd59",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85867061,
+            "region_id":85688563,
+            "venue_id":203099501
+        }
+    ],
+    "wof:id":203099501,
+    "wof:lastmodified":1449026217,
+    "wof:name":"Comprehensive Interventions",
+    "wof:parent_id":85867061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "counseling",
+        "treatment",
+        "outpatient",
+        "alcoholism",
+        "information"
+    ]
+},
+  "bbox": [-96.05773,41.27058,-96.05773,41.27058],
+  "geometry": {"coordinates":[-96.05773,41.27058],"type":"Point"}
+}

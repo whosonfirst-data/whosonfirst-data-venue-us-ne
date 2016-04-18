@@ -1,0 +1,85 @@
+{
+  "id": 203048429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.986702,41.305401,-95.986702,41.305401",
+    "geom:latitude":41.305401,
+    "geom:longitude":-95.986702,
+    "iso:country":"US",
+    "sg:address":"5115 N 48th Ave",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        },
+        {
+            "category":"Education",
+            "subcategory":"Preschool",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"University",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 457 5986",
+    "sg:postcode":"68104",
+    "sg:province":"NE",
+    "sg:tags":[
+        "elementary",
+        "college",
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85805755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ZJxFmzx8AeoqaMXn4hAJy_41.305401_-95.986702@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d7f2a63d7431d49f9ca097410ce892b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85805755,
+            "region_id":85688563,
+            "venue_id":203048429
+        }
+    ],
+    "wof:id":203048429,
+    "wof:lastmodified":1449025586,
+    "wof:name":"Daphne's Devine Daycare",
+    "wof:parent_id":85805755,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary",
+        "college",
+        "day"
+    ]
+},
+  "bbox": [-95.986702,41.305401,-95.986702,41.305401],
+  "geometry": {"coordinates":[-95.986702,41.305401],"type":"Point"}
+}

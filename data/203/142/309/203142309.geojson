@@ -1,0 +1,79 @@
+{
+  "id": 203142309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.135569,41.190178,-96.135569,41.190178",
+    "geom:latitude":41.190178,
+    "geom:longitude":-96.135569,
+    "iso:country":"US",
+    "sg:address":"7010 S 142nd St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 444 3500",
+    "sg:postcode":"68138",
+    "sg:province":"NE",
+    "sg:tags":[
+        "department",
+        "township",
+        "protection",
+        "government-city",
+        "village"
+    ],
+    "sg:website":"http://www.dccorr.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        102082789,
+        85834285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Kl197vMiFIXxY49oUTDnT_41.190178_-96.135569@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f5671a8d11781f689fd1cd69f42119c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":-1,
+            "neighbourhood_id":85834285,
+            "region_id":85688563,
+            "venue_id":203142309
+        }
+    ],
+    "wof:id":203142309,
+    "wof:lastmodified":1449026453,
+    "wof:name":"Millard Fire Dept",
+    "wof:parent_id":85834285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department",
+        "township",
+        "protection",
+        "government-city",
+        "village"
+    ]
+},
+  "bbox": [-96.135569,41.190178,-96.135569,41.190178],
+  "geometry": {"coordinates":[-96.135569,41.190178],"type":"Point"}
+}

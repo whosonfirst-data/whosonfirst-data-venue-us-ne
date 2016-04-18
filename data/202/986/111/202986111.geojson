@@ -1,0 +1,75 @@
+{
+  "id": 202986111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.936018,41.177803,-95.936018,41.177803",
+    "geom:latitude":41.177803,
+    "geom:longitude":-95.936018,
+    "iso:country":"US",
+    "sg:address":"3008 Columbus Ave",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 934 7373",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "fence-sales",
+        "fence",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85804025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_18Hjdb2QcezsH9fmhZOUqF_41.177803_-95.936018@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b64e0fef424bd0a6b5540e49990f4a76",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85804025,
+            "region_id":85688563,
+            "venue_id":202986111
+        }
+    ],
+    "wof:id":202986111,
+    "wof:lastmodified":1449062178,
+    "wof:name":"Tnt Fence Company",
+    "wof:parent_id":85804025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fence-sales",
+        "fence",
+        "contractor"
+    ]
+},
+  "bbox": [-95.936018,41.177803,-95.936018,41.177803],
+  "geometry": {"coordinates":[-95.936018,41.177803],"type":"Point"}
+}

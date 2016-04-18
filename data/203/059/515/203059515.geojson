@@ -1,0 +1,61 @@
+{
+  "id": 203059515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.985802,41.251701,-95.985802,41.251701",
+    "geom:latitude":41.251701,
+    "geom:longitude":-95.985802,
+    "iso:country":"US",
+    "sg:address":"888 S Saddle Creek Rd",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 551 0613",
+    "sg:postcode":"68106",
+    "sg:province":"NE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85867055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_44Ssl4lfX0cLP3GPY3Mvez_41.251701_-95.985802@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0d240921bb10cf425430cd5a40faddfc",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85867055,
+            "region_id":85688563,
+            "venue_id":203059515
+        }
+    ],
+    "wof:id":203059515,
+    "wof:lastmodified":1449025427,
+    "wof:name":"Baker's Supermarkets",
+    "wof:parent_id":85867055,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-95.985802,41.251701,-95.985802,41.251701],
+  "geometry": {"coordinates":[-95.985802,41.251701],"type":"Point"}
+}

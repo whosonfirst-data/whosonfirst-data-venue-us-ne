@@ -1,0 +1,76 @@
+{
+  "id": 203066187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.94706,41.20935,-95.94706,41.20935",
+    "geom:latitude":41.20935,
+    "geom:longitude":-95.94706,
+    "iso:country":"US",
+    "sg:address":"4924 S 24th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 734 5130",
+    "sg:postcode":"68107",
+    "sg:province":"NE",
+    "sg:tags":[
+        "resale",
+        "shop",
+        "second",
+        "hand"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_09PZkYrdO7x26VLkC77wNo_41.209350_-95.947060@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0f370bdd6daed1b8f4d64a3679b406db",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203066187
+        }
+    ],
+    "wof:id":203066187,
+    "wof:lastmodified":1449025455,
+    "wof:name":"Thrift America",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "resale",
+        "shop",
+        "second",
+        "hand"
+    ]
+},
+  "bbox": [-95.94706,41.20935,-95.94706,41.20935],
+  "geometry": {"coordinates":[-95.94706,41.20935],"type":"Point"}
+}

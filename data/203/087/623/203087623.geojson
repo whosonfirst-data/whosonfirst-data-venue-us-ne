@@ -1,0 +1,66 @@
+{
+  "id": 203087623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.972348,41.295097,-95.972348,41.295097",
+    "geom:latitude":41.295097,
+    "geom:longitude":-95.972348,
+    "iso:country":"US",
+    "sg:address":"4008 N 40th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Arts Center",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 317 7893",
+    "sg:postcode":"68111",
+    "sg:province":"NE",
+    "sg:tags":[
+        "performing"
+    ],
+    "sg:website":"www.theatreartsguild.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1nL3Y8WLh4hpsszsz59acT_41.295097_-95.972348@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"67ef0a4da09289d00203d2f1fe9d0d31",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203087623
+        }
+    ],
+    "wof:id":203087623,
+    "wof:lastmodified":1449025794,
+    "wof:name":"Theatre Arts Guild",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "performing"
+    ]
+},
+  "bbox": [-95.972348,41.295097,-95.972348,41.295097],
+  "geometry": {"coordinates":[-95.972348,41.295097],"type":"Point"}
+}

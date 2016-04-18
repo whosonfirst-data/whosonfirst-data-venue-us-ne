@@ -1,0 +1,70 @@
+{
+  "id": 203060221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.998199,41.2505,-95.998199,41.2505",
+    "geom:latitude":41.2505,
+    "geom:longitude":-95.998199,
+    "iso:country":"US",
+    "sg:address":"5519 Mayberry St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 554 8690",
+    "sg:postcode":"68106",
+    "sg:province":"NE",
+    "sg:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85867059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6lZDa6s9CbC4KVI9CJDoqg_41.250500_-95.998199@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"41d1151ed5b5029941e637792c8a0a6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85867059,
+            "region_id":85688563,
+            "venue_id":203060221
+        }
+    ],
+    "wof:id":203060221,
+    "wof:lastmodified":1449026689,
+    "wof:name":"Washington Elementary School",
+    "wof:parent_id":85867059,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ]
+},
+  "bbox": [-95.998199,41.2505,-95.998199,41.2505],
+  "geometry": {"coordinates":[-95.998199,41.2505],"type":"Point"}
+}

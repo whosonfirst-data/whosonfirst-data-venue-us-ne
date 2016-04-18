@@ -1,0 +1,65 @@
+{
+  "id": 202990377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.048729,41.135151,-96.048729,41.135151",
+    "geom:latitude":41.135151,
+    "geom:longitude":-96.048729,
+    "iso:country":"US",
+    "sg:address":"506 Windsor Dr",
+    "sg:city":"Papillion",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 339 8705",
+    "sg:postcode":"68046",
+    "sg:province":"NE",
+    "sg:tags":[
+        "outpatient"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        102082789,
+        85843697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_40ixAXlqbVotGIGgndfdgE_41.135151_-96.048729@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d7284dab7f45abe56cfb66c3827ddd1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":-1,
+            "neighbourhood_id":85843697,
+            "region_id":85688563,
+            "venue_id":202990377
+        }
+    ],
+    "wof:id":202990377,
+    "wof:lastmodified":1449061786,
+    "wof:name":"Linda Janeczcko Pt",
+    "wof:parent_id":85843697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "outpatient"
+    ]
+},
+  "bbox": [-96.048729,41.135151,-96.048729,41.135151],
+  "geometry": {"coordinates":[-96.048729,41.135151],"type":"Point"}
+}

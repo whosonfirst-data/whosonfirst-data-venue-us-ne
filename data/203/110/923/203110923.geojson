@@ -1,0 +1,75 @@
+{
+  "id": 203110923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.965315,41.14084,-95.965315,41.14084",
+    "geom:latitude":41.14084,
+    "geom:longitude":-95.965315,
+    "iso:country":"US",
+    "sg:address":"3404 Samson Way",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 292 1607",
+    "sg:postcode":"68123",
+    "sg:province":"NE",
+    "sg:tags":[
+        "corporate",
+        "lodging"
+    ],
+    "sg:website":"http://www.bellevue.hamptoninn.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85821583
+    ],
+    "wof:brand_id":420574255,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_71vSGvWk5izjKKVWpVFR4M_41.140840_-95.965315@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"43ad468c98b67644c4b2fc9c6ae4fc0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85821583,
+            "region_id":85688563,
+            "venue_id":203110923
+        }
+    ],
+    "wof:id":203110923,
+    "wof:lastmodified":1457208703,
+    "wof:name":"Hampton Inn",
+    "wof:parent_id":85821583,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "corporate",
+        "lodging"
+    ]
+},
+  "bbox": [
+    -95.965315,
+    41.14084,
+    -95.965315,
+    41.14084
+],
+  "geometry": {"coordinates":[-95.965315,41.14084],"type":"Point"}
+}

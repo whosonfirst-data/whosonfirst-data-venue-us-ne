@@ -1,0 +1,75 @@
+{
+  "id": 203142459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.146557,41.160833,-96.146557,41.160833",
+    "geom:latitude":41.160833,
+    "geom:longitude":-96.146557,
+    "iso:country":"US",
+    "sg:address":"9902 S 148th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        },
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 895 9610",
+    "sg:postcode":"68138",
+    "sg:province":"NE",
+    "sg:tags":[
+        "local",
+        "trucking-motor",
+        "trucking"
+    ],
+    "sg:website":"http://www.4tsl.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        102082789,
+        85834285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4KqjqSvp8quf42fObwnm4a_41.160833_-96.146557@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1aeaa74aed74e9ec81c6991e6d6ed64e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":-1,
+            "neighbourhood_id":85834285,
+            "region_id":85688563,
+            "venue_id":203142459
+        }
+    ],
+    "wof:id":203142459,
+    "wof:lastmodified":1449026453,
+    "wof:name":"Transportation Specialists, Ltd.",
+    "wof:parent_id":85834285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "local",
+        "trucking-motor",
+        "trucking"
+    ]
+},
+  "bbox": [-96.146557,41.160833,-96.146557,41.160833],
+  "geometry": {"coordinates":[-96.146557,41.160833],"type":"Point"}
+}

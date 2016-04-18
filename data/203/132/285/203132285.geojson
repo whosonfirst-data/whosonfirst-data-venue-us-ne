@@ -1,0 +1,83 @@
+{
+  "id": 203132285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.006115,41.259621,-96.006115,41.259621",
+    "geom:latitude":41.259621,
+    "geom:longitude":-96.006115,
+    "iso:country":"US",
+    "sg:address":"6116 Dodge St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Place Of Worship",
+            "subcategory":"Church",
+            "type":"Public Place"
+        },
+        {
+            "category":"Place Of Worship",
+            "subcategory":"",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 558 2255",
+    "sg:postcode":"68132",
+    "sg:province":"NE",
+    "sg:tags":[
+        "churches-catholic-traditional",
+        "churches-catholic",
+        "private",
+        "k-"
+    ],
+    "sg:website":"http://www.skuttcatholic.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0qa9yqe4Uw87vviehqNUZL_41.259621_-96.006115@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"75e7fba1ba71fbb46b3dfa1acb6254d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872535,
+            "region_id":85688563,
+            "venue_id":203132285
+        }
+    ],
+    "wof:id":203132285,
+    "wof:lastmodified":1449025838,
+    "wof:name":"St Margaret Mary's Church",
+    "wof:parent_id":85872535,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "churches-catholic-traditional",
+        "churches-catholic",
+        "private",
+        "k-"
+    ]
+},
+  "bbox": [-96.006115,41.259621,-96.006115,41.259621],
+  "geometry": {"coordinates":[-96.006115,41.259621],"type":"Point"}
+}

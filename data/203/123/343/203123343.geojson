@@ -1,0 +1,68 @@
+{
+  "id": 203123343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.971065,41.257947,-95.971065,41.257947",
+    "geom:latitude":41.257947,
+    "geom:longitude":-95.971065,
+    "iso:country":"US",
+    "sg:address":"3876 Farnam St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 614 2634",
+    "sg:postcode":"68131",
+    "sg:province":"NE",
+    "sg:tags":[
+        "therapy",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4RyOwtNlOumnMeAgpA6NgY_41.257947_-95.971065@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"de905d9fb450f7a7dcf6f14619d40b3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872525,
+            "region_id":85688563,
+            "venue_id":203123343
+        }
+    ],
+    "wof:id":203123343,
+    "wof:lastmodified":1449025476,
+    "wof:name":"Procare3 Physical Occupational & Speech Therapy",
+    "wof:parent_id":85872525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapy",
+        "physical"
+    ]
+},
+  "bbox": [-95.971065,41.257947,-95.971065,41.257947],
+  "geometry": {"coordinates":[-95.971065,41.257947],"type":"Point"}
+}

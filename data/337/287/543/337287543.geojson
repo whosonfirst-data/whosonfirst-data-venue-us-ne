@@ -1,0 +1,72 @@
+{
+  "id": 337287543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.139633,41.1559,-96.139633,41.1559",
+    "geom:latitude":41.1559,
+    "geom:longitude":-96.139633,
+    "iso:country":"US",
+    "sg:address":"10410 S 144th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        },
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 530 209 4614",
+    "sg:postcode":"68138",
+    "sg:province":"NE",
+    "sg:tags":[
+        "trucking-motor",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        102082789,
+        85834285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ObzKCOQpHvqffWOLhJPzI_41.155900_-96.139633@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5e4ddb5d29b92a91f20f832b1c96d01d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":-1,
+            "neighbourhood_id":85834285,
+            "region_id":85688563,
+            "venue_id":337287543
+        }
+    ],
+    "wof:id":337287543,
+    "wof:lastmodified":1449026989,
+    "wof:name":"Midnight Xpress Carriers, Inc.",
+    "wof:parent_id":85834285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking-motor",
+        "trucking"
+    ]
+},
+  "bbox": [-96.139633,41.1559,-96.139633,41.1559],
+  "geometry": {"coordinates":[-96.139633,41.1559],"type":"Point"}
+}

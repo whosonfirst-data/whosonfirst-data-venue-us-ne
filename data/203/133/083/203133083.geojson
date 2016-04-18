@@ -1,0 +1,66 @@
+{
+  "id": 203133083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.983391,41.25957,-95.983391,41.25957",
+    "geom:latitude":41.25957,
+    "geom:longitude":-95.983391,
+    "iso:country":"US",
+    "sg:address":"4651 Dodge St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 556 7034",
+    "sg:postcode":"68132",
+    "sg:province":"NE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85867055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_59jhIPQktjnFCrfWiayBNI_41.259570_-95.983391@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5546e5cf6b6a80c286fcac4f69b94372",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85867055,
+            "region_id":85688563,
+            "venue_id":203133083
+        }
+    ],
+    "wof:id":203133083,
+    "wof:lastmodified":1449026513,
+    "wof:name":"Young Kim's Auto Repair & Service Llc",
+    "wof:parent_id":85867055,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-95.983391,41.25957,-95.983391,41.25957],
+  "geometry": {"coordinates":[-95.983391,41.25957],"type":"Point"}
+}

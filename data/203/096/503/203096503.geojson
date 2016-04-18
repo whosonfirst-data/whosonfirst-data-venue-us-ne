@@ -1,0 +1,94 @@
+{
+  "id": 203096503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.027011,41.259659,-96.027011,41.259659",
+    "geom:latitude":41.259659,
+    "geom:longitude":-96.027011,
+    "iso:country":"US",
+    "sg:address":"7355 Dodge St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Musical Instruments",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Music",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Musical Instruments",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 391 5588",
+    "sg:postcode":"68114",
+    "sg:province":"NE",
+    "sg:tags":[
+        "sheet",
+        "organ",
+        "supply",
+        "instruments-repair",
+        "pianos-parts",
+        "instruments-rental",
+        "piano"
+    ],
+    "sg:website":"http://www.schmittmusic.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1LPKNxI7lJDoMqkXIQGreJ_41.259659_-96.027011@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b03214c85d354c3a96bde8d2c71c8d4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872509,
+            "region_id":85688563,
+            "venue_id":203096503
+        }
+    ],
+    "wof:id":203096503,
+    "wof:lastmodified":1449025533,
+    "wof:name":"Schmitt Music",
+    "wof:parent_id":85872509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sheet",
+        "organ",
+        "supply",
+        "instruments-repair",
+        "pianos-parts",
+        "instruments-rental",
+        "piano"
+    ]
+},
+  "bbox": [-96.027011,41.259659,-96.027011,41.259659],
+  "geometry": {"coordinates":[-96.027011,41.259659],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 337287703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.176231,41.193702,-96.176231,41.193702",
+    "geom:latitude":41.193702,
+    "geom:longitude":-96.176231,
+    "iso:country":"US",
+    "sg:address":"16755 Monroe St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 891 4650",
+    "sg:postcode":"68135",
+    "sg:province":"NE",
+    "sg:tags":[
+        "automobile",
+        "inspection",
+        "tire",
+        "diagnostic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633793,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Fmr6YA03jZoh4hziKymn4_41.193702_-96.176231@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a84616a0e9333c73664564f6d7aaa80e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":337287703
+        }
+    ],
+    "wof:id":337287703,
+    "wof:lastmodified":1449026989,
+    "wof:name":"Jensen Tire & Auto",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "inspection",
+        "tire",
+        "diagnostic"
+    ]
+},
+  "bbox": [-96.176231,41.193702,-96.176231,41.193702],
+  "geometry": {"coordinates":[-96.176231,41.193702],"type":"Point"}
+}

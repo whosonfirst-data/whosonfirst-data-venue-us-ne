@@ -1,0 +1,66 @@
+{
+  "id": 203091211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.965035,41.281547,-95.965035,41.281547",
+    "geom:latitude":41.281547,
+    "geom:longitude":-95.965035,
+    "iso:country":"US",
+    "sg:address":"3502 Lake St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 614 0414",
+    "sg:postcode":"68111",
+    "sg:province":"NE",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6lDZf8CSQVdFBzPxhWYWIm_41.281547_-95.965035@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"021c3c5ae713e2673483978e17f82d92",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872525,
+            "region_id":85688563,
+            "venue_id":203091211
+        }
+    ],
+    "wof:id":203091211,
+    "wof:lastmodified":1449025125,
+    "wof:name":"Salem Village At Miami Heights",
+    "wof:parent_id":85872525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [-95.965035,41.281547,-95.965035,41.281547],
+  "geometry": {"coordinates":[-95.965035,41.281547],"type":"Point"}
+}

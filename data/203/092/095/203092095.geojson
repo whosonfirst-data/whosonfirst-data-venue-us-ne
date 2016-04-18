@@ -1,0 +1,67 @@
+{
+  "id": 203092095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.964798,41.299599,-95.964798,41.299599",
+    "geom:latitude":41.299599,
+    "geom:longitude":-95.964798,
+    "iso:country":"US",
+    "sg:address":"3492 Ames Ave",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 451 8166",
+    "sg:postcode":"68111",
+    "sg:province":"NE",
+    "sg:tags":[
+        "nursery",
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1cxe2LJHnukX9GJZCwXKwo_41.299599_-95.964798@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4b88a499d422cfe1b592a757718ec3ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203092095
+        }
+    ],
+    "wof:id":203092095,
+    "wof:lastmodified":1449026480,
+    "wof:name":"Gracie's Precious Angels Daycare Center",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nursery",
+        "day"
+    ]
+},
+  "bbox": [-95.964798,41.299599,-95.964798,41.299599],
+  "geometry": {"coordinates":[-95.964798,41.299599],"type":"Point"}
+}

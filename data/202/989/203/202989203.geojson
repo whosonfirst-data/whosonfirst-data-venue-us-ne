@@ -1,0 +1,72 @@
+{
+  "id": 202989203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.09041,41.037952,-96.09041,41.037952",
+    "geom:latitude":41.037952,
+    "geom:longitude":-96.09041,
+    "iso:country":"US",
+    "sg:address":"11212 Cedar Creek Rd",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"Amusement Park",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 234 2024",
+    "sg:postcode":"68037",
+    "sg:province":"NE",
+    "sg:tags":[
+        "party",
+        "planning",
+        "event"
+    ],
+    "sg:website":"www.madcowpaintball.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633793,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_25XRST2AzZIfgyOhDWJ3kh_41.037952_-96.090410@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d84e2ca74f9351cc7189f4461858341c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":202989203
+        }
+    ],
+    "wof:id":202989203,
+    "wof:lastmodified":1449061956,
+    "wof:name":"Mad Cow Paintball",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "party",
+        "planning",
+        "event"
+    ]
+},
+  "bbox": [-96.09041,41.037952,-96.09041,41.037952],
+  "geometry": {"coordinates":[-96.09041,41.037952],"type":"Point"}
+}

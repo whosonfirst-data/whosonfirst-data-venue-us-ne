@@ -1,0 +1,72 @@
+{
+  "id": 203133021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.989332,41.260092,-95.989332,41.260092",
+    "geom:latitude":41.260092,
+    "geom:longitude":-95.989332,
+    "iso:country":"US",
+    "sg:address":"4950 Dodge Street",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Day Spa",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 344 4336",
+    "sg:postcode":"68132",
+    "sg:province":"NE",
+    "sg:tags":[
+        "hair"
+    ],
+    "sg:website":"mattwaynesalon.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85867055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_40GEnU4InycVXdSeLbmVMo_41.260092_-95.989332@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5bd745b65c146e11a0e241dabb7c02c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85867055,
+            "region_id":85688563,
+            "venue_id":203133021
+        }
+    ],
+    "wof:id":203133021,
+    "wof:lastmodified":1449026512,
+    "wof:name":"Matt Wayne Salon",
+    "wof:parent_id":85867055,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hair"
+    ]
+},
+  "bbox": [-95.989332,41.260092,-95.989332,41.260092],
+  "geometry": {"coordinates":[-95.989332,41.260092],"type":"Point"}
+}

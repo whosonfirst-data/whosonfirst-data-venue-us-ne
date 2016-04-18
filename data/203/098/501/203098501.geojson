@@ -1,0 +1,79 @@
+{
+  "id": 203098501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.041359,41.25967,-96.041359,41.25967",
+    "geom:latitude":41.25967,
+    "geom:longitude":-96.041359,
+    "iso:country":"US",
+    "sg:address":"8303 Dodge St Ste 225",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 218 4123",
+    "sg:postcode":"68114",
+    "sg:province":"NE",
+    "sg:tags":[
+        "physician",
+        "oncology",
+        "family",
+        "practice",
+        "surgeons",
+        "medicine",
+        "surgeon"
+    ],
+    "sg:website":"http://www.oacancer.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6VpdXIY0PGx4ML5lge0bNu_41.259670_-96.041359@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"45ac36a1098550bb2821a9ef6661f0f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872509,
+            "region_id":85688563,
+            "venue_id":203098501
+        }
+    ],
+    "wof:id":203098501,
+    "wof:lastmodified":1449026671,
+    "wof:name":"Oncology Associates PC",
+    "wof:parent_id":85872509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "oncology",
+        "family",
+        "practice",
+        "surgeons",
+        "medicine",
+        "surgeon"
+    ]
+},
+  "bbox": [-96.041359,41.25967,-96.041359,41.25967],
+  "geometry": {"coordinates":[-96.041359,41.25967],"type":"Point"}
+}

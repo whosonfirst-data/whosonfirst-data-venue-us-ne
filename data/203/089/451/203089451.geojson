@@ -1,0 +1,61 @@
+{
+  "id": 203089451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.971592,41.284884,-95.971592,41.284884",
+    "geom:latitude":41.284884,
+    "geom:longitude":-95.971592,
+    "iso:country":"US",
+    "sg:address":"3928 Maple St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 453 4065",
+    "sg:postcode":"68111",
+    "sg:province":"NE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7LS41GCeYdAtKD8zbQR7lj_41.284884_-95.971592@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"17335c18b014861f1d30dd0e862cbf18",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872535,
+            "region_id":85688563,
+            "venue_id":203089451
+        }
+    ],
+    "wof:id":203089451,
+    "wof:lastmodified":1449025315,
+    "wof:name":"Bills Convenience Store",
+    "wof:parent_id":85872535,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-95.971592,41.284884,-95.971592,41.284884],
+  "geometry": {"coordinates":[-95.971592,41.284884],"type":"Point"}
+}

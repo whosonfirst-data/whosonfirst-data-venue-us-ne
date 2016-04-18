@@ -1,0 +1,70 @@
+{
+  "id": 203125589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.965555,41.25774,-95.965555,41.25774",
+    "geom:latitude":41.25774,
+    "geom:longitude":-95.965555,
+    "iso:country":"US",
+    "sg:address":"3555 Farnam St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 271 2850",
+    "sg:postcode":"68131",
+    "sg:province":"NE",
+    "sg:tags":[
+        "yard",
+        "leasing",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7V1f2ESAf7TFxaV1SlZ9ks_41.257740_-95.965555@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e4844a8bde25fa5e34c6db08350ad4ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872525,
+            "region_id":85688563,
+            "venue_id":203125589
+        }
+    ],
+    "wof:id":203125589,
+    "wof:lastmodified":1449026806,
+    "wof:name":"Kfm Leasing Co",
+    "wof:parent_id":85872525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "yard",
+        "leasing",
+        "store"
+    ]
+},
+  "bbox": [-95.965555,41.25774,-95.965555,41.25774],
+  "geometry": {"coordinates":[-95.965555,41.25774],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 203090561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.966343,41.298723,-95.966343,41.298723",
+    "geom:latitude":41.298723,
+    "geom:longitude":-95.966343,
+    "iso:country":"US",
+    "sg:address":"4410 N 36th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 557 3400",
+    "sg:postcode":"68111",
+    "sg:province":"NE",
+    "sg:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ],
+    "sg:website":"www.ops.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6KAaWsT6qAofqWKheb0IMP_41.298723_-95.966343@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"97a0b0c0a647f385b7e2ef49240e1cb5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203090561
+        }
+    ],
+    "wof:id":203090561,
+    "wof:lastmodified":1449026446,
+    "wof:name":"Omaha Public Schools",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ]
+},
+  "bbox": [-95.966343,41.298723,-95.966343,41.298723],
+  "geometry": {"coordinates":[-95.966343,41.298723],"type":"Point"}
+}

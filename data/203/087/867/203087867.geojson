@@ -1,0 +1,74 @@
+{
+  "id": 203087867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.976303,41.2761,-95.976303,41.2761",
+    "geom:latitude":41.2761,
+    "geom:longitude":-95.976303,
+    "iso:country":"US",
+    "sg:address":"1735 N 42nd St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Carpets & Floor Coverings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 558 4242",
+    "sg:postcode":"68111",
+    "sg:province":"NE",
+    "sg:tags":[
+        "flooring",
+        "painter"
+    ],
+    "sg:website":"www.wsbunch.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ac3bykWtoMFIXIXU7zGLh_41.276100_-95.976303@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4fb409f8a99b79ba67a91a85fe22f6a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872525,
+            "region_id":85688563,
+            "venue_id":203087867
+        }
+    ],
+    "wof:id":203087867,
+    "wof:lastmodified":1449025789,
+    "wof:name":"Bunch W S Co Inc",
+    "wof:parent_id":85872525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "flooring",
+        "painter"
+    ]
+},
+  "bbox": [-95.976303,41.2761,-95.976303,41.2761],
+  "geometry": {"coordinates":[-95.976303,41.2761],"type":"Point"}
+}

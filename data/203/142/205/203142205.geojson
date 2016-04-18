@@ -1,0 +1,71 @@
+{
+  "id": 203142205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.14533,41.14536,-96.14533,41.14536",
+    "geom:latitude":41.14536,
+    "geom:longitude":-96.14533,
+    "iso:country":"US",
+    "sg:address":"11353 S 147th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 933 3322",
+    "sg:postcode":"68138",
+    "sg:province":"NE",
+    "sg:tags":[
+        "industrial",
+        "electrician",
+        "contractors-commercial",
+        "electric"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        102082789,
+        85834285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4EER06l6WDhcg85HeXhBYi_41.145360_-96.145330@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e9d5579286f000203f543e3543e2134f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":-1,
+            "neighbourhood_id":85834285,
+            "region_id":85688563,
+            "venue_id":203142205
+        }
+    ],
+    "wof:id":203142205,
+    "wof:lastmodified":1449026454,
+    "wof:name":"Dnb Electric Co",
+    "wof:parent_id":85834285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industrial",
+        "electrician",
+        "contractors-commercial",
+        "electric"
+    ]
+},
+  "bbox": [-96.14533,41.14536,-96.14533,41.14536],
+  "geometry": {"coordinates":[-96.14533,41.14536],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 203143127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.139661,41.151587,-96.139661,41.151587",
+    "geom:latitude":41.151587,
+    "geom:longitude":-96.139661,
+    "iso:country":"US",
+    "sg:address":"10810 S 144th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        },
+        {
+            "category":"Utilities",
+            "subcategory":"Recycling",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 346 7800",
+    "sg:postcode":"68138",
+    "sg:province":"NE",
+    "sg:tags":[
+        "garbage",
+        "collection",
+        "removal",
+        "equipment",
+        "rubbish"
+    ],
+    "sg:website":"http://www.papillion-sanitation.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        102082789,
+        85834285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5XOpFmvHN7ijYYsC2bZStw_41.151587_-96.139661@1303262943"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"bdb11531816a604fb7d23883f1148d8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":-1,
+            "neighbourhood_id":85834285,
+            "region_id":85688563,
+            "venue_id":203143127
+        }
+    ],
+    "wof:id":203143127,
+    "wof:lastmodified":1449026528,
+    "wof:name":"Papillion Sanitation Recycling",
+    "wof:parent_id":85834285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection",
+        "removal",
+        "equipment",
+        "rubbish"
+    ]
+},
+  "bbox": [-96.139661,41.151587,-96.139661,41.151587],
+  "geometry": {"coordinates":[-96.139661,41.151587],"type":"Point"}
+}

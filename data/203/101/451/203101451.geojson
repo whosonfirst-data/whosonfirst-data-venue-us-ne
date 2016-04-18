@@ -1,0 +1,67 @@
+{
+  "id": 203101451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.139813,41.287621,-96.139813,41.287621",
+    "geom:latitude":41.287621,
+    "geom:longitude":-96.139813,
+    "iso:country":"US",
+    "sg:address":"14450 Eagle Run Dr",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 614 5556",
+    "sg:postcode":"68116",
+    "sg:province":"NE",
+    "sg:tags":[
+        "spa",
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7It5neYOfRi5L5Y0bhAUwp_41.287621_-96.139813@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"339be01eba2255e1675cdeba99c10a56",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203101451
+        }
+    ],
+    "wof:id":203101451,
+    "wof:lastmodified":1449025942,
+    "wof:name":"Omaha Med Spa",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "spa",
+        "medical"
+    ]
+},
+  "bbox": [-96.139813,41.287621,-96.139813,41.287621],
+  "geometry": {"coordinates":[-96.139813,41.287621],"type":"Point"}
+}

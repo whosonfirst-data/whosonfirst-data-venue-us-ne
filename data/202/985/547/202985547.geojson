@@ -1,0 +1,88 @@
+{
+  "id": 202985547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.905556,41.136509,-95.905556,41.136509",
+    "geom:latitude":41.136509,
+    "geom:longitude":-95.905556,
+    "iso:country":"US",
+    "sg:address":"1002 W Mission Ave",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Community Center",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 292 4164",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "physician",
+        "family",
+        "medical",
+        "practice",
+        "surgeons",
+        "medicine",
+        "surgery-general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974747,
+        102082777,
+        85820061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_12BoItHINjAiEq0j0Ui9D6_41.136509_-95.905556@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"586742d42c8bf59a493fafd6ae3cca30",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974747,
+            "neighbourhood_id":85820061,
+            "region_id":85688563,
+            "venue_id":202985547
+        }
+    ],
+    "wof:id":202985547,
+    "wof:lastmodified":1449061379,
+    "wof:name":"Bellevue Health Clinic",
+    "wof:parent_id":85820061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "family",
+        "medical",
+        "practice",
+        "surgeons",
+        "medicine",
+        "surgery-general"
+    ]
+},
+  "bbox": [-95.905556,41.136509,-95.905556,41.136509],
+  "geometry": {"coordinates":[-95.905556,41.136509],"type":"Point"}
+}

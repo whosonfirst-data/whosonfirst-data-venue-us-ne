@@ -1,0 +1,81 @@
+{
+  "id": 203167231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.640855,40.808445,-96.640855,40.808445",
+    "geom:latitude":40.808445,
+    "geom:longitude":-96.640855,
+    "iso:country":"US",
+    "sg:address":"521 Eldon Dr",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Stationery & Office Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 327 0797",
+    "sg:postcode":"68510",
+    "sg:province":"NE",
+    "sg:tags":[
+        "repair",
+        "tool",
+        "machine",
+        "part",
+        "tools-repairing",
+        "rebuild"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5sFzXU2AbTzqKd719qMmrZ_40.808445_-96.640855@1303262943"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c5d19947f9eb156ceb36827031e32470",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878703,
+            "region_id":85688563,
+            "venue_id":203167231
+        }
+    ],
+    "wof:id":203167231,
+    "wof:lastmodified":1449025918,
+    "wof:name":"Clarks Tool Repair",
+    "wof:parent_id":85878703,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "tool",
+        "machine",
+        "part",
+        "tools-repairing",
+        "rebuild"
+    ]
+},
+  "bbox": [-96.640855,40.808445,-96.640855,40.808445],
+  "geometry": {"coordinates":[-96.640855,40.808445],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 203114297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.043121,41.219435,-96.043121,41.219435",
+    "geom:latitude":41.219435,
+    "geom:longitude":-96.043121,
+    "iso:country":"US",
+    "sg:address":"4123 S 84th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 991 2818",
+    "sg:postcode":"68127",
+    "sg:province":"NE",
+    "sg:tags":[
+        "bathroom",
+        "planning",
+        "remodeling",
+        "kitchen"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872511
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_47DoH3MYf0g6uTf5VI0g2H_41.219435_-96.043121@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c05998be1a38a6047f65b1bbb350437d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872511,
+            "region_id":85688563,
+            "venue_id":203114297
+        }
+    ],
+    "wof:id":203114297,
+    "wof:lastmodified":1449025714,
+    "wof:name":"Re-Bath Of The Heartlands",
+    "wof:parent_id":85872511,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bathroom",
+        "planning",
+        "remodeling",
+        "kitchen"
+    ]
+},
+  "bbox": [-96.043121,41.219435,-96.043121,41.219435],
+  "geometry": {"coordinates":[-96.043121,41.219435],"type":"Point"}
+}

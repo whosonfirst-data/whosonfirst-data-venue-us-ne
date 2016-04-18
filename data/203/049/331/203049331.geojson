@@ -1,0 +1,78 @@
+{
+  "id": 203049331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.99952,41.302278,-95.99952,41.302278",
+    "geom:latitude":41.302278,
+    "geom:longitude":-95.99952,
+    "iso:country":"US",
+    "sg:address":"5555 Larimore Ave",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Place Of Worship",
+            "subcategory":"Church",
+            "type":"Public Place"
+        },
+        {
+            "category":"Place Of Worship",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 451 1933",
+    "sg:postcode":"68104",
+    "sg:province":"NE",
+    "sg:tags":[
+        "churches-interdenominational",
+        "churches-various",
+        "churches-christian",
+        "denomination"
+    ],
+    "sg:website":"http://www.northsideomaha.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85805755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_42Cb625lEggHJpOuY5kvpA_41.302278_-95.999520@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"fc5d76598fb0649006281f659dee7b23",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85805755,
+            "region_id":85688563,
+            "venue_id":203049331
+        }
+    ],
+    "wof:id":203049331,
+    "wof:lastmodified":1449025867,
+    "wof:name":"North Side Christian Church",
+    "wof:parent_id":85805755,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "churches-interdenominational",
+        "churches-various",
+        "churches-christian",
+        "denomination"
+    ]
+},
+  "bbox": [-95.99952,41.302278,-95.99952,41.302278],
+  "geometry": {"coordinates":[-95.99952,41.302278],"type":"Point"}
+}

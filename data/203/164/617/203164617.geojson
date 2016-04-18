@@ -1,0 +1,83 @@
+{
+  "id": 203164617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.702723,40.789177,-96.702723,40.789177",
+    "geom:latitude":40.789177,
+    "geom:longitude":-96.702723,
+    "iso:country":"US",
+    "sg:address":"2344 S 13th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 477 6868",
+    "sg:postcode":"68502",
+    "sg:province":"NE",
+    "sg:tags":[
+        "cleaner",
+        "upholstery",
+        "rug",
+        "damage",
+        "water",
+        "restoration",
+        "carpet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7mlBiky2ZUxGvzTw5iqC8J_40.789177_-96.702723@1303262943"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"03d50d3161c9d18bb05e7858657f7c51",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878719,
+            "region_id":85688563,
+            "venue_id":203164617
+        }
+    ],
+    "wof:id":203164617,
+    "wof:lastmodified":1449025165,
+    "wof:name":"Gemini Enterprises",
+    "wof:parent_id":85878719,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaner",
+        "upholstery",
+        "rug",
+        "damage",
+        "water",
+        "restoration",
+        "carpet"
+    ]
+},
+  "bbox": [-96.702723,40.789177,-96.702723,40.789177],
+  "geometry": {"coordinates":[-96.702723,40.789177],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 203048699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.997704,41.285,-95.997704,41.285",
+    "geom:latitude":41.285,
+    "geom:longitude":-95.997704,
+    "iso:country":"US",
+    "sg:address":"5420 NW Radial Hwy",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 558 9242",
+    "sg:postcode":"68104",
+    "sg:province":"NE",
+    "sg:website":"www2.creighton.edu",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_22kdYOniz2t3UFSFL1m1Nk_41.285000_-95.997704@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8000f67d2a9c5686801ff9c7260b7ed3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872535,
+            "region_id":85688563,
+            "venue_id":203048699
+        }
+    ],
+    "wof:id":203048699,
+    "wof:lastmodified":1449025582,
+    "wof:name":"Creighton Medical Associates",
+    "wof:parent_id":85872535,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-95.997704,41.285,-95.997704,41.285],
+  "geometry": {"coordinates":[-95.997704,41.285],"type":"Point"}
+}

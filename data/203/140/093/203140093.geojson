@@ -1,0 +1,73 @@
+{
+  "id": 203140093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.143333,41.205379,-96.143333,41.205379",
+    "geom:latitude":41.205379,
+    "geom:longitude":-96.143333,
+    "iso:country":"US",
+    "sg:address":"14808 Q St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Place Of Worship",
+            "subcategory":"Synagogue",
+            "type":"Public Place"
+        },
+        {
+            "category":"Place Of Worship",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 592 2404",
+    "sg:postcode":"68137",
+    "sg:province":"NE",
+    "sg:tags":[
+        "synagogues-reform",
+        "church"
+    ],
+    "sg:website":"http://www.adat.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2zNu7XndjkavlX8L8JqzUB_41.205379_-96.143333@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e0aed48567b48dd7ad4a2ed07cba5ffe",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203140093
+        }
+    ],
+    "wof:id":203140093,
+    "wof:lastmodified":1449025203,
+    "wof:name":"Adat Hatikvah Tzion",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "synagogues-reform",
+        "church"
+    ]
+},
+  "bbox": [-96.143333,41.205379,-96.143333,41.205379],
+  "geometry": {"coordinates":[-96.143333,41.205379],"type":"Point"}
+}

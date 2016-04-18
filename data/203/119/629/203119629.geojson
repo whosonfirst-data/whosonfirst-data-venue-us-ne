@@ -1,0 +1,66 @@
+{
+  "id": 203119629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.95584,41.257553,-95.95584,41.257553",
+    "geom:latitude":41.257553,
+    "geom:longitude":-95.95584,
+    "iso:country":"US",
+    "sg:address":"2951 Farnam St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Locksmith",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 881 3061",
+    "sg:postcode":"68131",
+    "sg:province":"NE",
+    "sg:tags":[
+        "key"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4fYC9XLQgGbxBMx5eEI1h6_41.257553_-95.955840@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5936204d0f26065b1f43d39baf6b9a0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872525,
+            "region_id":85688563,
+            "venue_id":203119629
+        }
+    ],
+    "wof:id":203119629,
+    "wof:lastmodified":1449026321,
+    "wof:name":"Locksmith 24 Hours",
+    "wof:parent_id":85872525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "key"
+    ]
+},
+  "bbox": [-95.95584,41.257553,-95.95584,41.257553],
+  "geometry": {"coordinates":[-95.95584,41.257553],"type":"Point"}
+}

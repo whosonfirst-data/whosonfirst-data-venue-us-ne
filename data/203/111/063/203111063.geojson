@@ -1,0 +1,74 @@
+{
+  "id": 203111063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.964957,41.14001,-95.964957,41.14001",
+    "geom:latitude":41.14001,
+    "geom:longitude":-95.964957,
+    "iso:country":"US",
+    "sg:address":"3308 Samson Way Ste 101",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 827 1577",
+    "sg:postcode":"68123",
+    "sg:province":"NE",
+    "sg:tags":[
+        "medicine",
+        "physician",
+        "practice",
+        "surgeons",
+        "family"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85821583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3tb6jc3XaLPQ1gNnvg5VKr_41.140010_-95.964957@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b6db18c86b0da8aca5da050fd7786fbd",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85821583,
+            "region_id":85688563,
+            "venue_id":203111063
+        }
+    ],
+    "wof:id":203111063,
+    "wof:lastmodified":1449026901,
+    "wof:name":"Bellevue Primary Care",
+    "wof:parent_id":85821583,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicine",
+        "physician",
+        "practice",
+        "surgeons",
+        "family"
+    ]
+},
+  "bbox": [-95.964957,41.14001,-95.964957,41.14001],
+  "geometry": {"coordinates":[-95.964957,41.14001],"type":"Point"}
+}

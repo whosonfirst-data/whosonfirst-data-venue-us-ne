@@ -1,0 +1,76 @@
+{
+  "id": 202991395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.043198,41.096699,-96.043198,41.096699",
+    "geom:latitude":41.096699,
+    "geom:longitude":-96.043198,
+    "iso:country":"US",
+    "sg:address":"14110 S 84th St",
+    "sg:city":"Papillion",
+    "sg:classifiers":[
+        {
+            "category":"Animal Shelter",
+            "subcategory":"",
+            "type":"Public Place"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Pets & Pet Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Pet Boarding",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 339 5355",
+    "sg:postcode":"68046",
+    "sg:province":"NE",
+    "sg:tags":[
+        "store",
+        "boarding/pet",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633793,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Sta9GwkcVpzejcy2N4fA7_41.096699_-96.043198@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f936e0aa979badf6efe5159222dceb32",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":202991395
+        }
+    ],
+    "wof:id":202991395,
+    "wof:lastmodified":1449060906,
+    "wof:name":"Town & Country Humane Society",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "store",
+        "boarding/pet",
+        "sitting"
+    ]
+},
+  "bbox": [-96.043198,41.096699,-96.043198,41.096699],
+  "geometry": {"coordinates":[-96.043198,41.096699],"type":"Point"}
+}

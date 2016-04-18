@@ -1,0 +1,86 @@
+{
+  "id": 203123165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.973339,41.259709,-95.973339,41.259709",
+    "geom:latitude":41.259709,
+    "geom:longitude":-95.973339,
+    "iso:country":"US",
+    "sg:address":"107 N 40th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 614 4545",
+    "sg:postcode":"68131",
+    "sg:province":"NE",
+    "sg:tags":[
+        "shop",
+        "sandwich",
+        "take"
+    ],
+    "sg:website":"http://www.jimmyjohns.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2wRc5U2V6byYiTIBRNfapS_41.259709_-95.973339@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"78d869711b561fbc801aba55f4825e7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872525,
+            "region_id":85688563,
+            "venue_id":203123165
+        }
+    ],
+    "wof:id":203123165,
+    "wof:lastmodified":1449025477,
+    "wof:name":"Jimmy John's",
+    "wof:parent_id":85872525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "sandwich",
+        "take"
+    ]
+},
+  "bbox": [-95.973339,41.259709,-95.973339,41.259709],
+  "geometry": {"coordinates":[-95.973339,41.259709],"type":"Point"}
+}

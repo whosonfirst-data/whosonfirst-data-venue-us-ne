@@ -1,0 +1,92 @@
+{
+  "id": 203099743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.032443,41.24881,-96.032443,41.24881",
+    "geom:latitude":41.24881,
+    "geom:longitude":-96.032443,
+    "iso:country":"US",
+    "sg:address":"7701 Pacific St Ste 119",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 397 6788",
+    "sg:postcode":"68114",
+    "sg:province":"NE",
+    "sg:tags":[
+        "family",
+        "professional",
+        "counselors-licensed",
+        "psychologist",
+        "individual",
+        "marriage",
+        "child",
+        "counseling",
+        "counselor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2FewuOLzxq4n4BP7ovzHSC_41.248810_-96.032443@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"25d50aed3d66855c384114cad8fbba42",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872509,
+            "region_id":85688563,
+            "venue_id":203099743
+        }
+    ],
+    "wof:id":203099743,
+    "wof:lastmodified":1449026216,
+    "wof:name":"Dana Vaughn Gehring",
+    "wof:parent_id":85872509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "family",
+        "professional",
+        "counselors-licensed",
+        "psychologist",
+        "individual",
+        "marriage",
+        "child",
+        "counseling",
+        "counselor"
+    ]
+},
+  "bbox": [-96.032443,41.24881,-96.032443,41.24881],
+  "geometry": {"coordinates":[-96.032443,41.24881],"type":"Point"}
+}

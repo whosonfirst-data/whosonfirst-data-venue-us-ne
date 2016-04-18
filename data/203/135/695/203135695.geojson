@@ -1,0 +1,88 @@
+{
+  "id": 203135695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.052528,41.278941,-96.052528,41.278941",
+    "geom:latitude":41.278941,
+    "geom:longitude":-96.052528,
+    "iso:country":"US",
+    "sg:address":"2201 N 90th St #124",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Hazard Insurance",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Life Insurance",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Title Insurance",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 991 3505",
+    "sg:postcode":"68134",
+    "sg:province":"NE",
+    "sg:tags":[
+        "auto",
+        "commercial",
+        "business",
+        "homeowner"
+    ],
+    "sg:website":"http://www.farmersagent.com/remerson/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85867061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3JHCDXX35aGbL1xymtczDG_41.278941_-96.052528@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4003cdd4405e134b84e04835f83fdaac",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85867061,
+            "region_id":85688563,
+            "venue_id":203135695
+        }
+    ],
+    "wof:id":203135695,
+    "wof:lastmodified":1449025646,
+    "wof:name":"Ryan Emerson - Farmers Insurance",
+    "wof:parent_id":85867061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "auto",
+        "commercial",
+        "business",
+        "homeowner"
+    ]
+},
+  "bbox": [-96.052528,41.278941,-96.052528,41.278941],
+  "geometry": {"coordinates":[-96.052528,41.278941],"type":"Point"}
+}

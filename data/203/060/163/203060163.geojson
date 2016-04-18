@@ -1,0 +1,67 @@
+{
+  "id": 203060163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.017899,41.2262,-96.017899,41.2262",
+    "geom:latitude":41.2262,
+    "geom:longitude":-96.017899,
+    "iso:country":"US",
+    "sg:address":"6801 A Plz Ofc",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 393 2188",
+    "sg:postcode":"68106",
+    "sg:province":"NE",
+    "sg:tags":[
+        "apartment"
+    ],
+    "sg:website":"www.groversquareapts.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85867059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ccOCpcozRc48PTi2PbE19_41.226200_-96.017899@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"667cd3f557cfa8bee7d84e5e2bcd60e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85867059,
+            "region_id":85688563,
+            "venue_id":203060163
+        }
+    ],
+    "wof:id":203060163,
+    "wof:lastmodified":1449026691,
+    "wof:name":"Grover Square Apartments",
+    "wof:parent_id":85867059,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [-96.017899,41.2262,-96.017899,41.2262],
+  "geometry": {"coordinates":[-96.017899,41.2262],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 203152315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.948249,41.263897,-95.948249,41.263897",
+    "geom:latitude":41.263897,
+    "geom:longitude":-95.948249,
+    "iso:country":"US",
+    "sg:address":"2500 Cass St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 280 2796",
+    "sg:postcode":"68178",
+    "sg:province":"NE",
+    "sg:tags":[
+        "bookstore"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_20d3QYpqcAYVAdcw4EIVYB_41.263897_-95.948249@1303262943"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"bab8eab9245475e8149085acd534f6e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872525,
+            "region_id":85688563,
+            "venue_id":203152315
+        }
+    ],
+    "wof:id":203152315,
+    "wof:lastmodified":1449026394,
+    "wof:name":"Creighton Book Store",
+    "wof:parent_id":85872525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bookstore"
+    ]
+},
+  "bbox": [-95.948249,41.263897,-95.948249,41.263897],
+  "geometry": {"coordinates":[-95.948249,41.263897],"type":"Point"}
+}

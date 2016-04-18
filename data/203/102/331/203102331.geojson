@@ -1,0 +1,65 @@
+{
+  "id": 203102331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.99372,41.219742,-95.99372,41.219742",
+    "geom:latitude":41.219742,
+    "geom:longitude":-95.99372,
+    "iso:country":"US",
+    "sg:address":"5141 F St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"University",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 800 433 3243",
+    "sg:postcode":"68117",
+    "sg:province":"NE",
+    "sg:tags":[
+        "college"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_26wzgNPeQDZUFnEpIwMgnt_41.219742_-95.993720@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4763e9e413ed7cd4a80c0a9abf51daca",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203102331
+        }
+    ],
+    "wof:id":203102331,
+    "wof:lastmodified":1449026730,
+    "wof:name":"Vatterott College",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "college"
+    ]
+},
+  "bbox": [-95.99372,41.219742,-95.99372,41.219742],
+  "geometry": {"coordinates":[-95.99372,41.219742],"type":"Point"}
+}

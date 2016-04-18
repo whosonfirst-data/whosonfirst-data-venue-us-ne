@@ -1,0 +1,70 @@
+{
+  "id": 203048345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.004601,41.2878,-96.004601,41.2878",
+    "geom:latitude":41.2878,
+    "geom:longitude":-96.004601,
+    "iso:country":"US",
+    "sg:address":"3212 N 60th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 554 8493",
+    "sg:postcode":"68104",
+    "sg:province":"NE",
+    "sg:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0OJVvuzjWd5NA6HMKjeUUr_41.287800_-96.004601@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"90f3e96def01c9887841135665da8104",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872535,
+            "region_id":85688563,
+            "venue_id":203048345
+        }
+    ],
+    "wof:id":203048345,
+    "wof:lastmodified":1449025587,
+    "wof:name":"Catholic Department of Education",
+    "wof:parent_id":85872535,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ]
+},
+  "bbox": [-96.004601,41.2878,-96.004601,41.2878],
+  "geometry": {"coordinates":[-96.004601,41.2878],"type":"Point"}
+}

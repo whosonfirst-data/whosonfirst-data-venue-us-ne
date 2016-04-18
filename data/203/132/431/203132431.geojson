@@ -1,0 +1,66 @@
+{
+  "id": 203132431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.980598,41.264801,-95.980598,41.264801",
+    "geom:latitude":41.264801,
+    "geom:longitude":-95.980598,
+    "iso:country":"US",
+    "sg:address":"628 N Saddle Creek Rd",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Beauty & Cosmetics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 551 7077",
+    "sg:postcode":"68132",
+    "sg:province":"NE",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85867055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0EgFa4hg0knge9tRivm72F_41.264801_-95.980598@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0f8c224a18afd6be91cacffc5545c438",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85867055,
+            "region_id":85688563,
+            "venue_id":203132431
+        }
+    ],
+    "wof:id":203132431,
+    "wof:lastmodified":1449025837,
+    "wof:name":"Lee Beauty Supply",
+    "wof:parent_id":85867055,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [-95.980598,41.264801,-95.980598,41.264801],
+  "geometry": {"coordinates":[-95.980598,41.264801],"type":"Point"}
+}

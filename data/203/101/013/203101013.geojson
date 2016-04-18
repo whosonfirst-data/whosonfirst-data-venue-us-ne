@@ -1,0 +1,76 @@
+{
+  "id": 203101013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.138847,41.293179,-96.138847,41.293179",
+    "geom:latitude":41.293179,
+    "geom:longitude":-96.138847,
+    "iso:country":"US",
+    "sg:address":"3707 N 144th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 554 8125",
+    "sg:postcode":"68116",
+    "sg:province":"NE",
+    "sg:tags":[
+        "commercial",
+        "loan",
+        "saving"
+    ],
+    "sg:website":"http://www.tieronebank.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_57QmPtEFGIZT9C6I4z5TK7_41.293179_-96.138847@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8b79ea599a9cd311b9d863022ddd5a14",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872503,
+            "region_id":85688563,
+            "venue_id":203101013
+        }
+    ],
+    "wof:id":203101013,
+    "wof:lastmodified":1449025941,
+    "wof:name":"Tierone Bank",
+    "wof:parent_id":85872503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "loan",
+        "saving"
+    ]
+},
+  "bbox": [-96.138847,41.293179,-96.138847,41.293179],
+  "geometry": {"coordinates":[-96.138847,41.293179],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 203098079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.039899,41.260612,-96.039899,41.260612",
+    "geom:latitude":41.260612,
+    "geom:longitude":-96.039899,
+    "iso:country":"US",
+    "sg:address":"8012 W Dodge Rd",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 391 4188",
+    "sg:postcode":"68114",
+    "sg:province":"NE",
+    "sg:tags":[
+        "car",
+        "truck"
+    ],
+    "sg:website":"http://www.enterprise.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872509
+    ],
+    "wof:brand_id":420573775,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3zG6MeX61so4NepiKSKAGj_41.260612_-96.039899@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"791636d3e1a6708aaa8c4805fdbbb492",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872509,
+            "region_id":85688563,
+            "venue_id":203098079
+        }
+    ],
+    "wof:id":203098079,
+    "wof:lastmodified":1457207249,
+    "wof:name":"Enterprise Rent-A-Car",
+    "wof:parent_id":85872509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "truck"
+    ]
+},
+  "bbox": [
+    -96.039899,
+    41.260612,
+    -96.039899,
+    41.260612
+],
+  "geometry": {"coordinates":[-96.03989900000001,41.260612],"type":"Point"}
+}

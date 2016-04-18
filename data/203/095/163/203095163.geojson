@@ -1,0 +1,66 @@
+{
+  "id": 203095163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.958048,41.327305,-95.958048,41.327305",
+    "geom:latitude":41.327305,
+    "geom:longitude":-95.958048,
+    "iso:country":"US",
+    "sg:address":"7446 N 30th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 932 2898",
+    "sg:postcode":"68112",
+    "sg:province":"NE",
+    "sg:tags":[
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85805287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_26isfCBgwnN1tU9aG5FMsG_41.327305_-95.958048@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f68c7dc05c3ef1822891fd4366ed067d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85805287,
+            "region_id":85688563,
+            "venue_id":203095163
+        }
+    ],
+    "wof:id":203095163,
+    "wof:lastmodified":1449025892,
+    "wof:name":"Little Caesar's Pizza",
+    "wof:parent_id":85805287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pizza"
+    ]
+},
+  "bbox": [-95.958048,41.327305,-95.958048,41.327305],
+  "geometry": {"coordinates":[-95.958048,41.327305],"type":"Point"}
+}

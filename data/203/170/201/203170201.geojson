@@ -1,0 +1,96 @@
+{
+  "id": 203170201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-99.09558,40.685249,-99.09558,40.685249",
+    "geom:latitude":40.685249,
+    "geom:longitude":-99.09558,
+    "iso:country":"US",
+    "sg:address":"1108 10th Ave",
+    "sg:city":"Kearney",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Discount & Variety Stores",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Supermarket",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 308 234 1739",
+    "sg:postcode":"68845",
+    "sg:province":"NE",
+    "sg:tags":[
+        "clothing",
+        "super",
+        "merchandise"
+    ],
+    "sg:website":"http://www.walmart.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973527,
+        102084305
+    ],
+    "wof:brand_id":420574665,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0hEOPA9FvmqcqeBokhh0ss_40.685249_-99.095580@1303262943"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3439640ca2a159d91270b0ed67c2b996",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084305,
+            "locality_id":85973527,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203170201
+        }
+    ],
+    "wof:id":203170201,
+    "wof:lastmodified":1457209097,
+    "wof:name":"Wal-Mart Supercenter",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clothing",
+        "super",
+        "merchandise"
+    ]
+},
+  "bbox": [
+    -99.09558,
+    40.685249,
+    -99.09558,
+    40.685249
+],
+  "geometry": {"coordinates":[-99.09558,40.685249],"type":"Point"}
+}

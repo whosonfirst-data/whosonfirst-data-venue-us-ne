@@ -1,0 +1,85 @@
+{
+  "id": 203058947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.991286,41.252356,-95.991286,41.252356",
+    "geom:latitude":41.252356,
+    "geom:longitude":-95.991286,
+    "iso:country":"US",
+    "sg:address":"802 S 50th Ave",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Buildings",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 553 2924",
+    "sg:postcode":"68106",
+    "sg:province":"NE",
+    "sg:tags":[
+        "roofing",
+        "industrial",
+        "builder",
+        "contractor",
+        "contractors-commercial",
+        "home",
+        "masonry",
+        "mason"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85867055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_754V5UUTaq4TAvsFlOQJNK_41.252356_-95.991286@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6765116fe17f85f9af12a1cf5d7a816e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85867055,
+            "region_id":85688563,
+            "venue_id":203058947
+        }
+    ],
+    "wof:id":203058947,
+    "wof:lastmodified":1449025214,
+    "wof:name":"Jim La Hood Construction Inc",
+    "wof:parent_id":85867055,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "roofing",
+        "industrial",
+        "builder",
+        "contractor",
+        "contractors-commercial",
+        "home",
+        "masonry",
+        "mason"
+    ]
+},
+  "bbox": [-95.991286,41.252356,-95.991286,41.252356],
+  "geometry": {"coordinates":[-95.991286,41.252356],"type":"Point"}
+}

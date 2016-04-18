@@ -1,0 +1,67 @@
+{
+  "id": 203111995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.024,41.226562,-96.024,41.226562",
+    "geom:latitude":41.226562,
+    "geom:longitude":-96.024,
+    "iso:country":"US",
+    "sg:address":"3650 S 72nd St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 397 3700",
+    "sg:postcode":"68124",
+    "sg:province":"NE",
+    "sg:tags":[
+        "lodging"
+    ],
+    "sg:website":"http://omahaexecutiveinns.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85867059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4DvSPk2jr1tuQyB5aEv31p_41.226562_-96.024000@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"60895f631996335de56ba4a42ac7d3b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85867059,
+            "region_id":85688563,
+            "venue_id":203111995
+        }
+    ],
+    "wof:id":203111995,
+    "wof:lastmodified":1449026907,
+    "wof:name":"Omaha Executive Inn & Suites",
+    "wof:parent_id":85867059,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lodging"
+    ]
+},
+  "bbox": [-96.024,41.226562,-96.024,41.226562],
+  "geometry": {"coordinates":[-96.024,41.226562],"type":"Point"}
+}

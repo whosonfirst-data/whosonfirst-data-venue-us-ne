@@ -1,0 +1,66 @@
+{
+  "id": 203101765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.015404,41.2187,-96.015404,41.2187",
+    "geom:latitude":41.2187,
+    "geom:longitude":-96.015404,
+    "iso:country":"US",
+    "sg:address":"4153 S 67th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 331 1244",
+    "sg:postcode":"68117",
+    "sg:province":"NE",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85867059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_76ZoKg14y83SSuKbZw9xXr_41.218700_-96.015404@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4307c68be5a57c3c94c18fc37c4cb82a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85867059,
+            "region_id":85688563,
+            "venue_id":203101765
+        }
+    ],
+    "wof:id":203101765,
+    "wof:lastmodified":1449025942,
+    "wof:name":"Tab Construction",
+    "wof:parent_id":85867059,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [-96.015404,41.2187,-96.015404,41.2187],
+  "geometry": {"coordinates":[-96.015404,41.2187],"type":"Point"}
+}

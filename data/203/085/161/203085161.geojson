@@ -1,0 +1,69 @@
+{
+  "id": 203085161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.904699,41.306329,-95.904699,41.306329",
+    "geom:latitude":41.306329,
+    "geom:longitude":-95.904699,
+    "iso:country":"US",
+    "sg:address":"5229 Boeing Ct",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 341 0240",
+    "sg:postcode":"68110",
+    "sg:province":"NE",
+    "sg:tags":[
+        "enforcement",
+        "law",
+        "agencies-government"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6D2f4xiwS2cKAUXcmQjslt_41.306329_-95.904699@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f66d36e03ce41427b8a2cb4af41f0225",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203085161
+        }
+    ],
+    "wof:id":203085161,
+    "wof:lastmodified":1449025390,
+    "wof:name":"Port Of Entry-Omaha",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "enforcement",
+        "law",
+        "agencies-government"
+    ]
+},
+  "bbox": [-95.904699,41.306329,-95.904699,41.306329],
+  "geometry": {"coordinates":[-95.904699,41.306329],"type":"Point"}
+}

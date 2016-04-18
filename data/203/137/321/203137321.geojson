@@ -1,0 +1,87 @@
+{
+  "id": 203137321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.02479,41.279628,-96.02479,41.279628",
+    "geom:latitude":41.279628,
+    "geom:longitude":-96.02479,
+    "iso:country":"US",
+    "sg:address":"2309 N 73rd St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 392 1527",
+    "sg:postcode":"68134",
+    "sg:province":"NE",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "detailing",
+        "part",
+        "painting",
+        "repairing"
+    ],
+    "sg:website":"http://OmahaNorth73rd.maaco.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5NKIQJaAiZRQQULWAVF4iX_41.279628_-96.024790@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4e5a00c56caeaa31eceedd69e92ee38b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872507,
+            "region_id":85688563,
+            "venue_id":203137321
+        }
+    ],
+    "wof:id":203137321,
+    "wof:lastmodified":1449026598,
+    "wof:name":"Maaco - Omaha",
+    "wof:parent_id":85872507,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "detailing",
+        "part",
+        "painting",
+        "repairing"
+    ]
+},
+  "bbox": [-96.02479,41.279628,-96.02479,41.279628],
+  "geometry": {"coordinates":[-96.02479,41.279628],"type":"Point"}
+}

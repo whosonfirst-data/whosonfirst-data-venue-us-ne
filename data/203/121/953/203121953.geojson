@@ -1,0 +1,68 @@
+{
+  "id": 203121953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.95018,41.27198,-95.95018,41.27198",
+    "geom:latitude":41.27198,
+    "geom:longitude":-95.95018,
+    "iso:country":"US",
+    "sg:address":"2606 Hamilton St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 827 6185",
+    "sg:postcode":"68131",
+    "sg:province":"NE",
+    "sg:tags":[
+        "nursery",
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0sltP03qQ5pwWwwaRGqKqd_41.271980_-95.950180@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"83d696d275f663ad602ab0981b0baf86",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872525,
+            "region_id":85688563,
+            "venue_id":203121953
+        }
+    ],
+    "wof:id":203121953,
+    "wof:lastmodified":1449026415,
+    "wof:name":"Head Start",
+    "wof:parent_id":85872525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nursery",
+        "day"
+    ]
+},
+  "bbox": [-95.95018,41.27198,-95.95018,41.27198],
+  "geometry": {"coordinates":[-95.95018,41.27198],"type":"Point"}
+}

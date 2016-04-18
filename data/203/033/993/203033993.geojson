@@ -1,0 +1,67 @@
+{
+  "id": 203033993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.933273,41.256531,-95.933273,41.256531",
+    "geom:latitude":41.256531,
+    "geom:longitude":-95.933273,
+    "iso:country":"US",
+    "sg:address":"1301 Harney St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Surveying",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 233 7142",
+    "sg:postcode":"68102",
+    "sg:province":"NE",
+    "sg:tags":[
+        "planning",
+        "land"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ueBZjJfyvm7UptBAvz1fG_41.256531_-95.933273@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3dd0deb1e544bb3d5c951ff9004b5047",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203033993
+        }
+    ],
+    "wof:id":203033993,
+    "wof:lastmodified":1449025326,
+    "wof:name":"Destination Midtown",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "planning",
+        "land"
+    ]
+},
+  "bbox": [-95.933273,41.256531,-95.933273,41.256531],
+  "geometry": {"coordinates":[-95.933273,41.256531],"type":"Point"}
+}

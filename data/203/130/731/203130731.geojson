@@ -1,0 +1,66 @@
+{
+  "id": 203130731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.983704,41.259602,-95.983704,41.259602",
+    "geom:latitude":41.259602,
+    "geom:longitude":-95.983704,
+    "iso:country":"US",
+    "sg:address":"4629 Dodge St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 339 6232",
+    "sg:postcode":"68132",
+    "sg:province":"NE",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85867055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2A7b3SJmNeLpW180SEn4cY_41.259602_-95.983704@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6672e4f793c7f26139681ac3cd221e8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85867055,
+            "region_id":85688563,
+            "venue_id":203130731
+        }
+    ],
+    "wof:id":203130731,
+    "wof:lastmodified":1449025571,
+    "wof:name":"Pittman Animal Hospital",
+    "wof:parent_id":85867055,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [-95.983704,41.259602,-95.983704,41.259602],
+  "geometry": {"coordinates":[-95.983704,41.259602],"type":"Point"}
+}

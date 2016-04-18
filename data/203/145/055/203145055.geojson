@@ -1,0 +1,88 @@
+{
+  "id": 203145055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.102756,41.234093,-96.102756,41.234093",
+    "geom:latitude":41.234093,
+    "geom:longitude":-96.102756,
+    "iso:country":"US",
+    "sg:address":"12100 W Center Rd Ste 606",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Music School",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"Vocational School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 330 2761",
+    "sg:postcode":"68144",
+    "sg:province":"NE",
+    "sg:tags":[
+        "industrial",
+        "art",
+        "business",
+        "technical",
+        "instruction",
+        "trade",
+        "instruction-instrumental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1E4wQ46G76L1dH204FcPgI_41.234093_-96.102756@1303262943"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a9d7a6a468cfd88c28ff560234cb2419",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872531,
+            "region_id":85688563,
+            "venue_id":203145055
+        }
+    ],
+    "wof:id":203145055,
+    "wof:lastmodified":1449025483,
+    "wof:name":"Rhythm & Hues A Studio of Fine Arts",
+    "wof:parent_id":85872531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industrial",
+        "art",
+        "business",
+        "technical",
+        "instruction",
+        "trade",
+        "instruction-instrumental"
+    ]
+},
+  "bbox": [-96.102756,41.234093,-96.102756,41.234093],
+  "geometry": {"coordinates":[-96.102756,41.234093],"type":"Point"}
+}

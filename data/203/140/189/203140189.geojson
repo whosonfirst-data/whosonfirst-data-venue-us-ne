@@ -1,0 +1,94 @@
+{
+  "id": 203140189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.123893,41.20274,-96.123893,41.20274",
+    "geom:latitude":41.20274,
+    "geom:longitude":-96.123893,
+    "iso:country":"US",
+    "sg:address":"5312 S 136th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Painting Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Construction Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Hardware",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 689 2385",
+    "sg:postcode":"68137",
+    "sg:province":"NE",
+    "sg:tags":[
+        "lawn",
+        "paint",
+        "equipment",
+        "part",
+        "plumbing",
+        "fixtures",
+        "store"
+    ],
+    "sg:website":"http://www.truevalue.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0JO8DG4Vho0LGh03g2FCUh_41.202740_-96.123893@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"089aeae595ef318bbc4c88fcf772f030",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872531,
+            "region_id":85688563,
+            "venue_id":203140189
+        }
+    ],
+    "wof:id":203140189,
+    "wof:lastmodified":1449025208,
+    "wof:name":"Home & Garden True Value",
+    "wof:parent_id":85872531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lawn",
+        "paint",
+        "equipment",
+        "part",
+        "plumbing",
+        "fixtures",
+        "store"
+    ]
+},
+  "bbox": [-96.123893,41.20274,-96.123893,41.20274],
+  "geometry": {"coordinates":[-96.123893,41.20274],"type":"Point"}
+}

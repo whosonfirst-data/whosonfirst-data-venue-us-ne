@@ -1,0 +1,66 @@
+{
+  "id": 203165543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.617844,40.827047,-96.617844,40.827047",
+    "geom:latitude":40.827047,
+    "geom:longitude":-96.617844,
+    "iso:country":"US",
+    "sg:address":"7531 Starr St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 464 3203",
+    "sg:postcode":"68505",
+    "sg:province":"NE",
+    "sg:tags":[
+        "electrician"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_34HILTderlyNO2259GNN55_40.827047_-96.617844@1303262943"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"672e93fefa479bf0d5cd03f3f18779d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878725,
+            "region_id":85688563,
+            "venue_id":203165543
+        }
+    ],
+    "wof:id":203165543,
+    "wof:lastmodified":1449026866,
+    "wof:name":"Martin Electric",
+    "wof:parent_id":85878725,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrician"
+    ]
+},
+  "bbox": [-96.617844,40.827047,-96.617844,40.827047],
+  "geometry": {"coordinates":[-96.617844,40.827047],"type":"Point"}
+}

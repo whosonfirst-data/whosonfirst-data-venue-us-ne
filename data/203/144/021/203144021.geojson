@@ -1,0 +1,67 @@
+{
+  "id": 203144021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.156167,41.223329,-96.156167,41.223329",
+    "geom:latitude":41.223329,
+    "geom:longitude":-96.156167,
+    "iso:country":"US",
+    "sg:address":"15404 Garfield St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 933 2877",
+    "sg:postcode":"68144",
+    "sg:province":"NE",
+    "sg:tags":[
+        "isp",
+        "provider",
+        "internet"
+    ],
+    "sg:website":"http://www.jagwireless.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633793,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7aKQoNvX1sSyuPFiVEESUM_41.223329_-96.156167@1303262943"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d1dd95a8e838a9bbb49f7b50ca110b39",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203144021
+        }
+    ],
+    "wof:id":203144021,
+    "wof:lastmodified":1449026361,
+    "wof:name":"Jagwireless",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "isp",
+        "provider",
+        "internet"
+    ]
+},
+  "bbox": [-96.156167,41.223329,-96.156167,41.223329],
+  "geometry": {"coordinates":[-96.156167,41.223329],"type":"Point"}
+}

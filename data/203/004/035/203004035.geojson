@@ -1,0 +1,70 @@
+{
+  "id": 203004035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.935966,41.268078,-95.935966,41.268078",
+    "geom:latitude":41.268078,
+    "geom:longitude":-95.935966,
+    "iso:country":"US",
+    "sg:address":"1510 Cuming St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 916 4724",
+    "sg:postcode":"68102",
+    "sg:province":"NE",
+    "sg:tags":[
+        "burger"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ZuWPF8HxaWnpW4OCCschp_41.268078_-95.935966@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4591fd98326e48070a16a8cf73d0194d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203004035
+        }
+    ],
+    "wof:id":203004035,
+    "wof:lastmodified":1449025606,
+    "wof:name":"Barley's",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger"
+    ]
+},
+  "bbox": [-95.935966,41.268078,-95.935966,41.268078],
+  "geometry": {"coordinates":[-95.935966,41.268078],"type":"Point"}
+}

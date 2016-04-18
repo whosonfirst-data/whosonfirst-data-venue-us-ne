@@ -1,0 +1,71 @@
+{
+  "id": 203092253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.956722,41.285118,-95.956722,41.285118",
+    "geom:latitude":41.285118,
+    "geom:longitude":-95.956722,
+    "iso:country":"US",
+    "sg:address":"2906 N 30th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 827 5339",
+    "sg:postcode":"68111",
+    "sg:province":"NE",
+    "sg:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ],
+    "sg:website":"www.ops.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6xOmNsbJz8p4Cu5h5jsMQE_41.285118_-95.956722@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"52cca47352160f6c04ef9f389473befe",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872525,
+            "region_id":85688563,
+            "venue_id":203092253
+        }
+    ],
+    "wof:id":203092253,
+    "wof:lastmodified":1449026481,
+    "wof:name":"Head Start Omaha Public Schools",
+    "wof:parent_id":85872525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ]
+},
+  "bbox": [-95.956722,41.285118,-95.956722,41.285118],
+  "geometry": {"coordinates":[-95.956722,41.285118],"type":"Point"}
+}

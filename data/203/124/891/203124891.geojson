@@ -1,0 +1,79 @@
+{
+  "id": 203124891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.951957,41.25761,-95.951957,41.25761",
+    "geom:latitude":41.25761,
+    "geom:longitude":-95.951957,
+    "iso:country":"US",
+    "sg:address":"2679 Farnam St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Party Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Event Space",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 933 6678",
+    "sg:postcode":"68131",
+    "sg:province":"NE",
+    "sg:tags":[
+        "hall",
+        "wedding",
+        "banquet",
+        "reception",
+        "facility"
+    ],
+    "sg:website":"http://www.simply-ballroom.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0TKMMu4LJdOTKhLnNf840G_41.257610_-95.951957@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7bdc59942ffb6c34acc7568c171dd938",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203124891
+        }
+    ],
+    "wof:id":203124891,
+    "wof:lastmodified":1449026725,
+    "wof:name":"Simply Ballroom",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hall",
+        "wedding",
+        "banquet",
+        "reception",
+        "facility"
+    ]
+},
+  "bbox": [-95.951957,41.25761,-95.951957,41.25761],
+  "geometry": {"coordinates":[-95.951957,41.25761],"type":"Point"}
+}

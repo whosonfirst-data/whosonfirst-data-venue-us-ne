@@ -1,0 +1,66 @@
+{
+  "id": 203168419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.640296,40.763148,-96.640296,40.763148",
+    "geom:latitude":40.763148,
+    "geom:longitude":-96.640296,
+    "iso:country":"US",
+    "sg:address":"5820 Skylark Ln Ste 111",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Music School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 420 2260",
+    "sg:postcode":"68516",
+    "sg:province":"NE",
+    "sg:tags":[
+        "instruction-instrumental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5W88MU431GgRpatT2ktPPC_40.763148_-96.640296@1303262943"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"935785003586cafe4b58042b90be43d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878695,
+            "region_id":85688563,
+            "venue_id":203168419
+        }
+    ],
+    "wof:id":203168419,
+    "wof:lastmodified":1449025933,
+    "wof:name":"Musically Speaking",
+    "wof:parent_id":85878695,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction-instrumental"
+    ]
+},
+  "bbox": [-96.640296,40.763148,-96.640296,40.763148],
+  "geometry": {"coordinates":[-96.640296,40.763148],"type":"Point"}
+}

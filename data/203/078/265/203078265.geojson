@@ -1,0 +1,72 @@
+{
+  "id": 203078265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.940903,41.232601,-95.940903,41.232601",
+    "geom:latitude":41.232601,
+    "geom:longitude":-95.940903,
+    "iso:country":"US",
+    "sg:address":"1842 Vinton St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 345 1102",
+    "sg:postcode":"68108",
+    "sg:province":"NE",
+    "sg:tags":[
+        "drugstore"
+    ],
+    "sg:website":"www.savon.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789
+    ],
+    "wof:brand_id":420575987,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_09jaDWNfpJaSRwsAOFVjnj_41.232601_-95.940903@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"047496f77136e6e7e2192d10bd39e41d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203078265
+        }
+    ],
+    "wof:id":203078265,
+    "wof:lastmodified":1457209856,
+    "wof:name":"Osco Drug",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drugstore"
+    ]
+},
+  "bbox": [
+    -95.940903,
+    41.232601,
+    -95.940903,
+    41.232601
+],
+  "geometry": {"coordinates":[-95.94090300000001,41.232601],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 203097013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.074296,41.248711,-96.074296,41.248711",
+    "geom:latitude":41.248711,
+    "geom:longitude":-96.074296,
+    "iso:country":"US",
+    "sg:address":"10353 Pacific St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Home Furnishings",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Kitchen Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 384 8007",
+    "sg:postcode":"68114",
+    "sg:province":"NE",
+    "sg:tags":[
+        "utensil",
+        "cookware",
+        "linen",
+        "accessory"
+    ],
+    "sg:website":"http://www.surlatable.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ETf3hExYLyA5Tz6vByNH3_41.248711_-96.074296@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"eb542c6c3a4d8fe2c4f4c736d43ad761",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872533,
+            "region_id":85688563,
+            "venue_id":203097013
+        }
+    ],
+    "wof:id":203097013,
+    "wof:lastmodified":1449025659,
+    "wof:name":"Sur La Table",
+    "wof:parent_id":85872533,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "utensil",
+        "cookware",
+        "linen",
+        "accessory"
+    ]
+},
+  "bbox": [-96.074296,41.248711,-96.074296,41.248711],
+  "geometry": {"coordinates":[-96.074296,41.248711],"type":"Point"}
+}

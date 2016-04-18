@@ -1,0 +1,83 @@
+{
+  "id": 203166509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.695282,40.813591,-96.695282,40.813591",
+    "geom:latitude":40.813591,
+    "geom:longitude":-96.695282,
+    "iso:country":"US",
+    "sg:address":"1800 O ST",
+    "sg:city":"LINCOLN",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Casinos & Gambling",
+            "subcategory":"",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 471 6100",
+    "sg:postcode":"68508",
+    "sg:province":"NE",
+    "sg:tags":[
+        "shop",
+        "ticket",
+        "agency",
+        "lottery"
+    ],
+    "sg:website":"http://www.nelottery.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_48V691Tzt9D9e1IxlpCOLP_40.813591_-96.695282@1303262943"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2904b94247538a7b4f696c3741e5a052",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878699,
+            "region_id":85688563,
+            "venue_id":203166509
+        }
+    ],
+    "wof:id":203166509,
+    "wof:lastmodified":1449026010,
+    "wof:name":"Nebraska Lottery",
+    "wof:parent_id":85878699,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "ticket",
+        "agency",
+        "lottery"
+    ]
+},
+  "bbox": [-96.695282,40.813591,-96.695282,40.813591],
+  "geometry": {"coordinates":[-96.695282,40.813591],"type":"Point"}
+}

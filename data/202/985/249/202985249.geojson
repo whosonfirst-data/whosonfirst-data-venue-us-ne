@@ -1,0 +1,86 @@
+{
+  "id": 202985249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.910404,41.141185,-95.910404,41.141185",
+    "geom:latitude":41.141185,
+    "geom:longitude":-95.910404,
+    "iso:country":"US",
+    "sg:address":"1309 Harlan Dr",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 292 8882",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "return",
+        "preparation-business",
+        "taxes-consultants",
+        "loan",
+        "reporting",
+        "representative",
+        "alternative",
+        "bookkeeping"
+    ],
+    "sg:website":"http://www.hrblock.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974747,
+        102082777,
+        85820061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1egekgbAvuMruQDXcZx7kj_41.141185_-95.910404@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"48689d6e4a9d989019aac4ae9da37e52",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974747,
+            "neighbourhood_id":85820061,
+            "region_id":85688563,
+            "venue_id":202985249
+        }
+    ],
+    "wof:id":202985249,
+    "wof:lastmodified":1449061378,
+    "wof:name":"H&R Block",
+    "wof:parent_id":85820061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "return",
+        "preparation-business",
+        "taxes-consultants",
+        "loan",
+        "reporting",
+        "representative",
+        "alternative",
+        "bookkeeping"
+    ]
+},
+  "bbox": [-95.910404,41.141185,-95.910404,41.141185],
+  "geometry": {"coordinates":[-95.910404,41.141185],"type":"Point"}
+}

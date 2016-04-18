@@ -1,0 +1,65 @@
+{
+  "id": 203018403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.939903,41.260601,-95.939903,41.260601",
+    "geom:latitude":41.260601,
+    "geom:longitude":-95.939903,
+    "iso:country":"US",
+    "sg:address":"1809 Capitol Ave",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 346 4300",
+    "sg:postcode":"68102",
+    "sg:province":"NE",
+    "sg:tags":[
+        "bookstore"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4BMjx2kc8pzG2ao7Kbd0uc_41.260601_-95.939903@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d0daccfd32cb27e07d481a48d34c5346",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203018403
+        }
+    ],
+    "wof:id":203018403,
+    "wof:lastmodified":1449025876,
+    "wof:name":"Railway Educational Bureau",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bookstore"
+    ]
+},
+  "bbox": [-95.939903,41.260601,-95.939903,41.260601],
+  "geometry": {"coordinates":[-95.939903,41.260601],"type":"Point"}
+}

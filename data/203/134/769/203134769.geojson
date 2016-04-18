@@ -1,0 +1,86 @@
+{
+  "id": 203134769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.9879,41.266869,-95.9879,41.266869",
+    "geom:latitude":41.266869,
+    "geom:longitude":-95.9879,
+    "iso:country":"US",
+    "sg:address":"806 N 49th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 614 5447",
+    "sg:postcode":"68132",
+    "sg:province":"NE",
+    "sg:tags":[
+        "counseling",
+        "family",
+        "counselors-licensed",
+        "individual",
+        "marriage",
+        "child",
+        "professional",
+        "counselor"
+    ],
+    "sg:website":"http://www.theclearviewcenter.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85867055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4EVsESNMwB5vYxlEN68oE6_41.266869_-95.987900@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d73b8eb76ed8b9bded755bcee715e3cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85867055,
+            "region_id":85688563,
+            "venue_id":203134769
+        }
+    ],
+    "wof:id":203134769,
+    "wof:lastmodified":1449026762,
+    "wof:name":"The Clearview Center",
+    "wof:parent_id":85867055,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "counseling",
+        "family",
+        "counselors-licensed",
+        "individual",
+        "marriage",
+        "child",
+        "professional",
+        "counselor"
+    ]
+},
+  "bbox": [-95.9879,41.266869,-95.9879,41.266869],
+  "geometry": {"coordinates":[-95.9879,41.266869],"type":"Point"}
+}

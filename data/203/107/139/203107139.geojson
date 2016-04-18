@@ -1,0 +1,66 @@
+{
+  "id": 203107139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.981326,41.219739,-95.981326,41.219739",
+    "geom:latitude":41.219739,
+    "geom:longitude":-95.981326,
+    "iso:country":"US",
+    "sg:address":"4520 F St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 991 8758",
+    "sg:postcode":"68117",
+    "sg:province":"NE",
+    "sg:tags":[
+        "contractor"
+    ],
+    "sg:website":"www.jtbuilders.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4BRBLBH5DcURGmr8DvCLUr_41.219739_-95.981326@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"dd8db5f3e032dd10296fb753c6e51b1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203107139
+        }
+    ],
+    "wof:id":203107139,
+    "wof:lastmodified":1449024946,
+    "wof:name":"J T Builders",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [-95.981326,41.219739,-95.981326,41.219739],
+  "geometry": {"coordinates":[-95.981326,41.219739],"type":"Point"}
+}

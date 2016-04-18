@@ -1,0 +1,73 @@
+{
+  "id": 203048979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.989403,41.281502,-95.989403,41.281502",
+    "geom:latitude":41.281502,
+    "geom:longitude":-95.989403,
+    "iso:country":"US",
+    "sg:address":"4970 NW Radial Hwy Side",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 553 3900",
+    "sg:postcode":"68104",
+    "sg:province":"NE",
+    "sg:tags":[
+        "pet",
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0DnW9yxSiezN6JaOk5nC8Y_41.281502_-95.989403@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e3bab31a9932812813323285ba63f007",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872535,
+            "region_id":85688563,
+            "venue_id":203048979
+        }
+    ],
+    "wof:id":203048979,
+    "wof:lastmodified":1449025585,
+    "wof:name":"Walter Kit DVM",
+    "wof:parent_id":85872535,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "veterinarian"
+    ]
+},
+  "bbox": [-95.989403,41.281502,-95.989403,41.281502],
+  "geometry": {"coordinates":[-95.989403,41.281502],"type":"Point"}
+}

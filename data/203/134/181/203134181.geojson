@@ -1,0 +1,66 @@
+{
+  "id": 203134181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.990831,41.265062,-95.990831,41.265062",
+    "geom:latitude":41.265062,
+    "geom:longitude":-95.990831,
+    "iso:country":"US",
+    "sg:address":"5011 Underwood Ave",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 505 6633",
+    "sg:postcode":"68132",
+    "sg:province":"NE",
+    "sg:tags":[
+        "spa"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85867055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2gIHaqUeDM3ZdhiDxfXtSX_41.265062_-95.990831@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"bac3475625c8d9d821dbee4c1bad93cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85867055,
+            "region_id":85688563,
+            "venue_id":203134181
+        }
+    ],
+    "wof:id":203134181,
+    "wof:lastmodified":1449026763,
+    "wof:name":"Halo Studios",
+    "wof:parent_id":85867055,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "spa"
+    ]
+},
+  "bbox": [-95.990831,41.265062,-95.990831,41.265062],
+  "geometry": {"coordinates":[-95.990831,41.265062],"type":"Point"}
+}

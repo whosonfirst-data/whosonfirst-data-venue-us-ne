@@ -1,0 +1,74 @@
+{
+  "id": 203149083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.092092,41.267401,-96.092092,41.267401",
+    "geom:latitude":41.267401,
+    "geom:longitude":-96.092092,
+    "iso:country":"US",
+    "sg:address":"780 N 114th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 697 8899",
+    "sg:postcode":"68154",
+    "sg:province":"NE",
+    "sg:tags":[
+        "consultant",
+        "management"
+    ],
+    "sg:website":"http://www.worldgroupllc.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2cMIpcZ0K32Zsv6xgKNHK5_41.267401_-96.092092@1303262943"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"82367ee5b81ebf3149b3f58d22f31bce",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872503,
+            "region_id":85688563,
+            "venue_id":203149083
+        }
+    ],
+    "wof:id":203149083,
+    "wof:lastmodified":1449024942,
+    "wof:name":"Coldwell Banker Commercial World Group",
+    "wof:parent_id":85872503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "management"
+    ]
+},
+  "bbox": [-96.092092,41.267401,-96.092092,41.267401],
+  "geometry": {"coordinates":[-96.092092,41.267401],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 203057149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.981757,41.239558,-95.981757,41.239558",
+    "geom:latitude":41.239558,
+    "geom:longitude":-95.981757,
+    "iso:country":"US",
+    "sg:address":"2122 S 46th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 502 2160",
+    "sg:postcode":"68106",
+    "sg:province":"NE",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting",
+        "repairing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_76IRRDQjKr1nnCiVtOuio7_41.239558_-95.981757@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"77ad365e78faf68f8b024e9911760228",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872523,
+            "region_id":85688563,
+            "venue_id":203057149
+        }
+    ],
+    "wof:id":203057149,
+    "wof:lastmodified":1449025857,
+    "wof:name":"Phil's Auto Body",
+    "wof:parent_id":85872523,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting",
+        "repairing"
+    ]
+},
+  "bbox": [-95.981757,41.239558,-95.981757,41.239558],
+  "geometry": {"coordinates":[-95.981757,41.239558],"type":"Point"}
+}

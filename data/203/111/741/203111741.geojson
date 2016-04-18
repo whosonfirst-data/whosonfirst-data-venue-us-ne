@@ -1,0 +1,66 @@
+{
+  "id": 203111741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.030701,41.22953,-96.030701,41.22953",
+    "geom:latitude":41.22953,
+    "geom:longitude":-96.030701,
+    "iso:country":"US",
+    "sg:address":"3251 Westgate Rd",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 393 1278",
+    "sg:postcode":"68124",
+    "sg:province":"NE",
+    "sg:tags":[
+        "estimate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85867059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7lNR2clJ6PnYWc9emaGZXj_41.229530_-96.030701@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"40d802ce7c2fa173b0b968bdd43c37a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85867059,
+            "region_id":85688563,
+            "venue_id":203111741
+        }
+    ],
+    "wof:id":203111741,
+    "wof:lastmodified":1449026902,
+    "wof:name":"Ralph Peitzmeier Builder",
+    "wof:parent_id":85867059,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "estimate"
+    ]
+},
+  "bbox": [-96.030701,41.22953,-96.030701,41.22953],
+  "geometry": {"coordinates":[-96.030701,41.22953],"type":"Point"}
+}

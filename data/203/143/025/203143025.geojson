@@ -1,0 +1,81 @@
+{
+  "id": 203143025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.130421,41.175027,-96.130421,41.175027",
+    "geom:latitude":41.175027,
+    "geom:longitude":-96.130421,
+    "iso:country":"US",
+    "sg:address":"8413 S 139th Cir",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Military Area",
+            "subcategory":"Armory",
+            "type":"Public Place"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 896 2752",
+    "sg:postcode":"68138",
+    "sg:province":"NE",
+    "sg:tags":[
+        "repair",
+        "fence-sales",
+        "fence",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        102082789,
+        85834285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6dXethR3jmlRhy8ERmlyjc_41.175027_-96.130421@1303262943"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7954704d7a330109a1cee2e0aee4c7fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":-1,
+            "neighbourhood_id":85834285,
+            "region_id":85688563,
+            "venue_id":203143025
+        }
+    ],
+    "wof:id":203143025,
+    "wof:lastmodified":1449026523,
+    "wof:name":"Aksarben Exteriors Fence And Deck",
+    "wof:parent_id":85834285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "fence-sales",
+        "fence",
+        "contractor"
+    ]
+},
+  "bbox": [-96.130421,41.175027,-96.130421,41.175027],
+  "geometry": {"coordinates":[-96.130421,41.175027],"type":"Point"}
+}

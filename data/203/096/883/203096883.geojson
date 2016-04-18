@@ -1,0 +1,73 @@
+{
+  "id": 203096883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.02391,41.255354,-96.02391,41.255354",
+    "geom:latitude":41.255354,
+    "geom:longitude":-96.02391,
+    "iso:country":"US",
+    "sg:address":"600 S 72nd St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Home Furnishings",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Furniture",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 331 9062",
+    "sg:postcode":"68114",
+    "sg:province":"NE",
+    "sg:tags":[
+        "furniture-children's",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_12Z8oLAh8zWmgn1j5FgdJS_41.255354_-96.023910@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3df7ca53acc1dd36fe97353523962a4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872509,
+            "region_id":85688563,
+            "venue_id":203096883
+        }
+    ],
+    "wof:id":203096883,
+    "wof:lastmodified":1449025534,
+    "wof:name":"Kid's Stuff",
+    "wof:parent_id":85872509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "furniture-children's",
+        "store"
+    ]
+},
+  "bbox": [-96.02391,41.255354,-96.02391,41.255354],
+  "geometry": {"coordinates":[-96.02391,41.255354],"type":"Point"}
+}

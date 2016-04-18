@@ -1,0 +1,71 @@
+{
+  "id": 203113457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.05334,41.193755,-96.05334,41.193755",
+    "geom:latitude":41.193755,
+    "geom:longitude":-96.05334,
+    "iso:country":"US",
+    "sg:address":"6506 S 91st Cir",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Buildings",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 339 4611",
+    "sg:postcode":"68127",
+    "sg:province":"NE",
+    "sg:tags":[
+        "home",
+        "builder",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633793,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0LSYtlmQ4Lr4ymagb5hP6r_41.193755_-96.053340@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6fbfdbe1317693030d2366ebb1c6526e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203113457
+        }
+    ],
+    "wof:id":203113457,
+    "wof:lastmodified":1449026703,
+    "wof:name":"P&B Construction",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "builder",
+        "contractor"
+    ]
+},
+  "bbox": [-96.05334,41.193755,-96.05334,41.193755],
+  "geometry": {"coordinates":[-96.05334,41.193755],"type":"Point"}
+}

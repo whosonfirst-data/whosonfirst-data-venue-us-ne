@@ -1,0 +1,90 @@
+{
+  "id": 203049673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.021423,41.29628,-96.021423,41.29628",
+    "geom:latitude":41.29628,
+    "geom:longitude":-96.021423,
+    "iso:country":"US",
+    "sg:address":"7051 Military Ave",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 571 4750",
+    "sg:postcode":"68104",
+    "sg:province":"NE",
+    "sg:tags":[
+        "exhaust",
+        "oil",
+        "tire",
+        "automobile",
+        "system",
+        "accessory",
+        "lube",
+        "part",
+        "brake",
+        "muffler"
+    ],
+    "sg:website":"http://www.midas.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2YyDwKiuPgpGO03WpTPtto_41.296280_-96.021423@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4b8874db38ed9f8992d24fb3aaf7fb02",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872515,
+            "region_id":85688563,
+            "venue_id":203049673
+        }
+    ],
+    "wof:id":203049673,
+    "wof:lastmodified":1449025867,
+    "wof:name":"Midas",
+    "wof:parent_id":85872515,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "exhaust",
+        "oil",
+        "tire",
+        "automobile",
+        "system",
+        "accessory",
+        "lube",
+        "part",
+        "brake",
+        "muffler"
+    ]
+},
+  "bbox": [-96.021423,41.29628,-96.021423,41.29628],
+  "geometry": {"coordinates":[-96.021423,41.29628],"type":"Point"}
+}

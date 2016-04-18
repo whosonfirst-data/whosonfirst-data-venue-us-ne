@@ -1,0 +1,80 @@
+{
+  "id": 203165309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.614258,40.82795,-96.614258,40.82795",
+    "geom:latitude":40.82795,
+    "geom:longitude":-96.614258,
+    "iso:country":"US",
+    "sg:address":"7800 Holdrege St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Place Of Worship",
+            "subcategory":"Church",
+            "type":"Public Place"
+        },
+        {
+            "category":"Place Of Worship",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 467 4458",
+    "sg:postcode":"68505",
+    "sg:province":"NE",
+    "sg:tags":[
+        "churches-interdenominational",
+        "denomination",
+        "churches-christian",
+        "churches-various",
+        "churches-christian-reformed"
+    ],
+    "sg:website":"http://www.capitolcitychristian.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1DK96vnGP1bw8gT9sXxE8q_40.827950_-96.614258@1303262943"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d4247883e8b51c3a805eb438cd90afde",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878725,
+            "region_id":85688563,
+            "venue_id":203165309
+        }
+    ],
+    "wof:id":203165309,
+    "wof:lastmodified":1449026865,
+    "wof:name":"Capitol City Christian Church",
+    "wof:parent_id":85878725,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "churches-interdenominational",
+        "denomination",
+        "churches-christian",
+        "churches-various",
+        "churches-christian-reformed"
+    ]
+},
+  "bbox": [-96.614258,40.82795,-96.614258,40.82795],
+  "geometry": {"coordinates":[-96.614258,40.82795],"type":"Point"}
+}

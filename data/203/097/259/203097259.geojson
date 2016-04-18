@@ -1,0 +1,92 @@
+{
+  "id": 203097259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.023888,41.257866,-96.023888,41.257866",
+    "geom:latitude":41.257866,
+    "geom:longitude":-96.023888,
+    "iso:country":"US",
+    "sg:address":"311 S 72nd St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Hobbies, Toys, & Games",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Utilities",
+            "subcategory":"Electric",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 391 2877",
+    "sg:postcode":"68114",
+    "sg:province":"NE",
+    "sg:tags":[
+        "games-wholesale",
+        "supplies-repair",
+        "electronic",
+        "equipment",
+        "equipment-repair",
+        "video",
+        "supplies-wholesale",
+        "merchandise",
+        "manufacturer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Ewozd1PtmJrUbFoxtqI3E_41.257866_-96.023888@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1fce4f58491ff6fd5c1d735059db7b1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872507,
+            "region_id":85688563,
+            "venue_id":203097259
+        }
+    ],
+    "wof:id":203097259,
+    "wof:lastmodified":1449025657,
+    "wof:name":"Gamers",
+    "wof:parent_id":85872507,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "games-wholesale",
+        "supplies-repair",
+        "electronic",
+        "equipment",
+        "equipment-repair",
+        "video",
+        "supplies-wholesale",
+        "merchandise",
+        "manufacturer"
+    ]
+},
+  "bbox": [-96.023888,41.257866,-96.023888,41.257866],
+  "geometry": {"coordinates":[-96.023888,41.257866],"type":"Point"}
+}

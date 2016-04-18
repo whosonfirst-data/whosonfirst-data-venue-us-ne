@@ -1,0 +1,66 @@
+{
+  "id": 203147943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.006699,41.3256,-96.006699,41.3256",
+    "geom:latitude":41.3256,
+    "geom:longitude":-96.006699,
+    "iso:country":"US",
+    "sg:address":"6140 Country Club Rd",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 571 4636",
+    "sg:postcode":"68152",
+    "sg:province":"NE",
+    "sg:tags":[
+        "electrician"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85813863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4iHoU11ti9wo3aiYaORs4S_41.325600_-96.006699@1303262943"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"bef184b96990c00064e8a18ba1265cf0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85813863,
+            "region_id":85688563,
+            "venue_id":203147943
+        }
+    ],
+    "wof:id":203147943,
+    "wof:lastmodified":1449026660,
+    "wof:name":"Annadon Electric",
+    "wof:parent_id":85813863,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrician"
+    ]
+},
+  "bbox": [-96.006699,41.3256,-96.006699,41.3256],
+  "geometry": {"coordinates":[-96.006699,41.3256],"type":"Point"}
+}

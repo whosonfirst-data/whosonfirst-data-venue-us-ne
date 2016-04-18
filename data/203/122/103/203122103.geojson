@@ -1,0 +1,76 @@
+{
+  "id": 203122103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.970001,41.2579,-95.970001,41.2579",
+    "geom:latitude":41.2579,
+    "geom:longitude":-95.970001,
+    "iso:country":"US",
+    "sg:address":"3824 Farnam St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 553 9669",
+    "sg:postcode":"68131",
+    "sg:province":"NE",
+    "sg:tags":[
+        "towing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4MM6u9E0zITLd9GCNVmz9k_41.257900_-95.970001@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4553b4993a770f4665e17ddb90bdefba",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872525,
+            "region_id":85688563,
+            "venue_id":203122103
+        }
+    ],
+    "wof:id":203122103,
+    "wof:lastmodified":1449026027,
+    "wof:name":"Marcus Motors",
+    "wof:parent_id":85872525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "towing"
+    ]
+},
+  "bbox": [-95.970001,41.2579,-95.970001,41.2579],
+  "geometry": {"coordinates":[-95.970001,41.2579],"type":"Point"}
+}

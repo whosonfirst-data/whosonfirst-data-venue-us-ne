@@ -1,0 +1,74 @@
+{
+  "id": 203109805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.191979,41.249452,-96.191979,41.249452",
+    "geom:latitude":41.249452,
+    "geom:longitude":-96.191979,
+    "iso:country":"US",
+    "sg:address":"17785 Mason St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Chiropractor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 330 8600",
+    "sg:postcode":"68118",
+    "sg:province":"NE",
+    "sg:tags":[
+        "acupuncture",
+        "medicine",
+        "alternative",
+        "chiropractic"
+    ],
+    "sg:website":"http://www.beckerchiro.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633793,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_70xy44g4NGjoObofgPYbVY_41.249452_-96.191979@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1eb0abe2439155d8c8dac7752c2efd55",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203109805
+        }
+    ],
+    "wof:id":203109805,
+    "wof:lastmodified":1449025578,
+    "wof:name":"Becker Chiropractic & Acupuncture",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "acupuncture",
+        "medicine",
+        "alternative",
+        "chiropractic"
+    ]
+},
+  "bbox": [-96.191979,41.249452,-96.191979,41.249452],
+  "geometry": {"coordinates":[-96.191979,41.249452],"type":"Point"}
+}

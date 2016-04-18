@@ -1,0 +1,72 @@
+{
+  "id": 203126699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.973373,41.257771,-95.973373,41.257771",
+    "geom:latitude":41.257771,
+    "geom:longitude":-95.973373,
+    "iso:country":"US",
+    "sg:address":"4001 Farnam St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Tattoo Parlor",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Piercing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 885 8282",
+    "sg:postcode":"68131",
+    "sg:province":"NE",
+    "sg:tags":[
+        "body"
+    ],
+    "sg:website":"http://www.blacksquirreltattoo.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_70efpyIdtvkfBdzzBg3S9G_41.257771_-95.973373@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2fae61f63117d87b07cf817e8b3a3113",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872523,
+            "region_id":85688563,
+            "venue_id":203126699
+        }
+    ],
+    "wof:id":203126699,
+    "wof:lastmodified":1449025616,
+    "wof:name":"Black Squirrel Tattoo",
+    "wof:parent_id":85872523,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [-95.973373,41.257771,-95.973373,41.257771],
+  "geometry": {"coordinates":[-95.973373,41.257771],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 203080101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.946999,41.243786,-95.946999,41.243786",
+    "geom:latitude":41.243786,
+    "geom:longitude":-95.946999,
+    "iso:country":"US",
+    "sg:address":"1548 S 24th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Nursery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 345 9963",
+    "sg:postcode":"68108",
+    "sg:province":"NE",
+    "sg:tags":[
+        "tree",
+        "grower",
+        "nursery-wholesale",
+        "nurseries-plants"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6BJOlmVdG25v9gT0mZfFsm_41.243786_-95.946999@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"65cbc9e26f17b49703c219793c652981",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203080101
+        }
+    ],
+    "wof:id":203080101,
+    "wof:lastmodified":1449026828,
+    "wof:name":"Sues Flowers",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tree",
+        "grower",
+        "nursery-wholesale",
+        "nurseries-plants"
+    ]
+},
+  "bbox": [-95.946999,41.243786,-95.946999,41.243786],
+  "geometry": {"coordinates":[-95.946999,41.243786],"type":"Point"}
+}

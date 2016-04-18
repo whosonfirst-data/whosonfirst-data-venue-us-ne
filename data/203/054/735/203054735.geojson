@@ -1,0 +1,66 @@
+{
+  "id": 203054735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.95966,41.252283,-95.95966,41.252283",
+    "geom:latitude":41.252283,
+    "geom:longitude":-95.95966,
+    "iso:country":"US",
+    "sg:address":"3175 Leavenworth St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 422 0359",
+    "sg:postcode":"68105",
+    "sg:province":"NE",
+    "sg:tags":[
+        "hair"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3S6eSR3EfWw237MGfmy7zY_41.252283_-95.959660@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"32aa4ede12115ea83a0f5e4ea60ff940",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872525,
+            "region_id":85688563,
+            "venue_id":203054735
+        }
+    ],
+    "wof:id":203054735,
+    "wof:lastmodified":1449025815,
+    "wof:name":"Vega's Beauty Salon",
+    "wof:parent_id":85872525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hair"
+    ]
+},
+  "bbox": [-95.95966,41.252283,-95.95966,41.252283],
+  "geometry": {"coordinates":[-95.95966,41.252283],"type":"Point"}
+}

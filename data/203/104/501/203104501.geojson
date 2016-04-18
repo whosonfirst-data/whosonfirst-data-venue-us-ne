@@ -1,0 +1,66 @@
+{
+  "id": 203104501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.002595,41.211521,-96.002595,41.211521",
+    "geom:latitude":41.211521,
+    "geom:longitude":-96.002595,
+    "iso:country":"US",
+    "sg:address":"5815 M St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Stationery & Office Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 597 3737",
+    "sg:postcode":"68117",
+    "sg:province":"NE",
+    "sg:tags":[
+        "equipment"
+    ],
+    "sg:website":"www.indoff.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5SadOYkTgU0mt1JMw4MNhm_41.211521_-96.002595@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2ed87b6b3df9bb0700b74861903fabfd",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203104501
+        }
+    ],
+    "wof:id":203104501,
+    "wof:lastmodified":1449025709,
+    "wof:name":"Indoff Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment"
+    ]
+},
+  "bbox": [-96.002595,41.211521,-96.002595,41.211521],
+  "geometry": {"coordinates":[-96.002595,41.211521],"type":"Point"}
+}

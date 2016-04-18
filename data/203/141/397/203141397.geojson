@@ -1,0 +1,76 @@
+{
+  "id": 203141397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.138692,41.204407,-96.138692,41.204407",
+    "geom:latitude":41.204407,
+    "geom:longitude":-96.138692,
+    "iso:country":"US",
+    "sg:address":"5405 S 144th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 891 8464",
+    "sg:postcode":"68137",
+    "sg:province":"NE",
+    "sg:tags":[
+        "automobile",
+        "part",
+        "truck"
+    ],
+    "sg:website":"http://clickserve.dartsearch.net/link/click?lid=43000000313869591&ds_s_kwgid=58000000006820725&ds_e_matchtype={MatchType}&ds_e_kwdid={OrderItemId}&ds_e_adid={AdId}&ds_url_v=2",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4KlQBeUjpzFaClfHWCvYX0_41.204407_-96.138692@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"935c8bd05921c73f4e9fb4f7dbdc3bdc",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872531,
+            "region_id":85688563,
+            "venue_id":203141397
+        }
+    ],
+    "wof:id":203141397,
+    "wof:lastmodified":1449025589,
+    "wof:name":"Jensen Tire Store #15",
+    "wof:parent_id":85872531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "part",
+        "truck"
+    ]
+},
+  "bbox": [-96.138692,41.204407,-96.138692,41.204407],
+  "geometry": {"coordinates":[-96.138692,41.204407],"type":"Point"}
+}

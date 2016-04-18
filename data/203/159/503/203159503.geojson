@@ -1,0 +1,73 @@
+{
+  "id": 203159503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.4469,40.624485,-96.4469,40.624485",
+    "geom:latitude":40.624485,
+    "geom:longitude":-96.4469,
+    "iso:country":"US",
+    "sg:address":"165 L Rd",
+    "sg:city":"Adams",
+    "sg:classifiers":[
+        {
+            "category":"Animal Shelter",
+            "subcategory":"",
+            "type":"Public Place"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Pet Boarding",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 782 2075",
+    "sg:postcode":"68301",
+    "sg:province":"NE",
+    "sg:tags":[
+        "kennel"
+    ],
+    "sg:website":"http://www.prairiedogkennels.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633793,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ajouv0sjypvgb9tvXc1r8_40.624485_-96.446900@1303262943"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7b10d86f3222ebbc72e9197f9387db10",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203159503
+        }
+    ],
+    "wof:id":203159503,
+    "wof:lastmodified":1449025178,
+    "wof:name":"Prairie Dog Kennels",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "kennel"
+    ]
+},
+  "bbox": [-96.4469,40.624485,-96.4469,40.624485],
+  "geometry": {"coordinates":[-96.4469,40.624485],"type":"Point"}
+}

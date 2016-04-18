@@ -1,0 +1,76 @@
+{
+  "id": 203060077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.994102,41.241199,-95.994102,41.241199",
+    "geom:latitude":41.241199,
+    "geom:longitude":-95.994102,
+    "iso:country":"US",
+    "sg:address":"5150 Center St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 553 2664",
+    "sg:postcode":"68106",
+    "sg:province":"NE",
+    "sg:tags":[
+        "caterer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3VtQFtQY64cky0EJg4IpU2_41.241199_-95.994102@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"fb52ea501be5d345bfd2bc16206ee15f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872513,
+            "region_id":85688563,
+            "venue_id":203060077
+        }
+    ],
+    "wof:id":203060077,
+    "wof:lastmodified":1449026688,
+    "wof:name":"Hy-Vee Foods Inc",
+    "wof:parent_id":85872513,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caterer"
+    ]
+},
+  "bbox": [-95.994102,41.241199,-95.994102,41.241199],
+  "geometry": {"coordinates":[-95.994102,41.241199],"type":"Point"}
+}

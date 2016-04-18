@@ -1,0 +1,84 @@
+{
+  "id": 203166507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.699631,40.813945,-96.699631,40.813945",
+    "geom:latitude":40.813945,
+    "geom:longitude":-96.699631,
+    "iso:country":"US",
+    "sg:address":"131 Centennial Mall N",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Landmark",
+            "subcategory":"Historic",
+            "type":"Public Place"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        },
+        {
+            "category":"Landmark",
+            "subcategory":"Tourist Information",
+            "type":"Public Place"
+        },
+        {
+            "category":"Museum",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 471 4754",
+    "sg:postcode":"68508",
+    "sg:province":"NE",
+    "sg:tags":[
+        "attraction",
+        "historical"
+    ],
+    "sg:website":"http://www.nebraskahistory.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4XMlaQWY8sL37aoANP5yG0_40.813945_-96.699631@1303262943"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4f52eb94d2087a52d87e7c466a24db49",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878699,
+            "region_id":85688563,
+            "venue_id":203166507
+        }
+    ],
+    "wof:id":203166507,
+    "wof:lastmodified":1449026012,
+    "wof:name":"Museum Of Nebraska History",
+    "wof:parent_id":85878699,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attraction",
+        "historical"
+    ]
+},
+  "bbox": [-96.699631,40.813945,-96.699631,40.813945],
+  "geometry": {"coordinates":[-96.699631,40.813945],"type":"Point"}
+}

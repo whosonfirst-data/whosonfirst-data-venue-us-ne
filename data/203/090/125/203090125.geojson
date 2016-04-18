@@ -1,0 +1,71 @@
+{
+  "id": 203090125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.965103,41.2747,-95.965103,41.2747",
+    "geom:latitude":41.2747,
+    "geom:longitude":-95.965103,
+    "iso:country":"US",
+    "sg:address":"3506 Franklin St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 554 8508",
+    "sg:postcode":"68111",
+    "sg:province":"NE",
+    "sg:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ],
+    "sg:website":"www.ops.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2kPPHdtUbfPCB3VG3bzeHl_41.274700_-95.965103@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e89f0e338307d5530ed74506fba70472",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872525,
+            "region_id":85688563,
+            "venue_id":203090125
+        }
+    ],
+    "wof:id":203090125,
+    "wof:lastmodified":1449026447,
+    "wof:name":"Franklin Elementary School",
+    "wof:parent_id":85872525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ]
+},
+  "bbox": [-95.965103,41.2747,-95.965103,41.2747],
+  "geometry": {"coordinates":[-95.965103,41.2747],"type":"Point"}
+}

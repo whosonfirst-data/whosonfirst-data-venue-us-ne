@@ -1,0 +1,79 @@
+{
+  "id": 203148699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.108162,41.256869,-96.108162,41.256869",
+    "geom:latitude":41.256869,
+    "geom:longitude":-96.108162,
+    "iso:country":"US",
+    "sg:address":"12536 Harney Cir",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Art Services",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 333 4383",
+    "sg:postcode":"68154",
+    "sg:province":"NE",
+    "sg:tags":[
+        "interior",
+        "designer",
+        "painting",
+        "decorator",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1FQ4DOKc9SSN1DjGpdgdgb_41.256869_-96.108162@1303262943"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b194943a0cb2a2527bb68047311f0974",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872503,
+            "region_id":85688563,
+            "venue_id":203148699
+        }
+    ],
+    "wof:id":203148699,
+    "wof:lastmodified":1449026545,
+    "wof:name":"Jim Werner Painting & Decorating Inc",
+    "wof:parent_id":85872503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "interior",
+        "designer",
+        "painting",
+        "decorator",
+        "contractor"
+    ]
+},
+  "bbox": [-96.108162,41.256869,-96.108162,41.256869],
+  "geometry": {"coordinates":[-96.108162,41.256869],"type":"Point"}
+}

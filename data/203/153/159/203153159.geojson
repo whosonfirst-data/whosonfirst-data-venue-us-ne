@@ -1,0 +1,62 @@
+{
+  "id": 203153159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.961769,41.252537,-95.961769,41.252537",
+    "geom:latitude":41.252537,
+    "geom:longitude":-95.961769,
+    "iso:country":"US",
+    "sg:address":"3322 Leavenworth St.",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 342 6220",
+    "sg:postcode":"68197",
+    "sg:province":"NE",
+    "sg:website":"www.meineke.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4va8IX34D1XYPuIFv9g829_41.252537_-95.961769@1303262943"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3bce65223230c8040177f814f08bf7c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872527,
+            "region_id":85688563,
+            "venue_id":203153159
+        }
+    ],
+    "wof:id":203153159,
+    "wof:lastmodified":1449026283,
+    "wof:name":"Meineke Car Care",
+    "wof:parent_id":85872527,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-95.961769,41.252537,-95.961769,41.252537],
+  "geometry": {"coordinates":[-95.961769,41.252537],"type":"Point"}
+}

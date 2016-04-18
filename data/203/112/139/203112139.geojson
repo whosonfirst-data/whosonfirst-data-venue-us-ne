@@ -1,0 +1,72 @@
+{
+  "id": 203112139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.052597,41.245366,-96.052597,41.245366",
+    "geom:latitude":41.245366,
+    "geom:longitude":-96.052597,
+    "iso:country":"US",
+    "sg:address":"1502 S 90th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 391 2300",
+    "sg:postcode":"68124",
+    "sg:province":"NE",
+    "sg:tags":[
+        "lawn",
+        "landscape",
+        "maintenance",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5YsjH4PwEsajMYCOHfKNoJ_41.245366_-96.052597@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8c8b1351cb268edde67672b4e10d90df",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872533,
+            "region_id":85688563,
+            "venue_id":203112139
+        }
+    ],
+    "wof:id":203112139,
+    "wof:lastmodified":1449025783,
+    "wof:name":"Fairway Green Lawn Care",
+    "wof:parent_id":85872533,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lawn",
+        "landscape",
+        "maintenance",
+        "contractor"
+    ]
+},
+  "bbox": [-96.052597,41.245366,-96.052597,41.245366],
+  "geometry": {"coordinates":[-96.052597,41.245366],"type":"Point"}
+}

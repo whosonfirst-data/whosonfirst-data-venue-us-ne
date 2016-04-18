@@ -1,0 +1,77 @@
+{
+  "id": 203164969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.653748,40.822681,-96.653748,40.822681",
+    "geom:latitude":40.822681,
+    "geom:longitude":-96.653748,
+    "iso:country":"US",
+    "sg:address":"920 N 48th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"Lounge",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Bowling",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 466 1911",
+    "sg:postcode":"68504",
+    "sg:province":"NE",
+    "sg:tags":[
+        "cocktail"
+    ],
+    "sg:website":"http://www.48bowl.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_55245NNMdkNesSa6bNb5HV_40.822681_-96.653748@1303262943"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d790c2880f529d65196bec8b7599aea1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878701,
+            "region_id":85688563,
+            "venue_id":203164969
+        }
+    ],
+    "wof:id":203164969,
+    "wof:lastmodified":1449025170,
+    "wof:name":"Hollywood Bowl",
+    "wof:parent_id":85878701,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cocktail"
+    ]
+},
+  "bbox": [-96.653748,40.822681,-96.653748,40.822681],
+  "geometry": {"coordinates":[-96.653748,40.822681],"type":"Point"}
+}

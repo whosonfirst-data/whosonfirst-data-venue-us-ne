@@ -1,0 +1,68 @@
+{
+  "id": 203099631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.045524,41.253848,-96.045524,41.253848",
+    "geom:latitude":41.253848,
+    "geom:longitude":-96.045524,
+    "iso:country":"US",
+    "sg:address":"540 S 86th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 344 0773",
+    "sg:postcode":"68114",
+    "sg:province":"NE",
+    "sg:tags":[
+        "contractor",
+        "mason"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ymMgzYLnS9GJJH4XfxOAK_41.253848_-96.045524@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d17c6b8871d53104ce90795508a13c70",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872509,
+            "region_id":85688563,
+            "venue_id":203099631
+        }
+    ],
+    "wof:id":203099631,
+    "wof:lastmodified":1449026213,
+    "wof:name":"Brickwork & Design Inc",
+    "wof:parent_id":85872509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor",
+        "mason"
+    ]
+},
+  "bbox": [-96.045524,41.253848,-96.045524,41.253848],
+  "geometry": {"coordinates":[-96.045524,41.253848],"type":"Point"}
+}

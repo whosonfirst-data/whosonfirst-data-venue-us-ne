@@ -1,0 +1,66 @@
+{
+  "id": 203166883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.708481,40.81086,-96.708481,40.81086",
+    "geom:latitude":40.81086,
+    "geom:longitude":-96.708481,
+    "iso:country":"US",
+    "sg:address":"322 S 9th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Chiropractor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 261 8974",
+    "sg:postcode":"68508",
+    "sg:province":"NE",
+    "sg:tags":[
+        "chiropractic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3SwwoHAXs7pFThw3fNAJZv_40.810860_-96.708481@1303262943"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"81d1261930af89721b4128aab0f7cc4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878699,
+            "region_id":85688563,
+            "venue_id":203166883
+        }
+    ],
+    "wof:id":203166883,
+    "wof:lastmodified":1449026012,
+    "wof:name":"Choice Chiropractic",
+    "wof:parent_id":85878699,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chiropractic"
+    ]
+},
+  "bbox": [-96.708481,40.81086,-96.708481,40.81086],
+  "geometry": {"coordinates":[-96.708481,40.81086],"type":"Point"}
+}

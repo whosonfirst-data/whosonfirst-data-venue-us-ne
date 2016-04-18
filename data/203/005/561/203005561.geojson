@@ -1,0 +1,67 @@
+{
+  "id": 203005561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.937202,41.2575,-95.937202,41.2575",
+    "geom:latitude":41.2575,
+    "geom:longitude":-95.937202,
+    "iso:country":"US",
+    "sg:address":"312 S 16th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Newspaper",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 898 4100",
+    "sg:postcode":"68102",
+    "sg:province":"NE",
+    "sg:tags":[
+        "print",
+        "medium"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3DHOozkp8GBoFrMzU9sqGc_41.257500_-95.937202@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f691b4f4e6a6dc9fd3f9457088f52b33",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203005561
+        }
+    ],
+    "wof:id":203005561,
+    "wof:lastmodified":1449026711,
+    "wof:name":"Omaha Weekly",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "print",
+        "medium"
+    ]
+},
+  "bbox": [-95.937202,41.2575,-95.937202,41.2575],
+  "geometry": {"coordinates":[-95.937202,41.2575],"type":"Point"}
+}

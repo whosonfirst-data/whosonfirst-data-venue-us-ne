@@ -1,0 +1,67 @@
+{
+  "id": 203125225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.977402,41.268101,-95.977402,41.268101",
+    "geom:latitude":41.268101,
+    "geom:longitude":-95.977402,
+    "iso:country":"US",
+    "sg:address":"4315 Cuming St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 556 3600",
+    "sg:postcode":"68131",
+    "sg:province":"NE",
+    "sg:tags":[
+        "supply"
+    ],
+    "sg:website":"www.lymanrichey.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3YxIcJIc05v0Zn6p5QNnDA_41.268101_-95.977402@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c738855f1365f0dffa59e7c06acd0b03",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872525,
+            "region_id":85688563,
+            "venue_id":203125225
+        }
+    ],
+    "wof:id":203125225,
+    "wof:lastmodified":1449026806,
+    "wof:name":"Ready Mixed Concrete Co",
+    "wof:parent_id":85872525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [-95.977402,41.268101,-95.977402,41.268101],
+  "geometry": {"coordinates":[-95.977402,41.268101],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 203092673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.974659,41.280802,-95.974659,41.280802",
+    "geom:latitude":41.280802,
+    "geom:longitude":-95.974659,
+    "iso:country":"US",
+    "sg:address":"4130 Erskine St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 898 3066",
+    "sg:postcode":"68111",
+    "sg:province":"NE",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ZYckyDAaVNr3RhVTAImyA_41.280802_-95.974659@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b2b2ebb03677228b7e1ab6ab848f2dbf",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872525,
+            "region_id":85688563,
+            "venue_id":203092673
+        }
+    ],
+    "wof:id":203092673,
+    "wof:lastmodified":1449026480,
+    "wof:name":"Little Angels Daycare",
+    "wof:parent_id":85872525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [-95.974659,41.280802,-95.974659,41.280802],
+  "geometry": {"coordinates":[-95.974659,41.280802],"type":"Point"}
+}

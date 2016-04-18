@@ -1,0 +1,73 @@
+{
+  "id": 203075061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.916504,41.234173,-95.916504,41.234173",
+    "geom:latitude":41.234173,
+    "geom:longitude":-95.916504,
+    "iso:country":"US",
+    "sg:address":"100 Bancroft St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Event Space",
+            "type":"Services"
+        },
+        {
+            "category":"Landmark",
+            "subcategory":"Tourist Information",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 346 4002",
+    "sg:postcode":"68108",
+    "sg:province":"NE",
+    "sg:tags":[
+        "tour",
+        "venue"
+    ],
+    "sg:website":"www.lauritzengardens.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6sw8HIA2r8sNVJmeWOAsWW_41.234173_-95.916504@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"2ebe6c0bcf1fddf357d0fffd60c0e11a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203075061
+        }
+    ],
+    "wof:id":203075061,
+    "wof:lastmodified":1449025975,
+    "wof:name":"Lauritzen Gardens Omaha's Botanical Center",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tour",
+        "venue"
+    ]
+},
+  "bbox": [-95.916504,41.234173,-95.916504,41.234173],
+  "geometry": {"coordinates":[-95.916504,41.234173],"type":"Point"}
+}

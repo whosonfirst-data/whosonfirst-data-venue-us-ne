@@ -1,0 +1,75 @@
+{
+  "id": 203075709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.946899,41.229801,-95.946899,41.229801",
+    "geom:latitude":41.229801,
+    "geom:longitude":-95.946899,
+    "iso:country":"US",
+    "sg:address":"3121 S 24th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 345 7178",
+    "sg:postcode":"68108",
+    "sg:province":"NE",
+    "sg:tags":[
+        "photography",
+        "drugstore",
+        "store"
+    ],
+    "sg:website":"www.walgreens.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_33KSKvIxFBRNPnodtLrJOz_41.229801_-95.946899@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ed3fdfe5ab1241358d812214358b00b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203075709
+        }
+    ],
+    "wof:id":203075709,
+    "wof:lastmodified":1449025973,
+    "wof:name":"Walgreen Drug Stores",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photography",
+        "drugstore",
+        "store"
+    ]
+},
+  "bbox": [-95.946899,41.229801,-95.946899,41.229801],
+  "geometry": {"coordinates":[-95.946899,41.229801],"type":"Point"}
+}

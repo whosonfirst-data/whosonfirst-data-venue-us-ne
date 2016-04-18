@@ -1,0 +1,69 @@
+{
+  "id": 203131029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.990312,41.265064,-95.990312,41.265064",
+    "geom:latitude":41.265064,
+    "geom:longitude":-95.990312,
+    "iso:country":"US",
+    "sg:address":"5001 Underwood St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 866 920 5344",
+    "sg:postcode":"68132",
+    "sg:province":"NE",
+    "sg:tags":[
+        "frozen",
+        "yogurt"
+    ],
+    "sg:website":"www.ecreamery.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85867055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3oNscB6EFlZVFyCmoldvL9_41.265064_-95.990312@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"db6feab004f4e3a0dbe1edef1c9217fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85867055,
+            "region_id":85688563,
+            "venue_id":203131029
+        }
+    ],
+    "wof:id":203131029,
+    "wof:lastmodified":1449025481,
+    "wof:name":"eCreamery",
+    "wof:parent_id":85867055,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "frozen",
+        "yogurt"
+    ]
+},
+  "bbox": [-95.990312,41.265064,-95.990312,41.265064],
+  "geometry": {"coordinates":[-95.990312,41.265064],"type":"Point"}
+}

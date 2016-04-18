@@ -1,0 +1,73 @@
+{
+  "id": 203136923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.044617,41.28164,-96.044617,41.28164",
+    "geom:latitude":41.28164,
+    "geom:longitude":-96.044617,
+    "iso:country":"US",
+    "sg:address":"2515 N 85th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 957 1955",
+    "sg:postcode":"68134",
+    "sg:province":"NE",
+    "sg:tags":[
+        "body",
+        "painting",
+        "repairing",
+        "automobile"
+    ],
+    "sg:website":"http://www.searlautobody.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85867061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3OfjdbSjOEYNMTbni0Dx15_41.281640_-96.044617@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"55017d56524737541e4bef209e1e086a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85867061,
+            "region_id":85688563,
+            "venue_id":203136923
+        }
+    ],
+    "wof:id":203136923,
+    "wof:lastmodified":1449026856,
+    "wof:name":"Searl Auto Body",
+    "wof:parent_id":85867061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "painting",
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-96.044617,41.28164,-96.044617,41.28164],
+  "geometry": {"coordinates":[-96.044617,41.28164],"type":"Point"}
+}

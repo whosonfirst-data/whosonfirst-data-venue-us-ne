@@ -1,0 +1,93 @@
+{
+  "id": 203137531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.026664,41.297708,-96.026664,41.297708",
+    "geom:latitude":41.297708,
+    "geom:longitude":-96.026664,
+    "iso:country":"US",
+    "sg:address":"7350 Graceland Dr",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"Retirement Home",
+            "type":"Services"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 206 2672",
+    "sg:postcode":"68134",
+    "sg:province":"NE",
+    "sg:tags":[
+        "living",
+        "apartment",
+        "people",
+        "assisted",
+        "hotel",
+        "community",
+        "elder",
+        "convalescent",
+        "homes-elderly"
+    ],
+    "sg:website":"http://www.skylinerc.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Hhyjuc2xUvrBEHk82ZSQt_41.297708_-96.026664@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0fd722c2ecfb1439946d4dcde26af20b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872515,
+            "region_id":85688563,
+            "venue_id":203137531
+        }
+    ],
+    "wof:id":203137531,
+    "wof:lastmodified":1449026599,
+    "wof:name":"Skyline Retirement Community",
+    "wof:parent_id":85872515,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "living",
+        "apartment",
+        "people",
+        "assisted",
+        "hotel",
+        "community",
+        "elder",
+        "convalescent",
+        "homes-elderly"
+    ]
+},
+  "bbox": [-96.026664,41.297708,-96.026664,41.297708],
+  "geometry": {"coordinates":[-96.026664,41.297708],"type":"Point"}
+}

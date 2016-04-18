@@ -1,0 +1,66 @@
+{
+  "id": 203139067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.09014,41.197679,-96.09014,41.197679",
+    "geom:latitude":41.197679,
+    "geom:longitude":-96.09014,
+    "iso:country":"US",
+    "sg:address":"11225 Y St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 592 3523",
+    "sg:postcode":"68137",
+    "sg:province":"NE",
+    "sg:tags":[
+        "limousine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0GbfVV6Ik50CQ6rJ9vZJ16_41.197679_-96.090140@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c5006cd0378c050bbcea92330574b5ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872531,
+            "region_id":85688563,
+            "venue_id":203139067
+        }
+    ],
+    "wof:id":203139067,
+    "wof:lastmodified":1449025109,
+    "wof:name":"International Limousine Shut",
+    "wof:parent_id":85872531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "limousine"
+    ]
+},
+  "bbox": [-96.09014,41.197679,-96.09014,41.197679],
+  "geometry": {"coordinates":[-96.09014,41.197679],"type":"Point"}
+}

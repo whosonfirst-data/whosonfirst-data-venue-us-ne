@@ -1,0 +1,62 @@
+{
+  "id": 203153041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.007571,41.284977,-96.007571,41.284977",
+    "geom:latitude":41.284977,
+    "geom:longitude":-96.007571,
+    "iso:country":"US",
+    "sg:address":"6107 Maple St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 932 4040",
+    "sg:postcode":"68197",
+    "sg:province":"NE",
+    "sg:website":"www.bensongrind.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2EaOpXAT5IqsfXAWnfmuM5_41.284977_-96.007571@1303262943"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4b9fdcd00cf2ab5059b737cb200b1647",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872535,
+            "region_id":85688563,
+            "venue_id":203153041
+        }
+    ],
+    "wof:id":203153041,
+    "wof:lastmodified":1449026285,
+    "wof:name":"Benson Grind",
+    "wof:parent_id":85872535,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-96.007571,41.284977,-96.007571,41.284977],
+  "geometry": {"coordinates":[-96.007571,41.284977],"type":"Point"}
+}

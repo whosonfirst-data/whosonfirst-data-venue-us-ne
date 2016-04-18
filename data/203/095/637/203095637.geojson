@@ -1,0 +1,65 @@
+{
+  "id": 203095637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.960297,41.335499,-95.960297,41.335499",
+    "geom:latitude":41.335499,
+    "geom:longitude":-95.960297,
+    "iso:country":"US",
+    "sg:address":"8305 N 30th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 451 7001",
+    "sg:postcode":"68112",
+    "sg:province":"NE",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ZDRv5zYeQXiiGGxJU8U3H_41.335499_-95.960297@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"33281bb1ffd787522ba1f9c316c1dd3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203095637
+        }
+    ],
+    "wof:id":203095637,
+    "wof:lastmodified":1449025891,
+    "wof:name":"Florence Animal Hospital",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [-95.960297,41.335499,-95.960297,41.335499],
+  "geometry": {"coordinates":[-95.960297,41.335499],"type":"Point"}
+}

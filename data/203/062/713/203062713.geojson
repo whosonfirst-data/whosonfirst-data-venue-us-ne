@@ -1,0 +1,68 @@
+{
+  "id": 203062713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.990402,41.227798,-95.990402,41.227798",
+    "geom:latitude":41.227798,
+    "geom:longitude":-95.990402,
+    "iso:country":"US",
+    "sg:address":"3440 S 50th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 556 3000",
+    "sg:postcode":"68106",
+    "sg:province":"NE",
+    "sg:tags":[
+        "medicine",
+        "internal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4KFsi3TqtfxYL8U987DFMi_41.227798_-95.990402@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"44442277d2346bed3f4dcb1dda4e22ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872513,
+            "region_id":85688563,
+            "venue_id":203062713
+        }
+    ],
+    "wof:id":203062713,
+    "wof:lastmodified":1449026739,
+    "wof:name":"Hutfless George S",
+    "wof:parent_id":85872513,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicine",
+        "internal"
+    ]
+},
+  "bbox": [-95.990402,41.227798,-95.990402,41.227798],
+  "geometry": {"coordinates":[-95.990402,41.227798],"type":"Point"}
+}

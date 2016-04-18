@@ -1,0 +1,75 @@
+{
+  "id": 203134049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.997398,41.263401,-95.997398,41.263401",
+    "geom:latitude":41.263401,
+    "geom:longitude":-95.997398,
+    "iso:country":"US",
+    "sg:address":"400 N Happy Hollow Blvd",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Preschool",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 556 3772",
+    "sg:postcode":"68132",
+    "sg:province":"NE",
+    "sg:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85867055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5SitoeI6JQd2eVq8IiVkoO_41.263401_-95.997398@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1635f6298722739d07eb1fd9098829e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85867055,
+            "region_id":85688563,
+            "venue_id":203134049
+        }
+    ],
+    "wof:id":203134049,
+    "wof:lastmodified":1449026762,
+    "wof:name":"Brownell-Talbot Preparatory",
+    "wof:parent_id":85867055,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ]
+},
+  "bbox": [-95.997398,41.263401,-95.997398,41.263401],
+  "geometry": {"coordinates":[-95.997398,41.263401],"type":"Point"}
+}

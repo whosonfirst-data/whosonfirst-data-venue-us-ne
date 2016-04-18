@@ -1,0 +1,68 @@
+{
+  "id": 203097129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.032885,41.259689,-96.032885,41.259689",
+    "geom:latitude":41.259689,
+    "geom:longitude":-96.032885,
+    "iso:country":"US",
+    "sg:address":"7615 Dodge St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 391 2375",
+    "sg:postcode":"68114",
+    "sg:province":"NE",
+    "sg:tags":[
+        "optical",
+        "machinery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_71ZAvRICvVNfJdKxui8LOj_41.259689_-96.032885@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"3accdd03b5968b48a96dc5fdb8028d68",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872509,
+            "region_id":85688563,
+            "venue_id":203097129
+        }
+    ],
+    "wof:id":203097129,
+    "wof:lastmodified":1449025660,
+    "wof:name":"Stanton Optical",
+    "wof:parent_id":85872509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "optical",
+        "machinery"
+    ]
+},
+  "bbox": [-96.032885,41.259689,-96.032885,41.259689],
+  "geometry": {"coordinates":[-96.032885,41.259689],"type":"Point"}
+}

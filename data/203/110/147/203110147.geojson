@@ -1,0 +1,65 @@
+{
+  "id": 203110147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.072171,41.321742,-96.072171,41.321742",
+    "geom:latitude":41.321742,
+    "geom:longitude":-96.072171,
+    "iso:country":"US",
+    "sg:address":"6920 N 102nd Cir",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 445 4244",
+    "sg:postcode":"68122",
+    "sg:province":"NE",
+    "sg:tags":[
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        102082789,
+        85872505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1EqfFCOVfEtUn2beYPAQkN_41.321742_-96.072171@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"65820fbdf6354a156f2f5f15bca74559",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":-1,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":203110147
+        }
+    ],
+    "wof:id":203110147,
+    "wof:lastmodified":1449025545,
+    "wof:name":"Sam & Louie's",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pizza"
+    ]
+},
+  "bbox": [-96.072171,41.321742,-96.072171,41.321742],
+  "geometry": {"coordinates":[-96.072171,41.321742],"type":"Point"}
+}

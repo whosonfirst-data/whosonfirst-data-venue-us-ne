@@ -1,0 +1,83 @@
+{
+  "id": 203110053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.19364,41.261333,-96.19364,41.261333",
+    "geom:latitude":41.261333,
+    "geom:longitude":-96.19364,
+    "iso:country":"US",
+    "sg:address":"17879 Chicago St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Event Space",
+            "type":"Services"
+        },
+        {
+            "category":"Travel",
+            "subcategory":"Bed & Breakfast",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 289 9696",
+    "sg:postcode":"68118",
+    "sg:province":"NE",
+    "sg:tags":[
+        "facility",
+        "banquet",
+        "inn",
+        "reception",
+        "lodging",
+        "hall"
+    ],
+    "sg:website":"http://hiltongardeninn1.hilton.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633793,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Ld2DrozJ0FUe6q5V8ehph_41.261333_-96.193640@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ec48eac4b0bc021a26d81c4a565a0e18",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203110053
+        }
+    ],
+    "wof:id":203110053,
+    "wof:lastmodified":1449025541,
+    "wof:name":"Hilton Garden Inn Omaha West",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "facility",
+        "banquet",
+        "inn",
+        "reception",
+        "lodging",
+        "hall"
+    ]
+},
+  "bbox": [-96.19364,41.261333,-96.19364,41.261333],
+  "geometry": {"coordinates":[-96.19364,41.261333],"type":"Point"}
+}

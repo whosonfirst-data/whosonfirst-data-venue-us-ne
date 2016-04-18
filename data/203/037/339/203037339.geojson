@@ -1,0 +1,77 @@
+{
+  "id": 203037339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.930441,41.270318,-95.930441,41.270318",
+    "geom:latitude":41.270318,
+    "geom:longitude":-95.930441,
+    "iso:country":"US",
+    "sg:address":"1144 N 11th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        },
+        {
+            "category":"Airport",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 571 5466",
+    "sg:postcode":"68102",
+    "sg:province":"NE",
+    "sg:tags":[
+        "shuttle",
+        "limousine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0gyNyT6KI3cxUR8MwUhNpd_41.270318_-95.930441@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"150d5d69766580685cf99b9061ee3eb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203037339
+        }
+    ],
+    "wof:id":203037339,
+    "wof:lastmodified":1449026889,
+    "wof:name":"Royal Limousine Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shuttle",
+        "limousine"
+    ]
+},
+  "bbox": [-95.930441,41.270318,-95.930441,41.270318],
+  "geometry": {"coordinates":[-95.930441,41.270318],"type":"Point"}
+}

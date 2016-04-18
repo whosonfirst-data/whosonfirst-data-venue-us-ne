@@ -1,0 +1,73 @@
+{
+  "id": 203136277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.043834,41.285336,-96.043834,41.285336",
+    "geom:latitude":41.285336,
+    "geom:longitude":-96.043834,
+    "iso:country":"US",
+    "sg:address":"2927 N 84th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 571 4776",
+    "sg:postcode":"68134",
+    "sg:province":"NE",
+    "sg:tags":[
+        "industrial",
+        "electrician",
+        "contractors-commercial",
+        "electric"
+    ],
+    "sg:website":"http://www.schaeferelectric.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85867061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6p7Wv50Z42NAnFAaFzxww1_41.285336_-96.043834@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"639e97ed17c29560243e26b7a33ba034",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85867061,
+            "region_id":85688563,
+            "venue_id":203136277
+        }
+    ],
+    "wof:id":203136277,
+    "wof:lastmodified":1449026852,
+    "wof:name":"Schaefer Electric Inc",
+    "wof:parent_id":85867061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industrial",
+        "electrician",
+        "contractors-commercial",
+        "electric"
+    ]
+},
+  "bbox": [-96.043834,41.285336,-96.043834,41.285336],
+  "geometry": {"coordinates":[-96.043834,41.285336],"type":"Point"}
+}

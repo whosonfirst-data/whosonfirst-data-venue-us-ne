@@ -1,0 +1,82 @@
+{
+  "id": 203165247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.6632,40.843855,-96.6632,40.843855",
+    "geom:latitude":40.843855,
+    "geom:longitude":-96.6632,
+    "iso:country":"US",
+    "sg:address":"3171 N 41st St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Scrap",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Locksmith",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 435 2121",
+    "sg:postcode":"68504",
+    "sg:province":"NE",
+    "sg:tags":[
+        "lock",
+        "towing",
+        "truck",
+        "wrecking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_26nChjLz4rjInCWhWhx2fl_40.843855_-96.663200@1303262943"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6628a3fa524632c6d58b9c306a0a5922",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878741,
+            "region_id":85688563,
+            "venue_id":203165247
+        }
+    ],
+    "wof:id":203165247,
+    "wof:lastmodified":1449026868,
+    "wof:name":"Allways Towing Inc",
+    "wof:parent_id":85878741,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "towing",
+        "truck",
+        "wrecking"
+    ]
+},
+  "bbox": [-96.6632,40.843855,-96.6632,40.843855],
+  "geometry": {"coordinates":[-96.6632,40.843855],"type":"Point"}
+}

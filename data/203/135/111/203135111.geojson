@@ -1,0 +1,71 @@
+{
+  "id": 203135111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.980797,41.266102,-95.980797,41.266102",
+    "geom:latitude":41.266102,
+    "geom:longitude":-95.980797,
+    "iso:country":"US",
+    "sg:address":"639 N Saddle Creek Rd",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 551 3180",
+    "sg:postcode":"68132",
+    "sg:province":"NE",
+    "sg:tags":[
+        "towing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85867055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4OYptJjTUJetJTowzwFbyG_41.266102_-95.980797@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"49fdb470459ea4c7a43760026933db56",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85867055,
+            "region_id":85688563,
+            "venue_id":203135111
+        }
+    ],
+    "wof:id":203135111,
+    "wof:lastmodified":1449025647,
+    "wof:name":"T & M Service-Automotive",
+    "wof:parent_id":85867055,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "towing"
+    ]
+},
+  "bbox": [-95.980797,41.266102,-95.980797,41.266102],
+  "geometry": {"coordinates":[-95.980797,41.266102],"type":"Point"}
+}

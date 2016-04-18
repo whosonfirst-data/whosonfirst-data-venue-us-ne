@@ -1,0 +1,66 @@
+{
+  "id": 203119619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.974876,41.263156,-95.974876,41.263156",
+    "geom:latitude":41.263156,
+    "geom:longitude":-95.974876,
+    "iso:country":"US",
+    "sg:address":"415 N 41st Ave",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 393 8575",
+    "sg:postcode":"68131",
+    "sg:province":"NE",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6vKfXzKy7TD3NGRJ8F9Uak_41.263156_-95.974876@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"89c6e424ad3a26168a127dc250b1d1a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872525,
+            "region_id":85688563,
+            "venue_id":203119619
+        }
+    ],
+    "wof:id":203119619,
+    "wof:lastmodified":1449026320,
+    "wof:name":"Saunders Apartments",
+    "wof:parent_id":85872525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [-95.974876,41.263156,-95.974876,41.263156],
+  "geometry": {"coordinates":[-95.974876,41.263156],"type":"Point"}
+}

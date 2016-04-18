@@ -1,0 +1,67 @@
+{
+  "id": 203109025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.186515,41.262548,-96.186515,41.262548",
+    "geom:latitude":41.262548,
+    "geom:longitude":-96.186515,
+    "iso:country":"US",
+    "sg:address":"17415 Chicago Cir",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 359 1340",
+    "sg:postcode":"68118",
+    "sg:province":"NE",
+    "sg:tags":[
+        "grill",
+        "bar"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4MJmlBV7N5PwssX3ui4Hfq_41.262548_-96.186515@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0db8aa538c653da0c8c41b3d29bbddf7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203109025
+        }
+    ],
+    "wof:id":203109025,
+    "wof:lastmodified":1449025582,
+    "wof:name":"Firebirds Rocky Mountain Grill",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grill",
+        "bar"
+    ]
+},
+  "bbox": [-96.186515,41.262548,-96.186515,41.262548],
+  "geometry": {"coordinates":[-96.186515,41.262548],"type":"Point"}
+}

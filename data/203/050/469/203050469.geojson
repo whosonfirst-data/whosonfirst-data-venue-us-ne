@@ -1,0 +1,92 @@
+{
+  "id": 203050469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.9771,41.239967,-95.9771,41.239967",
+    "geom:latitude":41.239967,
+    "geom:longitude":-95.9771,
+    "iso:country":"US",
+    "sg:address":"4315 Frances St Ste 100",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Employment Agencies",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        },
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 553 7322",
+    "sg:postcode":"68105",
+    "sg:province":"NE",
+    "sg:tags":[
+        "custom",
+        "trucking-motor",
+        "consultant",
+        "broker",
+        "trucking",
+        "forwarding"
+    ],
+    "sg:website":"http://www.phoenixintl.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6quovskKustZhzJLOTlQRR_41.239967_-95.977100@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1202d41b24122da8c6bc0c9311eff0e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872523,
+            "region_id":85688563,
+            "venue_id":203050469
+        }
+    ],
+    "wof:id":203050469,
+    "wof:lastmodified":1449025990,
+    "wof:name":"Phoenix International Freight Services, Ltd.",
+    "wof:parent_id":85872523,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "custom",
+        "trucking-motor",
+        "consultant",
+        "broker",
+        "trucking",
+        "forwarding"
+    ]
+},
+  "bbox": [-95.9771,41.239967,-95.9771,41.239967],
+  "geometry": {"coordinates":[-95.9771,41.239967],"type":"Point"}
+}

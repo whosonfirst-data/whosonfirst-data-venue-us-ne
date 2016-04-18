@@ -1,0 +1,66 @@
+{
+  "id": 203167583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.644143,40.806794,-96.644143,40.806794",
+    "geom:latitude":40.806794,
+    "geom:longitude":-96.644143,
+    "iso:country":"US",
+    "sg:address":"735 S 56th St Ste 3",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Chiropractor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 488 8801",
+    "sg:postcode":"68510",
+    "sg:province":"NE",
+    "sg:tags":[
+        "chiropractic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6YWRh3GYegbfphThQ7r7X7_40.806794_-96.644143@1303262943"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"c3d06499e64b1981343dd8c01710f7d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878703,
+            "region_id":85688563,
+            "venue_id":203167583
+        }
+    ],
+    "wof:id":203167583,
+    "wof:lastmodified":1449025921,
+    "wof:name":"Stauffers Chiropractic Pc",
+    "wof:parent_id":85878703,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chiropractic"
+    ]
+},
+  "bbox": [-96.644143,40.806794,-96.644143,40.806794],
+  "geometry": {"coordinates":[-96.644143,40.806794],"type":"Point"}
+}

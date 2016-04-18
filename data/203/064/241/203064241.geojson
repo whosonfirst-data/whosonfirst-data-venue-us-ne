@@ -1,0 +1,86 @@
+{
+  "id": 203064241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.944295,41.203477,-95.944295,41.203477",
+    "geom:latitude":41.203477,
+    "geom:longitude":-95.944295,
+    "iso:country":"US",
+    "sg:address":"5434 S 22nd St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Place Of Worship",
+            "subcategory":"Church",
+            "type":"Public Place"
+        },
+        {
+            "category":"Place Of Worship",
+            "subcategory":"",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        },
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 734 4500",
+    "sg:postcode":"68107",
+    "sg:province":"NE",
+    "sg:tags":[
+        "churches-catholic-traditional",
+        "churches-catholic",
+        "private",
+        "k-"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Fi42W4GVVdugH4tDmeAKU_41.203477_-95.944295@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"796c019ffbc9dd784add8a88f824b59b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203064241
+        }
+    ],
+    "wof:id":203064241,
+    "wof:lastmodified":1449025594,
+    "wof:name":"Assumption Church",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "churches-catholic-traditional",
+        "churches-catholic",
+        "private",
+        "k-"
+    ]
+},
+  "bbox": [-95.944295,41.203477,-95.944295,41.203477],
+  "geometry": {"coordinates":[-95.944295,41.203477],"type":"Point"}
+}

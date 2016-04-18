@@ -1,0 +1,76 @@
+{
+  "id": 203047257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.013079,41.299707,-96.013079,41.299707",
+    "geom:latitude":41.299707,
+    "geom:longitude":-96.013079,
+    "iso:country":"US",
+    "sg:address":"4515 N 65 Ave",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 779 7801",
+    "sg:postcode":"68104",
+    "sg:province":"NE",
+    "sg:tags":[
+        "repair",
+        "design",
+        "web"
+    ],
+    "sg:website":"ontheedgetech.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85805755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1qHTmmVn7ah1zMCEWYQa9N_41.299707_-96.013079@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ae167910d73cdab174044be273cc89c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85805755,
+            "region_id":85688563,
+            "venue_id":203047257
+        }
+    ],
+    "wof:id":203047257,
+    "wof:lastmodified":1449026196,
+    "wof:name":"On The Edge Technology",
+    "wof:parent_id":85805755,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "design",
+        "web"
+    ]
+},
+  "bbox": [-96.013079,41.299707,-96.013079,41.299707],
+  "geometry": {"coordinates":[-96.013079,41.299707],"type":"Point"}
+}

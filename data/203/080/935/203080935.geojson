@@ -1,0 +1,73 @@
+{
+  "id": 203080935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.929398,41.2342,-95.929398,41.2342",
+    "geom:latitude":41.2342,
+    "geom:longitude":-95.929398,
+    "iso:country":"US",
+    "sg:address":"2701 S 10th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 342 1731",
+    "sg:postcode":"68108",
+    "sg:province":"NE",
+    "sg:tags":[
+        "notary",
+        "drugstore"
+    ],
+    "sg:website":"http://www.rv.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_23uO9TceOrdlNQUVWu7cwb_41.234200_-95.929398@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"7bca50d6178fe175f83c181e206de93a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203080935
+        }
+    ],
+    "wof:id":203080935,
+    "wof:lastmodified":1449026830,
+    "wof:name":"Ed's Rexall Drug",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "notary",
+        "drugstore"
+    ]
+},
+  "bbox": [-95.929398,41.2342,-95.929398,41.2342],
+  "geometry": {"coordinates":[-95.929398,41.2342],"type":"Point"}
+}

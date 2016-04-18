@@ -1,0 +1,79 @@
+{
+  "id": 203161261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.747876,40.282681,-96.747876,40.282681",
+    "geom:latitude":40.282681,
+    "geom:longitude":-96.747876,
+    "iso:country":"US",
+    "sg:address":"1707 N 5th St",
+    "sg:city":"Beatrice",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Hazard Insurance",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Health Insurance",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 223 4143",
+    "sg:postcode":"68310",
+    "sg:province":"NE",
+    "sg:tags":[
+        "commercial",
+        "business"
+    ],
+    "sg:website":"http://www.aflac.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974505,
+        102083491
+    ],
+    "wof:brand_id":420574593,
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3974inAujZkt67FWU3IJQK_40.282681_-96.747876@1303262943"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4a7d9d605c29caa2392de735b73da6f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083491,
+            "locality_id":85974505,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203161261
+        }
+    ],
+    "wof:id":203161261,
+    "wof:lastmodified":1457209035,
+    "wof:name":"Aflac",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "business"
+    ]
+},
+  "bbox": [
+    -96.747876,
+    40.282681,
+    -96.747876,
+    40.282681
+],
+  "geometry": {"coordinates":[-96.74787600000001,40.282681],"type":"Point"}
+}

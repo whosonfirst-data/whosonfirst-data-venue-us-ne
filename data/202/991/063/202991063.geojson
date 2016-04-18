@@ -1,0 +1,68 @@
+{
+  "id": 202991063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.02565,41.161688,-96.02565,41.161688",
+    "geom:latitude":41.161688,
+    "geom:longitude":-96.02565,
+    "iso:country":"US",
+    "sg:address":"611 Pinnacle Dr",
+    "sg:city":"Papillion",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 339 6449",
+    "sg:postcode":"68046",
+    "sg:province":"NE",
+    "sg:tags":[
+        "saving",
+        "commercial"
+    ],
+    "sg:website":"http://pinnbank.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        102082789,
+        85843697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Ar7YYlvm4SiQPMWp9dFEg_41.161688_-96.025650@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b1c5ea38658249d18e62e3a8d6c03b48",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":-1,
+            "neighbourhood_id":85843697,
+            "region_id":85688563,
+            "venue_id":202991063
+        }
+    ],
+    "wof:id":202991063,
+    "wof:lastmodified":1449060904,
+    "wof:name":"Pinnacle Bank",
+    "wof:parent_id":85843697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "saving",
+        "commercial"
+    ]
+},
+  "bbox": [-96.02565,41.161688,-96.02565,41.161688],
+  "geometry": {"coordinates":[-96.02565,41.161688],"type":"Point"}
+}

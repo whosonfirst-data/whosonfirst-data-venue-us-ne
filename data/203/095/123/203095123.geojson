@@ -1,0 +1,68 @@
+{
+  "id": 203095123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.960214,41.336324,-95.960214,41.336324",
+    "geom:latitude":41.336324,
+    "geom:longitude":-95.960214,
+    "iso:country":"US",
+    "sg:address":"8405 N 30th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 453 6637",
+    "sg:postcode":"68112",
+    "sg:province":"NE",
+    "sg:tags":[
+        "therapy",
+        "physical"
+    ],
+    "sg:website":"www.alegent.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4AYDvdoJ5HWZi5N2DcahzH_41.336324_-95.960214@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"45267b785833058d9bba3ba0b988c777",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203095123
+        }
+    ],
+    "wof:id":203095123,
+    "wof:lastmodified":1449025891,
+    "wof:name":"Alegent Health",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapy",
+        "physical"
+    ]
+},
+  "bbox": [-95.960214,41.336324,-95.960214,41.336324],
+  "geometry": {"coordinates":[-95.960214,41.336324],"type":"Point"}
+}

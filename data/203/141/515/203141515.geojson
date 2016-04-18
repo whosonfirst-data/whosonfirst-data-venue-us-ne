@@ -1,0 +1,84 @@
+{
+  "id": 203141515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.082658,41.214327,-96.082658,41.214327",
+    "geom:latitude":41.214327,
+    "geom:longitude":-96.082658,
+    "iso:country":"US",
+    "sg:address":"10918 J St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Home Furnishings",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Glass & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 398 9012",
+    "sg:postcode":"68137",
+    "sg:province":"NE",
+    "sg:tags":[
+        "plate",
+        "glass-auto",
+        "window",
+        "mirror",
+        "windshield"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4dPXkPNkK5aDDb7k0qlcJ7_41.214327_-96.082658@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5f97105498011743d06b321c058c56dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872531,
+            "region_id":85688563,
+            "venue_id":203141515
+        }
+    ],
+    "wof:id":203141515,
+    "wof:lastmodified":1449025587,
+    "wof:name":"Omaha Glass Company",
+    "wof:parent_id":85872531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plate",
+        "glass-auto",
+        "window",
+        "mirror",
+        "windshield"
+    ]
+},
+  "bbox": [-96.082658,41.214327,-96.082658,41.214327],
+  "geometry": {"coordinates":[-96.082658,41.214327],"type":"Point"}
+}

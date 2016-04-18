@@ -1,0 +1,66 @@
+{
+  "id": 203010369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.937351,41.263742,-95.937351,41.263742",
+    "geom:latitude":41.263742,
+    "geom:longitude":-95.937351,
+    "iso:country":"US",
+    "sg:address":"1616 Cass St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 345 8047",
+    "sg:postcode":"68102",
+    "sg:province":"NE",
+    "sg:website":"http://www.togetheromaha.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6XBE6mPuOQ2KrbAeUBNOLd_41.263742_-95.937351@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b8100edecd99be25dfa3890bc83de9ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203010369
+        }
+    ],
+    "wof:id":203010369,
+    "wof:lastmodified":1449026133,
+    "wof:name":"Together Inc Of Metro Omaha",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-95.937351,41.263742,-95.937351,41.263742],
+  "geometry": {"coordinates":[-95.937351,41.263742],"type":"Point"}
+}

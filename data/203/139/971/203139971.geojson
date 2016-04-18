@@ -1,0 +1,73 @@
+{
+  "id": 203139971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.123791,41.216308,-96.123791,41.216308",
+    "geom:latitude":41.216308,
+    "geom:longitude":-96.123791,
+    "iso:country":"US",
+    "sg:address":"4441 S 134th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Hobbies, Toys, & Games",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 339 3530",
+    "sg:postcode":"68137",
+    "sg:province":"NE",
+    "sg:tags":[
+        "gun",
+        "gunsmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6oTEcn5aRu8krPjNwzYs1J_41.216308_-96.123791@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"20ebd254dad2c97883510b8ea6bb2fd7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872531,
+            "region_id":85688563,
+            "venue_id":203139971
+        }
+    ],
+    "wof:id":203139971,
+    "wof:lastmodified":1449025112,
+    "wof:name":"Guns Unlimited",
+    "wof:parent_id":85872531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "gun",
+        "gunsmith"
+    ]
+},
+  "bbox": [-96.123791,41.216308,-96.123791,41.216308],
+  "geometry": {"coordinates":[-96.123791,41.216308],"type":"Point"}
+}

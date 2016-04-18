@@ -1,0 +1,83 @@
+{
+  "id": 203114549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.029079,41.201548,-96.029079,41.201548",
+    "geom:latitude":41.201548,
+    "geom:longitude":-96.029079,
+    "iso:country":"US",
+    "sg:address":"7551 Main St Ste 253",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Petroleum Products",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Utilities",
+            "subcategory":"Fuel Oil & Lpg",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 331 4927",
+    "sg:postcode":"68127",
+    "sg:province":"NE",
+    "sg:tags":[
+        "development",
+        "field",
+        "exploration",
+        "gas",
+        "oils-petroleum"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973487,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5FIz27OWa1sJxY9K1B38kp_41.201548_-96.029079@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0d01ea051d3bbe366c4284c9b70a79d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973487,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203114549
+        }
+    ],
+    "wof:id":203114549,
+    "wof:lastmodified":1449025712,
+    "wof:name":"Platte Valley Oil Company",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "development",
+        "field",
+        "exploration",
+        "gas",
+        "oils-petroleum"
+    ]
+},
+  "bbox": [-96.029079,41.201548,-96.029079,41.201548],
+  "geometry": {"coordinates":[-96.029079,41.201548],"type":"Point"}
+}

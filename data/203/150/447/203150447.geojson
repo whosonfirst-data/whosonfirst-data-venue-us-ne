@@ -1,0 +1,80 @@
+{
+  "id": 203150447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.083977,41.265541,-96.083977,41.265541",
+    "geom:latitude":41.265541,
+    "geom:longitude":-96.083977,
+    "iso:country":"US",
+    "sg:address":"10870 W Dodge Rd",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Deli",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 965 9727",
+    "sg:postcode":"68154",
+    "sg:province":"NE",
+    "sg:tags":[
+        "delicatessen",
+        "mexican",
+        "take"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Ii4BG8FXLLkjgOCgrtLTU_41.265541_-96.083977@1303262943"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5e70945edf5d9459d5c87a58c6b39000",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872503,
+            "region_id":85688563,
+            "venue_id":203150447
+        }
+    ],
+    "wof:id":203150447,
+    "wof:lastmodified":1449024966,
+    "wof:name":"New York Burrito",
+    "wof:parent_id":85872503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delicatessen",
+        "mexican",
+        "take"
+    ]
+},
+  "bbox": [-96.083977,41.265541,-96.083977,41.265541],
+  "geometry": {"coordinates":[-96.083977,41.265541],"type":"Point"}
+}

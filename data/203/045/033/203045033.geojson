@@ -1,0 +1,68 @@
+{
+  "id": 203045033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.991422,41.299641,-95.991422,41.299641",
+    "geom:latitude":41.299641,
+    "geom:longitude":-95.991422,
+    "iso:country":"US",
+    "sg:address":"5050 Ames Ave",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 595 1458",
+    "sg:postcode":"68104",
+    "sg:province":"NE",
+    "sg:tags":[
+        "laboratories-pathological",
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85805755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_31wKoyw3bGVG17qztPYX9h_41.299641_-95.991422@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"8f6cbf8a33eda73bd8127809c61320ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85805755,
+            "region_id":85688563,
+            "venue_id":203045033
+        }
+    ],
+    "wof:id":203045033,
+    "wof:lastmodified":1449026647,
+    "wof:name":"Uma At Keystone",
+    "wof:parent_id":85805755,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratories-pathological",
+        "laboratory"
+    ]
+},
+  "bbox": [-95.991422,41.299641,-95.991422,41.299641],
+  "geometry": {"coordinates":[-95.991422,41.299641],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 203161497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.657089,40.397483,-95.657089,40.397483",
+    "geom:latitude":40.397483,
+    "geom:longitude":-95.657089,
+    "iso:country":"US",
+    "sg:address":"217 Main St",
+    "sg:city":"Brownville",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 800 275 8777",
+    "sg:postcode":"68321",
+    "sg:province":"NE",
+    "sg:tags":[
+        "mail",
+        "shipping"
+    ],
+    "sg:website":"http://www.usps.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973681,
+        102083473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0HkyjEfwSWPyrYOgmsR1pK_40.397483_-95.657089@1303262943"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"efd0cae1b75d76daa1489cc984cc3c68",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102083473,
+            "locality_id":85973681,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203161497
+        }
+    ],
+    "wof:id":203161497,
+    "wof:lastmodified":1449025667,
+    "wof:name":"USPS - United States Post Office - Brownville Main Office",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mail",
+        "shipping"
+    ]
+},
+  "bbox": [-95.657089,40.397483,-95.657089,40.397483],
+  "geometry": {"coordinates":[-95.657089,40.397483],"type":"Point"}
+}

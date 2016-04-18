@@ -1,0 +1,66 @@
+{
+  "id": 203062137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.997902,41.2271,-95.997902,41.2271",
+    "geom:latitude":41.2271,
+    "geom:longitude":-95.997902,
+    "iso:country":"US",
+    "sg:address":"5444 Grover St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 554 0449",
+    "sg:postcode":"68106",
+    "sg:province":"NE",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85867059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_47NqcGZgwU62ouWb5YJjS3_41.227100_-95.997902@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5f4b33f2f83f3ea17829b2224f94d999",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85867059,
+            "region_id":85688563,
+            "venue_id":203062137
+        }
+    ],
+    "wof:id":203062137,
+    "wof:lastmodified":1449026735,
+    "wof:name":"Cedar Heights Apartments",
+    "wof:parent_id":85867059,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [-95.997902,41.2271,-95.997902,41.2271],
+  "geometry": {"coordinates":[-95.997902,41.2271],"type":"Point"}
+}

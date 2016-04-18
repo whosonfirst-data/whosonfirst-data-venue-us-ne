@@ -1,0 +1,68 @@
+{
+  "id": 203123153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.964225,41.263811,-95.964225,41.263811",
+    "geom:latitude":41.263811,
+    "geom:longitude":-95.964225,
+    "iso:country":"US",
+    "sg:address":"3510 Cass St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 342 6981",
+    "sg:postcode":"68131",
+    "sg:province":"NE",
+    "sg:tags":[
+        "nursery",
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ofcpTPlMykweEKJgehINZ_41.263811_-95.964225@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f94b2175cb9e408210139f792d6e376d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872525,
+            "region_id":85688563,
+            "venue_id":203123153
+        }
+    ],
+    "wof:id":203123153,
+    "wof:lastmodified":1449025476,
+    "wof:name":"Williams, Felicia Day Care",
+    "wof:parent_id":85872525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nursery",
+        "day"
+    ]
+},
+  "bbox": [-95.964225,41.263811,-95.964225,41.263811],
+  "geometry": {"coordinates":[-95.964225,41.263811],"type":"Point"}
+}

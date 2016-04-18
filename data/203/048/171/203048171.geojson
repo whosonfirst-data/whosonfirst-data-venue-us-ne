@@ -1,0 +1,66 @@
+{
+  "id": 203048171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.004768,41.299687,-96.004768,41.299687",
+    "geom:latitude":41.299687,
+    "geom:longitude":-96.004768,
+    "iso:country":"US",
+    "sg:address":"6002 Ames Ave",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 763 9914",
+    "sg:postcode":"68104",
+    "sg:province":"NE",
+    "sg:tags":[
+        "glass"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85805755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_19QMDdxP0iTz0mZ1hP3Wd1_41.299687_-96.004768@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"729eed5cad45aa53386450bf84c3e716",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85805755,
+            "region_id":85688563,
+            "venue_id":203048171
+        }
+    ],
+    "wof:id":203048171,
+    "wof:lastmodified":1449025586,
+    "wof:name":"A+ Auto Glass & More",
+    "wof:parent_id":85805755,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass"
+    ]
+},
+  "bbox": [-96.004768,41.299687,-96.004768,41.299687],
+  "geometry": {"coordinates":[-96.004768,41.299687],"type":"Point"}
+}

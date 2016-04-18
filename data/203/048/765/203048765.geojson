@@ -1,0 +1,68 @@
+{
+  "id": 203048765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.009399,41.284,-96.009399,41.284",
+    "geom:latitude":41.284,
+    "geom:longitude":-96.009399,
+    "iso:country":"US",
+    "sg:address":"2746 N 63rd St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 553 1042",
+    "sg:postcode":"68104",
+    "sg:province":"NE",
+    "sg:tags":[
+        "surgeon",
+        "oral"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3JTTKTCB4Ywq9QXCM5luos_41.284000_-96.009399@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"b52d8520862cd6e74b9994d4040f92ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872535,
+            "region_id":85688563,
+            "venue_id":203048765
+        }
+    ],
+    "wof:id":203048765,
+    "wof:lastmodified":1449025584,
+    "wof:name":"Millea David J DDS",
+    "wof:parent_id":85872535,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surgeon",
+        "oral"
+    ]
+},
+  "bbox": [-96.009399,41.284,-96.009399,41.284],
+  "geometry": {"coordinates":[-96.009399,41.284],"type":"Point"}
+}

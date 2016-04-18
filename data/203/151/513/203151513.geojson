@@ -1,0 +1,74 @@
+{
+  "id": 203151513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.109273,41.279276,-96.109273,41.279276",
+    "geom:latitude":41.279276,
+    "geom:longitude":-96.109273,
+    "iso:country":"US",
+    "sg:address":"2118 N 125th Cir",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 203 8173",
+    "sg:postcode":"68164",
+    "sg:province":"NE",
+    "sg:tags":[
+        "motion",
+        "picture",
+        "distributor",
+        "film",
+        "exchange"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4JjON5d3ZWeauToP0WwUnh_41.279276_-96.109273@1303262943"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5c7c3058718b19e61e8865d9b5ddcaf7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872503,
+            "region_id":85688563,
+            "venue_id":203151513
+        }
+    ],
+    "wof:id":203151513,
+    "wof:lastmodified":1449024957,
+    "wof:name":"The Omaha Film Festival",
+    "wof:parent_id":85872503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "motion",
+        "picture",
+        "distributor",
+        "film",
+        "exchange"
+    ]
+},
+  "bbox": [-96.109273,41.279276,-96.109273,41.279276],
+  "geometry": {"coordinates":[-96.109273,41.279276],"type":"Point"}
+}

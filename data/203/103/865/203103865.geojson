@@ -1,0 +1,86 @@
+{
+  "id": 203103865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.986988,41.215194,-95.986988,41.215194",
+    "geom:latitude":41.215194,
+    "geom:longitude":-95.986988,
+    "iso:country":"US",
+    "sg:address":"4844 I St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Glass & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 734 1313",
+    "sg:postcode":"68117",
+    "sg:province":"NE",
+    "sg:tags":[
+        "plate",
+        "shape",
+        "glass-wholesale",
+        "window",
+        "special",
+        "circle",
+        "windshield",
+        "glass-auto",
+        "manufacturer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1YMN3vYstK9W1o8NE8dAlw_41.215194_-95.986988@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0de777518fae78de6926d2dc4712c4bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203103865
+        }
+    ],
+    "wof:id":203103865,
+    "wof:lastmodified":1449026135,
+    "wof:name":"Aarons Auto Glass & Repair",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plate",
+        "shape",
+        "glass-wholesale",
+        "window",
+        "special",
+        "circle",
+        "windshield",
+        "glass-auto",
+        "manufacturer"
+    ]
+},
+  "bbox": [-95.986988,41.215194,-95.986988,41.215194],
+  "geometry": {"coordinates":[-95.986988,41.215194],"type":"Point"}
+}

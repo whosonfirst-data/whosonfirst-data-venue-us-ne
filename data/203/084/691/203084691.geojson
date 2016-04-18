@@ -1,0 +1,61 @@
+{
+  "id": 203084691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.911845,41.308329,-95.911845,41.308329",
+    "geom:latitude":41.308329,
+    "geom:longitude":-95.911845,
+    "iso:country":"US",
+    "sg:address":"1301 E Hartman Ave",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 341 2822",
+    "sg:postcode":"68110",
+    "sg:province":"NE",
+    "sg:website":"www.abbottparking.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Qn9xyt1ZPym5GempkJSe6_41.308329_-95.911845@1303262941"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"5a78ff437111c74b2477bf8dad8a6765",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203084691
+        }
+    ],
+    "wof:id":203084691,
+    "wof:lastmodified":1449025146,
+    "wof:name":"Abbott Airport Parking",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [-95.911845,41.308329,-95.911845,41.308329],
+  "geometry": {"coordinates":[-95.911845,41.308329],"type":"Point"}
+}

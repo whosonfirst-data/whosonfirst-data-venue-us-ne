@@ -1,0 +1,68 @@
+{
+  "id": 203126719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-95.954331,41.271191,-95.954331,41.271191",
+    "geom:latitude":41.271191,
+    "geom:longitude":-95.954331,
+    "iso:country":"US",
+    "sg:address":"2830 Caldwell St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 345 1368",
+    "sg:postcode":"68131",
+    "sg:province":"NE",
+    "sg:tags":[
+        "service/non-profit",
+        "community"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6vbY2ZOJJOddw3PM4wTk5z_41.271191_-95.954331@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"4d1e7147318ff274a12d676848f3c452",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872525,
+            "region_id":85688563,
+            "venue_id":203126719
+        }
+    ],
+    "wof:id":203126719,
+    "wof:lastmodified":1449025615,
+    "wof:name":"New Covenant Justice & Peace Center",
+    "wof:parent_id":85872525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "service/non-profit",
+        "community"
+    ]
+},
+  "bbox": [-95.954331,41.271191,-95.954331,41.271191],
+  "geometry": {"coordinates":[-95.954331,41.271191],"type":"Point"}
+}

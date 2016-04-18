@@ -1,0 +1,83 @@
+{
+  "id": 203139669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.100684,41.217823,-96.100684,41.217823",
+    "geom:latitude":41.217823,
+    "geom:longitude":-96.100684,
+    "iso:country":"US",
+    "sg:address":"4325 S 120th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Hobbies, Toys, & Games",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Recreation",
+            "subcategory":"Gun Range",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 330 4492",
+    "sg:postcode":"68137",
+    "sg:province":"NE",
+    "sg:tags":[
+        "safety",
+        "instruction",
+        "marksmanship",
+        "gunsmith"
+    ],
+    "sg:website":"http://www.gunsunlimitedomaha.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789,
+        85872531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5VCFqylAG8LaSE6Ps2vWMi_41.217823_-96.100684@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"11f41d48044432f2103f5d298f8c835f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":85872531,
+            "region_id":85688563,
+            "venue_id":203139669
+        }
+    ],
+    "wof:id":203139669,
+    "wof:lastmodified":1449025109,
+    "wof:name":"Sauer Rifles",
+    "wof:parent_id":85872531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "safety",
+        "instruction",
+        "marksmanship",
+        "gunsmith"
+    ]
+},
+  "bbox": [-96.100684,41.217823,-96.100684,41.217823],
+  "geometry": {"coordinates":[-96.100684,41.217823],"type":"Point"}
+}

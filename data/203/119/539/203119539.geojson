@@ -1,0 +1,91 @@
+{
+  "id": 203119539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-96.190032,41.24683,-96.190032,41.24683",
+    "geom:latitude":41.24683,
+    "geom:longitude":-96.190032,
+    "iso:country":"US",
+    "sg:address":"17620 Poppleton Ave",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Community Center",
+            "subcategory":"Senior",
+            "type":"Public Place"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"Job Training",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"Retirement Home",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 333 5749",
+    "sg:postcode":"68130",
+    "sg:province":"NE",
+    "sg:tags":[
+        "living",
+        "homes-skilled",
+        "residential",
+        "assisted",
+        "convalescent",
+        "citizen"
+    ],
+    "sg:website":"http://www.edgewoodvista.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973483,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_68uLCcVN0ex4PDIUYrTOdT_41.246830_-96.190032@1303262942"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"0a526bcb956a3f5f0b4b673ba924d613",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102082789,
+            "locality_id":85973483,
+            "neighbourhood_id":-1,
+            "region_id":85688563,
+            "venue_id":203119539
+        }
+    ],
+    "wof:id":203119539,
+    "wof:lastmodified":1449026323,
+    "wof:name":"Edgewood Vista",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "living",
+        "homes-skilled",
+        "residential",
+        "assisted",
+        "convalescent",
+        "citizen"
+    ]
+},
+  "bbox": [-96.190032,41.24683,-96.190032,41.24683],
+  "geometry": {"coordinates":[-96.190032,41.24683],"type":"Point"}
+}
