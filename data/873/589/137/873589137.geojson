@@ -1,0 +1,82 @@
+{
+  "id": 873589137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.983102,41.238998,-95.983102,41.238998",
+    "geom:latitude":41.238998,
+    "geom:longitude":-95.983102,
+    "iso:country":"US",
+    "sg:address":"2202 S 46th Ave",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Carpets & Floor Coverings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 932 9700",
+    "sg:postcode":"68106",
+    "sg:province":"NE",
+    "sg:tags":[
+        "cleaners",
+        "rug"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872523,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1DuPIPFo9P1e7nrRr1wmCT_41.238998_-95.983102@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294819,
+    "wof:geomhash":"86ed3564b13695548f2d1b7ecd8692b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872523,
+            "region_id":85688563,
+            "venue_id":873589137
+        }
+    ],
+    "wof:id":873589137,
+    "wof:lastmodified":1464294819,
+    "wof:name":"Kasper Carpet Cleaning Inc",
+    "wof:parent_id":85872523,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners",
+        "rug"
+    ]
+},
+  "bbox": [
+    -95.983102,
+    41.238998,
+    -95.983102,
+    41.238998
+],
+  "geometry": {"coordinates":[-95.983102,41.238998],"type":"Point"}
+}

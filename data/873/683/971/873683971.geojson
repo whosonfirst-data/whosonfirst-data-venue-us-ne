@@ -1,0 +1,73 @@
+{
+  "id": 873683971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.89643,41.136482,-95.89643,41.136482",
+    "geom:latitude":41.136482,
+    "geom:longitude":-95.89643,
+    "iso:country":"US",
+    "sg:address":"201 W Mission Ave",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 292 4245",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "building",
+        "parks"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974747,
+        102082777,
+        85820061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2lSl5P0etnXuf5yGO73kzR_41.136482_-95.896430@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296110,
+    "wof:geomhash":"c2eddea48ba933814c3aae61f7a10709",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974747,
+            "neighbourhood_id":85820061,
+            "region_id":85688563,
+            "venue_id":873683971
+        }
+    ],
+    "wof:id":873683971,
+    "wof:lastmodified":1464296110,
+    "wof:name":"Space Tech Industries",
+    "wof:parent_id":85820061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "parks"
+    ]
+},
+  "bbox": [
+    -95.89643,
+    41.136482,
+    -95.89643,
+    41.136482
+],
+  "geometry": {"coordinates":[-95.89643,41.136482],"type":"Point"}
+}

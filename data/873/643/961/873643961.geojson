@@ -1,0 +1,71 @@
+{
+  "id": 873643961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.948726,41.107704,-95.948726,41.107704",
+    "geom:latitude":41.107704,
+    "geom:longitude":-95.948726,
+    "iso:country":"US",
+    "sg:address":"2605 Arrowhead Ln",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 293 1635",
+    "sg:postcode":"68123",
+    "sg:province":"NE",
+    "sg:tags":[
+        "communications"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974747,
+        102082777,
+        85820061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4yED7bbvfNgLKKTf5kOPzc_41.107704_-95.948726@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295524,
+    "wof:geomhash":"473ce76b46fae59bf1ea017d2e49cd5d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974747,
+            "neighbourhood_id":85820061,
+            "region_id":85688563,
+            "venue_id":873643961
+        }
+    ],
+    "wof:id":873643961,
+    "wof:lastmodified":1464295524,
+    "wof:name":"Nightwatch Internet Services",
+    "wof:parent_id":85820061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "communications"
+    ]
+},
+  "bbox": [
+    -95.948726,
+    41.107704,
+    -95.948726,
+    41.107704
+],
+  "geometry": {"coordinates":[-95.94872599999999,41.107704],"type":"Point"}
+}

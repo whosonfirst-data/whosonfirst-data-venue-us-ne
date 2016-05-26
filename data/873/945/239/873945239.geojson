@@ -1,0 +1,76 @@
+{
+  "id": 873945239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.041567,41.142432,-96.041567,41.142432",
+    "geom:latitude":41.142432,
+    "geom:longitude":-96.041567,
+    "iso:country":"US",
+    "sg:address":"1227 Golden Gate Dr",
+    "sg:city":"Papillion",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Title Insurance",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 935 4700",
+    "sg:postcode":"68046",
+    "sg:province":"NE",
+    "sg:tags":[
+        "company",
+        "carrier"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85843697,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6MVOT9I2MYx5eXO1lY1ex3_41.142432_-96.041567@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300891,
+    "wof:geomhash":"d5473028d1a0e9887249d3597c5d1594",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85843697,
+            "region_id":85688563,
+            "venue_id":873945239
+        }
+    ],
+    "wof:id":873945239,
+    "wof:lastmodified":1464300891,
+    "wof:name":"Bankers Title Agency Nebraska",
+    "wof:parent_id":85843697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "carrier"
+    ]
+},
+  "bbox": [
+    -96.041567,
+    41.142432,
+    -96.041567,
+    41.142432
+],
+  "geometry": {"coordinates":[-96.041567,41.142432],"type":"Point"}
+}

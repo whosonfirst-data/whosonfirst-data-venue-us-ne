@@ -1,0 +1,77 @@
+{
+  "id": 873725971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.053738,41.234287,-96.053738,41.234287",
+    "geom:latitude":41.234287,
+    "geom:longitude":-96.053738,
+    "iso:country":"US",
+    "sg:address":"9002 W Center Rd",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 393 9884",
+    "sg:postcode":"68124",
+    "sg:province":"NE",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872533,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4fuT4TbL4S9D927Fkmggag_41.234287_-96.053738@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296724,
+    "wof:geomhash":"ee7b67addd6ee994d8b8bb33b949a09e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872533,
+            "region_id":85688563,
+            "venue_id":873725971
+        }
+    ],
+    "wof:id":873725971,
+    "wof:lastmodified":1464296724,
+    "wof:name":"Amoco",
+    "wof:parent_id":85872533,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -96.053738,
+    41.234287,
+    -96.053738,
+    41.234287
+],
+  "geometry": {"coordinates":[-96.053738,41.234287],"type":"Point"}
+}

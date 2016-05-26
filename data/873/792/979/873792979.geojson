@@ -1,0 +1,71 @@
+{
+  "id": 873792979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.134893,41.307294,-96.134893,41.307294",
+    "geom:latitude":41.307294,
+    "geom:longitude":-96.134893,
+    "iso:country":"US",
+    "sg:address":"14122 Ogden St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 496 6120",
+    "sg:postcode":"68164",
+    "sg:province":"NE",
+    "sg:tags":[
+        "house",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85872505,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_25vS3No2EPx6m8wvUZQBsF_41.307294_-96.134893@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297689,
+    "wof:geomhash":"ae67e593101b0b8b55c4716e46f068bb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":873792979
+        }
+    ],
+    "wof:id":873792979,
+    "wof:lastmodified":1464297689,
+    "wof:name":"A-Abel Construction",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -96.134893,
+    41.307294,
+    -96.134893,
+    41.307294
+],
+  "geometry": {"coordinates":[-96.13489300000001,41.307294],"type":"Point"}
+}

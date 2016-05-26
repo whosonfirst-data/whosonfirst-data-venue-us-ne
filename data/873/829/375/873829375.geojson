@@ -1,0 +1,71 @@
+{
+  "id": 873829375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.683775,40.87936,-96.683775,40.87936",
+    "geom:latitude":40.87936,
+    "geom:longitude":-96.683775,
+    "iso:country":"US",
+    "sg:address":"6833 Telluride Dr",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 479 7500",
+    "sg:postcode":"68521",
+    "sg:province":"NE",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6hDNjAm073psdRGZMPNoXv_40.879360_-96.683775@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298320,
+    "wof:geomhash":"89f0d90a07586276515a978c767b7246",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878687,
+            "region_id":85688563,
+            "venue_id":873829375
+        }
+    ],
+    "wof:id":873829375,
+    "wof:lastmodified":1464298320,
+    "wof:name":"BMW of Lincoln",
+    "wof:parent_id":85878687,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [
+    -96.683775,
+    40.87936,
+    -96.683775,
+    40.87936
+],
+  "geometry": {"coordinates":[-96.683775,40.87936],"type":"Point"}
+}

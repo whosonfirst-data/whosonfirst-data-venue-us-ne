@@ -1,0 +1,71 @@
+{
+  "id": 873684735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.69708,40.734239,-96.69708,40.734239",
+    "geom:latitude":40.734239,
+    "geom:longitude":-96.69708,
+    "iso:country":"US",
+    "sg:address":"1717 Annette Ln",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 328 8695",
+    "sg:postcode":"68512",
+    "sg:province":"NE",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_64irtrPmNtvHQ2y376BTPr_40.734239_-96.697080@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296131,
+    "wof:geomhash":"bd05c849b292f186bf4d9c30b1df776e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878709,
+            "region_id":85688563,
+            "venue_id":873684735
+        }
+    ],
+    "wof:id":873684735,
+    "wof:lastmodified":1464296131,
+    "wof:name":"Huskerland Siding",
+    "wof:parent_id":85878709,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.69708,
+    40.734239,
+    -96.69708,
+    40.734239
+],
+  "geometry": {"coordinates":[-96.69708,40.734239],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873639623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.736889,40.869929,-96.736889,40.869929",
+    "geom:latitude":40.869929,
+    "geom:longitude":-96.736889,
+    "iso:country":"US",
+    "sg:address":"1154 NW Gary St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Advertising",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 435 5500",
+    "sg:postcode":"68521",
+    "sg:province":"NE",
+    "sg:tags":[
+        "counselor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7bg94UcUdq0NISv6YGjUej_40.869929_-96.736889@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295469,
+    "wof:geomhash":"0d071a801cad085e4a2cee31375544d0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878717,
+            "region_id":85688563,
+            "venue_id":873639623
+        }
+    ],
+    "wof:id":873639623,
+    "wof:lastmodified":1464295469,
+    "wof:name":"Benjamin Associates",
+    "wof:parent_id":85878717,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "counselor"
+    ]
+},
+  "bbox": [
+    -96.736889,
+    40.869929,
+    -96.736889,
+    40.869929
+],
+  "geometry": {"coordinates":[-96.73688900000001,40.869929],"type":"Point"}
+}

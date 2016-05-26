@@ -1,0 +1,75 @@
+{
+  "id": 873670973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.161348,41.262962,-96.161348,41.262962",
+    "geom:latitude":41.262962,
+    "geom:longitude":-96.161348,
+    "iso:country":"US",
+    "sg:address":"15615 W Dodge Rd",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 614 9378",
+    "sg:postcode":"68118",
+    "sg:province":"NE",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85806957,
+        102191575,
+        404519987,
+        85633793,
+        85973479,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1iHjfabPPntYQOWHbb0dGK_41.262962_-96.161348@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295812,
+    "wof:geomhash":"78c7c83ce2c83408d8545d81d42ae00e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404519987,
+            "locality_id":85973479,
+            "neighbourhood_id":85806957,
+            "region_id":85688563,
+            "venue_id":873670973
+        }
+    ],
+    "wof:id":873670973,
+    "wof:lastmodified":1464295812,
+    "wof:name":"West Omaha Dental",
+    "wof:parent_id":85806957,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -96.161348,
+    41.262962,
+    -96.161348,
+    41.262962
+],
+  "geometry": {"coordinates":[-96.161348,41.262962],"type":"Point"}
+}

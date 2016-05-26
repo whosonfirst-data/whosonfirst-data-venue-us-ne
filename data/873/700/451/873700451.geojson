@@ -1,0 +1,75 @@
+{
+  "id": 873700451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.677239,40.77621,-96.677239,40.77621",
+    "geom:latitude":40.77621,
+    "geom:longitude":-96.677239,
+    "iso:country":"US",
+    "sg:address":"3100 Tihen Cir",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 440 5612",
+    "sg:postcode":"68502",
+    "sg:province":"NE",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878713,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_24lUMpvvmUUjhwA4F5xXan_40.776210_-96.677239@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296411,
+    "wof:geomhash":"ee62f07514e213ac958707bc0380bb21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878713,
+            "region_id":85688563,
+            "venue_id":873700451
+        }
+    ],
+    "wof:id":873700451,
+    "wof:lastmodified":1464296411,
+    "wof:name":"Metro Building Svc",
+    "wof:parent_id":85878713,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -96.677239,
+    40.77621,
+    -96.677239,
+    40.77621
+],
+  "geometry": {"coordinates":[-96.677239,40.77621],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873707857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.647529,40.857454,-96.647529,40.857454",
+    "geom:latitude":40.857454,
+    "geom:longitude":-96.647529,
+    "iso:country":"US",
+    "sg:address":"5555 Superior St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Hobbies, Toys, & Games",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 466 4801",
+    "sg:postcode":"68504",
+    "sg:province":"NE",
+    "sg:tags":[
+        "drinking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85824241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7fjNs3vX8hSeSIDAtBpzzH_40.857454_-96.647529@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296493,
+    "wof:geomhash":"8159aedee36ef426e715c5999241d2b3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85824241,
+            "region_id":85688563,
+            "venue_id":873707857
+        }
+    ],
+    "wof:id":873707857,
+    "wof:lastmodified":1464296493,
+    "wof:name":"Earls Bar",
+    "wof:parent_id":85824241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drinking"
+    ]
+},
+  "bbox": [
+    -96.647529,
+    40.857454,
+    -96.647529,
+    40.857454
+],
+  "geometry": {"coordinates":[-96.64752900000001,40.857454],"type":"Point"}
+}

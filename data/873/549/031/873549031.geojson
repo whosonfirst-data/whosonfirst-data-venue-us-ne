@@ -1,0 +1,71 @@
+{
+  "id": 873549031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.903045,41.149149,-95.903045,41.149149",
+    "geom:latitude":41.149149,
+    "geom:longitude":-95.903045,
+    "iso:country":"US",
+    "sg:address":"1008 Normandy Dr",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 292 4395",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "basket"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85804025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3bcLUBO94XGy6Jv86O3Ok4_41.149149_-95.903045@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294367,
+    "wof:geomhash":"01a3cd5c315529e2c5ca9243354795ae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85804025,
+            "region_id":85688563,
+            "venue_id":873549031
+        }
+    ],
+    "wof:id":873549031,
+    "wof:lastmodified":1464294367,
+    "wof:name":"Davis Enterprise",
+    "wof:parent_id":85804025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "basket"
+    ]
+},
+  "bbox": [
+    -95.903045,
+    41.149149,
+    -95.903045,
+    41.149149
+],
+  "geometry": {"coordinates":[-95.90304500000001,41.149149],"type":"Point"}
+}

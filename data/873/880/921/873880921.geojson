@@ -1,0 +1,79 @@
+{
+  "id": 873880921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.617979,40.806341,-96.617979,40.806341",
+    "geom:latitude":40.806341,
+    "geom:longitude":-96.617979,
+    "iso:country":"US",
+    "sg:address":"731 Lakewood Dr",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 432 7445",
+    "sg:postcode":"68510",
+    "sg:province":"NE",
+    "sg:tags":[
+        "cleaners",
+        "rug",
+        "carpet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878725,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3H4Rd1AomXesI77gUzX778_40.806341_-96.617979@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299450,
+    "wof:geomhash":"7e9337bdaabf2846a7724ad25aa2fbdb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878725,
+            "region_id":85688563,
+            "venue_id":873880921
+        }
+    ],
+    "wof:id":873880921,
+    "wof:lastmodified":1464299450,
+    "wof:name":"Heartland Carpet Cleaning",
+    "wof:parent_id":85878725,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners",
+        "rug",
+        "carpet"
+    ]
+},
+  "bbox": [
+    -96.617979,
+    40.806341,
+    -96.617979,
+    40.806341
+],
+  "geometry": {"coordinates":[-96.61797900000001,40.806341],"type":"Point"}
+}

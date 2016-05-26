@@ -1,0 +1,86 @@
+{
+  "id": 873689407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.640353,40.75062,-96.640353,40.75062",
+    "geom:latitude":40.75062,
+    "geom:longitude":-96.640353,
+    "iso:country":"US",
+    "sg:address":"6000 S 58th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Durable Goods & Equipment",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 421 6100",
+    "sg:postcode":"68516",
+    "sg:province":"NE",
+    "sg:tags":[
+        "instrument",
+        "surveying",
+        "repair",
+        "professional"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878707,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5xQAPCx48XlV60NdgYaMuj_40.750620_-96.640353@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296258,
+    "wof:geomhash":"9b9339b4777b20aeffb76ffa7ee4b61d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878707,
+            "region_id":85688563,
+            "venue_id":873689407
+        }
+    ],
+    "wof:id":873689407,
+    "wof:lastmodified":1464296258,
+    "wof:name":"Transit Works",
+    "wof:parent_id":85878707,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instrument",
+        "surveying",
+        "repair",
+        "professional"
+    ]
+},
+  "bbox": [
+    -96.640353,
+    40.75062,
+    -96.640353,
+    40.75062
+],
+  "geometry": {"coordinates":[-96.640353,40.75062],"type":"Point"}
+}

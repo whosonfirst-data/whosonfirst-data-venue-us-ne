@@ -1,0 +1,75 @@
+{
+  "id": 873723305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.659386,40.799013,-96.659386,40.799013",
+    "geom:latitude":40.799013,
+    "geom:longitude":-96.659386,
+    "iso:country":"US",
+    "sg:address":"4100 A St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 483 2228",
+    "sg:postcode":"68510",
+    "sg:province":"NE",
+    "sg:tags":[
+        "physician"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878683,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2DR2XWpaufLrG7tVDGxUbJ_40.799013_-96.659386@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296690,
+    "wof:geomhash":"3a7736aa84b9fefb20b267ab1b6390ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878683,
+            "region_id":85688563,
+            "venue_id":873723305
+        }
+    ],
+    "wof:id":873723305,
+    "wof:lastmodified":1464296690,
+    "wof:name":"Robert Twinem MD",
+    "wof:parent_id":85878683,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician"
+    ]
+},
+  "bbox": [
+    -96.659386,
+    40.799013,
+    -96.659386,
+    40.799013
+],
+  "geometry": {"coordinates":[-96.659386,40.799013],"type":"Point"}
+}

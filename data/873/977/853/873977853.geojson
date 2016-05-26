@@ -1,0 +1,81 @@
+{
+  "id": 873977853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.942039,41.159279,-95.942039,41.159279",
+    "geom:latitude":41.159279,
+    "geom:longitude":-95.942039,
+    "iso:country":"US",
+    "sg:address":"2016 Cornhusker Rd",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Cafe",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ne/highland-ii/105425-carlos-okellys-mexican-cafe/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 934 4963",
+    "sg:postcode":"68123",
+    "sg:province":"NE",
+    "sg:tags":[
+        "american",
+        "mexican",
+        "tex-mex"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85821583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0uq3scZnDSte3RNbBmqYXX_41.159104_-95.941374@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464302291,
+    "wof:geomhash":"aab4f2b26cd605bf592da7c9b7663fec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85821583,
+            "region_id":85688563,
+            "venue_id":873977853
+        }
+    ],
+    "wof:id":873977853,
+    "wof:lastmodified":1464302291,
+    "wof:name":"Carlos O'Kelly's Mexican Cafe",
+    "wof:parent_id":85821583,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "mexican",
+        "tex-mex"
+    ]
+},
+  "bbox": [
+    -95.942039,
+    41.159279,
+    -95.942039,
+    41.159279
+],
+  "geometry": {"coordinates":[-95.94203899999999,41.159279],"type":"Point"}
+}

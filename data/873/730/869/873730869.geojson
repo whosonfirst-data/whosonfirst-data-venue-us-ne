@@ -1,0 +1,79 @@
+{
+  "id": 873730869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.009415,41.285077,-96.009415,41.285077",
+    "geom:latitude":41.285077,
+    "geom:longitude":-96.009415,
+    "iso:country":"US",
+    "sg:address":"6220 Maple St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 554 1000",
+    "sg:postcode":"68104",
+    "sg:province":"NE",
+    "sg:tags":[
+        "pregnancy",
+        "counseling",
+        "information"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872535,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1JJqsCdYNnBp3EvPZWavsg_41.285077_-96.009415@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296789,
+    "wof:geomhash":"3e0a5186131fc52e970b8170e7616698",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872535,
+            "region_id":85688563,
+            "venue_id":873730869
+        }
+    ],
+    "wof:id":873730869,
+    "wof:lastmodified":1464296789,
+    "wof:name":"EPS Pregnancy Svc",
+    "wof:parent_id":85872535,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pregnancy",
+        "counseling",
+        "information"
+    ]
+},
+  "bbox": [
+    -96.009415,
+    41.285077,
+    -96.009415,
+    41.285077
+],
+  "geometry": {"coordinates":[-96.009415,41.285077],"type":"Point"}
+}

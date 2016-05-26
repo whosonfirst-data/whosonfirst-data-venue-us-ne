@@ -1,0 +1,77 @@
+{
+  "id": 873708277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.150707,41.253488,-96.150707,41.253488",
+    "geom:latitude":41.253488,
+    "geom:longitude":-96.150707,
+    "iso:country":"US",
+    "sg:address":"707 S 152nd Cir",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 330 9556",
+    "sg:postcode":"68154",
+    "sg:province":"NE",
+    "sg:tags":[
+        "coating",
+        "powder"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85806957,
+        102191575,
+        404519987,
+        85633793,
+        85973479,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_794mzxsgJEva9dEOSUrv71_41.253488_-96.150707@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296498,
+    "wof:geomhash":"456b46e4d5cc347549278f02415e01f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404519987,
+            "locality_id":85973479,
+            "neighbourhood_id":85806957,
+            "region_id":85688563,
+            "venue_id":873708277
+        }
+    ],
+    "wof:id":873708277,
+    "wof:lastmodified":1464296498,
+    "wof:name":"TCI",
+    "wof:parent_id":85806957,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "coating",
+        "powder"
+    ]
+},
+  "bbox": [
+    -96.150707,
+    41.253488,
+    -96.150707,
+    41.253488
+],
+  "geometry": {"coordinates":[-96.150707,41.253488],"type":"Point"}
+}

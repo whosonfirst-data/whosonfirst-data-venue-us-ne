@@ -1,0 +1,83 @@
+{
+  "id": 873813583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.081521,41.293424,-96.081521,41.293424",
+    "geom:latitude":41.293424,
+    "geom:longitude":-96.081521,
+    "iso:country":"US",
+    "sg:address":"3838 N 108th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Farm Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 493 4550",
+    "sg:postcode":"68164",
+    "sg:province":"NE",
+    "sg:tags":[
+        "equipment",
+        "livestock"
+    ],
+    "sg:website":"www.gromaster.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872503,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4yHVwMKezW3Zz2n5WOXR2e_41.293424_-96.081521@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297989,
+    "wof:geomhash":"0b646ae0b52a957f032bf9bc15485c81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872503,
+            "region_id":85688563,
+            "venue_id":873813583
+        }
+    ],
+    "wof:id":873813583,
+    "wof:lastmodified":1464297989,
+    "wof:name":"Gro Master Feed Inc",
+    "wof:parent_id":85872503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "livestock"
+    ]
+},
+  "bbox": [
+    -96.081521,
+    41.293424,
+    -96.081521,
+    41.293424
+],
+  "geometry": {"coordinates":[-96.081521,41.293424],"type":"Point"}
+}

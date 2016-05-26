@@ -1,0 +1,75 @@
+{
+  "id": 873586129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.682361,40.757059,-96.682361,40.757059",
+    "geom:latitude":40.757059,
+    "geom:longitude":-96.682361,
+    "iso:country":"US",
+    "sg:address":"5600 S 27th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 441 8374",
+    "sg:postcode":"68512",
+    "sg:province":"NE",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878739,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6HPCmX4ApTZYqnePDy74lz_40.757059_-96.682361@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294786,
+    "wof:geomhash":"232bab47bcc235ec791583315325825c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878739,
+            "region_id":85688563,
+            "venue_id":873586129
+        }
+    ],
+    "wof:id":873586129,
+    "wof:lastmodified":1464294786,
+    "wof:name":"Lincoln Fire Dept",
+    "wof:parent_id":85878739,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -96.682361,
+    40.757059,
+    -96.682361,
+    40.757059
+],
+  "geometry": {"coordinates":[-96.682361,40.757059],"type":"Point"}
+}

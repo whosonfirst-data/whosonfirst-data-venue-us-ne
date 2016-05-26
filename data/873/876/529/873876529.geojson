@@ -1,0 +1,75 @@
+{
+  "id": 873876529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.702898,40.779272,-96.702898,40.779272",
+    "geom:latitude":40.779272,
+    "geom:longitude":-96.702898,
+    "iso:country":"US",
+    "sg:address":"3229 S 13th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Self-service Laundry",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 421 2214",
+    "sg:postcode":"68502",
+    "sg:province":"NE",
+    "sg:tags":[
+        "coin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878719,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2mCJjOnaSuuQI3u1r4kQS1_40.779272_-96.702898@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299363,
+    "wof:geomhash":"2928b84974bed8b97bcbd7070a2d19e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878719,
+            "region_id":85688563,
+            "venue_id":873876529
+        }
+    ],
+    "wof:id":873876529,
+    "wof:lastmodified":1464299363,
+    "wof:name":"Indian Village Laundromat",
+    "wof:parent_id":85878719,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "coin"
+    ]
+},
+  "bbox": [
+    -96.702898,
+    40.779272,
+    -96.702898,
+    40.779272
+],
+  "geometry": {"coordinates":[-96.702898,40.779272],"type":"Point"}
+}

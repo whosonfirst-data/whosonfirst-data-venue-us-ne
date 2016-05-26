@@ -1,0 +1,71 @@
+{
+  "id": 873953933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.041142,41.164924,-96.041142,41.164924",
+    "geom:latitude":41.164924,
+    "geom:longitude":-96.041142,
+    "iso:country":"US",
+    "sg:address":"716 Dublin Dr",
+    "sg:city":"Papillion",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 596 0028",
+    "sg:postcode":"68046",
+    "sg:province":"NE",
+    "sg:tags":[
+        "roofing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85843697,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3GmAl7ed5mVGWMoHFY8u7G_41.164924_-96.041142@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464301298,
+    "wof:geomhash":"624403c546f7a6c075f7f4e269e1217f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85843697,
+            "region_id":85688563,
+            "venue_id":873953933
+        }
+    ],
+    "wof:id":873953933,
+    "wof:lastmodified":1464301298,
+    "wof:name":"Inner-City Roofing",
+    "wof:parent_id":85843697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "roofing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.041142,
+    41.164924,
+    -96.041142,
+    41.164924
+],
+  "geometry": {"coordinates":[-96.04114199999999,41.164924],"type":"Point"}
+}

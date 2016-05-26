@@ -1,0 +1,73 @@
+{
+  "id": 873747619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.6318,40.850643,-96.6318,40.850643",
+    "geom:latitude":40.850643,
+    "geom:longitude":-96.6318,
+    "iso:country":"US",
+    "sg:address":"6409 Colfax St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Signs",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 464 3136",
+    "sg:postcode":"68507",
+    "sg:province":"NE",
+    "sg:tags":[
+        "specialty",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85824241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3HWFKVxiVIwdAnYVIzXHHQ_40.850643_-96.631800@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297045,
+    "wof:geomhash":"853fc4325db8d47c40aafc909bdc3cd9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85824241,
+            "region_id":85688563,
+            "venue_id":873747619
+        }
+    ],
+    "wof:id":873747619,
+    "wof:lastmodified":1464297045,
+    "wof:name":"Sign Post",
+    "wof:parent_id":85824241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "specialty",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -96.6318,
+    40.850643,
+    -96.6318,
+    40.850643
+],
+  "geometry": {"coordinates":[-96.6318,40.850643],"type":"Point"}
+}

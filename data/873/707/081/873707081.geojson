@@ -1,0 +1,77 @@
+{
+  "id": 873707081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.052481,41.257217,-96.052481,41.257217",
+    "geom:latitude":41.257217,
+    "geom:longitude":-96.052481,
+    "iso:country":"US",
+    "sg:address":"391 S 90th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 334 5500",
+    "sg:postcode":"68114",
+    "sg:province":"NE",
+    "sg:tags":[
+        "builder",
+        "operative"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872509,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5DXB9GBeWUkqRHL1lNCkry_41.257217_-96.052481@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296484,
+    "wof:geomhash":"29015d8d39834d411bb687c7cab97a37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872509,
+            "region_id":85688563,
+            "venue_id":873707081
+        }
+    ],
+    "wof:id":873707081,
+    "wof:lastmodified":1464296484,
+    "wof:name":"Cherry Tree Corporation",
+    "wof:parent_id":85872509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "builder",
+        "operative"
+    ]
+},
+  "bbox": [
+    -96.052481,
+    41.257217,
+    -96.052481,
+    41.257217
+],
+  "geometry": {"coordinates":[-96.052481,41.257217],"type":"Point"}
+}

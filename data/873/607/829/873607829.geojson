@@ -1,0 +1,73 @@
+{
+  "id": 873607829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.902359,41.153356,-95.902359,41.153356",
+    "geom:latitude":41.153356,
+    "geom:longitude":-95.902359,
+    "iso:country":"US",
+    "sg:address":"610 Logan Ave",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 292 6037",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "home",
+        "improvement"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85804025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ZGLjdUv5RQG83ChXED7DG_41.153356_-95.902359@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295095,
+    "wof:geomhash":"768cde87b526628d9bc24934e68e4673",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85804025,
+            "region_id":85688563,
+            "venue_id":873607829
+        }
+    ],
+    "wof:id":873607829,
+    "wof:lastmodified":1464295095,
+    "wof:name":"Heartland Home Improvements",
+    "wof:parent_id":85804025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "improvement"
+    ]
+},
+  "bbox": [
+    -95.902359,
+    41.153356,
+    -95.902359,
+    41.153356
+],
+  "geometry": {"coordinates":[-95.902359,41.153356],"type":"Point"}
+}

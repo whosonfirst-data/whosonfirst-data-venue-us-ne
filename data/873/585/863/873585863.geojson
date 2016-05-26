@@ -1,0 +1,79 @@
+{
+  "id": 873585863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.606286,40.787451,-96.606286,40.787451",
+    "geom:latitude":40.787451,
+    "geom:longitude":-96.606286,
+    "iso:country":"US",
+    "sg:address":"8225 Karl Ridge Rd",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 484 5426",
+    "sg:postcode":"68506",
+    "sg:province":"NE",
+    "sg:tags":[
+        "website",
+        "consulting",
+        "design",
+        "network",
+        "sales"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4k4FJRh7ZkBVQfEusGf8SJ_40.787451_-96.606286@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294782,
+    "wof:geomhash":"baaed02cb374e28eccb7396f68b1b07b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878697,
+            "region_id":85688563,
+            "venue_id":873585863
+        }
+    ],
+    "wof:id":873585863,
+    "wof:lastmodified":1464294782,
+    "wof:name":"Lincoln PC",
+    "wof:parent_id":85878697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "website",
+        "consulting",
+        "design",
+        "network",
+        "sales"
+    ]
+},
+  "bbox": [
+    -96.606286,
+    40.787451,
+    -96.606286,
+    40.787451
+],
+  "geometry": {"coordinates":[-96.606286,40.787451],"type":"Point"}
+}

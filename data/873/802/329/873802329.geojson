@@ -1,0 +1,70 @@
+{
+  "id": 873802329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.042969,41.350943,-96.042969,41.350943",
+    "geom:latitude":41.350943,
+    "geom:longitude":-96.042969,
+    "iso:country":"US",
+    "sg:address":"11515 N 84th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Pet Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 571 5591",
+    "sg:postcode":"68122",
+    "sg:province":"NE",
+    "sg:tags":[
+        "mfr"
+    ],
+    "sg:website":"www.biovance.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85872505,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1G9RRX1dTkFYBMmZSH6qcl_41.350943_-96.042969@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297802,
+    "wof:geomhash":"f1bcd907144ab3fce3be9ac71d6f6d87",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":873802329
+        }
+    ],
+    "wof:id":873802329,
+    "wof:lastmodified":1464297802,
+    "wof:name":"Biovance Technologies Inc",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfr"
+    ]
+},
+  "bbox": [
+    -96.042969,
+    41.350943,
+    -96.042969,
+    41.350943
+],
+  "geometry": {"coordinates":[-96.042969,41.350943],"type":"Point"}
+}

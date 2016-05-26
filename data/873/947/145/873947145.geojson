@@ -1,0 +1,75 @@
+{
+  "id": 873947145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.89173,41.140695,-95.89173,41.140695",
+    "geom:latitude":41.140695,
+    "geom:longitude":-95.89173,
+    "iso:country":"US",
+    "sg:address":"210 E 19th Ave",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 292 0688",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "repairing",
+        "rug",
+        "carpet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974747,
+        102082777,
+        85820061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_121jSWNUDEZ4rupV3fkaAT_41.140695_-95.891730@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464301013,
+    "wof:geomhash":"91a081c27429497b695fcb1248687ee1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974747,
+            "neighbourhood_id":85820061,
+            "region_id":85688563,
+            "venue_id":873947145
+        }
+    ],
+    "wof:id":873947145,
+    "wof:lastmodified":1464301013,
+    "wof:name":"Chuck's Carpet Svc Inc",
+    "wof:parent_id":85820061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "rug",
+        "carpet"
+    ]
+},
+  "bbox": [
+    -95.89173,
+    41.140695,
+    -95.89173,
+    41.140695
+],
+  "geometry": {"coordinates":[-95.89173,41.140695],"type":"Point"}
+}

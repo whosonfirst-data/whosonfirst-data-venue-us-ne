@@ -1,0 +1,67 @@
+{
+  "id": 873679601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.359259,41.42934,-97.359259,41.42934",
+    "geom:latitude":41.42934,
+    "geom:longitude":-97.359259,
+    "iso:country":"US",
+    "sg:address":"2514 13th St",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Musical Instruments",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 564 9431",
+    "sg:postcode":"68601",
+    "sg:province":"NE",
+    "sg:website":"www.columbuselectronics.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974401,
+        102084277,
+        85854093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3OZtTYyCNqbWecQN5hJ3LN_41.429340_-97.359259@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295986,
+    "wof:geomhash":"c340d36cb93e192d17cdea3e026c5d14",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084277,
+            "locality_id":85974401,
+            "neighbourhood_id":85854093,
+            "region_id":85688563,
+            "venue_id":873679601
+        }
+    ],
+    "wof:id":873679601,
+    "wof:lastmodified":1464295986,
+    "wof:name":"Columbus Music Co",
+    "wof:parent_id":85854093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.359259,
+    41.42934,
+    -97.359259,
+    41.42934
+],
+  "geometry": {"coordinates":[-97.35925899999999,41.42934],"type":"Point"}
+}

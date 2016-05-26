@@ -1,0 +1,64 @@
+{
+  "id": 873903847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.075666,41.335601,-96.075666,41.335601",
+    "geom:latitude":41.335601,
+    "geom:longitude":-96.075666,
+    "iso:country":"US",
+    "sg:address":"10407 State St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Electric",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 552 5210",
+    "sg:postcode":"68122",
+    "sg:province":"NE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85872505,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1r2NVPoSaWia1Isp4Au4cr_41.335601_-96.075666@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299893,
+    "wof:geomhash":"f26f33c35b1b9cf693c0f2f0d23db0d3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":873903847
+        }
+    ],
+    "wof:id":873903847,
+    "wof:lastmodified":1464299893,
+    "wof:name":"Omaha Public Power District",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.075666,
+    41.335601,
+    -96.075666,
+    41.335601
+],
+  "geometry": {"coordinates":[-96.075666,41.335601],"type":"Point"}
+}

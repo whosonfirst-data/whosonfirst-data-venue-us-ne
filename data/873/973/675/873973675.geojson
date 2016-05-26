@@ -1,0 +1,77 @@
+{
+  "id": 873973675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.703531,40.804744,-96.703531,40.804744",
+    "geom:latitude":40.804744,
+    "geom:longitude":-96.703531,
+    "iso:country":"US",
+    "sg:address":"1240 F St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 477 2100",
+    "sg:postcode":"68508",
+    "sg:province":"NE",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878705,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_64y7iqsJQV0i5QGyHkTofE_40.804822_-96.703139@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464302142,
+    "wof:geomhash":"081eaa90d81599f9196f002b21f93bfc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878705,
+            "region_id":85688563,
+            "venue_id":873973675
+        }
+    ],
+    "wof:id":873973675,
+    "wof:lastmodified":1464302142,
+    "wof:name":"Tim's Automotive",
+    "wof:parent_id":85878705,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -96.703531,
+    40.804744,
+    -96.703531,
+    40.804744
+],
+  "geometry": {"coordinates":[-96.703531,40.804744],"type":"Point"}
+}

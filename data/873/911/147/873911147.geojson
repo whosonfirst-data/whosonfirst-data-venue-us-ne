@@ -1,0 +1,66 @@
+{
+  "id": 873911147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.976143,41.140179,-95.976143,41.140179",
+    "geom:latitude":41.140179,
+    "geom:longitude":-95.976143,
+    "iso:country":"US",
+    "sg:address":"11501 S 42nd St",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 292 3900",
+    "sg:postcode":"68123",
+    "sg:province":"NE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85821583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6iUwS5HbodGf42QkBOXAhq_41.140179_-95.976143@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300034,
+    "wof:geomhash":"954fa63c5fc0ab1ce791edba41d54e2a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85821583,
+            "region_id":85688563,
+            "venue_id":873911147
+        }
+    ],
+    "wof:id":873911147,
+    "wof:lastmodified":1464300034,
+    "wof:name":"Jensen Goodyear Tire & Complet",
+    "wof:parent_id":85821583,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -95.976143,
+    41.140179,
+    -95.976143,
+    41.140179
+],
+  "geometry": {"coordinates":[-95.97614299999999,41.140179],"type":"Point"}
+}

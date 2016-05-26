@@ -1,0 +1,71 @@
+{
+  "id": 873922371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.919137,41.137867,-95.919137,41.137867",
+    "geom:latitude":41.137867,
+    "geom:longitude":-95.919137,
+    "iso:country":"US",
+    "sg:address":"123 Cedar Cir",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Pet Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 293 0050",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974747,
+        102082777,
+        85820061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0mMtEjNCvWcG4dLeaOkret_41.137867_-95.919137@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300259,
+    "wof:geomhash":"44a4a5a48506a437a26a7be7d346f8b4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974747,
+            "neighbourhood_id":85820061,
+            "region_id":85688563,
+            "venue_id":873922371
+        }
+    ],
+    "wof:id":873922371,
+    "wof:lastmodified":1464300259,
+    "wof:name":"Dog A Licous Treats",
+    "wof:parent_id":85820061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg"
+    ]
+},
+  "bbox": [
+    -95.919137,
+    41.137867,
+    -95.919137,
+    41.137867
+],
+  "geometry": {"coordinates":[-95.91913700000001,41.137867],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873940919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.643191,40.781349,-96.643191,40.781349",
+    "geom:latitude":40.781349,
+    "geom:longitude":-96.643191,
+    "iso:country":"US",
+    "sg:address":"3027 S 57th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Shoe Repair & Shine",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 484 7952",
+    "sg:postcode":"68506",
+    "sg:province":"NE",
+    "sg:tags":[
+        "parlor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0IpOHfIxeDFs5kgADggHGr_40.781349_-96.643191@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300729,
+    "wof:geomhash":"4cfee59a5d3fdaa51ed3ac9af4904546",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878697,
+            "region_id":85688563,
+            "venue_id":873940919
+        }
+    ],
+    "wof:id":873940919,
+    "wof:lastmodified":1464300729,
+    "wof:name":"Peters Czech Shoe Shop",
+    "wof:parent_id":85878697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "parlor"
+    ]
+},
+  "bbox": [
+    -96.643191,
+    40.781349,
+    -96.643191,
+    40.781349
+],
+  "geometry": {"coordinates":[-96.643191,40.781349],"type":"Point"}
+}

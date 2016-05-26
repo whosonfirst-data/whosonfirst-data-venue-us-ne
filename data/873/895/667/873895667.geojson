@@ -1,0 +1,86 @@
+{
+  "id": 873895667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.905623,41.141873,-95.905623,41.141873",
+    "geom:latitude":41.141873,
+    "geom:longitude":-95.905623,
+    "iso:country":"US",
+    "sg:address":"1002 Bellewood Ct",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 292 3300",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "independent",
+        "retirement",
+        "housing",
+        "elderly",
+        "community",
+        "home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974747,
+        102082777,
+        85820061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1BmeQO1c232uuBNw4WxtGk_41.141873_-95.905623@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299733,
+    "wof:geomhash":"1641f5e4a9c47dd11b89e624a797dab0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974747,
+            "neighbourhood_id":85820061,
+            "region_id":85688563,
+            "venue_id":873895667
+        }
+    ],
+    "wof:id":873895667,
+    "wof:lastmodified":1464299733,
+    "wof:name":"Bellewood Courts",
+    "wof:parent_id":85820061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "independent",
+        "retirement",
+        "housing",
+        "elderly",
+        "community",
+        "home"
+    ]
+},
+  "bbox": [
+    -95.905623,
+    41.141873,
+    -95.905623,
+    41.141873
+],
+  "geometry": {"coordinates":[-95.90562300000001,41.141873],"type":"Point"}
+}

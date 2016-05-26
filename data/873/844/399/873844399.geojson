@@ -1,0 +1,76 @@
+{
+  "id": 873844399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.746976,40.848852,-96.746976,40.848852",
+    "geom:latitude":40.848852,
+    "geom:longitude":-96.746976,
+    "iso:country":"US",
+    "sg:address":"3701 Aviation Rd",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Airport",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 475 2611",
+    "sg:postcode":"68524",
+    "sg:province":"NE",
+    "sg:tags":[
+        "aircraft",
+        "maintenance"
+    ],
+    "sg:website":"www.duncanaviation.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102529023,
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6YAXqiTcUXjB8waBgqYsJ2_40.848852_-96.746976@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298669,
+    "wof:geomhash":"db392610e9acd7153407ab3e254f1b08",
+    "wof:hierarchy":[
+        {
+            "campus_id":102529023,
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878717,
+            "region_id":85688563,
+            "venue_id":873844399
+        }
+    ],
+    "wof:id":873844399,
+    "wof:lastmodified":1464298669,
+    "wof:name":"Duncan Aviation Inc",
+    "wof:parent_id":102529023,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "aircraft",
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -96.746976,
+    40.848852,
+    -96.746976,
+    40.848852
+],
+  "geometry": {"coordinates":[-96.746976,40.848852],"type":"Point"}
+}

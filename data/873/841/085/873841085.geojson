@@ -1,0 +1,75 @@
+{
+  "id": 873841085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.638252,40.81271,-96.638252,40.81271",
+    "geom:latitude":40.81271,
+    "geom:longitude":-96.638252,
+    "iso:country":"US",
+    "sg:address":"220 Lyncrest Dr",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 434 3370",
+    "sg:postcode":"68510",
+    "sg:province":"NE",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878703,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0wehLjMjxMKiXMSKUSlsdb_40.812710_-96.638252@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298578,
+    "wof:geomhash":"a5ab38c5b68ac5abd6d4faf4bdf4c077",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878703,
+            "region_id":85688563,
+            "venue_id":873841085
+        }
+    ],
+    "wof:id":873841085,
+    "wof:lastmodified":1464298578,
+    "wof:name":"Womens Clinic of Lincoln PC",
+    "wof:parent_id":85878703,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -96.638252,
+    40.81271,
+    -96.638252,
+    40.81271
+],
+  "geometry": {"coordinates":[-96.63825199999999,40.81271],"type":"Point"}
+}

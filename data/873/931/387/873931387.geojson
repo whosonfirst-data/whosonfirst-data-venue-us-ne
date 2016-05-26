@@ -1,0 +1,73 @@
+{
+  "id": 873931387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.037137,41.140698,-96.037137,41.140698",
+    "geom:latitude":41.140698,
+    "geom:longitude":-96.037137,
+    "iso:country":"US",
+    "sg:address":"1308 Gold Coast Rd",
+    "sg:city":"Papillion",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 332 5999",
+    "sg:postcode":"68046",
+    "sg:province":"NE",
+    "sg:tags":[
+        "county",
+        "program",
+        "adm"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85843697,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_25b1EfxGrEBmeCG8KJC4kl_41.140698_-96.037137@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300436,
+    "wof:geomhash":"5a6f789f2e6ceb254475375998e5923e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85843697,
+            "region_id":85688563,
+            "venue_id":873931387
+        }
+    ],
+    "wof:id":873931387,
+    "wof:lastmodified":1464300436,
+    "wof:name":"Sarpy County Tourism Office",
+    "wof:parent_id":85843697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "county",
+        "program",
+        "adm"
+    ]
+},
+  "bbox": [
+    -96.037137,
+    41.140698,
+    -96.037137,
+    41.140698
+],
+  "geometry": {"coordinates":[-96.037137,41.140698],"type":"Point"}
+}

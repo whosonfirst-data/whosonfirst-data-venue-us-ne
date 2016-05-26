@@ -1,0 +1,74 @@
+{
+  "id": 873848767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.917999,41.152507,-95.917999,41.152507",
+    "geom:latitude":41.152507,
+    "geom:longitude":-95.917999,
+    "iso:country":"US",
+    "sg:address":"805 Galvin Rd S",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 291 0400",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "national",
+        "commercial"
+    ],
+    "sg:website":"www.midcitybank.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85821583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3roGO5aXoSQ0i07QAjymuF_41.152507_-95.917999@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298788,
+    "wof:geomhash":"07728bced8884af09176b4c686aa219f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85821583,
+            "region_id":85688563,
+            "venue_id":873848767
+        }
+    ],
+    "wof:id":873848767,
+    "wof:lastmodified":1464298788,
+    "wof:name":"Mid City Bank Inc",
+    "wof:parent_id":85821583,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "national",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -95.917999,
+    41.152507,
+    -95.917999,
+    41.152507
+],
+  "geometry": {"coordinates":[-95.91799899999999,41.152507],"type":"Point"}
+}

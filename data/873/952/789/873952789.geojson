@@ -1,0 +1,73 @@
+{
+  "id": 873952789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.63659,40.873724,-96.63659,40.873724",
+    "geom:latitude":40.873724,
+    "geom:longitude":-96.63659,
+    "iso:country":"US",
+    "sg:address":"6201 Fulton Ave",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 464 4919",
+    "sg:postcode":"68507",
+    "sg:province":"NE",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85824241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5pvZcynOYanngHPOBtYmOA_40.873724_-96.636590@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464301260,
+    "wof:geomhash":"4185cbcd7071c9321fe33da4372d750d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85824241,
+            "region_id":85688563,
+            "venue_id":873952789
+        }
+    ],
+    "wof:id":873952789,
+    "wof:lastmodified":1464301260,
+    "wof:name":"H Kehm Constr Of Lincoln Inc",
+    "wof:parent_id":85824241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.63659,
+    40.873724,
+    -96.63659,
+    40.873724
+],
+  "geometry": {"coordinates":[-96.63659,40.873724],"type":"Point"}
+}

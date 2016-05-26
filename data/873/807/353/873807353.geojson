@@ -1,0 +1,71 @@
+{
+  "id": 873807353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.029665,41.168107,-96.029665,41.168107",
+    "geom:latitude":41.168107,
+    "geom:longitude":-96.029665,
+    "iso:country":"US",
+    "sg:address":"1000 Hickory Hill Rd",
+    "sg:city":"Papillion",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 978 8828",
+    "sg:postcode":"68046",
+    "sg:province":"NE",
+    "sg:tags":[
+        "consultant",
+        "designer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85843697,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Jm3pFh8AUnRkI5kynToB0_41.168107_-96.029665@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297878,
+    "wof:geomhash":"c679810d17959d15535e7352e5ad2cb2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85843697,
+            "region_id":85688563,
+            "venue_id":873807353
+        }
+    ],
+    "wof:id":873807353,
+    "wof:lastmodified":1464297878,
+    "wof:name":"Midwest Custom Software Inc",
+    "wof:parent_id":85843697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "designer"
+    ]
+},
+  "bbox": [
+    -96.029665,
+    41.168107,
+    -96.029665,
+    41.168107
+],
+  "geometry": {"coordinates":[-96.02966499999999,41.168107],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 873952467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.07747,41.320405,-96.07747,41.320405",
+    "geom:latitude":41.320405,
+    "geom:longitude":-96.07747,
+    "iso:country":"US",
+    "sg:address":"10511 Mary St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        },
+        {
+            "category":"Utilities",
+            "subcategory":"Fuel Oil & Lpg",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 445 9015",
+    "sg:postcode":"68122",
+    "sg:province":"NE",
+    "sg:tags":[
+        "dealer",
+        "product",
+        "management",
+        "energy",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85872505,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4EX7O6FAIZbOjsKUhRN42U_41.320405_-96.077470@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464301244,
+    "wof:geomhash":"fde17ef9905603429dd0ece0499acee5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":873952467
+        }
+    ],
+    "wof:id":873952467,
+    "wof:lastmodified":1464301244,
+    "wof:name":"Gary Williams Energy",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dealer",
+        "product",
+        "management",
+        "energy",
+        "system"
+    ]
+},
+  "bbox": [
+    -96.07747,
+    41.320405,
+    -96.07747,
+    41.320405
+],
+  "geometry": {"coordinates":[-96.07747000000001,41.320405],"type":"Point"}
+}

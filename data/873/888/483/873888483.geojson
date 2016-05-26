@@ -1,0 +1,75 @@
+{
+  "id": 873888483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.893492,41.146983,-95.893492,41.146983",
+    "geom:latitude":41.146983,
+    "geom:longitude":-95.893492,
+    "iso:country":"US",
+    "sg:address":"1309 Franklin St",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 291 4799",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974747,
+        102082777,
+        85820061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0aGHDJM9X0SrFUwTylyNej_41.146983_-95.893492@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299599,
+    "wof:geomhash":"2982813ac76e39f2ff428731ae7d148f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974747,
+            "neighbourhood_id":85820061,
+            "region_id":85688563,
+            "venue_id":873888483
+        }
+    ],
+    "wof:id":873888483,
+    "wof:lastmodified":1464299599,
+    "wof:name":"Tom Burgin Trucking",
+    "wof:parent_id":85820061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -95.893492,
+    41.146983,
+    -95.893492,
+    41.146983
+],
+  "geometry": {"coordinates":[-95.89349199999999,41.146983],"type":"Point"}
+}

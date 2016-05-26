@@ -1,0 +1,73 @@
+{
+  "id": 873928659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.127336,41.176005,-96.127336,41.176005",
+    "geom:latitude":41.176005,
+    "geom:longitude":-96.127336,
+    "iso:country":"US",
+    "sg:address":"8310 S 137th Cir",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 894 9663",
+    "sg:postcode":"68138",
+    "sg:province":"NE",
+    "sg:tags":[
+        "car",
+        "used",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85834285,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0tGYsmi1CBC5DqRFjRHone_41.176005_-96.127336@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300382,
+    "wof:geomhash":"687228067f5e9dd6c964e2dccdab1ba2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85834285,
+            "region_id":85688563,
+            "venue_id":873928659
+        }
+    ],
+    "wof:id":873928659,
+    "wof:lastmodified":1464300382,
+    "wof:name":"B M K Motorsports",
+    "wof:parent_id":85834285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "used",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -96.127336,
+    41.176005,
+    -96.127336,
+    41.176005
+],
+  "geometry": {"coordinates":[-96.127336,41.176005],"type":"Point"}
+}

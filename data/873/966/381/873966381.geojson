@@ -1,0 +1,73 @@
+{
+  "id": 873966381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.60559,40.871096,-96.60559,40.871096",
+    "geom:latitude":40.871096,
+    "geom:longitude":-96.60559,
+    "iso:country":"US",
+    "sg:address":"8000 Fletcher Ave",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 465 4567",
+    "sg:postcode":"68527",
+    "sg:province":"NE",
+    "sg:tags":[
+        "lettering",
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85824241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3jzDiY5GK77MXbgFESEudG_40.871096_-96.605590@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464301851,
+    "wof:geomhash":"b4fee308b75cda081abfd98ebb155dc6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85824241,
+            "region_id":85688563,
+            "venue_id":873966381
+        }
+    ],
+    "wof:id":873966381,
+    "wof:lastmodified":1464301851,
+    "wof:name":"Lincoln Truck Repair & Body",
+    "wof:parent_id":85824241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lettering",
+        "truck"
+    ]
+},
+  "bbox": [
+    -96.60559,
+    40.871096,
+    -96.60559,
+    40.871096
+],
+  "geometry": {"coordinates":[-96.60559000000001,40.871096],"type":"Point"}
+}

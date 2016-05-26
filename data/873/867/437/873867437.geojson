@@ -1,0 +1,77 @@
+{
+  "id": 873867437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.533367,40.870861,-96.533367,40.870861",
+    "geom:latitude":40.870861,
+    "geom:longitude":-96.533367,
+    "iso:country":"US",
+    "sg:address":"14600 Fletcher Ave",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 308 269 3015",
+    "sg:postcode":"68527",
+    "sg:province":"NE",
+    "sg:tags":[
+        "grading",
+        "sweep",
+        "chimney",
+        "carpet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85824241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6o6IvwDc4ClnXgXL9zW0lK_40.870861_-96.533367@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299180,
+    "wof:geomhash":"a80e448c99a945be4dcc9e774c316fd0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85824241,
+            "region_id":85688563,
+            "venue_id":873867437
+        }
+    ],
+    "wof:id":873867437,
+    "wof:lastmodified":1464299180,
+    "wof:name":"Green Streak",
+    "wof:parent_id":85824241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grading",
+        "sweep",
+        "chimney",
+        "carpet"
+    ]
+},
+  "bbox": [
+    -96.533367,
+    40.870861,
+    -96.533367,
+    40.870861
+],
+  "geometry": {"coordinates":[-96.533367,40.870861],"type":"Point"}
+}

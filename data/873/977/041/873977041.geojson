@@ -1,0 +1,74 @@
+{
+  "id": 873977041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.598939,40.733396,-96.598939,40.733396",
+    "geom:latitude":40.733396,
+    "geom:longitude":-96.598939,
+    "iso:country":"US",
+    "sg:address":"8901 Andermatt Dr",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ne/lincoln/129567-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 483 4220",
+    "sg:postcode":"68526",
+    "sg:province":"NE",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ZOPoOWD93Yc5jYzC35ZQk_40.733396_-96.598939@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464302262,
+    "wof:geomhash":"4cbee08efb3438823df848e8ffe65988",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878685,
+            "region_id":85688563,
+            "venue_id":873977041
+        }
+    ],
+    "wof:id":873977041,
+    "wof:lastmodified":1464302262,
+    "wof:name":"Subway",
+    "wof:parent_id":85878685,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -96.598939,
+    40.733396,
+    -96.598939,
+    40.733396
+],
+  "geometry": {"coordinates":[-96.598939,40.733396],"type":"Point"}
+}

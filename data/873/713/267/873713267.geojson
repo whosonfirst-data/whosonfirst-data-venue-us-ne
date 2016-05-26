@@ -1,0 +1,79 @@
+{
+  "id": 873713267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.122223,41.222431,-96.122223,41.222431",
+    "geom:latitude":41.222431,
+    "geom:longitude":-96.122223,
+    "iso:country":"US",
+    "sg:address":"13726 C St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 399 9911",
+    "sg:postcode":"68144",
+    "sg:province":"NE",
+    "sg:tags":[
+        "repairing",
+        "automotive",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872531,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Y3lhB8vdzf5TkZCvmAYUB_41.222431_-96.122223@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296559,
+    "wof:geomhash":"c4fa400ff8ec77df32cd0ed351ae2093",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872531,
+            "region_id":85688563,
+            "venue_id":873713267
+        }
+    ],
+    "wof:id":873713267,
+    "wof:lastmodified":1464296559,
+    "wof:name":"German Auto Specialists Inc",
+    "wof:parent_id":85872531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automotive",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -96.122223,
+    41.222431,
+    -96.122223,
+    41.222431
+],
+  "geometry": {"coordinates":[-96.12222300000001,41.222431],"type":"Point"}
+}

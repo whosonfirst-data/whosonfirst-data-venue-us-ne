@@ -1,0 +1,75 @@
+{
+  "id": 873793823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.682309,40.838212,-96.682309,40.838212",
+    "geom:latitude":40.838212,
+    "geom:longitude":-96.682309,
+    "iso:country":"US",
+    "sg:address":"2605 N 27th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 465 4932",
+    "sg:postcode":"68521",
+    "sg:province":"NE",
+    "sg:tags":[
+        "communications"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878691,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5cUR9bsn7z4lf18AlOiP2w_40.838212_-96.682309@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297701,
+    "wof:geomhash":"b41dcc71613ad84597292bc6ffd1a4d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878691,
+            "region_id":85688563,
+            "venue_id":873793823
+        }
+    ],
+    "wof:id":873793823,
+    "wof:lastmodified":1464297701,
+    "wof:name":"Web-Design",
+    "wof:parent_id":85878691,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "communications"
+    ]
+},
+  "bbox": [
+    -96.682309,
+    40.838212,
+    -96.682309,
+    40.838212
+],
+  "geometry": {"coordinates":[-96.682309,40.838212],"type":"Point"}
+}

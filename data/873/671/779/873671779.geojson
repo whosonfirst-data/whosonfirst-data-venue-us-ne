@@ -1,0 +1,80 @@
+{
+  "id": 873671779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.987611,41.259608,-95.987611,41.259608",
+    "geom:latitude":41.259608,
+    "geom:longitude":-95.987611,
+    "iso:country":"US",
+    "sg:address":"4815 Dodge St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 554 0759",
+    "sg:postcode":"68132",
+    "sg:province":"NE",
+    "sg:tags":[
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867055,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1cZRB2HNspyeu6miYLYWWQ_41.259608_-95.987611@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295819,
+    "wof:geomhash":"3b7e00fe07e90af61b4475a9df736514",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85867055,
+            "region_id":85688563,
+            "venue_id":873671779
+        }
+    ],
+    "wof:id":873671779,
+    "wof:lastmodified":1464295819,
+    "wof:name":"Southern Sudan Community Assn",
+    "wof:parent_id":85867055,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "welfare"
+    ]
+},
+  "bbox": [
+    -95.987611,
+    41.259608,
+    -95.987611,
+    41.259608
+],
+  "geometry": {"coordinates":[-95.987611,41.259608],"type":"Point"}
+}

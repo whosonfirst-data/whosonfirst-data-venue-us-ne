@@ -1,0 +1,77 @@
+{
+  "id": 873708199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.89094,41.136529,-95.89094,41.136529",
+    "geom:latitude":41.136529,
+    "geom:longitude":-95.89094,
+    "iso:country":"US",
+    "sg:address":"202 E Mission Ave",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 291 7000",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "repairing",
+        "automotive",
+        "general",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974747,
+        102082777,
+        85820061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_05S0V9fXlOqaUk7N2JaRZy_41.136529_-95.890940@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296497,
+    "wof:geomhash":"9350f200767972f6467933efc922b9a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974747,
+            "neighbourhood_id":85820061,
+            "region_id":85688563,
+            "venue_id":873708199
+        }
+    ],
+    "wof:id":873708199,
+    "wof:lastmodified":1464296497,
+    "wof:name":"Terry's Auto & Truck Repair",
+    "wof:parent_id":85820061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automotive",
+        "general",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -95.89094,
+    41.136529,
+    -95.89094,
+    41.136529
+],
+  "geometry": {"coordinates":[-95.89094,41.136529],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 873884809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.231215,41.145928,-96.231215,41.145928",
+    "geom:latitude":41.145928,
+    "geom:longitude":-96.231215,
+    "iso:country":"US",
+    "sg:address":"20222 Glenmore Dr",
+    "sg:city":"Gretna",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 332 4400",
+    "sg:postcode":"68028",
+    "sg:province":"NE",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85834285,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2GQEFdEvIjKWm3qA7rM82o_41.145928_-96.231215@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299535,
+    "wof:geomhash":"6dd8d26f0bf30884a54199eb61975574",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85834285,
+            "region_id":85688563,
+            "venue_id":873884809
+        }
+    ],
+    "wof:id":873884809,
+    "wof:lastmodified":1464299535,
+    "wof:name":"Northridge Apartments",
+    "wof:parent_id":85834285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -96.231215,
+    41.145928,
+    -96.231215,
+    41.145928
+],
+  "geometry": {"coordinates":[-96.23121500000001,41.145928],"type":"Point"}
+}

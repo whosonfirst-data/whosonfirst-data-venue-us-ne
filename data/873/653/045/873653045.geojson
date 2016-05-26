@@ -1,0 +1,73 @@
+{
+  "id": 873653045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.131962,41.187677,-96.131962,41.187677",
+    "geom:latitude":41.187677,
+    "geom:longitude":-96.131962,
+    "iso:country":"US",
+    "sg:address":"13920 Josephine St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 895 7200",
+    "sg:postcode":"68138",
+    "sg:province":"NE",
+    "sg:tags":[
+        "lawn",
+        "maintenance",
+        "grounds"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85834285,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1CNrRvchjxlWv71jj8D9MV_41.187677_-96.131962@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295625,
+    "wof:geomhash":"37b1ea1796a45dc57a7da88ef35c3ba0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85834285,
+            "region_id":85688563,
+            "venue_id":873653045
+        }
+    ],
+    "wof:id":873653045,
+    "wof:lastmodified":1464295625,
+    "wof:name":"J & J Lawn Care Inc",
+    "wof:parent_id":85834285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lawn",
+        "maintenance",
+        "grounds"
+    ]
+},
+  "bbox": [
+    -96.131962,
+    41.187677,
+    -96.131962,
+    41.187677
+],
+  "geometry": {"coordinates":[-96.131962,41.187677],"type":"Point"}
+}

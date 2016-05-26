@@ -1,0 +1,73 @@
+{
+  "id": 873959277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.023703,41.37565,-96.023703,41.37565",
+    "geom:latitude":41.37565,
+    "geom:longitude":-96.023703,
+    "iso:country":"US",
+    "sg:address":"6610 Northern Hills Dr",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 571 1034",
+    "sg:postcode":"68152",
+    "sg:province":"NE",
+    "sg:tags":[
+        "electrical",
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85872505,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1qfZTJDYmRPo3e7GZ0dLtv_41.375650_-96.023703@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464301497,
+    "wof:geomhash":"fa4c30c490893fe889dc15ee86c10c0f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":873959277
+        }
+    ],
+    "wof:id":873959277,
+    "wof:lastmodified":1464301497,
+    "wof:name":"Integrity Electric Service",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.023703,
+    41.37565,
+    -96.023703,
+    41.37565
+],
+  "geometry": {"coordinates":[-96.023703,41.37565],"type":"Point"}
+}

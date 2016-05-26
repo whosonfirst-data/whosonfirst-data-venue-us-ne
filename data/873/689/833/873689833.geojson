@@ -1,0 +1,71 @@
+{
+  "id": 873689833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.917595,41.151265,-95.917595,41.151265",
+    "geom:latitude":41.151265,
+    "geom:longitude":-95.917595,
+    "iso:country":"US",
+    "sg:address":"1007 Galvin Rd S",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 292 6662",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "alcoholic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85821583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4nrFmTOqzcx34qZuUKqb2c_41.151265_-95.917595@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296269,
+    "wof:geomhash":"6ede1c5972f16def66e364ed9e74507f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85821583,
+            "region_id":85688563,
+            "venue_id":873689833
+        }
+    ],
+    "wof:id":873689833,
+    "wof:lastmodified":1464296269,
+    "wof:name":"Liquor Cabinet",
+    "wof:parent_id":85821583,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "alcoholic"
+    ]
+},
+  "bbox": [
+    -95.917595,
+    41.151265,
+    -95.917595,
+    41.151265
+],
+  "geometry": {"coordinates":[-95.91759500000001,41.151265],"type":"Point"}
+}

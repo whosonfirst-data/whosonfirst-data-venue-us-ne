@@ -1,0 +1,75 @@
+{
+  "id": 873582463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.645169,40.804258,-96.645169,40.804258",
+    "geom:latitude":40.804258,
+    "geom:longitude":-96.645169,
+    "iso:country":"US",
+    "sg:address":"888 S Cotner Blvd",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 486 9923",
+    "sg:postcode":"68510",
+    "sg:province":"NE",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878703,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1AjRDBvQ1GUhc8WlISLgKY_40.804258_-96.645169@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294747,
+    "wof:geomhash":"8233926123b0a5b9b5e8277a4149c1a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878703,
+            "region_id":85688563,
+            "venue_id":873582463
+        }
+    ],
+    "wof:id":873582463,
+    "wof:lastmodified":1464294747,
+    "wof:name":"Loos Construction",
+    "wof:parent_id":85878703,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -96.645169,
+    40.804258,
+    -96.645169,
+    40.804258
+],
+  "geometry": {"coordinates":[-96.645169,40.804258],"type":"Point"}
+}

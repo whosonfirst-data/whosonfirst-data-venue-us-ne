@@ -1,0 +1,70 @@
+{
+  "id": 873975775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.042872,41.145122,-96.042872,41.145122",
+    "geom:latitude":41.145122,
+    "geom:longitude":-96.042872,
+    "iso:country":"US",
+    "sg:address":"1250 S Washington St",
+    "sg:city":"Papillion",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ne/papillion/10754-side-pockets/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 934 9663",
+    "sg:postcode":"68046",
+    "sg:province":"NE",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85843697,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Nqw2h0v2uaRl9m1r41DrN_41.145122_-96.042872@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464302216,
+    "wof:geomhash":"255c3ade5ab8e49266c841aa4f441a7c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85843697,
+            "region_id":85688563,
+            "venue_id":873975775
+        }
+    ],
+    "wof:id":873975775,
+    "wof:lastmodified":1464302216,
+    "wof:name":"Side Pockets",
+    "wof:parent_id":85843697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -96.042872,
+    41.145122,
+    -96.042872,
+    41.145122
+],
+  "geometry": {"coordinates":[-96.042872,41.145122],"type":"Point"}
+}

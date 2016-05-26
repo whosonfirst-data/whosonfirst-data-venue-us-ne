@@ -1,0 +1,78 @@
+{
+  "id": 873709419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.924967,41.163886,-95.924967,41.163886",
+    "geom:latitude":41.163886,
+    "geom:longitude":-95.924967,
+    "iso:country":"US",
+    "sg:address":"301 Fort Crook Rd N",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 293 1800",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85804025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ROhu3ZKyhYGMvmG2RfXg4_41.163886_-95.924967@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296513,
+    "wof:geomhash":"39a3f502da3efc94721af50802b6182f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85804025,
+            "region_id":85688563,
+            "venue_id":873709419
+        }
+    ],
+    "wof:id":873709419,
+    "wof:lastmodified":1464296513,
+    "wof:name":"House Of Mufflers & Brakes",
+    "wof:parent_id":85804025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -95.924967,
+    41.163886,
+    -95.924967,
+    41.163886
+],
+  "geometry": {"coordinates":[-95.924967,41.163886],"type":"Point"}
+}

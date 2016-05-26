@@ -1,0 +1,71 @@
+{
+  "id": 873655637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.61927,40.78421,-96.61927,40.78421",
+    "geom:latitude":40.78421,
+    "geom:longitude":-96.61927,
+    "iso:country":"US",
+    "sg:address":"2811 S 74th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 489 2593",
+    "sg:postcode":"68506",
+    "sg:province":"NE",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5F7jLhtrdb4u0gT5y9ERvN_40.784210_-96.619270@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295652,
+    "wof:geomhash":"55e573c16b240b393312f987400106e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878697,
+            "region_id":85688563,
+            "venue_id":873655637
+        }
+    ],
+    "wof:id":873655637,
+    "wof:lastmodified":1464295652,
+    "wof:name":"Shively Law Offices",
+    "wof:parent_id":85878697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -96.61927,
+    40.78421,
+    -96.61927,
+    40.78421
+],
+  "geometry": {"coordinates":[-96.61927,40.78421],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873635343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.606145,40.711788,-96.606145,40.711788",
+    "geom:latitude":40.711788,
+    "geom:longitude":-96.606145,
+    "iso:country":"US",
+    "sg:address":"10400 S 84th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 423 9680",
+    "sg:postcode":"68516",
+    "sg:province":"NE",
+    "sg:tags":[
+        "crop",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3yEn7NUQmxPppSC284p1Mx_40.711788_-96.606145@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295426,
+    "wof:geomhash":"7fc4907fe66d086763e38635defaf6b5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878685,
+            "region_id":85688563,
+            "venue_id":873635343
+        }
+    ],
+    "wof:id":873635343,
+    "wof:lastmodified":1464295426,
+    "wof:name":"Talcott Land & Cattle Inc",
+    "wof:parent_id":85878685,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crop",
+        "general"
+    ]
+},
+  "bbox": [
+    -96.606145,
+    40.711788,
+    -96.606145,
+    40.711788
+],
+  "geometry": {"coordinates":[-96.606145,40.711788],"type":"Point"}
+}

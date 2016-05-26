@@ -1,0 +1,75 @@
+{
+  "id": 873577543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.926569,41.11969,-95.926569,41.11969",
+    "geom:latitude":41.11969,
+    "geom:longitude":-95.926569,
+    "iso:country":"US",
+    "sg:address":"3714 Fort Crook Rd S",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 293 6779",
+    "sg:postcode":"68123",
+    "sg:province":"NE",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974747,
+        102082777,
+        85820061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4U2MuImPMfHdqQjJrLc0vg_41.119690_-95.926569@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294689,
+    "wof:geomhash":"d89a7cba175b99b0a0e833858f9cc24a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974747,
+            "neighbourhood_id":85820061,
+            "region_id":85688563,
+            "venue_id":873577543
+        }
+    ],
+    "wof:id":873577543,
+    "wof:lastmodified":1464294689,
+    "wof:name":"Willie's Auto Repair",
+    "wof:parent_id":85820061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -95.926569,
+    41.11969,
+    -95.926569,
+    41.11969
+],
+  "geometry": {"coordinates":[-95.926569,41.11969],"type":"Point"}
+}

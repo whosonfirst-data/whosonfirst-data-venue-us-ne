@@ -1,0 +1,80 @@
+{
+  "id": 873739325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.640515,40.750793,-96.640515,40.750793",
+    "geom:latitude":40.750793,
+    "geom:longitude":-96.640515,
+    "iso:country":"US",
+    "sg:address":"6040 S 58th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 423 8993",
+    "sg:postcode":"68516",
+    "sg:province":"NE",
+    "sg:tags":[
+        "psychologist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878707,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2OLESWkh5RTmeZrD64i7jb_40.750793_-96.640515@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296911,
+    "wof:geomhash":"bb48d2344a6bdc81f89e636f787e1a58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878707,
+            "region_id":85688563,
+            "venue_id":873739325
+        }
+    ],
+    "wof:id":873739325,
+    "wof:lastmodified":1464296911,
+    "wof:name":"S David Kaplan PHD",
+    "wof:parent_id":85878707,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "psychologist"
+    ]
+},
+  "bbox": [
+    -96.640515,
+    40.750793,
+    -96.640515,
+    40.750793
+],
+  "geometry": {"coordinates":[-96.64051499999999,40.750793],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873946997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.027612,41.176115,-96.027612,41.176115",
+    "geom:latitude":41.176115,
+    "geom:longitude":-96.027612,
+    "iso:country":"US",
+    "sg:address":"7202 Giles Rd",
+    "sg:city":"La Vista",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Advertising",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 331 0735",
+    "sg:postcode":"68128",
+    "sg:province":"NE",
+    "sg:tags":[
+        "mailing",
+        "shipping"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85843697,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1UdXTkY5JF84K7KCwd73JI_41.176115_-96.027612@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464301008,
+    "wof:geomhash":"9654226ab4e2175e242eb9da2d83377d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85843697,
+            "region_id":85688563,
+            "venue_id":873946997
+        }
+    ],
+    "wof:id":873946997,
+    "wof:lastmodified":1464301008,
+    "wof:name":"UPS Store",
+    "wof:parent_id":85843697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mailing",
+        "shipping"
+    ]
+},
+  "bbox": [
+    -96.027612,
+    41.176115,
+    -96.027612,
+    41.176115
+],
+  "geometry": {"coordinates":[-96.027612,41.176115],"type":"Point"}
+}

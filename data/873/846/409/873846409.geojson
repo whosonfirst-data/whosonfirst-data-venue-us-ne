@@ -1,0 +1,70 @@
+{
+  "id": 873846409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.042872,41.263225,-96.042872,41.263225",
+    "geom:latitude":41.263225,
+    "geom:longitude":-96.042872,
+    "iso:country":"US",
+    "sg:address":"411 N 84th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 444 7103",
+    "sg:postcode":"68114",
+    "sg:province":"NE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872509,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6xWFeKT5UAQmPBNBu4ON80_41.263225_-96.042872@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298711,
+    "wof:geomhash":"dff19bf654170bc199b8553ae2f54ac1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872509,
+            "region_id":85688563,
+            "venue_id":873846409
+        }
+    ],
+    "wof:id":873846409,
+    "wof:lastmodified":1464298711,
+    "wof:name":"Douglas County Treasurer's Ofc",
+    "wof:parent_id":85872509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.042872,
+    41.263225,
+    -96.042872,
+    41.263225
+],
+  "geometry": {"coordinates":[-96.042872,41.263225],"type":"Point"}
+}

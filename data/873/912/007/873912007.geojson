@@ -1,0 +1,73 @@
+{
+  "id": 873912007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.040306,41.160402,-96.040306,41.160402",
+    "geom:latitude":41.160402,
+    "geom:longitude":-96.040306,
+    "iso:country":"US",
+    "sg:address":"200 E 5th St",
+    "sg:city":"Papillion",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 991 3405",
+    "sg:postcode":"68046",
+    "sg:province":"NE",
+    "sg:tags":[
+        "kindergarten",
+        "academic",
+        "school"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85843697,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5vL2TZlpDPbqRWINqAuEZe_41.160402_-96.040306@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300050,
+    "wof:geomhash":"cac6d6499d425eea699ee9f8822b783e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85843697,
+            "region_id":85688563,
+            "venue_id":873912007
+        }
+    ],
+    "wof:id":873912007,
+    "wof:lastmodified":1464300050,
+    "wof:name":"St Columbkille Preschool",
+    "wof:parent_id":85843697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "kindergarten",
+        "academic",
+        "school"
+    ]
+},
+  "bbox": [
+    -96.040306,
+    41.160402,
+    -96.040306,
+    41.160402
+],
+  "geometry": {"coordinates":[-96.040306,41.160402],"type":"Point"}
+}

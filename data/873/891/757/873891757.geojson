@@ -1,0 +1,73 @@
+{
+  "id": 873891757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.924997,41.162742,-95.924997,41.162742",
+    "geom:latitude":41.162742,
+    "geom:longitude":-95.924997,
+    "iso:country":"US",
+    "sg:address":"203 Fort Crook Rd N",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 293 7600",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "renting",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85804025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2qZuoDd064mddSQaZpBL5P_41.162742_-95.924997@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299661,
+    "wof:geomhash":"5c5bfb0594b09729acc91ff7b3d68ac7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85804025,
+            "region_id":85688563,
+            "venue_id":873891757
+        }
+    ],
+    "wof:id":873891757,
+    "wof:lastmodified":1464299661,
+    "wof:name":"Rent For Less",
+    "wof:parent_id":85804025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -95.924997,
+    41.162742,
+    -95.924997,
+    41.162742
+],
+  "geometry": {"coordinates":[-95.924997,41.162742],"type":"Point"}
+}

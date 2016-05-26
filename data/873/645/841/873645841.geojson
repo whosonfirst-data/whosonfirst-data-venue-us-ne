@@ -1,0 +1,78 @@
+{
+  "id": 873645841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.642605,40.862975,-96.642605,40.862975",
+    "geom:latitude":40.862975,
+    "geom:longitude":-96.642605,
+    "iso:country":"US",
+    "sg:address":"4920 N 57th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 466 2090",
+    "sg:postcode":"68507",
+    "sg:province":"NE",
+    "sg:tags":[
+        "equipment",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85824241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0KBNdlErt1IXtfgfOeToEE_40.862975_-96.642605@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295545,
+    "wof:geomhash":"eed8731aa3bebd8b9f3a18568664f6c7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85824241,
+            "region_id":85688563,
+            "venue_id":873645841
+        }
+    ],
+    "wof:id":873645841,
+    "wof:lastmodified":1464295545,
+    "wof:name":"Xotic PC",
+    "wof:parent_id":85824241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -96.642605,
+    40.862975,
+    -96.642605,
+    40.862975
+],
+  "geometry": {"coordinates":[-96.642605,40.862975],"type":"Point"}
+}

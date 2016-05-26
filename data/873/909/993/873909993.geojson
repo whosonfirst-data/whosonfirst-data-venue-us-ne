@@ -1,0 +1,72 @@
+{
+  "id": 873909993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.039334,41.187037,-96.039334,41.187037",
+    "geom:latitude":41.187037,
+    "geom:longitude":-96.039334,
+    "iso:country":"US",
+    "sg:address":"8116 Park View Blvd",
+    "sg:city":"La Vista",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 331 3455",
+    "sg:postcode":"68128",
+    "sg:province":"NE",
+    "sg:tags":[
+        "hall",
+        "auditorium"
+    ],
+    "sg:website":"www.lavista.govoffice.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85843697,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2fcZNh0vRoKaRhRkINFImj_41.187037_-96.039334@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300013,
+    "wof:geomhash":"6a1bc58cf93a1c6c21dc97d0ce049560",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85843697,
+            "region_id":85688563,
+            "venue_id":873909993
+        }
+    ],
+    "wof:id":873909993,
+    "wof:lastmodified":1464300013,
+    "wof:name":"LA Vista Community Ctr",
+    "wof:parent_id":85843697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hall",
+        "auditorium"
+    ]
+},
+  "bbox": [
+    -96.039334,
+    41.187037,
+    -96.039334,
+    41.187037
+],
+  "geometry": {"coordinates":[-96.039334,41.187037],"type":"Point"}
+}

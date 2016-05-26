@@ -1,0 +1,75 @@
+{
+  "id": 873894647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.134167,41.234973,-96.134167,41.234973",
+    "geom:latitude":41.234973,
+    "geom:longitude":-96.134167,
+    "iso:country":"US",
+    "sg:address":"2514 S 140th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 330 1987",
+    "sg:postcode":"68144",
+    "sg:province":"NE",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85806957,
+        102191575,
+        404519987,
+        85633793,
+        85973479,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1TCOMmB59poFcHq8Ihps65_41.234973_-96.134167@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299716,
+    "wof:geomhash":"e78a40d9f3092a832537c07e41d79c5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404519987,
+            "locality_id":85973479,
+            "neighbourhood_id":85806957,
+            "region_id":85688563,
+            "venue_id":873894647
+        }
+    ],
+    "wof:id":873894647,
+    "wof:lastmodified":1464299716,
+    "wof:name":"Camelot Cleaners",
+    "wof:parent_id":85806957,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -96.134167,
+    41.234973,
+    -96.134167,
+    41.234973
+],
+  "geometry": {"coordinates":[-96.13416700000001,41.234973],"type":"Point"}
+}

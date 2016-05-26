@@ -1,0 +1,73 @@
+{
+  "id": 873809401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.784666,40.853469,-96.784666,40.853469",
+    "geom:latitude":40.853469,
+    "geom:longitude":-96.784666,
+    "iso:country":"US",
+    "sg:address":"4000 NW 46th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 441 7829",
+    "sg:postcode":"68524",
+    "sg:province":"NE",
+    "sg:tags":[
+        "pool",
+        "swimming"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85826663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_78guUVxXZsW52FuWY9jaGp_40.853469_-96.784666@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297917,
+    "wof:geomhash":"97b1c3f054b9b5e6f23db86062ad2ac0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85826663,
+            "region_id":85688563,
+            "venue_id":873809401
+        }
+    ],
+    "wof:id":873809401,
+    "wof:lastmodified":1464297917,
+    "wof:name":"Arnold Heights Swimming Pool",
+    "wof:parent_id":85826663,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pool",
+        "swimming"
+    ]
+},
+  "bbox": [
+    -96.784666,
+    40.853469,
+    -96.784666,
+    40.853469
+],
+  "geometry": {"coordinates":[-96.784666,40.853469],"type":"Point"}
+}

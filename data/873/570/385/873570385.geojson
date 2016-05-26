@@ -1,0 +1,77 @@
+{
+  "id": 873570385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.043681,41.238932,-96.043681,41.238932",
+    "geom:latitude":41.238932,
+    "geom:longitude":-96.043681,
+    "iso:country":"US",
+    "sg:address":"2214 S 84th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 991 3594",
+    "sg:postcode":"68124",
+    "sg:province":"NE",
+    "sg:tags":[
+        "truck",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872533,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0t3N5bpDwXRQVRnIUqWN4g_41.238932_-96.043681@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294614,
+    "wof:geomhash":"2892188eea9ab061a2ff8b1abba3334e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872533,
+            "region_id":85688563,
+            "venue_id":873570385
+        }
+    ],
+    "wof:id":873570385,
+    "wof:lastmodified":1464294614,
+    "wof:name":"Washington Leasing Co",
+    "wof:parent_id":85872533,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -96.043681,
+    41.238932,
+    -96.043681,
+    41.238932
+],
+  "geometry": {"coordinates":[-96.04368100000001,41.238932],"type":"Point"}
+}

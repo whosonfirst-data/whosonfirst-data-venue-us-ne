@@ -1,0 +1,74 @@
+{
+  "id": 873582171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.04359,41.15246,-96.04359,41.15246",
+    "geom:latitude":41.15246,
+    "geom:longitude":-96.04359,
+    "iso:country":"US",
+    "sg:address":"105 W Sherman St",
+    "sg:city":"Papillion",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Household Appliances",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 339 3678",
+    "sg:postcode":"68046",
+    "sg:province":"NE",
+    "sg:tags":[
+        "major"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85843697,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_49fSFvHeCWvlNgbUw9Cemd_41.152460_-96.043590@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294744,
+    "wof:geomhash":"9b1bc93a21763462cfb745bf8060ef67",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85843697,
+            "region_id":85688563,
+            "venue_id":873582171
+        }
+    ],
+    "wof:id":873582171,
+    "wof:lastmodified":1464294744,
+    "wof:name":"Glesmann Appliance Company",
+    "wof:parent_id":85843697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "major"
+    ]
+},
+  "bbox": [
+    -96.04359,
+    41.15246,
+    -96.04359,
+    41.15246
+],
+  "geometry": {"coordinates":[-96.04358999999999,41.15246],"type":"Point"}
+}

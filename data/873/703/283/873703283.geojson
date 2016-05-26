@@ -1,0 +1,75 @@
+{
+  "id": 873703283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.053453,41.317777,-96.053453,41.317777",
+    "geom:latitude":41.317777,
+    "geom:longitude":-96.053453,
+    "iso:country":"US",
+    "sg:address":"6614 N 90th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 572 8398",
+    "sg:postcode":"68122",
+    "sg:province":"NE",
+    "sg:tags":[
+        "air",
+        "conditioning",
+        "unit",
+        "heating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85872505,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6IAwjO7Cw40bta3ljLd8yT_41.317777_-96.053453@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296438,
+    "wof:geomhash":"d434994e730a44f8287ac94bf5c07c39",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":873703283
+        }
+    ],
+    "wof:id":873703283,
+    "wof:lastmodified":1464296438,
+    "wof:name":"Control Specialists Co",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "air",
+        "conditioning",
+        "unit",
+        "heating"
+    ]
+},
+  "bbox": [
+    -96.053453,
+    41.317777,
+    -96.053453,
+    41.317777
+],
+  "geometry": {"coordinates":[-96.053453,41.317777],"type":"Point"}
+}

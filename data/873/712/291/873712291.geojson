@@ -1,0 +1,71 @@
+{
+  "id": 873712291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.961013,41.11702,-95.961013,41.11702",
+    "geom:latitude":41.11702,
+    "geom:longitude":-95.961013,
+    "iso:country":"US",
+    "sg:address":"12804 S 33rd St",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 291 4614",
+    "sg:postcode":"68123",
+    "sg:province":"NE",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974747,
+        102082777,
+        85820061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_74uUkRt32xo1YeAQfPxUyY_41.117020_-95.961013@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296548,
+    "wof:geomhash":"e54e4c09deade04afc0fb1aa2a4472b1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974747,
+            "neighbourhood_id":85820061,
+            "region_id":85688563,
+            "venue_id":873712291
+        }
+    ],
+    "wof:id":873712291,
+    "wof:lastmodified":1464296548,
+    "wof:name":"John Fleischmann Construction",
+    "wof:parent_id":85820061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -95.961013,
+    41.11702,
+    -95.961013,
+    41.11702
+],
+  "geometry": {"coordinates":[-95.96101299999999,41.11702],"type":"Point"}
+}

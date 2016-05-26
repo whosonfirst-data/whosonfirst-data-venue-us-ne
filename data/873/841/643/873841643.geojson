@@ -1,0 +1,81 @@
+{
+  "id": 873841643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.951249,41.241372,-95.951249,41.241372",
+    "geom:latitude":41.241372,
+    "geom:longitude":-95.951249,
+    "iso:country":"US",
+    "sg:address":"2623 Center St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 342 3626",
+    "sg:postcode":"68105",
+    "sg:province":"NE",
+    "sg:tags":[
+        "underground",
+        "wire",
+        "laying",
+        "cable"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872527,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_422Ywxa1NKYLaJgOoj9MEW_41.241372_-95.951249@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298591,
+    "wof:geomhash":"c656f806ffc5770fb099ef2dbaba4096",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872527,
+            "region_id":85688563,
+            "venue_id":873841643
+        }
+    ],
+    "wof:id":873841643,
+    "wof:lastmodified":1464298591,
+    "wof:name":"Utilities Services Group",
+    "wof:parent_id":85872527,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "underground",
+        "wire",
+        "laying",
+        "cable"
+    ]
+},
+  "bbox": [
+    -95.951249,
+    41.241372,
+    -95.951249,
+    41.241372
+],
+  "geometry": {"coordinates":[-95.951249,41.241372],"type":"Point"}
+}

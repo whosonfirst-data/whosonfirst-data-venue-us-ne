@@ -1,0 +1,73 @@
+{
+  "id": 873601423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.729681,40.868306,-96.729681,40.868306",
+    "geom:latitude":40.868306,
+    "geom:longitude":-96.729681,
+    "iso:country":"US",
+    "sg:address":"531 W Keating Cir",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 477 7587",
+    "sg:postcode":"68521",
+    "sg:province":"NE",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5UBGRu9DzPQQBr1XonQ84d_40.868306_-96.729681@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295002,
+    "wof:geomhash":"424aa2ca2b38382da01d2936d2ed8801",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878717,
+            "region_id":85688563,
+            "venue_id":873601423
+        }
+    ],
+    "wof:id":873601423,
+    "wof:lastmodified":1464295002,
+    "wof:name":"J C Plus Plumbing",
+    "wof:parent_id":85878717,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.729681,
+    40.868306,
+    -96.729681,
+    40.868306
+],
+  "geometry": {"coordinates":[-96.729681,40.868306],"type":"Point"}
+}

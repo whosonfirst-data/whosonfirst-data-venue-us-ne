@@ -1,0 +1,78 @@
+{
+  "id": 873733471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.100704,41.21686,-96.100704,41.21686",
+    "geom:latitude":41.21686,
+    "geom:longitude":-96.100704,
+    "iso:country":"US",
+    "sg:address":"4207 S 120th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 334 9303",
+    "sg:postcode":"68137",
+    "sg:province":"NE",
+    "sg:tags":[
+        "equipment",
+        "golf"
+    ],
+    "sg:website":"www.golfusa.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872531,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4OzqLgvfmSoidKUda6PlX7_41.216860_-96.100704@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296820,
+    "wof:geomhash":"eb4825d1400ce5f59c6d42e4fcec0e68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872531,
+            "region_id":85688563,
+            "venue_id":873733471
+        }
+    ],
+    "wof:id":873733471,
+    "wof:lastmodified":1464296820,
+    "wof:name":"Golf USA",
+    "wof:parent_id":85872531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "golf"
+    ]
+},
+  "bbox": [
+    -96.100704,
+    41.21686,
+    -96.100704,
+    41.21686
+],
+  "geometry": {"coordinates":[-96.10070399999999,41.21686],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 873875513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.0814,41.304958,-96.0814,41.304958",
+    "geom:latitude":41.304958,
+    "geom:longitude":-96.0814,
+    "iso:country":"US",
+    "sg:address":"10702 Browne St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 571 6630",
+    "sg:postcode":"68134",
+    "sg:province":"NE",
+    "sg:tags":[
+        "school",
+        "instruction",
+        "gymnastics",
+        "gymnastic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85872505,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2NAvDzGXIu2o1rD8Z0FPdt_41.304958_-96.081400@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299345,
+    "wof:geomhash":"e5d15e8b811e46bf1ed6877088007285",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":873875513
+        }
+    ],
+    "wof:id":873875513,
+    "wof:lastmodified":1464299345,
+    "wof:name":"Premier Gymnastics Dance",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "school",
+        "instruction",
+        "gymnastics",
+        "gymnastic"
+    ]
+},
+  "bbox": [
+    -96.0814,
+    41.304958,
+    -96.0814,
+    41.304958
+],
+  "geometry": {"coordinates":[-96.0814,41.304958],"type":"Point"}
+}

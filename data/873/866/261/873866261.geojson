@@ -1,0 +1,77 @@
+{
+  "id": 873866261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.665606,40.792534,-96.665606,40.792534",
+    "geom:latitude":40.792534,
+    "geom:longitude":-96.665606,
+    "iso:country":"US",
+    "sg:address":"3818 Normal Blvd",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 488 4282",
+    "sg:postcode":"68506",
+    "sg:province":"NE",
+    "sg:tags":[
+        "therapy",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892213,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ms58KVZHZ09yNhet54MEA_40.792534_-96.665606@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299160,
+    "wof:geomhash":"752636962fc4cac5360d714549ae60f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85892213,
+            "region_id":85688563,
+            "venue_id":873866261
+        }
+    ],
+    "wof:id":873866261,
+    "wof:lastmodified":1464299160,
+    "wof:name":"Exstrom Physical Therapy",
+    "wof:parent_id":85892213,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapy",
+        "physical"
+    ]
+},
+  "bbox": [
+    -96.665606,
+    40.792534,
+    -96.665606,
+    40.792534
+],
+  "geometry": {"coordinates":[-96.665606,40.792534],"type":"Point"}
+}

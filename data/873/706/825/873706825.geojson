@@ -1,0 +1,75 @@
+{
+  "id": 873706825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.23657,41.284663,-96.23657,41.284663",
+    "geom:latitude":41.284663,
+    "geom:longitude":-96.23657,
+    "iso:country":"US",
+    "sg:address":"202 N Main St",
+    "sg:city":"Elkhorn",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 289 4772",
+    "sg:postcode":"68022",
+    "sg:province":"NE",
+    "sg:tags":[
+        "caterer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85868921,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3pxZ7T92R1LSpK30s4WvqI_41.284663_-96.236570@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296479,
+    "wof:geomhash":"9bfd26772b28899862ca66524e5c1184",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85868921,
+            "region_id":85688563,
+            "venue_id":873706825
+        }
+    ],
+    "wof:id":873706825,
+    "wof:lastmodified":1464296479,
+    "wof:name":"Boyd & Charlie's Bbq",
+    "wof:parent_id":85868921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caterer"
+    ]
+},
+  "bbox": [
+    -96.23657,
+    41.284663,
+    -96.23657,
+    41.284663
+],
+  "geometry": {"coordinates":[-96.23657,41.284663],"type":"Point"}
+}

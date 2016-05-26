@@ -1,0 +1,71 @@
+{
+  "id": 873890579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.12926,41.341505,-96.12926,41.341505",
+    "geom:latitude":41.341505,
+    "geom:longitude":-96.12926,
+    "iso:country":"US",
+    "sg:address":"8989 N 138th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 493 8833",
+    "sg:postcode":"68142",
+    "sg:province":"NE",
+    "sg:tags":[
+        "equipment",
+        "railroad"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85872505,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6b07kITjySWOYbLifpT7hw_41.341505_-96.129260@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299641,
+    "wof:geomhash":"c8f3252cfdda1463e24e72c9fa1d6f1b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":873890579
+        }
+    ],
+    "wof:id":873890579,
+    "wof:lastmodified":1464299641,
+    "wof:name":"Dodge Engineering Co Inc",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "railroad"
+    ]
+},
+  "bbox": [
+    -96.12926,
+    41.341505,
+    -96.12926,
+    41.341505
+],
+  "geometry": {"coordinates":[-96.12926,41.341505],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873618277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.540051,40.711645,-96.540051,40.711645",
+    "geom:latitude":40.711645,
+    "geom:longitude":-96.540051,
+    "iso:country":"US",
+    "sg:address":"9000 S 134th St",
+    "sg:city":"Bennet",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 782 2915",
+    "sg:postcode":"68317",
+    "sg:province":"NE",
+    "sg:tags":[
+        "liquor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0nWBVHEQOmIEDrm9uTXJIf_40.711645_-96.540051@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295233,
+    "wof:geomhash":"c848b32f3d6bfdee005b4dd894907125",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878685,
+            "region_id":85688563,
+            "venue_id":873618277
+        }
+    ],
+    "wof:id":873618277,
+    "wof:lastmodified":1464295233,
+    "wof:name":"Bennet Square",
+    "wof:parent_id":85878685,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "liquor"
+    ]
+},
+  "bbox": [
+    -96.540051,
+    40.711645,
+    -96.540051,
+    40.711645
+],
+  "geometry": {"coordinates":[-96.54005100000001,40.711645],"type":"Point"}
+}

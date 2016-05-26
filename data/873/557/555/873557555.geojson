@@ -1,0 +1,71 @@
+{
+  "id": 873557555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.081349,41.304413,-96.081349,41.304413",
+    "geom:latitude":41.304413,
+    "geom:longitude":-96.081349,
+    "iso:country":"US",
+    "sg:address":"5115 N 108th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 493 7990",
+    "sg:postcode":"68164",
+    "sg:province":"NE",
+    "sg:tags":[
+        "automobile",
+        "diagnostic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85872505,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7MzVUgqtCwNuqfDsztRtAW_41.304413_-96.081349@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294466,
+    "wof:geomhash":"cc5c2308edd992a6fed5ccaf8cd00dc2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":873557555
+        }
+    ],
+    "wof:id":873557555,
+    "wof:lastmodified":1464294466,
+    "wof:name":"Jensen Tire Co",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "diagnostic"
+    ]
+},
+  "bbox": [
+    -96.081349,
+    41.304413,
+    -96.081349,
+    41.304413
+],
+  "geometry": {"coordinates":[-96.081349,41.304413],"type":"Point"}
+}

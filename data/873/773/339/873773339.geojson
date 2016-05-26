@@ -1,0 +1,76 @@
+{
+  "id": 873773339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.735346,40.818478,-96.735346,40.818478",
+    "geom:latitude":40.818478,
+    "geom:longitude":-96.735346,
+    "iso:country":"US",
+    "sg:address":"520 NW 8th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 476 8640",
+    "sg:postcode":"68528",
+    "sg:province":"NE",
+    "sg:tags":[
+        "developer"
+    ],
+    "sg:website":"www.lslnk.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878689,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_74gVijsPxix0BqldIxudf0_40.818478_-96.735346@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297405,
+    "wof:geomhash":"95ca7d8b13e2703494355ad4b4a8eb6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878689,
+            "region_id":85688563,
+            "venue_id":873773339
+        }
+    ],
+    "wof:id":873773339,
+    "wof:lastmodified":1464297405,
+    "wof:name":"LAN Systems Of Lincoln Inc",
+    "wof:parent_id":85878689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "developer"
+    ]
+},
+  "bbox": [
+    -96.735346,
+    40.818478,
+    -96.735346,
+    40.818478
+],
+  "geometry": {"coordinates":[-96.73534600000001,40.818478],"type":"Point"}
+}

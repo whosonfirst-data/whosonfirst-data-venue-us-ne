@@ -1,0 +1,71 @@
+{
+  "id": 873919693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.055465,41.152789,-96.055465,41.152789",
+    "geom:latitude":41.152789,
+    "geom:longitude":-96.055465,
+    "iso:country":"US",
+    "sg:address":"300 Overland Trl",
+    "sg:city":"Papillion",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Durable Goods & Equipment",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 593 4088",
+    "sg:postcode":"68046",
+    "sg:province":"NE",
+    "sg:tags":[
+        "fire",
+        "extinguisher"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85843697,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5LjgBsC0G5Wj53qAvUcyT6_41.152789_-96.055465@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300206,
+    "wof:geomhash":"9bbcbdb6bfad77a66faab9399842d941",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85843697,
+            "region_id":85688563,
+            "venue_id":873919693
+        }
+    ],
+    "wof:id":873919693,
+    "wof:lastmodified":1464300206,
+    "wof:name":"ABC Fire Protection",
+    "wof:parent_id":85843697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fire",
+        "extinguisher"
+    ]
+},
+  "bbox": [
+    -96.055465,
+    41.152789,
+    -96.055465,
+    41.152789
+],
+  "geometry": {"coordinates":[-96.055465,41.152789],"type":"Point"}
+}

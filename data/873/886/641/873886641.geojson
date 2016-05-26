@@ -1,0 +1,71 @@
+{
+  "id": 873886641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.919604,41.147555,-95.919604,41.147555",
+    "geom:latitude":41.147555,
+    "geom:longitude":-95.919604,
+    "iso:country":"US",
+    "sg:address":"1201 Betz Rd",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 291 3721",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85821583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6rNeOantr55ZPO56NKOIrt_41.147555_-95.919604@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299567,
+    "wof:geomhash":"2582ed90f86a99551d99c3176e885835",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85821583,
+            "region_id":85688563,
+            "venue_id":873886641
+        }
+    ],
+    "wof:id":873886641,
+    "wof:lastmodified":1464299567,
+    "wof:name":"Richard A Stacey DDS",
+    "wof:parent_id":85821583,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -95.919604,
+    41.147555,
+    -95.919604,
+    41.147555
+],
+  "geometry": {"coordinates":[-95.91960400000001,41.147555],"type":"Point"}
+}

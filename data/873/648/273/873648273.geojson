@@ -1,0 +1,77 @@
+{
+  "id": 873648273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.68969,40.847537,-96.68969,40.847537",
+    "geom:latitude":40.847537,
+    "geom:longitude":-96.68969,
+    "iso:country":"US",
+    "sg:address":"3420 N 22nd St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 435 3020",
+    "sg:postcode":"68521",
+    "sg:province":"NE",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878721,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6HdfSoaeBjxvWUuZvBMeLB_40.847537_-96.689690@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295570,
+    "wof:geomhash":"13019d07d22239d2676e8d2204a18cf1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878721,
+            "region_id":85688563,
+            "venue_id":873648273
+        }
+    ],
+    "wof:id":873648273,
+    "wof:lastmodified":1464295570,
+    "wof:name":"Mike's Auto Repair",
+    "wof:parent_id":85878721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -96.68969,
+    40.847537,
+    -96.68969,
+    40.847537
+],
+  "geometry": {"coordinates":[-96.68969,40.847537],"type":"Point"}
+}

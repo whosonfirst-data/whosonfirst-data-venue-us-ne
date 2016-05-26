@@ -1,0 +1,69 @@
+{
+  "id": 873562613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.076133,41.310266,-96.076133,41.310266",
+    "geom:latitude":41.310266,
+    "geom:longitude":-96.076133,
+    "iso:country":"US",
+    "sg:address":"5686 N 103rd St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 493 3339",
+    "sg:postcode":"68134",
+    "sg:province":"NE",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85872505,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_746U6Gd2gZ96HyqcTKuW39_41.310266_-96.076133@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294527,
+    "wof:geomhash":"fe400be21aed580391aacafa4f0d960c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":873562613
+        }
+    ],
+    "wof:id":873562613,
+    "wof:lastmodified":1464294527,
+    "wof:name":"Michael E Knauss PC",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -96.076133,
+    41.310266,
+    -96.076133,
+    41.310266
+],
+  "geometry": {"coordinates":[-96.076133,41.310266],"type":"Point"}
+}

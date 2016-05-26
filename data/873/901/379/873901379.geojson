@@ -1,0 +1,71 @@
+{
+  "id": 873901379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.926941,41.153547,-95.926941,41.153547",
+    "geom:latitude":41.153547,
+    "geom:longitude":-95.926941,
+    "iso:country":"US",
+    "sg:address":"806 Fort Crook Rd S",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 933 2252",
+    "sg:postcode":"68123",
+    "sg:province":"NE",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85821583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0hZjfY3SEAe0ZwptNFv9QI_41.153547_-95.926941@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299845,
+    "wof:geomhash":"775317636897e122338b32b22ff2ee47",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85821583,
+            "region_id":85688563,
+            "venue_id":873901379
+        }
+    ],
+    "wof:id":873901379,
+    "wof:lastmodified":1464299845,
+    "wof:name":"Asian Pacific Market",
+    "wof:parent_id":85821583,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -95.926941,
+    41.153547,
+    -95.926941,
+    41.153547
+],
+  "geometry": {"coordinates":[-95.926941,41.153547],"type":"Point"}
+}

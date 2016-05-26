@@ -1,0 +1,79 @@
+{
+  "id": 873741027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.945349,41.185151,-95.945349,41.185151",
+    "geom:latitude":41.185151,
+    "geom:longitude":-95.945349,
+    "iso:country":"US",
+    "sg:address":"2306 Myrtle St",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 573 1700",
+    "sg:postcode":"68147",
+    "sg:province":"NE",
+    "sg:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85849923,
+        102191575,
+        404519143,
+        85633793,
+        85974545,
+        102082777,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7AnItSG8cfDqJT6CdR0C6K_41.185151_-95.945349@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296937,
+    "wof:geomhash":"64e86886e22b221df9adc1d99958ae64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082777,
+            "localadmin_id":404519143,
+            "locality_id":85974545,
+            "neighbourhood_id":85849923,
+            "region_id":85688563,
+            "venue_id":873741027
+        }
+    ],
+    "wof:id":873741027,
+    "wof:lastmodified":1464296937,
+    "wof:name":"Pikwick Pet Grooming & Brdng",
+    "wof:parent_id":85849923,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ]
+},
+  "bbox": [
+    -95.945349,
+    41.185151,
+    -95.945349,
+    41.185151
+],
+  "geometry": {"coordinates":[-95.94534899999999,41.185151],"type":"Point"}
+}

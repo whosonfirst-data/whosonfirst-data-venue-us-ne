@@ -1,0 +1,71 @@
+{
+  "id": 873781017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.023746,41.369443,-96.023746,41.369443",
+    "geom:latitude":41.369443,
+    "geom:longitude":-96.023746,
+    "iso:country":"US",
+    "sg:address":"12303 N 72nd St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Airport",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 572 8788",
+    "sg:postcode":"68122",
+    "sg:province":"NE",
+    "sg:tags":[
+        "aircraft",
+        "upholsterer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85872505,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2FxeYsClk7dwotSDoVK5bu_41.369443_-96.023746@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297505,
+    "wof:geomhash":"95464a2784ca6d24f0302da6f83abec9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":873781017
+        }
+    ],
+    "wof:id":873781017,
+    "wof:lastmodified":1464297505,
+    "wof:name":"Mike's Upholstery Inc",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "aircraft",
+        "upholsterer"
+    ]
+},
+  "bbox": [
+    -96.023746,
+    41.369443,
+    -96.023746,
+    41.369443
+],
+  "geometry": {"coordinates":[-96.023746,41.369443],"type":"Point"}
+}

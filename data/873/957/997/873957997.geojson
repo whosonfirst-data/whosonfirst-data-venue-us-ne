@@ -1,0 +1,71 @@
+{
+  "id": 873957997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.608078,40.795377,-96.608078,40.795377",
+    "geom:latitude":40.795377,
+    "geom:longitude":-96.608078,
+    "iso:country":"US",
+    "sg:address":"8230 Henry St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 416 1055",
+    "sg:postcode":"68506",
+    "sg:province":"NE",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4UD8x6dlaAZpZXEWzS3GNl_40.795377_-96.608078@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464301445,
+    "wof:geomhash":"ec16c3ffc851b1c3da23428c63547c3e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878697,
+            "region_id":85688563,
+            "venue_id":873957997
+        }
+    ],
+    "wof:id":873957997,
+    "wof:lastmodified":1464301445,
+    "wof:name":"Ml2 Construction LLC",
+    "wof:parent_id":85878697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -96.608078,
+    40.795377,
+    -96.608078,
+    40.795377
+],
+  "geometry": {"coordinates":[-96.60807800000001,40.795377],"type":"Point"}
+}

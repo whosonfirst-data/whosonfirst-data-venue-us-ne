@@ -1,0 +1,67 @@
+{
+  "id": 873831775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.636008,40.857122,-96.636008,40.857122",
+    "geom:latitude":40.857122,
+    "geom:longitude":-96.636008,
+    "iso:country":"US",
+    "sg:address":"6120 Havelock Ave",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 467 5355",
+    "sg:postcode":"68507",
+    "sg:province":"NE",
+    "sg:website":"www.allamericanins.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85824241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5buZCkYLKU5ovLAYtAUrWL_40.857122_-96.636008@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298370,
+    "wof:geomhash":"84bf4b5c8cc027b40c0947a8e2e0d57b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85824241,
+            "region_id":85688563,
+            "venue_id":873831775
+        }
+    ],
+    "wof:id":873831775,
+    "wof:lastmodified":1464298370,
+    "wof:name":"Midwest Insurance Alliance",
+    "wof:parent_id":85824241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.636008,
+    40.857122,
+    -96.636008,
+    40.857122
+],
+  "geometry": {"coordinates":[-96.636008,40.857122],"type":"Point"}
+}

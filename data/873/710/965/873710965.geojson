@@ -1,0 +1,64 @@
+{
+  "id": 873710965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.04429,41.1703,-96.04429,41.1703",
+    "geom:latitude":41.1703,
+    "geom:longitude":-96.04429,
+    "iso:country":"US",
+    "sg:address":"909 N Adams St",
+    "sg:city":"Papillion",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 331 4978",
+    "sg:postcode":"68046",
+    "sg:province":"NE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85843697,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1yUK29OiU6OLmklMJozvPn_41.170300_-96.044290@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296533,
+    "wof:geomhash":"d8d99332f606a7bc350e5fdb58e702eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85843697,
+            "region_id":85688563,
+            "venue_id":873710965
+        }
+    ],
+    "wof:id":873710965,
+    "wof:lastmodified":1464296533,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85843697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.04429,
+    41.1703,
+    -96.04429,
+    41.1703
+],
+  "geometry": {"coordinates":[-96.04429,41.1703],"type":"Point"}
+}

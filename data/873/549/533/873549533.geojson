@@ -1,0 +1,73 @@
+{
+  "id": 873549533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.141185,41.186702,-96.141185,41.186702",
+    "geom:latitude":41.186702,
+    "geom:longitude":-96.141185,
+    "iso:country":"US",
+    "sg:address":"14503 Josephine St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 895 5287",
+    "sg:postcode":"68138",
+    "sg:province":"NE",
+    "sg:tags":[
+        "lawn",
+        "maintenance",
+        "grounds"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85834285,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0dHkt9HiONqFLCTW1bNm34_41.186702_-96.141185@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294372,
+    "wof:geomhash":"aa85e8d8fea6edfb1ec334a71fc45d2f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85834285,
+            "region_id":85688563,
+            "venue_id":873549533
+        }
+    ],
+    "wof:id":873549533,
+    "wof:lastmodified":1464294372,
+    "wof:name":"Yard Farmer Turf Mgmt/Snow",
+    "wof:parent_id":85834285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lawn",
+        "maintenance",
+        "grounds"
+    ]
+},
+  "bbox": [
+    -96.141185,
+    41.186702,
+    -96.141185,
+    41.186702
+],
+  "geometry": {"coordinates":[-96.14118499999999,41.186702],"type":"Point"}
+}

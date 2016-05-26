@@ -1,0 +1,78 @@
+{
+  "id": 873678823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.016297,41.320456,-96.016297,41.320456",
+    "geom:latitude":41.320456,
+    "geom:longitude":-96.016297,
+    "iso:country":"US",
+    "sg:address":"6809 N 68th Plz",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 572 2595",
+    "sg:postcode":"68152",
+    "sg:province":"NE",
+    "sg:tags":[
+        "home",
+        "convalescent"
+    ],
+    "sg:website":"www.alegent.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85813863,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4HyYIqtey8FxCL4g86mBvR_41.320456_-96.016297@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295962,
+    "wof:geomhash":"1be09a3a365fdb22da77d3b42bf94019",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85813863,
+            "region_id":85688563,
+            "venue_id":873678823
+        }
+    ],
+    "wof:id":873678823,
+    "wof:lastmodified":1464295962,
+    "wof:name":"Immanuel-Fontenelle Home",
+    "wof:parent_id":85813863,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "convalescent"
+    ]
+},
+  "bbox": [
+    -96.016297,
+    41.320456,
+    -96.016297,
+    41.320456
+],
+  "geometry": {"coordinates":[-96.01629699999999,41.320456],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873966485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.239875,41.141839,-96.239875,41.141839",
+    "geom:latitude":41.141839,
+    "geom:longitude":-96.239875,
+    "iso:country":"US",
+    "sg:address":"206 W Westplains Rd",
+    "sg:city":"Gretna",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 332 2540",
+    "sg:postcode":"68028",
+    "sg:province":"NE",
+    "sg:tags":[
+        "hanging",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85834285,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1iSACKZc8qGljtabMDFqTr_41.141839_-96.239875@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464301858,
+    "wof:geomhash":"fb8b5c9c7f4dca38b700c9653a3c7464",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85834285,
+            "region_id":85688563,
+            "venue_id":873966485
+        }
+    ],
+    "wof:id":873966485,
+    "wof:lastmodified":1464301858,
+    "wof:name":"Buttermore Andrew Ind Contr",
+    "wof:parent_id":85834285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.239875,
+    41.141839,
+    -96.239875,
+    41.141839
+],
+  "geometry": {"coordinates":[-96.239875,41.141839],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873827063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.081481,41.190629,-96.081481,41.190629",
+    "geom:latitude":41.190629,
+    "geom:longitude":-96.081481,
+    "iso:country":"US",
+    "sg:address":"7010 S 108th St",
+    "sg:city":"La Vista",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 597 3636",
+    "sg:postcode":"68128",
+    "sg:province":"NE",
+    "sg:tags":[
+        "product",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85843697,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Q16A4TjPImF0cbIGJJk3Z_41.190629_-96.081481@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298278,
+    "wof:geomhash":"71174c4d30e94c4b8d2603146e18eb81",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85843697,
+            "region_id":85688563,
+            "venue_id":873827063
+        }
+    ],
+    "wof:id":873827063,
+    "wof:lastmodified":1464298278,
+    "wof:name":"Earthgrains",
+    "wof:parent_id":85843697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -96.081481,
+    41.190629,
+    -96.081481,
+    41.190629
+],
+  "geometry": {"coordinates":[-96.081481,41.190629],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 873582319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.614178,40.842569,-96.614178,40.842569",
+    "geom:latitude":40.842569,
+    "geom:longitude":-96.614178,
+    "iso:country":"US",
+    "sg:address":"8101 Adams St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Golf",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 466 4653",
+    "sg:postcode":"68507",
+    "sg:province":"NE",
+    "sg:tags":[
+        "course"
+    ],
+    "sg:website":"www.northfortygolf.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85824241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2e5W3LocAs7CDfmbmNHJQb_40.842569_-96.614178@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294746,
+    "wof:geomhash":"64447b593c31af529d3d5b57de7bb77c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85824241,
+            "region_id":85688563,
+            "venue_id":873582319
+        }
+    ],
+    "wof:id":873582319,
+    "wof:lastmodified":1464294746,
+    "wof:name":"North Forty Golf Complex",
+    "wof:parent_id":85824241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "course"
+    ]
+},
+  "bbox": [
+    -96.614178,
+    40.842569,
+    -96.614178,
+    40.842569
+],
+  "geometry": {"coordinates":[-96.614178,40.842569],"type":"Point"}
+}

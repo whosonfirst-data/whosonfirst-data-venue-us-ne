@@ -1,0 +1,77 @@
+{
+  "id": 873930415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.234393,41.255831,-96.234393,41.255831",
+    "geom:latitude":41.255831,
+    "geom:longitude":-96.234393,
+    "iso:country":"US",
+    "sg:address":"109 S 204th St",
+    "sg:city":"Elkhorn",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 289 2251",
+    "sg:postcode":"68022",
+    "sg:province":"NE",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85868921,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_08z9MJ15Ky8voOHNqfmm1a_41.255831_-96.234393@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300418,
+    "wof:geomhash":"7234a11b2a0e4307719100cfc2acb3f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85868921,
+            "region_id":85688563,
+            "venue_id":873930415
+        }
+    ],
+    "wof:id":873930415,
+    "wof:lastmodified":1464300418,
+    "wof:name":"Du-Rite Electric Inc",
+    "wof:parent_id":85868921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.234393,
+    41.255831,
+    -96.234393,
+    41.255831
+],
+  "geometry": {"coordinates":[-96.234393,41.255831],"type":"Point"}
+}

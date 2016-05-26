@@ -1,0 +1,66 @@
+{
+  "id": 873756229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.358013,41.429312,-97.358013,41.429312",
+    "geom:latitude":41.429312,
+    "geom:longitude":-97.358013,
+    "iso:country":"US",
+    "sg:address":"2416 13th St",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 564 8284",
+    "sg:postcode":"68601",
+    "sg:province":"NE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974401,
+        102084277,
+        85854093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5qWN5f7KzORbfS0nhuL146_41.429312_-97.358013@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297160,
+    "wof:geomhash":"d69d413dac9bc5841cb9b90d5f7ff9f8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084277,
+            "locality_id":85974401,
+            "neighbourhood_id":85854093,
+            "region_id":85688563,
+            "venue_id":873756229
+        }
+    ],
+    "wof:id":873756229,
+    "wof:lastmodified":1464297160,
+    "wof:name":"Nebraska Cycling & Fitness",
+    "wof:parent_id":85854093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.358013,
+    41.429312,
+    -97.358013,
+    41.429312
+],
+  "geometry": {"coordinates":[-97.358013,41.429312],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873939175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.125988,41.176223,-96.125988,41.176223",
+    "geom:latitude":41.176223,
+    "geom:longitude":-96.125988,
+    "iso:country":"US",
+    "sg:address":"13610 Giles Rd",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 896 4644",
+    "sg:postcode":"68138",
+    "sg:province":"NE",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85834285,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4g2NULycYA1T83XtKrtIZf_41.176223_-96.125988@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300650,
+    "wof:geomhash":"be12a23600a9a36754fa92277c06ade2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85834285,
+            "region_id":85688563,
+            "venue_id":873939175
+        }
+    ],
+    "wof:id":873939175,
+    "wof:lastmodified":1464300650,
+    "wof:name":"Chief Automotive",
+    "wof:parent_id":85834285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -96.125988,
+    41.176223,
+    -96.125988,
+    41.176223
+],
+  "geometry": {"coordinates":[-96.12598800000001,41.176223],"type":"Point"}
+}

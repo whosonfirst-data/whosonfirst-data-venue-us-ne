@@ -1,0 +1,79 @@
+{
+  "id": 873801609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.696682,40.811598,-96.696682,40.811598",
+    "geom:latitude":40.811598,
+    "geom:longitude":-96.696682,
+    "iso:country":"US",
+    "sg:address":"220 S 17th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 475 7000",
+    "sg:postcode":"68508",
+    "sg:province":"NE",
+    "sg:tags":[
+        "physician",
+        "surgeon",
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878699,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1VHe3JWHyrd2V2ScCEKbdP_40.811598_-96.696682@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297792,
+    "wof:geomhash":"3cb86ab43b1d3d385e1264afe954ba5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878699,
+            "region_id":85688563,
+            "venue_id":873801609
+        }
+    ],
+    "wof:id":873801609,
+    "wof:lastmodified":1464297792,
+    "wof:name":"Lincoln Centre Clinic PC",
+    "wof:parent_id":85878699,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon",
+        "medical"
+    ]
+},
+  "bbox": [
+    -96.696682,
+    40.811598,
+    -96.696682,
+    40.811598
+],
+  "geometry": {"coordinates":[-96.696682,40.811598],"type":"Point"}
+}

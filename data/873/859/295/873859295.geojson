@@ -1,0 +1,71 @@
+{
+  "id": 873859295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.717379,40.857633,-96.717379,40.857633",
+    "geom:latitude":40.857633,
+    "geom:longitude":-96.717379,
+    "iso:country":"US",
+    "sg:address":"200 Ogden Rd",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Campground",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 476 2282",
+    "sg:postcode":"68521",
+    "sg:province":"NE",
+    "sg:tags":[
+        "trailer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Mf0Ogn1Jp1Nvz6CaSujVj_40.857633_-96.717379@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299003,
+    "wof:geomhash":"c17a1ba4c164d3c2f6b6f043bdc6462b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878717,
+            "region_id":85688563,
+            "venue_id":873859295
+        }
+    ],
+    "wof:id":873859295,
+    "wof:lastmodified":1464299003,
+    "wof:name":"Camp-A-Way",
+    "wof:parent_id":85878717,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trailer"
+    ]
+},
+  "bbox": [
+    -96.717379,
+    40.857633,
+    -96.717379,
+    40.857633
+],
+  "geometry": {"coordinates":[-96.71737899999999,40.857633],"type":"Point"}
+}

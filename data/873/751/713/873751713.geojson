@@ -1,0 +1,71 @@
+{
+  "id": 873751713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.910749,41.144077,-95.910749,41.144077",
+    "geom:latitude":41.144077,
+    "geom:longitude":-95.910749,
+    "iso:country":"US",
+    "sg:address":"1407 Buck Dr",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 718 9250",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "arrangement"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974747,
+        102082777,
+        85820061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5mNyV4reczwXjOstPdi1De_41.144077_-95.910749@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297097,
+    "wof:geomhash":"b3a5b9a755998b02bee72393289d9de7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974747,
+            "neighbourhood_id":85820061,
+            "region_id":85688563,
+            "venue_id":873751713
+        }
+    ],
+    "wof:id":873751713,
+    "wof:lastmodified":1464297097,
+    "wof:name":"Jose M Valencia",
+    "wof:parent_id":85820061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "arrangement"
+    ]
+},
+  "bbox": [
+    -95.910749,
+    41.144077,
+    -95.910749,
+    41.144077
+],
+  "geometry": {"coordinates":[-95.910749,41.144077],"type":"Point"}
+}

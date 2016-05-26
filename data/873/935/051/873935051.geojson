@@ -1,0 +1,73 @@
+{
+  "id": 873935051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.703773,40.745795,-96.703773,40.745795",
+    "geom:latitude":40.745795,
+    "geom:longitude":-96.703773,
+    "iso:country":"US",
+    "sg:address":"1232 Campfire Cir",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 421 2006",
+    "sg:postcode":"68512",
+    "sg:province":"NE",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6qwp8AbuCZli1sjZq2x4uf_40.745795_-96.703773@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300501,
+    "wof:geomhash":"6757c80efde2cdfc12ad83178af380db",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878709,
+            "region_id":85688563,
+            "venue_id":873935051
+        }
+    ],
+    "wof:id":873935051,
+    "wof:lastmodified":1464300501,
+    "wof:name":"Nucleus Construction",
+    "wof:parent_id":85878709,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.703773,
+    40.745795,
+    -96.703773,
+    40.745795
+],
+  "geometry": {"coordinates":[-96.703773,40.745795],"type":"Point"}
+}

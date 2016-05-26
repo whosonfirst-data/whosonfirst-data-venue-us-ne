@@ -1,0 +1,73 @@
+{
+  "id": 873929001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.043164,41.138557,-96.043164,41.138557",
+    "geom:latitude":41.138557,
+    "geom:longitude":-96.043164,
+    "iso:country":"US",
+    "sg:address":"1502 Bristol St",
+    "sg:city":"Papillion",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 596 9771",
+    "sg:postcode":"68046",
+    "sg:province":"NE",
+    "sg:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85843697,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6eMMSRdpePn0R2i4w5x9St_41.138557_-96.043164@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300390,
+    "wof:geomhash":"80d99d559f710cc366c3907fefa4a3aa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85843697,
+            "region_id":85688563,
+            "venue_id":873929001
+        }
+    ],
+    "wof:id":873929001,
+    "wof:lastmodified":1464300390,
+    "wof:name":"U-Haul Co",
+    "wof:parent_id":85843697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -96.043164,
+    41.138557,
+    -96.043164,
+    41.138557
+],
+  "geometry": {"coordinates":[-96.043164,41.138557],"type":"Point"}
+}

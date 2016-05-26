@@ -1,0 +1,82 @@
+{
+  "id": 873932117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.236678,41.28353,-96.236678,41.28353",
+    "geom:latitude":41.28353,
+    "geom:longitude":-96.236678,
+    "iso:country":"US",
+    "sg:address":"157 N Main St",
+    "sg:city":"Elkhorn",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Surveying",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 289 5040",
+    "sg:postcode":"68022",
+    "sg:province":"NE",
+    "sg:tags":[
+        "surveyor",
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85868921,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3X4XChriq70VIJCJyHrygL_41.283530_-96.236678@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300448,
+    "wof:geomhash":"e686366052a8b7a103d36f1615fbc0c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85868921,
+            "region_id":85688563,
+            "venue_id":873932117
+        }
+    ],
+    "wof:id":873932117,
+    "wof:lastmodified":1464300448,
+    "wof:name":"Associated Engineering PC",
+    "wof:parent_id":85868921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surveyor",
+        "engineer"
+    ]
+},
+  "bbox": [
+    -96.236678,
+    41.28353,
+    -96.236678,
+    41.28353
+],
+  "geometry": {"coordinates":[-96.236678,41.28353],"type":"Point"}
+}

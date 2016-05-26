@@ -1,0 +1,73 @@
+{
+  "id": 873579027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.085102,41.190656,-96.085102,41.190656",
+    "geom:latitude":41.190656,
+    "geom:longitude":-96.085102,
+    "iso:country":"US",
+    "sg:address":"10925 Harrison St",
+    "sg:city":"La Vista",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 592 4545",
+    "sg:postcode":"68128",
+    "sg:province":"NE",
+    "sg:tags":[
+        "instruction",
+        "twirling",
+        "baton"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85843697,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7aBn55FoV8ybs3bgW9vt1v_41.190656_-96.085102@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294706,
+    "wof:geomhash":"2cc6844d9542d43eb695c9263cfe1ebc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85843697,
+            "region_id":85688563,
+            "venue_id":873579027
+        }
+    ],
+    "wof:id":873579027,
+    "wof:lastmodified":1464294706,
+    "wof:name":"Stepper-Ettes Baton & Dance",
+    "wof:parent_id":85843697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "twirling",
+        "baton"
+    ]
+},
+  "bbox": [
+    -96.085102,
+    41.190656,
+    -96.085102,
+    41.190656
+],
+  "geometry": {"coordinates":[-96.08510200000001,41.190656],"type":"Point"}
+}

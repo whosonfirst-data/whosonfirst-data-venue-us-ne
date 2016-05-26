@@ -1,0 +1,75 @@
+{
+  "id": 873760105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.101949,41.279029,-96.101949,41.279029",
+    "geom:latitude":41.279029,
+    "geom:longitude":-96.101949,
+    "iso:country":"US",
+    "sg:address":"12074 Burdette Cir",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 496 9794",
+    "sg:postcode":"68164",
+    "sg:province":"NE",
+    "sg:tags":[
+        "specialty"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872503,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7BltVOWEnpQymBk24sb6yz_41.279029_-96.101949@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297207,
+    "wof:geomhash":"11d88936d1a4feca5f3bd043ce6c2899",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872503,
+            "region_id":85688563,
+            "venue_id":873760105
+        }
+    ],
+    "wof:id":873760105,
+    "wof:lastmodified":1464297207,
+    "wof:name":"Larsen Dicks Services",
+    "wof:parent_id":85872503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "specialty"
+    ]
+},
+  "bbox": [
+    -96.101949,
+    41.279029,
+    -96.101949,
+    41.279029
+],
+  "geometry": {"coordinates":[-96.101949,41.279029],"type":"Point"}
+}

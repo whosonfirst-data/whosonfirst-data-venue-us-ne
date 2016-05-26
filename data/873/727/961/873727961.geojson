@@ -1,0 +1,73 @@
+{
+  "id": 873727961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.587232,40.71111,-96.587232,40.71111",
+    "geom:latitude":40.71111,
+    "geom:longitude":-96.587232,
+    "iso:country":"US",
+    "sg:address":"10551 S 98th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 420 7532",
+    "sg:postcode":"68526",
+    "sg:province":"NE",
+    "sg:tags":[
+        "waterproofing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3KhYk83zrfDO5hmlHI2evm_40.711110_-96.587232@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296754,
+    "wof:geomhash":"21c5919eb14e390e3f6d049100ab65ca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878685,
+            "region_id":85688563,
+            "venue_id":873727961
+        }
+    ],
+    "wof:id":873727961,
+    "wof:lastmodified":1464296754,
+    "wof:name":"Goetz Foundation Coating",
+    "wof:parent_id":85878685,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "waterproofing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.587232,
+    40.71111,
+    -96.587232,
+    40.71111
+],
+  "geometry": {"coordinates":[-96.587232,40.71111],"type":"Point"}
+}

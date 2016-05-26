@@ -1,0 +1,78 @@
+{
+  "id": 873977979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.100255,41.234549,-96.100255,41.234549",
+    "geom:latitude":41.234549,
+    "geom:longitude":-96.100255,
+    "iso:country":"US",
+    "sg:address":"11940 W Center Rd",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ne/omaha/191237-burger-king/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 333 8868",
+    "sg:postcode":"68144",
+    "sg:province":"NE",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872531,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3FHoASdfSk9n7qFRfNK3VV_41.234121_-96.099957@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464302296,
+    "wof:geomhash":"067544061c0426ae078b53d445c71a5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872531,
+            "region_id":85688563,
+            "venue_id":873977979
+        }
+    ],
+    "wof:id":873977979,
+    "wof:lastmodified":1464302296,
+    "wof:name":"Burger King",
+    "wof:parent_id":85872531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -96.100255,
+    41.234549,
+    -96.100255,
+    41.234549
+],
+  "geometry": {"coordinates":[-96.100255,41.234549],"type":"Point"}
+}

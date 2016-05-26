@@ -1,0 +1,73 @@
+{
+  "id": 873940963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.368051,41.424169,-97.368051,41.424169",
+    "geom:latitude":41.424169,
+    "geom:longitude":-97.368051,
+    "iso:country":"US",
+    "sg:address":"763 33rd Ave",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 562 8805",
+    "sg:postcode":"68601",
+    "sg:province":"NE",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974401,
+        102084277,
+        85854093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_55AwlvGDduFWfpwbkEGzD0_41.424169_-97.368051@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300731,
+    "wof:geomhash":"e7bd026b312cfb7964e92b25f3ba5359",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084277,
+            "locality_id":85974401,
+            "neighbourhood_id":85854093,
+            "region_id":85688563,
+            "venue_id":873940963
+        }
+    ],
+    "wof:id":873940963,
+    "wof:lastmodified":1464300731,
+    "wof:name":"Chapin Used Auto Sales",
+    "wof:parent_id":85854093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -97.368051,
+    41.424169,
+    -97.368051,
+    41.424169
+],
+  "geometry": {"coordinates":[-97.36805099999999,41.424169],"type":"Point"}
+}

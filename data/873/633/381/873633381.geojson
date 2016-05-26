@@ -1,0 +1,75 @@
+{
+  "id": 873633381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.95817,41.067801,-95.95817,41.067801",
+    "geom:latitude":41.067801,
+    "geom:longitude":-95.95817,
+    "iso:country":"US",
+    "sg:address":"3011 Crystal Dr",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 292 9835",
+    "sg:postcode":"68123",
+    "sg:province":"NE",
+    "sg:tags":[
+        "lawn",
+        "maintenance",
+        "grounds"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974747,
+        102082777,
+        85820061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4oJAFgqDJTH6ZGBnc1d3m9_41.067801_-95.958170@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295405,
+    "wof:geomhash":"22b9016688b1aee81731d271ffddc12c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974747,
+            "neighbourhood_id":85820061,
+            "region_id":85688563,
+            "venue_id":873633381
+        }
+    ],
+    "wof:id":873633381,
+    "wof:lastmodified":1464295405,
+    "wof:name":"Falcon Lawn & Aerating",
+    "wof:parent_id":85820061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lawn",
+        "maintenance",
+        "grounds"
+    ]
+},
+  "bbox": [
+    -95.95817,
+    41.067801,
+    -95.95817,
+    41.067801
+],
+  "geometry": {"coordinates":[-95.95817,41.067801],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873654589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.635683,40.85877,-96.635683,40.85877",
+    "geom:latitude":40.85877,
+    "geom:longitude":-96.635683,
+    "iso:country":"US",
+    "sg:address":"4538 N 62nd St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 467 3002",
+    "sg:postcode":"68507",
+    "sg:province":"NE",
+    "sg:tags":[
+        "hall",
+        "auditorium"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85824241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7IAOdW2rnjYTWNccl5req2_40.858770_-96.635683@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295641,
+    "wof:geomhash":"d6145f3809bbaf8b614a2f4fdf4826ce",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85824241,
+            "region_id":85688563,
+            "venue_id":873654589
+        }
+    ],
+    "wof:id":873654589,
+    "wof:lastmodified":1464295641,
+    "wof:name":"Havelock Social Halls",
+    "wof:parent_id":85824241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hall",
+        "auditorium"
+    ]
+},
+  "bbox": [
+    -96.635683,
+    40.85877,
+    -96.635683,
+    40.85877
+],
+  "geometry": {"coordinates":[-96.635683,40.85877],"type":"Point"}
+}

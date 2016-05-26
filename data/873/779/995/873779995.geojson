@@ -1,0 +1,83 @@
+{
+  "id": 873779995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.127812,41.222644,-96.127812,41.222644",
+    "geom:latitude":41.222644,
+    "geom:longitude":-96.127812,
+    "iso:country":"US",
+    "sg:address":"3709 S 138th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 333 2590",
+    "sg:postcode":"68144",
+    "sg:province":"NE",
+    "sg:tags":[
+        "regulator",
+        "pressure",
+        "mfg",
+        "pneumatic",
+        "lubricator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872531,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6yLdRUv3ZLv9Xc2B95WHtT_41.222644_-96.127812@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297492,
+    "wof:geomhash":"e9cddb3d815fe6266517ca2a7a07a79c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872531,
+            "region_id":85688563,
+            "venue_id":873779995
+        }
+    ],
+    "wof:id":873779995,
+    "wof:lastmodified":1464297492,
+    "wof:name":"E M C Inc Engineering",
+    "wof:parent_id":85872531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "regulator",
+        "pressure",
+        "mfg",
+        "pneumatic",
+        "lubricator"
+    ]
+},
+  "bbox": [
+    -96.127812,
+    41.222644,
+    -96.127812,
+    41.222644
+],
+  "geometry": {"coordinates":[-96.12781200000001,41.222644],"type":"Point"}
+}

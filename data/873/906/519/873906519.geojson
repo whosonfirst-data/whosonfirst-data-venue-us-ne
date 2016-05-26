@@ -1,0 +1,75 @@
+{
+  "id": 873906519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.00031,41.237995,-96.00031,41.237995",
+    "geom:latitude":41.237995,
+    "geom:longitude":-96.00031,
+    "iso:country":"US",
+    "sg:address":"5604 Center St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 551 3447",
+    "sg:postcode":"68106",
+    "sg:province":"NE",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872513,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3vgV0dxpHDU2jBmZywcjlc_41.237995_-96.000310@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299949,
+    "wof:geomhash":"2108df4e06b8ca9eddc00b1e3f590c99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872513,
+            "region_id":85688563,
+            "venue_id":873906519
+        }
+    ],
+    "wof:id":873906519,
+    "wof:lastmodified":1464299949,
+    "wof:name":"Hertz Equipment Rental",
+    "wof:parent_id":85872513,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.00031,
+    41.237995,
+    -96.00031,
+    41.237995
+],
+  "geometry": {"coordinates":[-96.00031,41.237995],"type":"Point"}
+}

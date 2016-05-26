@@ -1,0 +1,73 @@
+{
+  "id": 873831007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.968617,41.172777,-95.968617,41.172777",
+    "geom:latitude":41.172777,
+    "geom:longitude":-95.968617,
+    "iso:country":"US",
+    "sg:address":"3710 Marie St",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 731 8637",
+    "sg:postcode":"68147",
+    "sg:province":"NE",
+    "sg:tags":[
+        "body",
+        "construction"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85821583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7D3BS8s9mQIY6TNEpJgf2q_41.172777_-95.968617@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298351,
+    "wof:geomhash":"4039ffc13b794d9ce626a941dc53355b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85821583,
+            "region_id":85688563,
+            "venue_id":873831007
+        }
+    ],
+    "wof:id":873831007,
+    "wof:lastmodified":1464298351,
+    "wof:name":"Cronican Enterprises",
+    "wof:parent_id":85821583,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "construction"
+    ]
+},
+  "bbox": [
+    -95.968617,
+    41.172777,
+    -95.968617,
+    41.172777
+],
+  "geometry": {"coordinates":[-95.96861699999999,41.172777],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 873707317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.359353,41.429344,-97.359353,41.429344",
+    "geom:latitude":41.429344,
+    "geom:longitude":-97.359353,
+    "iso:country":"US",
+    "sg:address":"2504 13th St",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Home Furnishings",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Home Furnishings",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 563 2894",
+    "sg:postcode":"68601",
+    "sg:province":"NE",
+    "sg:tags":[
+        "venetian",
+        "blind"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974401,
+        102084277,
+        85854093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3tJZRxCLOCrMXqKmmsZzrP_41.429344_-97.359353@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296487,
+    "wof:geomhash":"86128b6594fc4bdb0d80d0042a3b6942",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084277,
+            "locality_id":85974401,
+            "neighbourhood_id":85854093,
+            "region_id":85688563,
+            "venue_id":873707317
+        }
+    ],
+    "wof:id":873707317,
+    "wof:lastmodified":1464296487,
+    "wof:name":"Jolene's Interiors",
+    "wof:parent_id":85854093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "venetian",
+        "blind"
+    ]
+},
+  "bbox": [
+    -97.359353,
+    41.429344,
+    -97.359353,
+    41.429344
+],
+  "geometry": {"coordinates":[-97.359353,41.429344],"type":"Point"}
+}

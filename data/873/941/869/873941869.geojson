@@ -1,0 +1,77 @@
+{
+  "id": 873941869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.007013,41.298093,-96.007013,41.298093",
+    "geom:latitude":41.298093,
+    "geom:longitude":-96.007013,
+    "iso:country":"US",
+    "sg:address":"4109 N 61st St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 933 1795",
+    "sg:postcode":"68104",
+    "sg:province":"NE",
+    "sg:tags":[
+        "grading",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85805755,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4XjcolcAKjVFz8GX626Lyb_41.298093_-96.007013@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300765,
+    "wof:geomhash":"60d22992b3c8c63e6ad9d0c567a3169d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85805755,
+            "region_id":85688563,
+            "venue_id":873941869
+        }
+    ],
+    "wof:id":873941869,
+    "wof:lastmodified":1464300765,
+    "wof:name":"Hartle Grading Inc",
+    "wof:parent_id":85805755,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grading",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.007013,
+    41.298093,
+    -96.007013,
+    41.298093
+],
+  "geometry": {"coordinates":[-96.007013,41.298093],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 873964133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.710394,40.9007,-96.710394,40.9007",
+    "geom:latitude":40.9007,
+    "geom:longitude":-96.710394,
+    "iso:country":"US",
+    "sg:address":"100 McKelvie Rd",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 435 3003",
+    "sg:postcode":"68531",
+    "sg:province":"NE",
+    "sg:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4h2LU5RpBJ8VIfpcCLstQK_40.900700_-96.710394@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464301743,
+    "wof:geomhash":"705744eaa70d31dd98c9a41ac02b54ad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878687,
+            "region_id":85688563,
+            "venue_id":873964133
+        }
+    ],
+    "wof:id":873964133,
+    "wof:lastmodified":1464301743,
+    "wof:name":"Drift Wood Kennels",
+    "wof:parent_id":85878687,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -96.710394,
+    40.9007,
+    -96.710394,
+    40.9007
+],
+  "geometry": {"coordinates":[-96.71039399999999,40.9007],"type":"Point"}
+}

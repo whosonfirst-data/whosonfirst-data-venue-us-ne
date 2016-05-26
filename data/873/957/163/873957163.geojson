@@ -1,0 +1,73 @@
+{
+  "id": 873957163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.981515,41.140887,-95.981515,41.140887",
+    "geom:latitude":41.140887,
+    "geom:longitude":-95.981515,
+    "iso:country":"US",
+    "sg:address":"4403 Longview St",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 657 5179",
+    "sg:postcode":"68123",
+    "sg:province":"NE",
+    "sg:tags":[
+        "guard",
+        "patrol"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85821583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_19TTOhhyyxRa6AwAL91NoK_41.140887_-95.981515@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464301411,
+    "wof:geomhash":"72fdebc4095b8afbd27c0aa211930b59",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85821583,
+            "region_id":85688563,
+            "venue_id":873957163
+        }
+    ],
+    "wof:id":873957163,
+    "wof:lastmodified":1464301411,
+    "wof:name":"M & S Security",
+    "wof:parent_id":85821583,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "guard",
+        "patrol"
+    ]
+},
+  "bbox": [
+    -95.981515,
+    41.140887,
+    -95.981515,
+    41.140887
+],
+  "geometry": {"coordinates":[-95.981515,41.140887],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 873576611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.94753,41.159896,-95.94753,41.159896",
+    "geom:latitude":41.159896,
+    "geom:longitude":-95.94753,
+    "iso:country":"US",
+    "sg:address":"10209 S 25th St",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 291 1054",
+    "sg:postcode":"68123",
+    "sg:province":"NE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85821583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_72CeSfK5a0aCxaFMrF5F8l_41.159896_-95.947530@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294680,
+    "wof:geomhash":"72ef6d5c140ab30df07152ef379b5033",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85821583,
+            "region_id":85688563,
+            "venue_id":873576611
+        }
+    ],
+    "wof:id":873576611,
+    "wof:lastmodified":1464294680,
+    "wof:name":"Dgr Inc",
+    "wof:parent_id":85821583,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -95.94753,
+    41.159896,
+    -95.94753,
+    41.159896
+],
+  "geometry": {"coordinates":[-95.94753,41.159896],"type":"Point"}
+}

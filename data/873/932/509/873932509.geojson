@@ -1,0 +1,81 @@
+{
+  "id": 873932509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.978804,41.252487,-95.978804,41.252487",
+    "geom:latitude":41.252487,
+    "geom:longitude":-95.978804,
+    "iso:country":"US",
+    "sg:address":"4312 Leavenworth St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 556 8038",
+    "sg:postcode":"68105",
+    "sg:province":"NE",
+    "sg:tags":[
+        "air",
+        "heating",
+        "conditioning",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872523,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7TeJkuzNRIra3f7FAeAukx_41.252487_-95.978804@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300456,
+    "wof:geomhash":"61269b570b5f5df1d5a90f24e3006c26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872523,
+            "region_id":85688563,
+            "venue_id":873932509
+        }
+    ],
+    "wof:id":873932509,
+    "wof:lastmodified":1464300456,
+    "wof:name":"Sandhills Heating and Cooling",
+    "wof:parent_id":85872523,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "air",
+        "heating",
+        "conditioning",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -95.978804,
+    41.252487,
+    -95.978804,
+    41.252487
+],
+  "geometry": {"coordinates":[-95.978804,41.252487],"type":"Point"}
+}

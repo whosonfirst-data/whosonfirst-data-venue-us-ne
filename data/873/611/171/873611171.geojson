@@ -1,0 +1,71 @@
+{
+  "id": 873611171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.375574,41.438643,-97.375574,41.438643",
+    "geom:latitude":41.438643,
+    "geom:longitude":-97.375574,
+    "iso:country":"US",
+    "sg:address":"3915 23rd St",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 564 2868",
+    "sg:postcode":"68601",
+    "sg:province":"NE",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974401,
+        102084277,
+        85854093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2OTIUpmGXtUu5JoT9puDTf_41.438643_-97.375574@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295156,
+    "wof:geomhash":"a6d1809cae4a05fe16ef6082d75ce167",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084277,
+            "locality_id":85974401,
+            "neighbourhood_id":85854093,
+            "region_id":85688563,
+            "venue_id":873611171
+        }
+    ],
+    "wof:id":873611171,
+    "wof:lastmodified":1464295156,
+    "wof:name":"Freeway Muffler & Brakes",
+    "wof:parent_id":85854093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -97.375574,
+    41.438643,
+    -97.375574,
+    41.438643
+],
+  "geometry": {"coordinates":[-97.375574,41.438643],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873701561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.624497,40.8132,-96.624497,40.8132",
+    "geom:latitude":40.8132,
+    "geom:longitude":-96.624497,
+    "iso:country":"US",
+    "sg:address":"7045 O St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 484 8111",
+    "sg:postcode":"68510",
+    "sg:province":"NE",
+    "sg:website":"www.walgreens.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878725,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6nlJYk7whSs9OPsQEGZRgj_40.813200_-96.624497@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296421,
+    "wof:geomhash":"e1c9bb73dbc3e143addd7b753b23524b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878725,
+            "region_id":85688563,
+            "venue_id":873701561
+        }
+    ],
+    "wof:id":873701561,
+    "wof:lastmodified":1464296421,
+    "wof:name":"Walgreens",
+    "wof:parent_id":85878725,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.624497,
+    40.8132,
+    -96.624497,
+    40.8132
+],
+  "geometry": {"coordinates":[-96.62449700000001,40.8132],"type":"Point"}
+}

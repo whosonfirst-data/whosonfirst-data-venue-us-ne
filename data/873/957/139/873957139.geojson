@@ -1,0 +1,79 @@
+{
+  "id": 873957139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.121323,41.229345,-96.121323,41.229345",
+    "geom:latitude":41.229345,
+    "geom:longitude":-96.121323,
+    "iso:country":"US",
+    "sg:address":"3015 S 134th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Non-durable Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 333 7191",
+    "sg:postcode":"68144",
+    "sg:province":"NE",
+    "sg:tags":[
+        "retail",
+        "sales",
+        "direct"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872531,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1aGT7FMmXzWvJr5Zej7PDj_41.229345_-96.121323@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464301411,
+    "wof:geomhash":"3753d4c96afee866a17addd801d6c565",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872531,
+            "region_id":85688563,
+            "venue_id":873957139
+        }
+    ],
+    "wof:id":873957139,
+    "wof:lastmodified":1464301411,
+    "wof:name":"Maron Imports Inc",
+    "wof:parent_id":85872531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "retail",
+        "sales",
+        "direct"
+    ]
+},
+  "bbox": [
+    -96.121323,
+    41.229345,
+    -96.121323,
+    41.229345
+],
+  "geometry": {"coordinates":[-96.121323,41.229345],"type":"Point"}
+}

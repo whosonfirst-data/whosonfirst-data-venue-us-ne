@@ -1,0 +1,75 @@
+{
+  "id": 873864403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.697375,40.86337,-96.697375,40.86337",
+    "geom:latitude":40.86337,
+    "geom:longitude":-96.697375,
+    "iso:country":"US",
+    "sg:address":"1566 Prairie Ln",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 477 5102",
+    "sg:postcode":"68521",
+    "sg:province":"NE",
+    "sg:tags":[
+        "machine",
+        "vending",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3TVOcvBGCiasII4NEmXJcn_40.863370_-96.697375@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299126,
+    "wof:geomhash":"92e51086fbee83f8406816804997c53a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878687,
+            "region_id":85688563,
+            "venue_id":873864403
+        }
+    ],
+    "wof:id":873864403,
+    "wof:lastmodified":1464299126,
+    "wof:name":"Single Vend Co LLC",
+    "wof:parent_id":85878687,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "vending",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -96.697375,
+    40.86337,
+    -96.697375,
+    40.86337
+],
+  "geometry": {"coordinates":[-96.69737499999999,40.86337],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873813593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.698819,40.750099,-96.698819,40.750099",
+    "geom:latitude":40.750099,
+    "geom:longitude":-96.698819,
+    "iso:country":"US",
+    "sg:address":"1521 Old Farm Rd",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 420 6906",
+    "sg:postcode":"68512",
+    "sg:province":"NE",
+    "sg:tags":[
+        "datum"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_38yZxUdjgGHQ2sGINKtSIZ_40.750099_-96.698819@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297989,
+    "wof:geomhash":"58aa9512ce1db3e02ace2a1ff8571698",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878709,
+            "region_id":85688563,
+            "venue_id":873813593
+        }
+    ],
+    "wof:id":873813593,
+    "wof:lastmodified":1464297989,
+    "wof:name":"Julie Fahrlander",
+    "wof:parent_id":85878709,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "datum"
+    ]
+},
+  "bbox": [
+    -96.698819,
+    40.750099,
+    -96.698819,
+    40.750099
+],
+  "geometry": {"coordinates":[-96.698819,40.750099],"type":"Point"}
+}

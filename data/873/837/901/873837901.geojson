@@ -1,0 +1,71 @@
+{
+  "id": 873837901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.052655,41.313674,-96.052655,41.313674",
+    "geom:latitude":41.313674,
+    "geom:longitude":-96.052655,
+    "iso:country":"US",
+    "sg:address":"6130 Irvington Rd",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 571 6868",
+    "sg:postcode":"68134",
+    "sg:province":"NE",
+    "sg:tags":[
+        "truck",
+        "accessory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85872505,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1SwW9vd3w9kVaBBuxbpeE4_41.313674_-96.052655@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298503,
+    "wof:geomhash":"fd39b94f7915644433e1fe137f17e795",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":873837901
+        }
+    ],
+    "wof:id":873837901,
+    "wof:lastmodified":1464298503,
+    "wof:name":"Rhino Linings Of Omaha",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck",
+        "accessory"
+    ]
+},
+  "bbox": [
+    -96.052655,
+    41.313674,
+    -96.052655,
+    41.313674
+],
+  "geometry": {"coordinates":[-96.052655,41.313674],"type":"Point"}
+}

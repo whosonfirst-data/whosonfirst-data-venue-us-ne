@@ -1,0 +1,75 @@
+{
+  "id": 873881543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.119592,41.233405,-96.119592,41.233405",
+    "geom:latitude":41.233405,
+    "geom:longitude":-96.119592,
+    "iso:country":"US",
+    "sg:address":"2916 S 132nd St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 898 1111",
+    "sg:postcode":"68144",
+    "sg:province":"NE",
+    "sg:tags":[
+        "packaging"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872531,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ZyKk533GFQGaOY7nr4ug6_41.233405_-96.119592@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299461,
+    "wof:geomhash":"f472b160fd455f5b68b751307dc492cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872531,
+            "region_id":85688563,
+            "venue_id":873881543
+        }
+    ],
+    "wof:id":873881543,
+    "wof:lastmodified":1464299461,
+    "wof:name":"Postal Zone",
+    "wof:parent_id":85872531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "packaging"
+    ]
+},
+  "bbox": [
+    -96.119592,
+    41.233405,
+    -96.119592,
+    41.233405
+],
+  "geometry": {"coordinates":[-96.119592,41.233405],"type":"Point"}
+}

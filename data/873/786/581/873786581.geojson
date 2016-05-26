@@ -1,0 +1,79 @@
+{
+  "id": 873786581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.669736,40.812492,-96.669736,40.812492",
+    "geom:latitude":40.812492,
+    "geom:longitude":-96.669736,
+    "iso:country":"US",
+    "sg:address":"3323 N St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 432 6412",
+    "sg:postcode":"68510",
+    "sg:province":"NE",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878715,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ByAg0An8Z0Y6sroaZzgfe_40.812492_-96.669736@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297583,
+    "wof:geomhash":"176b09e508c16f67ecbdde21096e2eae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878715,
+            "region_id":85688563,
+            "venue_id":873786581
+        }
+    ],
+    "wof:id":873786581,
+    "wof:lastmodified":1464297583,
+    "wof:name":"Dent Masters",
+    "wof:parent_id":85878715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -96.669736,
+    40.812492,
+    -96.669736,
+    40.812492
+],
+  "geometry": {"coordinates":[-96.669736,40.812492],"type":"Point"}
+}

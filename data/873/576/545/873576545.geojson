@@ -1,0 +1,73 @@
+{
+  "id": 873576545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.046728,41.170315,-96.046728,41.170315",
+    "geom:latitude":41.170315,
+    "geom:longitude":-96.046728,
+    "iso:country":"US",
+    "sg:address":"1004 Limerick Rd",
+    "sg:city":"Papillion",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 597 3155",
+    "sg:postcode":"68046",
+    "sg:province":"NE",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85843697,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0d1Er8hjMtcVmOvMltoXm6_41.170315_-96.046728@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294679,
+    "wof:geomhash":"4ada686249cee751c17419f4ebc3b00a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85843697,
+            "region_id":85688563,
+            "venue_id":873576545
+        }
+    ],
+    "wof:id":873576545,
+    "wof:lastmodified":1464294679,
+    "wof:name":"MCS Trucking Inc",
+    "wof:parent_id":85843697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -96.046728,
+    41.170315,
+    -96.046728,
+    41.170315
+],
+  "geometry": {"coordinates":[-96.046728,41.170315],"type":"Point"}
+}

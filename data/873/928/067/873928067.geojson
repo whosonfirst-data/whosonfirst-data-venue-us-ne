@@ -1,0 +1,66 @@
+{
+  "id": 873928067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.624836,40.85796,-96.624836,40.85796",
+    "geom:latitude":40.85796,
+    "geom:longitude":-96.624836,
+    "iso:country":"US",
+    "sg:address":"4401 N 70th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 464 3828",
+    "sg:postcode":"68507",
+    "sg:province":"NE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85824241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3MmZHmxk1dZNwMeS7FYExx_40.857960_-96.624836@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300367,
+    "wof:geomhash":"157882899bb0ebef27ebe6f63179f161",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85824241,
+            "region_id":85688563,
+            "venue_id":873928067
+        }
+    ],
+    "wof:id":873928067,
+    "wof:lastmodified":1464300367,
+    "wof:name":"Ampride",
+    "wof:parent_id":85824241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.624836,
+    40.85796,
+    -96.624836,
+    40.85796
+],
+  "geometry": {"coordinates":[-96.624836,40.85796],"type":"Point"}
+}

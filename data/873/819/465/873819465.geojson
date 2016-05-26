@@ -1,0 +1,75 @@
+{
+  "id": 873819465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.654083,40.772832,-96.654083,40.772832",
+    "geom:latitude":40.772832,
+    "geom:longitude":-96.654083,
+    "iso:country":"US",
+    "sg:address":"4703 Prescott Ave",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Tanning Parlor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 484 8311",
+    "sg:postcode":"68506",
+    "sg:province":"NE",
+    "sg:tags":[
+        "salon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85811821,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4QgkA3NMy4JJmdP6Gnh6oV_40.772832_-96.654083@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298108,
+    "wof:geomhash":"bbef92518eaa8c2547d1213f124c9141",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85811821,
+            "region_id":85688563,
+            "venue_id":873819465
+        }
+    ],
+    "wof:id":873819465,
+    "wof:lastmodified":1464298108,
+    "wof:name":"Tanning Zone",
+    "wof:parent_id":85811821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "salon"
+    ]
+},
+  "bbox": [
+    -96.654083,
+    40.772832,
+    -96.654083,
+    40.772832
+],
+  "geometry": {"coordinates":[-96.654083,40.772832],"type":"Point"}
+}

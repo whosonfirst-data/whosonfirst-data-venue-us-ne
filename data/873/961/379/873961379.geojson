@@ -1,0 +1,71 @@
+{
+  "id": 873961379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.926737,41.184004,-95.926737,41.184004",
+    "geom:latitude":41.184004,
+    "geom:longitude":-95.926737,
+    "iso:country":"US",
+    "sg:address":"2410 Chandler Rd E",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 502 3686",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "club"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85804025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_12liV1d1fwFM5BZ85y7Y8M_41.184004_-95.926737@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464301609,
+    "wof:geomhash":"0016565f83862927141650fdf94c6065",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85804025,
+            "region_id":85688563,
+            "venue_id":873961379
+        }
+    ],
+    "wof:id":873961379,
+    "wof:lastmodified":1464301609,
+    "wof:name":"Club Fear",
+    "wof:parent_id":85804025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club"
+    ]
+},
+  "bbox": [
+    -95.926737,
+    41.184004,
+    -95.926737,
+    41.184004
+],
+  "geometry": {"coordinates":[-95.926737,41.184004],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 873715865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.663282,40.79172,-96.663282,40.79172",
+    "geom:latitude":40.79172,
+    "geom:longitude":-96.663282,
+    "iso:country":"US",
+    "sg:address":"1919 S 40th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 489 1919",
+    "sg:postcode":"68506",
+    "sg:province":"NE",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892213,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1JccfljbOeZvG7Ycj1WMDp_40.791720_-96.663282@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296591,
+    "wof:geomhash":"456da2923723f0c99824bc06301f4c6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85892213,
+            "region_id":85688563,
+            "venue_id":873715865
+        }
+    ],
+    "wof:id":873715865,
+    "wof:lastmodified":1464296591,
+    "wof:name":"Priarie View Hematolgy Oncolgy",
+    "wof:parent_id":85892213,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -96.663282,
+    40.79172,
+    -96.663282,
+    40.79172
+],
+  "geometry": {"coordinates":[-96.663282,40.79172],"type":"Point"}
+}

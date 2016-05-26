@@ -1,0 +1,71 @@
+{
+  "id": 873807515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.595752,40.726254,-96.595752,40.726254",
+    "geom:latitude":40.726254,
+    "geom:longitude":-96.595752,
+    "iso:country":"US",
+    "sg:address":"9131 1st St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Fruits & Vegetables",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 421 1922",
+    "sg:postcode":"68526",
+    "sg:province":"NE",
+    "sg:tags":[
+        "produce"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2iAiuuazZqyEGs4zwigTzO_40.726254_-96.595752@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297880,
+    "wof:geomhash":"d0ed89198f10e289a41c96e49227c4f5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878685,
+            "region_id":85688563,
+            "venue_id":873807515
+        }
+    ],
+    "wof:id":873807515,
+    "wof:lastmodified":1464297880,
+    "wof:name":"Saxton's Fruit Stand",
+    "wof:parent_id":85878685,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "produce"
+    ]
+},
+  "bbox": [
+    -96.595752,
+    40.726254,
+    -96.595752,
+    40.726254
+],
+  "geometry": {"coordinates":[-96.595752,40.726254],"type":"Point"}
+}

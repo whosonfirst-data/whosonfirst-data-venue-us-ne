@@ -1,0 +1,73 @@
+{
+  "id": 873904605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.040135,41.156343,-96.040135,41.156343",
+    "geom:latitude":41.156343,
+    "geom:longitude":-96.040135,
+    "iso:country":"US",
+    "sg:address":"309 E 1st St",
+    "sg:city":"Papillion",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 331 7143",
+    "sg:postcode":"68046",
+    "sg:province":"NE",
+    "sg:tags":[
+        "cleaners",
+        "rug",
+        "carpet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85843697,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0TPHF9CfMPqixoK3O3EAa5_41.156343_-96.040135@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299910,
+    "wof:geomhash":"f6d28b2b1231121aeda898e0987141d6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85843697,
+            "region_id":85688563,
+            "venue_id":873904605
+        }
+    ],
+    "wof:id":873904605,
+    "wof:lastmodified":1464299910,
+    "wof:name":"Palmer's Carpet & Upholstery",
+    "wof:parent_id":85843697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners",
+        "rug",
+        "carpet"
+    ]
+},
+  "bbox": [
+    -96.040135,
+    41.156343,
+    -96.040135,
+    41.156343
+],
+  "geometry": {"coordinates":[-96.04013500000001,41.156343],"type":"Point"}
+}

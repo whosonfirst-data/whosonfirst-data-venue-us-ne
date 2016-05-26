@@ -1,0 +1,71 @@
+{
+  "id": 873924647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.087613,41.17629,-96.087613,41.17629",
+    "geom:latitude":41.17629,
+    "geom:longitude":-96.087613,
+    "iso:country":"US",
+    "sg:address":"11201 Giles Rd",
+    "sg:city":"La Vista",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Discount & Variety Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 339 9151",
+    "sg:postcode":"68128",
+    "sg:province":"NE",
+    "sg:tags":[
+        "post",
+        "trading"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85843697,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5DKGtFoASSkBMhIK0lQyta_41.176290_-96.087613@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300299,
+    "wof:geomhash":"894249ce613d2e413d1734698162a8fe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85843697,
+            "region_id":85688563,
+            "venue_id":873924647
+        }
+    ],
+    "wof:id":873924647,
+    "wof:lastmodified":1464300299,
+    "wof:name":"Oriental Trading",
+    "wof:parent_id":85843697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "post",
+        "trading"
+    ]
+},
+  "bbox": [
+    -96.087613,
+    41.17629,
+    -96.087613,
+    41.17629
+],
+  "geometry": {"coordinates":[-96.087613,41.17629],"type":"Point"}
+}

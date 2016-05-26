@@ -1,0 +1,71 @@
+{
+  "id": 873860151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.696977,40.736156,-96.696977,40.736156",
+    "geom:latitude":40.736156,
+    "geom:longitude":-96.696977,
+    "iso:country":"US",
+    "sg:address":"1705 Garret Ln",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 416 4444",
+    "sg:postcode":"68512",
+    "sg:province":"NE",
+    "sg:tags":[
+        "counselor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_57zeTeo2GPoib9vZQFp8qg_40.736156_-96.696977@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299023,
+    "wof:geomhash":"17ec5e344ac335ad39085d3a631e1354",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878709,
+            "region_id":85688563,
+            "venue_id":873860151
+        }
+    ],
+    "wof:id":873860151,
+    "wof:lastmodified":1464299023,
+    "wof:name":"Jennifer L Wall Ms",
+    "wof:parent_id":85878709,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "counselor"
+    ]
+},
+  "bbox": [
+    -96.696977,
+    40.736156,
+    -96.696977,
+    40.736156
+],
+  "geometry": {"coordinates":[-96.696977,40.736156],"type":"Point"}
+}

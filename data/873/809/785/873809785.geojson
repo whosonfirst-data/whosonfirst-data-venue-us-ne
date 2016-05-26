@@ -1,0 +1,75 @@
+{
+  "id": 873809785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.151611,41.26037,-96.151611,41.26037",
+    "geom:latitude":41.26037,
+    "geom:longitude":-96.151611,
+    "iso:country":"US",
+    "sg:address":"15211 Davenport Cir",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 691 0918",
+    "sg:postcode":"68154",
+    "sg:province":"NE",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85806957,
+        102191575,
+        404519987,
+        85633793,
+        85973479,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6mPpLLhPW9Ku7t6MuC9vmt_41.260370_-96.151611@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297923,
+    "wof:geomhash":"33d674d27587bd1a03039ad47b653ef0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404519987,
+            "locality_id":85973479,
+            "neighbourhood_id":85806957,
+            "region_id":85688563,
+            "venue_id":873809785
+        }
+    ],
+    "wof:id":873809785,
+    "wof:lastmodified":1464297923,
+    "wof:name":"Dale Products Cleaning",
+    "wof:parent_id":85806957,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -96.151611,
+    41.26037,
+    -96.151611,
+    41.26037
+],
+  "geometry": {"coordinates":[-96.151611,41.26037],"type":"Point"}
+}

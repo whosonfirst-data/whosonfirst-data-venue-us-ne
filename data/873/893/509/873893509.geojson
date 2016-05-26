@@ -1,0 +1,73 @@
+{
+  "id": 873893509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.776733,40.847523,-96.776733,40.847523",
+    "geom:latitude":40.847523,
+    "geom:longitude":-96.776733,
+    "iso:country":"US",
+    "sg:address":"3211 NW 39th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 470 2775",
+    "sg:postcode":"68524",
+    "sg:province":"NE",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6GFNsVjnpmwMqhn1CzzTV9_40.847523_-96.776733@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299697,
+    "wof:geomhash":"3c191f6bb1b066dc9e2cfad269a73eaf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878717,
+            "region_id":85688563,
+            "venue_id":873893509
+        }
+    ],
+    "wof:id":873893509,
+    "wof:lastmodified":1464299697,
+    "wof:name":"Watts Electric",
+    "wof:parent_id":85878717,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.776733,
+    40.847523,
+    -96.776733,
+    40.847523
+],
+  "geometry": {"coordinates":[-96.77673299999999,40.847523],"type":"Point"}
+}

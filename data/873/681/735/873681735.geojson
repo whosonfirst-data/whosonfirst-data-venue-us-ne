@@ -1,0 +1,71 @@
+{
+  "id": 873681735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.119705,41.302833,-96.119705,41.302833",
+    "geom:latitude":41.302833,
+    "geom:longitude":-96.119705,
+    "iso:country":"US",
+    "sg:address":"4710 N 132nd St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 493 2615",
+    "sg:postcode":"68164",
+    "sg:province":"NE",
+    "sg:tags":[
+        "excavating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85872505,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0C6eqpAxLiZgnVztgyuCoZ_41.302833_-96.119705@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296045,
+    "wof:geomhash":"6728125912a9de34b22b400dd99cdebb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":873681735
+        }
+    ],
+    "wof:id":873681735,
+    "wof:lastmodified":1464296045,
+    "wof:name":"Monroe Excavating & Grading",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.119705,
+    41.302833,
+    -96.119705,
+    41.302833
+],
+  "geometry": {"coordinates":[-96.119705,41.302833],"type":"Point"}
+}

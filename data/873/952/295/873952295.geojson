@@ -1,0 +1,71 @@
+{
+  "id": 873952295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.616334,40.791906,-96.616334,40.791906",
+    "geom:latitude":40.791906,
+    "geom:longitude":-96.616334,
+    "iso:country":"US",
+    "sg:address":"7525 S Hampton Rd",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 484 7796",
+    "sg:postcode":"68506",
+    "sg:province":"NE",
+    "sg:tags":[
+        "psychologist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2eg1hGf5fRgiPwFB868ToF_40.791906_-96.616334@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464301232,
+    "wof:geomhash":"79015f9aa2087d9fbb26ff23887d4161",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878697,
+            "region_id":85688563,
+            "venue_id":873952295
+        }
+    ],
+    "wof:id":873952295,
+    "wof:lastmodified":1464301232,
+    "wof:name":"John W Herdman PHD",
+    "wof:parent_id":85878697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "psychologist"
+    ]
+},
+  "bbox": [
+    -96.616334,
+    40.791906,
+    -96.616334,
+    40.791906
+],
+  "geometry": {"coordinates":[-96.61633399999999,40.791906],"type":"Point"}
+}

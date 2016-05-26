@@ -1,0 +1,73 @@
+{
+  "id": 873550621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.124377,41.184988,-96.124377,41.184988",
+    "geom:latitude":41.184988,
+    "geom:longitude":-96.124377,
+    "iso:country":"US",
+    "sg:address":"7608 S 135th Ave",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 896 1112",
+    "sg:postcode":"68138",
+    "sg:province":"NE",
+    "sg:tags":[
+        "cleaners",
+        "rug",
+        "carpet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85834285,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3YW1EA3TWeVOjiQOjUOK3j_41.184988_-96.124377@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294385,
+    "wof:geomhash":"451f810b168101e3a0f94c85af753252",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85834285,
+            "region_id":85688563,
+            "venue_id":873550621
+        }
+    ],
+    "wof:id":873550621,
+    "wof:lastmodified":1464294385,
+    "wof:name":"Adams Chem Dry",
+    "wof:parent_id":85834285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners",
+        "rug",
+        "carpet"
+    ]
+},
+  "bbox": [
+    -96.124377,
+    41.184988,
+    -96.124377,
+    41.184988
+],
+  "geometry": {"coordinates":[-96.124377,41.184988],"type":"Point"}
+}

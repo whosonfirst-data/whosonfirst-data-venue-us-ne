@@ -1,0 +1,77 @@
+{
+  "id": 873957657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.729527,40.844186,-96.729527,40.844186",
+    "geom:latitude":40.844186,
+    "geom:longitude":-96.729527,
+    "iso:country":"US",
+    "sg:address":"3125 NW 7th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 475 1714",
+    "sg:postcode":"68521",
+    "sg:province":"NE",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85855865,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Met54rHJakLF7pyOgsvmZ_40.844186_-96.729527@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464301428,
+    "wof:geomhash":"5303d359dfebc01ad596e825c137c889",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85855865,
+            "region_id":85688563,
+            "venue_id":873957657
+        }
+    ],
+    "wof:id":873957657,
+    "wof:lastmodified":1464301428,
+    "wof:name":"J&R Properties LLC",
+    "wof:parent_id":85855865,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -96.729527,
+    40.844186,
+    -96.729527,
+    40.844186
+],
+  "geometry": {"coordinates":[-96.729527,40.844186],"type":"Point"}
+}

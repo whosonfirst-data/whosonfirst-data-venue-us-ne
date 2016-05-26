@@ -1,0 +1,66 @@
+{
+  "id": 873944045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.893618,41.136973,-95.893618,41.136973",
+    "geom:latitude":41.136973,
+    "geom:longitude":-95.893618,
+    "iso:country":"US",
+    "sg:address":"2247 Franklin St",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 293 1144",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974747,
+        102082777,
+        85820061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6N6oQY38ilN3Na1TcyvXjN_41.136973_-95.893618@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300847,
+    "wof:geomhash":"0be176539a7f47497218898be733595f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974747,
+            "neighbourhood_id":85820061,
+            "region_id":85688563,
+            "venue_id":873944045
+        }
+    ],
+    "wof:id":873944045,
+    "wof:lastmodified":1464300847,
+    "wof:name":"Olde Towne Coin Laundry",
+    "wof:parent_id":85820061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -95.893618,
+    41.136973,
+    -95.893618,
+    41.136973
+],
+  "geometry": {"coordinates":[-95.893618,41.136973],"type":"Point"}
+}

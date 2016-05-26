@@ -1,0 +1,76 @@
+{
+  "id": 873945341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.154372,41.152461,-96.154372,41.152461",
+    "geom:latitude":41.152461,
+    "geom:longitude":-96.154372,
+    "iso:country":"US",
+    "sg:address":"10922 Sapp Brothers Dr",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 894 9300",
+    "sg:postcode":"68138",
+    "sg:province":"NE",
+    "sg:tags":[
+        "crane",
+        "derrick"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85834285,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_72mefPao7QEC5jVGVPcqbe_41.152461_-96.154372@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300894,
+    "wof:geomhash":"84ce5f7c81bf7e6ec56920e657b9d6f6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85834285,
+            "region_id":85688563,
+            "venue_id":873945341
+        }
+    ],
+    "wof:id":873945341,
+    "wof:lastmodified":1464300894,
+    "wof:name":"Aspen Equipment Co",
+    "wof:parent_id":85834285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crane",
+        "derrick"
+    ]
+},
+  "bbox": [
+    -96.154372,
+    41.152461,
+    -96.154372,
+    41.152461
+],
+  "geometry": {"coordinates":[-96.154372,41.152461],"type":"Point"}
+}

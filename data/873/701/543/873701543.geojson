@@ -1,0 +1,73 @@
+{
+  "id": 873701543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.925293,41.170486,-95.925293,41.170486",
+    "geom:latitude":41.170486,
+    "geom:longitude":-95.925293,
+    "iso:country":"US",
+    "sg:address":"613 Fort Crook Rd N",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 731 1311",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85804025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5gS9z74xoRpSB4SKrDW19N_41.170486_-95.925293@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296420,
+    "wof:geomhash":"a4d13e522ca20903a8a709777447793a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85804025,
+            "region_id":85688563,
+            "venue_id":873701543
+        }
+    ],
+    "wof:id":873701543,
+    "wof:lastmodified":1464296420,
+    "wof:name":"Zip Car Wash",
+    "wof:parent_id":85804025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [
+    -95.925293,
+    41.170486,
+    -95.925293,
+    41.170486
+],
+  "geometry": {"coordinates":[-95.925293,41.170486],"type":"Point"}
+}

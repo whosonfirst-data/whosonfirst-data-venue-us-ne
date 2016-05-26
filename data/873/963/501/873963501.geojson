@@ -1,0 +1,75 @@
+{
+  "id": 873963501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.061789,41.216152,-96.061789,41.216152",
+    "geom:latitude":41.216152,
+    "geom:longitude":-96.061789,
+    "iso:country":"US",
+    "sg:address":"9505 I St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 331 0275",
+    "sg:postcode":"68127",
+    "sg:province":"NE",
+    "sg:tags":[
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872511,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4tkXkPxSKJSbIez9drFkwe_41.216152_-96.061789@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464301715,
+    "wof:geomhash":"c858425ddfffb70583f4a34721ecaa2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872511,
+            "region_id":85688563,
+            "venue_id":873963501
+        }
+    ],
+    "wof:id":873963501,
+    "wof:lastmodified":1464301715,
+    "wof:name":"Optimus Corporation",
+    "wof:parent_id":85872511,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg"
+    ]
+},
+  "bbox": [
+    -96.061789,
+    41.216152,
+    -96.061789,
+    41.216152
+],
+  "geometry": {"coordinates":[-96.061789,41.216152],"type":"Point"}
+}

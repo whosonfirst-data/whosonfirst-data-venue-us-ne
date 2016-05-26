@@ -1,0 +1,73 @@
+{
+  "id": 873885975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.62333,40.788517,-96.62333,40.788517",
+    "geom:latitude":40.788517,
+    "geom:longitude":-96.62333,
+    "iso:country":"US",
+    "sg:address":"7200 Old Post Rd",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 483 7531",
+    "sg:postcode":"68506",
+    "sg:province":"NE",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_64tGGCDANDEVJdXMyo3Rmk_40.788517_-96.623330@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299556,
+    "wof:geomhash":"2b29b203baef8803f00247f3ee3bcc00",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878697,
+            "region_id":85688563,
+            "venue_id":873885975
+        }
+    ],
+    "wof:id":873885975,
+    "wof:lastmodified":1464299556,
+    "wof:name":"Lincoln Child & Adolescent",
+    "wof:parent_id":85878697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -96.62333,
+    40.788517,
+    -96.62333,
+    40.788517
+],
+  "geometry": {"coordinates":[-96.62333,40.788517],"type":"Point"}
+}

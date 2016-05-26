@@ -1,0 +1,77 @@
+{
+  "id": 873594691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.052525,41.29655,-96.052525,41.29655",
+    "geom:latitude":41.29655,
+    "geom:longitude":-96.052525,
+    "iso:country":"US",
+    "sg:address":"4225 N 90th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 595 3089",
+    "sg:postcode":"68134",
+    "sg:province":"NE",
+    "sg:tags":[
+        "state",
+        "taxation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867061,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0tYmFeb2766wbcVECzST5h_41.296550_-96.052525@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294898,
+    "wof:geomhash":"7eee1e54d8422c27fd14a72698975f1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85867061,
+            "region_id":85688563,
+            "venue_id":873594691
+        }
+    ],
+    "wof:id":873594691,
+    "wof:lastmodified":1464294898,
+    "wof:name":"Employer UI Tax Svc",
+    "wof:parent_id":85867061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "taxation"
+    ]
+},
+  "bbox": [
+    -96.052525,
+    41.29655,
+    -96.052525,
+    41.29655
+],
+  "geometry": {"coordinates":[-96.052525,41.29655],"type":"Point"}
+}

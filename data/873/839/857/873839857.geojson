@@ -1,0 +1,73 @@
+{
+  "id": 873839857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.121679,41.176196,-96.121679,41.176196",
+    "geom:latitude":41.176196,
+    "geom:longitude":-96.121679,
+    "iso:country":"US",
+    "sg:address":"13412 Giles Rd",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 896 1319",
+    "sg:postcode":"68138",
+    "sg:province":"NE",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85834285,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6J8UntoPbYKVtmnoet93jX_41.176196_-96.121679@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298549,
+    "wof:geomhash":"855583e1c61c0a8049c7717d7c1e0bad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85834285,
+            "region_id":85688563,
+            "venue_id":873839857
+        }
+    ],
+    "wof:id":873839857,
+    "wof:lastmodified":1464298549,
+    "wof:name":"R/T Body & Paint",
+    "wof:parent_id":85834285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -96.121679,
+    41.176196,
+    -96.121679,
+    41.176196
+],
+  "geometry": {"coordinates":[-96.121679,41.176196],"type":"Point"}
+}

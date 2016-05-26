@@ -1,0 +1,72 @@
+{
+  "id": 873787693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.635277,40.893087,-96.635277,40.893087",
+    "geom:latitude":40.893087,
+    "geom:longitude":-96.635277,
+    "iso:country":"US",
+    "sg:address":"5800 Arbor Rd",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 464 5100",
+    "sg:postcode":"68517",
+    "sg:province":"NE",
+    "sg:tags":[
+        "antique"
+    ],
+    "sg:website":"www.aardvarkmall.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85824241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4wOk6aeWDNS97uGB3vXRBb_40.893087_-96.635277@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297606,
+    "wof:geomhash":"6acead2383aefaa17c0328c3e2eea40c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85824241,
+            "region_id":85688563,
+            "venue_id":873787693
+        }
+    ],
+    "wof:id":873787693,
+    "wof:lastmodified":1464297606,
+    "wof:name":"Aardvark Antique Mall",
+    "wof:parent_id":85824241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "antique"
+    ]
+},
+  "bbox": [
+    -96.635277,
+    40.893087,
+    -96.635277,
+    40.893087
+],
+  "geometry": {"coordinates":[-96.635277,40.893087],"type":"Point"}
+}

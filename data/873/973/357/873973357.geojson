@@ -1,0 +1,80 @@
+{
+  "id": 873973357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.959297,41.331902,-95.959297,41.331902",
+    "geom:latitude":41.331902,
+    "geom:longitude":-95.959297,
+    "iso:country":"US",
+    "sg:address":"7909 N 30th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 280 4780",
+    "sg:postcode":"68112",
+    "sg:province":"NE",
+    "sg:tags":[
+        "medical",
+        "practice",
+        "family"
+    ],
+    "sg:website":"cma.creighton.edu",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85805287,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5vHRpBZc9O1bBqez3pBft9_41.332438_-95.959242@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464302121,
+    "wof:geomhash":"370d229520781639c86af384c3a02723",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85805287,
+            "region_id":85688563,
+            "venue_id":873973357
+        }
+    ],
+    "wof:id":873973357,
+    "wof:lastmodified":1464302121,
+    "wof:name":"McStay Lou Ann MD",
+    "wof:parent_id":85805287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical",
+        "practice",
+        "family"
+    ]
+},
+  "bbox": [
+    -95.959297,
+    41.331902,
+    -95.959297,
+    41.331902
+],
+  "geometry": {"coordinates":[-95.95929700000001,41.331902],"type":"Point"}
+}

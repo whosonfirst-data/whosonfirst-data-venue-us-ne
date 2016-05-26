@@ -1,0 +1,77 @@
+{
+  "id": 873680091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.642368,40.789083,-96.642368,40.789083",
+    "geom:latitude":40.789083,
+    "geom:longitude":-96.642368,
+    "iso:country":"US",
+    "sg:address":"5665 Glade Cir",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 483 6488",
+    "sg:postcode":"68506",
+    "sg:province":"NE",
+    "sg:tags":[
+        "home",
+        "care"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85811821,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5SXql3QnUgrXCJjeuMwDwm_40.789083_-96.642368@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295999,
+    "wof:geomhash":"02f7896055644b6fce0430efa90e552c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85811821,
+            "region_id":85688563,
+            "venue_id":873680091
+        }
+    ],
+    "wof:id":873680091,
+    "wof:lastmodified":1464295999,
+    "wof:name":"Housecalls Phlebotomy LLC",
+    "wof:parent_id":85811821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "care"
+    ]
+},
+  "bbox": [
+    -96.642368,
+    40.789083,
+    -96.642368,
+    40.789083
+],
+  "geometry": {"coordinates":[-96.642368,40.789083],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 873977761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.021229,41.249152,-96.021229,41.249152",
+    "geom:latitude":41.249152,
+    "geom:longitude":-96.021229,
+    "iso:country":"US",
+    "sg:address":"6920 Pacific St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ne/omaha/9909-caniglias-venice-inn/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 333 3663",
+    "sg:postcode":"68106",
+    "sg:province":"NE",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867059,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5eCBu5HXGuHghX34hGtqMy_41.248845_-96.021581@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464302288,
+    "wof:geomhash":"84ed4317f21d921e9ea9df939de468a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85867059,
+            "region_id":85688563,
+            "venue_id":873977761
+        }
+    ],
+    "wof:id":873977761,
+    "wof:lastmodified":1464302288,
+    "wof:name":"Caniglia's Venice Inn",
+    "wof:parent_id":85867059,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -96.021229,
+    41.249152,
+    -96.021229,
+    41.249152
+],
+  "geometry": {"coordinates":[-96.02122900000001,41.249152],"type":"Point"}
+}

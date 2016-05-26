@@ -1,0 +1,75 @@
+{
+  "id": 873770093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.651361,40.800342,-96.651361,40.800342",
+    "geom:latitude":40.800342,
+    "geom:longitude":-96.651361,
+    "iso:country":"US",
+    "sg:address":"1315 S 50th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 488 5567",
+    "sg:postcode":"68510",
+    "sg:province":"NE",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878683,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_17u1enUaKgnGcaUDQWoSIS_40.800342_-96.651361@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297367,
+    "wof:geomhash":"b3da6f1b402c2427b283426c89a60db7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878683,
+            "region_id":85688563,
+            "venue_id":873770093
+        }
+    ],
+    "wof:id":873770093,
+    "wof:lastmodified":1464297367,
+    "wof:name":"Classic Cuts",
+    "wof:parent_id":85878683,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -96.651361,
+    40.800342,
+    -96.651361,
+    40.800342
+],
+  "geometry": {"coordinates":[-96.65136099999999,40.800342],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 873918811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.138676,41.217466,-96.138676,41.217466",
+    "geom:latitude":41.217466,
+    "geom:longitude":-96.138676,
+    "iso:country":"US",
+    "sg:address":"4111 S 144th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 408 1000",
+    "sg:postcode":"68137",
+    "sg:province":"NE",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872531,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2tHL7xgvqKzpYEC6ymInXy_41.217466_-96.138676@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300191,
+    "wof:geomhash":"3a696ff9d3feccc3a7ec0dccdf3b1137",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872531,
+            "region_id":85688563,
+            "venue_id":873918811
+        }
+    ],
+    "wof:id":873918811,
+    "wof:lastmodified":1464300191,
+    "wof:name":"Superior Honda",
+    "wof:parent_id":85872531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -96.138676,
+    41.217466,
+    -96.138676,
+    41.217466
+],
+  "geometry": {"coordinates":[-96.138676,41.217466],"type":"Point"}
+}

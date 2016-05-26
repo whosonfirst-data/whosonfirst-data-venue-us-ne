@@ -1,0 +1,71 @@
+{
+  "id": 873626721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.623252,40.846815,-96.623252,40.846815",
+    "geom:latitude":40.846815,
+    "geom:longitude":-96.623252,
+    "iso:country":"US",
+    "sg:address":"7100 Hook Dr",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 465 8011",
+    "sg:postcode":"68507",
+    "sg:province":"NE",
+    "sg:tags":[
+        "advisory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85824241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_75dprqb4idhO4ka7NNp2iJ_40.846815_-96.623252@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295327,
+    "wof:geomhash":"92f786789c971f5595489938d692acc5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85824241,
+            "region_id":85688563,
+            "venue_id":873626721
+        }
+    ],
+    "wof:id":873626721,
+    "wof:lastmodified":1464295327,
+    "wof:name":"Acp Financial Inc",
+    "wof:parent_id":85824241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "advisory"
+    ]
+},
+  "bbox": [
+    -96.623252,
+    40.846815,
+    -96.623252,
+    40.846815
+],
+  "geometry": {"coordinates":[-96.62325199999999,40.846815],"type":"Point"}
+}

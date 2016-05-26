@@ -1,0 +1,69 @@
+{
+  "id": 873833047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.795379,40.799265,-96.795379,40.799265",
+    "geom:latitude":40.799265,
+    "geom:longitude":-96.795379,
+    "iso:country":"US",
+    "sg:address":"5400 W A St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 742 4241",
+    "sg:postcode":"68522",
+    "sg:province":"NE",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85813295,
+        102083503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2P9YNUQCMyHaJKUGvgnsaN_40.799265_-96.795379@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298403,
+    "wof:geomhash":"ae4e8b4e5e5a05543e8e138fe61a4ee4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "neighbourhood_id":85813295,
+            "region_id":85688563,
+            "venue_id":873833047
+        }
+    ],
+    "wof:id":873833047,
+    "wof:lastmodified":1464298403,
+    "wof:name":"A Better Way Cnstr & Roofg",
+    "wof:parent_id":85813295,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -96.795379,
+    40.799265,
+    -96.795379,
+    40.799265
+],
+  "geometry": {"coordinates":[-96.795379,40.799265],"type":"Point"}
+}

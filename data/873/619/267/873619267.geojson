@@ -1,0 +1,84 @@
+{
+  "id": 873619267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.973299,41.250155,-95.973299,41.250155",
+    "geom:latitude":41.250155,
+    "geom:longitude":-95.973299,
+    "iso:country":"US",
+    "sg:address":"915 S 40th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 348 0382",
+    "sg:postcode":"68105",
+    "sg:province":"NE",
+    "sg:tags":[
+        "fabricator",
+        "sheet",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872523,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7L8wyMYgAgymE8lisrWZKi_41.250155_-95.973299@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295243,
+    "wof:geomhash":"1e67ad662dd7b694af494f7988f1e042",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872523,
+            "region_id":85688563,
+            "venue_id":873619267
+        }
+    ],
+    "wof:id":873619267,
+    "wof:lastmodified":1464295243,
+    "wof:name":"Masters Sheet Metal Company",
+    "wof:parent_id":85872523,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fabricator",
+        "sheet",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -95.973299,
+    41.250155,
+    -95.973299,
+    41.250155
+],
+  "geometry": {"coordinates":[-95.973299,41.250155],"type":"Point"}
+}

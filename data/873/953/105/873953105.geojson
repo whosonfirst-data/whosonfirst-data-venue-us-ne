@@ -1,0 +1,71 @@
+{
+  "id": 873953105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.917625,41.151406,-95.917625,41.151406",
+    "geom:latitude":41.151406,
+    "geom:longitude":-95.917625,
+    "iso:country":"US",
+    "sg:address":"1013 Galvin Rd S",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 291 8010",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85821583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1CgBH1qZgEVWiuHHDCwVk7_41.151406_-95.917625@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464301271,
+    "wof:geomhash":"bd5607b18ce6edc0cfebfc645daba4b0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85821583,
+            "region_id":85688563,
+            "venue_id":873953105
+        }
+    ],
+    "wof:id":873953105,
+    "wof:lastmodified":1464301271,
+    "wof:name":"Kai's Hair Design",
+    "wof:parent_id":85821583,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -95.917625,
+    41.151406,
+    -95.917625,
+    41.151406
+],
+  "geometry": {"coordinates":[-95.917625,41.151406],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 873957927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.033763,41.314983,-96.033763,41.314983",
+    "geom:latitude":41.314983,
+    "geom:longitude":-96.033763,
+    "iso:country":"US",
+    "sg:address":"7872 Nebraska Ave",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 572 5370",
+    "sg:postcode":"68134",
+    "sg:province":"NE",
+    "sg:tags":[
+        "business"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85872505,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_075SiUOBMkkcJj5iiZ4kjc_41.314983_-96.033763@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464301441,
+    "wof:geomhash":"07fc0429bee41406efb0bdd11d2ba820",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":873957927
+        }
+    ],
+    "wof:id":873957927,
+    "wof:lastmodified":1464301441,
+    "wof:name":"PS Balloons and Parties",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "business"
+    ]
+},
+  "bbox": [
+    -96.033763,
+    41.314983,
+    -96.033763,
+    41.314983
+],
+  "geometry": {"coordinates":[-96.03376299999999,41.314983],"type":"Point"}
+}

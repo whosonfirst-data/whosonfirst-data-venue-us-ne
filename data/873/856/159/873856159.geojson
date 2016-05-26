@@ -1,0 +1,79 @@
+{
+  "id": 873856159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.671635,40.769858,-96.671635,40.769858",
+    "geom:latitude":40.769858,
+    "geom:longitude":-96.671635,
+    "iso:country":"US",
+    "sg:address":"3301 Pioneers Blvd",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 489 6170",
+    "sg:postcode":"68506",
+    "sg:province":"NE",
+    "sg:tags":[
+        "carwash",
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85811821,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1KnumIyHVrRDCQWYFeimrW_40.769858_-96.671635@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298937,
+    "wof:geomhash":"d81d9d9ad56207fbe5304c179d9705cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85811821,
+            "region_id":85688563,
+            "venue_id":873856159
+        }
+    ],
+    "wof:id":873856159,
+    "wof:lastmodified":1464298937,
+    "wof:name":"Buggy Bath Car Wash",
+    "wof:parent_id":85811821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash",
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -96.671635,
+    40.769858,
+    -96.671635,
+    40.769858
+],
+  "geometry": {"coordinates":[-96.67163499999999,40.769858],"type":"Point"}
+}

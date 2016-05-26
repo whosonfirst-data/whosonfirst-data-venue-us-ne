@@ -1,0 +1,72 @@
+{
+  "id": 873871621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.908867,41.164215,-95.908867,41.164215",
+    "geom:latitude":41.164215,
+    "geom:longitude":-95.908867,
+    "iso:country":"US",
+    "sg:address":"1102 Country Club Ct",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Golf",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 292 2500",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "course"
+    ],
+    "sg:website":"www.fontenellehills.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85804025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3yZAo4LWxtzgVPDIv8CkoG_41.164215_-95.908867@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299267,
+    "wof:geomhash":"d3ff084f5be8c61ea1a03486cb89df11",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85804025,
+            "region_id":85688563,
+            "venue_id":873871621
+        }
+    ],
+    "wof:id":873871621,
+    "wof:lastmodified":1464299267,
+    "wof:name":"Fontenelle Hills",
+    "wof:parent_id":85804025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "course"
+    ]
+},
+  "bbox": [
+    -95.908867,
+    41.164215,
+    -95.908867,
+    41.164215
+],
+  "geometry": {"coordinates":[-95.908867,41.164215],"type":"Point"}
+}

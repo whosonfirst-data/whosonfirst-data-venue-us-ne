@@ -1,0 +1,75 @@
+{
+  "id": 873647581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.011367,41.304397,-96.011367,41.304397",
+    "geom:latitude":41.304397,
+    "geom:longitude":-96.011367,
+    "iso:country":"US",
+    "sg:address":"5012 N 64th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 706 0789",
+    "sg:postcode":"68104",
+    "sg:province":"NE",
+    "sg:tags":[
+        "mover"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85805755,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5w0BnfgJ1OgHgJ3C92T4Co_41.304397_-96.011367@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295562,
+    "wof:geomhash":"5074e3894bb206520a68b9f2a37dea9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85805755,
+            "region_id":85688563,
+            "venue_id":873647581
+        }
+    ],
+    "wof:id":873647581,
+    "wof:lastmodified":1464295562,
+    "wof:name":"AAA Svc LLC",
+    "wof:parent_id":85805755,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mover"
+    ]
+},
+  "bbox": [
+    -96.011367,
+    41.304397,
+    -96.011367,
+    41.304397
+],
+  "geometry": {"coordinates":[-96.01136700000001,41.304397],"type":"Point"}
+}

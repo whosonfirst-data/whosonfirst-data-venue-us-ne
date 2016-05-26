@@ -1,0 +1,71 @@
+{
+  "id": 873812195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.9671,41.168451,-95.9671,41.168451",
+    "geom:latitude":41.168451,
+    "geom:longitude":-95.9671,
+    "iso:country":"US",
+    "sg:address":"8711 S 36th St",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 733 1018",
+    "sg:postcode":"68147",
+    "sg:province":"NE",
+    "sg:tags":[
+        "club"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85821583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ngKzY2LCTjs4sMvv5jboe_41.168451_-95.967100@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297965,
+    "wof:geomhash":"b0857e4c4d87df6985e6de143ca31e8a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85821583,
+            "region_id":85688563,
+            "venue_id":873812195
+        }
+    ],
+    "wof:id":873812195,
+    "wof:lastmodified":1464297965,
+    "wof:name":"Croatian Cultural Society",
+    "wof:parent_id":85821583,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club"
+    ]
+},
+  "bbox": [
+    -95.9671,
+    41.168451,
+    -95.9671,
+    41.168451
+],
+  "geometry": {"coordinates":[-95.9671,41.168451],"type":"Point"}
+}

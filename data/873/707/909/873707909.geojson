@@ -1,0 +1,75 @@
+{
+  "id": 873707909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.155521,41.257838,-96.155521,41.257838",
+    "geom:latitude":41.257838,
+    "geom:longitude":-96.155521,
+    "iso:country":"US",
+    "sg:address":"15423 Douglas Cir",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 333 9518",
+    "sg:postcode":"68154",
+    "sg:province":"NE",
+    "sg:tags":[
+        "appraiser"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85806957,
+        102191575,
+        404519987,
+        85633793,
+        85973479,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_70qORQp83MX2mIHfuiNzVs_41.257838_-96.155521@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296494,
+    "wof:geomhash":"07b088d2dbe0ae898d35f742315d1573",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404519987,
+            "locality_id":85973479,
+            "neighbourhood_id":85806957,
+            "region_id":85688563,
+            "venue_id":873707909
+        }
+    ],
+    "wof:id":873707909,
+    "wof:lastmodified":1464296494,
+    "wof:name":"Renner Appraisal Svc",
+    "wof:parent_id":85806957,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appraiser"
+    ]
+},
+  "bbox": [
+    -96.155521,
+    41.257838,
+    -96.155521,
+    41.257838
+],
+  "geometry": {"coordinates":[-96.15552099999999,41.257838],"type":"Point"}
+}

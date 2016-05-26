@@ -1,0 +1,70 @@
+{
+  "id": 873965831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.239003,41.144861,-96.239003,41.144861",
+    "geom:latitude":41.144861,
+    "geom:longitude":-96.239003,
+    "iso:country":"US",
+    "sg:address":"700 US Hwy 6",
+    "sg:city":"Gretna",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Job Training",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 332 3446",
+    "sg:postcode":"68028",
+    "sg:province":"NE",
+    "sg:tags":[
+        "rehabilitation"
+    ],
+    "sg:website":"www.5sqc.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85834285,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0RHTTSXPfySTF1dsz2mLog_41.144861_-96.239003@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464301834,
+    "wof:geomhash":"8df43fd57cbfeb48abcd27db96c0d11a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85834285,
+            "region_id":85688563,
+            "venue_id":873965831
+        }
+    ],
+    "wof:id":873965831,
+    "wof:lastmodified":1464301834,
+    "wof:name":"Gretna Community Living Ctr",
+    "wof:parent_id":85834285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "rehabilitation"
+    ]
+},
+  "bbox": [
+    -96.239003,
+    41.144861,
+    -96.239003,
+    41.144861
+],
+  "geometry": {"coordinates":[-96.239003,41.144861],"type":"Point"}
+}

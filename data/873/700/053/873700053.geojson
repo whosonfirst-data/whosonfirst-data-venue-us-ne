@@ -1,0 +1,74 @@
+{
+  "id": 873700053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.681864,40.863329,-96.681864,40.863329",
+    "geom:latitude":40.863329,
+    "geom:longitude":-96.681864,
+    "iso:country":"US",
+    "sg:address":"5200 N 27th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 438 1133",
+    "sg:postcode":"68521",
+    "sg:province":"NE",
+    "sg:tags":[
+        "pet",
+        "shop"
+    ],
+    "sg:website":"www.petsmart.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7NtC23M86FWBqiMoElmV1p_40.863329_-96.681864@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296407,
+    "wof:geomhash":"b07886d8641c02bdaa3ffe4c9395731e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878687,
+            "region_id":85688563,
+            "venue_id":873700053
+        }
+    ],
+    "wof:id":873700053,
+    "wof:lastmodified":1464296407,
+    "wof:name":"Petsmart",
+    "wof:parent_id":85878687,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "shop"
+    ]
+},
+  "bbox": [
+    -96.681864,
+    40.863329,
+    -96.681864,
+    40.863329
+],
+  "geometry": {"coordinates":[-96.681864,40.863329],"type":"Point"}
+}

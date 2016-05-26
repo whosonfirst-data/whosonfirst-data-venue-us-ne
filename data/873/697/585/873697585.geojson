@@ -1,0 +1,77 @@
+{
+  "id": 873697585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.192979,41.128513,-96.192979,41.128513",
+    "geom:latitude":41.128513,
+    "geom:longitude":-96.192979,
+    "iso:country":"US",
+    "sg:address":"12102 S 178th St",
+    "sg:city":"Gretna",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 677 2078",
+    "sg:postcode":"68028",
+    "sg:province":"NE",
+    "sg:tags":[
+        "plumbing",
+        "air",
+        "heating",
+        "conditioning",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85834285,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5JFXhJxLT0hvplQe7LZxxq_41.128513_-96.192979@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296380,
+    "wof:geomhash":"97ebfed3d569cee785ca35ffe08d2ec1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85834285,
+            "region_id":85688563,
+            "venue_id":873697585
+        }
+    ],
+    "wof:id":873697585,
+    "wof:lastmodified":1464296380,
+    "wof:name":"Gentle Air Inc",
+    "wof:parent_id":85834285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "air",
+        "heating",
+        "conditioning",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.192979,
+    41.128513,
+    -96.192979,
+    41.128513
+],
+  "geometry": {"coordinates":[-96.19297899999999,41.128513],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873756431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.054218,41.316911,-96.054218,41.316911",
+    "geom:latitude":41.316911,
+    "geom:longitude":-96.054218,
+    "iso:country":"US",
+    "sg:address":"6536 N 91st Plz",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 571 9577",
+    "sg:postcode":"68134",
+    "sg:province":"NE",
+    "sg:tags":[
+        "dry wall",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85872505,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6EFO89rh72Sf0O0Q6KwTng_41.316911_-96.054218@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297162,
+    "wof:geomhash":"294886838e89dbcc7c9de59b1371cac9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":873756431
+        }
+    ],
+    "wof:id":873756431,
+    "wof:lastmodified":1464297162,
+    "wof:name":"Anderson Drywall Inc",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dry wall",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.054218,
+    41.316911,
+    -96.054218,
+    41.316911
+],
+  "geometry": {"coordinates":[-96.05421800000001,41.316911],"type":"Point"}
+}

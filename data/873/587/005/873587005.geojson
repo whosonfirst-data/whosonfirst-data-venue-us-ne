@@ -1,0 +1,73 @@
+{
+  "id": 873587005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.049585,41.310709,-96.049585,41.310709",
+    "geom:latitude":41.310709,
+    "geom:longitude":-96.049585,
+    "iso:country":"US",
+    "sg:address":"8804 Military Rd",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 572 9327",
+    "sg:postcode":"68134",
+    "sg:province":"NE",
+    "sg:tags":[
+        "hanging",
+        "painter",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85872505,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2pnzOF7d0EEZZt0wDH2CpD_41.310709_-96.049585@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294797,
+    "wof:geomhash":"04771904cbcef8fcff0d2950bb38924b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":873587005
+        }
+    ],
+    "wof:id":873587005,
+    "wof:lastmodified":1464294797,
+    "wof:name":"Murcek Brothers Painting",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "painter",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.049585,
+    41.310709,
+    -96.049585,
+    41.310709
+],
+  "geometry": {"coordinates":[-96.04958499999999,41.310709],"type":"Point"}
+}

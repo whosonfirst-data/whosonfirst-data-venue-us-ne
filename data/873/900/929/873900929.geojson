@@ -1,0 +1,71 @@
+{
+  "id": 873900929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.366842,41.438873,-97.366842,41.438873",
+    "geom:latitude":41.438873,
+    "geom:longitude":-97.366842,
+    "iso:country":"US",
+    "sg:address":"2456 32nd Ave",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 564 0383",
+    "sg:postcode":"68601",
+    "sg:province":"NE",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974401,
+        102084277,
+        85854093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Q77D9q8x24YLukaWvS27q_41.438873_-97.366842@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299834,
+    "wof:geomhash":"828ec996ff8390bf63dbc093ce96730f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084277,
+            "locality_id":85974401,
+            "neighbourhood_id":85854093,
+            "region_id":85688563,
+            "venue_id":873900929
+        }
+    ],
+    "wof:id":873900929,
+    "wof:lastmodified":1464299834,
+    "wof:name":"Expressions",
+    "wof:parent_id":85854093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -97.366842,
+    41.438873,
+    -97.366842,
+    41.438873
+],
+  "geometry": {"coordinates":[-97.36684200000001,41.438873],"type":"Point"}
+}

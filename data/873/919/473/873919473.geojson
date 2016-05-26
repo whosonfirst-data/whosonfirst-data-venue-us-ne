@@ -1,0 +1,75 @@
+{
+  "id": 873919473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.720521,40.798341,-96.720521,40.798341",
+    "geom:latitude":40.798341,
+    "geom:longitude":-96.720521,
+    "iso:country":"US",
+    "sg:address":"1510 S 1st St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 440 8106",
+    "sg:postcode":"68502",
+    "sg:province":"NE",
+    "sg:tags":[
+        "sharpening"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878737,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5GvSSDjYzaekhXPrIfgnhH_40.798341_-96.720521@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300203,
+    "wof:geomhash":"5f30ab69c21b774977ac17d5c2a6e3ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878737,
+            "region_id":85688563,
+            "venue_id":873919473
+        }
+    ],
+    "wof:id":873919473,
+    "wof:lastmodified":1464300203,
+    "wof:name":"U S Precision Grinding",
+    "wof:parent_id":85878737,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sharpening"
+    ]
+},
+  "bbox": [
+    -96.720521,
+    40.798341,
+    -96.720521,
+    40.798341
+],
+  "geometry": {"coordinates":[-96.72052100000001,40.798341],"type":"Point"}
+}

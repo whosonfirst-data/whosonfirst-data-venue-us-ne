@@ -1,0 +1,74 @@
+{
+  "id": 873977677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.917943,41.152153,-95.917943,41.152153",
+    "geom:latitude":41.152153,
+    "geom:longitude":-95.917943,
+    "iso:country":"US",
+    "sg:address":"923 Galvin Rd S",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ne/bellevue/81139-papa-johns-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 292 1230",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85821583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ssFeUTtFbrNQpzujttEAL_41.152425_-95.917959@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464302286,
+    "wof:geomhash":"b650242b4b73bda8c13ec111d55a79a5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85821583,
+            "region_id":85688563,
+            "venue_id":873977677
+        }
+    ],
+    "wof:id":873977677,
+    "wof:lastmodified":1464302286,
+    "wof:name":"Papa John's Pizza",
+    "wof:parent_id":85821583,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -95.917943,
+    41.152153,
+    -95.917943,
+    41.152153
+],
+  "geometry": {"coordinates":[-95.91794299999999,41.152153],"type":"Point"}
+}

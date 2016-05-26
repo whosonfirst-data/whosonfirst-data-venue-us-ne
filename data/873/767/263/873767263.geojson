@@ -1,0 +1,66 @@
+{
+  "id": 873767263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.591947,40.724654,-96.591947,40.724654",
+    "geom:latitude":40.724654,
+    "geom:longitude":-96.591947,
+    "iso:country":"US",
+    "sg:address":"1622 Lincoln St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Shoes",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 335 4522",
+    "sg:postcode":"68526",
+    "sg:province":"NE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_48Ulf79O87wgDFysrujGms_40.724654_-96.591947@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297328,
+    "wof:geomhash":"43f32c11e62e6f5f8524cc6e5cf7f2d4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878685,
+            "region_id":85688563,
+            "venue_id":873767263
+        }
+    ],
+    "wof:id":873767263,
+    "wof:lastmodified":1464297328,
+    "wof:name":"Famous Footwear",
+    "wof:parent_id":85878685,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.591947,
+    40.724654,
+    -96.591947,
+    40.724654
+],
+  "geometry": {"coordinates":[-96.591947,40.724654],"type":"Point"}
+}

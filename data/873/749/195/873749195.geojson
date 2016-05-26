@@ -1,0 +1,73 @@
+{
+  "id": 873749195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.651174,40.70061,-96.651174,40.70061",
+    "geom:latitude":40.70061,
+    "geom:longitude":-96.651174,
+    "iso:country":"US",
+    "sg:address":"5201 Braemer Rd",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 420 5558",
+    "sg:postcode":"68516",
+    "sg:province":"NE",
+    "sg:tags":[
+        "dry wall",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ePhO6RivdHwmFwCb1LiJn_40.700610_-96.651174@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297065,
+    "wof:geomhash":"80dfa48bcfc188be53437cc4b13250c2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878733,
+            "region_id":85688563,
+            "venue_id":873749195
+        }
+    ],
+    "wof:id":873749195,
+    "wof:lastmodified":1464297065,
+    "wof:name":"Cohawk New Horizons Drywall",
+    "wof:parent_id":85878733,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dry wall",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.651174,
+    40.70061,
+    -96.651174,
+    40.70061
+],
+  "geometry": {"coordinates":[-96.651174,40.70061],"type":"Point"}
+}

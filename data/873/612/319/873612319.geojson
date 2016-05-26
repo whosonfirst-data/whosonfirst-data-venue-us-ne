@@ -1,0 +1,75 @@
+{
+  "id": 873612319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.985355,41.234367,-95.985355,41.234367",
+    "geom:latitude":41.234367,
+    "geom:longitude":-95.985355,
+    "iso:country":"US",
+    "sg:address":"2317 S 48th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 551 4436",
+    "sg:postcode":"68106",
+    "sg:province":"NE",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872523,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0XDmS1pwrdidGOtHEqbYZN_41.234367_-95.985355@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295170,
+    "wof:geomhash":"d234503f5a1a6e23cc53024bd4459fcb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872523,
+            "region_id":85688563,
+            "venue_id":873612319
+        }
+    ],
+    "wof:id":873612319,
+    "wof:lastmodified":1464295170,
+    "wof:name":"Militti Windows & Siding",
+    "wof:parent_id":85872523,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -95.985355,
+    41.234367,
+    -95.985355,
+    41.234367
+],
+  "geometry": {"coordinates":[-95.985355,41.234367],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873754421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.052514,41.313021,-96.052514,41.313021",
+    "geom:latitude":41.313021,
+    "geom:longitude":-96.052514,
+    "iso:country":"US",
+    "sg:address":"5717 N 90th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 493 8717",
+    "sg:postcode":"68134",
+    "sg:province":"NE",
+    "sg:tags":[
+        "small",
+        "engine",
+        "sales"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85872505,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_52IdktEOCfAkRazbLZUnmF_41.313021_-96.052514@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297138,
+    "wof:geomhash":"7ce6bd3190bccae3a903583089acac03",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":873754421
+        }
+    ],
+    "wof:id":873754421,
+    "wof:lastmodified":1464297138,
+    "wof:name":"Little Engines",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "small",
+        "engine",
+        "sales"
+    ]
+},
+  "bbox": [
+    -96.052514,
+    41.313021,
+    -96.052514,
+    41.313021
+],
+  "geometry": {"coordinates":[-96.052514,41.313021],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 873671999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.121379,41.17613,-96.121379,41.17613",
+    "geom:latitude":41.17613,
+    "geom:longitude":-96.121379,
+    "iso:country":"US",
+    "sg:address":"13430 Giles Rd",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 895 8983",
+    "sg:postcode":"68138",
+    "sg:province":"NE",
+    "sg:tags":[
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85834285,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5LFQPW8SRoW9r5rem8wvAR_41.176130_-96.121379@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295821,
+    "wof:geomhash":"682f690c0ce8b2b45b00b8987582c125",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85834285,
+            "region_id":85688563,
+            "venue_id":873671999
+        }
+    ],
+    "wof:id":873671999,
+    "wof:lastmodified":1464295821,
+    "wof:name":"Landshire Sandwiches",
+    "wof:parent_id":85834285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -96.121379,
+    41.17613,
+    -96.121379,
+    41.17613
+],
+  "geometry": {"coordinates":[-96.121379,41.17613],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873620021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.726225,40.863168,-96.726225,40.863168",
+    "geom:latitude":40.863168,
+    "geom:longitude":-96.726225,
+    "iso:country":"US",
+    "sg:address":"5210 W Bedford St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 477 5275",
+    "sg:postcode":"68521",
+    "sg:province":"NE",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5yxOR6YbO3hYMDKUf3kREo_40.863168_-96.726225@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295250,
+    "wof:geomhash":"b6a068b6b0f5540ef69ff4f7416711cf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878717,
+            "region_id":85688563,
+            "venue_id":873620021
+        }
+    ],
+    "wof:id":873620021,
+    "wof:lastmodified":1464295250,
+    "wof:name":"Pioneer Builders Inc",
+    "wof:parent_id":85878717,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -96.726225,
+    40.863168,
+    -96.726225,
+    40.863168
+],
+  "geometry": {"coordinates":[-96.726225,40.863168],"type":"Point"}
+}

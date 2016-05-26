@@ -1,0 +1,80 @@
+{
+  "id": 873630105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.655051,40.851017,-96.655051,40.851017",
+    "geom:latitude":40.851017,
+    "geom:longitude":-96.655051,
+    "iso:country":"US",
+    "sg:address":"4538 Cornhusker Hwy",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 441 4820",
+    "sg:postcode":"68504",
+    "sg:province":"NE",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "sg:website":"www.tracysbodyshop.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85853163,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6DoEWlXSnG8nl7Py9CWFTc_40.851017_-96.655051@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295366,
+    "wof:geomhash":"7c2447f75861b562cb50829574b1d561",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85853163,
+            "region_id":85688563,
+            "venue_id":873630105
+        }
+    ],
+    "wof:id":873630105,
+    "wof:lastmodified":1464295366,
+    "wof:name":"Tracy's Auto Body Inc",
+    "wof:parent_id":85853163,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -96.655051,
+    40.851017,
+    -96.655051,
+    40.851017
+],
+  "geometry": {"coordinates":[-96.655051,40.851017],"type":"Point"}
+}

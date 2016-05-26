@@ -1,0 +1,71 @@
+{
+  "id": 873780313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.888269,41.140694,-95.888269,41.140694",
+    "geom:latitude":41.140694,
+    "geom:longitude":-95.888269,
+    "iso:country":"US",
+    "sg:address":"412 E 19th Ave",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 292 8144",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974747,
+        102082777,
+        85820061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0BCMW05NxIjraKYOwcTqZg_41.140694_-95.888269@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297497,
+    "wof:geomhash":"cdd9376debdda5af618c0e7dae20df73",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974747,
+            "neighbourhood_id":85820061,
+            "region_id":85688563,
+            "venue_id":873780313
+        }
+    ],
+    "wof:id":873780313,
+    "wof:lastmodified":1464297497,
+    "wof:name":"Kay Chalek Day Care",
+    "wof:parent_id":85820061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -95.888269,
+    41.140694,
+    -95.888269,
+    41.140694
+],
+  "geometry": {"coordinates":[-95.88826899999999,41.140694],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 873762341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.046067,41.31083,-96.046067,41.31083",
+    "geom:latitude":41.31083,
+    "geom:longitude":-96.046067,
+    "iso:country":"US",
+    "sg:address":"8505 Crown Point Ave",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 572 8080",
+    "sg:postcode":"68134",
+    "sg:province":"NE",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "sg:website":"www.greggyoungchevy.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85872505,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1uicvjuYi5nZINbT3k9HME_41.310830_-96.046067@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297245,
+    "wof:geomhash":"b51e22c8dd7cf88490bd44ec8dcb476b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":873762341
+        }
+    ],
+    "wof:id":873762341,
+    "wof:lastmodified":1464297245,
+    "wof:name":"Gregg Young Chevrolet Inc",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -96.046067,
+    41.31083,
+    -96.046067,
+    41.31083
+],
+  "geometry": {"coordinates":[-96.04606699999999,41.31083],"type":"Point"}
+}

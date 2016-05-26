@@ -1,0 +1,71 @@
+{
+  "id": 873736809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.046374,41.161772,-96.046374,41.161772",
+    "geom:latitude":41.161772,
+    "geom:longitude":-96.046374,
+    "iso:country":"US",
+    "sg:address":"499 W 6th St",
+    "sg:city":"Papillion",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 331 5829",
+    "sg:postcode":"68046",
+    "sg:province":"NE",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85843697,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_79zxLcJPb2UCDbewrUAlMn_41.161772_-96.046374@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296880,
+    "wof:geomhash":"9c78f799a496b9186c2eaea976023584",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85843697,
+            "region_id":85688563,
+            "venue_id":873736809
+        }
+    ],
+    "wof:id":873736809,
+    "wof:lastmodified":1464296880,
+    "wof:name":"Hamor's Import & USA AUTO",
+    "wof:parent_id":85843697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -96.046374,
+    41.161772,
+    -96.046374,
+    41.161772
+],
+  "geometry": {"coordinates":[-96.046374,41.161772],"type":"Point"}
+}

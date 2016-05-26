@@ -1,0 +1,73 @@
+{
+  "id": 873966013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.643383,40.881257,-96.643383,40.881257",
+    "geom:latitude":40.881257,
+    "geom:longitude":-96.643383,
+    "iso:country":"US",
+    "sg:address":"6510 N 56th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 464 1022",
+    "sg:postcode":"68504",
+    "sg:province":"NE",
+    "sg:tags":[
+        "disposal",
+        "garbage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85824241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ywP8YJOdCJ8myGteVBh5a_40.881257_-96.643383@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464301839,
+    "wof:geomhash":"d88d6493299d7d2faff0d3dccc88831a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85824241,
+            "region_id":85688563,
+            "venue_id":873966013
+        }
+    ],
+    "wof:id":873966013,
+    "wof:lastmodified":1464301839,
+    "wof:name":"MWC Containers",
+    "wof:parent_id":85824241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "disposal",
+        "garbage"
+    ]
+},
+  "bbox": [
+    -96.643383,
+    40.881257,
+    -96.643383,
+    40.881257
+],
+  "geometry": {"coordinates":[-96.643383,40.881257],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873934269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.906573,41.134515,-95.906573,41.134515",
+    "geom:latitude":41.134515,
+    "geom:longitude":-95.906573,
+    "iso:country":"US",
+    "sg:address":"1006 W 24th Ave",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 292 9072",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974747,
+        102082777,
+        85820061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3y75DW3XEaBGjkFxWtlIbi_41.134515_-95.906573@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300485,
+    "wof:geomhash":"368c3bf4253ce1b5c5a3e135a655d8e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974747,
+            "neighbourhood_id":85820061,
+            "region_id":85688563,
+            "venue_id":873934269
+        }
+    ],
+    "wof:id":873934269,
+    "wof:lastmodified":1464300485,
+    "wof:name":"Dee's Service Inc",
+    "wof:parent_id":85820061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -95.906573,
+    41.134515,
+    -95.906573,
+    41.134515
+],
+  "geometry": {"coordinates":[-95.90657299999999,41.134515],"type":"Point"}
+}

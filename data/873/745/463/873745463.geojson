@@ -1,0 +1,71 @@
+{
+  "id": 873745463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.6999,40.697396,-96.6999,40.697396",
+    "geom:latitude":40.697396,
+    "geom:longitude":-96.6999,
+    "iso:country":"US",
+    "sg:address":"1400 Saltillo Rd",
+    "sg:city":"Roca",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 423 0888",
+    "sg:postcode":"68430",
+    "sg:province":"NE",
+    "sg:tags":[
+        "drinking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Tot5QxvKFy8lpTVp6Eq2h_40.697396_-96.699900@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297018,
+    "wof:geomhash":"29917ffaca1970383e876eb5f83816e8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878733,
+            "region_id":85688563,
+            "venue_id":873745463
+        }
+    ],
+    "wof:id":873745463,
+    "wof:lastmodified":1464297018,
+    "wof:name":"Silver Spoke Saloon",
+    "wof:parent_id":85878733,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drinking"
+    ]
+},
+  "bbox": [
+    -96.6999,
+    40.697396,
+    -96.6999,
+    40.697396
+],
+  "geometry": {"coordinates":[-96.6999,40.697396],"type":"Point"}
+}

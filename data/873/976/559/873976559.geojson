@@ -1,0 +1,82 @@
+{
+  "id": 873976559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.119999,41.292241,-96.119999,41.292241",
+    "geom:latitude":41.292241,
+    "geom:longitude":-96.119999,
+    "iso:country":"US",
+    "sg:address":"13208 W Maple Rd",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ne/omaha/89755-applebees/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 492 8707",
+    "sg:postcode":"68164",
+    "sg:province":"NE",
+    "sg:tags":[
+        "burger",
+        "american",
+        "sandwich",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872503,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4NlTCBqnl6kCuk11uhExhV_41.292241_-96.119999@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464302242,
+    "wof:geomhash":"1bfa40047ac36b36323a978b3e2abc70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872503,
+            "region_id":85688563,
+            "venue_id":873976559
+        }
+    ],
+    "wof:id":873976559,
+    "wof:lastmodified":1464302242,
+    "wof:name":"Applebee's",
+    "wof:parent_id":85872503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "sandwich",
+        "soup"
+    ]
+},
+  "bbox": [
+    -96.119999,
+    41.292241,
+    -96.119999,
+    41.292241
+],
+  "geometry": {"coordinates":[-96.11999900000001,41.292241],"type":"Point"}
+}

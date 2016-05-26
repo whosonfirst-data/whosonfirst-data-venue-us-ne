@@ -1,0 +1,75 @@
+{
+  "id": 873898991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.984273,41.176291,-95.984273,41.176291",
+    "geom:latitude":41.176291,
+    "geom:longitude":-95.984273,
+    "iso:country":"US",
+    "sg:address":"4700 Giles Rd",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 978 7200",
+    "sg:postcode":"68157",
+    "sg:province":"NE",
+    "sg:tags":[
+        "high"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85849923,
+        102191575,
+        404519143,
+        85633793,
+        85974545,
+        102082777,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5CpmRzZFiAPOezmV22f2D2_41.176291_-95.984273@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299799,
+    "wof:geomhash":"10008d3e25cc02f75e60d2d48f7a2a1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082777,
+            "localadmin_id":404519143,
+            "locality_id":85974545,
+            "neighbourhood_id":85849923,
+            "region_id":85688563,
+            "venue_id":873898991
+        }
+    ],
+    "wof:id":873898991,
+    "wof:lastmodified":1464299799,
+    "wof:name":"Bryan High School",
+    "wof:parent_id":85849923,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "high"
+    ]
+},
+  "bbox": [
+    -95.984273,
+    41.176291,
+    -95.984273,
+    41.176291
+],
+  "geometry": {"coordinates":[-95.984273,41.176291],"type":"Point"}
+}

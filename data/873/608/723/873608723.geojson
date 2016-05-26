@@ -1,0 +1,72 @@
+{
+  "id": 873608723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.925455,41.170648,-95.925455,41.170648",
+    "geom:latitude":41.170648,
+    "geom:longitude":-95.925455,
+    "iso:country":"US",
+    "sg:address":"604 Fort Crook Rd N",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 733 7300",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "newspaper"
+    ],
+    "sg:website":"www.bellevueleader.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85804025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1AENztTAnLAz5c5J4GqaqN_41.170648_-95.925455@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295119,
+    "wof:geomhash":"3446a2127fd5aa64e4be01f875b7d7a5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85804025,
+            "region_id":85688563,
+            "venue_id":873608723
+        }
+    ],
+    "wof:id":873608723,
+    "wof:lastmodified":1464295119,
+    "wof:name":"Bellevue Leader",
+    "wof:parent_id":85804025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "newspaper"
+    ]
+},
+  "bbox": [
+    -95.925455,
+    41.170648,
+    -95.925455,
+    41.170648
+],
+  "geometry": {"coordinates":[-95.925455,41.170648],"type":"Point"}
+}

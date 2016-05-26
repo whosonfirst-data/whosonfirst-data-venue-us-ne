@@ -1,0 +1,70 @@
+{
+  "id": 873962411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.0359,41.166953,-96.0359,41.166953",
+    "geom:latitude":41.166953,
+    "geom:longitude":-96.0359,
+    "iso:country":"US",
+    "sg:address":"829 Tara Rd",
+    "sg:city":"Papillion",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 593 0983",
+    "sg:postcode":"68046",
+    "sg:province":"NE",
+    "sg:tags":[
+        "eating"
+    ],
+    "sg:website":"www.lamesa.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85843697,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_02VV6Ax5jyrNYxBA4LTpyW_41.166953_-96.035900@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464301668,
+    "wof:geomhash":"506fc757a53e489ee60feec5aa101021",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85843697,
+            "region_id":85688563,
+            "venue_id":873962411
+        }
+    ],
+    "wof:id":873962411,
+    "wof:lastmodified":1464301668,
+    "wof:name":"LA Mesa Mexican Restaurant",
+    "wof:parent_id":85843697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -96.0359,
+    41.166953,
+    -96.0359,
+    41.166953
+],
+  "geometry": {"coordinates":[-96.0359,41.166953],"type":"Point"}
+}

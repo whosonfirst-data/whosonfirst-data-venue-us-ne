@@ -1,0 +1,73 @@
+{
+  "id": 873880165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.919485,41.142269,-95.919485,41.142269",
+    "geom:latitude":41.142269,
+    "geom:longitude":-95.919485,
+    "iso:country":"US",
+    "sg:address":"1505 Englewood Dr",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 991 3089",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85821583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_339MXlXLTGEgBhzeuYkks6_41.142269_-95.919485@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299437,
+    "wof:geomhash":"0f98751013e8930106af994cb2f77db8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85821583,
+            "region_id":85688563,
+            "venue_id":873880165
+        }
+    ],
+    "wof:id":873880165,
+    "wof:lastmodified":1464299437,
+    "wof:name":"Atlas Inc",
+    "wof:parent_id":85821583,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -95.919485,
+    41.142269,
+    -95.919485,
+    41.142269
+],
+  "geometry": {"coordinates":[-95.91948499999999,41.142269],"type":"Point"}
+}

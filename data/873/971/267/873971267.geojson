@@ -1,0 +1,81 @@
+{
+  "id": 873971267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.005203,41.285099,-96.005203,41.285099",
+    "geom:latitude":41.285099,
+    "geom:longitude":-96.005203,
+    "iso:country":"US",
+    "sg:address":"6020 Maple St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 554 5830",
+    "sg:postcode":"68104",
+    "sg:province":"NE",
+    "sg:tags":[
+        "drinking",
+        "beverage",
+        "nightlife",
+        "alcoholic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872535,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3zkKJnwoFfN2p26SDTFvrQ_41.285048_-96.005604@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464302031,
+    "wof:geomhash":"ba40b276de64ae520d853678b3f05883",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872535,
+            "region_id":85688563,
+            "venue_id":873971267
+        }
+    ],
+    "wof:id":873971267,
+    "wof:lastmodified":1464302031,
+    "wof:name":"Musette Bar",
+    "wof:parent_id":85872535,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drinking",
+        "beverage",
+        "nightlife",
+        "alcoholic"
+    ]
+},
+  "bbox": [
+    -96.005203,
+    41.285099,
+    -96.005203,
+    41.285099
+],
+  "geometry": {"coordinates":[-96.00520299999999,41.285099],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873600511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.134118,41.171232,-96.134118,41.171232",
+    "geom:latitude":41.171232,
+    "geom:longitude":-96.134118,
+    "iso:country":"US",
+    "sg:address":"9840 S 140th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 331 1411",
+    "sg:postcode":"68138",
+    "sg:province":"NE",
+    "sg:tags":[
+        "equipment",
+        "material",
+        "handling"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85834285,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ZR6T6yicqMf43vfFOUG4t_41.171232_-96.134118@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294993,
+    "wof:geomhash":"82c692be07eb1e9cc541f8c1cfdb29a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85834285,
+            "region_id":85688563,
+            "venue_id":873600511
+        }
+    ],
+    "wof:id":873600511,
+    "wof:lastmodified":1464294993,
+    "wof:name":"Central Scale & Material Hndlg",
+    "wof:parent_id":85834285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "material",
+        "handling"
+    ]
+},
+  "bbox": [
+    -96.134118,
+    41.171232,
+    -96.134118,
+    41.171232
+],
+  "geometry": {"coordinates":[-96.134118,41.171232],"type":"Point"}
+}

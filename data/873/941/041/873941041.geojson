@@ -1,0 +1,75 @@
+{
+  "id": 873941041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.708424,40.82371,-96.708424,40.82371",
+    "geom:latitude":40.82371,
+    "geom:longitude":-96.708424,
+    "iso:country":"US",
+    "sg:address":"1001 N 9th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 476 1021",
+    "sg:postcode":"68508",
+    "sg:province":"NE",
+    "sg:tags":[
+        "steel"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878731,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_32Pnn05tATjnLc09B4oJPq_40.823710_-96.708424@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300733,
+    "wof:geomhash":"0a95d5f31327bda11e90049dbe98a28e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878731,
+            "region_id":85688563,
+            "venue_id":873941041
+        }
+    ],
+    "wof:id":873941041,
+    "wof:lastmodified":1464300733,
+    "wof:name":"Capital Steel Co",
+    "wof:parent_id":85878731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "steel"
+    ]
+},
+  "bbox": [
+    -96.708424,
+    40.82371,
+    -96.708424,
+    40.82371
+],
+  "geometry": {"coordinates":[-96.70842399999999,40.82371],"type":"Point"}
+}

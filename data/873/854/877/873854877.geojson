@@ -1,0 +1,71 @@
+{
+  "id": 873854877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.915356,41.157107,-95.915356,41.157107",
+    "geom:latitude":41.157107,
+    "geom:longitude":-95.915356,
+    "iso:country":"US",
+    "sg:address":"1408 Cascio Dr",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 449 2533",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "sprinkler"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85804025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0niHciBh0vCXEOqgb7f5dK_41.157107_-95.915356@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298912,
+    "wof:geomhash":"dba04caa649970a79d9e97c58183790a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85804025,
+            "region_id":85688563,
+            "venue_id":873854877
+        }
+    ],
+    "wof:id":873854877,
+    "wof:lastmodified":1464298912,
+    "wof:name":"D K Sprinkler",
+    "wof:parent_id":85804025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sprinkler"
+    ]
+},
+  "bbox": [
+    -95.915356,
+    41.157107,
+    -95.915356,
+    41.157107
+],
+  "geometry": {"coordinates":[-95.915356,41.157107],"type":"Point"}
+}

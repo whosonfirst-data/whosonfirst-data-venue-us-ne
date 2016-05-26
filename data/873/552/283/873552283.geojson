@@ -1,0 +1,71 @@
+{
+  "id": 873552283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.890914,41.125955,-95.890914,41.125955",
+    "geom:latitude":41.125955,
+    "geom:longitude":-95.890914,
+    "iso:country":"US",
+    "sg:address":"311 Industrial Dr",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 292 3704",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974747,
+        102082777,
+        85820061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ZHYDJRHLbNOH6O4IW2AgD_41.125955_-95.890914@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294404,
+    "wof:geomhash":"e9acc8ed806c1fb8b86f79e1e0d490ca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974747,
+            "neighbourhood_id":85820061,
+            "region_id":85688563,
+            "venue_id":873552283
+        }
+    ],
+    "wof:id":873552283,
+    "wof:lastmodified":1464294404,
+    "wof:name":"Rogers Towing & Recovery Svc",
+    "wof:parent_id":85820061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -95.890914,
+    41.125955,
+    -95.890914,
+    41.125955
+],
+  "geometry": {"coordinates":[-95.890914,41.125955],"type":"Point"}
+}

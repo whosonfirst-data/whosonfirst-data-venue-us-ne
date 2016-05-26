@@ -1,0 +1,73 @@
+{
+  "id": 873895751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.64068,40.848558,-96.64068,40.848558",
+    "geom:latitude":40.848558,
+    "geom:longitude":-96.64068,
+    "iso:country":"US",
+    "sg:address":"5849 Fremont St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 434 4525",
+    "sg:postcode":"68507",
+    "sg:province":"NE",
+    "sg:tags":[
+        "national",
+        "commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85824241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6NGdGyV4NYXZjrNQGt4V7G_40.848558_-96.640680@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299735,
+    "wof:geomhash":"84581b2d62eb65f07aee1a9d00b41ea7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85824241,
+            "region_id":85688563,
+            "venue_id":873895751
+        }
+    ],
+    "wof:id":873895751,
+    "wof:lastmodified":1464299735,
+    "wof:name":"Wells Fargo",
+    "wof:parent_id":85824241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "national",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -96.64068,
+    40.848558,
+    -96.64068,
+    40.848558
+],
+  "geometry": {"coordinates":[-96.64068,40.848558],"type":"Point"}
+}

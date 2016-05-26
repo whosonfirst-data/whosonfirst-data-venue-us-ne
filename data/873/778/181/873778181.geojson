@@ -1,0 +1,71 @@
+{
+  "id": 873778181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.638393,40.876675,-96.638393,40.876675",
+    "geom:latitude":40.876675,
+    "geom:longitude":-96.638393,
+    "iso:country":"US",
+    "sg:address":"6301 N 60th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Beer",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 467 4302",
+    "sg:postcode":"68507",
+    "sg:province":"NE",
+    "sg:tags":[
+        "ale"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85824241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_14p0QbMlvI8VCdQ5A97j3W_40.876675_-96.638393@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297465,
+    "wof:geomhash":"068b0a6c052c188a91330ab1143adbe0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85824241,
+            "region_id":85688563,
+            "venue_id":873778181
+        }
+    ],
+    "wof:id":873778181,
+    "wof:lastmodified":1464297465,
+    "wof:name":"K & Z Dist Co",
+    "wof:parent_id":85824241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ale"
+    ]
+},
+  "bbox": [
+    -96.638393,
+    40.876675,
+    -96.638393,
+    40.876675
+],
+  "geometry": {"coordinates":[-96.63839299999999,40.876675],"type":"Point"}
+}

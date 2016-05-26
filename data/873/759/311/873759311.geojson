@@ -1,0 +1,76 @@
+{
+  "id": 873759311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.672948,40.769131,-96.672948,40.769131",
+    "geom:latitude":40.769131,
+    "geom:longitude":-96.672948,
+    "iso:country":"US",
+    "sg:address":"4231 S 33rd St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 489 1931",
+    "sg:postcode":"68506",
+    "sg:province":"NE",
+    "sg:tags":[
+        "eating"
+    ],
+    "sg:website":"www.dairyqueen.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878713,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6kaxnu7Z7XPR1ehMkBJP65_40.769131_-96.672948@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297198,
+    "wof:geomhash":"1bf2cff796793dab9b5d7ded92380f7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878713,
+            "region_id":85688563,
+            "venue_id":873759311
+        }
+    ],
+    "wof:id":873759311,
+    "wof:lastmodified":1464297198,
+    "wof:name":"Dairy Queen",
+    "wof:parent_id":85878713,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -96.672948,
+    40.769131,
+    -96.672948,
+    40.769131
+],
+  "geometry": {"coordinates":[-96.67294800000001,40.769131],"type":"Point"}
+}

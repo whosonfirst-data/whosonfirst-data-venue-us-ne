@@ -1,0 +1,77 @@
+{
+  "id": 873974041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.956703,41.284302,-95.956703,41.284302",
+    "geom:latitude":41.284302,
+    "geom:longitude":-95.956703,
+    "iso:country":"US",
+    "sg:address":"2819 N 30th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 453 2658",
+    "sg:postcode":"68111",
+    "sg:province":"NE",
+    "sg:tags":[
+        "cajun/creole",
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872525,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6hGn4lhbwut4E11vm1xH8s_41.284877_-95.956484@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464302158,
+    "wof:geomhash":"037d3751faa5c600e7ea7f78ad4d2157",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872525,
+            "region_id":85688563,
+            "venue_id":873974041
+        }
+    ],
+    "wof:id":873974041,
+    "wof:lastmodified":1464302158,
+    "wof:name":"Cajun Kitchen",
+    "wof:parent_id":85872525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cajun/creole",
+        "eating"
+    ]
+},
+  "bbox": [
+    -95.956703,
+    41.284302,
+    -95.956703,
+    41.284302
+],
+  "geometry": {"coordinates":[-95.956703,41.284302],"type":"Point"}
+}

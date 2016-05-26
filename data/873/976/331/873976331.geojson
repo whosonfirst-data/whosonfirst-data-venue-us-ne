@@ -1,0 +1,72 @@
+{
+  "id": 873976331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.074599,41.308252,-96.074599,41.308252",
+    "geom:latitude":41.308252,
+    "geom:longitude":-96.074599,
+    "iso:country":"US",
+    "sg:address":"5658 N 103rd St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ne/omaha/245024-sam--louies-new-york-pizzeria/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 614 4405",
+    "sg:postcode":"68134",
+    "sg:province":"NE",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85872505,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ZiIxV1FwgJ0S5UY5DVPdh_41.308252_-96.074599@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464302234,
+    "wof:geomhash":"cb4ac3821f23e1eae005949d7e7d0f09",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":873976331
+        }
+    ],
+    "wof:id":873976331,
+    "wof:lastmodified":1464302234,
+    "wof:name":"Sam & Louie's New York Pizzeria",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -96.074599,
+    41.308252,
+    -96.074599,
+    41.308252
+],
+  "geometry": {"coordinates":[-96.07459900000001,41.308252],"type":"Point"}
+}

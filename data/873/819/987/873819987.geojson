@@ -1,0 +1,73 @@
+{
+  "id": 873819987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.893608,41.13761,-95.893608,41.13761",
+    "geom:latitude":41.13761,
+    "geom:longitude":-95.893608,
+    "iso:country":"US",
+    "sg:address":"2109 Franklin St",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 291 6266",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "drinking",
+        "real estate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974747,
+        102082777,
+        85820061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5i2jKdRpaQzvsENDGP4JlS_41.137610_-95.893608@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298120,
+    "wof:geomhash":"f7c8d819e383acb79bd1a8662a075dcd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974747,
+            "neighbourhood_id":85820061,
+            "region_id":85688563,
+            "venue_id":873819987
+        }
+    ],
+    "wof:id":873819987,
+    "wof:lastmodified":1464298120,
+    "wof:name":"Century Bar",
+    "wof:parent_id":85820061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drinking",
+        "real estate"
+    ]
+},
+  "bbox": [
+    -95.893608,
+    41.13761,
+    -95.893608,
+    41.13761
+],
+  "geometry": {"coordinates":[-95.893608,41.13761],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873897149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.033562,41.387514,-96.033562,41.387514",
+    "geom:latitude":41.387514,
+    "geom:longitude":-96.033562,
+    "iso:country":"US",
+    "sg:address":"14610 N 78th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 571 3445",
+    "sg:postcode":"68122",
+    "sg:province":"NE",
+    "sg:tags":[
+        "electrical",
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85872505,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_66829j6qTMMR71v4Md9IQS_41.387514_-96.033562@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299768,
+    "wof:geomhash":"4fa457fbc10b1af3418b7cb9458c4e24",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":873897149
+        }
+    ],
+    "wof:id":873897149,
+    "wof:lastmodified":1464299768,
+    "wof:name":"T & B Electric Inc",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.033562,
+    41.387514,
+    -96.033562,
+    41.387514
+],
+  "geometry": {"coordinates":[-96.033562,41.387514],"type":"Point"}
+}

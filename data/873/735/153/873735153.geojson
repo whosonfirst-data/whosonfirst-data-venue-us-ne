@@ -1,0 +1,71 @@
+{
+  "id": 873735153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.630475,40.791649,-96.630475,40.791649",
+    "geom:latitude":40.791649,
+    "geom:longitude":-96.630475,
+    "iso:country":"US",
+    "sg:address":"6720 South St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 489 2929",
+    "sg:postcode":"68506",
+    "sg:province":"NE",
+    "sg:tags":[
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4F3h1fVUfrtWUgUv8gznXK_40.791649_-96.630475@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296851,
+    "wof:geomhash":"3cbcb9b8fb64f36f1681ba0c8fccbdb9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878697,
+            "region_id":85688563,
+            "venue_id":873735153
+        }
+    ],
+    "wof:id":873735153,
+    "wof:lastmodified":1464296851,
+    "wof:name":"Cass County Refuse",
+    "wof:parent_id":85878697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "system"
+    ]
+},
+  "bbox": [
+    -96.630475,
+    40.791649,
+    -96.630475,
+    40.791649
+],
+  "geometry": {"coordinates":[-96.630475,40.791649],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 873803361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.053206,41.273063,-96.053206,41.273063",
+    "geom:latitude":41.273063,
+    "geom:longitude":-96.053206,
+    "iso:country":"US",
+    "sg:address":"1461 N 90th Ave",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 397 5322",
+    "sg:postcode":"68114",
+    "sg:province":"NE",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867061,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_41ChRbgYDcRBCvUPjIhicY_41.273063_-96.053206@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297814,
+    "wof:geomhash":"394621770412cea0104904c8db5f310c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85867061,
+            "region_id":85688563,
+            "venue_id":873803361
+        }
+    ],
+    "wof:id":873803361,
+    "wof:lastmodified":1464297814,
+    "wof:name":"ML Masonry",
+    "wof:parent_id":85867061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.053206,
+    41.273063,
+    -96.053206,
+    41.273063
+],
+  "geometry": {"coordinates":[-96.053206,41.273063],"type":"Point"}
+}

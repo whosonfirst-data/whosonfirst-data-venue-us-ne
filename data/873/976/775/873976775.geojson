@@ -1,0 +1,86 @@
+{
+  "id": 873976775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.654256,40.813948,-96.654256,40.813948",
+    "geom:latitude":40.813948,
+    "geom:longitude":-96.654256,
+    "iso:country":"US",
+    "sg:address":"121 N 48th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ne/lincoln/102303-perkins-restaurant--bakery/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 467 2674",
+    "sg:postcode":"68504",
+    "sg:province":"NE",
+    "sg:tags":[
+        "sandwich",
+        "salad",
+        "soup",
+        "american",
+        "pastry",
+        "wrap"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878715,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6sqDD13WpzpdK3D3fNR2a2_40.813948_-96.654256@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464302248,
+    "wof:geomhash":"e586a199027d46c55add922b86707f84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878715,
+            "region_id":85688563,
+            "venue_id":873976775
+        }
+    ],
+    "wof:id":873976775,
+    "wof:lastmodified":1464302248,
+    "wof:name":"Perkins Restaurant & Bakery",
+    "wof:parent_id":85878715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandwich",
+        "salad",
+        "soup",
+        "american",
+        "pastry",
+        "wrap"
+    ]
+},
+  "bbox": [
+    -96.654256,
+    40.813948,
+    -96.654256,
+    40.813948
+],
+  "geometry": {"coordinates":[-96.654256,40.813948],"type":"Point"}
+}

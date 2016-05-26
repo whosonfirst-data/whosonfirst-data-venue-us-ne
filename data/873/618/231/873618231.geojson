@@ -1,0 +1,75 @@
+{
+  "id": 873618231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.675945,40.761155,-96.675945,40.761155",
+    "geom:latitude":40.761155,
+    "geom:longitude":-96.675945,
+    "iso:country":"US",
+    "sg:address":"3123 Diadem Dr",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 423 4086",
+    "sg:postcode":"68516",
+    "sg:province":"NE",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878739,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4fASEm1eIf1OYmfQc1kzlY_40.761155_-96.675945@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295230,
+    "wof:geomhash":"fd5afa8dde971aacb211192cd1f0bc24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878739,
+            "region_id":85688563,
+            "venue_id":873618231
+        }
+    ],
+    "wof:id":873618231,
+    "wof:lastmodified":1464295230,
+    "wof:name":"Lancaster Painting Contractors",
+    "wof:parent_id":85878739,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -96.675945,
+    40.761155,
+    -96.675945,
+    40.761155
+],
+  "geometry": {"coordinates":[-96.675945,40.761155],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 873934939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.735354,40.836101,-96.735354,40.836101",
+    "geom:latitude":40.836101,
+    "geom:longitude":-96.735354,
+    "iso:country":"US",
+    "sg:address":"1010 W Cornhusker Hwy",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 475 2886",
+    "sg:postcode":"68521",
+    "sg:province":"NE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85855865,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2vygxbbg8ThMs9jYNEMNtT_40.836101_-96.735354@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300499,
+    "wof:geomhash":"71cea4d3615caa4aa39f1073a59a3119",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85855865,
+            "region_id":85688563,
+            "venue_id":873934939
+        }
+    ],
+    "wof:id":873934939,
+    "wof:lastmodified":1464300499,
+    "wof:name":"Revolution Motors",
+    "wof:parent_id":85855865,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.735354,
+    40.836101,
+    -96.735354,
+    40.836101
+],
+  "geometry": {"coordinates":[-96.735354,40.836101],"type":"Point"}
+}

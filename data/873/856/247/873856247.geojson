@@ -1,0 +1,86 @@
+{
+  "id": 873856247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.050915,41.217349,-96.050915,41.217349",
+    "geom:latitude":41.217349,
+    "geom:longitude":-96.050915,
+    "iso:country":"US",
+    "sg:address":"8961 H St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 331 4462",
+    "sg:postcode":"68127",
+    "sg:province":"NE",
+    "sg:tags":[
+        "glass",
+        "window",
+        "plate",
+        "replacement"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872511,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7PITzMpjgLGCGwDkUL7sEw_41.217349_-96.050915@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298939,
+    "wof:geomhash":"3e20d187c9c4285067d1ce1b6b15256e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872511,
+            "region_id":85688563,
+            "venue_id":873856247
+        }
+    ],
+    "wof:id":873856247,
+    "wof:lastmodified":1464298939,
+    "wof:name":"Safelite Auto Glass",
+    "wof:parent_id":85872511,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass",
+        "window",
+        "plate",
+        "replacement"
+    ]
+},
+  "bbox": [
+    -96.050915,
+    41.217349,
+    -96.050915,
+    41.217349
+],
+  "geometry": {"coordinates":[-96.050915,41.217349],"type":"Point"}
+}

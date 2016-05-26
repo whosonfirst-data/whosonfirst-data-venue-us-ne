@@ -1,0 +1,75 @@
+{
+  "id": 873571817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.904131,41.135388,-95.904131,41.135388",
+    "geom:latitude":41.135388,
+    "geom:longitude":-95.904131,
+    "iso:country":"US",
+    "sg:address":"811 W 23rd Ave",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 292 7688",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "youth",
+        "organization",
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974747,
+        102082777,
+        85820061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1qclEC1jm9J0DP3vMQP0PX_41.135388_-95.904131@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294629,
+    "wof:geomhash":"b4d4e76a49d7e3f4db64cca0c9d4ba19",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974747,
+            "neighbourhood_id":85820061,
+            "region_id":85688563,
+            "venue_id":873571817
+        }
+    ],
+    "wof:id":873571817,
+    "wof:lastmodified":1464294629,
+    "wof:name":"Youth Ministry",
+    "wof:parent_id":85820061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "youth",
+        "organization",
+        "center"
+    ]
+},
+  "bbox": [
+    -95.904131,
+    41.135388,
+    -95.904131,
+    41.135388
+],
+  "geometry": {"coordinates":[-95.90413100000001,41.135388],"type":"Point"}
+}

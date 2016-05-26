@@ -1,0 +1,71 @@
+{
+  "id": 873937507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.905423,41.161436,-95.905423,41.161436",
+    "geom:latitude":41.161436,
+    "geom:longitude":-95.905423,
+    "iso:country":"US",
+    "sg:address":"112 Banyan Ct",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 291 2555",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85804025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2bzBYg6IByGynlvnuwS1po_41.161436_-95.905423@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300591,
+    "wof:geomhash":"65eb29edd595f31e994e13366ec05a96",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85804025,
+            "region_id":85688563,
+            "venue_id":873937507
+        }
+    ],
+    "wof:id":873937507,
+    "wof:lastmodified":1464300591,
+    "wof:name":"Banyan Homes Inc",
+    "wof:parent_id":85804025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -95.905423,
+    41.161436,
+    -95.905423,
+    41.161436
+],
+  "geometry": {"coordinates":[-95.905423,41.161436],"type":"Point"}
+}

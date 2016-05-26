@@ -1,0 +1,81 @@
+{
+  "id": 873805387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.062514,41.303274,-96.062514,41.303274",
+    "geom:latitude":41.303274,
+    "geom:longitude":-96.062514,
+    "iso:country":"US",
+    "sg:address":"4945 N 96th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 758 6309",
+    "sg:postcode":"68134",
+    "sg:province":"NE",
+    "sg:tags":[
+        "mfg",
+        "electric",
+        "generator",
+        "portable"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867061,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2SvI7P9dcpDTHloHkcuQul_41.303274_-96.062514@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297840,
+    "wof:geomhash":"e929019261c2c20b72828ec97aa9e34c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85867061,
+            "region_id":85688563,
+            "venue_id":873805387
+        }
+    ],
+    "wof:id":873805387,
+    "wof:lastmodified":1464297840,
+    "wof:name":"Coleman",
+    "wof:parent_id":85867061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg",
+        "electric",
+        "generator",
+        "portable"
+    ]
+},
+  "bbox": [
+    -96.062514,
+    41.303274,
+    -96.062514,
+    41.303274
+],
+  "geometry": {"coordinates":[-96.06251399999999,41.303274],"type":"Point"}
+}

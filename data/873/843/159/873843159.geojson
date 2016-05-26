@@ -1,0 +1,73 @@
+{
+  "id": 873843159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.634425,40.852805,-96.634425,40.852805",
+    "geom:latitude":40.852805,
+    "geom:longitude":-96.634425,
+    "iso:country":"US",
+    "sg:address":"3900 N 63rd St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Pest Control",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 476 6663",
+    "sg:postcode":"68507",
+    "sg:province":"NE",
+    "sg:tags":[
+        "trapper",
+        "animal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85824241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5JcaBVNtgHKlJ2LMPlwOb7_40.852805_-96.634425@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298635,
+    "wof:geomhash":"0203913a7d19a8b48b44bbe30b17119a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85824241,
+            "region_id":85688563,
+            "venue_id":873843159
+        }
+    ],
+    "wof:id":873843159,
+    "wof:lastmodified":1464298635,
+    "wof:name":"Stetson Wildlife Management",
+    "wof:parent_id":85824241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trapper",
+        "animal"
+    ]
+},
+  "bbox": [
+    -96.634425,
+    40.852805,
+    -96.634425,
+    40.852805
+],
+  "geometry": {"coordinates":[-96.63442499999999,40.852805],"type":"Point"}
+}

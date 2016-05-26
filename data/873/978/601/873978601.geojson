@@ -1,0 +1,83 @@
+{
+  "id": 873978601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.689725,40.788001,-96.689725,40.788001",
+    "geom:latitude":40.788001,
+    "geom:longitude":-96.689725,
+    "iso:country":"US",
+    "sg:address":"2011 Pine Lake Road, Suite 1800",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"68512 ",
+    "sg:province":"NE",
+    "sg:tags":[
+        "content-management",
+        "document-management",
+        "enterprise-content-management",
+        "onbase",
+        "records-management"
+    ],
+    "sg:website":"http://www.onbase.com/english/index.aspx",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878719,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_51cpYWNV8oOJCN6j1P8Dtj_40.788001_-96.689725@1308186498"
+    },
+    "wof:country":"US",
+    "wof:created":1464302323,
+    "wof:geomhash":"2ae25dd1083207ca446787d64572acbe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878719,
+            "region_id":85688563,
+            "venue_id":873978601
+        }
+    ],
+    "wof:id":873978601,
+    "wof:lastmodified":1464302323,
+    "wof:name":"Hyland Software",
+    "wof:parent_id":85878719,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "content-management",
+        "document-management",
+        "enterprise-content-management",
+        "onbase",
+        "records-management"
+    ]
+},
+  "bbox": [
+    -96.689725,
+    40.788001,
+    -96.689725,
+    40.788001
+],
+  "geometry": {"coordinates":[-96.689725,40.788001],"type":"Point"}
+}

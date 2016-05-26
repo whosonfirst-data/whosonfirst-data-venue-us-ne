@@ -1,0 +1,70 @@
+{
+  "id": 873884185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.028902,41.156293,-96.028902,41.156293",
+    "geom:latitude":41.156293,
+    "geom:longitude":-96.028902,
+    "iso:country":"US",
+    "sg:address":"1111 E 1st St",
+    "sg:city":"Papillion",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 339 9861",
+    "sg:postcode":"68046",
+    "sg:province":"NE",
+    "sg:tags":[
+        "human"
+    ],
+    "sg:website":"www.metroymca.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85843697,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3DQqRDj5Sz6X7WMs9kFjty_41.156293_-96.028902@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299521,
+    "wof:geomhash":"c9d3b004792e94f8e0e7c29582dabd3e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85843697,
+            "region_id":85688563,
+            "venue_id":873884185
+        }
+    ],
+    "wof:id":873884185,
+    "wof:lastmodified":1464299521,
+    "wof:name":"YMCA",
+    "wof:parent_id":85843697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "human"
+    ]
+},
+  "bbox": [
+    -96.028902,
+    41.156293,
+    -96.028902,
+    41.156293
+],
+  "geometry": {"coordinates":[-96.028902,41.156293],"type":"Point"}
+}

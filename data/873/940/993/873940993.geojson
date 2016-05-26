@@ -1,0 +1,75 @@
+{
+  "id": 873940993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.603884,40.818295,-96.603884,40.818295",
+    "geom:latitude":40.818295,
+    "geom:longitude":-96.603884,
+    "iso:country":"US",
+    "sg:address":"548 N 86th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 483 2673",
+    "sg:postcode":"68505",
+    "sg:province":"NE",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878725,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_25GbyoNZmPGPMBZzwZuh5W_40.818295_-96.603884@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300731,
+    "wof:geomhash":"86ce3055bccb543357303b0a94fb677d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878725,
+            "region_id":85688563,
+            "venue_id":873940993
+        }
+    ],
+    "wof:id":873940993,
+    "wof:lastmodified":1464300731,
+    "wof:name":"Crown Dental Studio",
+    "wof:parent_id":85878725,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -96.603884,
+    40.818295,
+    -96.603884,
+    40.818295
+],
+  "geometry": {"coordinates":[-96.60388399999999,40.818295],"type":"Point"}
+}

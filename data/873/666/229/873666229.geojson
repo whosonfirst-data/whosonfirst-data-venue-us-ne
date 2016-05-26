@@ -1,0 +1,85 @@
+{
+  "id": 873666229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.093261,41.174585,-96.093261,41.174585",
+    "geom:latitude":41.174585,
+    "geom:longitude":-96.093261,
+    "iso:country":"US",
+    "sg:address":"12202 Cary St",
+    "sg:city":"La Vista",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Electronics",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 334 8120",
+    "sg:postcode":"68128",
+    "sg:province":"NE",
+    "sg:tags":[
+        "control",
+        "e",
+        "mfg",
+        "printed",
+        "circuit",
+        "panel"
+    ],
+    "sg:website":"www.nebraska-electronics.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85843697,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4m0db6gHHDNCEbzYtmnht1_41.174585_-96.093261@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295762,
+    "wof:geomhash":"d1381a0d306970d5b31f1e838ca1b41b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85843697,
+            "region_id":85688563,
+            "venue_id":873666229
+        }
+    ],
+    "wof:id":873666229,
+    "wof:lastmodified":1464295762,
+    "wof:name":"EDM Electronic Design and Mfg",
+    "wof:parent_id":85843697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "control",
+        "e",
+        "mfg",
+        "printed",
+        "circuit",
+        "panel"
+    ]
+},
+  "bbox": [
+    -96.093261,
+    41.174585,
+    -96.093261,
+    41.174585
+],
+  "geometry": {"coordinates":[-96.093261,41.174585],"type":"Point"}
+}

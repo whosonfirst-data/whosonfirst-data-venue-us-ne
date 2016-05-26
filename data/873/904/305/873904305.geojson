@@ -1,0 +1,69 @@
+{
+  "id": 873904305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.072487,41.316995,-96.072487,41.316995",
+    "geom:latitude":41.316995,
+    "geom:longitude":-96.072487,
+    "iso:country":"US",
+    "sg:address":"6407 N 103rd Ave",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 965 9337",
+    "sg:postcode":"68134",
+    "sg:province":"NE",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85872505,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3vLBNLw0Zb2nHGcAM2QxpH_41.316995_-96.072487@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299905,
+    "wof:geomhash":"234a966f0fd2f66a47b552dd594e590b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":873904305
+        }
+    ],
+    "wof:id":873904305,
+    "wof:lastmodified":1464299905,
+    "wof:name":"Green Glenda Day Care",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -96.072487,
+    41.316995,
+    -96.072487,
+    41.316995
+],
+  "geometry": {"coordinates":[-96.072487,41.316995],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 873878149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.980783,41.264779,-95.980783,41.264779",
+    "geom:latitude":41.264779,
+    "geom:longitude":-95.980783,
+    "iso:country":"US",
+    "sg:address":"846 N Saddle Creek Rd",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 551 0366",
+    "sg:postcode":"68132",
+    "sg:province":"NE",
+    "sg:tags":[
+        "brake"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867055,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4YBRKpjQuU5eS2ENSm2l4k_41.264779_-95.980783@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299399,
+    "wof:geomhash":"38fe2eeda95171a0832befd180edcf98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85867055,
+            "region_id":85688563,
+            "venue_id":873878149
+        }
+    ],
+    "wof:id":873878149,
+    "wof:lastmodified":1464299399,
+    "wof:name":"Midwest Brake Systems LLC",
+    "wof:parent_id":85867055,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "brake"
+    ]
+},
+  "bbox": [
+    -95.980783,
+    41.264779,
+    -95.980783,
+    41.264779
+],
+  "geometry": {"coordinates":[-95.980783,41.264779],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 873663901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.368146,41.439508,-97.368146,41.439508",
+    "geom:latitude":41.439508,
+    "geom:longitude":-97.368146,
+    "iso:country":"US",
+    "sg:address":"2361 33rd Ave",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 563 1859",
+    "sg:postcode":"68601",
+    "sg:province":"NE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974401,
+        102084277,
+        85854093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6pcYs7cDiKx2jxTGxk8RLD_41.439508_-97.368146@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295739,
+    "wof:geomhash":"16c83be8d4cd5b4507e5ad0c3fb26e39",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084277,
+            "locality_id":85974401,
+            "neighbourhood_id":85854093,
+            "region_id":85688563,
+            "venue_id":873663901
+        }
+    ],
+    "wof:id":873663901,
+    "wof:lastmodified":1464295739,
+    "wof:name":"Fast Mart",
+    "wof:parent_id":85854093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.368146,
+    41.439508,
+    -97.368146,
+    41.439508
+],
+  "geometry": {"coordinates":[-97.368146,41.439508],"type":"Point"}
+}

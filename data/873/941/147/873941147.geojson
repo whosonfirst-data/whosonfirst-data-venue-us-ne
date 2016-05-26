@@ -1,0 +1,77 @@
+{
+  "id": 873941147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.107826,41.290834,-96.107826,41.290834",
+    "geom:latitude":41.290834,
+    "geom:longitude":-96.107826,
+    "iso:country":"US",
+    "sg:address":"12423 Evans St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Petroleum Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 492 9533",
+    "sg:postcode":"68164",
+    "sg:province":"NE",
+    "sg:tags":[
+        "asphalt",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872503,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_27yn5c6idyEuIwLsNnuLt2_41.290834_-96.107826@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300737,
+    "wof:geomhash":"a8a1c941f8fe04be0542e0f57c03430f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872503,
+            "region_id":85688563,
+            "venue_id":873941147
+        }
+    ],
+    "wof:id":873941147,
+    "wof:lastmodified":1464300737,
+    "wof:name":"Nicolas Asphalt Inc",
+    "wof:parent_id":85872503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "asphalt",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -96.107826,
+    41.290834,
+    -96.107826,
+    41.290834
+],
+  "geometry": {"coordinates":[-96.107826,41.290834],"type":"Point"}
+}

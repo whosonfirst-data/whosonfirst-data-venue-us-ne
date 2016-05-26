@@ -1,0 +1,71 @@
+{
+  "id": 873915883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.622808,40.865715,-96.622808,40.865715",
+    "geom:latitude":40.865715,
+    "geom:longitude":-96.622808,
+    "iso:country":"US",
+    "sg:address":"7001 Custer St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 464 9042",
+    "sg:postcode":"68507",
+    "sg:province":"NE",
+    "sg:tags":[
+        "special"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85824241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ieSfXaJ9hME0W1qRNJQTp_40.865715_-96.622808@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300139,
+    "wof:geomhash":"d14f70f175a32e2f1e6f743f84d8faa9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85824241,
+            "region_id":85688563,
+            "venue_id":873915883
+        }
+    ],
+    "wof:id":873915883,
+    "wof:lastmodified":1464300139,
+    "wof:name":"Best Self Storage Inc",
+    "wof:parent_id":85824241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "special"
+    ]
+},
+  "bbox": [
+    -96.622808,
+    40.865715,
+    -96.622808,
+    40.865715
+],
+  "geometry": {"coordinates":[-96.62280800000001,40.865715],"type":"Point"}
+}

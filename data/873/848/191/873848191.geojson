@@ -1,0 +1,71 @@
+{
+  "id": 873848191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.13785,41.171082,-96.13785,41.171082",
+    "geom:latitude":41.171082,
+    "geom:longitude":-96.13785,
+    "iso:country":"US",
+    "sg:address":"8810 S 143rd Ave",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 894 0548",
+    "sg:postcode":"68138",
+    "sg:province":"NE",
+    "sg:tags":[
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85834285,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4aYE5V4T7idQOfL0j8pNJq_41.171082_-96.137850@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298774,
+    "wof:geomhash":"e1e3c29819a9c8dd8541cc0928b12900",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85834285,
+            "region_id":85688563,
+            "venue_id":873848191
+        }
+    ],
+    "wof:id":873848191,
+    "wof:lastmodified":1464298774,
+    "wof:name":"Dick Langley Trucking",
+    "wof:parent_id":85834285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -96.13785,
+    41.171082,
+    -96.13785,
+    41.171082
+],
+  "geometry": {"coordinates":[-96.13785,41.171082],"type":"Point"}
+}

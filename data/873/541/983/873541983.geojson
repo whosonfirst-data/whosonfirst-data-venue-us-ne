@@ -1,0 +1,73 @@
+{
+  "id": 873541983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.623531,40.784281,-96.623531,40.784281",
+    "geom:latitude":40.784281,
+    "geom:longitude":-96.623531,
+    "iso:country":"US",
+    "sg:address":"7000 Van Dorn St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 488 6704",
+    "sg:postcode":"68506",
+    "sg:province":"NE",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2U0z0zfualQVicSzygXLax_40.784281_-96.623531@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294281,
+    "wof:geomhash":"fcedbbc3fd2fc6f2f39a8d055ff89c2c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878697,
+            "region_id":85688563,
+            "venue_id":873541983
+        }
+    ],
+    "wof:id":873541983,
+    "wof:lastmodified":1464294281,
+    "wof:name":"Rexs 66",
+    "wof:parent_id":85878697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -96.623531,
+    40.784281,
+    -96.623531,
+    40.784281
+],
+  "geometry": {"coordinates":[-96.623531,40.784281],"type":"Point"}
+}

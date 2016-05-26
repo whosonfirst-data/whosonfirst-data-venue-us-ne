@@ -1,0 +1,75 @@
+{
+  "id": 873811065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.682093,40.827642,-96.682093,40.827642",
+    "geom:latitude":40.827642,
+    "geom:longitude":-96.682093,
+    "iso:country":"US",
+    "sg:address":"1434 N 27th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 477 3006",
+    "sg:postcode":"68503",
+    "sg:province":"NE",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878723,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0EKesb7uKMMZGvnFVHOzws_40.827642_-96.682093@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297945,
+    "wof:geomhash":"70cc5e1a0a263df04978bcb933503632",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878723,
+            "region_id":85688563,
+            "venue_id":873811065
+        }
+    ],
+    "wof:id":873811065,
+    "wof:lastmodified":1464297945,
+    "wof:name":"Alfourat",
+    "wof:parent_id":85878723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -96.682093,
+    40.827642,
+    -96.682093,
+    40.827642
+],
+  "geometry": {"coordinates":[-96.68209299999999,40.827642],"type":"Point"}
+}

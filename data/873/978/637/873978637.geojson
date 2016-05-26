@@ -1,0 +1,80 @@
+{
+  "id": 873978637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.087707,41.207606,-96.087707,41.207606",
+    "geom:latitude":41.207606,
+    "geom:longitude":-96.087707,
+    "iso:country":"US",
+    "sg:address":"11211 John Galt Blvd",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 596 1000",
+    "sg:postcode":"68137",
+    "sg:province":"NE",
+    "sg:tags":[
+        "sales-leads",
+        "mailing-lists",
+        "email-marketing"
+    ],
+    "sg:website":"http://www.database101.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872531,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ndUUNj3YQrghHHLF0GOMS_41.207606_-96.087707@1308186500"
+    },
+    "wof:country":"US",
+    "wof:created":1464302326,
+    "wof:geomhash":"de01e122842bc312d737ac04e1748d94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872531,
+            "region_id":85688563,
+            "venue_id":873978637
+        }
+    ],
+    "wof:id":873978637,
+    "wof:lastmodified":1464302326,
+    "wof:name":"Database101",
+    "wof:parent_id":85872531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sales-leads",
+        "mailing-lists",
+        "email-marketing"
+    ]
+},
+  "bbox": [
+    -96.087707,
+    41.207606,
+    -96.087707,
+    41.207606
+],
+  "geometry": {"coordinates":[-96.08770699999999,41.207606],"type":"Point"}
+}

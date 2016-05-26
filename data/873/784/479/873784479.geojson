@@ -1,0 +1,71 @@
+{
+  "id": 873784479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.727261,40.865907,-96.727261,40.865907",
+    "geom:latitude":40.865907,
+    "geom:longitude":-96.727261,
+    "iso:country":"US",
+    "sg:address":"5543 W Chancery Rd",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 540 1782",
+    "sg:postcode":"68521",
+    "sg:province":"NE",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4r8xR1TCK0j844xR9kUO9i_40.865907_-96.727261@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297550,
+    "wof:geomhash":"176b715c4c87c48e2f93daa2fb29130b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878717,
+            "region_id":85688563,
+            "venue_id":873784479
+        }
+    ],
+    "wof:id":873784479,
+    "wof:lastmodified":1464297550,
+    "wof:name":"Nathan Krieser Drywall",
+    "wof:parent_id":85878717,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.727261,
+    40.865907,
+    -96.727261,
+    40.865907
+],
+  "geometry": {"coordinates":[-96.727261,40.865907],"type":"Point"}
+}

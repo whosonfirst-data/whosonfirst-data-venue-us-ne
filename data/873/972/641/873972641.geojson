@@ -1,0 +1,78 @@
+{
+  "id": 873972641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.683167,40.829849,-96.683167,40.829849",
+    "geom:latitude":40.829849,
+    "geom:longitude":-96.683167,
+    "iso:country":"US",
+    "sg:address":"2625 Potter St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 474 6263",
+    "sg:postcode":"68503",
+    "sg:province":"NE",
+    "sg:tags":[
+        "churches-interdenominational",
+        "welfare"
+    ],
+    "sg:website":"http://www.salvationarmyusa.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878691,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5C5T4UvTcAQ8fnR1c0Of4i_40.829746_-96.682503@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464302091,
+    "wof:geomhash":"bde7a703d8e1f553198343035ed06fe0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878691,
+            "region_id":85688563,
+            "venue_id":873972641
+        }
+    ],
+    "wof:id":873972641,
+    "wof:lastmodified":1464302091,
+    "wof:name":"Salvation Army",
+    "wof:parent_id":85878691,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "churches-interdenominational",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -96.683167,
+    40.829849,
+    -96.683167,
+    40.829849
+],
+  "geometry": {"coordinates":[-96.683167,40.829849],"type":"Point"}
+}

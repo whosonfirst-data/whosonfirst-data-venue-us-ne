@@ -1,0 +1,77 @@
+{
+  "id": 873598967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.625003,40.830011,-96.625003,40.830011",
+    "geom:latitude":40.830011,
+    "geom:longitude":-96.625003,
+    "iso:country":"US",
+    "sg:address":"6902 Aylesworth Ave",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 466 4025",
+    "sg:postcode":"68505",
+    "sg:province":"NE",
+    "sg:tags":[
+        "trade",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878725,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_10tJq6XLRVNlW9eYw8Ycui_40.830011_-96.625003@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294972,
+    "wof:geomhash":"1f6563316395ae9b3daf6d45e83b9c20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878725,
+            "region_id":85688563,
+            "venue_id":873598967
+        }
+    ],
+    "wof:id":873598967,
+    "wof:lastmodified":1464294972,
+    "wof:name":"Phoenix Furniture & Upholstery",
+    "wof:parent_id":85878725,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trade",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.625003,
+    40.830011,
+    -96.625003,
+    40.830011
+],
+  "geometry": {"coordinates":[-96.62500300000001,40.830011],"type":"Point"}
+}

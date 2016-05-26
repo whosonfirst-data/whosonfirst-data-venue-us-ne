@@ -1,0 +1,71 @@
+{
+  "id": 873843023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.047094,41.167003,-96.047094,41.167003",
+    "geom:latitude":41.167003,
+    "geom:longitude":-96.047094,
+    "iso:country":"US",
+    "sg:address":"809 N Madison St",
+    "sg:city":"Papillion",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 291 1527",
+    "sg:postcode":"68046",
+    "sg:province":"NE",
+    "sg:tags":[
+        "roofing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85843697,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1LUO0EguWLwUXXKOQFA0G3_41.167003_-96.047094@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298633,
+    "wof:geomhash":"e25442259154fdd0a14289cd82cec55a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85843697,
+            "region_id":85688563,
+            "venue_id":873843023
+        }
+    ],
+    "wof:id":873843023,
+    "wof:lastmodified":1464298633,
+    "wof:name":"A and P Construction",
+    "wof:parent_id":85843697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "roofing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.047094,
+    41.167003,
+    -96.047094,
+    41.167003
+],
+  "geometry": {"coordinates":[-96.047094,41.167003],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 873898255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.900948,41.167078,-95.900948,41.167078",
+    "geom:latitude":41.167078,
+    "geom:longitude":-95.900948,
+    "iso:country":"US",
+    "sg:address":"518 Laurel Dr",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 250 9869",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "development",
+        "consulting",
+        "software"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85804025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2p04TsCAwvVeeV9Gw4SzLh_41.167078_-95.900948@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299786,
+    "wof:geomhash":"35c2aadf7da16c6f8df0be6ee17ba52b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85804025,
+            "region_id":85688563,
+            "venue_id":873898255
+        }
+    ],
+    "wof:id":873898255,
+    "wof:lastmodified":1464299786,
+    "wof:name":"Solutionsmiths",
+    "wof:parent_id":85804025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "development",
+        "consulting",
+        "software"
+    ]
+},
+  "bbox": [
+    -95.900948,
+    41.167078,
+    -95.900948,
+    41.167078
+],
+  "geometry": {"coordinates":[-95.900948,41.167078],"type":"Point"}
+}

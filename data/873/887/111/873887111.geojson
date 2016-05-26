@@ -1,0 +1,73 @@
+{
+  "id": 873887111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.133359,41.309046,-96.133359,41.309046",
+    "geom:latitude":41.309046,
+    "geom:longitude":-96.133359,
+    "iso:country":"US",
+    "sg:address":"5549 N 140th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Computers",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 556 2700",
+    "sg:postcode":"68164",
+    "sg:province":"NE",
+    "sg:tags":[
+        "machine",
+        "equipment",
+        "business"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85872505,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4usjgZPnjIcoSP51BSwcwr_41.309046_-96.133359@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299575,
+    "wof:geomhash":"f5eabb7e49fc9f6cbb0a81f8c629b4d9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":873887111
+        }
+    ],
+    "wof:id":873887111,
+    "wof:lastmodified":1464299575,
+    "wof:name":"Hugo Heyn Co",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "equipment",
+        "business"
+    ]
+},
+  "bbox": [
+    -96.133359,
+    41.309046,
+    -96.133359,
+    41.309046
+],
+  "geometry": {"coordinates":[-96.133359,41.309046],"type":"Point"}
+}

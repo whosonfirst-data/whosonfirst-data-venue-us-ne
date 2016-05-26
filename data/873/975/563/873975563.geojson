@@ -1,0 +1,71 @@
+{
+  "id": 873975563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.789939,40.799171,-96.789939,40.799171",
+    "geom:latitude":40.799171,
+    "geom:longitude":-96.789939,
+    "iso:country":"US",
+    "sg:address":"5101 W A St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 438 2561",
+    "sg:postcode":"68522",
+    "sg:province":"NE",
+    "sg:tags":[
+        "towing",
+        "tire"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85813295,
+        102083503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7TLd1mqYsV5E1pXaKyD59o_40.799107_-96.790415@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464302209,
+    "wof:geomhash":"0181a42e737ad264f2289916dae16711",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "neighbourhood_id":85813295,
+            "region_id":85688563,
+            "venue_id":873975563
+        }
+    ],
+    "wof:id":873975563,
+    "wof:lastmodified":1464302209,
+    "wof:name":"Gene's Tire & Towing Service",
+    "wof:parent_id":85813295,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "towing",
+        "tire"
+    ]
+},
+  "bbox": [
+    -96.789939,
+    40.799171,
+    -96.789939,
+    40.799171
+],
+  "geometry": {"coordinates":[-96.789939,40.799171],"type":"Point"}
+}

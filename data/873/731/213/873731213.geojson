@@ -1,0 +1,77 @@
+{
+  "id": 873731213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.624916,40.822805,-96.624916,40.822805",
+    "geom:latitude":40.822805,
+    "geom:longitude":-96.624916,
+    "iso:country":"US",
+    "sg:address":"938 N 70th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 434 2456",
+    "sg:postcode":"68505",
+    "sg:province":"NE",
+    "sg:tags":[
+        "builder",
+        "operative"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878725,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2tLXpYp9jkWxD5IFcIc4Ag_40.822805_-96.624916@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296794,
+    "wof:geomhash":"cfd2ab4e33fdf2eda5476c8f0d6b7a8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878725,
+            "region_id":85688563,
+            "venue_id":873731213
+        }
+    ],
+    "wof:id":873731213,
+    "wof:lastmodified":1464296794,
+    "wof:name":"Brighton Company",
+    "wof:parent_id":85878725,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "builder",
+        "operative"
+    ]
+},
+  "bbox": [
+    -96.624916,
+    40.822805,
+    -96.624916,
+    40.822805
+],
+  "geometry": {"coordinates":[-96.624916,40.822805],"type":"Point"}
+}

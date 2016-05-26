@@ -1,0 +1,70 @@
+{
+  "id": 873960711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.630615,40.828537,-96.630615,40.828537",
+    "geom:latitude":40.828537,
+    "geom:longitude":-96.630615,
+    "iso:country":"US",
+    "sg:address":"1541 N Cotner Blvd",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 464 5110",
+    "sg:postcode":"68505",
+    "sg:province":"NE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878725,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6daZTDH5oDCKaiaTAN303b_40.828537_-96.630615@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464301563,
+    "wof:geomhash":"92a881f19bf2d9a53a31ae8495e23f0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878725,
+            "region_id":85688563,
+            "venue_id":873960711
+        }
+    ],
+    "wof:id":873960711,
+    "wof:lastmodified":1464301563,
+    "wof:name":"The Used Bike Shop",
+    "wof:parent_id":85878725,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.630615,
+    40.828537,
+    -96.630615,
+    40.828537
+],
+  "geometry": {"coordinates":[-96.63061500000001,40.828537],"type":"Point"}
+}

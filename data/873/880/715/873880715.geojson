@@ -1,0 +1,77 @@
+{
+  "id": 873880715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.969195,41.177487,-95.969195,41.177487",
+    "geom:latitude":41.177487,
+    "geom:longitude":-95.969195,
+    "iso:country":"US",
+    "sg:address":"8214 Armstrong Cir",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 734 5448",
+    "sg:postcode":"68147",
+    "sg:province":"NE",
+    "sg:tags":[
+        "housing",
+        "program"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85849923,
+        102191575,
+        404519143,
+        85633793,
+        85974545,
+        102082777,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3QH5UKRsUrhM0oCbA3a6lM_41.177487_-95.969195@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299447,
+    "wof:geomhash":"de2376e7bed4b29b1f779cc506872bf9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082777,
+            "localadmin_id":404519143,
+            "locality_id":85974545,
+            "neighbourhood_id":85849923,
+            "region_id":85688563,
+            "venue_id":873880715
+        }
+    ],
+    "wof:id":873880715,
+    "wof:lastmodified":1464299447,
+    "wof:name":"Bellevue Housing Authority",
+    "wof:parent_id":85849923,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "housing",
+        "program"
+    ]
+},
+  "bbox": [
+    -95.969195,
+    41.177487,
+    -95.969195,
+    41.177487
+],
+  "geometry": {"coordinates":[-95.969195,41.177487],"type":"Point"}
+}

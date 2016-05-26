@@ -1,0 +1,69 @@
+{
+  "id": 873943157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.172396,41.162957,-96.172396,41.162957",
+    "geom:latitude":41.162957,
+    "geom:longitude":-96.172396,
+    "iso:country":"US",
+    "sg:address":"9721 Cinnamon Dr",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 894 1122",
+    "sg:postcode":"68136",
+    "sg:province":"NE",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85834285,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1NXQAYnXwLy7qAf2EP3Yj6_41.162957_-96.172396@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300812,
+    "wof:geomhash":"0e0e74721e2a122900146ca0a22d26b2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85834285,
+            "region_id":85688563,
+            "venue_id":873943157
+        }
+    ],
+    "wof:id":873943157,
+    "wof:lastmodified":1464300812,
+    "wof:name":"Diamond Homes Inc",
+    "wof:parent_id":85834285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -96.172396,
+    41.162957,
+    -96.172396,
+    41.162957
+],
+  "geometry": {"coordinates":[-96.17239600000001,41.162957],"type":"Point"}
+}

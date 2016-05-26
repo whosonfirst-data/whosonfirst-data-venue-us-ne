@@ -1,0 +1,77 @@
+{
+  "id": 873862525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.698643,40.814809,-96.698643,40.814809",
+    "geom:latitude":40.814809,
+    "geom:longitude":-96.698643,
+    "iso:country":"US",
+    "sg:address":"1540 P St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 474 7496",
+    "sg:postcode":"68508",
+    "sg:province":"NE",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878699,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2NZrR22uDI7VzCmHFyqrAz_40.814809_-96.698643@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299086,
+    "wof:geomhash":"fb21f5fbe07f16fd79e816585a83e50b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878699,
+            "region_id":85688563,
+            "venue_id":873862525
+        }
+    ],
+    "wof:id":873862525,
+    "wof:lastmodified":1464299086,
+    "wof:name":"Phillips 66/Coastal Inc",
+    "wof:parent_id":85878699,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -96.698643,
+    40.814809,
+    -96.698643,
+    40.814809
+],
+  "geometry": {"coordinates":[-96.698643,40.814809],"type":"Point"}
+}

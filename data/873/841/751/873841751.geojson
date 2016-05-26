@@ -1,0 +1,69 @@
+{
+  "id": 873841751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.035404,41.185797,-96.035404,41.185797",
+    "geom:latitude":41.185797,
+    "geom:longitude":-96.035404,
+    "iso:country":"US",
+    "sg:address":"7810 Terry Dr",
+    "sg:city":"La Vista",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 592 1669",
+    "sg:postcode":"68128",
+    "sg:province":"NE",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85843697,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6CjQXB6keGzKOquyKKZXZP_41.185797_-96.035404@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298594,
+    "wof:geomhash":"ccede2967c6ab7b00eaebe6e871db643",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85843697,
+            "region_id":85688563,
+            "venue_id":873841751
+        }
+    ],
+    "wof:id":873841751,
+    "wof:lastmodified":1464298594,
+    "wof:name":"Durashield Painting",
+    "wof:parent_id":85843697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -96.035404,
+    41.185797,
+    -96.035404,
+    41.185797
+],
+  "geometry": {"coordinates":[-96.035404,41.185797],"type":"Point"}
+}

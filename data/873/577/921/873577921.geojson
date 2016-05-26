@@ -1,0 +1,73 @@
+{
+  "id": 873577921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.628053,40.783691,-96.628053,40.783691",
+    "geom:latitude":40.783691,
+    "geom:longitude":-96.628053,
+    "iso:country":"US",
+    "sg:address":"2927 Park Place Dr",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 483 2375",
+    "sg:postcode":"68506",
+    "sg:province":"NE",
+    "sg:tags":[
+        "property",
+        "lessor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4hmNodRlTPZdOgP0Qd6ecp_40.783691_-96.628053@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294693,
+    "wof:geomhash":"4fe6ad19feecef34043ed5441643e242",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878697,
+            "region_id":85688563,
+            "venue_id":873577921
+        }
+    ],
+    "wof:id":873577921,
+    "wof:lastmodified":1464294693,
+    "wof:name":"Amy Frohn",
+    "wof:parent_id":85878697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "property",
+        "lessor"
+    ]
+},
+  "bbox": [
+    -96.628053,
+    40.783691,
+    -96.628053,
+    40.783691
+],
+  "geometry": {"coordinates":[-96.62805299999999,40.783691],"type":"Point"}
+}

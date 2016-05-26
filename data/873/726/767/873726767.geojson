@@ -1,0 +1,79 @@
+{
+  "id": 873726767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.711612,40.790686,-96.711612,40.790686",
+    "geom:latitude":40.790686,
+    "geom:longitude":-96.711612,
+    "iso:country":"US",
+    "sg:address":"2147 S 7th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 475 6195",
+    "sg:postcode":"68502",
+    "sg:province":"NE",
+    "sg:tags":[
+        "concrete",
+        "contractor",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878719,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_14mBY3SFZrt0V6wZ1JMCiD_40.790686_-96.711612@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296738,
+    "wof:geomhash":"d59a7627358dcddc7d7d8168b0ba0c5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878719,
+            "region_id":85688563,
+            "venue_id":873726767
+        }
+    ],
+    "wof:id":873726767,
+    "wof:lastmodified":1464296738,
+    "wof:name":"Andre Concrete Co",
+    "wof:parent_id":85878719,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor",
+        "general"
+    ]
+},
+  "bbox": [
+    -96.711612,
+    40.790686,
+    -96.711612,
+    40.790686
+],
+  "geometry": {"coordinates":[-96.711612,40.790686],"type":"Point"}
+}

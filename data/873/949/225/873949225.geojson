@@ -1,0 +1,77 @@
+{
+  "id": 873949225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.69533,40.806931,-96.69533,40.806931",
+    "geom:latitude":40.806931,
+    "geom:longitude":-96.69533,
+    "iso:country":"US",
+    "sg:address":"601 S 18th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 476 6829",
+    "sg:postcode":"68508",
+    "sg:province":"NE",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878699,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4e22HtdI7DJ2EmyKPPgiFz_40.806931_-96.695330@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464301114,
+    "wof:geomhash":"c07f3bfca0bcad573271e7e2e38915a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878699,
+            "region_id":85688563,
+            "venue_id":873949225
+        }
+    ],
+    "wof:id":873949225,
+    "wof:lastmodified":1464301114,
+    "wof:name":"Capitol Hill Apartments",
+    "wof:parent_id":85878699,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -96.69533,
+    40.806931,
+    -96.69533,
+    40.806931
+],
+  "geometry": {"coordinates":[-96.69533,40.806931],"type":"Point"}
+}

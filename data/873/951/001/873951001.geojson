@@ -1,0 +1,69 @@
+{
+  "id": 873951001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.0438,41.148323,-96.0438,41.148323",
+    "geom:latitude":41.148323,
+    "geom:longitude":-96.0438,
+    "iso:country":"US",
+    "sg:address":"849 S Adams St",
+    "sg:city":"Papillion",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 339 3714",
+    "sg:postcode":"68046",
+    "sg:province":"NE",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85843697,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3vtBxwURog6eg7ne6fddIZ_41.148323_-96.043800@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464301184,
+    "wof:geomhash":"5e584a4044172b484a4672d1ebe137e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85843697,
+            "region_id":85688563,
+            "venue_id":873951001
+        }
+    ],
+    "wof:id":873951001,
+    "wof:lastmodified":1464301184,
+    "wof:name":"B JS Calico Crafts & Gifts",
+    "wof:parent_id":85843697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -96.0438,
+    41.148323,
+    -96.0438,
+    41.148323
+],
+  "geometry": {"coordinates":[-96.0438,41.148323],"type":"Point"}
+}

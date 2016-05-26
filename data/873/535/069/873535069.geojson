@@ -1,0 +1,77 @@
+{
+  "id": 873535069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.652425,40.839935,-96.652425,40.839935",
+    "geom:latitude":40.839935,
+    "geom:longitude":-96.652425,
+    "iso:country":"US",
+    "sg:address":"2737 N 49th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 466 6404",
+    "sg:postcode":"68504",
+    "sg:province":"NE",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85853163,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ddiQLGBNLUU5Pc53Cwoqu_40.839935_-96.652425@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294205,
+    "wof:geomhash":"4677b6b672dc74af23bbd83caccb9207",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85853163,
+            "region_id":85688563,
+            "venue_id":873535069
+        }
+    ],
+    "wof:id":873535069,
+    "wof:lastmodified":1464294205,
+    "wof:name":"Stoney Ridge Day Treatment Ctr",
+    "wof:parent_id":85853163,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -96.652425,
+    40.839935,
+    -96.652425,
+    40.839935
+],
+  "geometry": {"coordinates":[-96.65242499999999,40.839935],"type":"Point"}
+}

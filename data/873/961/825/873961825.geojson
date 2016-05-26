@@ -1,0 +1,71 @@
+{
+  "id": 873961825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.13567,41.305901,-96.13567,41.305901",
+    "geom:latitude":41.305901,
+    "geom:longitude":-96.13567,
+    "iso:country":"US",
+    "sg:address":"14021 Camden Ave",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 934 9919",
+    "sg:postcode":"68164",
+    "sg:province":"NE",
+    "sg:tags":[
+        "website",
+        "design"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85872505,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3171uSbcXP87lOP6u0hzUu_41.305901_-96.135670@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464301640,
+    "wof:geomhash":"a86eed81511196438b6f1b16c13db5a6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":873961825
+        }
+    ],
+    "wof:id":873961825,
+    "wof:lastmodified":1464301640,
+    "wof:name":"Nebraska Networks",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "website",
+        "design"
+    ]
+},
+  "bbox": [
+    -96.13567,
+    41.305901,
+    -96.13567,
+    41.305901
+],
+  "geometry": {"coordinates":[-96.13567,41.305901],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 873674417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.135879,41.248507,-96.135879,41.248507",
+    "geom:latitude":41.248507,
+    "geom:longitude":-96.135879,
+    "iso:country":"US",
+    "sg:address":"14211 Pacific St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 493 5000",
+    "sg:postcode":"68154",
+    "sg:province":"NE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85806957,
+        102191575,
+        404519987,
+        85633793,
+        85973479,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6wOt6OQVMOyCrEqbwwWE2i_41.248507_-96.135879@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295850,
+    "wof:geomhash":"ea41d0e6aa8b1d386f73ea7122628af8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404519987,
+            "locality_id":85973479,
+            "neighbourhood_id":85806957,
+            "region_id":85688563,
+            "venue_id":873674417
+        }
+    ],
+    "wof:id":873674417,
+    "wof:lastmodified":1464295850,
+    "wof:name":"American Family Insurance",
+    "wof:parent_id":85806957,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.135879,
+    41.248507,
+    -96.135879,
+    41.248507
+],
+  "geometry": {"coordinates":[-96.135879,41.248507],"type":"Point"}
+}

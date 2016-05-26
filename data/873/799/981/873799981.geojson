@@ -1,0 +1,74 @@
+{
+  "id": 873799981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.081341,41.190066,-96.081341,41.190066",
+    "geom:latitude":41.190066,
+    "geom:longitude":-96.081341,
+    "iso:country":"US",
+    "sg:address":"6949 S 108th St",
+    "sg:city":"La Vista",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 592 6600",
+    "sg:postcode":"68128",
+    "sg:province":"NE",
+    "sg:tags":[
+        "bakery",
+        "prod",
+        "cookie"
+    ],
+    "sg:website":"www.rotellasbakery.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85843697,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_070cgx90lTVtcXb294o6zQ_41.190066_-96.081341@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297773,
+    "wof:geomhash":"e2a22fe4bf28d621252c821bd91c785a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85843697,
+            "region_id":85688563,
+            "venue_id":873799981
+        }
+    ],
+    "wof:id":873799981,
+    "wof:lastmodified":1464297773,
+    "wof:name":"Rotella's Italian Bakery Inc",
+    "wof:parent_id":85843697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bakery",
+        "prod",
+        "cookie"
+    ]
+},
+  "bbox": [
+    -96.081341,
+    41.190066,
+    -96.081341,
+    41.190066
+],
+  "geometry": {"coordinates":[-96.08134099999999,41.190066],"type":"Point"}
+}

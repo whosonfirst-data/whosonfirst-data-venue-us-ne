@@ -1,0 +1,76 @@
+{
+  "id": 873960175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.13393,41.23305,-96.13393,41.23305",
+    "geom:latitude":41.23305,
+    "geom:longitude":-96.13393,
+    "iso:country":"US",
+    "sg:address":"2730 S 140th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 334 9449",
+    "sg:postcode":"68144",
+    "sg:province":"NE",
+    "sg:tags":[
+        "tutoring"
+    ],
+    "sg:website":"www.educate.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872531,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_10cOb4GpZdq09MMAVMcLqd_41.233050_-96.133930@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464301534,
+    "wof:geomhash":"4038a52f2b89b63d1f05d05fa6d31956",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872531,
+            "region_id":85688563,
+            "venue_id":873960175
+        }
+    ],
+    "wof:id":873960175,
+    "wof:lastmodified":1464301534,
+    "wof:name":"Sylvan Learning Ctr",
+    "wof:parent_id":85872531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tutoring"
+    ]
+},
+  "bbox": [
+    -96.13393,
+    41.23305,
+    -96.13393,
+    41.23305
+],
+  "geometry": {"coordinates":[-96.13393000000001,41.23305],"type":"Point"}
+}

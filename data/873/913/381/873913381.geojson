@@ -1,0 +1,81 @@
+{
+  "id": 873913381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.122736,41.216782,-96.122736,41.216782",
+    "geom:latitude":41.216782,
+    "geom:longitude":-96.122736,
+    "iso:country":"US",
+    "sg:address":"13330 I St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 330 1500",
+    "sg:postcode":"68137",
+    "sg:province":"NE",
+    "sg:tags":[
+        "equipment",
+        "material",
+        "handling",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872531,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5W0UPgOx9UMkqnYrdCVRXu_41.216782_-96.122736@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300076,
+    "wof:geomhash":"4f1345cd4672fd13ce46dc725613b6ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872531,
+            "region_id":85688563,
+            "venue_id":873913381
+        }
+    ],
+    "wof:id":873913381,
+    "wof:lastmodified":1464300076,
+    "wof:name":"Intersystems",
+    "wof:parent_id":85872531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "material",
+        "handling",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -96.122736,
+    41.216782,
+    -96.122736,
+    41.216782
+],
+  "geometry": {"coordinates":[-96.122736,41.216782],"type":"Point"}
+}

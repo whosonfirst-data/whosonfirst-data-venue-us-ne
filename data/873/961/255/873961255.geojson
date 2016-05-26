@@ -1,0 +1,76 @@
+{
+  "id": 873961255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.967643,41.176408,-95.967643,41.176408",
+    "geom:latitude":41.176408,
+    "geom:longitude":-95.967643,
+    "iso:country":"US",
+    "sg:address":"3702 Giles Rd",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 734 3112",
+    "sg:postcode":"68123",
+    "sg:province":"NE",
+    "sg:tags":[
+        "church"
+    ],
+    "sg:website":"www.bethelchristian.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85849923,
+        102191575,
+        404519143,
+        85633793,
+        85974545,
+        102082777,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3rbIdXk8zdnGR897FJo92s_41.176408_-95.967643@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464301605,
+    "wof:geomhash":"f834db152f3633ed92eb9367a7b1a8e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082777,
+            "localadmin_id":404519143,
+            "locality_id":85974545,
+            "neighbourhood_id":85849923,
+            "region_id":85688563,
+            "venue_id":873961255
+        }
+    ],
+    "wof:id":873961255,
+    "wof:lastmodified":1464301605,
+    "wof:name":"Bethel Christian Ministries",
+    "wof:parent_id":85849923,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -95.967643,
+    41.176408,
+    -95.967643,
+    41.176408
+],
+  "geometry": {"coordinates":[-95.967643,41.176408],"type":"Point"}
+}

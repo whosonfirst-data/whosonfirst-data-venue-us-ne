@@ -1,0 +1,71 @@
+{
+  "id": 873717503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.654128,40.735134,-96.654128,40.735134",
+    "geom:latitude":40.735134,
+    "geom:longitude":-96.654128,
+    "iso:country":"US",
+    "sg:address":"4760 Union Hill Rd",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 423 3553",
+    "sg:postcode":"68516",
+    "sg:province":"NE",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5K9Tm6SvE5oUAuLeYU8ofU_40.735134_-96.654128@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296615,
+    "wof:geomhash":"be64cad49a7a373436f29b6a4a0607cf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878733,
+            "region_id":85688563,
+            "venue_id":873717503
+        }
+    ],
+    "wof:id":873717503,
+    "wof:lastmodified":1464296615,
+    "wof:name":"Haes Contracting",
+    "wof:parent_id":85878733,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.654128,
+    40.735134,
+    -96.654128,
+    40.735134
+],
+  "geometry": {"coordinates":[-96.654128,40.735134],"type":"Point"}
+}

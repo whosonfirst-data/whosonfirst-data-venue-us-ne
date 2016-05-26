@@ -1,0 +1,76 @@
+{
+  "id": 873925843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.682452,40.737703,-96.682452,40.737703",
+    "geom:latitude":40.737703,
+    "geom:longitude":-96.682452,
+    "iso:country":"US",
+    "sg:address":"7300 S 27th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 420 3300",
+    "sg:postcode":"68502",
+    "sg:province":"NE",
+    "sg:tags":[
+        "car",
+        "used",
+        "dealer"
+    ],
+    "sg:website":"www.duteau.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_60fTAPeNJFkPte8xVZwf70_40.737703_-96.682452@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300323,
+    "wof:geomhash":"a3de160cc4528fb6d2b6abe73da9e112",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878733,
+            "region_id":85688563,
+            "venue_id":873925843
+        }
+    ],
+    "wof:id":873925843,
+    "wof:lastmodified":1464300323,
+    "wof:name":"Duteau Chevrolet & Subaru Inc",
+    "wof:parent_id":85878733,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "used",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -96.682452,
+    40.737703,
+    -96.682452,
+    40.737703
+],
+  "geometry": {"coordinates":[-96.682452,40.737703],"type":"Point"}
+}

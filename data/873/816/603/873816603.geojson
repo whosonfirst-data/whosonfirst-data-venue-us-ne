@@ -1,0 +1,75 @@
+{
+  "id": 873816603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.688342,40.81208,-96.688342,40.81208",
+    "geom:latitude":40.81208,
+    "geom:longitude":-96.688342,
+    "iso:country":"US",
+    "sg:address":"233 S 23rd St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 441 7892",
+    "sg:postcode":"68510",
+    "sg:province":"NE",
+    "sg:tags":[
+        "parks"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878723,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5SZXpwHZak7nKbYBuWhLo8_40.812080_-96.688342@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298046,
+    "wof:geomhash":"fda877b88841567c22526ea84ad1bae2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878723,
+            "region_id":85688563,
+            "venue_id":873816603
+        }
+    ],
+    "wof:id":873816603,
+    "wof:lastmodified":1464298046,
+    "wof:name":"Lincoln Parks & Recreation",
+    "wof:parent_id":85878723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "parks"
+    ]
+},
+  "bbox": [
+    -96.688342,
+    40.81208,
+    -96.688342,
+    40.81208
+],
+  "geometry": {"coordinates":[-96.68834200000001,40.81208],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 873729739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.233278,41.275364,-96.233278,41.275364",
+    "geom:latitude":41.275364,
+    "geom:longitude":-96.233278,
+    "iso:country":"US",
+    "sg:address":"1706 Binfield St",
+    "sg:city":"Elkhorn",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 289 3424",
+    "sg:postcode":"68022",
+    "sg:province":"NE",
+    "sg:tags":[
+        "lighting",
+        "landscape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85868921,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3FGSqMwSXy7vQNOGtoJeea_41.275364_-96.233278@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296776,
+    "wof:geomhash":"b7df916f4b2631b18db6ab04e3c03a73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85868921,
+            "region_id":85688563,
+            "venue_id":873729739
+        }
+    ],
+    "wof:id":873729739,
+    "wof:lastmodified":1464296776,
+    "wof:name":"Mc Kay Landscape Lighting",
+    "wof:parent_id":85868921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lighting",
+        "landscape"
+    ]
+},
+  "bbox": [
+    -96.233278,
+    41.275364,
+    -96.233278,
+    41.275364
+],
+  "geometry": {"coordinates":[-96.233278,41.275364],"type":"Point"}
+}

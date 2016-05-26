@@ -1,0 +1,70 @@
+{
+  "id": 873780573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.694031,40.80242,-96.694031,40.80242",
+    "geom:latitude":40.80242,
+    "geom:longitude":-96.694031,
+    "iso:country":"US",
+    "sg:address":"1811 D St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 477 3526",
+    "sg:postcode":"68502",
+    "sg:province":"NE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878727,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4o9dwzzRM40BTylsiz3XV9_40.802420_-96.694031@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297499,
+    "wof:geomhash":"82c44cf4b3e09e8a76ff940e936ae728",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878727,
+            "region_id":85688563,
+            "venue_id":873780573
+        }
+    ],
+    "wof:id":873780573,
+    "wof:lastmodified":1464297499,
+    "wof:name":"Food For Thought",
+    "wof:parent_id":85878727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.694031,
+    40.80242,
+    -96.694031,
+    40.80242
+],
+  "geometry": {"coordinates":[-96.694031,40.80242],"type":"Point"}
+}

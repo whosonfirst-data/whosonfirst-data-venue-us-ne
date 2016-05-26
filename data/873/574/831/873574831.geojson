@@ -1,0 +1,71 @@
+{
+  "id": 873574831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.597513,40.743901,-96.597513,40.743901",
+    "geom:latitude":40.743901,
+    "geom:longitude":-96.597513,
+    "iso:country":"US",
+    "sg:address":"8800 Truchard Rd",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 484 8021",
+    "sg:postcode":"68526",
+    "sg:province":"NE",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_02bojaARgTgxLizafdulDo_40.743901_-96.597513@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294662,
+    "wof:geomhash":"1bd942badb419a2cf2b66c73c0620520",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878685,
+            "region_id":85688563,
+            "venue_id":873574831
+        }
+    ],
+    "wof:id":873574831,
+    "wof:lastmodified":1464294662,
+    "wof:name":"Alderson Enterprises",
+    "wof:parent_id":85878685,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -96.597513,
+    40.743901,
+    -96.597513,
+    40.743901
+],
+  "geometry": {"coordinates":[-96.59751300000001,40.743901],"type":"Point"}
+}

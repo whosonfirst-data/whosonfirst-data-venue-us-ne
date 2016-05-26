@@ -1,0 +1,77 @@
+{
+  "id": 873854751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.043465,41.281974,-96.043465,41.281974",
+    "geom:latitude":41.281974,
+    "geom:longitude":-96.043465,
+    "iso:country":"US",
+    "sg:address":"2640 N 84th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 393 4546",
+    "sg:postcode":"68134",
+    "sg:province":"NE",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872507,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_04Zy8w70wStNdyavlnx8hi_41.281974_-96.043465@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298909,
+    "wof:geomhash":"2ac24b2878cd9566e6b228e88d92eaa9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872507,
+            "region_id":85688563,
+            "venue_id":873854751
+        }
+    ],
+    "wof:id":873854751,
+    "wof:lastmodified":1464298909,
+    "wof:name":"Alarm Pros Inc",
+    "wof:parent_id":85872507,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.043465,
+    41.281974,
+    -96.043465,
+    41.281974
+],
+  "geometry": {"coordinates":[-96.043465,41.281974],"type":"Point"}
+}

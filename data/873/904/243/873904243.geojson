@@ -1,0 +1,71 @@
+{
+  "id": 873904243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.919689,41.165129,-95.919689,41.165129",
+    "geom:latitude":41.165129,
+    "geom:longitude":-95.919689,
+    "iso:country":"US",
+    "sg:address":"1910 Avery Rd E",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 733 1104",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85804025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6FaAq4EYBfdZzE8FUwEjo2_41.165129_-95.919689@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299904,
+    "wof:geomhash":"a6ca59953974e43279af1410c0400743",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85804025,
+            "region_id":85688563,
+            "venue_id":873904243
+        }
+    ],
+    "wof:id":873904243,
+    "wof:lastmodified":1464299904,
+    "wof:name":"Avery Presbyterian Church",
+    "wof:parent_id":85804025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -95.919689,
+    41.165129,
+    -95.919689,
+    41.165129
+],
+  "geometry": {"coordinates":[-95.91968900000001,41.165129],"type":"Point"}
+}

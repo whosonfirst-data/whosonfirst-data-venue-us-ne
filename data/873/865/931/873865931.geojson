@@ -1,0 +1,73 @@
+{
+  "id": 873865931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.060398,41.167019,-96.060398,41.167019",
+    "geom:latitude":41.167019,
+    "geom:longitude":-96.060398,
+    "iso:country":"US",
+    "sg:address":"1201 Deer Run Ln",
+    "sg:city":"Papillion",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 592 5217",
+    "sg:postcode":"68046",
+    "sg:province":"NE",
+    "sg:tags":[
+        "home",
+        "residential",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85843697,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Osn7jFcjLzlJRl3WCql4C_41.167019_-96.060398@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299155,
+    "wof:geomhash":"554ad04d0dcc2c9712a303144ea234f0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85843697,
+            "region_id":85688563,
+            "venue_id":873865931
+        }
+    ],
+    "wof:id":873865931,
+    "wof:lastmodified":1464299155,
+    "wof:name":"Ulrich Bros Construction",
+    "wof:parent_id":85843697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "residential",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.060398,
+    41.167019,
+    -96.060398,
+    41.167019
+],
+  "geometry": {"coordinates":[-96.06039800000001,41.167019],"type":"Point"}
+}

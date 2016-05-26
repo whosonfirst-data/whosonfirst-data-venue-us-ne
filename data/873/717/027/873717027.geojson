@@ -1,0 +1,71 @@
+{
+  "id": 873717027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.913202,41.147886,-95.913202,41.147886",
+    "geom:latitude":41.147886,
+    "geom:longitude":-95.913202,
+    "iso:country":"US",
+    "sg:address":"1201 Fairfax Rd",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 291 6617",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85821583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2OECs4NSz5Ly7MiJyhe6A8_41.147886_-95.913202@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296606,
+    "wof:geomhash":"4a4cc27dc423b44bd95a64055bc8b34c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85821583,
+            "region_id":85688563,
+            "venue_id":873717027
+        }
+    ],
+    "wof:id":873717027,
+    "wof:lastmodified":1464296606,
+    "wof:name":"Classic Plumbing",
+    "wof:parent_id":85821583,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -95.913202,
+    41.147886,
+    -95.913202,
+    41.147886
+],
+  "geometry": {"coordinates":[-95.913202,41.147886],"type":"Point"}
+}

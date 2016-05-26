@@ -1,0 +1,76 @@
+{
+  "id": 873971979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.051381,41.306699,-96.051381,41.306699",
+    "geom:latitude":41.306699,
+    "geom:longitude":-96.051381,
+    "iso:country":"US",
+    "sg:address":"8929 Fort St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 571 2273",
+    "sg:postcode":"68134",
+    "sg:province":"NE",
+    "sg:tags":[
+        "pet",
+        "dog",
+        "kennel",
+        "cat"
+    ],
+    "sg:website":"http://www.bonejour.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85872505,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4OoPv4YHPz59B0LLkjAMgn_41.306615_-96.050881@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464302064,
+    "wof:geomhash":"e3eb250e2a73d145f3cfc52c8cb0efbc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":873971979
+        }
+    ],
+    "wof:id":873971979,
+    "wof:lastmodified":1464302064,
+    "wof:name":"Bone Jour Dog Daycare",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "dog",
+        "kennel",
+        "cat"
+    ]
+},
+  "bbox": [
+    -96.051381,
+    41.306699,
+    -96.051381,
+    41.306699
+],
+  "geometry": {"coordinates":[-96.05138100000001,41.306699],"type":"Point"}
+}

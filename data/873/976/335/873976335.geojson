@@ -1,0 +1,70 @@
+{
+  "id": 873976335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.052688,41.307685,-96.052688,41.307685",
+    "geom:latitude":41.307685,
+    "geom:longitude":-96.052688,
+    "iso:country":"US",
+    "sg:address":"5402 N 90th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ne/omaha/244408-matts-grill/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 572 5223",
+    "sg:postcode":"68134",
+    "sg:province":"NE",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85872505,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Yo7XILi3mWRD66hC2DoWs_41.307685_-96.052688@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464302234,
+    "wof:geomhash":"76c190d8200c7613807d81845da212ce",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":873976335
+        }
+    ],
+    "wof:id":873976335,
+    "wof:lastmodified":1464302234,
+    "wof:name":"Matt's Grill",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -96.052688,
+    41.307685,
+    -96.052688,
+    41.307685
+],
+  "geometry": {"coordinates":[-96.052688,41.307685],"type":"Point"}
+}

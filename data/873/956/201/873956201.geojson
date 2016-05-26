@@ -1,0 +1,71 @@
+{
+  "id": 873956201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.042916,41.155047,-96.042916,41.155047",
+    "geom:latitude":41.155047,
+    "geom:longitude":-96.042916,
+    "iso:country":"US",
+    "sg:address":"225 S Washington St",
+    "sg:city":"Papillion",
+    "sg:classifiers":[
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Theater",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 592 3388",
+    "sg:postcode":"68046",
+    "sg:province":"NE",
+    "sg:tags":[
+        "bureau",
+        "concert"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85843697,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3h4CpxcVwh8iczp4SGT0vP_41.155047_-96.042916@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464301380,
+    "wof:geomhash":"caefabd6083b72643f1371717d641c3f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85843697,
+            "region_id":85688563,
+            "venue_id":873956201
+        }
+    ],
+    "wof:id":873956201,
+    "wof:lastmodified":1464301380,
+    "wof:name":"Rock",
+    "wof:parent_id":85843697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bureau",
+        "concert"
+    ]
+},
+  "bbox": [
+    -96.042916,
+    41.155047,
+    -96.042916,
+    41.155047
+],
+  "geometry": {"coordinates":[-96.04291600000001,41.155047],"type":"Point"}
+}

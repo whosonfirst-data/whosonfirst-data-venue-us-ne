@@ -1,0 +1,71 @@
+{
+  "id": 873555477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.623903,40.788517,-96.623903,40.788517",
+    "geom:latitude":40.788517,
+    "geom:longitude":-96.623903,
+    "iso:country":"US",
+    "sg:address":"7300 Old Post Rd",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 484 6477",
+    "sg:postcode":"68506",
+    "sg:province":"NE",
+    "sg:tags":[
+        "investigator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_50yHLA96RR9pNn0pWU4YlQ_40.788517_-96.623903@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294442,
+    "wof:geomhash":"60054adc16a141ec91ef3b4a63f87514",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878697,
+            "region_id":85688563,
+            "venue_id":873555477
+        }
+    ],
+    "wof:id":873555477,
+    "wof:lastmodified":1464294442,
+    "wof:name":"O'Neal Private Investigation",
+    "wof:parent_id":85878697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "investigator"
+    ]
+},
+  "bbox": [
+    -96.623903,
+    40.788517,
+    -96.623903,
+    40.788517
+],
+  "geometry": {"coordinates":[-96.623903,40.788517],"type":"Point"}
+}

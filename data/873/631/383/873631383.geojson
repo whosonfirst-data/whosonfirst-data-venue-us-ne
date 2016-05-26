@@ -1,0 +1,71 @@
+{
+  "id": 873631383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.18932,41.182946,-96.18932,41.182946",
+    "geom:latitude":41.182946,
+    "geom:longitude":-96.18932,
+    "iso:country":"US",
+    "sg:address":"17512 Storage Rd",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Furniture",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 891 0800",
+    "sg:postcode":"68136",
+    "sg:province":"NE",
+    "sg:tags":[
+        "house",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85834285,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_411WEBCqlzYiCodekNpsjr_41.182946_-96.189320@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295378,
+    "wof:geomhash":"84ffa8e4265db703dff293b3160078a8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85834285,
+            "region_id":85688563,
+            "venue_id":873631383
+        }
+    ],
+    "wof:id":873631383,
+    "wof:lastmodified":1464295378,
+    "wof:name":"Beers Custom Cabinets",
+    "wof:parent_id":85834285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -96.18932,
+    41.182946,
+    -96.18932,
+    41.182946
+],
+  "geometry": {"coordinates":[-96.18932,41.182946],"type":"Point"}
+}

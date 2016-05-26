@@ -1,0 +1,67 @@
+{
+  "id": 873948667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.908317,41.160011,-95.908317,41.160011",
+    "geom:latitude":41.160011,
+    "geom:longitude":-95.908317,
+    "iso:country":"US",
+    "sg:address":"1201 Gregg Rd",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 293 4930",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:website":"www.bellevuecia.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85804025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_34RoSf6DW5PFDGhy2hOJgg_41.160011_-95.908317@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464301092,
+    "wof:geomhash":"03f1bef61629446eb25648b1e9e70d43",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85804025,
+            "region_id":85688563,
+            "venue_id":873948667
+        }
+    ],
+    "wof:id":873948667,
+    "wof:lastmodified":1464301092,
+    "wof:name":"Resource Center",
+    "wof:parent_id":85804025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -95.908317,
+    41.160011,
+    -95.908317,
+    41.160011
+],
+  "geometry": {"coordinates":[-95.908317,41.160011],"type":"Point"}
+}

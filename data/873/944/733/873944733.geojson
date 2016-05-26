@@ -1,0 +1,74 @@
+{
+  "id": 873944733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.744189,40.852914,-96.744189,40.852914",
+    "geom:latitude":40.852914,
+    "geom:longitude":-96.744189,
+    "iso:country":"US",
+    "sg:address":"4055 N Park Rd",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Airport",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 474 5074",
+    "sg:postcode":"68524",
+    "sg:province":"NE",
+    "sg:tags":[
+        "aircraft",
+        "maintenance"
+    ],
+    "sg:website":"www.hillaero.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5izI1g5KxXEa73308A4pUB_40.852914_-96.744189@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300870,
+    "wof:geomhash":"8028b9109eea07fc060a8ce41d335697",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878717,
+            "region_id":85688563,
+            "venue_id":873944733
+        }
+    ],
+    "wof:id":873944733,
+    "wof:lastmodified":1464300870,
+    "wof:name":"Hillaero Modification Ctr",
+    "wof:parent_id":85878717,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "aircraft",
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -96.744189,
+    40.852914,
+    -96.744189,
+    40.852914
+],
+  "geometry": {"coordinates":[-96.74418900000001,40.852914],"type":"Point"}
+}

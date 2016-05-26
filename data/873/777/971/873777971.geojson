@@ -1,0 +1,71 @@
+{
+  "id": 873777971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.976866,41.129551,-95.976866,41.129551",
+    "geom:latitude":41.129551,
+    "geom:longitude":-95.976866,
+    "iso:country":"US",
+    "sg:address":"4204 Bob White Cir",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 293 7678",
+    "sg:postcode":"68123",
+    "sg:province":"NE",
+    "sg:tags":[
+        "encyclopedia"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85821583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0z6hxA9ZevrkCsl9pXdthJ_41.129551_-95.976866@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297463,
+    "wof:geomhash":"933027dd12fe1ba137f7ca6bffb62aaf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85821583,
+            "region_id":85688563,
+            "venue_id":873777971
+        }
+    ],
+    "wof:id":873777971,
+    "wof:lastmodified":1464297463,
+    "wof:name":"World Book Educational Prods",
+    "wof:parent_id":85821583,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "encyclopedia"
+    ]
+},
+  "bbox": [
+    -95.976866,
+    41.129551,
+    -95.976866,
+    41.129551
+],
+  "geometry": {"coordinates":[-95.976866,41.129551],"type":"Point"}
+}

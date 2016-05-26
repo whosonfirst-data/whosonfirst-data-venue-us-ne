@@ -1,0 +1,74 @@
+{
+  "id": 873601071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.088739,41.312175,-96.088739,41.312175",
+    "geom:latitude":41.312175,
+    "geom:longitude":-96.088739,
+    "iso:country":"US",
+    "sg:address":"5733 N 115th Cir",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 208 8154",
+    "sg:postcode":"68164",
+    "sg:province":"NE",
+    "sg:tags":[
+        "electrical",
+        "electric",
+        "contractor"
+    ],
+    "sg:website":"www.blandfordelectric.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85872505,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7FSFwPiPFd6r6Qg9uR9G7b_41.312175_-96.088739@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294998,
+    "wof:geomhash":"74dc613bedf3f96e5a25b454560a0f8a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":873601071
+        }
+    ],
+    "wof:id":873601071,
+    "wof:lastmodified":1464294998,
+    "wof:name":"Blandford Electric Svc",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.088739,
+    41.312175,
+    -96.088739,
+    41.312175
+],
+  "geometry": {"coordinates":[-96.088739,41.312175],"type":"Point"}
+}

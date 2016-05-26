@@ -1,0 +1,71 @@
+{
+  "id": 873596231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.731462,40.860137,-96.731462,40.860137",
+    "geom:latitude":40.860137,
+    "geom:longitude":-96.731462,
+    "iso:country":"US",
+    "sg:address":"733 W Cuming St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Toys & Sporting Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 477 4734",
+    "sg:postcode":"68521",
+    "sg:province":"NE",
+    "sg:tags":[
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2v332L8ieNhzCTakvfDsVN_40.860137_-96.731462@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294931,
+    "wof:geomhash":"c9f51357bbdc09ab4a0edad5a5f033df",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878717,
+            "region_id":85688563,
+            "venue_id":873596231
+        }
+    ],
+    "wof:id":873596231,
+    "wof:lastmodified":1464294931,
+    "wof:name":"Richards Bowling Supplies",
+    "wof:parent_id":85878717,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg"
+    ]
+},
+  "bbox": [
+    -96.731462,
+    40.860137,
+    -96.731462,
+    40.860137
+],
+  "geometry": {"coordinates":[-96.73146199999999,40.860137],"type":"Point"}
+}

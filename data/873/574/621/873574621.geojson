@@ -1,0 +1,77 @@
+{
+  "id": 873574621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.653619,40.832229,-96.653619,40.832229",
+    "geom:latitude":40.832229,
+    "geom:longitude":-96.653619,
+    "iso:country":"US",
+    "sg:address":"2000 N 48th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 441 7834",
+    "sg:postcode":"68504",
+    "sg:province":"NE",
+    "sg:tags":[
+        "pool",
+        "swimming"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85853163,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7HfQ0GRXd7iQi0ogexsyOo_40.832229_-96.653619@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294659,
+    "wof:geomhash":"a9d4c09402c77f0293619ce677c2dd0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85853163,
+            "region_id":85688563,
+            "venue_id":873574621
+        }
+    ],
+    "wof:id":873574621,
+    "wof:lastmodified":1464294659,
+    "wof:name":"University Place Swimming Pool",
+    "wof:parent_id":85853163,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pool",
+        "swimming"
+    ]
+},
+  "bbox": [
+    -96.653619,
+    40.832229,
+    -96.653619,
+    40.832229
+],
+  "geometry": {"coordinates":[-96.65361900000001,40.832229],"type":"Point"}
+}

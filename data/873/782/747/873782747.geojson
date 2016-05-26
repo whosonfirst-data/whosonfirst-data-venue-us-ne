@@ -1,0 +1,75 @@
+{
+  "id": 873782747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.649685,40.751661,-96.649685,40.751661",
+    "geom:latitude":40.751661,
+    "geom:longitude":-96.649685,
+    "iso:country":"US",
+    "sg:address":"5941 Queens Dr",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 420 7332",
+    "sg:postcode":"68516",
+    "sg:province":"NE",
+    "sg:tags":[
+        "mental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878695,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_18SzQnVedrVt7WmaKsefi9_40.751661_-96.649685@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297527,
+    "wof:geomhash":"fc6dc367ff12ad287b09395b2f92be3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878695,
+            "region_id":85688563,
+            "venue_id":873782747
+        }
+    ],
+    "wof:id":873782747,
+    "wof:lastmodified":1464297527,
+    "wof:name":"Alternative Behavioral Svc Inc",
+    "wof:parent_id":85878695,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mental"
+    ]
+},
+  "bbox": [
+    -96.649685,
+    40.751661,
+    -96.649685,
+    40.751661
+],
+  "geometry": {"coordinates":[-96.64968500000001,40.751661],"type":"Point"}
+}

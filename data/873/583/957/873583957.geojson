@@ -1,0 +1,71 @@
+{
+  "id": 873583957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.00444,41.133292,-96.00444,41.133292",
+    "geom:latitude":41.133292,
+    "geom:longitude":-96.00444,
+    "iso:country":"US",
+    "sg:address":"11623 S 60th St",
+    "sg:city":"Papillion",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 592 6956",
+    "sg:postcode":"68133",
+    "sg:province":"NE",
+    "sg:tags":[
+        "pet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85821583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3K7yclXrgk15hLsZbEyuXq_41.133292_-96.004440@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294762,
+    "wof:geomhash":"41c0e2566a3e314f617b6fbb699bae47",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85821583,
+            "region_id":85688563,
+            "venue_id":873583957
+        }
+    ],
+    "wof:id":873583957,
+    "wof:lastmodified":1464294762,
+    "wof:name":"Flatwater Gun Dogs",
+    "wof:parent_id":85821583,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet"
+    ]
+},
+  "bbox": [
+    -96.00444,
+    41.133292,
+    -96.00444,
+    41.133292
+],
+  "geometry": {"coordinates":[-96.00444,41.133292],"type":"Point"}
+}

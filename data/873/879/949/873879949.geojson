@@ -1,0 +1,75 @@
+{
+  "id": 873879949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.688011,40.798037,-96.688011,40.798037",
+    "geom:latitude":40.798037,
+    "geom:longitude":-96.688011,
+    "iso:country":"US",
+    "sg:address":"2202 Washington St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 475 3928",
+    "sg:postcode":"68502",
+    "sg:province":"NE",
+    "sg:tags":[
+        "allied"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878727,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5V7O78jNalmUmPm1S3Vozc_40.798037_-96.688011@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299433,
+    "wof:geomhash":"816a79ae5dfb0168b8c471d3925482d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878727,
+            "region_id":85688563,
+            "venue_id":873879949
+        }
+    ],
+    "wof:id":873879949,
+    "wof:lastmodified":1464299433,
+    "wof:name":"Examone",
+    "wof:parent_id":85878727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "allied"
+    ]
+},
+  "bbox": [
+    -96.688011,
+    40.798037,
+    -96.688011,
+    40.798037
+],
+  "geometry": {"coordinates":[-96.688011,40.798037],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 873758893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.36805,41.424209,-97.36805,41.424209",
+    "geom:latitude":41.424209,
+    "geom:longitude":-97.36805,
+    "iso:country":"US",
+    "sg:address":"759 33rd Ave",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 563 9334",
+    "sg:postcode":"68601",
+    "sg:province":"NE",
+    "sg:tags":[
+        "irrigation",
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974401,
+        102084277,
+        85854093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_154lPGj2TOmftNf6MIpfzu_41.424209_-97.368050@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297193,
+    "wof:geomhash":"c40530b04eadf4a828b7b8c2e21e1d49",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084277,
+            "locality_id":85974401,
+            "neighbourhood_id":85854093,
+            "region_id":85688563,
+            "venue_id":873758893
+        }
+    ],
+    "wof:id":873758893,
+    "wof:lastmodified":1464297193,
+    "wof:name":"Industrial Electrical Contract",
+    "wof:parent_id":85854093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "irrigation",
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -97.36805,
+    41.424209,
+    -97.36805,
+    41.424209
+],
+  "geometry": {"coordinates":[-97.36805,41.424209],"type":"Point"}
+}

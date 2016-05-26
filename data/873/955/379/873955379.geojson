@@ -1,0 +1,71 @@
+{
+  "id": 873955379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.148142,41.187429,-96.148142,41.187429",
+    "geom:latitude":41.187429,
+    "geom:longitude":-96.148142,
+    "iso:country":"US",
+    "sg:address":"15011 Willow Creek Dr",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 894 0692",
+    "sg:postcode":"68138",
+    "sg:province":"NE",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85834285,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_40fyiNYQ4mjBtimaZjF0mN_41.187429_-96.148142@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464301352,
+    "wof:geomhash":"d4064996d5d855086010bc16b50b3e58",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85834285,
+            "region_id":85688563,
+            "venue_id":873955379
+        }
+    ],
+    "wof:id":873955379,
+    "wof:lastmodified":1464301352,
+    "wof:name":"Alben Properties Inc",
+    "wof:parent_id":85834285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -96.148142,
+    41.187429,
+    -96.148142,
+    41.187429
+],
+  "geometry": {"coordinates":[-96.14814200000001,41.187429],"type":"Point"}
+}

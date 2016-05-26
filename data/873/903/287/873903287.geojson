@@ -1,0 +1,75 @@
+{
+  "id": 873903287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.021566,41.282232,-96.021566,41.282232",
+    "geom:latitude":41.282232,
+    "geom:longitude":-96.021566,
+    "iso:country":"US",
+    "sg:address":"2532 N 70th Ave",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 554 1569",
+    "sg:postcode":"68104",
+    "sg:province":"NE",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872507,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_57S20f7cPnldTnfhX4vs1a_41.282232_-96.021566@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299884,
+    "wof:geomhash":"8764c2e075b53dd6fdd5699b4a5c9436",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872507,
+            "region_id":85688563,
+            "venue_id":873903287
+        }
+    ],
+    "wof:id":873903287,
+    "wof:lastmodified":1464299884,
+    "wof:name":"Bob Haniszewski Painting",
+    "wof:parent_id":85872507,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -96.021566,
+    41.282232,
+    -96.021566,
+    41.282232
+],
+  "geometry": {"coordinates":[-96.02156600000001,41.282232],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873854855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.028017,41.163123,-96.028017,41.163123",
+    "geom:latitude":41.163123,
+    "geom:longitude":-96.028017,
+    "iso:country":"US",
+    "sg:address":"1017 Bryn Mawr Dr",
+    "sg:city":"Papillion",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 593 0550",
+    "sg:postcode":"68046",
+    "sg:province":"NE",
+    "sg:tags":[
+        "repairing",
+        "remodeling",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85843697,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5CVcU1fGacqAWVPY5VXdiH_41.163123_-96.028017@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298911,
+    "wof:geomhash":"bbaea237b28dfc4b1faedc4c26e33d62",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85843697,
+            "region_id":85688563,
+            "venue_id":873854855
+        }
+    ],
+    "wof:id":873854855,
+    "wof:lastmodified":1464298911,
+    "wof:name":"Five Star Construction",
+    "wof:parent_id":85843697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "remodeling",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.028017,
+    41.163123,
+    -96.028017,
+    41.163123
+],
+  "geometry": {"coordinates":[-96.02801700000001,41.163123],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 873641599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.043465,41.28201,-96.043465,41.28201",
+    "geom:latitude":41.28201,
+    "geom:longitude":-96.043465,
+    "iso:country":"US",
+    "sg:address":"2636 N 84th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 392 0422",
+    "sg:postcode":"68134",
+    "sg:province":"NE",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872507,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0NmZqfVSzytVR7pcN2U1vE_41.282010_-96.043465@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295494,
+    "wof:geomhash":"2f68762a04b3994c33f855f40ad1ddbe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872507,
+            "region_id":85688563,
+            "venue_id":873641599
+        }
+    ],
+    "wof:id":873641599,
+    "wof:lastmodified":1464295494,
+    "wof:name":"Midstates Auto Upholstery Inc",
+    "wof:parent_id":85872507,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [
+    -96.043465,
+    41.28201,
+    -96.043465,
+    41.28201
+],
+  "geometry": {"coordinates":[-96.043465,41.28201],"type":"Point"}
+}

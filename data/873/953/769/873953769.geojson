@@ -1,0 +1,83 @@
+{
+  "id": 873953769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.964884,41.252315,-95.964884,41.252315",
+    "geom:latitude":41.252315,
+    "geom:longitude":-95.964884,
+    "iso:country":"US",
+    "sg:address":"3505 Leavenworth St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 346 3422",
+    "sg:postcode":"68105",
+    "sg:province":"NE",
+    "sg:tags":[
+        "product",
+        "cooling",
+        "rep",
+        "manufacturer",
+        "heating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872527,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0CPZM5LWFxStYOA0tb4A9S_41.252315_-95.964884@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464301293,
+    "wof:geomhash":"5f4034aabbf570895827f4885f905215",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872527,
+            "region_id":85688563,
+            "venue_id":873953769
+        }
+    ],
+    "wof:id":873953769,
+    "wof:lastmodified":1464301293,
+    "wof:name":"Control Temp Inc",
+    "wof:parent_id":85872527,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "cooling",
+        "rep",
+        "manufacturer",
+        "heating"
+    ]
+},
+  "bbox": [
+    -95.964884,
+    41.252315,
+    -95.964884,
+    41.252315
+],
+  "geometry": {"coordinates":[-95.964884,41.252315],"type":"Point"}
+}

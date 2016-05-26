@@ -1,0 +1,70 @@
+{
+  "id": 873815689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.072426,41.225652,-96.072426,41.225652",
+    "geom:latitude":41.225652,
+    "geom:longitude":-96.072426,
+    "iso:country":"US",
+    "sg:address":"3615 S 101st St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 551 8966",
+    "sg:postcode":"68124",
+    "sg:province":"NE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872511,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2AZWJDOVjSeHrZ7fVJMv0I_41.225652_-96.072426@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298027,
+    "wof:geomhash":"08094476eb50a608f2b6306edc7da54d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872511,
+            "region_id":85688563,
+            "venue_id":873815689
+        }
+    ],
+    "wof:id":873815689,
+    "wof:lastmodified":1464298027,
+    "wof:name":"Quality Skate Specialists",
+    "wof:parent_id":85872511,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.072426,
+    41.225652,
+    -96.072426,
+    41.225652
+],
+  "geometry": {"coordinates":[-96.07242599999999,41.225652],"type":"Point"}
+}

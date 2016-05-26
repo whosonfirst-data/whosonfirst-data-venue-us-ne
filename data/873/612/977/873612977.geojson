@@ -1,0 +1,76 @@
+{
+  "id": 873612977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.066109,41.17204,-96.066109,41.17204",
+    "geom:latitude":41.17204,
+    "geom:longitude":-96.066109,
+    "iso:country":"US",
+    "sg:address":"8520 S 98th Cir",
+    "sg:city":"La Vista",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 813 0239",
+    "sg:postcode":"68128",
+    "sg:province":"NE",
+    "sg:tags":[
+        "equipment",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85843697,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2fn1k20PuKJA82g6fRJWwU_41.172040_-96.066109@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295176,
+    "wof:geomhash":"fd81d5c2c143a786379ba31c40bf5bd1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85843697,
+            "region_id":85688563,
+            "venue_id":873612977
+        }
+    ],
+    "wof:id":873612977,
+    "wof:lastmodified":1464295176,
+    "wof:name":"Best Tech Computer Service",
+    "wof:parent_id":85843697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -96.066109,
+    41.17204,
+    -96.066109,
+    41.17204
+],
+  "geometry": {"coordinates":[-96.066109,41.17204],"type":"Point"}
+}

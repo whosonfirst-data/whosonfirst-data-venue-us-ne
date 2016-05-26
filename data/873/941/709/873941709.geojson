@@ -1,0 +1,71 @@
+{
+  "id": 873941709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.10075,41.297759,-96.10075,41.297759",
+    "geom:latitude":41.297759,
+    "geom:longitude":-96.10075,
+    "iso:country":"US",
+    "sg:address":"4718 N 120th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Gym",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 493 2000",
+    "sg:postcode":"68164",
+    "sg:province":"NE",
+    "sg:tags":[
+        "athletic",
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85872505,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_77a6KyGIvFx6y3PnXbg2jF_41.297759_-96.100750@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300760,
+    "wof:geomhash":"3be40369beb469c096329a2c6fd4f6d8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":873941709
+        }
+    ],
+    "wof:id":873941709,
+    "wof:lastmodified":1464300760,
+    "wof:name":"Tennis Club & Soccer Center",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "athletic",
+        "center"
+    ]
+},
+  "bbox": [
+    -96.10075,
+    41.297759,
+    -96.10075,
+    41.297759
+],
+  "geometry": {"coordinates":[-96.10075000000001,41.297759],"type":"Point"}
+}

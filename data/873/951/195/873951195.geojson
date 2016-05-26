@@ -1,0 +1,73 @@
+{
+  "id": 873951195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.06344,41.320985,-96.06344,41.320985",
+    "geom:latitude":41.320985,
+    "geom:longitude":-96.06344,
+    "iso:country":"US",
+    "sg:address":"6922 N 97th Cir",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 222 8457",
+    "sg:postcode":"68122",
+    "sg:province":"NE",
+    "sg:tags":[
+        "credit",
+        "processing",
+        "card"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85872505,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5oeNDiAdUMTkhd9QXOmsHz_41.320985_-96.063440@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464301190,
+    "wof:geomhash":"9b9403ad611c9b99f9bfa947e0343245",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":873951195
+        }
+    ],
+    "wof:id":873951195,
+    "wof:lastmodified":1464301190,
+    "wof:name":"First Data",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "credit",
+        "processing",
+        "card"
+    ]
+},
+  "bbox": [
+    -96.06344,
+    41.320985,
+    -96.06344,
+    41.320985
+],
+  "geometry": {"coordinates":[-96.06344,41.320985],"type":"Point"}
+}

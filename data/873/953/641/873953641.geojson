@@ -1,0 +1,71 @@
+{
+  "id": 873953641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.152628,41.319659,-96.152628,41.319659",
+    "geom:latitude":41.319659,
+    "geom:longitude":-96.152628,
+    "iso:country":"US",
+    "sg:address":"15122 Newport Ave",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 505 9757",
+    "sg:postcode":"68116",
+    "sg:province":"NE",
+    "sg:tags":[
+        "consultant",
+        "safety"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85872505,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ggVACSuHhMvHrDz707CdS_41.319659_-96.152628@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464301289,
+    "wof:geomhash":"c94164967884490b025d54b82b790034",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":873953641
+        }
+    ],
+    "wof:id":873953641,
+    "wof:lastmodified":1464301289,
+    "wof:name":"Acorn CTS",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "safety"
+    ]
+},
+  "bbox": [
+    -96.152628,
+    41.319659,
+    -96.152628,
+    41.319659
+],
+  "geometry": {"coordinates":[-96.15262800000001,41.319659],"type":"Point"}
+}

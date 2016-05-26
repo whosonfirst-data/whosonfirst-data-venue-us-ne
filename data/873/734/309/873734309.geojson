@@ -1,0 +1,75 @@
+{
+  "id": 873734309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.676403,40.813421,-96.676403,40.813421",
+    "geom:latitude":40.813421,
+    "geom:longitude":-96.676403,
+    "iso:country":"US",
+    "sg:address":"3001 O St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 466 6866",
+    "sg:postcode":"68510",
+    "sg:province":"NE",
+    "sg:tags":[
+        "ambulance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878715,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4TDdBSjjQL8Lf6vjZp3XZi_40.813421_-96.676403@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296837,
+    "wof:geomhash":"6fc69475628372fa4c31a5b3e186af8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878715,
+            "region_id":85688563,
+            "venue_id":873734309
+        }
+    ],
+    "wof:id":873734309,
+    "wof:lastmodified":1464296837,
+    "wof:name":"Midwest Medical Transport Co",
+    "wof:parent_id":85878715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ambulance"
+    ]
+},
+  "bbox": [
+    -96.676403,
+    40.813421,
+    -96.676403,
+    40.813421
+],
+  "geometry": {"coordinates":[-96.67640299999999,40.813421],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 873684705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.758833,40.811734,-96.758833,40.811734",
+    "geom:latitude":40.811734,
+    "geom:longitude":-96.758833,
+    "iso:country":"US",
+    "sg:address":"360 SW 27th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Electronics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 474 2858",
+    "sg:postcode":"68522",
+    "sg:province":"NE",
+    "sg:tags":[
+        "electronic",
+        "component",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878743,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5PLraGNXgMMCSsR86pqaGZ_40.811734_-96.758833@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296130,
+    "wof:geomhash":"dc3aa2f4365e9cf021d60b218ec140f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878743,
+            "region_id":85688563,
+            "venue_id":873684705
+        }
+    ],
+    "wof:id":873684705,
+    "wof:lastmodified":1464296130,
+    "wof:name":"M I S Engineering",
+    "wof:parent_id":85878743,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electronic",
+        "component",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -96.758833,
+    40.811734,
+    -96.758833,
+    40.811734
+],
+  "geometry": {"coordinates":[-96.758833,40.811734],"type":"Point"}
+}

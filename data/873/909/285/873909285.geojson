@@ -1,0 +1,77 @@
+{
+  "id": 873909285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.032033,41.308568,-96.032033,41.308568",
+    "geom:latitude":41.308568,
+    "geom:longitude":-96.032033,
+    "iso:country":"US",
+    "sg:address":"7611 Jaynes St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 392 1664",
+    "sg:postcode":"68134",
+    "sg:province":"NE",
+    "sg:tags":[
+        "tea",
+        "coffee"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872515,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Cm5y8nBidAUZY7h62AASo_41.308568_-96.032033@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299999,
+    "wof:geomhash":"6ec9451f90b7e534de823d23beb7c174",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872515,
+            "region_id":85688563,
+            "venue_id":873909285
+        }
+    ],
+    "wof:id":873909285,
+    "wof:lastmodified":1464299999,
+    "wof:name":"Coffee Lover's Express",
+    "wof:parent_id":85872515,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tea",
+        "coffee"
+    ]
+},
+  "bbox": [
+    -96.032033,
+    41.308568,
+    -96.032033,
+    41.308568
+],
+  "geometry": {"coordinates":[-96.032033,41.308568],"type":"Point"}
+}

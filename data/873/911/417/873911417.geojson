@@ -1,0 +1,77 @@
+{
+  "id": 873911417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.745299,40.799128,-96.745299,40.799128",
+    "geom:latitude":40.799128,
+    "geom:longitude":-96.745299,
+    "iso:country":"US",
+    "sg:address":"1633 W A St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 890 7760",
+    "sg:postcode":"68522",
+    "sg:province":"NE",
+    "sg:tags":[
+        "software",
+        "developer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878743,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ZqwyVcDPo48yMoo6PhpJa_40.799128_-96.745299@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300039,
+    "wof:geomhash":"7b5fba1842a5469a1786854170b024d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878743,
+            "region_id":85688563,
+            "venue_id":873911417
+        }
+    ],
+    "wof:id":873911417,
+    "wof:lastmodified":1464300039,
+    "wof:name":"Drec Software",
+    "wof:parent_id":85878743,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "software",
+        "developer"
+    ]
+},
+  "bbox": [
+    -96.745299,
+    40.799128,
+    -96.745299,
+    40.799128
+],
+  "geometry": {"coordinates":[-96.745299,40.799128],"type":"Point"}
+}

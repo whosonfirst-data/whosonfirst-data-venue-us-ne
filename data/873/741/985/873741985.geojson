@@ -1,0 +1,73 @@
+{
+  "id": 873741985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.918663,41.138005,-95.918663,41.138005",
+    "geom:latitude":41.138005,
+    "geom:longitude":-95.918663,
+    "iso:country":"US",
+    "sg:address":"116 Cedar St",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 292 0946",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "marketing",
+        "consultant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974747,
+        102082777,
+        85820061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0AS5KinVQtMyH1n1MmqUZm_41.138005_-95.918663@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296954,
+    "wof:geomhash":"5d14de1dec0ec3fad47544e511fcd4b6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974747,
+            "neighbourhood_id":85820061,
+            "region_id":85688563,
+            "venue_id":873741985
+        }
+    ],
+    "wof:id":873741985,
+    "wof:lastmodified":1464296954,
+    "wof:name":"TMG Marketing",
+    "wof:parent_id":85820061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "marketing",
+        "consultant"
+    ]
+},
+  "bbox": [
+    -95.918663,
+    41.138005,
+    -95.918663,
+    41.138005
+],
+  "geometry": {"coordinates":[-95.918663,41.138005],"type":"Point"}
+}

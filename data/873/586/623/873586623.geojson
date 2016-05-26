@@ -1,0 +1,73 @@
+{
+  "id": 873586623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.739348,40.843591,-96.739348,40.843591",
+    "geom:latitude":40.843591,
+    "geom:longitude":-96.739348,
+    "iso:country":"US",
+    "sg:address":"3100 NW 12th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 475 8504",
+    "sg:postcode":"68521",
+    "sg:province":"NE",
+    "sg:tags":[
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102529023,
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5qeROGrxNRhM0IIrIorpY6_40.843591_-96.739348@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294791,
+    "wof:geomhash":"047263cff78fca7f78c9931aea3264a3",
+    "wof:hierarchy":[
+        {
+            "campus_id":102529023,
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878717,
+            "region_id":85688563,
+            "venue_id":873586623
+        }
+    ],
+    "wof:id":873586623,
+    "wof:lastmodified":1464294791,
+    "wof:name":"Airport Amoco",
+    "wof:parent_id":102529023,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil"
+    ]
+},
+  "bbox": [
+    -96.739348,
+    40.843591,
+    -96.739348,
+    40.843591
+],
+  "geometry": {"coordinates":[-96.73934800000001,40.843591],"type":"Point"}
+}

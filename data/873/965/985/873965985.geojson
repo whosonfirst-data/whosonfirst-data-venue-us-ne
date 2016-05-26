@@ -1,0 +1,73 @@
+{
+  "id": 873965985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.710664,40.878974,-96.710664,40.878974",
+    "geom:latitude":40.878974,
+    "geom:longitude":-96.710664,
+    "iso:country":"US",
+    "sg:address":"7001 N 7th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 435 7001",
+    "sg:postcode":"68521",
+    "sg:province":"NE",
+    "sg:tags":[
+        "garbage",
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5jBe7IQIt9ItEyp9TbvxxC_40.878974_-96.710664@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464301839,
+    "wof:geomhash":"e366962b615220f9fb45e4299f226488",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878717,
+            "region_id":85688563,
+            "venue_id":873965985
+        }
+    ],
+    "wof:id":873965985,
+    "wof:lastmodified":1464301839,
+    "wof:name":"Arwin Neemann & Son Refuse Svc",
+    "wof:parent_id":85878717,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection"
+    ]
+},
+  "bbox": [
+    -96.710664,
+    40.878974,
+    -96.710664,
+    40.878974
+],
+  "geometry": {"coordinates":[-96.71066399999999,40.878974],"type":"Point"}
+}

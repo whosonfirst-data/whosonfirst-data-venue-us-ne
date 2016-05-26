@@ -1,0 +1,71 @@
+{
+  "id": 873786665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.903166,41.152848,-95.903166,41.152848",
+    "geom:latitude":41.152848,
+    "geom:longitude":-95.903166,
+    "iso:country":"US",
+    "sg:address":"803 Jewell Cir",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 292 0796",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85804025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2J4rWhX3rUyHcJRCJ1Fpja_41.152848_-95.903166@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297584,
+    "wof:geomhash":"d071e1f15d7ff75879e28187ce61b7d1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85804025,
+            "region_id":85688563,
+            "venue_id":873786665
+        }
+    ],
+    "wof:id":873786665,
+    "wof:lastmodified":1464297584,
+    "wof:name":"John Perrin",
+    "wof:parent_id":85804025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -95.903166,
+    41.152848,
+    -95.903166,
+    41.152848
+],
+  "geometry": {"coordinates":[-95.903166,41.152848],"type":"Point"}
+}

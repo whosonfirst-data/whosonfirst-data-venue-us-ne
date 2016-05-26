@@ -1,0 +1,84 @@
+{
+  "id": 873577231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.100448,41.279574,-96.100448,41.279574",
+    "geom:latitude":41.279574,
+    "geom:longitude":-96.100448,
+    "iso:country":"US",
+    "sg:address":"2085 N 120th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 431 8500",
+    "sg:postcode":"68164",
+    "sg:province":"NE",
+    "sg:tags":[
+        "cashing",
+        "pawnbroker",
+        "check"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872503,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3X8F8eAzxjMWWkRiU1Jfpp_41.279574_-96.100448@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294686,
+    "wof:geomhash":"680e2dd9bb971bed262eb0f2e3fb41c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872503,
+            "region_id":85688563,
+            "venue_id":873577231
+        }
+    ],
+    "wof:id":873577231,
+    "wof:lastmodified":1464294686,
+    "wof:name":"Advance Cash America",
+    "wof:parent_id":85872503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cashing",
+        "pawnbroker",
+        "check"
+    ]
+},
+  "bbox": [
+    -96.100448,
+    41.279574,
+    -96.100448,
+    41.279574
+],
+  "geometry": {"coordinates":[-96.100448,41.279574],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 873893533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.65197,40.857029,-96.65197,40.857029",
+    "geom:latitude":40.857029,
+    "geom:longitude":-96.65197,
+    "iso:country":"US",
+    "sg:address":"5001 Superior St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Glass & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 466 2270",
+    "sg:postcode":"68504",
+    "sg:province":"NE",
+    "sg:tags":[
+        "concrete",
+        "product",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85824241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0gXYt8mTSoSq3mo98RaiJN_40.857029_-96.651970@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299697,
+    "wof:geomhash":"6c98f4b49891926ca8068e0f53a7368e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85824241,
+            "region_id":85688563,
+            "venue_id":873893533
+        }
+    ],
+    "wof:id":873893533,
+    "wof:lastmodified":1464299697,
+    "wof:name":"Josten Wilbert Vault Co",
+    "wof:parent_id":85824241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "product",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -96.65197,
+    40.857029,
+    -96.65197,
+    40.857029
+],
+  "geometry": {"coordinates":[-96.65197000000001,40.857029],"type":"Point"}
+}

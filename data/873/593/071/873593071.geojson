@@ -1,0 +1,71 @@
+{
+  "id": 873593071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.899773,41.153546,-95.899773,41.153546",
+    "geom:latitude":41.153546,
+    "geom:longitude":-95.899773,
+    "iso:country":"US",
+    "sg:address":"701 Bellevue Blvd S",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 291 7394",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "social"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85804025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Ibd3h3qgex8YdoCHQeCow_41.153546_-95.899773@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294869,
+    "wof:geomhash":"bb5bd9c4080dc45a5809ae8832519a85",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85804025,
+            "region_id":85688563,
+            "venue_id":873593071
+        }
+    ],
+    "wof:id":873593071,
+    "wof:lastmodified":1464294869,
+    "wof:name":"Barebacks & Bells Inc",
+    "wof:parent_id":85804025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "social"
+    ]
+},
+  "bbox": [
+    -95.899773,
+    41.153546,
+    -95.899773,
+    41.153546
+],
+  "geometry": {"coordinates":[-95.899773,41.153546],"type":"Point"}
+}

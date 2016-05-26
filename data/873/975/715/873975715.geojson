@@ -1,0 +1,74 @@
+{
+  "id": 873975715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.912699,41.14527,-95.912699,41.14527",
+    "geom:latitude":41.14527,
+    "geom:longitude":-95.912699,
+    "iso:country":"US",
+    "sg:address":"1407 J F Kennedy Dr",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ne/bellevue/158920-arbys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 292 8952",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85821583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7DTc2TuTCwHBFlfUCf0jAd_41.145270_-95.912699@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464302214,
+    "wof:geomhash":"37fc8636c707a366c87cc954a08a9ebe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85821583,
+            "region_id":85688563,
+            "venue_id":873975715
+        }
+    ],
+    "wof:id":873975715,
+    "wof:lastmodified":1464302214,
+    "wof:name":"Arby's",
+    "wof:parent_id":85821583,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -95.912699,
+    41.14527,
+    -95.912699,
+    41.14527
+],
+  "geometry": {"coordinates":[-95.912699,41.14527],"type":"Point"}
+}

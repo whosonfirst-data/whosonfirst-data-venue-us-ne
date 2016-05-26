@@ -1,0 +1,77 @@
+{
+  "id": 873580019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.136119,41.295699,-96.136119,41.295699",
+    "geom:latitude":41.295699,
+    "geom:longitude":-96.136119,
+    "iso:country":"US",
+    "sg:address":"4101 N 142nd Ave",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 571 4196",
+    "sg:postcode":"68164",
+    "sg:province":"NE",
+    "sg:tags":[
+        "masonry",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872503,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1UkdndVyZVVmhE4sZwZCob_41.295699_-96.136119@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294718,
+    "wof:geomhash":"b3601c299914689f21af251c0fb1e701",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872503,
+            "region_id":85688563,
+            "venue_id":873580019
+        }
+    ],
+    "wof:id":873580019,
+    "wof:lastmodified":1464294718,
+    "wof:name":"Steve Morford Construction",
+    "wof:parent_id":85872503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "masonry",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.136119,
+    41.295699,
+    -96.136119,
+    41.295699
+],
+  "geometry": {"coordinates":[-96.13611899999999,41.295699],"type":"Point"}
+}

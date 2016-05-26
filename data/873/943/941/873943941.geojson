@@ -1,0 +1,72 @@
+{
+  "id": 873943941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.644382,40.723592,-96.644382,40.723592",
+    "geom:latitude":40.723592,
+    "geom:longitude":-96.644382,
+    "iso:country":"US",
+    "sg:address":"8900 S 56th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 423 0873",
+    "sg:postcode":"68516",
+    "sg:province":"NE",
+    "sg:tags":[
+        "home",
+        "builder"
+    ],
+    "sg:website":"www.schultzconstruction.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85878745,
+        102083503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1J0QvGO9elNQU06VfQOb34_40.723592_-96.644382@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300844,
+    "wof:geomhash":"39c8af54ea32ccd79a417c534d5369b3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "neighbourhood_id":85878745,
+            "region_id":85688563,
+            "venue_id":873943941
+        }
+    ],
+    "wof:id":873943941,
+    "wof:lastmodified":1464300844,
+    "wof:name":"Schultz Construction",
+    "wof:parent_id":85878745,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "builder"
+    ]
+},
+  "bbox": [
+    -96.644382,
+    40.723592,
+    -96.644382,
+    40.723592
+],
+  "geometry": {"coordinates":[-96.64438199999999,40.723592],"type":"Point"}
+}

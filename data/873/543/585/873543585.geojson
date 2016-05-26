@@ -1,0 +1,71 @@
+{
+  "id": 873543585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.964013,41.161966,-95.964013,41.161966",
+    "geom:latitude":41.161966,
+    "geom:longitude":-95.964013,
+    "iso:country":"US",
+    "sg:address":"9815 Linden Ave",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 733 0600",
+    "sg:postcode":"68123",
+    "sg:province":"NE",
+    "sg:tags":[
+        "door"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85821583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_79Q484gUwbRgHvpulD0sR5_41.161966_-95.964013@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294297,
+    "wof:geomhash":"d868c6a6c8d6045043985a3417569e7b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85821583,
+            "region_id":85688563,
+            "venue_id":873543585
+        }
+    ],
+    "wof:id":873543585,
+    "wof:lastmodified":1464294297,
+    "wof:name":"A-1 American Garage Door",
+    "wof:parent_id":85821583,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "door"
+    ]
+},
+  "bbox": [
+    -95.964013,
+    41.161966,
+    -95.964013,
+    41.161966
+],
+  "geometry": {"coordinates":[-95.96401299999999,41.161966],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873736493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.616889,40.787439,-96.616889,40.787439",
+    "geom:latitude":40.787439,
+    "geom:longitude":-96.616889,
+    "iso:country":"US",
+    "sg:address":"2330 S 75th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 489 5205",
+    "sg:postcode":"68506",
+    "sg:province":"NE",
+    "sg:tags":[
+        "consultant",
+        "business"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2aKo9y0YPlbVG9w82Gz1W8_40.787439_-96.616889@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296876,
+    "wof:geomhash":"55ee170f583da42a2aea5a18dcbb2a01",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878697,
+            "region_id":85688563,
+            "venue_id":873736493
+        }
+    ],
+    "wof:id":873736493,
+    "wof:lastmodified":1464296876,
+    "wof:name":"Johnson Franchise Consulting",
+    "wof:parent_id":85878697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "business"
+    ]
+},
+  "bbox": [
+    -96.616889,
+    40.787439,
+    -96.616889,
+    40.787439
+],
+  "geometry": {"coordinates":[-96.616889,40.787439],"type":"Point"}
+}

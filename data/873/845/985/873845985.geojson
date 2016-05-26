@@ -1,0 +1,71 @@
+{
+  "id": 873845985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.358089,41.429313,-97.358089,41.429313",
+    "geom:latitude":41.429313,
+    "geom:longitude":-97.358089,
+    "iso:country":"US",
+    "sg:address":"2408 13th St",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 564 1600",
+    "sg:postcode":"68601",
+    "sg:province":"NE",
+    "sg:tags":[
+        "printer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974401,
+        102084277,
+        85854093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3HK5dtQkWzzVk0ChOslqIT_41.429313_-97.358089@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298702,
+    "wof:geomhash":"f178bce156c358cdb5bef12865a69e78",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084277,
+            "locality_id":85974401,
+            "neighbourhood_id":85854093,
+            "region_id":85688563,
+            "venue_id":873845985
+        }
+    ],
+    "wof:id":873845985,
+    "wof:lastmodified":1464298702,
+    "wof:name":"Big Red Printing",
+    "wof:parent_id":85854093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "printer"
+    ]
+},
+  "bbox": [
+    -97.358089,
+    41.429313,
+    -97.358089,
+    41.429313
+],
+  "geometry": {"coordinates":[-97.35808900000001,41.429313],"type":"Point"}
+}

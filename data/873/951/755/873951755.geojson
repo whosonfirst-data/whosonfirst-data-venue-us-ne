@@ -1,0 +1,69 @@
+{
+  "id": 873951755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.050793,41.133135,-96.050793,41.133135",
+    "geom:latitude":41.133135,
+    "geom:longitude":-96.050793,
+    "iso:country":"US",
+    "sg:address":"1703 S Fillmore St",
+    "sg:city":"Papillion",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 934 0000",
+    "sg:postcode":"68046",
+    "sg:province":"NE",
+    "sg:tags":[
+        "delivery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85843697,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ppPqgz1UB643sRMOgXTJ8_41.133135_-96.050793@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464301207,
+    "wof:geomhash":"10456678f4a66fc1be044d1d7d1ff2e3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85843697,
+            "region_id":85688563,
+            "venue_id":873951755
+        }
+    ],
+    "wof:id":873951755,
+    "wof:lastmodified":1464301207,
+    "wof:name":"Prestige Delivery Svc Inc",
+    "wof:parent_id":85843697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delivery"
+    ]
+},
+  "bbox": [
+    -96.050793,
+    41.133135,
+    -96.050793,
+    41.133135
+],
+  "geometry": {"coordinates":[-96.050793,41.133135],"type":"Point"}
+}

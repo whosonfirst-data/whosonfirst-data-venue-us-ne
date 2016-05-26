@@ -1,0 +1,76 @@
+{
+  "id": 873945097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.977318,41.272869,-95.977318,41.272869",
+    "geom:latitude":41.272869,
+    "geom:longitude":-95.977318,
+    "iso:country":"US",
+    "sg:address":"1428 Military Ave",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 553 0900",
+    "sg:postcode":"68131",
+    "sg:province":"NE",
+    "sg:tags":[
+        "appliance"
+    ],
+    "sg:website":"www.allapplianceservice.biz",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872525,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2tkTRbr6MSl6LKZaaKX6b8_41.272869_-95.977318@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300886,
+    "wof:geomhash":"62cecded09be1012998c4a28f0747bca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872525,
+            "region_id":85688563,
+            "venue_id":873945097
+        }
+    ],
+    "wof:id":873945097,
+    "wof:lastmodified":1464300886,
+    "wof:name":"All Appliance Svc Inc",
+    "wof:parent_id":85872525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appliance"
+    ]
+},
+  "bbox": [
+    -95.977318,
+    41.272869,
+    -95.977318,
+    41.272869
+],
+  "geometry": {"coordinates":[-95.977318,41.272869],"type":"Point"}
+}

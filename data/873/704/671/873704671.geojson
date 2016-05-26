@@ -1,0 +1,73 @@
+{
+  "id": 873704671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.700193,40.749954,-96.700193,40.749954",
+    "geom:latitude":40.749954,
+    "geom:longitude":-96.700193,
+    "iso:country":"US",
+    "sg:address":"1430 Old Farm Rd",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 436 3477",
+    "sg:postcode":"68512",
+    "sg:province":"NE",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0wBT9edZT73iFyZl6zSWsV_40.749954_-96.700193@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296453,
+    "wof:geomhash":"99a0c4cf23cee649e175ba2aa0489672",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878709,
+            "region_id":85688563,
+            "venue_id":873704671
+        }
+    ],
+    "wof:id":873704671,
+    "wof:lastmodified":1464296453,
+    "wof:name":"Skyline View Apartments",
+    "wof:parent_id":85878709,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -96.700193,
+    40.749954,
+    -96.700193,
+    40.749954
+],
+  "geometry": {"coordinates":[-96.700193,40.749954],"type":"Point"}
+}

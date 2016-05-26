@@ -1,0 +1,71 @@
+{
+  "id": 873571467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.610696,40.780259,-96.610696,40.780259",
+    "geom:latitude":40.780259,
+    "geom:longitude":-96.610696,
+    "iso:country":"US",
+    "sg:address":"3117 Pointe Cir",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 486 3158",
+    "sg:postcode":"68506",
+    "sg:province":"NE",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6i6vZ09CgN54ASuAKQq5d0_40.780259_-96.610696@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294625,
+    "wof:geomhash":"785b802276503964cc453ecb40258a2c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878697,
+            "region_id":85688563,
+            "venue_id":873571467
+        }
+    ],
+    "wof:id":873571467,
+    "wof:lastmodified":1464294625,
+    "wof:name":"Craft Pizza",
+    "wof:parent_id":85878697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -96.610696,
+    40.780259,
+    -96.610696,
+    40.780259
+],
+  "geometry": {"coordinates":[-96.610696,40.780259],"type":"Point"}
+}

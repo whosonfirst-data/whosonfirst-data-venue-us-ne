@@ -1,0 +1,71 @@
+{
+  "id": 873888941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.128939,41.185812,-96.128939,41.185812",
+    "geom:latitude":41.185812,
+    "geom:longitude":-96.128939,
+    "iso:country":"US",
+    "sg:address":"13701 Lillian St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 894 0562",
+    "sg:postcode":"68138",
+    "sg:province":"NE",
+    "sg:tags":[
+        "hanging",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85834285,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_31yrQBcHLMzEt3Bcs6igPN_41.185812_-96.128939@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299608,
+    "wof:geomhash":"dc04d32d8fb5af50cd16dc00f00c4433",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85834285,
+            "region_id":85688563,
+            "venue_id":873888941
+        }
+    ],
+    "wof:id":873888941,
+    "wof:lastmodified":1464299608,
+    "wof:name":"Executive Painting & More",
+    "wof:parent_id":85834285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.128939,
+    41.185812,
+    -96.128939,
+    41.185812
+],
+  "geometry": {"coordinates":[-96.128939,41.185812],"type":"Point"}
+}

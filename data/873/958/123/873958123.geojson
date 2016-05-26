@@ -1,0 +1,78 @@
+{
+  "id": 873958123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.711646,40.809296,-96.711646,40.809296",
+    "geom:latitude":40.809296,
+    "geom:longitude":-96.711646,
+    "iso:country":"US",
+    "sg:address":"624 K St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 475 0650",
+    "sg:postcode":"68508",
+    "sg:province":"NE",
+    "sg:tags":[
+        "custom",
+        "cabinet"
+    ],
+    "sg:website":"www.lincolncabinet.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878699,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4mu39lGXI53WJ0pXQSGyUM_40.809296_-96.711646@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464301449,
+    "wof:geomhash":"78eaee5b313ccd78b2c9866b5d31c0f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878699,
+            "region_id":85688563,
+            "venue_id":873958123
+        }
+    ],
+    "wof:id":873958123,
+    "wof:lastmodified":1464301449,
+    "wof:name":"Lincoln Cabinet",
+    "wof:parent_id":85878699,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "custom",
+        "cabinet"
+    ]
+},
+  "bbox": [
+    -96.711646,
+    40.809296,
+    -96.711646,
+    40.809296
+],
+  "geometry": {"coordinates":[-96.711646,40.809296],"type":"Point"}
+}

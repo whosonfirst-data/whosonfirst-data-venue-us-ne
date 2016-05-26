@@ -1,0 +1,74 @@
+{
+  "id": 873624191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.041848,41.158484,-96.041848,41.158484",
+    "geom:latitude":41.158484,
+    "geom:longitude":-96.041848,
+    "iso:country":"US",
+    "sg:address":"122 E 3rd St",
+    "sg:city":"Papillion",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 597 2043",
+    "sg:postcode":"68046",
+    "sg:province":"NE",
+    "sg:tags":[
+        "marking",
+        "maintenance",
+        "parking"
+    ],
+    "sg:website":"www.papillion.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85843697,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_78sD8apXD03FD4pRIxklSt_41.158484_-96.041848@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295301,
+    "wof:geomhash":"5504d1adafcfa5ddd8c9092adc1ff572",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85843697,
+            "region_id":85688563,
+            "venue_id":873624191
+        }
+    ],
+    "wof:id":873624191,
+    "wof:lastmodified":1464295301,
+    "wof:name":"Public Works Adm",
+    "wof:parent_id":85843697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "marking",
+        "maintenance",
+        "parking"
+    ]
+},
+  "bbox": [
+    -96.041848,
+    41.158484,
+    -96.041848,
+    41.158484
+],
+  "geometry": {"coordinates":[-96.041848,41.158484],"type":"Point"}
+}

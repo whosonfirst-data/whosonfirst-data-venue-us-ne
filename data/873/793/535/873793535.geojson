@@ -1,0 +1,70 @@
+{
+  "id": 873793535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.980618,41.241527,-95.980618,41.241527",
+    "geom:latitude":41.241527,
+    "geom:longitude":-95.980618,
+    "iso:country":"US",
+    "sg:address":"4400 Center St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Library",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 444 4851",
+    "sg:postcode":"68105",
+    "sg:province":"NE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872523,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ngfBFSb6i8NGSima3Ekug_41.241527_-95.980618@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297697,
+    "wof:geomhash":"ae111736042e12d389b97cb6c9e93265",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872523,
+            "region_id":85688563,
+            "venue_id":873793535
+        }
+    ],
+    "wof:id":873793535,
+    "wof:lastmodified":1464297697,
+    "wof:name":"Omaha Public Library System",
+    "wof:parent_id":85872523,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -95.980618,
+    41.241527,
+    -95.980618,
+    41.241527
+],
+  "geometry": {"coordinates":[-95.98061800000001,41.241527],"type":"Point"}
+}

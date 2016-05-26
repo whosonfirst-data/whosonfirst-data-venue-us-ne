@@ -1,0 +1,75 @@
+{
+  "id": 873740103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.703127,40.813726,-96.703127,40.813726",
+    "geom:latitude":40.813726,
+    "geom:longitude":-96.703127,
+    "iso:country":"US",
+    "sg:address":"1248 O St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 434 4144",
+    "sg:postcode":"68508",
+    "sg:province":"NE",
+    "sg:tags":[
+        "security"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878699,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0aE1WKaa10k3zVytgPiVML_40.813726_-96.703127@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296921,
+    "wof:geomhash":"482b01919c3d0da824c0f9087bdc40cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878699,
+            "region_id":85688563,
+            "venue_id":873740103
+        }
+    ],
+    "wof:id":873740103,
+    "wof:lastmodified":1464296921,
+    "wof:name":"Wells Fargo Investments LLC",
+    "wof:parent_id":85878699,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "security"
+    ]
+},
+  "bbox": [
+    -96.703127,
+    40.813726,
+    -96.703127,
+    40.813726
+],
+  "geometry": {"coordinates":[-96.70312699999999,40.813726],"type":"Point"}
+}

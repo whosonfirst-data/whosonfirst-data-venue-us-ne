@@ -1,0 +1,67 @@
+{
+  "id": 873625183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.681872,40.862258,-96.681872,40.862258",
+    "geom:latitude":40.862258,
+    "geom:longitude":-96.681872,
+    "iso:country":"US",
+    "sg:address":"5006 N 27th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 323 1606",
+    "sg:postcode":"68521",
+    "sg:province":"NE",
+    "sg:website":"www.ubt.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2SlE7gHFD0PqYKpsrZlPQp_40.862258_-96.681872@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295313,
+    "wof:geomhash":"0a7e3051518fca16448938951ea4f506",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878687,
+            "region_id":85688563,
+            "venue_id":873625183
+        }
+    ],
+    "wof:id":873625183,
+    "wof:lastmodified":1464295313,
+    "wof:name":"Union Bank & Trust Co",
+    "wof:parent_id":85878687,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.681872,
+    40.862258,
+    -96.681872,
+    40.862258
+],
+  "geometry": {"coordinates":[-96.681872,40.862258],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 873670519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.653697,40.788176,-96.653697,40.788176",
+    "geom:latitude":40.788176,
+    "geom:longitude":-96.653697,
+    "iso:country":"US",
+    "sg:address":"4831 Normal Blvd",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Self-service Laundry",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 488 5374",
+    "sg:postcode":"68506",
+    "sg:province":"NE",
+    "sg:tags":[
+        "operated",
+        "coin",
+        "laundromat"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85811821,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2QgywGXD7LrpzSxVssD5EV_40.788176_-96.653697@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295807,
+    "wof:geomhash":"692d49a8ba402c5ab9d5842a8b4774a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85811821,
+            "region_id":85688563,
+            "venue_id":873670519
+        }
+    ],
+    "wof:id":873670519,
+    "wof:lastmodified":1464295807,
+    "wof:name":"Fabric Care Centers",
+    "wof:parent_id":85811821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operated",
+        "coin",
+        "laundromat"
+    ]
+},
+  "bbox": [
+    -96.653697,
+    40.788176,
+    -96.653697,
+    40.788176
+],
+  "geometry": {"coordinates":[-96.65369699999999,40.788176],"type":"Point"}
+}

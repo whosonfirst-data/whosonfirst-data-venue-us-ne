@@ -1,0 +1,75 @@
+{
+  "id": 873630417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.127154,41.224671,-96.127154,41.224671",
+    "geom:latitude":41.224671,
+    "geom:longitude":-96.127154,
+    "iso:country":"US",
+    "sg:address":"13426 A St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 333 5230",
+    "sg:postcode":"68144",
+    "sg:province":"NE",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872531,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6QvuzSWwAlwu0ctq1XQRAN_41.224671_-96.127154@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295369,
+    "wof:geomhash":"1d503f5101cefce51a20d6913567191e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872531,
+            "region_id":85688563,
+            "venue_id":873630417
+        }
+    ],
+    "wof:id":873630417,
+    "wof:lastmodified":1464295369,
+    "wof:name":"Mickey Guinan & Co",
+    "wof:parent_id":85872531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -96.127154,
+    41.224671,
+    -96.127154,
+    41.224671
+],
+  "geometry": {"coordinates":[-96.127154,41.224671],"type":"Point"}
+}

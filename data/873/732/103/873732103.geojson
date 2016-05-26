@@ -1,0 +1,75 @@
+{
+  "id": 873732103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.061925,41.290952,-96.061925,41.290952",
+    "geom:latitude":41.290952,
+    "geom:longitude":-96.061925,
+    "iso:country":"US",
+    "sg:address":"3414 Cottonwood Ln",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 571 7345",
+    "sg:postcode":"68134",
+    "sg:province":"NE",
+    "sg:tags":[
+        "handyman"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867061,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1c9VUxM1h5RIihsXvcyAcS_41.290952_-96.061925@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296805,
+    "wof:geomhash":"604c0a81efdb5017492408a63463011e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85867061,
+            "region_id":85688563,
+            "venue_id":873732103
+        }
+    ],
+    "wof:id":873732103,
+    "wof:lastmodified":1464296805,
+    "wof:name":"Mike's Handyman Svc",
+    "wof:parent_id":85867061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "handyman"
+    ]
+},
+  "bbox": [
+    -96.061925,
+    41.290952,
+    -96.061925,
+    41.290952
+],
+  "geometry": {"coordinates":[-96.061925,41.290952],"type":"Point"}
+}

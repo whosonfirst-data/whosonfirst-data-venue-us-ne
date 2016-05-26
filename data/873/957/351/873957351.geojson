@@ -1,0 +1,77 @@
+{
+  "id": 873957351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.135513,41.165771,-96.135513,41.165771",
+    "geom:latitude":41.165771,
+    "geom:longitude":-96.135513,
+    "iso:country":"US",
+    "sg:address":"9820 S 142nd St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 891 1222",
+    "sg:postcode":"68138",
+    "sg:province":"NE",
+    "sg:tags":[
+        "distance",
+        "trucking",
+        "storage",
+        "long",
+        "local"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85834285,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2eZO6FfgpiB7NZf0A69P57_41.165771_-96.135513@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464301417,
+    "wof:geomhash":"78172f1942a13e0f19d6a3dd903151d9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85834285,
+            "region_id":85688563,
+            "venue_id":873957351
+        }
+    ],
+    "wof:id":873957351,
+    "wof:lastmodified":1464301417,
+    "wof:name":"United Van Lines Agent",
+    "wof:parent_id":85834285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "distance",
+        "trucking",
+        "storage",
+        "long",
+        "local"
+    ]
+},
+  "bbox": [
+    -96.135513,
+    41.165771,
+    -96.135513,
+    41.165771
+],
+  "geometry": {"coordinates":[-96.135513,41.165771],"type":"Point"}
+}

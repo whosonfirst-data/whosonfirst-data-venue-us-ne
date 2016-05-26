@@ -1,0 +1,77 @@
+{
+  "id": 873817329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.126533,41.208199,-96.126533,41.208199",
+    "geom:latitude":41.208199,
+    "geom:longitude":-96.126533,
+    "iso:country":"US",
+    "sg:address":"4830 S 137th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 894 2232",
+    "sg:postcode":"68137",
+    "sg:province":"NE",
+    "sg:tags":[
+        "roofing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872531,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2FEsAF7uBFxY2AnUnp09aH_41.208199_-96.126533@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298066,
+    "wof:geomhash":"c89b1aa6709963501cb7be003e5fcd72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872531,
+            "region_id":85688563,
+            "venue_id":873817329
+        }
+    ],
+    "wof:id":873817329,
+    "wof:lastmodified":1464298066,
+    "wof:name":"TNT Construction",
+    "wof:parent_id":85872531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "roofing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.126533,
+    41.208199,
+    -96.126533,
+    41.208199
+],
+  "geometry": {"coordinates":[-96.12653299999999,41.208199],"type":"Point"}
+}

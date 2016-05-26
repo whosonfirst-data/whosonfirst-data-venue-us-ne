@@ -1,0 +1,73 @@
+{
+  "id": 873928987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.602553,40.797934,-96.602553,40.797934",
+    "geom:latitude":40.797934,
+    "geom:longitude":-96.602553,
+    "iso:country":"US",
+    "sg:address":"8544 Echo Ct",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 483 7381",
+    "sg:postcode":"68520",
+    "sg:province":"NE",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5a563zB3DoOS7d5f69ZzNj_40.797934_-96.602553@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300389,
+    "wof:geomhash":"d0b37a8a3a2ff39edc7989ee91cc04fe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878697,
+            "region_id":85688563,
+            "venue_id":873928987
+        }
+    ],
+    "wof:id":873928987,
+    "wof:lastmodified":1464300389,
+    "wof:name":"Harold E Maude MD",
+    "wof:parent_id":85878697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -96.602553,
+    40.797934,
+    -96.602553,
+    40.797934
+],
+  "geometry": {"coordinates":[-96.602553,40.797934],"type":"Point"}
+}

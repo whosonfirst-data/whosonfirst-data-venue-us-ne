@@ -1,0 +1,80 @@
+{
+  "id": 873822593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.7026,40.813583,-96.7026,40.813583",
+    "geom:latitude":40.813583,
+    "geom:longitude":-96.7026,
+    "iso:country":"US",
+    "sg:address":"131 S 13th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 486 9400",
+    "sg:postcode":"68508",
+    "sg:province":"NE",
+    "sg:tags":[
+        "banks",
+        "blood",
+        "center"
+    ],
+    "sg:website":"www.don8bld.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878699,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3QiQvI8A4wiGjD482xB6Er_40.813583_-96.702600@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298179,
+    "wof:geomhash":"fa4ec961cc4a9ff931d4791a17c68c70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878699,
+            "region_id":85688563,
+            "venue_id":873822593
+        }
+    ],
+    "wof:id":873822593,
+    "wof:lastmodified":1464298179,
+    "wof:name":"Community Blood Bank",
+    "wof:parent_id":85878699,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banks",
+        "blood",
+        "center"
+    ]
+},
+  "bbox": [
+    -96.7026,
+    40.813583,
+    -96.7026,
+    40.813583
+],
+  "geometry": {"coordinates":[-96.7026,40.813583],"type":"Point"}
+}

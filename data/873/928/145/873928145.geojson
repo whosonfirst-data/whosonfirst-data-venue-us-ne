@@ -1,0 +1,79 @@
+{
+  "id": 873928145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.004843,41.287769,-96.004843,41.287769",
+    "geom:latitude":41.287769,
+    "geom:longitude":-96.004843,
+    "iso:country":"US",
+    "sg:address":"3330 N 60th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Electronics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 551 5745",
+    "sg:postcode":"68104",
+    "sg:province":"NE",
+    "sg:tags":[
+        "equipment",
+        "mfg",
+        "communications"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872535,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0shBoi7v3NkJlYt78CJHuo_41.287769_-96.004843@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300369,
+    "wof:geomhash":"ab20523d95cd1b5244f5ed1a38d2dd52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872535,
+            "region_id":85688563,
+            "venue_id":873928145
+        }
+    ],
+    "wof:id":873928145,
+    "wof:lastmodified":1464300369,
+    "wof:name":"Arcc",
+    "wof:parent_id":85872535,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "mfg",
+        "communications"
+    ]
+},
+  "bbox": [
+    -96.004843,
+    41.287769,
+    -96.004843,
+    41.287769
+],
+  "geometry": {"coordinates":[-96.00484299999999,41.287769],"type":"Point"}
+}

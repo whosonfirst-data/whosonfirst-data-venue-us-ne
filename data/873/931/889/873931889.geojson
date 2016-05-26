@@ -1,0 +1,75 @@
+{
+  "id": 873931889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.711954,40.799306,-96.711954,40.799306",
+    "geom:latitude":40.799306,
+    "geom:longitude":-96.711954,
+    "iso:country":"US",
+    "sg:address":"636 A St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 477 3080",
+    "sg:postcode":"68502",
+    "sg:province":"NE",
+    "sg:tags":[
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878705,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4AMtz2syVmvmOtDMR3L9Cz_40.799306_-96.711954@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300444,
+    "wof:geomhash":"1dac6a1209033cfff4b37f0965124633",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878705,
+            "region_id":85688563,
+            "venue_id":873931889
+        }
+    ],
+    "wof:id":873931889,
+    "wof:lastmodified":1464300444,
+    "wof:name":"Cornhusker Bottle Shop",
+    "wof:parent_id":85878705,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "store"
+    ]
+},
+  "bbox": [
+    -96.711954,
+    40.799306,
+    -96.711954,
+    40.799306
+],
+  "geometry": {"coordinates":[-96.71195400000001,40.799306],"type":"Point"}
+}

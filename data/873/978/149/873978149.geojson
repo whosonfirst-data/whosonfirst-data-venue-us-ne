@@ -1,0 +1,78 @@
+{
+  "id": 873978149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.644595,40.791918,-96.644595,40.791918",
+    "geom:latitude":40.791918,
+    "geom:longitude":-96.644595,
+    "iso:country":"US",
+    "sg:address":"5540 South St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ne/lincoln/67143-pizza-hut/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 486 3500",
+    "sg:postcode":"68506",
+    "sg:province":"NE",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85811821,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6BXPO9doh5CSomUx55Hv1M_40.791705_-96.644534@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464302302,
+    "wof:geomhash":"fb122db36fed324945c1c7063d80a80c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85811821,
+            "region_id":85688563,
+            "venue_id":873978149
+        }
+    ],
+    "wof:id":873978149,
+    "wof:lastmodified":1464302302,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":85811821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -96.644595,
+    40.791918,
+    -96.644595,
+    40.791918
+],
+  "geometry": {"coordinates":[-96.644595,40.791918],"type":"Point"}
+}

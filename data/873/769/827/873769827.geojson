@@ -1,0 +1,74 @@
+{
+  "id": 873769827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.127396,41.173345,-96.127396,41.173345",
+    "geom:latitude":41.173345,
+    "geom:longitude":-96.127396,
+    "iso:country":"US",
+    "sg:address":"8930 S 137th Cir",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 891 0278",
+    "sg:postcode":"68138",
+    "sg:province":"NE",
+    "sg:tags":[
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85834285,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3qolUchRV1KCy2Z8P4LhQ8_41.173345_-96.127396@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297361,
+    "wof:geomhash":"bc89d19bec2d05656e25aa434d6329ed",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85834285,
+            "region_id":85688563,
+            "venue_id":873769827
+        }
+    ],
+    "wof:id":873769827,
+    "wof:lastmodified":1464297361,
+    "wof:name":"Mel Tra Leasing Inc",
+    "wof:parent_id":85834285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing"
+    ]
+},
+  "bbox": [
+    -96.127396,
+    41.173345,
+    -96.127396,
+    41.173345
+],
+  "geometry": {"coordinates":[-96.127396,41.173345],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 873767481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.730712,40.843263,-96.730712,40.843263",
+    "geom:latitude":40.843263,
+    "geom:longitude":-96.730712,
+    "iso:country":"US",
+    "sg:address":"707 Bridger Rd",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 416 7742",
+    "sg:postcode":"68521",
+    "sg:province":"NE",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85855865,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5297NS1FwS1KNGksiO2I3e_40.843263_-96.730712@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297331,
+    "wof:geomhash":"aa3680e0f74890dd621596d0b108f46a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85855865,
+            "region_id":85688563,
+            "venue_id":873767481
+        }
+    ],
+    "wof:id":873767481,
+    "wof:lastmodified":1464297331,
+    "wof:name":"Kimrics Janitorial Svc",
+    "wof:parent_id":85855865,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -96.730712,
+    40.843263,
+    -96.730712,
+    40.843263
+],
+  "geometry": {"coordinates":[-96.730712,40.843263],"type":"Point"}
+}

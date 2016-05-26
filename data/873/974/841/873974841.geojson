@@ -1,0 +1,80 @@
+{
+  "id": 873974841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.043381,41.28241,-96.043381,41.28241",
+    "geom:latitude":41.28241,
+    "geom:longitude":-96.043381,
+    "iso:country":"US",
+    "sg:address":"2611 N 84th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 393 7728",
+    "sg:postcode":"68134",
+    "sg:province":"NE",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "truck"
+    ],
+    "sg:website":"http://clickserve.dartsearch.net/link/click?lid=43000000313868928&ds_s_kwgid=58000000006820725&ds_e_matchtype={MatchType}&ds_e_kwdid={OrderItemId}&ds_e_adid={AdId}&ds_url_v=2",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872507,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_74UDT380JFpelCK6FQ8DaG_41.282249_-96.043316@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464302185,
+    "wof:geomhash":"6a07b9a05f0fd82805f184db7254722d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872507,
+            "region_id":85688563,
+            "venue_id":873974841
+        }
+    ],
+    "wof:id":873974841,
+    "wof:lastmodified":1464302185,
+    "wof:name":"Auto-Tech, Inc",
+    "wof:parent_id":85872507,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "truck"
+    ]
+},
+  "bbox": [
+    -96.043381,
+    41.28241,
+    -96.043381,
+    41.28241
+],
+  "geometry": {"coordinates":[-96.043381,41.28241],"type":"Point"}
+}

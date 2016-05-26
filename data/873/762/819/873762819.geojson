@@ -1,0 +1,78 @@
+{
+  "id": 873762819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.234424,41.265279,-96.234424,41.265279",
+    "geom:latitude":41.265279,
+    "geom:longitude":-96.234424,
+    "iso:country":"US",
+    "sg:address":"829 N 204th St",
+    "sg:city":"Elkhorn",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Junior College",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 289 1200",
+    "sg:postcode":"68022",
+    "sg:province":"NE",
+    "sg:tags":[
+        "technical",
+        "institute"
+    ],
+    "sg:website":"www.mccneb.edu",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85868921,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4VlJUshUgNb4PFLGSezYIj_41.265279_-96.234424@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297255,
+    "wof:geomhash":"90aec8bc95288dd1099141e9bba62891",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85868921,
+            "region_id":85688563,
+            "venue_id":873762819
+        }
+    ],
+    "wof:id":873762819,
+    "wof:lastmodified":1464297255,
+    "wof:name":"Metropolitan Community College",
+    "wof:parent_id":85868921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "technical",
+        "institute"
+    ]
+},
+  "bbox": [
+    -96.234424,
+    41.265279,
+    -96.234424,
+    41.265279
+],
+  "geometry": {"coordinates":[-96.234424,41.265279],"type":"Point"}
+}

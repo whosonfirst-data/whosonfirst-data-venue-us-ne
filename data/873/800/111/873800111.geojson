@@ -1,0 +1,70 @@
+{
+  "id": 873800111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.04304,41.157385,-96.04304,41.157385",
+    "geom:latitude":41.157385,
+    "geom:longitude":-96.04304,
+    "iso:country":"US",
+    "sg:address":"102 N Washington St",
+    "sg:city":"Papillion",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 593 7684",
+    "sg:postcode":"68046",
+    "sg:province":"NE",
+    "sg:tags":[
+        "fraternal"
+    ],
+    "sg:website":"www.foe.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85843697,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_18ynQbbGTYX2b6HYedQbrZ_41.157385_-96.043040@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297775,
+    "wof:geomhash":"c3093e2621d17c4ba48a3b583b33a2ac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85843697,
+            "region_id":85688563,
+            "venue_id":873800111
+        }
+    ],
+    "wof:id":873800111,
+    "wof:lastmodified":1464297775,
+    "wof:name":"Fraternal Order Of Eagles",
+    "wof:parent_id":85843697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fraternal"
+    ]
+},
+  "bbox": [
+    -96.04304,
+    41.157385,
+    -96.04304,
+    41.157385
+],
+  "geometry": {"coordinates":[-96.04304,41.157385],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873875845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.900238,41.136569,-95.900238,41.136569",
+    "geom:latitude":41.136569,
+    "geom:longitude":-95.900238,
+    "iso:country":"US",
+    "sg:address":"508 W Mission Ave",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 292 5815",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "accountant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974747,
+        102082777,
+        85820061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5uEHxxQtdpP27ZAMVmtwCW_41.136569_-95.900238@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299351,
+    "wof:geomhash":"9380ee9f61456a67d591738ff66c1f7e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974747,
+            "neighbourhood_id":85820061,
+            "region_id":85688563,
+            "venue_id":873875845
+        }
+    ],
+    "wof:id":873875845,
+    "wof:lastmodified":1464299351,
+    "wof:name":"Robert L Pilgrim CPA",
+    "wof:parent_id":85820061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "accountant"
+    ]
+},
+  "bbox": [
+    -95.900238,
+    41.136569,
+    -95.900238,
+    41.136569
+],
+  "geometry": {"coordinates":[-95.900238,41.136569],"type":"Point"}
+}

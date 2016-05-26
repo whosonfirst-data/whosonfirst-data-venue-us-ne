@@ -1,0 +1,71 @@
+{
+  "id": 873818317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.644342,40.706589,-96.644342,40.706589",
+    "geom:latitude":40.706589,
+    "geom:longitude":-96.644342,
+    "iso:country":"US",
+    "sg:address":"10440 S 56th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 430 8722",
+    "sg:postcode":"68516",
+    "sg:province":"NE",
+    "sg:tags":[
+        "roofing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85878745,
+        102083503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1WcZJ2PtDpNTz1hNIUV5Xn_40.706589_-96.644342@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298085,
+    "wof:geomhash":"a1bc4bdbffe14085754097f0c409a3dc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "neighbourhood_id":85878745,
+            "region_id":85688563,
+            "venue_id":873818317
+        }
+    ],
+    "wof:id":873818317,
+    "wof:lastmodified":1464298085,
+    "wof:name":"Kohmetscher Roofing Constr",
+    "wof:parent_id":85878745,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "roofing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.644342,
+    40.706589,
+    -96.644342,
+    40.706589
+],
+  "geometry": {"coordinates":[-96.64434199999999,40.706589],"type":"Point"}
+}

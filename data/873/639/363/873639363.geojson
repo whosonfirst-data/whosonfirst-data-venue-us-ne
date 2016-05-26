@@ -1,0 +1,71 @@
+{
+  "id": 873639363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.930442,41.161355,-95.930442,41.161355",
+    "geom:latitude":41.161355,
+    "geom:longitude":-95.930442,
+    "iso:country":"US",
+    "sg:address":"10019 S 10th St",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 292 0108",
+    "sg:postcode":"68123",
+    "sg:province":"NE",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85804025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Y4KLjRC2cbibhMcwEC37R_41.161355_-95.930442@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295467,
+    "wof:geomhash":"4dc18a061a8c15654d02923fceb5cac0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85804025,
+            "region_id":85688563,
+            "venue_id":873639363
+        }
+    ],
+    "wof:id":873639363,
+    "wof:lastmodified":1464295467,
+    "wof:name":"Little Lambs Daycare",
+    "wof:parent_id":85804025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -95.930442,
+    41.161355,
+    -95.930442,
+    41.161355
+],
+  "geometry": {"coordinates":[-95.930442,41.161355],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 873947617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.672837,40.80802,-96.672837,40.80802",
+    "geom:latitude":40.80802,
+    "geom:longitude":-96.672837,
+    "iso:country":"US",
+    "sg:address":"401 S 33rd St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 441 7095",
+    "sg:postcode":"68510",
+    "sg:province":"NE",
+    "sg:tags":[
+        "tennis",
+        "court"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878683,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_74SB7TQcKTCDHtrciRaQFX_40.808020_-96.672837@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464301040,
+    "wof:geomhash":"cf1af09abc779c1daec15ee8a0863b8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878683,
+            "region_id":85688563,
+            "venue_id":873947617
+        }
+    ],
+    "wof:id":873947617,
+    "wof:lastmodified":1464301040,
+    "wof:name":"Woods Tennis Center",
+    "wof:parent_id":85878683,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tennis",
+        "court"
+    ]
+},
+  "bbox": [
+    -96.672837,
+    40.80802,
+    -96.672837,
+    40.80802
+],
+  "geometry": {"coordinates":[-96.672837,40.80802],"type":"Point"}
+}

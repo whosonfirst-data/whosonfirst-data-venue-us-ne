@@ -1,0 +1,70 @@
+{
+  "id": 873607541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.663357,40.794221,-96.663357,40.794221",
+    "geom:latitude":40.794221,
+    "geom:longitude":-96.663357,
+    "iso:country":"US",
+    "sg:address":"1801 S 40th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 436 1308",
+    "sg:postcode":"68506",
+    "sg:province":"NE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892213,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1GHEX3OrXZ1kposziyPXWw_40.794221_-96.663357@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295088,
+    "wof:geomhash":"e7f98c9098b00d785152be6c67149ca0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85892213,
+            "region_id":85688563,
+            "venue_id":873607541
+        }
+    ],
+    "wof:id":873607541,
+    "wof:lastmodified":1464295088,
+    "wof:name":"Bryan Community School",
+    "wof:parent_id":85892213,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.663357,
+    40.794221,
+    -96.663357,
+    40.794221
+],
+  "geometry": {"coordinates":[-96.663357,40.794221],"type":"Point"}
+}

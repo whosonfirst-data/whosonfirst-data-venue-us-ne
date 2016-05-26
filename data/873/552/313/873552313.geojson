@@ -1,0 +1,71 @@
+{
+  "id": 873552313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.681783,40.875674,-96.681783,40.875674",
+    "geom:latitude":40.875674,
+    "geom:longitude":-96.681783,
+    "iso:country":"US",
+    "sg:address":"6600 N 27th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 476 4824",
+    "sg:postcode":"68521",
+    "sg:province":"NE",
+    "sg:tags":[
+        "amusement"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_00Kz0ifGzHrN1DMVyIFdLH_40.875674_-96.681783@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294405,
+    "wof:geomhash":"931918614385c5fc6163047dc23c5bc9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878687,
+            "region_id":85688563,
+            "venue_id":873552313
+        }
+    ],
+    "wof:id":873552313,
+    "wof:lastmodified":1464294405,
+    "wof:name":"Laser Tag Of Lincoln",
+    "wof:parent_id":85878687,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "amusement"
+    ]
+},
+  "bbox": [
+    -96.681783,
+    40.875674,
+    -96.681783,
+    40.875674
+],
+  "geometry": {"coordinates":[-96.681783,40.875674],"type":"Point"}
+}

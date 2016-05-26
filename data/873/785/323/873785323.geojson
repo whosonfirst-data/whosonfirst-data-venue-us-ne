@@ -1,0 +1,84 @@
+{
+  "id": 873785323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.0853,41.206065,-96.0853,41.206065",
+    "geom:latitude":41.206065,
+    "geom:longitude":-96.0853,
+    "iso:country":"US",
+    "sg:address":"5065 S 111th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Textiles",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 592 1234",
+    "sg:postcode":"68137",
+    "sg:province":"NE",
+    "sg:tags":[
+        "mill",
+        "cotton",
+        "fabric",
+        "drapery",
+        "mfg"
+    ],
+    "sg:website":"www.windowwares.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872531,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6CxU8v3uJEQ9jr6wwulKnx_41.206065_-96.085300@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297559,
+    "wof:geomhash":"ebc5fed5bf4e9dc2771da1a3e95b8e42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872531,
+            "region_id":85688563,
+            "venue_id":873785323
+        }
+    ],
+    "wof:id":873785323,
+    "wof:lastmodified":1464297559,
+    "wof:name":"Window Wares Inc",
+    "wof:parent_id":85872531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mill",
+        "cotton",
+        "fabric",
+        "drapery",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -96.0853,
+    41.206065,
+    -96.0853,
+    41.206065
+],
+  "geometry": {"coordinates":[-96.0853,41.206065],"type":"Point"}
+}

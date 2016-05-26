@@ -1,0 +1,80 @@
+{
+  "id": 873538485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.094214,41.263242,-96.094214,41.263242",
+    "geom:latitude":41.263242,
+    "geom:longitude":-96.094214,
+    "iso:country":"US",
+    "sg:address":"11550 W Dodge Rd",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 493 9600",
+    "sg:postcode":"68154",
+    "sg:province":"NE",
+    "sg:tags":[
+        "company",
+        "bank",
+        "holding"
+    ],
+    "sg:website":"www.americaninterstatebank.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872503,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7VJ3nfQcXScSIUTpBO9KK6_41.263242_-96.094214@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294245,
+    "wof:geomhash":"25a0787ebde0e0265fe13f1de00ccd42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872503,
+            "region_id":85688563,
+            "venue_id":873538485
+        }
+    ],
+    "wof:id":873538485,
+    "wof:lastmodified":1464294245,
+    "wof:name":"American Interstate Bank Corp",
+    "wof:parent_id":85872503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "bank",
+        "holding"
+    ]
+},
+  "bbox": [
+    -96.094214,
+    41.263242,
+    -96.094214,
+    41.263242
+],
+  "geometry": {"coordinates":[-96.09421399999999,41.263242],"type":"Point"}
+}

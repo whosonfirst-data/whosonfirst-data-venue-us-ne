@@ -1,0 +1,70 @@
+{
+  "id": 873765617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.994702,41.299661,-95.994702,41.299661",
+    "geom:latitude":41.299661,
+    "geom:longitude":-95.994702,
+    "iso:country":"US",
+    "sg:address":"5018 Ames Ave",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 451 7372",
+    "sg:postcode":"68104",
+    "sg:province":"NE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85805755,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5In5pmO56qA8FP9wFBiN8B_41.299661_-95.994702@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297307,
+    "wof:geomhash":"a6b22f5d4c17297f332e361979e9f2aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85805755,
+            "region_id":85688563,
+            "venue_id":873765617
+        }
+    ],
+    "wof:id":873765617,
+    "wof:lastmodified":1464297307,
+    "wof:name":"US Bank",
+    "wof:parent_id":85805755,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -95.994702,
+    41.299661,
+    -95.994702,
+    41.299661
+],
+  "geometry": {"coordinates":[-95.994702,41.299661],"type":"Point"}
+}

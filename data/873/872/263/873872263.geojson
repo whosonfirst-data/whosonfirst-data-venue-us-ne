@@ -1,0 +1,75 @@
+{
+  "id": 873872263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.907339,41.135983,-95.907339,41.135983",
+    "geom:latitude":41.135983,
+    "geom:longitude":-95.907339,
+    "iso:country":"US",
+    "sg:address":"2211 Lincoln Rd",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 292 1303",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "parlor",
+        "ice",
+        "cream"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974747,
+        102082777,
+        85820061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5titIFdoiI3zXiMiyMYp45_41.135983_-95.907339@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299280,
+    "wof:geomhash":"91e102907a4a7416e5ad56ad518c7846",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974747,
+            "neighbourhood_id":85820061,
+            "region_id":85688563,
+            "venue_id":873872263
+        }
+    ],
+    "wof:id":873872263,
+    "wof:lastmodified":1464299280,
+    "wof:name":"Dairy Twist",
+    "wof:parent_id":85820061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "parlor",
+        "ice",
+        "cream"
+    ]
+},
+  "bbox": [
+    -95.907339,
+    41.135983,
+    -95.907339,
+    41.135983
+],
+  "geometry": {"coordinates":[-95.90733899999999,41.135983],"type":"Point"}
+}

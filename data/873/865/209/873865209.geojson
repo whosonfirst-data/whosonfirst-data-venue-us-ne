@@ -1,0 +1,66 @@
+{
+  "id": 873865209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.899001,41.134512,-95.899001,41.134512",
+    "geom:latitude":41.134512,
+    "geom:longitude":-95.899001,
+    "iso:country":"US",
+    "sg:address":"2311 Madison St",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 291 4448",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974747,
+        102082777,
+        85820061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1BVbMeIuzxakTbVdyRUENC_41.134512_-95.899001@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299142,
+    "wof:geomhash":"f58d19e1c60586c4fe33e53f2698f759",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974747,
+            "neighbourhood_id":85820061,
+            "region_id":85688563,
+            "venue_id":873865209
+        }
+    ],
+    "wof:id":873865209,
+    "wof:lastmodified":1464299142,
+    "wof:name":"Children's World",
+    "wof:parent_id":85820061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -95.899001,
+    41.134512,
+    -95.899001,
+    41.134512
+],
+  "geometry": {"coordinates":[-95.899001,41.134512],"type":"Point"}
+}

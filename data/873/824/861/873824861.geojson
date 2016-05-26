@@ -1,0 +1,74 @@
+{
+  "id": 873824861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.633344,40.858209,-96.633344,40.858209",
+    "geom:latitude":40.858209,
+    "geom:longitude":-96.633344,
+    "iso:country":"US",
+    "sg:address":"6330 Platte Ave",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 434 2680",
+    "sg:postcode":"68507",
+    "sg:province":"NE",
+    "sg:tags":[
+        "home",
+        "residential"
+    ],
+    "sg:website":"www.havenmanor.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85824241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5UeE5GqMpRync6duNdApMX_40.858209_-96.633344@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298230,
+    "wof:geomhash":"47447c8dd6d614854fc0eb6dbb89065d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85824241,
+            "region_id":85688563,
+            "venue_id":873824861
+        }
+    ],
+    "wof:id":873824861,
+    "wof:lastmodified":1464298230,
+    "wof:name":"Haven Manor Assisted Living",
+    "wof:parent_id":85824241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "residential"
+    ]
+},
+  "bbox": [
+    -96.633344,
+    40.858209,
+    -96.633344,
+    40.858209
+],
+  "geometry": {"coordinates":[-96.63334399999999,40.858209],"type":"Point"}
+}

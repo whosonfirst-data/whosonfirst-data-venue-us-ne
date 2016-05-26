@@ -1,0 +1,77 @@
+{
+  "id": 873776233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.726369,40.799187,-96.726369,40.799187",
+    "geom:latitude":40.799187,
+    "geom:longitude":-96.726369,
+    "iso:country":"US",
+    "sg:address":"420 W A St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 475 5197",
+    "sg:postcode":"68522",
+    "sg:province":"NE",
+    "sg:tags":[
+        "garbage",
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878737,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ODPr6btN0ZSBkju8SlK80_40.799187_-96.726369@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297440,
+    "wof:geomhash":"ac62224ffae169cd40e4e35272c0dcef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878737,
+            "region_id":85688563,
+            "venue_id":873776233
+        }
+    ],
+    "wof:id":873776233,
+    "wof:lastmodified":1464297440,
+    "wof:name":"Von Busch & Sons Refuse",
+    "wof:parent_id":85878737,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection"
+    ]
+},
+  "bbox": [
+    -96.726369,
+    40.799187,
+    -96.726369,
+    40.799187
+],
+  "geometry": {"coordinates":[-96.72636900000001,40.799187],"type":"Point"}
+}

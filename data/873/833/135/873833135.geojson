@@ -1,0 +1,71 @@
+{
+  "id": 873833135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.030782,41.18452,-96.030782,41.18452",
+    "geom:latitude":41.18452,
+    "geom:longitude":-96.030782,
+    "iso:country":"US",
+    "sg:address":"7545 Edward Ave",
+    "sg:city":"La Vista",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 331 2187",
+    "sg:postcode":"68128",
+    "sg:province":"NE",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85843697,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7L8ZA8G6vrcfDhKDW12Cx0_41.184520_-96.030782@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298406,
+    "wof:geomhash":"a5df35335f90cf8b26baab1d6e63723a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85843697,
+            "region_id":85688563,
+            "venue_id":873833135
+        }
+    ],
+    "wof:id":873833135,
+    "wof:lastmodified":1464298406,
+    "wof:name":"Lees Driveway",
+    "wof:parent_id":85843697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.030782,
+    41.18452,
+    -96.030782,
+    41.18452
+],
+  "geometry": {"coordinates":[-96.030782,41.18452],"type":"Point"}
+}

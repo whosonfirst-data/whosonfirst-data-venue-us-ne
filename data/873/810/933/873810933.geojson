@@ -1,0 +1,73 @@
+{
+  "id": 873810933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.628516,40.793044,-96.628516,40.793044",
+    "geom:latitude":40.793044,
+    "geom:longitude":-96.628516,
+    "iso:country":"US",
+    "sg:address":"1930 E Bermuda Dr",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 488 3670",
+    "sg:postcode":"68506",
+    "sg:province":"NE",
+    "sg:tags":[
+        "hanging",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6YsNFjO5ttr6bVHsWsjdRm_40.793044_-96.628516@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297943,
+    "wof:geomhash":"e43003fce93f53e18aa58c4413d76ca7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878697,
+            "region_id":85688563,
+            "venue_id":873810933
+        }
+    ],
+    "wof:id":873810933,
+    "wof:lastmodified":1464297943,
+    "wof:name":"HI Performance Painting LLC",
+    "wof:parent_id":85878697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.628516,
+    40.793044,
+    -96.628516,
+    40.793044
+],
+  "geometry": {"coordinates":[-96.628516,40.793044],"type":"Point"}
+}

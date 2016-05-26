@@ -1,0 +1,71 @@
+{
+  "id": 873562885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.056533,41.318903,-96.056533,41.318903",
+    "geom:latitude":41.318903,
+    "geom:longitude":-96.056533,
+    "iso:country":"US",
+    "sg:address":"6404 N 91st Plz",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 572 7866",
+    "sg:postcode":"68134",
+    "sg:province":"NE",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85872505,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4F9ztVzokhB5bCJ9L6lvzX_41.318903_-96.056533@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294530,
+    "wof:geomhash":"f96cf2887172851c93086c1cb7e0c07d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":873562885
+        }
+    ],
+    "wof:id":873562885,
+    "wof:lastmodified":1464294530,
+    "wof:name":"Medical Technologies Inc",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -96.056533,
+    41.318903,
+    -96.056533,
+    41.318903
+],
+  "geometry": {"coordinates":[-96.056533,41.318903],"type":"Point"}
+}

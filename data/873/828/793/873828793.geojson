@@ -1,0 +1,73 @@
+{
+  "id": 873828793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.642629,40.861706,-96.642629,40.861706",
+    "geom:latitude":40.861706,
+    "geom:longitude":-96.642629,
+    "iso:country":"US",
+    "sg:address":"5030 N 57th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 464 9692",
+    "sg:postcode":"68507",
+    "sg:province":"NE",
+    "sg:tags":[
+        "instruction",
+        "gymnastic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85824241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_27MVYbQ8dHxy3giflVEmkC_40.861706_-96.642629@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298310,
+    "wof:geomhash":"ead9a0e45da66fa86c49b83fbc140806",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85824241,
+            "region_id":85688563,
+            "venue_id":873828793
+        }
+    ],
+    "wof:id":873828793,
+    "wof:lastmodified":1464298310,
+    "wof:name":"Capital City Gymnastics LLC",
+    "wof:parent_id":85824241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "gymnastic"
+    ]
+},
+  "bbox": [
+    -96.642629,
+    40.861706,
+    -96.642629,
+    40.861706
+],
+  "geometry": {"coordinates":[-96.642629,40.861706],"type":"Point"}
+}

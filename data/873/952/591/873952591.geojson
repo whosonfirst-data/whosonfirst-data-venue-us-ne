@@ -1,0 +1,66 @@
+{
+  "id": 873952591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.363183,41.438739,-97.363183,41.438739",
+    "geom:latitude":41.438739,
+    "geom:longitude":-97.363183,
+    "iso:country":"US",
+    "sg:address":"2812 23rd St",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 563 2777",
+    "sg:postcode":"68601",
+    "sg:province":"NE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974401,
+        102084277,
+        85854093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0gEeLLRQhBeuVGLkm743vn_41.438739_-97.363183@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464301254,
+    "wof:geomhash":"27f4b4fcbbe585aba351d027f7d4717f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084277,
+            "locality_id":85974401,
+            "neighbourhood_id":85854093,
+            "region_id":85688563,
+            "venue_id":873952591
+        }
+    ],
+    "wof:id":873952591,
+    "wof:lastmodified":1464301254,
+    "wof:name":"Super Buffet",
+    "wof:parent_id":85854093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.363183,
+    41.438739,
+    -97.363183,
+    41.438739
+],
+  "geometry": {"coordinates":[-97.36318300000001,41.438739],"type":"Point"}
+}

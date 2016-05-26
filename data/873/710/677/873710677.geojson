@@ -1,0 +1,68 @@
+{
+  "id": 873710677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.739443,40.842883,-96.739443,40.842883",
+    "geom:latitude":40.842883,
+    "geom:longitude":-96.739443,
+    "iso:country":"US",
+    "sg:address":"2940 NW 12th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 475 2200",
+    "sg:postcode":"68521",
+    "sg:province":"NE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102529023,
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6YmS0HAYK9ariVHSXo6bni_40.842883_-96.739443@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296529,
+    "wof:geomhash":"b60502c684bfbfc54aaa417ca58e44e2",
+    "wof:hierarchy":[
+        {
+            "campus_id":102529023,
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878717,
+            "region_id":85688563,
+            "venue_id":873710677
+        }
+    ],
+    "wof:id":873710677,
+    "wof:lastmodified":1464296529,
+    "wof:name":"Comfort Inn",
+    "wof:parent_id":102529023,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.739443,
+    40.842883,
+    -96.739443,
+    40.842883
+],
+  "geometry": {"coordinates":[-96.73944299999999,40.842883],"type":"Point"}
+}

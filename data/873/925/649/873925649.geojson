@@ -1,0 +1,71 @@
+{
+  "id": 873925649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.231354,41.145326,-96.231354,41.145326",
+    "geom:latitude":41.145326,
+    "geom:longitude":-96.231354,
+    "iso:country":"US",
+    "sg:address":"11275 S 202nd Cir",
+    "sg:city":"Gretna",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 332 4468",
+    "sg:postcode":"68028",
+    "sg:province":"NE",
+    "sg:tags":[
+        "equipment",
+        "industrial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85834285,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1qfAkRd7PGjRWYw62f8LaT_41.145326_-96.231354@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300320,
+    "wof:geomhash":"44fb01bc98af7b4abd280135ee7757c0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85834285,
+            "region_id":85688563,
+            "venue_id":873925649
+        }
+    ],
+    "wof:id":873925649,
+    "wof:lastmodified":1464300320,
+    "wof:name":"S&N Tools",
+    "wof:parent_id":85834285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "industrial"
+    ]
+},
+  "bbox": [
+    -96.231354,
+    41.145326,
+    -96.231354,
+    41.145326
+],
+  "geometry": {"coordinates":[-96.231354,41.145326],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873864925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.930883,41.174103,-95.930883,41.174103",
+    "geom:latitude":41.174103,
+    "geom:longitude":-95.930883,
+    "iso:country":"US",
+    "sg:address":"8605 S 11th St",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 934 0082",
+    "sg:postcode":"68147",
+    "sg:province":"NE",
+    "sg:tags":[
+        "photographer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85804025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6k8Q9INKm1md64J6RvtiPs_41.174103_-95.930883@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299136,
+    "wof:geomhash":"1218eea578b902f75b53f72d6e4908b0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85804025,
+            "region_id":85688563,
+            "venue_id":873864925
+        }
+    ],
+    "wof:id":873864925,
+    "wof:lastmodified":1464299136,
+    "wof:name":"F-45 Photography",
+    "wof:parent_id":85804025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photographer"
+    ]
+},
+  "bbox": [
+    -95.930883,
+    41.174103,
+    -95.930883,
+    41.174103
+],
+  "geometry": {"coordinates":[-95.93088299999999,41.174103],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 873908291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.991061,41.259743,-95.991061,41.259743",
+    "geom:latitude":41.259743,
+    "geom:longitude":-95.991061,
+    "iso:country":"US",
+    "sg:address":"5020 Dodge St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 551 5020",
+    "sg:postcode":"68132",
+    "sg:province":"NE",
+    "sg:tags":[
+        "instruction",
+        "yoga"
+    ],
+    "sg:website":"www.bikramyogaomaha.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867055,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7VC7rsggr9GusOcn2DMWNV_41.259743_-95.991061@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299981,
+    "wof:geomhash":"ae4f5b284f39bbb367cc8860dda2a06b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85867055,
+            "region_id":85688563,
+            "venue_id":873908291
+        }
+    ],
+    "wof:id":873908291,
+    "wof:lastmodified":1464299981,
+    "wof:name":"Bikram Yoga Omaha",
+    "wof:parent_id":85867055,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "yoga"
+    ]
+},
+  "bbox": [
+    -95.991061,
+    41.259743,
+    -95.991061,
+    41.259743
+],
+  "geometry": {"coordinates":[-95.991061,41.259743],"type":"Point"}
+}

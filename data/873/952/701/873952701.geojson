@@ -1,0 +1,77 @@
+{
+  "id": 873952701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.143009,41.23395,-96.143009,41.23395",
+    "geom:latitude":41.23395,
+    "geom:longitude":-96.143009,
+    "iso:country":"US",
+    "sg:address":"14626 W Center Rd",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 333 2630",
+    "sg:postcode":"68144",
+    "sg:province":"NE",
+    "sg:tags":[
+        "cashing",
+        "check"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85806957,
+        102191575,
+        404519987,
+        85633793,
+        85973479,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5lMdnLu4uYD9TuqLzgRuTP_41.233950_-96.143009@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464301257,
+    "wof:geomhash":"d3ec1ea5a4a300354dc59b42990c133c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404519987,
+            "locality_id":85973479,
+            "neighbourhood_id":85806957,
+            "region_id":85688563,
+            "venue_id":873952701
+        }
+    ],
+    "wof:id":873952701,
+    "wof:lastmodified":1464301257,
+    "wof:name":"Omaha Cash",
+    "wof:parent_id":85806957,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cashing",
+        "check"
+    ]
+},
+  "bbox": [
+    -96.143009,
+    41.23395,
+    -96.143009,
+    41.23395
+],
+  "geometry": {"coordinates":[-96.14300900000001,41.23395],"type":"Point"}
+}

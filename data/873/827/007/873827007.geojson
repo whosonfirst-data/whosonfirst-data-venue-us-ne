@@ -1,0 +1,76 @@
+{
+  "id": 873827007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.081538,41.212704,-96.081538,41.212704",
+    "geom:latitude":41.212704,
+    "geom:longitude":-96.081538,
+    "iso:country":"US",
+    "sg:address":"4522 S 108th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 592 0440",
+    "sg:postcode":"68137",
+    "sg:province":"NE",
+    "sg:tags":[
+        "truck"
+    ],
+    "sg:website":"www.omahatruck.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872531,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5A7kEvHH6BEAPeUYku9xg3_41.212704_-96.081538@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298277,
+    "wof:geomhash":"94888aa6003db6ea207dccd6490f3164",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872531,
+            "region_id":85688563,
+            "venue_id":873827007
+        }
+    ],
+    "wof:id":873827007,
+    "wof:lastmodified":1464298277,
+    "wof:name":"Omaha Truck Ctr",
+    "wof:parent_id":85872531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [
+    -96.081538,
+    41.212704,
+    -96.081538,
+    41.212704
+],
+  "geometry": {"coordinates":[-96.08153799999999,41.212704],"type":"Point"}
+}

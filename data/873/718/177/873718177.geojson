@@ -1,0 +1,75 @@
+{
+  "id": 873718177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.952142,41.183574,-95.952142,41.183574",
+    "geom:latitude":41.183574,
+    "geom:longitude":-95.952142,
+    "iso:country":"US",
+    "sg:address":"2619 Chandler Rd W",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 734 5999",
+    "sg:postcode":"68147",
+    "sg:province":"NE",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85849923,
+        102191575,
+        404519143,
+        85633793,
+        85974545,
+        102082777,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6XMsMf6qDvcaAZpGdgr1wi_41.183574_-95.952142@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296623,
+    "wof:geomhash":"66e604ca0cca89a541215fe7df37441d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082777,
+            "localadmin_id":404519143,
+            "locality_id":85974545,
+            "neighbourhood_id":85849923,
+            "region_id":85688563,
+            "venue_id":873718177
+        }
+    ],
+    "wof:id":873718177,
+    "wof:lastmodified":1464296623,
+    "wof:name":"Smith Building Maintenance",
+    "wof:parent_id":85849923,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -95.952142,
+    41.183574,
+    -95.952142,
+    41.183574
+],
+  "geometry": {"coordinates":[-95.95214199999999,41.183574],"type":"Point"}
+}

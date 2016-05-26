@@ -1,0 +1,71 @@
+{
+  "id": 873588829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.062232,41.334661,-96.062232,41.334661",
+    "geom:latitude":41.334661,
+    "geom:longitude":-96.062232,
+    "iso:country":"US",
+    "sg:address":"7610 N 96th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 571 2727",
+    "sg:postcode":"68122",
+    "sg:province":"NE",
+    "sg:tags":[
+        "roofing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85872505,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2NbvQwbaxaochoiljZDqrX_41.334661_-96.062232@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294816,
+    "wof:geomhash":"854d0ccfe2cb1d254f0f1fef9f2e2371",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":873588829
+        }
+    ],
+    "wof:id":873588829,
+    "wof:lastmodified":1464294816,
+    "wof:name":"Nastase Container",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "roofing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.062232,
+    41.334661,
+    -96.062232,
+    41.334661
+],
+  "geometry": {"coordinates":[-96.06223199999999,41.334661],"type":"Point"}
+}

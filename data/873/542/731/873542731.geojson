@@ -1,0 +1,77 @@
+{
+  "id": 873542731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.978217,41.245975,-95.978217,41.245975",
+    "geom:latitude":41.245975,
+    "geom:longitude":-95.978217,
+    "iso:country":"US",
+    "sg:address":"4211 William St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 991 6908",
+    "sg:postcode":"68105",
+    "sg:province":"NE",
+    "sg:tags":[
+        "work",
+        "carpentry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872523,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6jTYlxGq1uI9Mh95amAq7G_41.245975_-95.978217@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294288,
+    "wof:geomhash":"5bd842f4780ea7e415e12ec7a7027b0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872523,
+            "region_id":85688563,
+            "venue_id":873542731
+        }
+    ],
+    "wof:id":873542731,
+    "wof:lastmodified":1464294288,
+    "wof:name":"Advantage Contracting",
+    "wof:parent_id":85872523,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "work",
+        "carpentry"
+    ]
+},
+  "bbox": [
+    -95.978217,
+    41.245975,
+    -95.978217,
+    41.245975
+],
+  "geometry": {"coordinates":[-95.978217,41.245975],"type":"Point"}
+}

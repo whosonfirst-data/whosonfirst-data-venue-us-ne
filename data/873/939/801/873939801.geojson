@@ -1,0 +1,73 @@
+{
+  "id": 873939801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.624983,40.843323,-96.624983,40.843323",
+    "geom:latitude":40.843323,
+    "geom:longitude":-96.624983,
+    "iso:country":"US",
+    "sg:address":"3043 N 70th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 467 2220",
+    "sg:postcode":"68507",
+    "sg:province":"NE",
+    "sg:tags":[
+        "photographer",
+        "photo"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85824241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_53QsaK2jOCTiiAxKBBzi73_40.843323_-96.624983@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300680,
+    "wof:geomhash":"3039f97d50116692c22fcda4c90650da",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85824241,
+            "region_id":85688563,
+            "venue_id":873939801
+        }
+    ],
+    "wof:id":873939801,
+    "wof:lastmodified":1464300680,
+    "wof:name":"Eric Geibler Photography",
+    "wof:parent_id":85824241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photographer",
+        "photo"
+    ]
+},
+  "bbox": [
+    -96.624983,
+    40.843323,
+    -96.624983,
+    40.843323
+],
+  "geometry": {"coordinates":[-96.624983,40.843323],"type":"Point"}
+}

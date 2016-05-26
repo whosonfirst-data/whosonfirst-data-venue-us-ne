@@ -1,0 +1,81 @@
+{
+  "id": 873928655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.994377,41.190705,-95.994377,41.190705",
+    "geom:latitude":41.190705,
+    "geom:longitude":-95.994377,
+    "iso:country":"US",
+    "sg:address":"5111 Harrison St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 734 4655",
+    "sg:postcode":"68157",
+    "sg:province":"NE",
+    "sg:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85849923,
+        102191575,
+        404519143,
+        85633793,
+        85974545,
+        102082777,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1TX6JqQEW6O289FnjMY5XS_41.190705_-95.994377@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300382,
+    "wof:geomhash":"a8aea72e16ce1151956334fc41f0f60c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082777,
+            "localadmin_id":404519143,
+            "locality_id":85974545,
+            "neighbourhood_id":85849923,
+            "region_id":85688563,
+            "venue_id":873928655
+        }
+    ],
+    "wof:id":873928655,
+    "wof:lastmodified":1464300382,
+    "wof:name":"Couch Potato Video's",
+    "wof:parent_id":85849923,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ]
+},
+  "bbox": [
+    -95.994377,
+    41.190705,
+    -95.994377,
+    41.190705
+],
+  "geometry": {"coordinates":[-95.994377,41.190705],"type":"Point"}
+}

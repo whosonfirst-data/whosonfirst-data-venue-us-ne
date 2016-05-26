@@ -1,0 +1,77 @@
+{
+  "id": 873949359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.713438,40.810251,-96.713438,40.810251",
+    "geom:latitude":40.810251,
+    "geom:longitude":-96.713438,
+    "iso:country":"US",
+    "sg:address":"545 L St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 477 3881",
+    "sg:postcode":"68508",
+    "sg:province":"NE",
+    "sg:tags":[
+        "distribution",
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878737,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6WlaN7lx2e6Sc5MCNaTfQR_40.810251_-96.713438@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464301118,
+    "wof:geomhash":"37ceb4a52528ed02c164551fb661d1f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878737,
+            "region_id":85688563,
+            "venue_id":873949359
+        }
+    ],
+    "wof:id":873949359,
+    "wof:lastmodified":1464301118,
+    "wof:name":"Millard Lumber Inc",
+    "wof:parent_id":85878737,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "distribution",
+        "center"
+    ]
+},
+  "bbox": [
+    -96.713438,
+    40.810251,
+    -96.713438,
+    40.810251
+],
+  "geometry": {"coordinates":[-96.713438,40.810251],"type":"Point"}
+}

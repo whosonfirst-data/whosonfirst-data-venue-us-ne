@@ -1,0 +1,77 @@
+{
+  "id": 873949801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.947079,41.284716,-95.947079,41.284716",
+    "geom:latitude":41.284716,
+    "geom:longitude":-95.947079,
+    "iso:country":"US",
+    "sg:address":"2816 N 24th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 453 4686",
+    "sg:postcode":"68110",
+    "sg:province":"NE",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872525,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1U3xwLMjJot4uHTfKYakuM_41.284716_-95.947079@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464301142,
+    "wof:geomhash":"8a8bf35e5fa02a0c5c379ec7005fae29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872525,
+            "region_id":85688563,
+            "venue_id":873949801
+        }
+    ],
+    "wof:id":873949801,
+    "wof:lastmodified":1464301142,
+    "wof:name":"Neighborhood Auto Ctr Inc",
+    "wof:parent_id":85872525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -95.947079,
+    41.284716,
+    -95.947079,
+    41.284716
+],
+  "geometry": {"coordinates":[-95.947079,41.284716],"type":"Point"}
+}

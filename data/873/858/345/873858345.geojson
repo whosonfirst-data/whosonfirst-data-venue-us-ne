@@ -1,0 +1,75 @@
+{
+  "id": 873858345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.102696,41.196477,-96.102696,41.196477",
+    "geom:latitude":41.196477,
+    "geom:longitude":-96.102696,
+    "iso:country":"US",
+    "sg:address":"6232 Oak Hills Plz",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 895 6253",
+    "sg:postcode":"68137",
+    "sg:province":"NE",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872531,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7JD4MEdpcuPez8MBiUDChH_41.196477_-96.102696@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298979,
+    "wof:geomhash":"18fe906b4f6e1577ec9a452a492b2d85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872531,
+            "region_id":85688563,
+            "venue_id":873858345
+        }
+    ],
+    "wof:id":873858345,
+    "wof:lastmodified":1464298979,
+    "wof:name":"Tom Moriarty DDS",
+    "wof:parent_id":85872531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -96.102696,
+    41.196477,
+    -96.102696,
+    41.196477
+],
+  "geometry": {"coordinates":[-96.10269599999999,41.196477],"type":"Point"}
+}

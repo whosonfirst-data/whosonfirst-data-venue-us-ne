@@ -1,0 +1,66 @@
+{
+  "id": 873893379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.640639,40.848708,-96.640639,40.848708",
+    "geom:latitude":40.848708,
+    "geom:longitude":-96.640639,
+    "iso:country":"US",
+    "sg:address":"5844 Fremont St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 466 2100",
+    "sg:postcode":"68507",
+    "sg:province":"NE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85824241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_46mFMgyk94Y4LAr55xM5IL_40.848708_-96.640639@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299694,
+    "wof:geomhash":"11456bfc12b87cfe608202d9550a7094",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85824241,
+            "region_id":85688563,
+            "venue_id":873893379
+        }
+    ],
+    "wof:id":873893379,
+    "wof:lastmodified":1464299694,
+    "wof:name":"Medicap Pharmacy",
+    "wof:parent_id":85824241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.640639,
+    40.848708,
+    -96.640639,
+    40.848708
+],
+  "geometry": {"coordinates":[-96.64063899999999,40.848708],"type":"Point"}
+}

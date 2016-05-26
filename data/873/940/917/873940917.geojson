@@ -1,0 +1,77 @@
+{
+  "id": 873940917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.081394,41.232075,-96.081394,41.232075",
+    "geom:latitude":41.232075,
+    "geom:longitude":-96.081394,
+    "iso:country":"US",
+    "sg:address":"2915 S 108th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Dance Studio",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 934 1553",
+    "sg:postcode":"68144",
+    "sg:province":"NE",
+    "sg:tags":[
+        "instruction",
+        "dancing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872533,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3zpAOnjV1wIi548KXx7IFC_41.232075_-96.081394@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300729,
+    "wof:geomhash":"b9b1b263d41595f080a162fd43028218",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872533,
+            "region_id":85688563,
+            "venue_id":873940917
+        }
+    ],
+    "wof:id":873940917,
+    "wof:lastmodified":1464300729,
+    "wof:name":"Stars Dance Academy",
+    "wof:parent_id":85872533,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "dancing"
+    ]
+},
+  "bbox": [
+    -96.081394,
+    41.232075,
+    -96.081394,
+    41.232075
+],
+  "geometry": {"coordinates":[-96.081394,41.232075],"type":"Point"}
+}

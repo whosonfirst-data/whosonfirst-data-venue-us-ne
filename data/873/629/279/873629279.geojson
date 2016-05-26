@@ -1,0 +1,79 @@
+{
+  "id": 873629279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.69137,40.813468,-96.69137,40.813468",
+    "geom:latitude":40.813468,
+    "geom:longitude":-96.69137,
+    "iso:country":"US",
+    "sg:address":"2045 O St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 476 3700",
+    "sg:postcode":"68510",
+    "sg:province":"NE",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878723,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3R7i5C5PcVesdF2k5u4y2F_40.813468_-96.691370@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295352,
+    "wof:geomhash":"ddcb0577711233da68ea058ce75b00d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878723,
+            "region_id":85688563,
+            "venue_id":873629279
+        }
+    ],
+    "wof:id":873629279,
+    "wof:lastmodified":1464295352,
+    "wof:name":"Road & Track Motors Svc",
+    "wof:parent_id":85878723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -96.69137,
+    40.813468,
+    -96.69137,
+    40.813468
+],
+  "geometry": {"coordinates":[-96.69137000000001,40.813468],"type":"Point"}
+}

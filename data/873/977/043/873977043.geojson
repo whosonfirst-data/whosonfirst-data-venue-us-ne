@@ -1,0 +1,76 @@
+{
+  "id": 873977043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.60365,40.736021,-96.60365,40.736021",
+    "geom:latitude":40.736021,
+    "geom:longitude":-96.60365,
+    "iso:country":"US",
+    "sg:address":"8550 Andermatt Dr",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ne/lincoln/155536-runza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 488 1533",
+    "sg:postcode":"68526",
+    "sg:province":"NE",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3R1orA7sH2OFvd1LdsQ9HF_40.736021_-96.603650@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464302262,
+    "wof:geomhash":"17b055bacf4270859369880b2613afc8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878685,
+            "region_id":85688563,
+            "venue_id":873977043
+        }
+    ],
+    "wof:id":873977043,
+    "wof:lastmodified":1464302262,
+    "wof:name":"Runza",
+    "wof:parent_id":85878685,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -96.60365,
+    40.736021,
+    -96.60365,
+    40.736021
+],
+  "geometry": {"coordinates":[-96.60365,40.736021],"type":"Point"}
+}

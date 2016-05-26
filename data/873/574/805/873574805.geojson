@@ -1,0 +1,73 @@
+{
+  "id": 873574805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.708303,40.697478,-96.708303,40.697478",
+    "geom:latitude":40.697478,
+    "geom:longitude":-96.708303,
+    "iso:country":"US",
+    "sg:address":"1050 Saltillo Rd",
+    "sg:city":"Roca",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 421 8873",
+    "sg:postcode":"68430",
+    "sg:province":"NE",
+    "sg:tags":[
+        "lawn",
+        "mower"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7XBjjMvs3uKmQ8D7JEg2Ei_40.697478_-96.708303@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294661,
+    "wof:geomhash":"3e2929d43801fcb2c1916ffa1ce75e9d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878709,
+            "region_id":85688563,
+            "venue_id":873574805
+        }
+    ],
+    "wof:id":873574805,
+    "wof:lastmodified":1464294661,
+    "wof:name":"Lincoln Turf & Tractor Inc",
+    "wof:parent_id":85878709,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lawn",
+        "mower"
+    ]
+},
+  "bbox": [
+    -96.708303,
+    40.697478,
+    -96.708303,
+    40.697478
+],
+  "geometry": {"coordinates":[-96.708303,40.697478],"type":"Point"}
+}

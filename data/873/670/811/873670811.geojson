@@ -1,0 +1,79 @@
+{
+  "id": 873670811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.942278,41.281383,-95.942278,41.281383",
+    "geom:latitude":41.281383,
+    "geom:longitude":-95.942278,
+    "iso:country":"US",
+    "sg:address":"2414 N 20th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 345 0447",
+    "sg:postcode":"68110",
+    "sg:province":"NE",
+    "sg:tags":[
+        "automobile",
+        "detail",
+        "clean"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872525,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4dRDVRTe0KZz37AK5arqkv_41.281383_-95.942278@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295810,
+    "wof:geomhash":"584693d76cfc6cd3513897d67ea8cd79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872525,
+            "region_id":85688563,
+            "venue_id":873670811
+        }
+    ],
+    "wof:id":873670811,
+    "wof:lastmodified":1464295810,
+    "wof:name":"Wet Look",
+    "wof:parent_id":85872525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "detail",
+        "clean"
+    ]
+},
+  "bbox": [
+    -95.942278,
+    41.281383,
+    -95.942278,
+    41.281383
+],
+  "geometry": {"coordinates":[-95.942278,41.281383],"type":"Point"}
+}

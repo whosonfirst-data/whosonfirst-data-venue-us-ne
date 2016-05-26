@@ -1,0 +1,71 @@
+{
+  "id": 873642471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.072528,41.320387,-96.072528,41.320387",
+    "geom:latitude":41.320387,
+    "geom:longitude":-96.072528,
+    "iso:country":"US",
+    "sg:address":"6809 N 102nd Ave Cir",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 453 4423",
+    "sg:postcode":"68122",
+    "sg:province":"NE",
+    "sg:tags":[
+        "photographer",
+        "photographic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85872505,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6zDQowfb18Rn4mejgDLJN3_41.320387_-96.072528@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295505,
+    "wof:geomhash":"1305a16173affa5b3419f5363e3c5c0e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":873642471
+        }
+    ],
+    "wof:id":873642471,
+    "wof:lastmodified":1464295505,
+    "wof:name":"Ames Photography Studio Boris",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photographer",
+        "photographic"
+    ]
+},
+  "bbox": [
+    -96.072528,
+    41.320387,
+    -96.072528,
+    41.320387
+],
+  "geometry": {"coordinates":[-96.07252800000001,41.320387],"type":"Point"}
+}

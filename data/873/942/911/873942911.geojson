@@ -1,0 +1,77 @@
+{
+  "id": 873942911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.952809,41.324526,-95.952809,41.324526",
+    "geom:latitude":41.324526,
+    "geom:longitude":-95.952809,
+    "iso:country":"US",
+    "sg:address":"2760 Iowa St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 679 6464",
+    "sg:postcode":"68112",
+    "sg:province":"NE",
+    "sg:tags":[
+        "hanging",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85805287,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4hiMRGvYg8rdKWWXTKgUrx_41.324526_-95.952809@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300800,
+    "wof:geomhash":"93c93a88b67886cacf38a35e6f4c7b2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85805287,
+            "region_id":85688563,
+            "venue_id":873942911
+        }
+    ],
+    "wof:id":873942911,
+    "wof:lastmodified":1464300800,
+    "wof:name":"Andersen Painting",
+    "wof:parent_id":85805287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -95.952809,
+    41.324526,
+    -95.952809,
+    41.324526
+],
+  "geometry": {"coordinates":[-95.952809,41.324526],"type":"Point"}
+}

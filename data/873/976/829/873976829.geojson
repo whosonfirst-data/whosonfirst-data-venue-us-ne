@@ -1,0 +1,72 @@
+{
+  "id": 873976829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.625,40.783321,-96.625,40.783321",
+    "geom:latitude":40.783321,
+    "geom:longitude":-96.625,
+    "iso:country":"US",
+    "sg:address":"2840 S 70th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ne/lincoln/4002-brewskys-food--spirtis/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 483 2739",
+    "sg:postcode":"68506",
+    "sg:province":"NE",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0UnVsekpbvFGolMGxrHkEG_40.783321_-96.625000@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464302250,
+    "wof:geomhash":"129f6392f51ca3fcd62330cabafdae30",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878697,
+            "region_id":85688563,
+            "venue_id":873976829
+        }
+    ],
+    "wof:id":873976829,
+    "wof:lastmodified":1464302250,
+    "wof:name":"Brewsky's Food & Spirtis",
+    "wof:parent_id":85878697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -96.625,
+    40.783321,
+    -96.625,
+    40.783321
+],
+  "geometry": {"coordinates":[-96.625,40.783321],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 873962501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.231064,41.273207,-96.231064,41.273207",
+    "geom:latitude":41.273207,
+    "geom:longitude":-96.231064,
+    "iso:country":"US",
+    "sg:address":"20134 Roberts St",
+    "sg:city":"Elkhorn",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Dance Studio",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 289 2510",
+    "sg:postcode":"68022",
+    "sg:province":"NE",
+    "sg:tags":[
+        "instruction",
+        "dancing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85868921,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1pTWLMDJSlNaUorWgVHv2y_41.273207_-96.231064@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464301671,
+    "wof:geomhash":"b4918f73d3cf4389972573f4ed18c425",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85868921,
+            "region_id":85688563,
+            "venue_id":873962501
+        }
+    ],
+    "wof:id":873962501,
+    "wof:lastmodified":1464301671,
+    "wof:name":"Center Stage Danz",
+    "wof:parent_id":85868921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "dancing"
+    ]
+},
+  "bbox": [
+    -96.231064,
+    41.273207,
+    -96.231064,
+    41.273207
+],
+  "geometry": {"coordinates":[-96.231064,41.273207],"type":"Point"}
+}

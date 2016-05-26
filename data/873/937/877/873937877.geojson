@@ -1,0 +1,77 @@
+{
+  "id": 873937877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.715802,40.808183,-96.715802,40.808183",
+    "geom:latitude":40.808183,
+    "geom:longitude":-96.715802,
+    "iso:country":"US",
+    "sg:address":"440 J St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Scrap",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 476 8502",
+    "sg:postcode":"68508",
+    "sg:province":"NE",
+    "sg:tags":[
+        "recycling",
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878699,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2nUNZk4AtLBkAsdarQIuCp_40.808183_-96.715802@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300604,
+    "wof:geomhash":"76b1df755dc1df001fb161ddbf3c4349",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878699,
+            "region_id":85688563,
+            "venue_id":873937877
+        }
+    ],
+    "wof:id":873937877,
+    "wof:lastmodified":1464300604,
+    "wof:name":"Midland Recycling",
+    "wof:parent_id":85878699,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "recycling",
+        "center"
+    ]
+},
+  "bbox": [
+    -96.715802,
+    40.808183,
+    -96.715802,
+    40.808183
+],
+  "geometry": {"coordinates":[-96.715802,40.808183],"type":"Point"}
+}

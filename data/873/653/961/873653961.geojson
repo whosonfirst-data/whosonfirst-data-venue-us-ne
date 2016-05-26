@@ -1,0 +1,75 @@
+{
+  "id": 873653961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.989451,41.180906,-95.989451,41.180906",
+    "geom:latitude":41.180906,
+    "geom:longitude":-95.989451,
+    "iso:country":"US",
+    "sg:address":"4978 Glasgow Ave",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 733 5106",
+    "sg:postcode":"68157",
+    "sg:province":"NE",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85849923,
+        102191575,
+        404519143,
+        85633793,
+        85974545,
+        102082777,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_08ykSpWjxHleCwZCCJaXeb_41.180906_-95.989451@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295635,
+    "wof:geomhash":"495e93cfbd50ca99390e5fcd74f3ae51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082777,
+            "localadmin_id":404519143,
+            "locality_id":85974545,
+            "neighbourhood_id":85849923,
+            "region_id":85688563,
+            "venue_id":873653961
+        }
+    ],
+    "wof:id":873653961,
+    "wof:lastmodified":1464295635,
+    "wof:name":"Kiesels Body Shop",
+    "wof:parent_id":85849923,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [
+    -95.989451,
+    41.180906,
+    -95.989451,
+    41.180906
+],
+  "geometry": {"coordinates":[-95.989451,41.180906],"type":"Point"}
+}

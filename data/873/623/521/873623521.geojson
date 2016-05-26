@@ -1,0 +1,73 @@
+{
+  "id": 873623521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.907321,41.144564,-95.907321,41.144564",
+    "geom:latitude":41.144564,
+    "geom:longitude":-95.907321,
+    "iso:country":"US",
+    "sg:address":"1405 Lincoln Rd",
+    "sg:city":"Fort Calhoun",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 468 5308",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "hauling",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974747,
+        102082777,
+        85820061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3KWXH4kHcB2z08USCViJHd_41.144564_-95.907321@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295291,
+    "wof:geomhash":"ec68fbb4ce264cc7216bf7732fd0748e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974747,
+            "neighbourhood_id":85820061,
+            "region_id":85688563,
+            "venue_id":873623521
+        }
+    ],
+    "wof:id":873623521,
+    "wof:lastmodified":1464295291,
+    "wof:name":"Classic Marble Inc",
+    "wof:parent_id":85820061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hauling",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -95.907321,
+    41.144564,
+    -95.907321,
+    41.144564
+],
+  "geometry": {"coordinates":[-95.907321,41.144564],"type":"Point"}
+}

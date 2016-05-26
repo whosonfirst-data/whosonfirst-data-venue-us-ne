@@ -1,0 +1,71 @@
+{
+  "id": 873627789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.030846,41.364688,-96.030846,41.364688",
+    "geom:latitude":41.364688,
+    "geom:longitude":-96.030846,
+    "iso:country":"US",
+    "sg:address":"7200 Bennington Rd",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 571 7585",
+    "sg:postcode":"68122",
+    "sg:province":"NE",
+    "sg:tags":[
+        "aircraft",
+        "school"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85872505,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_12OO707TYZqroA5SfASH5X_41.364688_-96.030846@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295339,
+    "wof:geomhash":"1a6488bedc8016bbe59c4ddfa0c76610",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":873627789
+        }
+    ],
+    "wof:id":873627789,
+    "wof:lastmodified":1464295339,
+    "wof:name":"North Omaha Airport",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "aircraft",
+        "school"
+    ]
+},
+  "bbox": [
+    -96.030846,
+    41.364688,
+    -96.030846,
+    41.364688
+],
+  "geometry": {"coordinates":[-96.030846,41.364688],"type":"Point"}
+}

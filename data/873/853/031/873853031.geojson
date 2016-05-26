@@ -1,0 +1,77 @@
+{
+  "id": 873853031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.012877,41.307735,-96.012877,41.307735",
+    "geom:latitude":41.307735,
+    "geom:longitude":-96.012877,
+    "iso:country":"US",
+    "sg:address":"5424 N 65th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 210 3942",
+    "sg:postcode":"68104",
+    "sg:province":"NE",
+    "sg:tags":[
+        "lock",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85805755,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_58WbXCsVulJBYgPrKib6YP_41.307735_-96.012877@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298878,
+    "wof:geomhash":"92472335b3b3357642ba378ca39881c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85805755,
+            "region_id":85688563,
+            "venue_id":873853031
+        }
+    ],
+    "wof:id":873853031,
+    "wof:lastmodified":1464298878,
+    "wof:name":"First Priority Locksmiths",
+    "wof:parent_id":85805755,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "locksmith"
+    ]
+},
+  "bbox": [
+    -96.012877,
+    41.307735,
+    -96.012877,
+    41.307735
+],
+  "geometry": {"coordinates":[-96.012877,41.307735],"type":"Point"}
+}

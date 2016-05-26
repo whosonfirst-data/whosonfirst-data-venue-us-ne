@@ -1,0 +1,67 @@
+{
+  "id": 873817293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.37561,41.438644,-97.37561,41.438644",
+    "geom:latitude":41.438644,
+    "geom:longitude":-97.37561,
+    "iso:country":"US",
+    "sg:address":"3919 23rd St",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 562 7595",
+    "sg:postcode":"68601",
+    "sg:province":"NE",
+    "sg:website":"www.newvictorianinn.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974401,
+        102084277,
+        85854093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0sd7tntmZg4qZ3yaJO5jiV_41.438644_-97.375610@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298066,
+    "wof:geomhash":"a7f1f143184b4682d0977ad3e48bd894",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084277,
+            "locality_id":85974401,
+            "neighbourhood_id":85854093,
+            "region_id":85688563,
+            "venue_id":873817293
+        }
+    ],
+    "wof:id":873817293,
+    "wof:lastmodified":1464298066,
+    "wof:name":"Victorian Inn Motel",
+    "wof:parent_id":85854093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.37561,
+    41.438644,
+    -97.37561,
+    41.438644
+],
+  "geometry": {"coordinates":[-97.37560999999999,41.438644],"type":"Point"}
+}

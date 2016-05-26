@@ -1,0 +1,69 @@
+{
+  "id": 873538231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.052521,41.312014,-96.052521,41.312014",
+    "geom:latitude":41.312014,
+    "geom:longitude":-96.052521,
+    "iso:country":"US",
+    "sg:address":"5851 N 90th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 502 3740",
+    "sg:postcode":"68134",
+    "sg:province":"NE",
+    "sg:tags":[
+        "foster"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85872505,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2UUebFdXCUCGTkrZYlieFm_41.312014_-96.052521@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294241,
+    "wof:geomhash":"47dce6cad38e3125a797fb9d360142a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":873538231
+        }
+    ],
+    "wof:id":873538231,
+    "wof:lastmodified":1464294241,
+    "wof:name":"Apex Foster Care",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "foster"
+    ]
+},
+  "bbox": [
+    -96.052521,
+    41.312014,
+    -96.052521,
+    41.312014
+],
+  "geometry": {"coordinates":[-96.052521,41.312014],"type":"Point"}
+}

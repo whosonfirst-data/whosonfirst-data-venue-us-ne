@@ -1,0 +1,79 @@
+{
+  "id": 873972735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.047093,41.293933,-96.047093,41.293933",
+    "geom:latitude":41.293933,
+    "geom:longitude":-96.047093,
+    "iso:country":"US",
+    "sg:address":"8638 Keystone Dr",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 571 0835",
+    "sg:postcode":"68134",
+    "sg:province":"NE",
+    "sg:tags":[
+        "collection",
+        "garbage",
+        "sanitation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872515,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5F0Z6ypdohBqKEu4dkd5Bg_41.293986_-96.047155@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464302094,
+    "wof:geomhash":"acc5c985ad286a9a3b75a1ad80700228",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872515,
+            "region_id":85688563,
+            "venue_id":873972735
+        }
+    ],
+    "wof:id":873972735,
+    "wof:lastmodified":1464302094,
+    "wof:name":"Weekly Pick Up Svc",
+    "wof:parent_id":85872515,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "collection",
+        "garbage",
+        "sanitation"
+    ]
+},
+  "bbox": [
+    -96.047093,
+    41.293933,
+    -96.047093,
+    41.293933
+],
+  "geometry": {"coordinates":[-96.047093,41.293933],"type":"Point"}
+}

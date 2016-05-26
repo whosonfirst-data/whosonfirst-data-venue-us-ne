@@ -1,0 +1,75 @@
+{
+  "id": 873934861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.651154,40.857291,-96.651154,40.857291",
+    "geom:latitude":40.857291,
+    "geom:longitude":-96.651154,
+    "iso:country":"US",
+    "sg:address":"4810 Superior St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 466 2080",
+    "sg:postcode":"68504",
+    "sg:province":"NE",
+    "sg:tags":[
+        "used"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878741,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2IDe7bJfeMrsn3OUbiziuZ_40.857291_-96.651154@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300497,
+    "wof:geomhash":"0ddc3499c701b7d84965f9244b07fdad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878741,
+            "region_id":85688563,
+            "venue_id":873934861
+        }
+    ],
+    "wof:id":873934861,
+    "wof:lastmodified":1464300497,
+    "wof:name":"Line X of Lincoln LLC",
+    "wof:parent_id":85878741,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "used"
+    ]
+},
+  "bbox": [
+    -96.651154,
+    40.857291,
+    -96.651154,
+    40.857291
+],
+  "geometry": {"coordinates":[-96.65115400000001,40.857291],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 873707619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.633132,40.858209,-96.633132,40.858209",
+    "geom:latitude":40.858209,
+    "geom:longitude":-96.633132,
+    "iso:country":"US",
+    "sg:address":"6310 Platte Ave",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 441 7151",
+    "sg:postcode":"68507",
+    "sg:province":"NE",
+    "sg:tags":[
+        "senior",
+        "executive",
+        "citizen"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85824241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_267VuioXnY87Y5miXTWlQP_40.858209_-96.633132@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296490,
+    "wof:geomhash":"0be64be2a64e527cdc23d087bbb283c2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85824241,
+            "region_id":85688563,
+            "venue_id":873707619
+        }
+    ],
+    "wof:id":873707619,
+    "wof:lastmodified":1464296490,
+    "wof:name":"Northeast Senior Center",
+    "wof:parent_id":85824241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "senior",
+        "executive",
+        "citizen"
+    ]
+},
+  "bbox": [
+    -96.633132,
+    40.858209,
+    -96.633132,
+    40.858209
+],
+  "geometry": {"coordinates":[-96.633132,40.858209],"type":"Point"}
+}

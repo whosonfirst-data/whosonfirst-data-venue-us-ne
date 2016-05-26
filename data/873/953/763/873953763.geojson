@@ -1,0 +1,75 @@
+{
+  "id": 873953763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.033398,41.25007,-96.033398,41.25007",
+    "geom:latitude":41.25007,
+    "geom:longitude":-96.033398,
+    "iso:country":"US",
+    "sg:address":"1011 S 78th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 689 7147",
+    "sg:postcode":"68114",
+    "sg:province":"NE",
+    "sg:tags":[
+        "appraiser"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872509,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1BAUgsNu5xREDBq2tIrs35_41.250070_-96.033398@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464301293,
+    "wof:geomhash":"57fbc13c5226f8314cb737b95a34a4c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872509,
+            "region_id":85688563,
+            "venue_id":873953763
+        }
+    ],
+    "wof:id":873953763,
+    "wof:lastmodified":1464301293,
+    "wof:name":"John A Moran & Assoc",
+    "wof:parent_id":85872509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appraiser"
+    ]
+},
+  "bbox": [
+    -96.033398,
+    41.25007,
+    -96.033398,
+    41.25007
+],
+  "geometry": {"coordinates":[-96.03339800000001,41.25007],"type":"Point"}
+}

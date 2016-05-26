@@ -1,0 +1,75 @@
+{
+  "id": 873807159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.256169,41.252528,-96.256169,41.252528",
+    "geom:latitude":41.252528,
+    "geom:longitude":-96.256169,
+    "iso:country":"US",
+    "sg:address":"700 Skyline Dr",
+    "sg:city":"Elkhorn",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 289 2508",
+    "sg:postcode":"68022",
+    "sg:province":"NE",
+    "sg:tags":[
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85868921,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4vzgqnsHX3tnVbNudmizNo_41.252528_-96.256169@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297874,
+    "wof:geomhash":"c61ceacf1b1ae24f2652de20c6e7ebd3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85868921,
+            "region_id":85688563,
+            "venue_id":873807159
+        }
+    ],
+    "wof:id":873807159,
+    "wof:lastmodified":1464297874,
+    "wof:name":"Jackson Companies",
+    "wof:parent_id":85868921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential"
+    ]
+},
+  "bbox": [
+    -96.256169,
+    41.252528,
+    -96.256169,
+    41.252528
+],
+  "geometry": {"coordinates":[-96.256169,41.252528],"type":"Point"}
+}

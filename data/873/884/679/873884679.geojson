@@ -1,0 +1,72 @@
+{
+  "id": 873884679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.193574,41.182806,-96.193574,41.182806",
+    "geom:latitude":41.182806,
+    "geom:longitude":-96.193574,
+    "iso:country":"US",
+    "sg:address":"17801 Storage Rd",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 333 4495",
+    "sg:postcode":"68136",
+    "sg:province":"NE",
+    "sg:tags":[
+        "tile",
+        "dealer"
+    ],
+    "sg:website":"www.universalflooring.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85834285,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2el84BOBOZW90wbwcQs9Ej_41.182806_-96.193574@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299533,
+    "wof:geomhash":"093591563e9eb3d1bab910b7cc50fc34",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85834285,
+            "region_id":85688563,
+            "venue_id":873884679
+        }
+    ],
+    "wof:id":873884679,
+    "wof:lastmodified":1464299533,
+    "wof:name":"Universal Flooring & Rstrtn",
+    "wof:parent_id":85834285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tile",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -96.193574,
+    41.182806,
+    -96.193574,
+    41.182806
+],
+  "geometry": {"coordinates":[-96.193574,41.182806],"type":"Point"}
+}

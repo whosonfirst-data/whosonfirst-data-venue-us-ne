@@ -1,0 +1,75 @@
+{
+  "id": 873766445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.680964,40.806671,-96.680964,40.806671",
+    "geom:latitude":40.806671,
+    "geom:longitude":-96.680964,
+    "iso:country":"US",
+    "sg:address":"650 S 28th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 477 1970",
+    "sg:postcode":"68510",
+    "sg:province":"NE",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420525797,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6IxzzBqT9meMbCAFDmlqCf_40.806671_-96.680964@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297318,
+    "wof:geomhash":"4cb86469846b522c0a23b5e775898c45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":420525797,
+            "region_id":85688563,
+            "venue_id":873766445
+        }
+    ],
+    "wof:id":873766445,
+    "wof:lastmodified":1464297318,
+    "wof:name":"House Keeping Unlimited",
+    "wof:parent_id":420525797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -96.680964,
+    40.806671,
+    -96.680964,
+    40.806671
+],
+  "geometry": {"coordinates":[-96.680964,40.806671],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873879139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.955022,41.162564,-95.955022,41.162564",
+    "geom:latitude":41.162564,
+    "geom:longitude":-95.955022,
+    "iso:country":"US",
+    "sg:address":"2804 Morrie Dr",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 343 3592",
+    "sg:postcode":"68123",
+    "sg:province":"NE",
+    "sg:tags":[
+        "related"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85821583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_75a7bJZdBdj8XuuoThaphd_41.162564_-95.955022@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299416,
+    "wof:geomhash":"d005c96b89d3224de4562650c7186bd5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85821583,
+            "region_id":85688563,
+            "venue_id":873879139
+        }
+    ],
+    "wof:id":873879139,
+    "wof:lastmodified":1464299416,
+    "wof:name":"Todd Rivers",
+    "wof:parent_id":85821583,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "related"
+    ]
+},
+  "bbox": [
+    -95.955022,
+    41.162564,
+    -95.955022,
+    41.162564
+],
+  "geometry": {"coordinates":[-95.955022,41.162564],"type":"Point"}
+}

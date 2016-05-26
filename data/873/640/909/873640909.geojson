@@ -1,0 +1,66 @@
+{
+  "id": 873640909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.920008,41.158383,-95.920008,41.158383",
+    "geom:latitude":41.158383,
+    "geom:longitude":-95.920008,
+    "iso:country":"US",
+    "sg:address":"504 Galvin Rd S",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 292 4825",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85804025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1CwG68NAESo9io5dpqWXrX_41.158383_-95.920008@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295486,
+    "wof:geomhash":"b94537f092b459cdfa966ad4c84efa01",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85804025,
+            "region_id":85688563,
+            "venue_id":873640909
+        }
+    ],
+    "wof:id":873640909,
+    "wof:lastmodified":1464295486,
+    "wof:name":"Wonder Hostess Thrift Shop",
+    "wof:parent_id":85804025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -95.920008,
+    41.158383,
+    -95.920008,
+    41.158383
+],
+  "geometry": {"coordinates":[-95.920008,41.158383],"type":"Point"}
+}

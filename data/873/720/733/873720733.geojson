@@ -1,0 +1,71 @@
+{
+  "id": 873720733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.915526,41.151061,-95.915526,41.151061",
+    "geom:latitude":41.151061,
+    "geom:longitude":-95.915526,
+    "iso:country":"US",
+    "sg:address":"1015 Fairfax Rd",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 292 1999",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "merchandise"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85821583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_10qJyOHyEdvJDd5VdIB2er_41.151061_-95.915526@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296660,
+    "wof:geomhash":"12099a4ad4cf5fb8c3df8032db3170bc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85821583,
+            "region_id":85688563,
+            "venue_id":873720733
+        }
+    ],
+    "wof:id":873720733,
+    "wof:lastmodified":1464296660,
+    "wof:name":"Game Shoppe",
+    "wof:parent_id":85821583,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "merchandise"
+    ]
+},
+  "bbox": [
+    -95.915526,
+    41.151061,
+    -95.915526,
+    41.151061
+],
+  "geometry": {"coordinates":[-95.915526,41.151061],"type":"Point"}
+}

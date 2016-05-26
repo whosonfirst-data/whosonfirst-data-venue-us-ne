@@ -1,0 +1,80 @@
+{
+  "id": 873954393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.749292,40.798824,-96.749292,40.798824",
+    "geom:latitude":40.798824,
+    "geom:longitude":-96.749292,
+    "iso:country":"US",
+    "sg:address":"1550 S Coddington Ave",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 434 7400",
+    "sg:postcode":"68522",
+    "sg:province":"NE",
+    "sg:tags":[
+        "security"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878743,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4v8u1qRD9gFlNzAVnwd8B7_40.798824_-96.749292@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464301319,
+    "wof:geomhash":"029d8813056dbdf0c7882fa36c246169",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878743,
+            "region_id":85688563,
+            "venue_id":873954393
+        }
+    ],
+    "wof:id":873954393,
+    "wof:lastmodified":1464301319,
+    "wof:name":"Cattle National Bank & Trust",
+    "wof:parent_id":85878743,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "security"
+    ]
+},
+  "bbox": [
+    -96.749292,
+    40.798824,
+    -96.749292,
+    40.798824
+],
+  "geometry": {"coordinates":[-96.749292,40.798824],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873937945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.782134,40.852361,-96.782134,40.852361",
+    "geom:latitude":40.852361,
+    "geom:longitude":-96.782134,
+    "iso:country":"US",
+    "sg:address":"4120 NW 44th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 467 5111",
+    "sg:postcode":"68524",
+    "sg:province":"NE",
+    "sg:tags":[
+        "water",
+        "treatment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85826663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2VOi5cSovAybBQ2Q87E2Rn_40.852361_-96.782134@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300607,
+    "wof:geomhash":"9b7fa540b46e485e3c839b37849be0c3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85826663,
+            "region_id":85688563,
+            "venue_id":873937945
+        }
+    ],
+    "wof:id":873937945,
+    "wof:lastmodified":1464300607,
+    "wof:name":"Napier Technical Svc",
+    "wof:parent_id":85826663,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "water",
+        "treatment"
+    ]
+},
+  "bbox": [
+    -96.782134,
+    40.852361,
+    -96.782134,
+    40.852361
+],
+  "geometry": {"coordinates":[-96.782134,40.852361],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 873714257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.067169,41.300783,-96.067169,41.300783",
+    "geom:latitude":41.300783,
+    "geom:longitude":-96.067169,
+    "iso:country":"US",
+    "sg:address":"4606 Terrace Dr",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 557 4700",
+    "sg:postcode":"68134",
+    "sg:province":"NE",
+    "sg:tags":[
+        "secondary"
+    ],
+    "sg:website":"www.ops.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85872505,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Y2km5m13yfoGWBQl01CS4_41.300783_-96.067169@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296573,
+    "wof:geomhash":"dcd84791ac46ac15a2fa134e43d56b1f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":873714257
+        }
+    ],
+    "wof:id":873714257,
+    "wof:lastmodified":1464296573,
+    "wof:name":"Morton Middle School",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "secondary"
+    ]
+},
+  "bbox": [
+    -96.067169,
+    41.300783,
+    -96.067169,
+    41.300783
+],
+  "geometry": {"coordinates":[-96.06716900000001,41.300783],"type":"Point"}
+}

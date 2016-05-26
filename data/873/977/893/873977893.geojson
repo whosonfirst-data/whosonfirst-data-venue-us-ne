@@ -1,0 +1,78 @@
+{
+  "id": 873977893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.947419,41.268221,-95.947419,41.268221",
+    "geom:latitude":41.268221,
+    "geom:longitude":-95.947419,
+    "iso:country":"US",
+    "sg:address":"2410 Cuming St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ne/omaha/194527-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 342 1226",
+    "sg:postcode":"68131",
+    "sg:province":"NE",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872525,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_29EXNImBUjSnFxE71nDtTp_41.268022_-95.947727@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464302293,
+    "wof:geomhash":"529a9659ece9a33ece433fe8dfab7084",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872525,
+            "region_id":85688563,
+            "venue_id":873977893
+        }
+    ],
+    "wof:id":873977893,
+    "wof:lastmodified":1464302293,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85872525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -95.947419,
+    41.268221,
+    -95.947419,
+    41.268221
+],
+  "geometry": {"coordinates":[-95.947419,41.268221],"type":"Point"}
+}

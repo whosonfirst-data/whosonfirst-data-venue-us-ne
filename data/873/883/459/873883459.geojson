@@ -1,0 +1,71 @@
+{
+  "id": 873883459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.591947,40.724644,-96.591947,40.724644",
+    "geom:latitude":40.724644,
+    "geom:longitude":-96.591947,
+    "iso:country":"US",
+    "sg:address":"1525 Lincoln St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 475 2542",
+    "sg:postcode":"68526",
+    "sg:province":"NE",
+    "sg:tags":[
+        "cafe"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3iS0aeXdJKU5JqZ251F9rd_40.724644_-96.591947@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299503,
+    "wof:geomhash":"8c5594e5f6eb9406b253c3fffcf7594c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878685,
+            "region_id":85688563,
+            "venue_id":873883459
+        }
+    ],
+    "wof:id":873883459,
+    "wof:lastmodified":1464299503,
+    "wof:name":"Time Out Cafe & Books",
+    "wof:parent_id":85878685,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cafe"
+    ]
+},
+  "bbox": [
+    -96.591947,
+    40.724644,
+    -96.591947,
+    40.724644
+],
+  "geometry": {"coordinates":[-96.591947,40.724644],"type":"Point"}
+}

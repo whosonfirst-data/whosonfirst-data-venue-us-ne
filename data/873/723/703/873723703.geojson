@@ -1,0 +1,71 @@
+{
+  "id": 873723703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.637245,40.85669,-96.637245,40.85669",
+    "geom:latitude":40.85669,
+    "geom:longitude":-96.637245,
+    "iso:country":"US",
+    "sg:address":"4333 N 61st St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 466 8296",
+    "sg:postcode":"68507",
+    "sg:province":"NE",
+    "sg:tags":[
+        "appliance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85824241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7KQC65lo3mWb40gtXLDrEZ_40.856690_-96.637245@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296695,
+    "wof:geomhash":"10ca80773c192b498b9900f2f6841429",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85824241,
+            "region_id":85688563,
+            "venue_id":873723703
+        }
+    ],
+    "wof:id":873723703,
+    "wof:lastmodified":1464296695,
+    "wof:name":"AAAA-1 Appliance Salvage",
+    "wof:parent_id":85824241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appliance"
+    ]
+},
+  "bbox": [
+    -96.637245,
+    40.85669,
+    -96.637245,
+    40.85669
+],
+  "geometry": {"coordinates":[-96.63724499999999,40.85669],"type":"Point"}
+}

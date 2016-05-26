@@ -1,0 +1,72 @@
+{
+  "id": 873765923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.07828,41.339354,-96.07828,41.339354",
+    "geom:latitude":41.339354,
+    "geom:longitude":-96.07828,
+    "iso:country":"US",
+    "sg:address":"10612 Bondesson Cir",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 571 7600",
+    "sg:postcode":"68122",
+    "sg:province":"NE",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "sg:website":"www.constructinc.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85872505,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5x7RbkIb5ZY7lz63YNorGw_41.339354_-96.078280@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297311,
+    "wof:geomhash":"7f0536d11e1681403c22a49bc9c92e59",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":873765923
+        }
+    ],
+    "wof:id":873765923,
+    "wof:lastmodified":1464297311,
+    "wof:name":"Con Struct Inc",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.07828,
+    41.339354,
+    -96.07828,
+    41.339354
+],
+  "geometry": {"coordinates":[-96.07828000000001,41.339354],"type":"Point"}
+}

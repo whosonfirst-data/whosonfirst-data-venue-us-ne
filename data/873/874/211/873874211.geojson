@@ -1,0 +1,75 @@
+{
+  "id": 873874211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.653685,40.854747,-96.653685,40.854747",
+    "geom:latitude":40.854747,
+    "geom:longitude":-96.653685,
+    "iso:country":"US",
+    "sg:address":"4608 Pierce Dr",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Vending Machines",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 466 2020",
+    "sg:postcode":"68504",
+    "sg:province":"NE",
+    "sg:tags":[
+        "operator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878741,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_27KL2atrT3hRkGIIhvPNdU_40.854747_-96.653685@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299321,
+    "wof:geomhash":"7c49fa446161b9dac42ead152aa3ff14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878741,
+            "region_id":85688563,
+            "venue_id":873874211
+        }
+    ],
+    "wof:id":873874211,
+    "wof:lastmodified":1464299321,
+    "wof:name":"Swanson Corporation",
+    "wof:parent_id":85878741,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator"
+    ]
+},
+  "bbox": [
+    -96.653685,
+    40.854747,
+    -96.653685,
+    40.854747
+],
+  "geometry": {"coordinates":[-96.653685,40.854747],"type":"Point"}
+}

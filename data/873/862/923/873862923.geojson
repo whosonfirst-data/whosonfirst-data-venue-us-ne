@@ -1,0 +1,73 @@
+{
+  "id": 873862923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.893541,41.14692,-95.893541,41.14692",
+    "geom:latitude":41.14692,
+    "geom:longitude":-95.893541,
+    "iso:country":"US",
+    "sg:address":"1307 Franklin St",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 339 3382",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "well",
+        "drilling"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974747,
+        102082777,
+        85820061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0rrBK3SK87QKCIfHEKzaOF_41.146920_-95.893541@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299094,
+    "wof:geomhash":"ff0e22439cd5039644bfc39b2d3a2569",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974747,
+            "neighbourhood_id":85820061,
+            "region_id":85688563,
+            "venue_id":873862923
+        }
+    ],
+    "wof:id":873862923,
+    "wof:lastmodified":1464299094,
+    "wof:name":"Krasa Well Svc",
+    "wof:parent_id":85820061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "well",
+        "drilling"
+    ]
+},
+  "bbox": [
+    -95.893541,
+    41.14692,
+    -95.893541,
+    41.14692
+],
+  "geometry": {"coordinates":[-95.893541,41.14692],"type":"Point"}
+}

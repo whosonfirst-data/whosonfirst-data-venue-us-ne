@@ -1,0 +1,75 @@
+{
+  "id": 873678557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.652589,40.794472,-96.652589,40.794472",
+    "geom:latitude":40.794472,
+    "geom:longitude":-96.652589,
+    "iso:country":"US",
+    "sg:address":"1811 S 49th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 488 6848",
+    "sg:postcode":"68506",
+    "sg:province":"NE",
+    "sg:tags":[
+        "pump"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878683,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Fq8V2rHwpgNaBquZBg0DJ_40.794472_-96.652589@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295955,
+    "wof:geomhash":"115a0c882ea53963bcab19bca06f445e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878683,
+            "region_id":85688563,
+            "venue_id":873678557
+        }
+    ],
+    "wof:id":873678557,
+    "wof:lastmodified":1464295955,
+    "wof:name":"L G Sieckman Co",
+    "wof:parent_id":85878683,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pump"
+    ]
+},
+  "bbox": [
+    -96.652589,
+    40.794472,
+    -96.652589,
+    40.794472
+],
+  "geometry": {"coordinates":[-96.65258900000001,40.794472],"type":"Point"}
+}

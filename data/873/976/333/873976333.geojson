@@ -1,0 +1,72 @@
+{
+  "id": 873976333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.053307,41.310636,-96.053307,41.310636",
+    "geom:latitude":41.310636,
+    "geom:longitude":-96.053307,
+    "iso:country":"US",
+    "sg:address":"9009 Military Rd",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ne/omaha/194743-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 571 0800",
+    "sg:postcode":"68134",
+    "sg:province":"NE",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85872505,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6GOTWbay8wMvaCt0iZOUAr_41.310636_-96.053307@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464302234,
+    "wof:geomhash":"ba30564489068b868d85492550fce483",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":873976333
+        }
+    ],
+    "wof:id":873976333,
+    "wof:lastmodified":1464302234,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -96.053307,
+    41.310636,
+    -96.053307,
+    41.310636
+],
+  "geometry": {"coordinates":[-96.053307,41.310636],"type":"Point"}
+}

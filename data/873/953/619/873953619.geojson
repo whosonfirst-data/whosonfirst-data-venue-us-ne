@@ -1,0 +1,79 @@
+{
+  "id": 873953619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.69335,40.842634,-96.69335,40.842634",
+    "geom:latitude":40.842634,
+    "geom:longitude":-96.69335,
+    "iso:country":"US",
+    "sg:address":"1815 Cornhusker Hwy",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 474 2500",
+    "sg:postcode":"68521",
+    "sg:province":"NE",
+    "sg:tags":[
+        "car",
+        "used",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878691,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_76UgrqGGbQpEhcjAcKD3aS_40.842634_-96.693350@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464301288,
+    "wof:geomhash":"be5b4eef71ae35401ca24b4f10e2438e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878691,
+            "region_id":85688563,
+            "venue_id":873953619
+        }
+    ],
+    "wof:id":873953619,
+    "wof:lastmodified":1464301288,
+    "wof:name":"Burt's Auto Sales",
+    "wof:parent_id":85878691,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "used",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -96.69335,
+    40.842634,
+    -96.69335,
+    40.842634
+],
+  "geometry": {"coordinates":[-96.69335,40.842634],"type":"Point"}
+}

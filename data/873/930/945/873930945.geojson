@@ -1,0 +1,71 @@
+{
+  "id": 873930945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.076095,41.310186,-96.076095,41.310186",
+    "geom:latitude":41.310186,
+    "geom:longitude":-96.076095,
+    "iso:country":"US",
+    "sg:address":"5678 N 103rd St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 301 6065",
+    "sg:postcode":"68134",
+    "sg:province":"NE",
+    "sg:tags":[
+        "integration",
+        "software"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85872505,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Wx4ErehY6Yr8Eq3xMhzuF_41.310186_-96.076095@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300429,
+    "wof:geomhash":"1b38f5fc00cc66e913017a1a255a6da8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":873930945
+        }
+    ],
+    "wof:id":873930945,
+    "wof:lastmodified":1464300429,
+    "wof:name":"Dibon Solutions Inc",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "integration",
+        "software"
+    ]
+},
+  "bbox": [
+    -96.076095,
+    41.310186,
+    -96.076095,
+    41.310186
+],
+  "geometry": {"coordinates":[-96.076095,41.310186],"type":"Point"}
+}

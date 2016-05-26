@@ -1,0 +1,71 @@
+{
+  "id": 873754981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.922668,41.180172,-95.922668,41.180172",
+    "geom:latitude":41.180172,
+    "geom:longitude":-95.922668,
+    "iso:country":"US",
+    "sg:address":"2009 Camp Brewster Rd",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 731 3335",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85804025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3wy9hEKSXJgWVZJwC4qAuM_41.180172_-95.922668@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297145,
+    "wof:geomhash":"c294f6c2564e8ea8befa22787845bb0b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85804025,
+            "region_id":85688563,
+            "venue_id":873754981
+        }
+    ],
+    "wof:id":873754981,
+    "wof:lastmodified":1464297145,
+    "wof:name":"Our Little Stars Day Day Care",
+    "wof:parent_id":85804025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential"
+    ]
+},
+  "bbox": [
+    -95.922668,
+    41.180172,
+    -95.922668,
+    41.180172
+],
+  "geometry": {"coordinates":[-95.922668,41.180172],"type":"Point"}
+}

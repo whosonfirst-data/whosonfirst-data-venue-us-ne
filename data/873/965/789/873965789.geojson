@@ -1,0 +1,70 @@
+{
+  "id": 873965789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.068333,41.309165,-96.068333,41.309165",
+    "geom:latitude":41.309165,
+    "geom:longitude":-96.068333,
+    "iso:country":"US",
+    "sg:address":"5439 N 100th Plz",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 572 1000",
+    "sg:postcode":"68134",
+    "sg:province":"NE",
+    "sg:tags":[
+        "apartment"
+    ],
+    "sg:website":"www.thompsonmichie.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85872505,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4bICPBKmEsjxoOmbhdXipi_41.309165_-96.068333@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464301832,
+    "wof:geomhash":"cb456054081dfb8bbf0ffbbcb1337e4a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":873965789
+        }
+    ],
+    "wof:id":873965789,
+    "wof:lastmodified":1464301832,
+    "wof:name":"Grandridge Apartments",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -96.068333,
+    41.309165,
+    -96.068333,
+    41.309165
+],
+  "geometry": {"coordinates":[-96.068333,41.309165],"type":"Point"}
+}

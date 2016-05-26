@@ -1,0 +1,75 @@
+{
+  "id": 873857021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-98.339713,40.900291,-98.339713,40.900291",
+    "geom:latitude":40.900291,
+    "geom:longitude":-98.339713,
+    "iso:country":"US",
+    "sg:address":"2211 S Locust St",
+    "sg:city":"Grand Island",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Nursery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 308 384 9938",
+    "sg:postcode":"68801",
+    "sg:province":"NE",
+    "sg:tags":[
+        "greenhouse"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85840711,
+        102191575,
+        404518499,
+        85633793,
+        85973941,
+        102083477,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6jqb6SUpmbKcVjkKKfTJFi_40.900291_-98.339713@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298953,
+    "wof:geomhash":"62ca477a21be025ff498e0b0df3d0fee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083477,
+            "localadmin_id":404518499,
+            "locality_id":85973941,
+            "neighbourhood_id":85840711,
+            "region_id":85688563,
+            "venue_id":873857021
+        }
+    ],
+    "wof:id":873857021,
+    "wof:lastmodified":1464298953,
+    "wof:name":"Williams Flower Co",
+    "wof:parent_id":85840711,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "greenhouse"
+    ]
+},
+  "bbox": [
+    -98.339713,
+    40.900291,
+    -98.339713,
+    40.900291
+],
+  "geometry": {"coordinates":[-98.339713,40.900291],"type":"Point"}
+}

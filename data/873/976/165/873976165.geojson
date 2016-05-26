@@ -1,0 +1,65 @@
+{
+  "id": 873976165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.040046,41.182756,-96.040046,41.182756",
+    "geom:latitude":41.182756,
+    "geom:longitude":-96.040046,
+    "iso:country":"US",
+    "sg:address":"8013 S 83rd Ave",
+    "sg:city":"La Vista",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ne/la-vista/254997-supper-thyme/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 218 2198",
+    "sg:postcode":"68128",
+    "sg:province":"NE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85843697,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0i44Kxj5LUFcDM4OF2eeg1_41.182756_-96.040046@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464302229,
+    "wof:geomhash":"422f0b2553b96f41f8662b4e9d61c11b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85843697,
+            "region_id":85688563,
+            "venue_id":873976165
+        }
+    ],
+    "wof:id":873976165,
+    "wof:lastmodified":1464302229,
+    "wof:name":"Supper Thyme",
+    "wof:parent_id":85843697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.040046,
+    41.182756,
+    -96.040046,
+    41.182756
+],
+  "geometry": {"coordinates":[-96.040046,41.182756],"type":"Point"}
+}

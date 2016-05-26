@@ -1,0 +1,75 @@
+{
+  "id": 873961733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.72795,40.847077,-96.72795,40.847077",
+    "geom:latitude":40.847077,
+    "geom:longitude":-96.72795,
+    "iso:country":"US",
+    "sg:address":"631 W Treehaven Dr",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Tobacco",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 477 6335",
+    "sg:postcode":"68521",
+    "sg:province":"NE",
+    "sg:tags":[
+        "cigarette",
+        "cigar",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5we0vSOUAh7yB1dFlU7uH7_40.847077_-96.727950@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464301631,
+    "wof:geomhash":"2b8d7c6fb93dba8339d4d4949ebe679b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878717,
+            "region_id":85688563,
+            "venue_id":873961733
+        }
+    ],
+    "wof:id":873961733,
+    "wof:lastmodified":1464301631,
+    "wof:name":"Emerald City Tobacco",
+    "wof:parent_id":85878717,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cigarette",
+        "cigar",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -96.72795,
+    40.847077,
+    -96.72795,
+    40.847077
+],
+  "geometry": {"coordinates":[-96.72795000000001,40.847077],"type":"Point"}
+}

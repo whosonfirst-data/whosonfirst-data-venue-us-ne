@@ -1,0 +1,71 @@
+{
+  "id": 873965755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.957322,41.114854,-95.957322,41.114854",
+    "geom:latitude":41.114854,
+    "geom:longitude":-95.957322,
+    "iso:country":"US",
+    "sg:address":"13411 S 30th St",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 291 7800",
+    "sg:postcode":"68123",
+    "sg:province":"NE",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974747,
+        102082777,
+        85820061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ixVBi1gHLNEarS3IeGT47_41.114854_-95.957322@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464301830,
+    "wof:geomhash":"7d35350690dae0eb106c907a24d51777",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974747,
+            "neighbourhood_id":85820061,
+            "region_id":85688563,
+            "venue_id":873965755
+        }
+    ],
+    "wof:id":873965755,
+    "wof:lastmodified":1464301830,
+    "wof:name":"Sheri Koski Day Care",
+    "wof:parent_id":85820061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -95.957322,
+    41.114854,
+    -95.957322,
+    41.114854
+],
+  "geometry": {"coordinates":[-95.957322,41.114854],"type":"Point"}
+}

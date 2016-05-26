@@ -1,0 +1,71 @@
+{
+  "id": 873719751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.918058,41.146803,-95.918058,41.146803",
+    "geom:latitude":41.146803,
+    "geom:longitude":-95.918058,
+    "iso:country":"US",
+    "sg:address":"1403 Wilshire Dr",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 292 8203",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85821583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3zvJFxaPcWBWICk1o2GQrk_41.146803_-95.918058@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296649,
+    "wof:geomhash":"242e4b771c8394e29f2faf9b0a3d3064",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85821583,
+            "region_id":85688563,
+            "venue_id":873719751
+        }
+    ],
+    "wof:id":873719751,
+    "wof:lastmodified":1464296649,
+    "wof:name":"Lovell Shelly Day Care",
+    "wof:parent_id":85821583,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -95.918058,
+    41.146803,
+    -95.918058,
+    41.146803
+],
+  "geometry": {"coordinates":[-95.918058,41.146803],"type":"Point"}
+}

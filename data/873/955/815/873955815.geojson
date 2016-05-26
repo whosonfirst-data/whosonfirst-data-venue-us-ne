@@ -1,0 +1,66 @@
+{
+  "id": 873955815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.724488,40.868683,-96.724488,40.868683",
+    "geom:latitude":40.868683,
+    "geom:longitude":-96.724488,
+    "iso:country":"US",
+    "sg:address":"5701 NW 1st St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 476 7447",
+    "sg:postcode":"68521",
+    "sg:province":"NE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7N5Bc2SEHvrXHyRsQ7ar5E_40.868683_-96.724488@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464301366,
+    "wof:geomhash":"7eaa7b4cd399814d6cb842d5493f2ea9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878717,
+            "region_id":85688563,
+            "venue_id":873955815
+        }
+    ],
+    "wof:id":873955815,
+    "wof:lastmodified":1464301366,
+    "wof:name":"Sigsbee's Bar-B-Que",
+    "wof:parent_id":85878717,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.724488,
+    40.868683,
+    -96.724488,
+    40.868683
+],
+  "geometry": {"coordinates":[-96.72448799999999,40.868683],"type":"Point"}
+}

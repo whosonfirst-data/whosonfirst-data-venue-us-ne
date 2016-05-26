@@ -1,0 +1,71 @@
+{
+  "id": 873724057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.05446,41.317096,-96.05446,41.317096",
+    "geom:latitude":41.317096,
+    "geom:longitude":-96.05446,
+    "iso:country":"US",
+    "sg:address":"6524 N 91st Plz",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Chemicals & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 571 9615",
+    "sg:postcode":"68134",
+    "sg:province":"NE",
+    "sg:tags":[
+        "cleaning",
+        "compound"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85872505,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2SRLqN8hQjGGiVdQiSPK5e_41.317096_-96.054460@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296700,
+    "wof:geomhash":"58c245c82b027cca285d06120c75f3bf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":873724057
+        }
+    ],
+    "wof:id":873724057,
+    "wof:lastmodified":1464296700,
+    "wof:name":"Cleaner Co",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaning",
+        "compound"
+    ]
+},
+  "bbox": [
+    -96.05446,
+    41.317096,
+    -96.05446,
+    41.317096
+],
+  "geometry": {"coordinates":[-96.05446000000001,41.317096],"type":"Point"}
+}

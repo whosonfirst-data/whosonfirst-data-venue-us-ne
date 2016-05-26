@@ -1,0 +1,75 @@
+{
+  "id": 873802471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.103515,41.24863,-96.103515,41.24863",
+    "geom:latitude":41.24863,
+    "geom:longitude":-96.103515,
+    "iso:country":"US",
+    "sg:address":"12002 Pacific St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 938 5050",
+    "sg:postcode":"68154",
+    "sg:province":"NE",
+    "sg:tags":[
+        "relocation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872531,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_29tQ2rp1a3TVwtUwY7qCZv_41.248630_-96.103515@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297804,
+    "wof:geomhash":"62a3eb20ed6be4ad5e3d73fc90b2c003",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872531,
+            "region_id":85688563,
+            "venue_id":873802471
+        }
+    ],
+    "wof:id":873802471,
+    "wof:lastmodified":1464297804,
+    "wof:name":"NP Dodge Relocation",
+    "wof:parent_id":85872531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "relocation"
+    ]
+},
+  "bbox": [
+    -96.103515,
+    41.24863,
+    -96.103515,
+    41.24863
+],
+  "geometry": {"coordinates":[-96.103515,41.24863],"type":"Point"}
+}

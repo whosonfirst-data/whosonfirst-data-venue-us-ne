@@ -1,0 +1,81 @@
+{
+  "id": 873933243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.705975,40.813737,-96.705975,40.813737",
+    "geom:latitude":40.813737,
+    "geom:longitude":-96.705975,
+    "iso:country":"US",
+    "sg:address":"1040 O St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Electric",
+            "type":"Services"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 473 3212",
+    "sg:postcode":"68508",
+    "sg:province":"NE",
+    "sg:tags":[
+        "w"
+    ],
+    "sg:website":"www.les.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878699,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6K3uSsO06TOVi4tPb2PbgM_40.813737_-96.705975@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300468,
+    "wof:geomhash":"4e8d4c57c7e234bccccae9e317faf9e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878699,
+            "region_id":85688563,
+            "venue_id":873933243
+        }
+    ],
+    "wof:id":873933243,
+    "wof:lastmodified":1464300468,
+    "wof:name":"Linclon Electric System",
+    "wof:parent_id":85878699,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "w"
+    ]
+},
+  "bbox": [
+    -96.705975,
+    40.813737,
+    -96.705975,
+    40.813737
+],
+  "geometry": {"coordinates":[-96.705975,40.813737],"type":"Point"}
+}

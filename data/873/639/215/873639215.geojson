@@ -1,0 +1,75 @@
+{
+  "id": 873639215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.683714,40.859403,-96.683714,40.859403",
+    "geom:latitude":40.859403,
+    "geom:longitude":-96.683714,
+    "iso:country":"US",
+    "sg:address":"4700 N 26th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 483 6990",
+    "sg:postcode":"68521",
+    "sg:province":"NE",
+    "sg:tags":[
+        "psychologist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878721,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0UGW00CylKKc3jSY92YlxQ_40.859403_-96.683714@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295466,
+    "wof:geomhash":"003a5639633805e7cde06645f5edb936",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878721,
+            "region_id":85688563,
+            "venue_id":873639215
+        }
+    ],
+    "wof:id":873639215,
+    "wof:lastmodified":1464295466,
+    "wof:name":"Nebraska Comprehensive Health",
+    "wof:parent_id":85878721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "psychologist"
+    ]
+},
+  "bbox": [
+    -96.683714,
+    40.859403,
+    -96.683714,
+    40.859403
+],
+  "geometry": {"coordinates":[-96.68371399999999,40.859403],"type":"Point"}
+}

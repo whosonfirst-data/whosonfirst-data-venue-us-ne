@@ -1,0 +1,71 @@
+{
+  "id": 873883055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.23991,41.139579,-96.23991,41.139579",
+    "geom:latitude":41.139579,
+    "geom:longitude":-96.23991,
+    "iso:country":"US",
+    "sg:address":"201 W Angus St",
+    "sg:city":"Gretna",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 332 2700",
+    "sg:postcode":"68028",
+    "sg:province":"NE",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85834285,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3GyZ8B8jq8rCVrH57dOMSj_41.139579_-96.239910@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299490,
+    "wof:geomhash":"2f8206f3b4b049aecedca084b877be87",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85834285,
+            "region_id":85688563,
+            "venue_id":873883055
+        }
+    ],
+    "wof:id":873883055,
+    "wof:lastmodified":1464299490,
+    "wof:name":"Dove Auto Purchasing",
+    "wof:parent_id":85834285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -96.23991,
+    41.139579,
+    -96.23991,
+    41.139579
+],
+  "geometry": {"coordinates":[-96.23990999999999,41.139579],"type":"Point"}
+}

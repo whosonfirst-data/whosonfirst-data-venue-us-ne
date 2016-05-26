@@ -1,0 +1,73 @@
+{
+  "id": 873549481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.916401,41.149703,-95.916401,41.149703",
+    "geom:latitude":41.149703,
+    "geom:longitude":-95.916401,
+    "iso:country":"US",
+    "sg:address":"1019 Galvin Rd S",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 292 1728",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "tea",
+        "coffee"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85821583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6zhWqTfl3kZcC3lSr6sq4c_41.149703_-95.916401@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294372,
+    "wof:geomhash":"cd5d1b016f4cc874882249bdb90781ef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85821583,
+            "region_id":85688563,
+            "venue_id":873549481
+        }
+    ],
+    "wof:id":873549481,
+    "wof:lastmodified":1464294372,
+    "wof:name":"13th St Coffee Co",
+    "wof:parent_id":85821583,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tea",
+        "coffee"
+    ]
+},
+  "bbox": [
+    -95.916401,
+    41.149703,
+    -95.916401,
+    41.149703
+],
+  "geometry": {"coordinates":[-95.91640099999999,41.149703],"type":"Point"}
+}

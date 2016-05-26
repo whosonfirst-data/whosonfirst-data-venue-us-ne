@@ -1,0 +1,70 @@
+{
+  "id": 873632183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.698147,40.823634,-96.698147,40.823634",
+    "geom:latitude":40.823634,
+    "geom:longitude":-96.698147,
+    "iso:country":"US",
+    "sg:address":"900 N 16th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 471 2311",
+    "sg:postcode":"68508",
+    "sg:province":"NE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878731,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6lDbfYI4vuj2XLEan8RaSW_40.823634_-96.698147@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295388,
+    "wof:geomhash":"4c61f5169f916278010a5dbea24de72b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878731,
+            "region_id":85688563,
+            "venue_id":873632183
+        }
+    ],
+    "wof:id":873632183,
+    "wof:lastmodified":1464295388,
+    "wof:name":"Capitol Switchboard",
+    "wof:parent_id":85878731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.698147,
+    40.823634,
+    -96.698147,
+    40.823634
+],
+  "geometry": {"coordinates":[-96.69814700000001,40.823634],"type":"Point"}
+}

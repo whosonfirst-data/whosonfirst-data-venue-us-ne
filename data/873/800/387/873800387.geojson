@@ -1,0 +1,75 @@
+{
+  "id": 873800387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.663341,40.802694,-96.663341,40.802694",
+    "geom:latitude":40.802694,
+    "geom:longitude":-96.663341,
+    "iso:country":"US",
+    "sg:address":"1015 S 40th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 441 4850",
+    "sg:postcode":"68510",
+    "sg:province":"NE",
+    "sg:tags":[
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878683,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0MA07mgZS1rJ5bup9VXWI7_40.802694_-96.663341@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297778,
+    "wof:geomhash":"dff7602c2f3002a24adb40f4a24d9e21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878683,
+            "region_id":85688563,
+            "venue_id":873800387
+        }
+    ],
+    "wof:id":873800387,
+    "wof:lastmodified":1464297778,
+    "wof:name":"Pacific Engineering Inc",
+    "wof:parent_id":85878683,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineer"
+    ]
+},
+  "bbox": [
+    -96.663341,
+    40.802694,
+    -96.663341,
+    40.802694
+],
+  "geometry": {"coordinates":[-96.663341,40.802694],"type":"Point"}
+}

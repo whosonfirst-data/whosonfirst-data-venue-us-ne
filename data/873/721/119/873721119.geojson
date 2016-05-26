@@ -1,0 +1,71 @@
+{
+  "id": 873721119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.634433,40.79144,-96.634433,40.79144",
+    "geom:latitude":40.79144,
+    "geom:longitude":-96.634433,
+    "iso:country":"US",
+    "sg:address":"2104 Heritage Pines Ct",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 484 8143",
+    "sg:postcode":"68506",
+    "sg:province":"NE",
+    "sg:tags":[
+        "communication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Ttc2lmoZf71stqfBZPb6N_40.791440_-96.634433@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296664,
+    "wof:geomhash":"e15967f5b10b512f8731bee7a38798c7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878697,
+            "region_id":85688563,
+            "venue_id":873721119
+        }
+    ],
+    "wof:id":873721119,
+    "wof:lastmodified":1464296664,
+    "wof:name":"Star City Communication",
+    "wof:parent_id":85878697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "communication"
+    ]
+},
+  "bbox": [
+    -96.634433,
+    40.79144,
+    -96.634433,
+    40.79144
+],
+  "geometry": {"coordinates":[-96.634433,40.79144],"type":"Point"}
+}

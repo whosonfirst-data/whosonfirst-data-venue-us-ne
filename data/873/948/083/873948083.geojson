@@ -1,0 +1,73 @@
+{
+  "id": 873948083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.147327,41.152047,-96.147327,41.152047",
+    "geom:latitude":41.152047,
+    "geom:longitude":-96.147327,
+    "iso:country":"US",
+    "sg:address":"10708 S 149th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 896 5079",
+    "sg:postcode":"68138",
+    "sg:province":"NE",
+    "sg:tags":[
+        "club",
+        "golf",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85834285,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7gTiqrmKSnDA6uuOoF0pge_41.152047_-96.147327@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464301062,
+    "wof:geomhash":"781775d7828ce041f7fbabeeb2f12124",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85834285,
+            "region_id":85688563,
+            "venue_id":873948083
+        }
+    ],
+    "wof:id":873948083,
+    "wof:lastmodified":1464301062,
+    "wof:name":"Prairie Golf",
+    "wof:parent_id":85834285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club",
+        "golf",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -96.147327,
+    41.152047,
+    -96.147327,
+    41.152047
+],
+  "geometry": {"coordinates":[-96.147327,41.152047],"type":"Point"}
+}

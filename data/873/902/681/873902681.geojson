@@ -1,0 +1,71 @@
+{
+  "id": 873902681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.064148,41.176226,-96.064148,41.176226",
+    "geom:latitude":41.176226,
+    "geom:longitude":-96.064148,
+    "iso:country":"US",
+    "sg:address":"9625 Giles Rd",
+    "sg:city":"La Vista",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 502 2071",
+    "sg:postcode":"68128",
+    "sg:province":"NE",
+    "sg:tags":[
+        "day",
+        "preschool"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85843697,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_62OFOBy2fV8tcezWdnRz7G_41.176226_-96.064148@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299873,
+    "wof:geomhash":"9aa302cb273d07df732116cf2b8e1484",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85843697,
+            "region_id":85688563,
+            "venue_id":873902681
+        }
+    ],
+    "wof:id":873902681,
+    "wof:lastmodified":1464299873,
+    "wof:name":"Education Express",
+    "wof:parent_id":85843697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day",
+        "preschool"
+    ]
+},
+  "bbox": [
+    -96.064148,
+    41.176226,
+    -96.064148,
+    41.176226
+],
+  "geometry": {"coordinates":[-96.064148,41.176226],"type":"Point"}
+}

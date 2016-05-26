@@ -1,0 +1,71 @@
+{
+  "id": 873878575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.608988,40.798092,-96.608988,40.798092",
+    "geom:latitude":40.798092,
+    "geom:longitude":-96.608988,
+    "iso:country":"US",
+    "sg:address":"8110 Imperial Cir",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 489 1322",
+    "sg:postcode":"68506",
+    "sg:province":"NE",
+    "sg:tags":[
+        "tree"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6smU5dcsTSnkTxoeBIf6qm_40.798092_-96.608988@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299406,
+    "wof:geomhash":"27e69297da7cdd2c9dd661e53052f459",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878697,
+            "region_id":85688563,
+            "venue_id":873878575
+        }
+    ],
+    "wof:id":873878575,
+    "wof:lastmodified":1464299406,
+    "wof:name":"Big Valley Tree & Landscapes",
+    "wof:parent_id":85878697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tree"
+    ]
+},
+  "bbox": [
+    -96.608988,
+    40.798092,
+    -96.608988,
+    40.798092
+],
+  "geometry": {"coordinates":[-96.608988,40.798092],"type":"Point"}
+}

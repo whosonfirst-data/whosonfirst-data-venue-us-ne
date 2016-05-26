@@ -1,0 +1,70 @@
+{
+  "id": 873894481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.641611,40.789285,-96.641611,40.789285",
+    "geom:latitude":40.789285,
+    "geom:longitude":-96.641611,
+    "iso:country":"US",
+    "sg:address":"5724 Glade St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 441 9504",
+    "sg:postcode":"68506",
+    "sg:province":"NE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85811821,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2SGydUNM244QD1y1XUnmN8_40.789285_-96.641611@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299713,
+    "wof:geomhash":"5ff7e7e3af8fa78fcf080ddced37cc60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85811821,
+            "region_id":85688563,
+            "venue_id":873894481
+        }
+    ],
+    "wof:id":873894481,
+    "wof:lastmodified":1464299713,
+    "wof:name":"Economy TV",
+    "wof:parent_id":85811821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.641611,
+    40.789285,
+    -96.641611,
+    40.789285
+],
+  "geometry": {"coordinates":[-96.641611,40.789285],"type":"Point"}
+}

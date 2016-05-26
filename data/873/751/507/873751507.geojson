@@ -1,0 +1,73 @@
+{
+  "id": 873751507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.929385,41.183844,-95.929385,41.183844",
+    "geom:latitude":41.183844,
+    "geom:longitude":-95.929385,
+    "iso:country":"US",
+    "sg:address":"2502 Chandler Rd E",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 614 6138",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "home",
+        "builder"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85804025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3yH3Ja4pZWNdGXhb9wOqX8_41.183844_-95.929385@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297095,
+    "wof:geomhash":"29b7024a57b0bb9294fe489dc39e9eea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85804025,
+            "region_id":85688563,
+            "venue_id":873751507
+        }
+    ],
+    "wof:id":873751507,
+    "wof:lastmodified":1464297095,
+    "wof:name":"Huntley Home Enterprises",
+    "wof:parent_id":85804025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "builder"
+    ]
+},
+  "bbox": [
+    -95.929385,
+    41.183844,
+    -95.929385,
+    41.183844
+],
+  "geometry": {"coordinates":[-95.929385,41.183844],"type":"Point"}
+}

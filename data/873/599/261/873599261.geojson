@@ -1,0 +1,77 @@
+{
+  "id": 873599261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.08545,41.205995,-96.08545,41.205995",
+    "geom:latitude":41.205995,
+    "geom:longitude":-96.08545,
+    "iso:country":"US",
+    "sg:address":"5058 S 111th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 331 4453",
+    "sg:postcode":"68137",
+    "sg:province":"NE",
+    "sg:tags":[
+        "laboratory",
+        "commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872531,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ZJVgNLbu9lswxtwJaGqKI_41.205995_-96.085450@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294976,
+    "wof:geomhash":"0c1a99cf7b4419119d6058c94e4a3bfd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872531,
+            "region_id":85688563,
+            "venue_id":873599261
+        }
+    ],
+    "wof:id":873599261,
+    "wof:lastmodified":1464294976,
+    "wof:name":"Tetra Tech Inc",
+    "wof:parent_id":85872531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -96.08545,
+    41.205995,
+    -96.08545,
+    41.205995
+],
+  "geometry": {"coordinates":[-96.08544999999999,41.205995],"type":"Point"}
+}

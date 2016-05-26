@@ -1,0 +1,71 @@
+{
+  "id": 873939723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.896325,41.136557,-95.896325,41.136557",
+    "geom:latitude":41.136557,
+    "geom:longitude":-95.896325,
+    "iso:country":"US",
+    "sg:address":"210 W Mission Ave",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 293 3020",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "city"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974747,
+        102082777,
+        85820061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0jNzqzbnTUUBNKfHyHa12r_41.136557_-95.896325@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300673,
+    "wof:geomhash":"6622ba464f73ad695269cead79a602cc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974747,
+            "neighbourhood_id":85820061,
+            "region_id":85688563,
+            "venue_id":873939723
+        }
+    ],
+    "wof:id":873939723,
+    "wof:lastmodified":1464300673,
+    "wof:name":"Bellevue City Mayor",
+    "wof:parent_id":85820061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city"
+    ]
+},
+  "bbox": [
+    -95.896325,
+    41.136557,
+    -95.896325,
+    41.136557
+],
+  "geometry": {"coordinates":[-95.896325,41.136557],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873862679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.916608,41.140731,-95.916608,41.140731",
+    "geom:latitude":41.140731,
+    "geom:longitude":-95.916608,
+    "iso:country":"US",
+    "sg:address":"1820 Hillcrest Dr",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 292 0617",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "security"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85821583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2SKGivLFE0UXdOGZTRaDsI_41.140731_-95.916608@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299089,
+    "wof:geomhash":"70c5763f60afc5636bb50f69f609c823",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85821583,
+            "region_id":85688563,
+            "venue_id":873862679
+        }
+    ],
+    "wof:id":873862679,
+    "wof:lastmodified":1464299089,
+    "wof:name":"Edward Jones 09181",
+    "wof:parent_id":85821583,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "security"
+    ]
+},
+  "bbox": [
+    -95.916608,
+    41.140731,
+    -95.916608,
+    41.140731
+],
+  "geometry": {"coordinates":[-95.916608,41.140731],"type":"Point"}
+}

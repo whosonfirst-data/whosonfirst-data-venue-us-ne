@@ -1,0 +1,77 @@
+{
+  "id": 873959469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.052513,41.213235,-96.052513,41.213235",
+    "geom:latitude":41.213235,
+    "geom:longitude":-96.052513,
+    "iso:country":"US",
+    "sg:address":"4501 S 90th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 592 4477",
+    "sg:postcode":"68127",
+    "sg:province":"NE",
+    "sg:tags":[
+        "windshield",
+        "replacement"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872511,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6QM8gqtFnGX9yBzmw3iZmW_41.213235_-96.052513@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464301509,
+    "wof:geomhash":"c2343daf3a40108763953344b1c5987f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872511,
+            "region_id":85688563,
+            "venue_id":873959469
+        }
+    ],
+    "wof:id":873959469,
+    "wof:lastmodified":1464301509,
+    "wof:name":"Windshields Inc",
+    "wof:parent_id":85872511,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "windshield",
+        "replacement"
+    ]
+},
+  "bbox": [
+    -96.052513,
+    41.213235,
+    -96.052513,
+    41.213235
+],
+  "geometry": {"coordinates":[-96.052513,41.213235],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 873738069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.636135,40.857124,-96.636135,40.857124",
+    "geom:latitude":40.857124,
+    "geom:longitude":-96.636135,
+    "iso:country":"US",
+    "sg:address":"6132 Havelock Ave",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Chiropractor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 467 5143",
+    "sg:postcode":"68507",
+    "sg:province":"NE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85824241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_71AhHgAdDq2aBdAt3lNNm2_40.857124_-96.636135@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296897,
+    "wof:geomhash":"27793b8125c9814d82dd843fc9be3b10",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85824241,
+            "region_id":85688563,
+            "venue_id":873738069
+        }
+    ],
+    "wof:id":873738069,
+    "wof:lastmodified":1464296897,
+    "wof:name":"Chiropractic Associates",
+    "wof:parent_id":85824241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.636135,
+    40.857124,
+    -96.636135,
+    40.857124
+],
+  "geometry": {"coordinates":[-96.636135,40.857124],"type":"Point"}
+}

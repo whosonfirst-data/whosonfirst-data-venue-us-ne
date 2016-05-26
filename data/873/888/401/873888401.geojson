@@ -1,0 +1,71 @@
+{
+  "id": 873888401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.083695,41.322748,-96.083695,41.322748",
+    "geom:latitude":41.322748,
+    "geom:longitude":-96.083695,
+    "iso:country":"US",
+    "sg:address":"7040 N 110th Plz",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Developer",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 493 1420",
+    "sg:postcode":"68142",
+    "sg:province":"NE",
+    "sg:tags":[
+        "mobile",
+        "home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85872505,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7iifKH3z2mCxoYgu3Yp7HX_41.322748_-96.083695@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299597,
+    "wof:geomhash":"824c746609251ea62fcc53dcf213f3a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":873888401
+        }
+    ],
+    "wof:id":873888401,
+    "wof:lastmodified":1464299597,
+    "wof:name":"Park Meadow",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mobile",
+        "home"
+    ]
+},
+  "bbox": [
+    -96.083695,
+    41.322748,
+    -96.083695,
+    41.322748
+],
+  "geometry": {"coordinates":[-96.08369500000001,41.322748],"type":"Point"}
+}

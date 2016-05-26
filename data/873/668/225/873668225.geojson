@@ -1,0 +1,78 @@
+{
+  "id": 873668225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.699683,40.812487,-96.699683,40.812487",
+    "geom:latitude":40.812487,
+    "geom:longitude":-96.699683,
+    "iso:country":"US",
+    "sg:address":"1401 N St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 434 3126",
+    "sg:postcode":"68510",
+    "sg:province":"NE",
+    "sg:tags":[
+        "state",
+        "commercial"
+    ],
+    "sg:website":"www.pinnbank.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878699,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_41st5bF4stYFXLfqCzPIjL_40.812487_-96.699683@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295782,
+    "wof:geomhash":"3a211416705c0995a0e796d9248b9ba4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878699,
+            "region_id":85688563,
+            "venue_id":873668225
+        }
+    ],
+    "wof:id":873668225,
+    "wof:lastmodified":1464295782,
+    "wof:name":"Pinnacle Bank",
+    "wof:parent_id":85878699,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -96.699683,
+    40.812487,
+    -96.699683,
+    40.812487
+],
+  "geometry": {"coordinates":[-96.69968299999999,40.812487],"type":"Point"}
+}

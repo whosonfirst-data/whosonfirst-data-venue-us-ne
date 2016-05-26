@@ -1,0 +1,71 @@
+{
+  "id": 873828435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.190441,41.182949,-96.190441,41.182949",
+    "geom:latitude":41.182949,
+    "geom:longitude":-96.190441,
+    "iso:country":"US",
+    "sg:address":"17610 Storage Rd",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 894 0657",
+    "sg:postcode":"68136",
+    "sg:province":"NE",
+    "sg:tags":[
+        "masonry",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85834285,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5D6oUsNG5iMcwLJJ2Tgjv5_41.182949_-96.190441@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298303,
+    "wof:geomhash":"26288a8d74d36673401a38333068701b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85834285,
+            "region_id":85688563,
+            "venue_id":873828435
+        }
+    ],
+    "wof:id":873828435,
+    "wof:lastmodified":1464298303,
+    "wof:name":"WALZ Masonry Inc",
+    "wof:parent_id":85834285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "masonry",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.190441,
+    41.182949,
+    -96.190441,
+    41.182949
+],
+  "geometry": {"coordinates":[-96.19044100000001,41.182949],"type":"Point"}
+}

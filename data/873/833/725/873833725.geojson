@@ -1,0 +1,70 @@
+{
+  "id": 873833725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.109413,41.231765,-96.109413,41.231765",
+    "geom:latitude":41.231765,
+    "geom:longitude":-96.109413,
+    "iso:country":"US",
+    "sg:address":"2819 S 125th Ave",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Hazard Insurance",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 502 0252",
+    "sg:postcode":"68144",
+    "sg:province":"NE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872531,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2tSaCe15rSJHMwpXa0WKz4_41.231765_-96.109413@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298420,
+    "wof:geomhash":"e71cbe3c4c330333ce1ec1566ae604c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872531,
+            "region_id":85688563,
+            "venue_id":873833725
+        }
+    ],
+    "wof:id":873833725,
+    "wof:lastmodified":1464298420,
+    "wof:name":"State Farm Insurance",
+    "wof:parent_id":85872531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.109413,
+    41.231765,
+    -96.109413,
+    41.231765
+],
+  "geometry": {"coordinates":[-96.109413,41.231765],"type":"Point"}
+}

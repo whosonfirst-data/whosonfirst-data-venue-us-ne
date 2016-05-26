@@ -1,0 +1,71 @@
+{
+  "id": 873788485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.956947,41.137442,-95.956947,41.137442",
+    "geom:latitude":41.137442,
+    "geom:longitude":-95.956947,
+    "iso:country":"US",
+    "sg:address":"3005 Golden Blvd",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 291 7493",
+    "sg:postcode":"68123",
+    "sg:province":"NE",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85821583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6qoq9AsOAkKys8rWeq4LVo_41.137442_-95.956947@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297623,
+    "wof:geomhash":"de0a7a902f14b357272a2f8c40c3dffa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85821583,
+            "region_id":85688563,
+            "venue_id":873788485
+        }
+    ],
+    "wof:id":873788485,
+    "wof:lastmodified":1464297623,
+    "wof:name":"Golden Hills Seventh-Day Chr",
+    "wof:parent_id":85821583,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -95.956947,
+    41.137442,
+    -95.956947,
+    41.137442
+],
+  "geometry": {"coordinates":[-95.956947,41.137442],"type":"Point"}
+}

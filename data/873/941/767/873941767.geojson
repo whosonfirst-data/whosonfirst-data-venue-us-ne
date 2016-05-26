@@ -1,0 +1,71 @@
+{
+  "id": 873941767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.906522,41.134514,-95.906522,41.134514",
+    "geom:latitude":41.134514,
+    "geom:longitude":-95.906522,
+    "iso:country":"US",
+    "sg:address":"1012 W 24th Ave",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 292 4007",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974747,
+        102082777,
+        85820061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1d7ZC1BO3zZvr0lw0Ntp1N_41.134514_-95.906522@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300762,
+    "wof:geomhash":"7f76e716a48910edf81db8a5adf328ed",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974747,
+            "neighbourhood_id":85820061,
+            "region_id":85688563,
+            "venue_id":873941767
+        }
+    ],
+    "wof:id":873941767,
+    "wof:lastmodified":1464300762,
+    "wof:name":"Rohlfs",
+    "wof:parent_id":85820061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -95.906522,
+    41.134514,
+    -95.906522,
+    41.134514
+],
+  "geometry": {"coordinates":[-95.906522,41.134514],"type":"Point"}
+}

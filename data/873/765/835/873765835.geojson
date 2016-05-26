@@ -1,0 +1,70 @@
+{
+  "id": 873765835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.956528,41.266698,-95.956528,41.266698",
+    "geom:latitude":41.266698,
+    "geom:longitude":-95.956528,
+    "iso:country":"US",
+    "sg:address":"601 N 30th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 449 4460",
+    "sg:postcode":"68131",
+    "sg:province":"NE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872525,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0wwFXsATXQevW6PgGUnLHV_41.266698_-95.956528@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297310,
+    "wof:geomhash":"a1d6c085fe2f27216f43ce780c01d970",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872525,
+            "region_id":85688563,
+            "venue_id":873765835
+        }
+    ],
+    "wof:id":873765835,
+    "wof:lastmodified":1464297310,
+    "wof:name":"Tenet",
+    "wof:parent_id":85872525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -95.956528,
+    41.266698,
+    -95.956528,
+    41.266698
+],
+  "geometry": {"coordinates":[-95.95652800000001,41.266698],"type":"Point"}
+}

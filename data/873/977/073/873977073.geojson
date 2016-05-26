@@ -1,0 +1,67 @@
+{
+  "id": 873977073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.368221,41.440838,-97.368221,41.440838",
+    "geom:latitude":41.440838,
+    "geom:longitude":-97.368221,
+    "iso:country":"US",
+    "sg:address":"2457 33rd Ave",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ne/columbus/254995-supper-thyme/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 564 2525",
+    "sg:postcode":"68601",
+    "sg:province":"NE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974401,
+        102084277,
+        85854093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_47tmSYLUevs0SQpfIBAbgM_41.440838_-97.368221@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464302263,
+    "wof:geomhash":"9d77ef6ef6feca2027717a75a7f545cb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084277,
+            "locality_id":85974401,
+            "neighbourhood_id":85854093,
+            "region_id":85688563,
+            "venue_id":873977073
+        }
+    ],
+    "wof:id":873977073,
+    "wof:lastmodified":1464302263,
+    "wof:name":"Supper Thyme",
+    "wof:parent_id":85854093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -97.368221,
+    41.440838,
+    -97.368221,
+    41.440838
+],
+  "geometry": {"coordinates":[-97.36822100000001,41.440838],"type":"Point"}
+}

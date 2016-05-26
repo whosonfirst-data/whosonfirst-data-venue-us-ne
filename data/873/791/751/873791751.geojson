@@ -1,0 +1,75 @@
+{
+  "id": 873791751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.923297,41.162701,-95.923297,41.162701",
+    "geom:latitude":41.162701,
+    "geom:longitude":-95.923297,
+    "iso:country":"US",
+    "sg:address":"2210 Peoples Rd",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 292 9270",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85804025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_015dxNcNdfvSU8H7If0v8Y_41.162701_-95.923297@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297672,
+    "wof:geomhash":"d578072dba6466e379e2bd5172d9f7e7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85804025,
+            "region_id":85688563,
+            "venue_id":873791751
+        }
+    ],
+    "wof:id":873791751,
+    "wof:lastmodified":1464297672,
+    "wof:name":"Homan's Automotive Specialists",
+    "wof:parent_id":85804025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -95.923297,
+    41.162701,
+    -95.923297,
+    41.162701
+],
+  "geometry": {"coordinates":[-95.92329700000001,41.162701],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873941665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.178382,41.148365,-96.178382,41.148365",
+    "geom:latitude":41.148365,
+    "geom:longitude":-96.178382,
+    "iso:country":"US",
+    "sg:address":"16889 Oakmont Dr",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 891 4896",
+    "sg:postcode":"68136",
+    "sg:province":"NE",
+    "sg:tags":[
+        "painting",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85834285,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6h6tj9Y4kJxsbGfByeiWI3_41.148365_-96.178382@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300758,
+    "wof:geomhash":"35614b329b58fcfe04979578232c5c38",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85834285,
+            "region_id":85688563,
+            "venue_id":873941665
+        }
+    ],
+    "wof:id":873941665,
+    "wof:lastmodified":1464300758,
+    "wof:name":"Interior Solutions Group",
+    "wof:parent_id":85834285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painting",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.178382,
+    41.148365,
+    -96.178382,
+    41.148365
+],
+  "geometry": {"coordinates":[-96.178382,41.148365],"type":"Point"}
+}

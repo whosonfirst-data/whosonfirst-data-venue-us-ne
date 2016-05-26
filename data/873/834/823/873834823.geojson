@@ -1,0 +1,81 @@
+{
+  "id": 873834823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.085423,41.269143,-96.085423,41.269143",
+    "geom:latitude":41.269143,
+    "geom:longitude":-96.085423,
+    "iso:country":"US",
+    "sg:address":"11145 Mill Valley Rd",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 221 4691",
+    "sg:postcode":"68154",
+    "sg:province":"NE",
+    "sg:tags":[
+        "administrative",
+        "program",
+        "economic",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872503,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_79fXToLxJbSHNDf7jAgj0g_41.269143_-96.085423@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298440,
+    "wof:geomhash":"0ef4d327ea07c05a1ba353ddd4627cef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872503,
+            "region_id":85688563,
+            "venue_id":873834823
+        }
+    ],
+    "wof:id":873834823,
+    "wof:lastmodified":1464298440,
+    "wof:name":"Small Business ADM US",
+    "wof:parent_id":85872503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "administrative",
+        "program",
+        "economic",
+        "general"
+    ]
+},
+  "bbox": [
+    -96.085423,
+    41.269143,
+    -96.085423,
+    41.269143
+],
+  "geometry": {"coordinates":[-96.08542300000001,41.269143],"type":"Point"}
+}

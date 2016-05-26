@@ -1,0 +1,71 @@
+{
+  "id": 873708337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.607633,40.793934,-96.607633,40.793934",
+    "geom:latitude":40.793934,
+    "geom:longitude":-96.607633,
+    "iso:country":"US",
+    "sg:address":"1851 Brent Blvd",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 486 0299",
+    "sg:postcode":"68506",
+    "sg:province":"NE",
+    "sg:tags":[
+        "candle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1dlmPXTKdH8EoPyR696Gry_40.793934_-96.607633@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296499,
+    "wof:geomhash":"70ee5b27f3f8f9909009254009bc4e0d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878697,
+            "region_id":85688563,
+            "venue_id":873708337
+        }
+    ],
+    "wof:id":873708337,
+    "wof:lastmodified":1464296499,
+    "wof:name":"Brown's Candles & Gifts",
+    "wof:parent_id":85878697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "candle"
+    ]
+},
+  "bbox": [
+    -96.607633,
+    40.793934,
+    -96.607633,
+    40.793934
+],
+  "geometry": {"coordinates":[-96.60763300000001,40.793934],"type":"Point"}
+}

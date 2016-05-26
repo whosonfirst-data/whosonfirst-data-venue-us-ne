@@ -1,0 +1,75 @@
+{
+  "id": 873744665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.967837,41.190774,-95.967837,41.190774",
+    "geom:latitude":41.190774,
+    "geom:longitude":-95.967837,
+    "iso:country":"US",
+    "sg:address":"3709 Harrison St",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 614 3035",
+    "sg:postcode":"68147",
+    "sg:province":"NE",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85849923,
+        102191575,
+        404519143,
+        85633793,
+        85974545,
+        102082777,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3CrvgjnUfMPfi9FgrwJp4I_41.190774_-95.967837@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297005,
+    "wof:geomhash":"e2ef79eadf6b43bfa8aee069d2a2f676",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082777,
+            "localadmin_id":404519143,
+            "locality_id":85974545,
+            "neighbourhood_id":85849923,
+            "region_id":85688563,
+            "venue_id":873744665
+        }
+    ],
+    "wof:id":873744665,
+    "wof:lastmodified":1464297005,
+    "wof:name":"Brickstone Park Apartments",
+    "wof:parent_id":85849923,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -95.967837,
+    41.190774,
+    -95.967837,
+    41.190774
+],
+  "geometry": {"coordinates":[-95.967837,41.190774],"type":"Point"}
+}

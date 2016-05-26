@@ -1,0 +1,75 @@
+{
+  "id": 873808521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.623112,40.755736,-96.623112,40.755736",
+    "geom:latitude":40.755736,
+    "geom:longitude":-96.623112,
+    "iso:country":"US",
+    "sg:address":"5641 S 72nd St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 488 5058",
+    "sg:postcode":"68516",
+    "sg:province":"NE",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878695,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5p8pqxcKttuxe6QvVkm5wd_40.755736_-96.623112@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297900,
+    "wof:geomhash":"3474180c7ef591cd0ef961a8f6215107",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878695,
+            "region_id":85688563,
+            "venue_id":873808521
+        }
+    ],
+    "wof:id":873808521,
+    "wof:lastmodified":1464297900,
+    "wof:name":"Medtronic K C North",
+    "wof:parent_id":85878695,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -96.623112,
+    40.755736,
+    -96.623112,
+    40.755736
+],
+  "geometry": {"coordinates":[-96.62311200000001,40.755736],"type":"Point"}
+}

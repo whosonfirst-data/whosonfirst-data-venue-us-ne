@@ -1,0 +1,77 @@
+{
+  "id": 873804363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.696851,40.85542,-96.696851,40.85542",
+    "geom:latitude":40.85542,
+    "geom:longitude":-96.696851,
+    "iso:country":"US",
+    "sg:address":"4424 Bel-Ridge Dr",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 477 4021",
+    "sg:postcode":"68521",
+    "sg:province":"NE",
+    "sg:tags":[
+        "roofing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878721,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7kxLpM3wAOdxYqO4ezoVbe_40.855420_-96.696851@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297827,
+    "wof:geomhash":"c308cfe0dc5f5b71e417a80e29e872f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878721,
+            "region_id":85688563,
+            "venue_id":873804363
+        }
+    ],
+    "wof:id":873804363,
+    "wof:lastmodified":1464297827,
+    "wof:name":"Larry's Roofing",
+    "wof:parent_id":85878721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "roofing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.696851,
+    40.85542,
+    -96.696851,
+    40.85542
+],
+  "geometry": {"coordinates":[-96.696851,40.85542],"type":"Point"}
+}

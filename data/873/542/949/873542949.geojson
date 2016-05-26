@@ -1,0 +1,86 @@
+{
+  "id": 873542949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.083561,41.290287,-96.083561,41.290287",
+    "geom:latitude":41.290287,
+    "geom:longitude":-96.083561,
+    "iso:country":"US",
+    "sg:address":"3321 N 109th Plz",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Computers",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 445 0051",
+    "sg:postcode":"68164",
+    "sg:province":"NE",
+    "sg:tags":[
+        "equipment",
+        "printer",
+        "dealer",
+        "repair"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872503,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_45X659sg22cBtZxftH8MVx_41.290287_-96.083561@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294290,
+    "wof:geomhash":"e008deed2a264b9ae58f5469da6b9092",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872503,
+            "region_id":85688563,
+            "venue_id":873542949
+        }
+    ],
+    "wof:id":873542949,
+    "wof:lastmodified":1464294290,
+    "wof:name":"Progressive Business Techs",
+    "wof:parent_id":85872503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "printer",
+        "dealer",
+        "repair"
+    ]
+},
+  "bbox": [
+    -96.083561,
+    41.290287,
+    -96.083561,
+    41.290287
+],
+  "geometry": {"coordinates":[-96.083561,41.290287],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 873646179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.026472,41.189996,-96.026472,41.189996",
+    "geom:latitude":41.189996,
+    "geom:longitude":-96.026472,
+    "iso:country":"US",
+    "sg:address":"7005 S 74th St",
+    "sg:city":"La Vista",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 614 9950",
+    "sg:postcode":"68128",
+    "sg:province":"NE",
+    "sg:tags":[
+        "condominium"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85843697,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5SR3dcrmymW8OmRoPLRRzs_41.189996_-96.026472@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295549,
+    "wof:geomhash":"5d3133f07b258f148b72bce4ba82d19d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85843697,
+            "region_id":85688563,
+            "venue_id":873646179
+        }
+    ],
+    "wof:id":873646179,
+    "wof:lastmodified":1464295549,
+    "wof:name":"Heritage Condominiums",
+    "wof:parent_id":85843697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "condominium"
+    ]
+},
+  "bbox": [
+    -96.026472,
+    41.189996,
+    -96.026472,
+    41.189996
+],
+  "geometry": {"coordinates":[-96.026472,41.189996],"type":"Point"}
+}

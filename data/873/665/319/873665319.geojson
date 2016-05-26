@@ -1,0 +1,75 @@
+{
+  "id": 873665319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.015634,41.219166,-96.015634,41.219166",
+    "geom:latitude":41.219166,
+    "geom:longitude":-96.015634,
+    "iso:country":"US",
+    "sg:address":"4458 S 67th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 614 2481",
+    "sg:postcode":"68117",
+    "sg:province":"NE",
+    "sg:tags":[
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867059,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4hjTpXBEDKi40vcZTTINvL_41.219166_-96.015634@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295753,
+    "wof:geomhash":"a85666edb614b2a1d86cb1813acfdd3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85867059,
+            "region_id":85688563,
+            "venue_id":873665319
+        }
+    ],
+    "wof:id":873665319,
+    "wof:lastmodified":1464295753,
+    "wof:name":"Faith Source 1",
+    "wof:parent_id":85867059,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dealer"
+    ]
+},
+  "bbox": [
+    -96.015634,
+    41.219166,
+    -96.015634,
+    41.219166
+],
+  "geometry": {"coordinates":[-96.01563400000001,41.219166],"type":"Point"}
+}

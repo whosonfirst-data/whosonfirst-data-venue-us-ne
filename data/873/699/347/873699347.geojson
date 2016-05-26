@@ -1,0 +1,77 @@
+{
+  "id": 873699347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.977965,41.273944,-95.977965,41.273944",
+    "geom:latitude":41.273944,
+    "geom:longitude":-95.977965,
+    "iso:country":"US",
+    "sg:address":"1516 Military Ave",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 551 5544",
+    "sg:postcode":"68111",
+    "sg:province":"NE",
+    "sg:tags":[
+        "machine",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867055,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2gLJnb1s4L3bVTCwEPdwLn_41.273944_-95.977965@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296398,
+    "wof:geomhash":"c25a50e5df91be7ca143a23163321598",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85867055,
+            "region_id":85688563,
+            "venue_id":873699347
+        }
+    ],
+    "wof:id":873699347,
+    "wof:lastmodified":1464296398,
+    "wof:name":"Benson Machine Works",
+    "wof:parent_id":85867055,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "shop"
+    ]
+},
+  "bbox": [
+    -95.977965,
+    41.273944,
+    -95.977965,
+    41.273944
+],
+  "geometry": {"coordinates":[-95.977965,41.273944],"type":"Point"}
+}

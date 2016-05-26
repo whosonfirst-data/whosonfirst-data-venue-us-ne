@@ -1,0 +1,79 @@
+{
+  "id": 873945011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.117858,41.29729,-96.117858,41.29729",
+    "geom:latitude":41.29729,
+    "geom:longitude":-96.117858,
+    "iso:country":"US",
+    "sg:address":"13005 Boyd Cir",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 493 8561",
+    "sg:postcode":"68164",
+    "sg:province":"NE",
+    "sg:tags":[
+        "car",
+        "railroad",
+        "rental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872503,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5L9cPu01nRbcdEwTznhjwA_41.297290_-96.117858@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300884,
+    "wof:geomhash":"110027aff671fd6a4adf547591b51eae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872503,
+            "region_id":85688563,
+            "venue_id":873945011
+        }
+    ],
+    "wof:id":873945011,
+    "wof:lastmodified":1464300884,
+    "wof:name":"Isetta Transports",
+    "wof:parent_id":85872503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "railroad",
+        "rental"
+    ]
+},
+  "bbox": [
+    -96.117858,
+    41.29729,
+    -96.117858,
+    41.29729
+],
+  "geometry": {"coordinates":[-96.117858,41.29729],"type":"Point"}
+}

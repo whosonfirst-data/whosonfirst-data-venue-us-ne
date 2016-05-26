@@ -1,0 +1,71 @@
+{
+  "id": 873818179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.698296,40.815906,-96.698296,40.815906",
+    "geom:latitude":40.815906,
+    "geom:longitude":-96.698296,
+    "iso:country":"US",
+    "sg:address":"1510 Q St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 477 3997",
+    "sg:postcode":"68508",
+    "sg:province":"NE",
+    "sg:website":"www.lutheranchapel.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878699,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0UsciPGxfPwjJJRc75TvHs_40.815906_-96.698296@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298083,
+    "wof:geomhash":"9ad3bd3365ca42d540911d01cfe3b298",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878699,
+            "region_id":85688563,
+            "venue_id":873818179
+        }
+    ],
+    "wof:id":873818179,
+    "wof:lastmodified":1464298083,
+    "wof:name":"University Lutheran Chapel",
+    "wof:parent_id":85878699,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.698296,
+    40.815906,
+    -96.698296,
+    40.815906
+],
+  "geometry": {"coordinates":[-96.698296,40.815906],"type":"Point"}
+}

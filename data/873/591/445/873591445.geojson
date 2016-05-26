@@ -1,0 +1,73 @@
+{
+  "id": 873591445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.619553,40.794136,-96.619553,40.794136",
+    "geom:latitude":40.794136,
+    "geom:longitude":-96.619553,
+    "iso:country":"US",
+    "sg:address":"7320 Lincolnshire Rd",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 483 1265",
+    "sg:postcode":"68506",
+    "sg:province":"NE",
+    "sg:tags":[
+        "tile",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3QW2h0foybkog0WbOVucgk_40.794136_-96.619553@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294849,
+    "wof:geomhash":"bf2bb2caa33b3bbf052c30afaa872a39",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878697,
+            "region_id":85688563,
+            "venue_id":873591445
+        }
+    ],
+    "wof:id":873591445,
+    "wof:lastmodified":1464294849,
+    "wof:name":"Protub",
+    "wof:parent_id":85878697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tile",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -96.619553,
+    40.794136,
+    -96.619553,
+    40.794136
+],
+  "geometry": {"coordinates":[-96.619553,40.794136],"type":"Point"}
+}

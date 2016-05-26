@@ -1,0 +1,81 @@
+{
+  "id": 873950759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.721555,40.814802,-96.721555,40.814802",
+    "geom:latitude":40.814802,
+    "geom:longitude":-96.721555,
+    "iso:country":"US",
+    "sg:address":"100 W P St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 475 0314",
+    "sg:postcode":"68528",
+    "sg:province":"NE",
+    "sg:tags":[
+        "leasing",
+        "driver",
+        "truck",
+        "no"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878737,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4NrrF20xwZSBftCUs5kv78_40.814802_-96.721555@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464301177,
+    "wof:geomhash":"1c957987e272ac3fcb3014039272b8a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878737,
+            "region_id":85688563,
+            "venue_id":873950759
+        }
+    ],
+    "wof:id":873950759,
+    "wof:lastmodified":1464301177,
+    "wof:name":"Bob Whittney",
+    "wof:parent_id":85878737,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "driver",
+        "truck",
+        "no"
+    ]
+},
+  "bbox": [
+    -96.721555,
+    40.814802,
+    -96.721555,
+    40.814802
+],
+  "geometry": {"coordinates":[-96.721555,40.814802],"type":"Point"}
+}

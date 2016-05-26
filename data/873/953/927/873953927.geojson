@@ -1,0 +1,77 @@
+{
+  "id": 873953927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.683661,40.860807,-96.683661,40.860807",
+    "geom:latitude":40.860807,
+    "geom:longitude":-96.683661,
+    "iso:country":"US",
+    "sg:address":"4949 N 26th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 474 4327",
+    "sg:postcode":"68521",
+    "sg:province":"NE",
+    "sg:tags":[
+        "hearing",
+        "equipment",
+        "supply",
+        "impaired"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_79gm7gFrUsTMLpYIyEs1fB_40.860807_-96.683661@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464301298,
+    "wof:geomhash":"5943ee4b5bde77de0f30ebfab42aa3ae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878687,
+            "region_id":85688563,
+            "venue_id":873953927
+        }
+    ],
+    "wof:id":873953927,
+    "wof:lastmodified":1464301298,
+    "wof:name":"Hearing Healthcare Ctr-Lncln",
+    "wof:parent_id":85878687,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hearing",
+        "equipment",
+        "supply",
+        "impaired"
+    ]
+},
+  "bbox": [
+    -96.683661,
+    40.860807,
+    -96.683661,
+    40.860807
+],
+  "geometry": {"coordinates":[-96.683661,40.860807],"type":"Point"}
+}

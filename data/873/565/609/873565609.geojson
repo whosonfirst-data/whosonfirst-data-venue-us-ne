@@ -1,0 +1,75 @@
+{
+  "id": 873565609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.610445,40.799066,-96.610445,40.799066",
+    "geom:latitude":40.799066,
+    "geom:longitude":-96.610445,
+    "iso:country":"US",
+    "sg:address":"8000 A St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 488 5372",
+    "sg:postcode":"68510",
+    "sg:province":"NE",
+    "sg:tags":[
+        "church",
+        "miscellaneous",
+        "denomination"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Iz3xsJFokag20KI3uw88K_40.799066_-96.610445@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294562,
+    "wof:geomhash":"f511184bec4edfb052f8f31bfc004552",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878697,
+            "region_id":85688563,
+            "venue_id":873565609
+        }
+    ],
+    "wof:id":873565609,
+    "wof:lastmodified":1464294562,
+    "wof:name":"Christian Crestwood Church",
+    "wof:parent_id":85878697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church",
+        "miscellaneous",
+        "denomination"
+    ]
+},
+  "bbox": [
+    -96.610445,
+    40.799066,
+    -96.610445,
+    40.799066
+],
+  "geometry": {"coordinates":[-96.610445,40.799066],"type":"Point"}
+}

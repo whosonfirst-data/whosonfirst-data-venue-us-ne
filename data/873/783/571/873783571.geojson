@@ -1,0 +1,66 @@
+{
+  "id": 873783571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.595819,40.748478,-96.595819,40.748478",
+    "geom:latitude":40.748478,
+    "geom:longitude":-96.595819,
+    "iso:country":"US",
+    "sg:address":"6174 Blackstone Rd",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 488 3977",
+    "sg:postcode":"68526",
+    "sg:province":"NE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7KZ5PbRTV78HcW3t7Ro0md_40.748478_-96.595819@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297537,
+    "wof:geomhash":"7b3bb3fb6f5e050f6548ba08e15621cb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878685,
+            "region_id":85688563,
+            "venue_id":873783571
+        }
+    ],
+    "wof:id":873783571,
+    "wof:lastmodified":1464297537,
+    "wof:name":"Babe Ruth Baseball",
+    "wof:parent_id":85878685,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.595819,
+    40.748478,
+    -96.595819,
+    40.748478
+],
+  "geometry": {"coordinates":[-96.59581900000001,40.748478],"type":"Point"}
+}

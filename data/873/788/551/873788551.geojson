@@ -1,0 +1,81 @@
+{
+  "id": 873788551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.925449,41.170561,-95.925449,41.170561",
+    "geom:latitude":41.170561,
+    "geom:longitude":-95.925449,
+    "iso:country":"US",
+    "sg:address":"608 Fort Crook Rd N",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 733 4445",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "passenger",
+        "leasing",
+        "car",
+        "re",
+        "truck",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85804025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4rjGoZ74waUkxgDJh1dE7B_41.170561_-95.925449@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297624,
+    "wof:geomhash":"52a3eab9f51221876eb8d52803ce4690",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85804025,
+            "region_id":85688563,
+            "venue_id":873788551
+        }
+    ],
+    "wof:id":873788551,
+    "wof:lastmodified":1464297624,
+    "wof:name":"Bellevue Toyota",
+    "wof:parent_id":85804025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger",
+        "leasing",
+        "car",
+        "re",
+        "truck",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -95.925449,
+    41.170561,
+    -95.925449,
+    41.170561
+],
+  "geometry": {"coordinates":[-95.925449,41.170561],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873799825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.903537,41.134501,-95.903537,41.134501",
+    "geom:latitude":41.134501,
+    "geom:longitude":-95.903537,
+    "iso:country":"US",
+    "sg:address":"804 W 24th Ave",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 291 5395",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974747,
+        102082777,
+        85820061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_08xYz19Nn0xvjsDcjI0NUK_41.134501_-95.903537@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297771,
+    "wof:geomhash":"31a2d1da6418eaac1375cf082852b7dc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974747,
+            "neighbourhood_id":85820061,
+            "region_id":85688563,
+            "venue_id":873799825
+        }
+    ],
+    "wof:id":873799825,
+    "wof:lastmodified":1464297771,
+    "wof:name":"St Mary's Of Bellevue",
+    "wof:parent_id":85820061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -95.903537,
+    41.134501,
+    -95.903537,
+    41.134501
+],
+  "geometry": {"coordinates":[-95.903537,41.134501],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 873866599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.014302,41.22438,-96.014302,41.22438",
+    "geom:latitude":41.22438,
+    "geom:longitude":-96.014302,
+    "iso:country":"US",
+    "sg:address":"3717 S 66th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 391 5315",
+    "sg:postcode":"68106",
+    "sg:province":"NE",
+    "sg:tags":[
+        "commercial",
+        "storage",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867059,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ileJYdNpY11PJgCYFhAoW_41.224380_-96.014302@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299166,
+    "wof:geomhash":"7695d4a5fde1d6391c03d8c1b3b04b8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85867059,
+            "region_id":85688563,
+            "venue_id":873866599
+        }
+    ],
+    "wof:id":873866599,
+    "wof:lastmodified":1464299166,
+    "wof:name":"66th Street Storage Yard",
+    "wof:parent_id":85867059,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage",
+        "general"
+    ]
+},
+  "bbox": [
+    -96.014302,
+    41.22438,
+    -96.014302,
+    41.22438
+],
+  "geometry": {"coordinates":[-96.014302,41.22438],"type":"Point"}
+}

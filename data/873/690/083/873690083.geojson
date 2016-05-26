@@ -1,0 +1,72 @@
+{
+  "id": 873690083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.642247,40.866927,-96.642247,40.866927",
+    "geom:latitude":40.866927,
+    "geom:longitude":-96.642247,
+    "iso:country":"US",
+    "sg:address":"5301 N 57th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 465 5400",
+    "sg:postcode":"68507",
+    "sg:province":"NE",
+    "sg:tags":[
+        "drafting"
+    ],
+    "sg:website":"www.atsdrafting.bigstep.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85824241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_581CNQWTCDsGHx81tE7lEq_40.866927_-96.642247@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296275,
+    "wof:geomhash":"575d6282e6ebe3fc2d64ab0c0cb1bcad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85824241,
+            "region_id":85688563,
+            "venue_id":873690083
+        }
+    ],
+    "wof:id":873690083,
+    "wof:lastmodified":1464296275,
+    "wof:name":"Advanced Technical Svc",
+    "wof:parent_id":85824241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drafting"
+    ]
+},
+  "bbox": [
+    -96.642247,
+    40.866927,
+    -96.642247,
+    40.866927
+],
+  "geometry": {"coordinates":[-96.642247,40.866927],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873687207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.15275,41.317327,-96.15275,41.317327",
+    "geom:latitude":41.317327,
+    "geom:longitude":-96.15275,
+    "iso:country":"US",
+    "sg:address":"6405 N 153rd St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Retail Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 884 2349",
+    "sg:postcode":"68116",
+    "sg:province":"NE",
+    "sg:tags":[
+        "product",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85872505,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2f36GQtVyADEG5mFEyD6mY_41.317327_-96.152750@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296198,
+    "wof:geomhash":"8afb45a840d0cee325f341e88ccf365c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":873687207
+        }
+    ],
+    "wof:id":873687207,
+    "wof:lastmodified":1464296198,
+    "wof:name":"Kuehl Candles",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -96.15275,
+    41.317327,
+    -96.15275,
+    41.317327
+],
+  "geometry": {"coordinates":[-96.15275,41.317327],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873688371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.146581,41.160706,-96.146581,41.160706",
+    "geom:latitude":41.160706,
+    "geom:longitude":-96.146581,
+    "iso:country":"US",
+    "sg:address":"10008 S 148th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 895 3274",
+    "sg:postcode":"68138",
+    "sg:province":"NE",
+    "sg:tags":[
+        "frozen",
+        "packaged"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85834285,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_47sc6vht5caQAaPQLDei1D_41.160706_-96.146581@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296230,
+    "wof:geomhash":"6a8e087354f785dd78fae6550fb396df",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85834285,
+            "region_id":85688563,
+            "venue_id":873688371
+        }
+    ],
+    "wof:id":873688371,
+    "wof:lastmodified":1464296230,
+    "wof:name":"Lombardi Brothers",
+    "wof:parent_id":85834285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "frozen",
+        "packaged"
+    ]
+},
+  "bbox": [
+    -96.146581,
+    41.160706,
+    -96.146581,
+    41.160706
+],
+  "geometry": {"coordinates":[-96.146581,41.160706],"type":"Point"}
+}

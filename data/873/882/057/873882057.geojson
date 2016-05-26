@@ -1,0 +1,71 @@
+{
+  "id": 873882057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.925507,41.171965,-95.925507,41.171965",
+    "geom:latitude":41.171965,
+    "geom:longitude":-95.925507,
+    "iso:country":"US",
+    "sg:address":"2203 Pleasantview Ln",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 734 3300",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "telecommunication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85804025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4GJoO44LRoeosEtosAaTct_41.171965_-95.925507@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299471,
+    "wof:geomhash":"30a9f4b0a454c23704c798a03e3dc6c6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85804025,
+            "region_id":85688563,
+            "venue_id":873882057
+        }
+    ],
+    "wof:id":873882057,
+    "wof:lastmodified":1464299471,
+    "wof:name":"Communications Products & Svcs",
+    "wof:parent_id":85804025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "telecommunication"
+    ]
+},
+  "bbox": [
+    -95.925507,
+    41.171965,
+    -95.925507,
+    41.171965
+],
+  "geometry": {"coordinates":[-95.925507,41.171965],"type":"Point"}
+}

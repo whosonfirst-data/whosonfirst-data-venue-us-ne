@@ -1,0 +1,75 @@
+{
+  "id": 873828121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.131123,41.172312,-96.131123,41.172312",
+    "geom:latitude":41.172312,
+    "geom:longitude":-96.131123,
+    "iso:country":"US",
+    "sg:address":"8709 S 139th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 895 5671",
+    "sg:postcode":"68138",
+    "sg:province":"NE",
+    "sg:tags":[
+        "device",
+        "security",
+        "camera",
+        "called"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85834285,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5gXnsqTofUjJLWzLOvuRrE_41.172312_-96.131123@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298297,
+    "wof:geomhash":"f3d9c3ec4297cea4a4c215ef62bf850a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85834285,
+            "region_id":85688563,
+            "venue_id":873828121
+        }
+    ],
+    "wof:id":873828121,
+    "wof:lastmodified":1464298297,
+    "wof:name":"Doorscope/Scope It Out",
+    "wof:parent_id":85834285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "device",
+        "security",
+        "camera",
+        "called"
+    ]
+},
+  "bbox": [
+    -96.131123,
+    41.172312,
+    -96.131123,
+    41.172312
+],
+  "geometry": {"coordinates":[-96.131123,41.172312],"type":"Point"}
+}

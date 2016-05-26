@@ -1,0 +1,73 @@
+{
+  "id": 873780803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.376628,41.437711,-97.376628,41.437711",
+    "geom:latitude":41.437711,
+    "geom:longitude":-97.376628,
+    "iso:country":"US",
+    "sg:address":"3908 22nd St",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 563 1262",
+    "sg:postcode":"68601",
+    "sg:province":"NE",
+    "sg:tags":[
+        "shop",
+        "novelty"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974401,
+        102084277,
+        85854093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1lw56i0vcMu0e9eaWSNEXb_41.437711_-97.376628@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297502,
+    "wof:geomhash":"ba53bf30ba0334610aa8ee9b9f5c3ff6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084277,
+            "locality_id":85974401,
+            "neighbourhood_id":85854093,
+            "region_id":85688563,
+            "venue_id":873780803
+        }
+    ],
+    "wof:id":873780803,
+    "wof:lastmodified":1464297502,
+    "wof:name":"Shadow Box",
+    "wof:parent_id":85854093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "novelty"
+    ]
+},
+  "bbox": [
+    -97.376628,
+    41.437711,
+    -97.376628,
+    41.437711
+],
+  "geometry": {"coordinates":[-97.376628,41.437711],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873769791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.94341,41.160311,-95.94341,41.160311",
+    "geom:latitude":41.160311,
+    "geom:longitude":-95.94341,
+    "iso:country":"US",
+    "sg:address":"2204 Gregg Rd",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 682 0163",
+    "sg:postcode":"68123",
+    "sg:province":"NE",
+    "sg:tags":[
+        "hanging",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85821583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0nkaGYb19GBBZoQzo3YWWV_41.160311_-95.943410@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297360,
+    "wof:geomhash":"9663e7e748c4664babae1930741f404d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85821583,
+            "region_id":85688563,
+            "venue_id":873769791
+        }
+    ],
+    "wof:id":873769791,
+    "wof:lastmodified":1464297360,
+    "wof:name":"Legacy Painting",
+    "wof:parent_id":85821583,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -95.94341,
+    41.160311,
+    -95.94341,
+    41.160311
+],
+  "geometry": {"coordinates":[-95.94341,41.160311],"type":"Point"}
+}

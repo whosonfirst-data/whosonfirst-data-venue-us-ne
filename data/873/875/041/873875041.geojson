@@ -1,0 +1,78 @@
+{
+  "id": 873875041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.678233,40.842434,-96.678233,40.842434",
+    "geom:latitude":40.842434,
+    "geom:longitude":-96.678233,
+    "iso:country":"US",
+    "sg:address":"3001 Cornhusker Hwy",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 466 8411",
+    "sg:postcode":"68504",
+    "sg:province":"NE",
+    "sg:tags":[
+        "grain",
+        "elevator"
+    ],
+    "sg:website":"www.cargill.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878691,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ihbt2ympmZ1lB0bb5cxfV_40.842434_-96.678233@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299337,
+    "wof:geomhash":"b39cdb2804f2e379dafc03ce928f62a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878691,
+            "region_id":85688563,
+            "venue_id":873875041
+        }
+    ],
+    "wof:id":873875041,
+    "wof:lastmodified":1464299337,
+    "wof:name":"Cargill Ag Horizons",
+    "wof:parent_id":85878691,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grain",
+        "elevator"
+    ]
+},
+  "bbox": [
+    -96.678233,
+    40.842434,
+    -96.678233,
+    40.842434
+],
+  "geometry": {"coordinates":[-96.67823300000001,40.842434],"type":"Point"}
+}

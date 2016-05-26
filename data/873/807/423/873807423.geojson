@@ -1,0 +1,70 @@
+{
+  "id": 873807423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.65727,40.813537,-96.65727,40.813537",
+    "geom:latitude":40.813537,
+    "geom:longitude":-96.65727,
+    "iso:country":"US",
+    "sg:address":"4400 O St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 475 7002",
+    "sg:postcode":"68510",
+    "sg:province":"NE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878703,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5lBGVhptsnMAB1PCtaJvrR_40.813537_-96.657270@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297879,
+    "wof:geomhash":"e9dcfc8419f8a00f882a988b20ca53da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878703,
+            "region_id":85688563,
+            "venue_id":873807423
+        }
+    ],
+    "wof:id":873807423,
+    "wof:lastmodified":1464297879,
+    "wof:name":"KWIK Shop",
+    "wof:parent_id":85878703,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.65727,
+    40.813537,
+    -96.65727,
+    40.813537
+],
+  "geometry": {"coordinates":[-96.65727,40.813537],"type":"Point"}
+}

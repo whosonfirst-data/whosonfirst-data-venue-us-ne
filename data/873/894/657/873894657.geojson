@@ -1,0 +1,73 @@
+{
+  "id": 873894657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.625249,40.781932,-96.625249,40.781932",
+    "geom:latitude":40.781932,
+    "geom:longitude":-96.625249,
+    "iso:country":"US",
+    "sg:address":"2845 S 70th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 489 1999",
+    "sg:postcode":"68506",
+    "sg:province":"NE",
+    "sg:tags":[
+        "therapist",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ilBJuTM3BqnyDSKXv2ukT_40.781932_-96.625249@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299716,
+    "wof:geomhash":"840133ee9ea0e5600276e4708a6d45cd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878697,
+            "region_id":85688563,
+            "venue_id":873894657
+        }
+    ],
+    "wof:id":873894657,
+    "wof:lastmodified":1464299716,
+    "wof:name":"Snyder Physical Therapy PC",
+    "wof:parent_id":85878697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "physical"
+    ]
+},
+  "bbox": [
+    -96.625249,
+    40.781932,
+    -96.625249,
+    40.781932
+],
+  "geometry": {"coordinates":[-96.625249,40.781932],"type":"Point"}
+}

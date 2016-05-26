@@ -1,0 +1,71 @@
+{
+  "id": 873947887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.040087,41.172721,-96.040087,41.172721",
+    "geom:latitude":41.172721,
+    "geom:longitude":-96.040087,
+    "iso:country":"US",
+    "sg:address":"1217 N Monroe St",
+    "sg:city":"Papillion",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 339 2924",
+    "sg:postcode":"68046",
+    "sg:province":"NE",
+    "sg:tags":[
+        "instruction",
+        "gymnastic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85843697,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Uvs9H7J6KBAqixPXKaymy_41.172721_-96.040087@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464301054,
+    "wof:geomhash":"f267040763cf3601967151f112dbdb1f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85843697,
+            "region_id":85688563,
+            "venue_id":873947887
+        }
+    ],
+    "wof:id":873947887,
+    "wof:lastmodified":1464301054,
+    "wof:name":"Omega School Of Gymnastics",
+    "wof:parent_id":85843697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "gymnastic"
+    ]
+},
+  "bbox": [
+    -96.040087,
+    41.172721,
+    -96.040087,
+    41.172721
+],
+  "geometry": {"coordinates":[-96.040087,41.172721],"type":"Point"}
+}

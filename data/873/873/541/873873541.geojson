@@ -1,0 +1,71 @@
+{
+  "id": 873873541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.232791,41.137173,-96.232791,41.137173",
+    "geom:latitude":41.137173,
+    "geom:longitude":-96.232791,
+    "iso:country":"US",
+    "sg:address":"414 Sherwood Dr",
+    "sg:city":"Gretna",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 680 5211",
+    "sg:postcode":"68028",
+    "sg:province":"NE",
+    "sg:tags":[
+        "hanging",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85834285,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1eqLHecdsp4AcIltDDSzlU_41.137173_-96.232791@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299307,
+    "wof:geomhash":"1eea5aa825368d5c2c0e7ff56bb99a40",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85834285,
+            "region_id":85688563,
+            "venue_id":873873541
+        }
+    ],
+    "wof:id":873873541,
+    "wof:lastmodified":1464299307,
+    "wof:name":"Liermann Painting",
+    "wof:parent_id":85834285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.232791,
+    41.137173,
+    -96.232791,
+    41.137173
+],
+  "geometry": {"coordinates":[-96.23279100000001,41.137173],"type":"Point"}
+}

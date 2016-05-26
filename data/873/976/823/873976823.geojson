@@ -1,0 +1,76 @@
+{
+  "id": 873976823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.6246,40.783961,-96.6246,40.783961",
+    "geom:latitude":40.783961,
+    "geom:longitude":-96.6246,
+    "iso:country":"US",
+    "sg:address":"7001 Van Dorn St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ne/lincoln/155534-runza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 488 8043",
+    "sg:postcode":"68506",
+    "sg:province":"NE",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ecPjFy3IVyLEPxpQQnUzi_40.783961_-96.624600@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464302250,
+    "wof:geomhash":"5c3c6c70e1715672f7ea8c2bf571fcdc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878697,
+            "region_id":85688563,
+            "venue_id":873976823
+        }
+    ],
+    "wof:id":873976823,
+    "wof:lastmodified":1464302250,
+    "wof:name":"Runza",
+    "wof:parent_id":85878697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -96.6246,
+    40.783961,
+    -96.6246,
+    40.783961
+],
+  "geometry": {"coordinates":[-96.6246,40.783961],"type":"Point"}
+}

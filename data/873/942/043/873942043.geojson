@@ -1,0 +1,72 @@
+{
+  "id": 873942043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.239745,41.14586,-96.239745,41.14586",
+    "geom:latitude":41.14586,
+    "geom:longitude":-96.239745,
+    "iso:country":"US",
+    "sg:address":"817 Village Sq",
+    "sg:city":"Gretna",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 332 4261",
+    "sg:postcode":"68028",
+    "sg:province":"NE",
+    "sg:tags":[
+        "state",
+        "commercial"
+    ],
+    "sg:website":"www.pinnbank.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85834285,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0rgWKqNWpZc73icrRqWQbn_41.145860_-96.239745@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300770,
+    "wof:geomhash":"4d47e06ea3c9bbf816e1bd91aefb8a77",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85834285,
+            "region_id":85688563,
+            "venue_id":873942043
+        }
+    ],
+    "wof:id":873942043,
+    "wof:lastmodified":1464300770,
+    "wof:name":"Pinnacle Bank Of Gretna",
+    "wof:parent_id":85834285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -96.239745,
+    41.14586,
+    -96.239745,
+    41.14586
+],
+  "geometry": {"coordinates":[-96.239745,41.14586],"type":"Point"}
+}

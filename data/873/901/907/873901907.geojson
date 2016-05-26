@@ -1,0 +1,77 @@
+{
+  "id": 873901907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.757155,40.810805,-96.757155,40.810805",
+    "geom:latitude":40.810805,
+    "geom:longitude":-96.757155,
+    "iso:country":"US",
+    "sg:address":"2501 W L St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 477 3114",
+    "sg:postcode":"68522",
+    "sg:province":"NE",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878743,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0XCX8V5PraP1ZCmmrmtBAq_40.810805_-96.757155@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299855,
+    "wof:geomhash":"14332e9377ad07031b9cc4837192e115",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878743,
+            "region_id":85688563,
+            "venue_id":873901907
+        }
+    ],
+    "wof:id":873901907,
+    "wof:lastmodified":1464299855,
+    "wof:name":"Bauer Contracting Inc",
+    "wof:parent_id":85878743,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.757155,
+    40.810805,
+    -96.757155,
+    40.810805
+],
+  "geometry": {"coordinates":[-96.757155,40.810805],"type":"Point"}
+}

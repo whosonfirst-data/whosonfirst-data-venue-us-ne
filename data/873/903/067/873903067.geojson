@@ -1,0 +1,77 @@
+{
+  "id": 873903067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.955745,41.245522,-95.955745,41.245522",
+    "geom:latitude":41.245522,
+    "geom:longitude":-95.955745,
+    "iso:country":"US",
+    "sg:address":"1331 Park Ave",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 342 1619",
+    "sg:postcode":"68105",
+    "sg:province":"NE",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872527,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1bGIDjX0fn5DE1Oiy0GX7D_41.245522_-95.955745@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299880,
+    "wof:geomhash":"787efbd1b287f9aac5cc1c80ff8cd9c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872527,
+            "region_id":85688563,
+            "venue_id":873903067
+        }
+    ],
+    "wof:id":873903067,
+    "wof:lastmodified":1464299880,
+    "wof:name":"Earl Taylor Garage",
+    "wof:parent_id":85872527,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -95.955745,
+    41.245522,
+    -95.955745,
+    41.245522
+],
+  "geometry": {"coordinates":[-95.95574499999999,41.245522],"type":"Point"}
+}

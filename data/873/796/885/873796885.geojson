@@ -1,0 +1,75 @@
+{
+  "id": 873796885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.366841,41.439194,-97.366841,41.439194",
+    "geom:latitude":41.439194,
+    "geom:longitude":-97.366841,
+    "iso:country":"US",
+    "sg:address":"2374 32nd Ave",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 564 3287",
+    "sg:postcode":"68601",
+    "sg:province":"NE",
+    "sg:tags":[
+        "cleaners",
+        "plant",
+        "drycleaning"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974401,
+        102084277,
+        85854093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4nZWtbKzRaB6ZNkgzdlkQd_41.439194_-97.366841@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297736,
+    "wof:geomhash":"8cb0829fbf6b0ee103420f0f436d0973",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084277,
+            "locality_id":85974401,
+            "neighbourhood_id":85854093,
+            "region_id":85688563,
+            "venue_id":873796885
+        }
+    ],
+    "wof:id":873796885,
+    "wof:lastmodified":1464297736,
+    "wof:name":"Columbus Dry Cleaners & Lndry",
+    "wof:parent_id":85854093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners",
+        "plant",
+        "drycleaning"
+    ]
+},
+  "bbox": [
+    -97.366841,
+    41.439194,
+    -97.366841,
+    41.439194
+],
+  "geometry": {"coordinates":[-97.36684099999999,41.439194],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873880405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.065079,41.176234,-96.065079,41.176234",
+    "geom:latitude":41.176234,
+    "geom:longitude":-96.065079,
+    "iso:country":"US",
+    "sg:address":"9823 Giles Rd",
+    "sg:city":"La Vista",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 592 9888",
+    "sg:postcode":"68128",
+    "sg:province":"NE",
+    "sg:tags":[
+        "loan",
+        "real estate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85843697,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ATOSFdBf4JPVkKjHSW3Dv_41.176234_-96.065079@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299441,
+    "wof:geomhash":"6ea9e1b5c379bb19c78147dcd5adde77",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85843697,
+            "region_id":85688563,
+            "venue_id":873880405
+        }
+    ],
+    "wof:id":873880405,
+    "wof:lastmodified":1464299441,
+    "wof:name":"Major Mortgage",
+    "wof:parent_id":85843697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan",
+        "real estate"
+    ]
+},
+  "bbox": [
+    -96.065079,
+    41.176234,
+    -96.065079,
+    41.176234
+],
+  "geometry": {"coordinates":[-96.065079,41.176234],"type":"Point"}
+}

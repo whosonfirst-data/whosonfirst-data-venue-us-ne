@@ -1,0 +1,75 @@
+{
+  "id": 873853379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.632262,40.820594,-96.632262,40.820594",
+    "geom:latitude":40.820594,
+    "geom:longitude":-96.632262,
+    "iso:country":"US",
+    "sg:address":"6511 Vine St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 325 8482",
+    "sg:postcode":"68505",
+    "sg:province":"NE",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878725,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_16K48EO3fbdtVZ0pZDLkCY_40.820594_-96.632262@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298885,
+    "wof:geomhash":"65f8ed9f9e7e8c69d9cca026c3039662",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878725,
+            "region_id":85688563,
+            "venue_id":873853379
+        }
+    ],
+    "wof:id":873853379,
+    "wof:lastmodified":1464298885,
+    "wof:name":"South Street Storage",
+    "wof:parent_id":85878725,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -96.632262,
+    40.820594,
+    -96.632262,
+    40.820594
+],
+  "geometry": {"coordinates":[-96.632262,40.820594],"type":"Point"}
+}

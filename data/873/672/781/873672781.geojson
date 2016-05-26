@@ -1,0 +1,73 @@
+{
+  "id": 873672781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.935292,41.158659,-95.935292,41.158659",
+    "geom:latitude":41.158659,
+    "geom:longitude":-95.935292,
+    "iso:country":"US",
+    "sg:address":"10531 S 15th St",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 291 1279",
+    "sg:postcode":"68123",
+    "sg:province":"NE",
+    "sg:tags":[
+        "game",
+        "video"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85821583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_15tVxJeBog7QaGBvsLQZM0_41.158659_-95.935292@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295828,
+    "wof:geomhash":"c4c1a2af525b28ff094a32d6d575bd06",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85821583,
+            "region_id":85688563,
+            "venue_id":873672781
+        }
+    ],
+    "wof:id":873672781,
+    "wof:lastmodified":1464295828,
+    "wof:name":"Gamestop",
+    "wof:parent_id":85821583,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "game",
+        "video"
+    ]
+},
+  "bbox": [
+    -95.935292,
+    41.158659,
+    -95.935292,
+    41.158659
+],
+  "geometry": {"coordinates":[-95.935292,41.158659],"type":"Point"}
+}

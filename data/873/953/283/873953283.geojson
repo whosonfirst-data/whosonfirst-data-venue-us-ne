@@ -1,0 +1,66 @@
+{
+  "id": 873953283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.587298,40.698066,-96.587298,40.698066",
+    "geom:latitude":40.698066,
+    "geom:longitude":-96.587298,
+    "iso:country":"US",
+    "sg:address":"11101 S 98th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 423 3052",
+    "sg:postcode":"68526",
+    "sg:province":"NE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7N0mUbIZPX3zChZgbgdtsA_40.698066_-96.587298@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464301276,
+    "wof:geomhash":"a168e1b244115bcf1e07e66914e0d86f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878685,
+            "region_id":85688563,
+            "venue_id":873953283
+        }
+    ],
+    "wof:id":873953283,
+    "wof:lastmodified":1464301276,
+    "wof:name":"Connor Consulting",
+    "wof:parent_id":85878685,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.587298,
+    40.698066,
+    -96.587298,
+    40.698066
+],
+  "geometry": {"coordinates":[-96.587298,40.698066],"type":"Point"}
+}

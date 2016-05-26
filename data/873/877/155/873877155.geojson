@@ -1,0 +1,71 @@
+{
+  "id": 873877155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.919208,41.141372,-95.919208,41.141372",
+    "geom:latitude":41.141372,
+    "geom:longitude":-95.919208,
+    "iso:country":"US",
+    "sg:address":"201 Westridge Ave",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 292 1993",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "management"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85821583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2P9ohXE2dU4lo1SWCVtGhB_41.141372_-95.919208@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299378,
+    "wof:geomhash":"a22afa4a50b125784a08eaa5fa4c6bcd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85821583,
+            "region_id":85688563,
+            "venue_id":873877155
+        }
+    ],
+    "wof:id":873877155,
+    "wof:lastmodified":1464299378,
+    "wof:name":"Double Eagle Property Mgmt Co",
+    "wof:parent_id":85821583,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "management"
+    ]
+},
+  "bbox": [
+    -95.919208,
+    41.141372,
+    -95.919208,
+    41.141372
+],
+  "geometry": {"coordinates":[-95.919208,41.141372],"type":"Point"}
+}

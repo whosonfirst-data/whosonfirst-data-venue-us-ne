@@ -1,0 +1,75 @@
+{
+  "id": 873664471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.023796,41.279577,-96.023796,41.279577",
+    "geom:latitude":41.279577,
+    "geom:longitude":-96.023796,
+    "iso:country":"US",
+    "sg:address":"2007 N 72nd St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 554 5821",
+    "sg:postcode":"68134",
+    "sg:province":"NE",
+    "sg:tags":[
+        "tavern"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872507,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_35nXk5bdngDlO0laEa0ZYS_41.279577_-96.023796@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295745,
+    "wof:geomhash":"959515fa24cca677779c8aa516970584",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872507,
+            "region_id":85688563,
+            "venue_id":873664471
+        }
+    ],
+    "wof:id":873664471,
+    "wof:lastmodified":1464295745,
+    "wof:name":"Walking Cane Tavern",
+    "wof:parent_id":85872507,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tavern"
+    ]
+},
+  "bbox": [
+    -96.023796,
+    41.279577,
+    -96.023796,
+    41.279577
+],
+  "geometry": {"coordinates":[-96.023796,41.279577],"type":"Point"}
+}

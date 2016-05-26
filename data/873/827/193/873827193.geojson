@@ -1,0 +1,77 @@
+{
+  "id": 873827193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.695767,40.813698,-96.695767,40.813698",
+    "geom:latitude":40.813698,
+    "geom:longitude":-96.695767,
+    "iso:country":"US",
+    "sg:address":"1742 O St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 475 6110",
+    "sg:postcode":"68508",
+    "sg:province":"NE",
+    "sg:tags":[
+        "used",
+        "dealership"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878699,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_11g3QhrCjv0ZUCg6xGpBPL_40.813698_-96.695767@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298281,
+    "wof:geomhash":"5f3023256965ff22c6a1fd095eb65515",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878699,
+            "region_id":85688563,
+            "venue_id":873827193
+        }
+    ],
+    "wof:id":873827193,
+    "wof:lastmodified":1464298281,
+    "wof:name":"Bigler Motors",
+    "wof:parent_id":85878699,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "used",
+        "dealership"
+    ]
+},
+  "bbox": [
+    -96.695767,
+    40.813698,
+    -96.695767,
+    40.813698
+],
+  "geometry": {"coordinates":[-96.695767,40.813698],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 873735643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.684548,40.791812,-96.684548,40.791812",
+    "geom:latitude":40.791812,
+    "geom:longitude":-96.684548,
+    "iso:country":"US",
+    "sg:address":"1910 S 26th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 476 6623",
+    "sg:postcode":"68502",
+    "sg:province":"NE",
+    "sg:tags":[
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878727,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0VOnbkeuqc4WoB8SwJ2rqd_40.791812_-96.684548@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296866,
+    "wof:geomhash":"ce6a3d8f4f22fd5b7c825d871ee9e983",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878727,
+            "region_id":85688563,
+            "venue_id":873735643
+        }
+    ],
+    "wof:id":873735643,
+    "wof:lastmodified":1464296866,
+    "wof:name":"Fiedler Consulting Inc",
+    "wof:parent_id":85878727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineer"
+    ]
+},
+  "bbox": [
+    -96.684548,
+    40.791812,
+    -96.684548,
+    40.791812
+],
+  "geometry": {"coordinates":[-96.68454800000001,40.791812],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873680367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.929982,41.182129,-95.929982,41.182129",
+    "geom:latitude":41.182129,
+    "geom:longitude":-95.929982,
+    "iso:country":"US",
+    "sg:address":"1303 Fort Crook Rd N",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 734 4450",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85804025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6kpX7KOI0HAHgRzbC53ja0_41.182129_-95.929982@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296006,
+    "wof:geomhash":"284135028ef3d8de0f86dc0c4020e149",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85804025,
+            "region_id":85688563,
+            "venue_id":873680367
+        }
+    ],
+    "wof:id":873680367,
+    "wof:lastmodified":1464296006,
+    "wof:name":"Certified Transmission-Clutch",
+    "wof:parent_id":85804025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -95.929982,
+    41.182129,
+    -95.929982,
+    41.182129
+],
+  "geometry": {"coordinates":[-95.929982,41.182129],"type":"Point"}
+}

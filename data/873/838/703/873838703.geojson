@@ -1,0 +1,73 @@
+{
+  "id": 873838703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.918962,41.139059,-95.918962,41.139059",
+    "geom:latitude":41.139059,
+    "geom:longitude":-95.918962,
+    "iso:country":"US",
+    "sg:address":"120 Westridge Ave",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 502 3196",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "food",
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974747,
+        102082777,
+        85820061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6hRs08GMiJRSn6ZRKiCEuX_41.139059_-95.918962@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298518,
+    "wof:geomhash":"098e36cd7e34be0854a366e5253235a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974747,
+            "neighbourhood_id":85820061,
+            "region_id":85688563,
+            "venue_id":873838703
+        }
+    ],
+    "wof:id":873838703,
+    "wof:lastmodified":1464298518,
+    "wof:name":"Brakebush Brothers Inc",
+    "wof:parent_id":85820061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "food",
+        "product"
+    ]
+},
+  "bbox": [
+    -95.918962,
+    41.139059,
+    -95.918962,
+    41.139059
+],
+  "geometry": {"coordinates":[-95.91896199999999,41.139059],"type":"Point"}
+}

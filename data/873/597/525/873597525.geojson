@@ -1,0 +1,73 @@
+{
+  "id": 873597525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.721817,40.86664,-96.721817,40.86664",
+    "geom:latitude":40.86664,
+    "geom:longitude":-96.721817,
+    "iso:country":"US",
+    "sg:address":"131 W Grand Dr",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 479 2199",
+    "sg:postcode":"68521",
+    "sg:province":"NE",
+    "sg:tags":[
+        "marketing",
+        "program"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_17dms9unD27RsnNepUPRbb_40.866640_-96.721817@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294954,
+    "wof:geomhash":"ab28f0ad9e19094565c71aa531751956",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878717,
+            "region_id":85688563,
+            "venue_id":873597525
+        }
+    ],
+    "wof:id":873597525,
+    "wof:lastmodified":1464294954,
+    "wof:name":"Sandhills Publishing",
+    "wof:parent_id":85878717,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "marketing",
+        "program"
+    ]
+},
+  "bbox": [
+    -96.721817,
+    40.86664,
+    -96.721817,
+    40.86664
+],
+  "geometry": {"coordinates":[-96.721817,40.86664],"type":"Point"}
+}

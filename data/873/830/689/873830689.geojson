@@ -1,0 +1,71 @@
+{
+  "id": 873830689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.689136,40.870198,-96.689136,40.870198",
+    "geom:latitude":40.870198,
+    "geom:longitude":-96.689136,
+    "iso:country":"US",
+    "sg:address":"2165 Kingswood Cir",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 476 1476",
+    "sg:postcode":"68521",
+    "sg:province":"NE",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5AhEYjl4VyZB04figbOCli_40.870198_-96.689136@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298343,
+    "wof:geomhash":"f27279f0aac2493a58e91fc3a59a2c3a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878687,
+            "region_id":85688563,
+            "venue_id":873830689
+        }
+    ],
+    "wof:id":873830689,
+    "wof:lastmodified":1464298343,
+    "wof:name":"Lahrs Drywall",
+    "wof:parent_id":85878687,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.689136,
+    40.870198,
+    -96.689136,
+    40.870198
+],
+  "geometry": {"coordinates":[-96.689136,40.870198],"type":"Point"}
+}

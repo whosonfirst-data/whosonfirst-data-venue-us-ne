@@ -1,0 +1,71 @@
+{
+  "id": 873884075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.040325,41.156492,-96.040325,41.156492",
+    "geom:latitude":41.156492,
+    "geom:longitude":-96.040325,
+    "iso:country":"US",
+    "sg:address":"206 E 1st St",
+    "sg:city":"Papillion",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 592 5557",
+    "sg:postcode":"68046",
+    "sg:province":"NE",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85843697,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7EG1aJEIC5AC3LKgvev2ak_41.156492_-96.040325@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299518,
+    "wof:geomhash":"79807dd1b77e3ab652d83648a0e497f5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85843697,
+            "region_id":85688563,
+            "venue_id":873884075
+        }
+    ],
+    "wof:id":873884075,
+    "wof:lastmodified":1464299518,
+    "wof:name":"Wolfies Truck & Auto Repair",
+    "wof:parent_id":85843697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -96.040325,
+    41.156492,
+    -96.040325,
+    41.156492
+],
+  "geometry": {"coordinates":[-96.040325,41.156492],"type":"Point"}
+}

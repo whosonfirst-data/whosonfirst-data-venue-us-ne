@@ -1,0 +1,73 @@
+{
+  "id": 873748119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.706672,40.756339,-96.706672,40.756339",
+    "geom:latitude":40.756339,
+    "geom:longitude":-96.706672,
+    "iso:country":"US",
+    "sg:address":"941 School House Ln",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 476 4969",
+    "sg:postcode":"68512",
+    "sg:province":"NE",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4BTdBRLPYYwadVoqLVgl1f_40.756339_-96.706672@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297051,
+    "wof:geomhash":"7ff0a0b7630888941aa31e359f7f60d0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878709,
+            "region_id":85688563,
+            "venue_id":873748119
+        }
+    ],
+    "wof:id":873748119,
+    "wof:lastmodified":1464297051,
+    "wof:name":"Car Factory",
+    "wof:parent_id":85878709,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -96.706672,
+    40.756339,
+    -96.706672,
+    40.756339
+],
+  "geometry": {"coordinates":[-96.706672,40.756339],"type":"Point"}
+}

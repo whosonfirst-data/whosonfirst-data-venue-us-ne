@@ -1,0 +1,87 @@
+{
+  "id": 873978179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.702087,40.814742,-96.702087,40.814742",
+    "geom:latitude":40.814742,
+    "geom:longitude":-96.702087,
+    "iso:country":"US",
+    "sg:address":"1332 P St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Deli",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ne/lincoln/10405-planet-sub/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 438 8782",
+    "sg:postcode":"68508",
+    "sg:province":"NE",
+    "sg:tags":[
+        "deli",
+        "wrap",
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878699,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3NPvJ40ShZm5VN7j4biZ4U_40.814820_-96.701576@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464302303,
+    "wof:geomhash":"5aae3100edc408d91f0f898b3996f58c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878699,
+            "region_id":85688563,
+            "venue_id":873978179
+        }
+    ],
+    "wof:id":873978179,
+    "wof:lastmodified":1464302303,
+    "wof:name":"Planet Sub",
+    "wof:parent_id":85878699,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "deli",
+        "wrap",
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -96.702087,
+    40.814742,
+    -96.702087,
+    40.814742
+],
+  "geometry": {"coordinates":[-96.70208700000001,40.814742],"type":"Point"}
+}

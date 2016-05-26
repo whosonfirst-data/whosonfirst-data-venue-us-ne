@@ -1,0 +1,71 @@
+{
+  "id": 873705871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.705075,40.746287,-96.705075,40.746287",
+    "geom:latitude":40.746287,
+    "geom:longitude":-96.705075,
+    "iso:country":"US",
+    "sg:address":"6510 Sundance Ct",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 423 6219",
+    "sg:postcode":"68512",
+    "sg:province":"NE",
+    "sg:tags":[
+        "business"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7biN6sZ8yneLh2INU1qW2k_40.746287_-96.705075@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296468,
+    "wof:geomhash":"e338bbaa3ebb0d9d10524ca18a99de69",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878709,
+            "region_id":85688563,
+            "venue_id":873705871
+        }
+    ],
+    "wof:id":873705871,
+    "wof:lastmodified":1464296468,
+    "wof:name":"Pam Dolberg",
+    "wof:parent_id":85878709,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "business"
+    ]
+},
+  "bbox": [
+    -96.705075,
+    40.746287,
+    -96.705075,
+    40.746287
+],
+  "geometry": {"coordinates":[-96.70507499999999,40.746287],"type":"Point"}
+}

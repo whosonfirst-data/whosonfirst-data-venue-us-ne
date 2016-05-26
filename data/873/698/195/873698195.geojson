@@ -1,0 +1,78 @@
+{
+  "id": 873698195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.196596,41.175154,-96.196596,41.175154",
+    "geom:latitude":41.175154,
+    "geom:longitude":-96.196596,
+    "iso:country":"US",
+    "sg:address":"8585 S 180th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Nursery",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 203 9991",
+    "sg:postcode":"68136",
+    "sg:province":"NE",
+    "sg:tags":[
+        "ornamental",
+        "sod",
+        "sodding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85834285,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5DhQYj7Z4D3x82EE3T38CP_41.175154_-96.196596@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296386,
+    "wof:geomhash":"f66365b3fecd4a3e0a43175c8bdd8d7c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85834285,
+            "region_id":85688563,
+            "venue_id":873698195
+        }
+    ],
+    "wof:id":873698195,
+    "wof:lastmodified":1464296386,
+    "wof:name":"Hager Plambeck Sod Farm",
+    "wof:parent_id":85834285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ornamental",
+        "sod",
+        "sodding"
+    ]
+},
+  "bbox": [
+    -96.196596,
+    41.175154,
+    -96.196596,
+    41.175154
+],
+  "geometry": {"coordinates":[-96.196596,41.175154],"type":"Point"}
+}

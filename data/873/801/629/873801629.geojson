@@ -1,0 +1,77 @@
+{
+  "id": 873801629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.25025,41.272124,-96.25025,41.272124",
+    "geom:latitude":41.272124,
+    "geom:longitude":-96.25025,
+    "iso:country":"US",
+    "sg:address":"21413 Greenbrier Dr",
+    "sg:city":"Elkhorn",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 289 4240",
+    "sg:postcode":"68022",
+    "sg:province":"NE",
+    "sg:tags":[
+        "instruction",
+        "driving"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85868921,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3S6sPt1Juo4jOMwk5M82qe_41.272124_-96.250250@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297793,
+    "wof:geomhash":"7828f94d67a3318cb2d90b553eccdbd6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85868921,
+            "region_id":85688563,
+            "venue_id":873801629
+        }
+    ],
+    "wof:id":873801629,
+    "wof:lastmodified":1464297793,
+    "wof:name":"Learn To Drive",
+    "wof:parent_id":85868921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "driving"
+    ]
+},
+  "bbox": [
+    -96.25025,
+    41.272124,
+    -96.25025,
+    41.272124
+],
+  "geometry": {"coordinates":[-96.25024999999999,41.272124],"type":"Point"}
+}

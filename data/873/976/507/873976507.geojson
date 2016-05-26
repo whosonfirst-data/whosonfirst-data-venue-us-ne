@@ -1,0 +1,76 @@
+{
+  "id": 873976507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.157013,41.264351,-96.157013,41.264351",
+    "geom:latitude":41.264351,
+    "geom:longitude":-96.157013,
+    "iso:country":"US",
+    "sg:address":"569 N 155th Plz",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ne/mcardle/10799-la-voltaire/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 934 9374",
+    "sg:postcode":"68154",
+    "sg:province":"NE",
+    "sg:tags":[
+        "french"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85806957,
+        102191575,
+        404519987,
+        85633793,
+        85973479,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5PKSjUEzNWiHC7h9CLjBi8_41.264351_-96.157013@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464302240,
+    "wof:geomhash":"40733055d0daaa4ba3c5c78c982ee4d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404519987,
+            "locality_id":85973479,
+            "neighbourhood_id":85806957,
+            "region_id":85688563,
+            "venue_id":873976507
+        }
+    ],
+    "wof:id":873976507,
+    "wof:lastmodified":1464302240,
+    "wof:name":"La Voltaire",
+    "wof:parent_id":85806957,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "french"
+    ]
+},
+  "bbox": [
+    -96.157013,
+    41.264351,
+    -96.157013,
+    41.264351
+],
+  "geometry": {"coordinates":[-96.15701300000001,41.264351],"type":"Point"}
+}

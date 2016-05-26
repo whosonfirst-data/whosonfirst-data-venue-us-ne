@@ -1,0 +1,64 @@
+{
+  "id": 873853231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.126227,41.176077,-96.126227,41.176077",
+    "geom:latitude":41.176077,
+    "geom:longitude":-96.126227,
+    "iso:country":"US",
+    "sg:address":"13593 Giles Rd",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 000 1111",
+    "sg:postcode":"68136",
+    "sg:province":"NE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85834285,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_776d1itAjYDEbK6hfXxLb6_41.176077_-96.126227@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298882,
+    "wof:geomhash":"b2c89070df77bbbdd05d797b647499e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85834285,
+            "region_id":85688563,
+            "venue_id":873853231
+        }
+    ],
+    "wof:id":873853231,
+    "wof:lastmodified":1464298882,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85834285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.126227,
+    41.176077,
+    -96.126227,
+    41.176077
+],
+  "geometry": {"coordinates":[-96.126227,41.176077],"type":"Point"}
+}

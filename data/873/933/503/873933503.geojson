@@ -1,0 +1,73 @@
+{
+  "id": 873933503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.598428,40.84142,-96.598428,40.84142",
+    "geom:latitude":40.84142,
+    "geom:longitude":-96.598428,
+    "iso:country":"US",
+    "sg:address":"2963 N 90th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 464 5600",
+    "sg:postcode":"68507",
+    "sg:province":"NE",
+    "sg:tags":[
+        "home",
+        "builder"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85824241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5soiBo0I5pdJSa9P7ZZruE_40.841420_-96.598428@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300472,
+    "wof:geomhash":"af3725b57d07b8142243e745ec69360a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85824241,
+            "region_id":85688563,
+            "venue_id":873933503
+        }
+    ],
+    "wof:id":873933503,
+    "wof:lastmodified":1464300472,
+    "wof:name":"Prairie Homes Sales Div",
+    "wof:parent_id":85824241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "builder"
+    ]
+},
+  "bbox": [
+    -96.598428,
+    40.84142,
+    -96.598428,
+    40.84142
+],
+  "geometry": {"coordinates":[-96.598428,40.84142],"type":"Point"}
+}

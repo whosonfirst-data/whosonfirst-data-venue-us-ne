@@ -1,0 +1,67 @@
+{
+  "id": 873962663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.966654,41.141493,-95.966654,41.141493",
+    "geom:latitude":41.141493,
+    "geom:longitude":-95.966654,
+    "iso:country":"US",
+    "sg:address":"11535 S 36th St",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 292 5111",
+    "sg:postcode":"68123",
+    "sg:province":"NE",
+    "sg:website":"www.midlandsrealestate.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85821583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_07AaIzadQi5lit91EQKHpD_41.141493_-95.966654@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464301679,
+    "wof:geomhash":"1b11dd7e5b8d7e95c34fc06c57c6a8bc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85821583,
+            "region_id":85688563,
+            "venue_id":873962663
+        }
+    ],
+    "wof:id":873962663,
+    "wof:lastmodified":1464301679,
+    "wof:name":"Midlands Real Estate",
+    "wof:parent_id":85821583,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -95.966654,
+    41.141493,
+    -95.966654,
+    41.141493
+],
+  "geometry": {"coordinates":[-95.96665400000001,41.141493],"type":"Point"}
+}

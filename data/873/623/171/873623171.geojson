@@ -1,0 +1,77 @@
+{
+  "id": 873623171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.975786,41.247859,-95.975786,41.247859",
+    "geom:latitude":41.247859,
+    "geom:longitude":-95.975786,
+    "iso:country":"US",
+    "sg:address":"1101 S 42nd St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 595 3400",
+    "sg:postcode":"68105",
+    "sg:province":"NE",
+    "sg:tags":[
+        "state",
+        "resource"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872523,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1TNvJDRUHRju57Piz1i2jX_41.247859_-95.975786@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295283,
+    "wof:geomhash":"3629c49796e9476892e4e7396b480d26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872523,
+            "region_id":85688563,
+            "venue_id":873623171
+        }
+    ],
+    "wof:id":873623171,
+    "wof:lastmodified":1464295283,
+    "wof:name":"Health & Human Svc Dept",
+    "wof:parent_id":85872523,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "resource"
+    ]
+},
+  "bbox": [
+    -95.975786,
+    41.247859,
+    -95.975786,
+    41.247859
+],
+  "geometry": {"coordinates":[-95.975786,41.247859],"type":"Point"}
+}

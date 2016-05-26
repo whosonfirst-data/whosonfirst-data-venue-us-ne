@@ -1,0 +1,71 @@
+{
+  "id": 873567219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.0955,41.320627,-96.0955,41.320627",
+    "geom:latitude":41.320627,
+    "geom:longitude":-96.0955,
+    "iso:country":"US",
+    "sg:address":"11715 Mary St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 451 9073",
+    "sg:postcode":"68164",
+    "sg:province":"NE",
+    "sg:tags":[
+        "product",
+        "asphalt"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85872505,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_38BvNhe8tQniFaWq0WR58T_41.320627_-96.095500@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294578,
+    "wof:geomhash":"a61dd901b6b28f4cbcbe61644d146bff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":873567219
+        }
+    ],
+    "wof:id":873567219,
+    "wof:lastmodified":1464294578,
+    "wof:name":"Ace Paving Co",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "asphalt"
+    ]
+},
+  "bbox": [
+    -96.0955,
+    41.320627,
+    -96.0955,
+    41.320627
+],
+  "geometry": {"coordinates":[-96.0955,41.320627],"type":"Point"}
+}

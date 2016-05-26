@@ -1,0 +1,81 @@
+{
+  "id": 873824429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.041833,41.21966,-96.041833,41.21966",
+    "geom:latitude":41.21966,
+    "geom:longitude":-96.041833,
+    "iso:country":"US",
+    "sg:address":"8205 F St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 592 3355",
+    "sg:postcode":"68127",
+    "sg:province":"NE",
+    "sg:tags":[
+        "dietitian"
+    ],
+    "sg:website":"www.drinkmilk.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872511,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1mFlXQzVRZRz7OKlyCVBrd_41.219660_-96.041833@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298222,
+    "wof:geomhash":"588f5488da94dbf28f19d8322dfa0fc2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872511,
+            "region_id":85688563,
+            "venue_id":873824429
+        }
+    ],
+    "wof:id":873824429,
+    "wof:lastmodified":1464298222,
+    "wof:name":"Dairy Council Of Nebraska",
+    "wof:parent_id":85872511,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dietitian"
+    ]
+},
+  "bbox": [
+    -96.041833,
+    41.21966,
+    -96.041833,
+    41.21966
+],
+  "geometry": {"coordinates":[-96.041833,41.21966],"type":"Point"}
+}

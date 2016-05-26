@@ -1,0 +1,71 @@
+{
+  "id": 873628571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.925702,41.157886,-95.925702,41.157886",
+    "geom:latitude":41.157886,
+    "geom:longitude":-95.925702,
+    "iso:country":"US",
+    "sg:address":"323 Fort Crook Rd S",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 614 1252",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85804025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_73aBBfuKzTc5ltDVZymh9W_41.157886_-95.925702@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295345,
+    "wof:geomhash":"f613a3dd62f394d26047627baf62e6f7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85804025,
+            "region_id":85688563,
+            "venue_id":873628571
+        }
+    ],
+    "wof:id":873628571,
+    "wof:lastmodified":1464295345,
+    "wof:name":"Gateway Park Apartments",
+    "wof:parent_id":85804025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -95.925702,
+    41.157886,
+    -95.925702,
+    41.157886
+],
+  "geometry": {"coordinates":[-95.925702,41.157886],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873772685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.238929,41.145014,-96.238929,41.145014",
+    "geom:latitude":41.145014,
+    "geom:longitude":-96.238929,
+    "iso:country":"US",
+    "sg:address":"720 US Hwy 6",
+    "sg:city":"Gretna",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 332 3773",
+    "sg:postcode":"68028",
+    "sg:province":"NE",
+    "sg:tags":[
+        "therapist",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85834285,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2QTUfJmIp8tyTBqY5bnZ5o_41.145014_-96.238929@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297397,
+    "wof:geomhash":"63c5f053f5d1e58da4bdcf70609961e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85834285,
+            "region_id":85688563,
+            "venue_id":873772685
+        }
+    ],
+    "wof:id":873772685,
+    "wof:lastmodified":1464297397,
+    "wof:name":"Gretna Physical Therapy",
+    "wof:parent_id":85834285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "physical"
+    ]
+},
+  "bbox": [
+    -96.238929,
+    41.145014,
+    -96.238929,
+    41.145014
+],
+  "geometry": {"coordinates":[-96.238929,41.145014],"type":"Point"}
+}

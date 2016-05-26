@@ -1,0 +1,80 @@
+{
+  "id": 873898521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.775233,40.868602,-96.775233,40.868602",
+    "geom:latitude":40.868602,
+    "geom:longitude":-96.775233,
+    "iso:country":"US",
+    "sg:address":"5700 NW 38th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 470 3356",
+    "sg:postcode":"68524",
+    "sg:province":"NE",
+    "sg:tags":[
+        "paint",
+        "varnish",
+        "allied",
+        "product",
+        "mfg"
+    ],
+    "sg:website":"www.fourseasonspaint.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85826663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0QKw2i9e55oJs7zMIQdAjn_40.868602_-96.775233@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299791,
+    "wof:geomhash":"b5c515b3e1a6058e1082c34b42877552",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85826663,
+            "region_id":85688563,
+            "venue_id":873898521
+        }
+    ],
+    "wof:id":873898521,
+    "wof:lastmodified":1464299791,
+    "wof:name":"Four Seasons Paint Mfg Co",
+    "wof:parent_id":85826663,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paint",
+        "varnish",
+        "allied",
+        "product",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -96.775233,
+    40.868602,
+    -96.775233,
+    40.868602
+],
+  "geometry": {"coordinates":[-96.775233,40.868602],"type":"Point"}
+}

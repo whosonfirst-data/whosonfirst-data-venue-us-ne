@@ -1,0 +1,69 @@
+{
+  "id": 873569047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.085227,41.302609,-96.085227,41.302609",
+    "geom:latitude":41.302609,
+    "geom:longitude":-96.085227,
+    "iso:country":"US",
+    "sg:address":"11108 Larimore Ave",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 493 6015",
+    "sg:postcode":"68164",
+    "sg:province":"NE",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85872505,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3edoeHMzFCTogZNtwgy9bY_41.302609_-96.085227@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294596,
+    "wof:geomhash":"70275d8f4111df9beb4867ccb60e12ae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":873569047
+        }
+    ],
+    "wof:id":873569047,
+    "wof:lastmodified":1464294596,
+    "wof:name":"Urodynamics Inc",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -96.085227,
+    41.302609,
+    -96.085227,
+    41.302609
+],
+  "geometry": {"coordinates":[-96.085227,41.302609],"type":"Point"}
+}

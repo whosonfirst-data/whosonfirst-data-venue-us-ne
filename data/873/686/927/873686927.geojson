@@ -1,0 +1,69 @@
+{
+  "id": 873686927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.045346,41.188393,-96.045346,41.188393",
+    "geom:latitude":41.188393,
+    "geom:longitude":-96.045346,
+    "iso:country":"US",
+    "sg:address":"7100 S 86th St",
+    "sg:city":"La Vista",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 331 7441",
+    "sg:postcode":"68128",
+    "sg:province":"NE",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85843697,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_778jo5wLIaazWsHJAJSlOh_41.188393_-96.045346@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296191,
+    "wof:geomhash":"6888e978b995fc30326c9fa93e6b55cf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85843697,
+            "region_id":85688563,
+            "venue_id":873686927
+        }
+    ],
+    "wof:id":873686927,
+    "wof:lastmodified":1464296191,
+    "wof:name":"Alpine Village",
+    "wof:parent_id":85843697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -96.045346,
+    41.188393,
+    -96.045346,
+    41.188393
+],
+  "geometry": {"coordinates":[-96.045346,41.188393],"type":"Point"}
+}

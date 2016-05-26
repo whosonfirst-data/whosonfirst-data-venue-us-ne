@@ -1,0 +1,75 @@
+{
+  "id": 873927595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.660095,40.841081,-96.660095,40.841081",
+    "geom:latitude":40.841081,
+    "geom:longitude":-96.660095,
+    "iso:country":"US",
+    "sg:address":"2820 N 43rd St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 432 5968",
+    "sg:postcode":"68504",
+    "sg:province":"NE",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85853163,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1R3CoZXWyJMuO7F16IHERo_40.841081_-96.660095@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300356,
+    "wof:geomhash":"21238debaa91e8b760ebd1d52126e946",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85853163,
+            "region_id":85688563,
+            "venue_id":873927595
+        }
+    ],
+    "wof:id":873927595,
+    "wof:lastmodified":1464300356,
+    "wof:name":"Infinite Painting Co",
+    "wof:parent_id":85853163,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -96.660095,
+    40.841081,
+    -96.660095,
+    40.841081
+],
+  "geometry": {"coordinates":[-96.660095,40.841081],"type":"Point"}
+}

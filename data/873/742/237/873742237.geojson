@@ -1,0 +1,75 @@
+{
+  "id": 873742237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.993665,41.241099,-95.993665,41.241099",
+    "geom:latitude":41.241099,
+    "geom:longitude":-95.993665,
+    "iso:country":"US",
+    "sg:address":"5115 Center St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 551 1779",
+    "sg:postcode":"68106",
+    "sg:province":"NE",
+    "sg:tags":[
+        "used"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872513,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Rw3SGvx2ekJvkQNNdU3fI_41.241099_-95.993665@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296959,
+    "wof:geomhash":"30c62702e043c95d896e736c42a7350f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872513,
+            "region_id":85688563,
+            "venue_id":873742237
+        }
+    ],
+    "wof:id":873742237,
+    "wof:lastmodified":1464296959,
+    "wof:name":"Heritage Auto Sales",
+    "wof:parent_id":85872513,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "used"
+    ]
+},
+  "bbox": [
+    -95.993665,
+    41.241099,
+    -95.993665,
+    41.241099
+],
+  "geometry": {"coordinates":[-95.99366499999999,41.241099],"type":"Point"}
+}

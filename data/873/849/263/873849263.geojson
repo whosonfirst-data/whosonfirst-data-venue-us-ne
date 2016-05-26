@@ -1,0 +1,80 @@
+{
+  "id": 873849263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.654126,40.772832,-96.654126,40.772832",
+    "geom:latitude":40.772832,
+    "geom:longitude":-96.654126,
+    "iso:country":"US",
+    "sg:address":"4707 Prescott Ave",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 483 1962",
+    "sg:postcode":"68506",
+    "sg:province":"NE",
+    "sg:tags":[
+        "sport"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85811821,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_120WYuwaxWpJL1b2drG1ie_40.772832_-96.654126@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298797,
+    "wof:geomhash":"d4b7fd4c291b07d448759a3dab4728f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85811821,
+            "region_id":85688563,
+            "venue_id":873849263
+        }
+    ],
+    "wof:id":873849263,
+    "wof:lastmodified":1464298797,
+    "wof:name":"Don Stacy's Locker Room",
+    "wof:parent_id":85811821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sport"
+    ]
+},
+  "bbox": [
+    -96.654126,
+    40.772832,
+    -96.654126,
+    40.772832
+],
+  "geometry": {"coordinates":[-96.65412600000001,40.772832],"type":"Point"}
+}

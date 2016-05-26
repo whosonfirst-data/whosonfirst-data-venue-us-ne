@@ -1,0 +1,70 @@
+{
+  "id": 873935309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.08374,41.26585,-96.08374,41.26585",
+    "geom:latitude":41.26585,
+    "geom:longitude":-96.08374,
+    "iso:country":"US",
+    "sg:address":"609 N 108th Cir",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Membership Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 493 6102",
+    "sg:postcode":"68154",
+    "sg:province":"NE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872503,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_050VC4mgzK11MQ8jdfUP4b_41.265850_-96.083740@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300506,
+    "wof:geomhash":"92957df5f7b0d4912a698521d31641dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872503,
+            "region_id":85688563,
+            "venue_id":873935309
+        }
+    ],
+    "wof:id":873935309,
+    "wof:lastmodified":1464300506,
+    "wof:name":"Greater Omaha Dart League",
+    "wof:parent_id":85872503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.08374,
+    41.26585,
+    -96.08374,
+    41.26585
+],
+  "geometry": {"coordinates":[-96.08374000000001,41.26585],"type":"Point"}
+}

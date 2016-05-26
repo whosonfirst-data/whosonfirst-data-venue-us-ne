@@ -1,0 +1,70 @@
+{
+  "id": 873913885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.023813,41.283726,-96.023813,41.283726",
+    "geom:latitude":41.283726,
+    "geom:longitude":-96.023813,
+    "iso:country":"US",
+    "sg:address":"2617 N 72nd St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 551 6920",
+    "sg:postcode":"68134",
+    "sg:province":"NE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872507,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2XZrvKRDf7OmBOhdAytGqU_41.283726_-96.023813@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300086,
+    "wof:geomhash":"28ac4ce05e11a56a3b861820b8fe3ffa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872507,
+            "region_id":85688563,
+            "venue_id":873913885
+        }
+    ],
+    "wof:id":873913885,
+    "wof:lastmodified":1464300086,
+    "wof:name":"Steering Column Repairs",
+    "wof:parent_id":85872507,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.023813,
+    41.283726,
+    -96.023813,
+    41.283726
+],
+  "geometry": {"coordinates":[-96.023813,41.283726],"type":"Point"}
+}

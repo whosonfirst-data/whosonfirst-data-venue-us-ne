@@ -1,0 +1,71 @@
+{
+  "id": 873907673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.131527,41.305255,-96.131527,41.305255",
+    "geom:latitude":41.305255,
+    "geom:longitude":-96.131527,
+    "iso:country":"US",
+    "sg:address":"4907 N 139th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 658 9800",
+    "sg:postcode":"68164",
+    "sg:province":"NE",
+    "sg:tags":[
+        "downspouts",
+        "gutter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85872505,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2i3ANCzdoZqQ6MCqdxe687_41.305255_-96.131527@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299970,
+    "wof:geomhash":"694e34a180f746a5484cebfaba54ec49",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":873907673
+        }
+    ],
+    "wof:id":873907673,
+    "wof:lastmodified":1464299970,
+    "wof:name":"Signature Seamless",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "downspouts",
+        "gutter"
+    ]
+},
+  "bbox": [
+    -96.131527,
+    41.305255,
+    -96.131527,
+    41.305255
+],
+  "geometry": {"coordinates":[-96.13152700000001,41.305255],"type":"Point"}
+}

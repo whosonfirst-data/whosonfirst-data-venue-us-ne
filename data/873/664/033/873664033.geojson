@@ -1,0 +1,71 @@
+{
+  "id": 873664033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.149529,41.157638,-96.149529,41.157638",
+    "geom:latitude":41.157638,
+    "geom:longitude":-96.149529,
+    "iso:country":"US",
+    "sg:address":"10330 S 152nd St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 896 3504",
+    "sg:postcode":"68138",
+    "sg:province":"NE",
+    "sg:tags":[
+        "pet",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85834285,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5o5yLYxSrT6cdXpd2Xzy2L_41.157638_-96.149529@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295740,
+    "wof:geomhash":"10ce01021ee9e8679a79dcc39791b6da",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85834285,
+            "region_id":85688563,
+            "venue_id":873664033
+        }
+    ],
+    "wof:id":873664033,
+    "wof:lastmodified":1464295740,
+    "wof:name":"Pet Imaging",
+    "wof:parent_id":85834285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "shop"
+    ]
+},
+  "bbox": [
+    -96.149529,
+    41.157638,
+    -96.149529,
+    41.157638
+],
+  "geometry": {"coordinates":[-96.149529,41.157638],"type":"Point"}
+}

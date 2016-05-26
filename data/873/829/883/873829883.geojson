@@ -1,0 +1,75 @@
+{
+  "id": 873829883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.961762,41.238267,-95.961762,41.238267",
+    "geom:latitude":41.238267,
+    "geom:longitude":-95.961762,
+    "iso:country":"US",
+    "sg:address":"2138 S 33rd St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 342 3863",
+    "sg:postcode":"68105",
+    "sg:province":"NE",
+    "sg:tags":[
+        "sharpening"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872527,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ElLs9boVo8XKi8etL8UQR_41.238267_-95.961762@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298330,
+    "wof:geomhash":"7c7c5bcd18e8c399c2df70a49c055373",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872527,
+            "region_id":85688563,
+            "venue_id":873829883
+        }
+    ],
+    "wof:id":873829883,
+    "wof:lastmodified":1464298330,
+    "wof:name":"Collett's Precision Sharpening",
+    "wof:parent_id":85872527,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sharpening"
+    ]
+},
+  "bbox": [
+    -95.961762,
+    41.238267,
+    -95.961762,
+    41.238267
+],
+  "geometry": {"coordinates":[-95.96176199999999,41.238267],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 873587381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.054917,41.298437,-96.054917,41.298437",
+    "geom:latitude":41.298437,
+    "geom:longitude":-96.054917,
+    "iso:country":"US",
+    "sg:address":"9146 Taylor St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 571 7820",
+    "sg:postcode":"68134",
+    "sg:province":"NE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867061,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3TR4autvUfHl3aEXnl6F9C_41.298437_-96.054917@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294801,
+    "wof:geomhash":"df3748c7180003c99b671928ccff9759",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85867061,
+            "region_id":85688563,
+            "venue_id":873587381
+        }
+    ],
+    "wof:id":873587381,
+    "wof:lastmodified":1464294801,
+    "wof:name":"Johnston Insurance Inc",
+    "wof:parent_id":85867061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.054917,
+    41.298437,
+    -96.054917,
+    41.298437
+],
+  "geometry": {"coordinates":[-96.054917,41.298437],"type":"Point"}
+}

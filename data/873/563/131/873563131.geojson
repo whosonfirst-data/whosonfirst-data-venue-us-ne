@@ -1,0 +1,75 @@
+{
+  "id": 873563131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.695673,40.820927,-96.695673,40.820927",
+    "geom:latitude":40.820927,
+    "geom:longitude":-96.695673,
+    "iso:country":"US",
+    "sg:address":"1740 Vine St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 472 2257",
+    "sg:postcode":"68508",
+    "sg:province":"NE",
+    "sg:tags":[
+        "educational"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878723,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6PLBlw7ixrNKItjAFYLSsW_40.820927_-96.695673@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294532,
+    "wof:geomhash":"2476990cbf708933a9adf5bb678f488c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878723,
+            "region_id":85688563,
+            "venue_id":873563131
+        }
+    ],
+    "wof:id":873563131,
+    "wof:lastmodified":1464294532,
+    "wof:name":"American Mathematics Comps",
+    "wof:parent_id":85878723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "educational"
+    ]
+},
+  "bbox": [
+    -96.695673,
+    40.820927,
+    -96.695673,
+    40.820927
+],
+  "geometry": {"coordinates":[-96.695673,40.820927],"type":"Point"}
+}

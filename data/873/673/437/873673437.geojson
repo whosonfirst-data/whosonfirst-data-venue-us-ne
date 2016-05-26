@@ -1,0 +1,76 @@
+{
+  "id": 873673437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.702701,40.80931,-96.702701,40.80931",
+    "geom:latitude":40.80931,
+    "geom:longitude":-96.702701,
+    "iso:country":"US",
+    "sg:address":"411 S 13th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 477 4240",
+    "sg:postcode":"68508",
+    "sg:province":"NE",
+    "sg:tags":[
+        "engineer"
+    ],
+    "sg:website":"www.kirkham.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878699,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3qOkiNtqMOwlwQgYRXnIyS_40.809310_-96.702701@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295835,
+    "wof:geomhash":"24bfc67d1c959aac64004c5c8ee5fe98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878699,
+            "region_id":85688563,
+            "venue_id":873673437
+        }
+    ],
+    "wof:id":873673437,
+    "wof:lastmodified":1464295835,
+    "wof:name":"Kirkham Michael Inc",
+    "wof:parent_id":85878699,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineer"
+    ]
+},
+  "bbox": [
+    -96.702701,
+    40.80931,
+    -96.702701,
+    40.80931
+],
+  "geometry": {"coordinates":[-96.702701,40.80931],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 873921867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.080213,41.289048,-96.080213,41.289048",
+    "geom:latitude":41.289048,
+    "geom:longitude":-96.080213,
+    "iso:country":"US",
+    "sg:address":"3341 N 107th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 496 0088",
+    "sg:postcode":"68134",
+    "sg:province":"NE",
+    "sg:tags":[
+        "specialty",
+        "outpatient"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872503,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3hpougcSB9K5RUnp1Pxg9M_41.289048_-96.080213@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300249,
+    "wof:geomhash":"6f9d522431942df8115d1a4173db486d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872503,
+            "region_id":85688563,
+            "venue_id":873921867
+        }
+    ],
+    "wof:id":873921867,
+    "wof:lastmodified":1464300249,
+    "wof:name":"Planned Parenthood of Ne Counc",
+    "wof:parent_id":85872503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "specialty",
+        "outpatient"
+    ]
+},
+  "bbox": [
+    -96.080213,
+    41.289048,
+    -96.080213,
+    41.289048
+],
+  "geometry": {"coordinates":[-96.080213,41.289048],"type":"Point"}
+}

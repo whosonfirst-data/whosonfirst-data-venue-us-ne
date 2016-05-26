@@ -1,0 +1,78 @@
+{
+  "id": 873720817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.682902,40.774937,-96.682902,40.774937",
+    "geom:latitude":40.774937,
+    "geom:longitude":-96.682902,
+    "iso:country":"US",
+    "sg:address":"2625 Stockwell St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 421 3335",
+    "sg:postcode":"68502",
+    "sg:province":"NE",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "sg:website":"www.linderm.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878713,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2DJiaqoQaOJGxEGB8uvMgU_40.774937_-96.682902@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296661,
+    "wof:geomhash":"1751f8108efc6884b7c69f41b669eb30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878713,
+            "region_id":85688563,
+            "venue_id":873720817
+        }
+    ],
+    "wof:id":873720817,
+    "wof:lastmodified":1464296661,
+    "wof:name":"South Lincoln Dermatology Clnc",
+    "wof:parent_id":85878713,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -96.682902,
+    40.774937,
+    -96.682902,
+    40.774937
+],
+  "geometry": {"coordinates":[-96.682902,40.774937],"type":"Point"}
+}

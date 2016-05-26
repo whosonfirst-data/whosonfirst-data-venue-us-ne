@@ -1,0 +1,76 @@
+{
+  "id": 873850691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.588542,40.72567,-96.588542,40.72567",
+    "geom:latitude":40.72567,
+    "geom:longitude":-96.588542,
+    "iso:country":"US",
+    "sg:address":"9635 Yankee Hill Rd",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 423 6060",
+    "sg:postcode":"68526",
+    "sg:province":"NE",
+    "sg:tags":[
+        "lawn",
+        "maintenance",
+        "grounds"
+    ],
+    "sg:website":"www.lawnco.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_02UwMSBNyet6LO8xD1S3cC_40.725670_-96.588542@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298825,
+    "wof:geomhash":"524df12ae29c8c6bb267f31d215aecec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878685,
+            "region_id":85688563,
+            "venue_id":873850691
+        }
+    ],
+    "wof:id":873850691,
+    "wof:lastmodified":1464298825,
+    "wof:name":"Lawnco Lawn & Tree Care",
+    "wof:parent_id":85878685,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lawn",
+        "maintenance",
+        "grounds"
+    ]
+},
+  "bbox": [
+    -96.588542,
+    40.72567,
+    -96.588542,
+    40.72567
+],
+  "geometry": {"coordinates":[-96.588542,40.72567],"type":"Point"}
+}

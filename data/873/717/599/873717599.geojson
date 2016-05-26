@@ -1,0 +1,73 @@
+{
+  "id": 873717599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.62449,40.872649,-96.62449,40.872649",
+    "geom:latitude":40.872649,
+    "geom:longitude":-96.62449,
+    "iso:country":"US",
+    "sg:address":"6400 N 70th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 464 2113",
+    "sg:postcode":"68507",
+    "sg:province":"NE",
+    "sg:tags":[
+        "product",
+        "asphalt"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85824241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1pjHYRUr3kCDZpQyZSysCC_40.872649_-96.624490@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296616,
+    "wof:geomhash":"0d8924ae87e404800eb1caeb61388d70",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85824241,
+            "region_id":85688563,
+            "venue_id":873717599
+        }
+    ],
+    "wof:id":873717599,
+    "wof:lastmodified":1464296616,
+    "wof:name":"Cather & Sons Construction Co",
+    "wof:parent_id":85824241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "asphalt"
+    ]
+},
+  "bbox": [
+    -96.62449,
+    40.872649,
+    -96.62449,
+    40.872649
+],
+  "geometry": {"coordinates":[-96.62448999999999,40.872649],"type":"Point"}
+}

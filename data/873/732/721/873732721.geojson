@@ -1,0 +1,71 @@
+{
+  "id": 873732721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.915759,41.137633,-95.915759,41.137633",
+    "geom:latitude":41.137633,
+    "geom:longitude":-95.915759,
+    "iso:country":"US",
+    "sg:address":"1118 Hillcrest Dr",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 291 1793",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974747,
+        102082777,
+        85820061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0WsQm95c2ezVELOIAhIQBb_41.137633_-95.915759@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296812,
+    "wof:geomhash":"f22b7fe2e73a6388db5c68219da6ef4b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974747,
+            "neighbourhood_id":85820061,
+            "region_id":85688563,
+            "venue_id":873732721
+        }
+    ],
+    "wof:id":873732721,
+    "wof:lastmodified":1464296812,
+    "wof:name":"Garden Cafe",
+    "wof:parent_id":85820061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -95.915759,
+    41.137633,
+    -95.915759,
+    41.137633
+],
+  "geometry": {"coordinates":[-95.91575899999999,41.137633],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 873880809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.69928,40.783315,-96.69928,40.783315",
+    "geom:latitude":40.783315,
+    "geom:longitude":-96.69928,
+    "iso:country":"US",
+    "sg:address":"2915 S 16th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 423 8586",
+    "sg:postcode":"68502",
+    "sg:province":"NE",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878719,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6rmJVfsl747f4VUEcvYk36_40.783315_-96.699280@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299448,
+    "wof:geomhash":"b0a03dea3cae5bba846db937ced028b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878719,
+            "region_id":85688563,
+            "venue_id":873880809
+        }
+    ],
+    "wof:id":873880809,
+    "wof:lastmodified":1464299448,
+    "wof:name":"Southminster United Methodist",
+    "wof:parent_id":85878719,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -96.69928,
+    40.783315,
+    -96.69928,
+    40.783315
+],
+  "geometry": {"coordinates":[-96.69928,40.783315],"type":"Point"}
+}

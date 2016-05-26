@@ -1,0 +1,70 @@
+{
+  "id": 873758473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.006668,41.227054,-96.006668,41.227054",
+    "geom:latitude":41.227054,
+    "geom:longitude":-96.006668,
+    "iso:country":"US",
+    "sg:address":"6018 Grover St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Theater",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 933 0905",
+    "sg:postcode":"68106",
+    "sg:province":"NE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867059,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7UyJR6TmtX1xQiLaa7PQt1_41.227054_-96.006668@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297188,
+    "wof:geomhash":"71661e881306281653969e98eb807d16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85867059,
+            "region_id":85688563,
+            "venue_id":873758473
+        }
+    ],
+    "wof:id":873758473,
+    "wof:lastmodified":1464297188,
+    "wof:name":"Main Street Theatres",
+    "wof:parent_id":85867059,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.006668,
+    41.227054,
+    -96.006668,
+    41.227054
+],
+  "geometry": {"coordinates":[-96.006668,41.227054],"type":"Point"}
+}

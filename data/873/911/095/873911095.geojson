@@ -1,0 +1,67 @@
+{
+  "id": 873911095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.701624,40.740878,-96.701624,40.740878",
+    "geom:latitude":40.740878,
+    "geom:longitude":-96.701624,
+    "iso:country":"US",
+    "sg:address":"6701 S 14th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Library",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 441 4460",
+    "sg:postcode":"68512",
+    "sg:province":"NE",
+    "sg:website":"www.lcl.lib.ne.us",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7kajfMbWmokn9cB6T14pZx_40.740878_-96.701624@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300033,
+    "wof:geomhash":"6afe71dd58617bd3199cbfa3648a497f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878709,
+            "region_id":85688563,
+            "venue_id":873911095
+        }
+    ],
+    "wof:id":873911095,
+    "wof:lastmodified":1464300033,
+    "wof:name":"Bess D Walt Library",
+    "wof:parent_id":85878709,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.701624,
+    40.740878,
+    -96.701624,
+    40.740878
+],
+  "geometry": {"coordinates":[-96.701624,40.740878],"type":"Point"}
+}

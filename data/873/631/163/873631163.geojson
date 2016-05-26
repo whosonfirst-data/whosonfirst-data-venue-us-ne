@@ -1,0 +1,75 @@
+{
+  "id": 873631163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.085322,41.233177,-96.085322,41.233177",
+    "geom:latitude":41.233177,
+    "geom:longitude":-96.085322,
+    "iso:country":"US",
+    "sg:address":"11002 Prairie Brook Rd",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 397 0200",
+    "sg:postcode":"68144",
+    "sg:province":"NE",
+    "sg:tags":[
+        "jeweler"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872531,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5p29zepKUgWQ47fNVcTqpo_41.233177_-96.085322@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295376,
+    "wof:geomhash":"00c3f8b812b80a223826b914e1d41c21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872531,
+            "region_id":85688563,
+            "venue_id":873631163
+        }
+    ],
+    "wof:id":873631163,
+    "wof:lastmodified":1464295376,
+    "wof:name":"Omaha Jewelry Co",
+    "wof:parent_id":85872531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "jeweler"
+    ]
+},
+  "bbox": [
+    -96.085322,
+    41.233177,
+    -96.085322,
+    41.233177
+],
+  "geometry": {"coordinates":[-96.08532200000001,41.233177],"type":"Point"}
+}

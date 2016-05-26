@@ -1,0 +1,79 @@
+{
+  "id": 873754869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-98.339455,40.924975,-98.339455,40.924975",
+    "geom:latitude":40.924975,
+    "geom:longitude":-98.339455,
+    "iso:country":"US",
+    "sg:address":"110 W 2nd St",
+    "sg:city":"Grand Island",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 308 382 8330",
+    "sg:postcode":"68801",
+    "sg:province":"NE",
+    "sg:tags":[
+        "video",
+        "game",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85840711,
+        102191575,
+        404518499,
+        85633793,
+        85973941,
+        102083477,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0v5zEvj4a750NiPgcl2PSL_40.924975_-98.339455@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297143,
+    "wof:geomhash":"968956decdd6cd9b8d7085dcaced913c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083477,
+            "localadmin_id":404518499,
+            "locality_id":85973941,
+            "neighbourhood_id":85840711,
+            "region_id":85688563,
+            "venue_id":873754869
+        }
+    ],
+    "wof:id":873754869,
+    "wof:lastmodified":1464297143,
+    "wof:name":"Grand Island Music Co",
+    "wof:parent_id":85840711,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "video",
+        "game",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -98.339455,
+    40.924975,
+    -98.339455,
+    40.924975
+],
+  "geometry": {"coordinates":[-98.339455,40.924975],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873543035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.893752,41.139676,-95.893752,41.139676",
+    "geom:latitude":41.139676,
+    "geom:longitude":-95.893752,
+    "iso:country":"US",
+    "sg:address":"1908 Franklin St",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 291 1337",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "fraternal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974747,
+        102082777,
+        85820061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3WqC3PZpciow0964ZFk9Js_41.139676_-95.893752@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294291,
+    "wof:geomhash":"a9a11434f7de9d0c2611e67e9c0257cc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974747,
+            "neighbourhood_id":85820061,
+            "region_id":85688563,
+            "venue_id":873543035
+        }
+    ],
+    "wof:id":873543035,
+    "wof:lastmodified":1464294291,
+    "wof:name":"Masonic Lodge",
+    "wof:parent_id":85820061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fraternal"
+    ]
+},
+  "bbox": [
+    -95.893752,
+    41.139676,
+    -95.893752,
+    41.139676
+],
+  "geometry": {"coordinates":[-95.89375200000001,41.139676],"type":"Point"}
+}

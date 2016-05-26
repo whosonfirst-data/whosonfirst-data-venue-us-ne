@@ -1,0 +1,77 @@
+{
+  "id": 873830071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.671365,40.841212,-96.671365,40.841212",
+    "geom:latitude":40.841212,
+    "geom:longitude":-96.671365,
+    "iso:country":"US",
+    "sg:address":"3333 Cleveland Ave",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 466 1122",
+    "sg:postcode":"68504",
+    "sg:province":"NE",
+    "sg:tags":[
+        "machine",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878741,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_44y4IfdUeUnqQsQPsFPPvS_40.841212_-96.671365@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298333,
+    "wof:geomhash":"3e99f3eeac64210b1c2b4c9242755750",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878741,
+            "region_id":85688563,
+            "venue_id":873830071
+        }
+    ],
+    "wof:id":873830071,
+    "wof:lastmodified":1464298333,
+    "wof:name":"IBA Inc",
+    "wof:parent_id":85878741,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "shop"
+    ]
+},
+  "bbox": [
+    -96.671365,
+    40.841212,
+    -96.671365,
+    40.841212
+],
+  "geometry": {"coordinates":[-96.67136499999999,40.841212],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 873882485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.046779,41.333503,-96.046779,41.333503",
+    "geom:latitude":41.333503,
+    "geom:longitude":-96.046779,
+    "iso:country":"US",
+    "sg:address":"8155 State St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 331 1920",
+    "sg:postcode":"68122",
+    "sg:province":"NE",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85872505,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7U1vXxrYT4z6wJRqHLgIyX_41.333503_-96.046779@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299478,
+    "wof:geomhash":"e4f9fce06cc2d87261f7df7cd73e4f6a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":873882485
+        }
+    ],
+    "wof:id":873882485,
+    "wof:lastmodified":1464299478,
+    "wof:name":"Arbys",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -96.046779,
+    41.333503,
+    -96.046779,
+    41.333503
+],
+  "geometry": {"coordinates":[-96.046779,41.333503],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873808201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.771439,40.8138,-96.771439,40.8138",
+    "geom:latitude":40.8138,
+    "geom:longitude":-96.771439,
+    "iso:country":"US",
+    "sg:address":"3700 W O St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 471 4985",
+    "sg:postcode":"68528",
+    "sg:province":"NE",
+    "sg:tags":[
+        "federal",
+        "security"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85813295,
+        102083503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4qgnrPW1xg9yFWupeAMx8V_40.813800_-96.771439@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297895,
+    "wof:geomhash":"e3a00bb945cb224321d2c122f2c04ba3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "neighbourhood_id":85813295,
+            "region_id":85688563,
+            "venue_id":873808201
+        }
+    ],
+    "wof:id":873808201,
+    "wof:lastmodified":1464297895,
+    "wof:name":"US Army Reserve Training Ctr",
+    "wof:parent_id":85813295,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "federal",
+        "security"
+    ]
+},
+  "bbox": [
+    -96.771439,
+    40.8138,
+    -96.771439,
+    40.8138
+],
+  "geometry": {"coordinates":[-96.771439,40.8138],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 873630557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.689844,40.846771,-96.689844,40.846771",
+    "geom:latitude":40.846771,
+    "geom:longitude":-96.689844,
+    "iso:country":"US",
+    "sg:address":"3521 N 22nd St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 476 6463",
+    "sg:postcode":"68521",
+    "sg:province":"NE",
+    "sg:tags":[
+        "electrical",
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878721,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_64U2dcp6VwKZybvqajTIGC_40.846771_-96.689844@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295371,
+    "wof:geomhash":"18cafb92d4469147922ba1e96ace4043",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878721,
+            "region_id":85688563,
+            "venue_id":873630557
+        }
+    ],
+    "wof:id":873630557,
+    "wof:lastmodified":1464295371,
+    "wof:name":"Gregg Electric Company",
+    "wof:parent_id":85878721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.689844,
+    40.846771,
+    -96.689844,
+    40.846771
+],
+  "geometry": {"coordinates":[-96.68984399999999,40.846771],"type":"Point"}
+}

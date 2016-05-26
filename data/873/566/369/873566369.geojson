@@ -1,0 +1,71 @@
+{
+  "id": 873566369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.626458,40.784363,-96.626458,40.784363",
+    "geom:latitude":40.784363,
+    "geom:longitude":-96.626458,
+    "iso:country":"US",
+    "sg:address":"6920 Van Dorn St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 421 1717",
+    "sg:postcode":"68506",
+    "sg:province":"NE",
+    "sg:tags":[
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0KfFsAECHMnaysnZy6HUsp_40.784363_-96.626458@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294570,
+    "wof:geomhash":"efc745ee614d8176fc044748154ba414",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878697,
+            "region_id":85688563,
+            "venue_id":873566369
+        }
+    ],
+    "wof:id":873566369,
+    "wof:lastmodified":1464294570,
+    "wof:name":"Mainelli Wagner & Associates",
+    "wof:parent_id":85878697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineer"
+    ]
+},
+  "bbox": [
+    -96.626458,
+    40.784363,
+    -96.626458,
+    40.784363
+],
+  "geometry": {"coordinates":[-96.626458,40.784363],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 873689505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.125002,41.183692,-96.125002,41.183692",
+    "geom:latitude":41.183692,
+    "geom:longitude":-96.125002,
+    "iso:country":"US",
+    "sg:address":"13595 Chandler St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 861 0114",
+    "sg:postcode":"68138",
+    "sg:province":"NE",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85834285,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7CrSus3XbT6YlOEoR2Skia_41.183692_-96.125002@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296260,
+    "wof:geomhash":"8e79c74c559577072a1a5e298e87c4fe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85834285,
+            "region_id":85688563,
+            "venue_id":873689505
+        }
+    ],
+    "wof:id":873689505,
+    "wof:lastmodified":1464296260,
+    "wof:name":"Judith Beebe Day Care",
+    "wof:parent_id":85834285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -96.125002,
+    41.183692,
+    -96.125002,
+    41.183692
+],
+  "geometry": {"coordinates":[-96.12500199999999,41.183692],"type":"Point"}
+}

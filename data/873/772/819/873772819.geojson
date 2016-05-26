@@ -1,0 +1,69 @@
+{
+  "id": 873772819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.076083,41.310148,-96.076083,41.310148",
+    "geom:latitude":41.310148,
+    "geom:longitude":-96.076083,
+    "iso:country":"US",
+    "sg:address":"5674 N 103rd St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 493 5800",
+    "sg:postcode":"68134",
+    "sg:province":"NE",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85872505,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Kh4TTX5RYzep6vdgA693Z_41.310148_-96.076083@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297399,
+    "wof:geomhash":"65324d7a08f695bf987dfba25db474da",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":873772819
+        }
+    ],
+    "wof:id":873772819,
+    "wof:lastmodified":1464297399,
+    "wof:name":"Great Plains Dental Care PC",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -96.076083,
+    41.310148,
+    -96.076083,
+    41.310148
+],
+  "geometry": {"coordinates":[-96.076083,41.310148],"type":"Point"}
+}

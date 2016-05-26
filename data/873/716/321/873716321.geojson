@@ -1,0 +1,70 @@
+{
+  "id": 873716321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.082202,41.211102,-96.082202,41.211102",
+    "geom:latitude":41.211102,
+    "geom:longitude":-96.082202,
+    "iso:country":"US",
+    "sg:address":"11111 M St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 290 9000",
+    "sg:postcode":"68137",
+    "sg:province":"NE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872531,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3n03L2ZKw3aKLKbFOYEVnO_41.211102_-96.082202@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296598,
+    "wof:geomhash":"21ed280c328b0a7cc83396552d22815c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872531,
+            "region_id":85688563,
+            "venue_id":873716321
+        }
+    ],
+    "wof:id":873716321,
+    "wof:lastmodified":1464296598,
+    "wof:name":"Real Estate Mls",
+    "wof:parent_id":85872531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.082202,
+    41.211102,
+    -96.082202,
+    41.211102
+],
+  "geometry": {"coordinates":[-96.082202,41.211102],"type":"Point"}
+}

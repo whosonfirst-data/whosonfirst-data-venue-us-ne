@@ -1,0 +1,75 @@
+{
+  "id": 873622293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.019431,41.226219,-96.019431,41.226219",
+    "geom:latitude":41.226219,
+    "geom:longitude":-96.019431,
+    "iso:country":"US",
+    "sg:address":"3606 S 69th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 397 1075",
+    "sg:postcode":"68106",
+    "sg:province":"NE",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867059,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Y666HtN28mIAoMuXw1mpN_41.226219_-96.019431@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295274,
+    "wof:geomhash":"9b0e4353c7e4830e6b2e0b5be0780814",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85867059,
+            "region_id":85688563,
+            "venue_id":873622293
+        }
+    ],
+    "wof:id":873622293,
+    "wof:lastmodified":1464295274,
+    "wof:name":"Fox Run Apartments",
+    "wof:parent_id":85867059,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -96.019431,
+    41.226219,
+    -96.019431,
+    41.226219
+],
+  "geometry": {"coordinates":[-96.019431,41.226219],"type":"Point"}
+}

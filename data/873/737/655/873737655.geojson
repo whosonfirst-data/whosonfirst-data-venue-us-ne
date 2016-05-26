@@ -1,0 +1,73 @@
+{
+  "id": 873737655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.912585,41.172302,-95.912585,41.172302",
+    "geom:latitude":41.172302,
+    "geom:longitude":-95.912585,
+    "iso:country":"US",
+    "sg:address":"1507 Chaput Dr",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 734 1711",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85804025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1tFok04rfPrRk14qGM5g4C_41.172302_-95.912585@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296891,
+    "wof:geomhash":"342642c015960c362ea4db312fcdb7d6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85804025,
+            "region_id":85688563,
+            "venue_id":873737655
+        }
+    ],
+    "wof:id":873737655,
+    "wof:lastmodified":1464296891,
+    "wof:name":"S Dw Concrete Inc",
+    "wof:parent_id":85804025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -95.912585,
+    41.172302,
+    -95.912585,
+    41.172302
+],
+  "geometry": {"coordinates":[-95.91258500000001,41.172302],"type":"Point"}
+}

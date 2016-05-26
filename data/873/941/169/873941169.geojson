@@ -1,0 +1,70 @@
+{
+  "id": 873941169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.04018,41.1745,-96.04018,41.1745",
+    "geom:latitude":41.1745,
+    "geom:longitude":-96.04018,
+    "iso:country":"US",
+    "sg:address":"1222 Royal Dr",
+    "sg:city":"Papillion",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 331 0526",
+    "sg:postcode":"68046",
+    "sg:province":"NE",
+    "sg:tags":[
+        "door"
+    ],
+    "sg:website":"www.overheaddoor.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85843697,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1DUdFblwZolKQyBHvi1F3N_41.174500_-96.040180@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300737,
+    "wof:geomhash":"baa5a136ad6d6fc4d0feb74edf4ff061",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85843697,
+            "region_id":85688563,
+            "venue_id":873941169
+        }
+    ],
+    "wof:id":873941169,
+    "wof:lastmodified":1464300737,
+    "wof:name":"Overhead Door",
+    "wof:parent_id":85843697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "door"
+    ]
+},
+  "bbox": [
+    -96.04018,
+    41.1745,
+    -96.04018,
+    41.1745
+],
+  "geometry": {"coordinates":[-96.04018000000001,41.1745],"type":"Point"}
+}

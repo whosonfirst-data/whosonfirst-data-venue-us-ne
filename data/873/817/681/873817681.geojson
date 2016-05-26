@@ -1,0 +1,81 @@
+{
+  "id": 873817681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.684055,40.804356,-96.684055,40.804356",
+    "geom:latitude":40.804356,
+    "geom:longitude":-96.684055,
+    "iso:country":"US",
+    "sg:address":"912 S 26th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 477 6745",
+    "sg:postcode":"68510",
+    "sg:province":"NE",
+    "sg:tags":[
+        "industrial",
+        "commercial",
+        "family",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878727,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Cx0DTluYGpK0orcwhmyUO_40.804356_-96.684055@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298074,
+    "wof:geomhash":"4acc95148452185a891efb6f4accba49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878727,
+            "region_id":85688563,
+            "venue_id":873817681
+        }
+    ],
+    "wof:id":873817681,
+    "wof:lastmodified":1464298074,
+    "wof:name":"Cheever Construction Company",
+    "wof:parent_id":85878727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industrial",
+        "commercial",
+        "family",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.684055,
+    40.804356,
+    -96.684055,
+    40.804356
+],
+  "geometry": {"coordinates":[-96.684055,40.804356],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873787987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.127316,41.161577,-96.127316,41.161577",
+    "geom:latitude":41.161577,
+    "geom:longitude":-96.127316,
+    "iso:country":"US",
+    "sg:address":"13855 Cornhusker Rd",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 896 6475",
+    "sg:postcode":"68138",
+    "sg:province":"NE",
+    "sg:tags":[
+        "warehouse",
+        "self",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85834285,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4C0Uj7oyUu6Ot96bKvb95Z_41.161577_-96.127316@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297614,
+    "wof:geomhash":"e1407ad48a180b96381286942263cb78",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85834285,
+            "region_id":85688563,
+            "venue_id":873787987
+        }
+    ],
+    "wof:id":873787987,
+    "wof:lastmodified":1464297614,
+    "wof:name":"Eagle Logistics Inc",
+    "wof:parent_id":85834285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "warehouse",
+        "self",
+        "storage"
+    ]
+},
+  "bbox": [
+    -96.127316,
+    41.161577,
+    -96.127316,
+    41.161577
+],
+  "geometry": {"coordinates":[-96.12731599999999,41.161577],"type":"Point"}
+}

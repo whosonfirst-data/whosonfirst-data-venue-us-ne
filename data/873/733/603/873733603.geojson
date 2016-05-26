@@ -1,0 +1,66 @@
+{
+  "id": 873733603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.682602,40.741795,-96.682602,40.741795",
+    "geom:latitude":40.741795,
+    "geom:longitude":-96.682602,
+    "iso:country":"US",
+    "sg:address":"6845 S 27th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 420 9400",
+    "sg:postcode":"68512",
+    "sg:province":"NE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Pi45qBZqO6Q2ByG8W7uTc_40.741795_-96.682602@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296822,
+    "wof:geomhash":"4db21f566743ab6c427d28e52a670230",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878733,
+            "region_id":85688563,
+            "venue_id":873733603
+        }
+    ],
+    "wof:id":873733603,
+    "wof:lastmodified":1464296822,
+    "wof:name":"Shopko",
+    "wof:parent_id":85878733,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.682602,
+    40.741795,
+    -96.682602,
+    40.741795
+],
+  "geometry": {"coordinates":[-96.682602,40.741795],"type":"Point"}
+}

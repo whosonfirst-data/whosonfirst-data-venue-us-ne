@@ -1,0 +1,80 @@
+{
+  "id": 873773203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.13359,41.21448,-96.13359,41.21448",
+    "geom:latitude":41.21448,
+    "geom:longitude":-96.13359,
+    "iso:country":"US",
+    "sg:address":"4507 S 140th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 894 1944",
+    "sg:postcode":"68137",
+    "sg:province":"NE",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "sg:website":"www.autobodyconceptsinc.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872531,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4EsgJ3Z4Pao99Ae7tmo8aL_41.214480_-96.133590@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297403,
+    "wof:geomhash":"d68db8a8c47a7abdbfc65677b34f12aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872531,
+            "region_id":85688563,
+            "venue_id":873773203
+        }
+    ],
+    "wof:id":873773203,
+    "wof:lastmodified":1464297403,
+    "wof:name":"Auto Body Concepts Collision",
+    "wof:parent_id":85872531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -96.13359,
+    41.21448,
+    -96.13359,
+    41.21448
+],
+  "geometry": {"coordinates":[-96.13359,41.21448],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873673627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.050224,41.188299,-96.050224,41.188299",
+    "geom:latitude":41.188299,
+    "geom:longitude":-96.050224,
+    "iso:country":"US",
+    "sg:address":"8853 Elm Dr",
+    "sg:city":"La Vista",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 681 2507",
+    "sg:postcode":"68128",
+    "sg:province":"NE",
+    "sg:tags":[
+        "industrial",
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85843697,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_52AKBhbQoRNpfgc2WhjJF3_41.188299_-96.050224@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295837,
+    "wof:geomhash":"324b9b45ec1d30551f77e8ad3fa0f29b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85843697,
+            "region_id":85688563,
+            "venue_id":873673627
+        }
+    ],
+    "wof:id":873673627,
+    "wof:lastmodified":1464295837,
+    "wof:name":"On-Site Forklift Svc Inc",
+    "wof:parent_id":85843697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industrial",
+        "truck"
+    ]
+},
+  "bbox": [
+    -96.050224,
+    41.188299,
+    -96.050224,
+    41.188299
+],
+  "geometry": {"coordinates":[-96.050224,41.188299],"type":"Point"}
+}

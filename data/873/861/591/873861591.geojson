@@ -1,0 +1,69 @@
+{
+  "id": 873861591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.073842,41.306901,-96.073842,41.306901",
+    "geom:latitude":41.306901,
+    "geom:longitude":-96.073842,
+    "iso:country":"US",
+    "sg:address":"5518 N 103rd St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 934 9590",
+    "sg:postcode":"68134",
+    "sg:province":"NE",
+    "sg:tags":[
+        "accountant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85872505,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1L5laGPi6AnsBr8LQvzqJO_41.306901_-96.073842@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299069,
+    "wof:geomhash":"8f65f940d450c1e8df92789161229963",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":873861591
+        }
+    ],
+    "wof:id":873861591,
+    "wof:lastmodified":1464299069,
+    "wof:name":"Accounting Plus Inc",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "accountant"
+    ]
+},
+  "bbox": [
+    -96.073842,
+    41.306901,
+    -96.073842,
+    41.306901
+],
+  "geometry": {"coordinates":[-96.073842,41.306901],"type":"Point"}
+}

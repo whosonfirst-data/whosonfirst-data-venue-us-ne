@@ -1,0 +1,77 @@
+{
+  "id": 873675825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.991544,41.1816,-95.991544,41.1816",
+    "geom:latitude":41.1816,
+    "geom:longitude":-95.991544,
+    "iso:country":"US",
+    "sg:address":"4972 Dumfries Cir",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 533 6817",
+    "sg:postcode":"68157",
+    "sg:province":"NE",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85849923,
+        102191575,
+        404519143,
+        85633793,
+        85974545,
+        102082777,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_39IgUVFkQPNX8uXoRDIJeO_41.181600_-95.991544@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295886,
+    "wof:geomhash":"fe3119d02338ac518831d4c83fd0f71b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082777,
+            "localadmin_id":404519143,
+            "locality_id":85974545,
+            "neighbourhood_id":85849923,
+            "region_id":85688563,
+            "venue_id":873675825
+        }
+    ],
+    "wof:id":873675825,
+    "wof:lastmodified":1464295886,
+    "wof:name":"Mickells Electric",
+    "wof:parent_id":85849923,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -95.991544,
+    41.1816,
+    -95.991544,
+    41.1816
+],
+  "geometry": {"coordinates":[-95.991544,41.1816],"type":"Point"}
+}

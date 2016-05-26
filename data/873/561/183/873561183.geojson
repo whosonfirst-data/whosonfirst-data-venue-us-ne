@@ -1,0 +1,71 @@
+{
+  "id": 873561183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.359337,41.429658,-97.359337,41.429658",
+    "geom:latitude":41.429658,
+    "geom:longitude":-97.359337,
+    "iso:country":"US",
+    "sg:address":"1361 26th Ave",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 563 2236",
+    "sg:postcode":"68601",
+    "sg:province":"NE",
+    "sg:tags":[
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974401,
+        102084277,
+        85854093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0SaZgRC4Cbh64vBcy6zglS_41.429658_-97.359337@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294512,
+    "wof:geomhash":"ac07c18c1ac4c207897ab8930f226af1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084277,
+            "locality_id":85974401,
+            "neighbourhood_id":85854093,
+            "region_id":85688563,
+            "venue_id":873561183
+        }
+    ],
+    "wof:id":873561183,
+    "wof:lastmodified":1464294512,
+    "wof:name":"Snyder Engineering Co",
+    "wof:parent_id":85854093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineer"
+    ]
+},
+  "bbox": [
+    -97.359337,
+    41.429658,
+    -97.359337,
+    41.429658
+],
+  "geometry": {"coordinates":[-97.359337,41.429658],"type":"Point"}
+}

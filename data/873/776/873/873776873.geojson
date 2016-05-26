@@ -1,0 +1,73 @@
+{
+  "id": 873776873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.690802,40.741291,-96.690802,40.741291",
+    "geom:latitude":40.741291,
+    "geom:longitude":-96.690802,
+    "iso:country":"US",
+    "sg:address":"6830 Shadow Ridge Rd",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 420 7777",
+    "sg:postcode":"68512",
+    "sg:province":"NE",
+    "sg:tags":[
+        "oil",
+        "additive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6k0oyYU3szx7tFCrcaRRge_40.741291_-96.690802@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297449,
+    "wof:geomhash":"0686e4084d9a87613f8d6c905122a878",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878733,
+            "region_id":85688563,
+            "venue_id":873776873
+        }
+    ],
+    "wof:id":873776873,
+    "wof:lastmodified":1464297449,
+    "wof:name":"Chem-Tec Corp",
+    "wof:parent_id":85878733,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil",
+        "additive"
+    ]
+},
+  "bbox": [
+    -96.690802,
+    40.741291,
+    -96.690802,
+    40.741291
+],
+  "geometry": {"coordinates":[-96.69080200000001,40.741291],"type":"Point"}
+}

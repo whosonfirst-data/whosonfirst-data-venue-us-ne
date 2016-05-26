@@ -1,0 +1,79 @@
+{
+  "id": 873906749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.947107,41.276507,-95.947107,41.276507",
+    "geom:latitude":41.276507,
+    "geom:longitude":-95.947107,
+    "iso:country":"US",
+    "sg:address":"1802 N 24th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 341 4040",
+    "sg:postcode":"68110",
+    "sg:province":"NE",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872525,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0yPJm2vdMxyNXkVQOdkLkK_41.276507_-95.947107@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299954,
+    "wof:geomhash":"1ff24f6534e4511ec7704d95602f4ee1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872525,
+            "region_id":85688563,
+            "venue_id":873906749
+        }
+    ],
+    "wof:id":873906749,
+    "wof:lastmodified":1464299954,
+    "wof:name":"Crosstown Delivery",
+    "wof:parent_id":85872525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -95.947107,
+    41.276507,
+    -95.947107,
+    41.276507
+],
+  "geometry": {"coordinates":[-95.947107,41.276507],"type":"Point"}
+}

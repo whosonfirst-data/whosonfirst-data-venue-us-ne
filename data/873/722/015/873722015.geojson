@@ -1,0 +1,74 @@
+{
+  "id": 873722015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.624516,40.866954,-96.624516,40.866954",
+    "geom:latitude":40.866954,
+    "geom:longitude":-96.624516,
+    "iso:country":"US",
+    "sg:address":"5440 N 70th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 467 3531",
+    "sg:postcode":"68507",
+    "sg:province":"NE",
+    "sg:tags":[
+        "automobile",
+        "wrecking"
+    ],
+    "sg:website":"www.gmautoparts.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85824241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3eQ8x88FxfSH2TyLcKUI6G_40.866954_-96.624516@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296674,
+    "wof:geomhash":"43656d56370b0175d37dcfdc22d46190",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85824241,
+            "region_id":85688563,
+            "venue_id":873722015
+        }
+    ],
+    "wof:id":873722015,
+    "wof:lastmodified":1464296674,
+    "wof:name":"G M Auto Parts Inc",
+    "wof:parent_id":85824241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "wrecking"
+    ]
+},
+  "bbox": [
+    -96.624516,
+    40.866954,
+    -96.624516,
+    40.866954
+],
+  "geometry": {"coordinates":[-96.624516,40.866954],"type":"Point"}
+}

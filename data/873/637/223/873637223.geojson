@@ -1,0 +1,71 @@
+{
+  "id": 873637223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.967271,41.140921,-95.967271,41.140921",
+    "geom:latitude":41.140921,
+    "geom:longitude":-95.967271,
+    "iso:country":"US",
+    "sg:address":"3605 Summit Plaza Dr",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 292 2999",
+    "sg:postcode":"68123",
+    "sg:province":"NE",
+    "sg:tags":[
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85821583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ZhadGd8aC4SX8aKZ2SPog_41.140921_-95.967271@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295447,
+    "wof:geomhash":"1808bbb47fd402da2122b406ad0fb4f3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85821583,
+            "region_id":85688563,
+            "venue_id":873637223
+        }
+    ],
+    "wof:id":873637223,
+    "wof:lastmodified":1464295447,
+    "wof:name":"Bp Shop",
+    "wof:parent_id":85821583,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil"
+    ]
+},
+  "bbox": [
+    -95.967271,
+    41.140921,
+    -95.967271,
+    41.140921
+],
+  "geometry": {"coordinates":[-95.967271,41.140921],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 873825235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.687244,40.789884,-96.687244,40.789884",
+    "geom:latitude":40.789884,
+    "geom:longitude":-96.687244,
+    "iso:country":"US",
+    "sg:address":"2201 Sewell St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 474 5213",
+    "sg:postcode":"68502",
+    "sg:province":"NE",
+    "sg:tags":[
+        "plumbing",
+        "drain",
+        "cleaning",
+        "sewer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878719,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5PevVJbPZ35tJCfX98ekhk_40.789884_-96.687244@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298236,
+    "wof:geomhash":"9352ff32af8b41e6dd50a07ae1c52161",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878719,
+            "region_id":85688563,
+            "venue_id":873825235
+        }
+    ],
+    "wof:id":873825235,
+    "wof:lastmodified":1464298236,
+    "wof:name":"Taylor's Drain & Sewer Svc",
+    "wof:parent_id":85878719,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "drain",
+        "cleaning",
+        "sewer"
+    ]
+},
+  "bbox": [
+    -96.687244,
+    40.789884,
+    -96.687244,
+    40.789884
+],
+  "geometry": {"coordinates":[-96.68724400000001,40.789884],"type":"Point"}
+}

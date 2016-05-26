@@ -1,0 +1,71 @@
+{
+  "id": 873803955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.790195,40.832458,-96.790195,40.832458",
+    "geom:latitude":40.832458,
+    "geom:longitude":-96.790195,
+    "iso:country":"US",
+    "sg:address":"5020 W Partridge Ln",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 470 3807",
+    "sg:postcode":"68528",
+    "sg:province":"NE",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Smm7Yu2aoo0YTcwcL6ZoY_40.832458_-96.790195@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297822,
+    "wof:geomhash":"05925de476eeffacde2fca99e3049b75",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878717,
+            "region_id":85688563,
+            "venue_id":873803955
+        }
+    ],
+    "wof:id":873803955,
+    "wof:lastmodified":1464297822,
+    "wof:name":"Amys Day Care",
+    "wof:parent_id":85878717,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -96.790195,
+    40.832458,
+    -96.790195,
+    40.832458
+],
+  "geometry": {"coordinates":[-96.790195,40.832458],"type":"Point"}
+}

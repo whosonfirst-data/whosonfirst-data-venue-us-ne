@@ -1,0 +1,79 @@
+{
+  "id": 873717971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.946949,41.280047,-95.946949,41.280047",
+    "geom:latitude":41.280047,
+    "geom:longitude":-95.946949,
+    "iso:country":"US",
+    "sg:address":"2303 N 24th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 342 7110",
+    "sg:postcode":"68110",
+    "sg:province":"NE",
+    "sg:tags":[
+        "automobile",
+        "detail",
+        "clean"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872525,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6rpCbjqIkl06Q2zOAZI9ea_41.280047_-95.946949@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296620,
+    "wof:geomhash":"a6065ee0ae3c5e28ea72c2f2d2161977",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872525,
+            "region_id":85688563,
+            "venue_id":873717971
+        }
+    ],
+    "wof:id":873717971,
+    "wof:lastmodified":1464296620,
+    "wof:name":"Mr Clean Auto Detail",
+    "wof:parent_id":85872525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "detail",
+        "clean"
+    ]
+},
+  "bbox": [
+    -95.946949,
+    41.280047,
+    -95.946949,
+    41.280047
+],
+  "geometry": {"coordinates":[-95.946949,41.280047],"type":"Point"}
+}

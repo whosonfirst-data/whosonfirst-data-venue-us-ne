@@ -1,0 +1,73 @@
+{
+  "id": 873954761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.926929,41.153609,-95.926929,41.153609",
+    "geom:latitude":41.153609,
+    "geom:longitude":-95.926929,
+    "iso:country":"US",
+    "sg:address":"800 Fort Crook Rd S",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 898 2696",
+    "sg:postcode":"68123",
+    "sg:province":"NE",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85821583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_18Qhvf1Jc4LUj7Go78eshD_41.153609_-95.926929@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464301331,
+    "wof:geomhash":"c877bc4efaa63ec8d2c82afdb4be74cc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85821583,
+            "region_id":85688563,
+            "venue_id":873954761
+        }
+    ],
+    "wof:id":873954761,
+    "wof:lastmodified":1464301331,
+    "wof:name":"SDCDMELLC",
+    "wof:parent_id":85821583,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -95.926929,
+    41.153609,
+    -95.926929,
+    41.153609
+],
+  "geometry": {"coordinates":[-95.926929,41.153609],"type":"Point"}
+}

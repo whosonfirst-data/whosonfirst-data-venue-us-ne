@@ -1,0 +1,75 @@
+{
+  "id": 873718673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.611842,40.759798,-96.611842,40.759798",
+    "geom:latitude":40.759798,
+    "geom:longitude":-96.611842,
+    "iso:country":"US",
+    "sg:address":"5272 S 80th Pl",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 486 3979",
+    "sg:postcode":"68516",
+    "sg:province":"NE",
+    "sg:tags":[
+        "welding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878707,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1yg8txIi1R1It2H9v82pWe_40.759798_-96.611842@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296628,
+    "wof:geomhash":"fa64c182fb4f052a89701988acd05548",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878707,
+            "region_id":85688563,
+            "venue_id":873718673
+        }
+    ],
+    "wof:id":873718673,
+    "wof:lastmodified":1464296628,
+    "wof:name":"Advanced Welding & Fabricaton",
+    "wof:parent_id":85878707,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "welding"
+    ]
+},
+  "bbox": [
+    -96.611842,
+    40.759798,
+    -96.611842,
+    40.759798
+],
+  "geometry": {"coordinates":[-96.611842,40.759798],"type":"Point"}
+}

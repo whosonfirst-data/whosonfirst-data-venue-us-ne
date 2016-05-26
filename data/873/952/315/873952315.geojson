@@ -1,0 +1,71 @@
+{
+  "id": 873952315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.610325,40.776557,-96.610325,40.776557",
+    "geom:latitude":40.776557,
+    "geom:longitude":-96.610325,
+    "iso:country":"US",
+    "sg:address":"3116 S 81st St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 441 8960",
+    "sg:postcode":"68506",
+    "sg:province":"NE",
+    "sg:tags":[
+        "concession"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4JvPX1Uaucf59L6MDWepNI_40.776557_-96.610325@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464301233,
+    "wof:geomhash":"34c91b05b5f1cb3f02e84759c803f6b4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878697,
+            "region_id":85688563,
+            "venue_id":873952315
+        }
+    ],
+    "wof:id":873952315,
+    "wof:lastmodified":1464301233,
+    "wof:name":"Holmes Park Golf Course Inc",
+    "wof:parent_id":85878697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concession"
+    ]
+},
+  "bbox": [
+    -96.610325,
+    40.776557,
+    -96.610325,
+    40.776557
+],
+  "geometry": {"coordinates":[-96.610325,40.776557],"type":"Point"}
+}

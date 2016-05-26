@@ -1,0 +1,75 @@
+{
+  "id": 873605359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.893734,41.131291,-95.893734,41.131291",
+    "geom:latitude":41.131291,
+    "geom:longitude":-95.893734,
+    "iso:country":"US",
+    "sg:address":"2521 Franklin St",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 291 6800",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "lawn",
+        "maintenance",
+        "grounds"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974747,
+        102082777,
+        85820061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1l4IPPQ92JUfn5r7FQMVCp_41.131291_-95.893734@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295045,
+    "wof:geomhash":"6599f9d900718816e7c8ec99668b8c6d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974747,
+            "neighbourhood_id":85820061,
+            "region_id":85688563,
+            "venue_id":873605359
+        }
+    ],
+    "wof:id":873605359,
+    "wof:lastmodified":1464295045,
+    "wof:name":"Custom Lawns Of Omaha",
+    "wof:parent_id":85820061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lawn",
+        "maintenance",
+        "grounds"
+    ]
+},
+  "bbox": [
+    -95.893734,
+    41.131291,
+    -95.893734,
+    41.131291
+],
+  "geometry": {"coordinates":[-95.89373399999999,41.131291],"type":"Point"}
+}

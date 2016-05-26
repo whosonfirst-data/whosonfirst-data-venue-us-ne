@@ -1,0 +1,71 @@
+{
+  "id": 873768331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.151593,41.15442,-96.151593,41.15442",
+    "geom:latitude":41.15442,
+    "geom:longitude":-96.151593,
+    "iso:country":"US",
+    "sg:address":"10726 Sapp Brothers Dr",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 896 3221",
+    "sg:postcode":"68138",
+    "sg:province":"NE",
+    "sg:tags":[
+        "automobile",
+        "customizing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85834285,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2qmM9vijxUQe4HMgtSYABa_41.154420_-96.151593@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297342,
+    "wof:geomhash":"acc227d27e83563e1dc81ad3f9b2a97d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85834285,
+            "region_id":85688563,
+            "venue_id":873768331
+        }
+    ],
+    "wof:id":873768331,
+    "wof:lastmodified":1464297342,
+    "wof:name":"Knudsen Automotive Inc",
+    "wof:parent_id":85834285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "customizing"
+    ]
+},
+  "bbox": [
+    -96.151593,
+    41.15442,
+    -96.151593,
+    41.15442
+],
+  "geometry": {"coordinates":[-96.15159300000001,41.15442],"type":"Point"}
+}

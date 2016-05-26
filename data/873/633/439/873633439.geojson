@@ -1,0 +1,78 @@
+{
+  "id": 873633439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.046237,41.161114,-96.046237,41.161114",
+    "geom:latitude":41.161114,
+    "geom:longitude":-96.046237,
+    "iso:country":"US",
+    "sg:address":"546 N Jackson St",
+    "sg:city":"Papillion",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 339 4321",
+    "sg:postcode":"68046",
+    "sg:province":"NE",
+    "sg:tags":[
+        "body",
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85843697,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0W2EaIoapwZ4hI6jelZHTv_41.161114_-96.046237@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295405,
+    "wof:geomhash":"09daca83e4d392f79fc6750c921d89d9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85843697,
+            "region_id":85688563,
+            "venue_id":873633439
+        }
+    ],
+    "wof:id":873633439,
+    "wof:lastmodified":1464295405,
+    "wof:name":"Bentley's Motors",
+    "wof:parent_id":85843697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -96.046237,
+    41.161114,
+    -96.046237,
+    41.161114
+],
+  "geometry": {"coordinates":[-96.046237,41.161114],"type":"Point"}
+}

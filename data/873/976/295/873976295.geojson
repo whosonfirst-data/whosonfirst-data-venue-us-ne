@@ -1,0 +1,72 @@
+{
+  "id": 873976295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.06813,41.316157,-96.06813,41.316157",
+    "geom:latitude":41.316157,
+    "geom:longitude":-96.06813,
+    "iso:country":"US",
+    "sg:address":"6304 N 99th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ne/omaha/129550-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 493 9686",
+    "sg:postcode":"68134",
+    "sg:province":"NE",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85872505,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6fz0dgRiaCczZNW68aXy6s_41.316157_-96.068130@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464302233,
+    "wof:geomhash":"71cc60c06cf97e341466b966a99359d2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":873976295
+        }
+    ],
+    "wof:id":873976295,
+    "wof:lastmodified":1464302233,
+    "wof:name":"Subway",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -96.06813,
+    41.316157,
+    -96.06813,
+    41.316157
+],
+  "geometry": {"coordinates":[-96.06813,41.316157],"type":"Point"}
+}

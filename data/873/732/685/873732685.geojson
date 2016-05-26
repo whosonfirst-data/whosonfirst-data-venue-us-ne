@@ -1,0 +1,77 @@
+{
+  "id": 873732685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.619075,40.754625,-96.619075,40.754625",
+    "geom:latitude":40.754625,
+    "geom:longitude":-96.619075,
+    "iso:country":"US",
+    "sg:address":"5801 Kennelley Ct",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Retail Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 488 2287",
+    "sg:postcode":"68516",
+    "sg:province":"NE",
+    "sg:tags":[
+        "product",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878707,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0id23zSNUHgdP5YogDN677_40.754625_-96.619075@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296811,
+    "wof:geomhash":"2a91faf40d071afab41511af9fe2fef1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878707,
+            "region_id":85688563,
+            "venue_id":873732685
+        }
+    ],
+    "wof:id":873732685,
+    "wof:lastmodified":1464296811,
+    "wof:name":"Bebeez",
+    "wof:parent_id":85878707,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -96.619075,
+    40.754625,
+    -96.619075,
+    40.754625
+],
+  "geometry": {"coordinates":[-96.619075,40.754625],"type":"Point"}
+}

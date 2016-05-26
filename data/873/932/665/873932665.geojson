@@ -1,0 +1,64 @@
+{
+  "id": 873932665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.029274,41.316908,-96.029274,41.316908",
+    "geom:latitude":41.316908,
+    "geom:longitude":-96.029274,
+    "iso:country":"US",
+    "sg:address":"6326 N 75th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 571 6798",
+    "sg:postcode":"68134",
+    "sg:province":"NE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85872505,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ocuLFB99Cd2nGPUfxVuQD_41.316908_-96.029274@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300459,
+    "wof:geomhash":"01180571409d4c420468aeafaa34493b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":873932665
+        }
+    ],
+    "wof:id":873932665,
+    "wof:lastmodified":1464300459,
+    "wof:name":"Jones Repair Service",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.029274,
+    41.316908,
+    -96.029274,
+    41.316908
+],
+  "geometry": {"coordinates":[-96.029274,41.316908],"type":"Point"}
+}

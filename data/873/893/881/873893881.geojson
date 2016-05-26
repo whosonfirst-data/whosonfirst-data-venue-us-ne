@@ -1,0 +1,71 @@
+{
+  "id": 873893881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.359334,41.429343,-97.359334,41.429343",
+    "geom:latitude":41.429343,
+    "geom:longitude":-97.359334,
+    "iso:country":"US",
+    "sg:address":"2506 13th St",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 564 9440",
+    "sg:postcode":"68601",
+    "sg:province":"NE",
+    "sg:tags":[
+        "windows"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974401,
+        102084277,
+        85854093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_341RW7G3oG9rY6wXNTuEHJ_41.429343_-97.359334@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299703,
+    "wof:geomhash":"c3259e2ec791491139348b08fe1153de",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084277,
+            "locality_id":85974401,
+            "neighbourhood_id":85854093,
+            "region_id":85688563,
+            "venue_id":873893881
+        }
+    ],
+    "wof:id":873893881,
+    "wof:lastmodified":1464299703,
+    "wof:name":"Pella Window Store",
+    "wof:parent_id":85854093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "windows"
+    ]
+},
+  "bbox": [
+    -97.359334,
+    41.429343,
+    -97.359334,
+    41.429343
+],
+  "geometry": {"coordinates":[-97.359334,41.429343],"type":"Point"}
+}

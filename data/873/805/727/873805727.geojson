@@ -1,0 +1,71 @@
+{
+  "id": 873805727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.231805,41.14857,-96.231805,41.14857",
+    "geom:latitude":41.14857,
+    "geom:longitude":-96.231805,
+    "iso:country":"US",
+    "sg:address":"20370 Husker Dr",
+    "sg:city":"Gretna",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 332 0218",
+    "sg:postcode":"68028",
+    "sg:province":"NE",
+    "sg:tags":[
+        "home",
+        "builder"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85834285,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3uOcM7V1xFiwiUcVvWPTjE_41.148570_-96.231805@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297848,
+    "wof:geomhash":"56a8eb12d51f83ef9e296e94380bdbe1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85834285,
+            "region_id":85688563,
+            "venue_id":873805727
+        }
+    ],
+    "wof:id":873805727,
+    "wof:lastmodified":1464297848,
+    "wof:name":"Home Builders LLC",
+    "wof:parent_id":85834285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "builder"
+    ]
+},
+  "bbox": [
+    -96.231805,
+    41.14857,
+    -96.231805,
+    41.14857
+],
+  "geometry": {"coordinates":[-96.23180499999999,41.14857],"type":"Point"}
+}

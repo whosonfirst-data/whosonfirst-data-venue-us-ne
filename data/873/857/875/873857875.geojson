@@ -1,0 +1,71 @@
+{
+  "id": 873857875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.025394,41.172722,-96.025394,41.172722",
+    "geom:latitude":41.172722,
+    "geom:longitude":-96.025394,
+    "iso:country":"US",
+    "sg:address":"1002 Roland Dr",
+    "sg:city":"Papillion",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 339 1484",
+    "sg:postcode":"68046",
+    "sg:province":"NE",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85843697,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_28hfs5pI5fgqMMyWogyqPg_41.172722_-96.025394@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298970,
+    "wof:geomhash":"030b8a58a01e9a153a29499120e5754b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85843697,
+            "region_id":85688563,
+            "venue_id":873857875
+        }
+    ],
+    "wof:id":873857875,
+    "wof:lastmodified":1464298970,
+    "wof:name":"Baranko",
+    "wof:parent_id":85843697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.025394,
+    41.172722,
+    -96.025394,
+    41.172722
+],
+  "geometry": {"coordinates":[-96.02539400000001,41.172722],"type":"Point"}
+}

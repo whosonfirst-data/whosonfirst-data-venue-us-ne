@@ -1,0 +1,78 @@
+{
+  "id": 873976897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.631155,40.813735,-96.631155,40.813735",
+    "geom:latitude":40.813735,
+    "geom:longitude":-96.631155,
+    "iso:country":"US",
+    "sg:address":"6540 O St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ne/lincoln/127893-red-lobster/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 466 8397",
+    "sg:postcode":"68510",
+    "sg:province":"NE",
+    "sg:tags":[
+        "seafood",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878703,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7QmMcb7TvQkrPxnD2Ex1jv_40.813735_-96.631155@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464302257,
+    "wof:geomhash":"d9e9dfaa794ccc5538e69a2274f76a9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878703,
+            "region_id":85688563,
+            "venue_id":873976897
+        }
+    ],
+    "wof:id":873976897,
+    "wof:lastmodified":1464302257,
+    "wof:name":"Red Lobster",
+    "wof:parent_id":85878703,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "seafood",
+        "american"
+    ]
+},
+  "bbox": [
+    -96.631155,
+    40.813735,
+    -96.631155,
+    40.813735
+],
+  "geometry": {"coordinates":[-96.63115500000001,40.813735],"type":"Point"}
+}

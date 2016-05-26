@@ -1,0 +1,76 @@
+{
+  "id": 873960781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.143934,41.152047,-96.143934,41.152047",
+    "geom:latitude":41.152047,
+    "geom:longitude":-96.143934,
+    "iso:country":"US",
+    "sg:address":"14708 Custer Rd",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 391 7880",
+    "sg:postcode":"68113",
+    "sg:province":"NE",
+    "sg:tags":[
+        "cleaners",
+        "upholstery",
+        "rug",
+        "carpet"
+    ],
+    "sg:website":"www.stanleysteemer.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85834285,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0RF9hpPpFUua6W88APJ6x4_41.152047_-96.143934@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464301566,
+    "wof:geomhash":"248f11b3d96c11273c391c80f0a705bf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85834285,
+            "region_id":85688563,
+            "venue_id":873960781
+        }
+    ],
+    "wof:id":873960781,
+    "wof:lastmodified":1464301566,
+    "wof:name":"Stanley Steemer Carpet Cleaner",
+    "wof:parent_id":85834285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners",
+        "upholstery",
+        "rug",
+        "carpet"
+    ]
+},
+  "bbox": [
+    -96.143934,
+    41.152047,
+    -96.143934,
+    41.152047
+],
+  "geometry": {"coordinates":[-96.143934,41.152047],"type":"Point"}
+}

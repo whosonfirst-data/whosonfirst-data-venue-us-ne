@@ -1,0 +1,77 @@
+{
+  "id": 873863873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.035387,41.263303,-96.035387,41.263303",
+    "geom:latitude":41.263303,
+    "geom:longitude":-96.035387,
+    "iso:country":"US",
+    "sg:address":"7808 Cass St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 390 9625",
+    "sg:postcode":"68114",
+    "sg:province":"NE",
+    "sg:tags":[
+        "video",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872509,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_30ihY59kGcPrbo59WgPb3p_41.263303_-96.035387@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299112,
+    "wof:geomhash":"a780552ef40ccc37ffb7a35e67ae62c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872509,
+            "region_id":85688563,
+            "venue_id":873863873
+        }
+    ],
+    "wof:id":873863873,
+    "wof:lastmodified":1464299112,
+    "wof:name":"Blockbuster",
+    "wof:parent_id":85872509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "video",
+        "store"
+    ]
+},
+  "bbox": [
+    -96.035387,
+    41.263303,
+    -96.035387,
+    41.263303
+],
+  "geometry": {"coordinates":[-96.035387,41.263303],"type":"Point"}
+}

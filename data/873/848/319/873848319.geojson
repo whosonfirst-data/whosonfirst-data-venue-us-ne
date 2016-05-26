@@ -1,0 +1,78 @@
+{
+  "id": 873848319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.681957,40.86069,-96.681957,40.86069",
+    "geom:latitude":40.86069,
+    "geom:longitude":-96.681957,
+    "iso:country":"US",
+    "sg:address":"4900 N 27th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 438 3540",
+    "sg:postcode":"68521",
+    "sg:province":"NE",
+    "sg:tags":[
+        "club",
+        "wholesale"
+    ],
+    "sg:website":"www.samsclub.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878721,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2C7R4Dt8r1zNfpo8CclHlN_40.860690_-96.681957@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298778,
+    "wof:geomhash":"5c9f9bd8ad70c6a232e417b4c871fbff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878721,
+            "region_id":85688563,
+            "venue_id":873848319
+        }
+    ],
+    "wof:id":873848319,
+    "wof:lastmodified":1464298778,
+    "wof:name":"Sam's Club",
+    "wof:parent_id":85878721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club",
+        "wholesale"
+    ]
+},
+  "bbox": [
+    -96.681957,
+    40.86069,
+    -96.681957,
+    40.86069
+],
+  "geometry": {"coordinates":[-96.681957,40.86069],"type":"Point"}
+}

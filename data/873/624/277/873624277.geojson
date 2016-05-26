@@ -1,0 +1,73 @@
+{
+  "id": 873624277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.673145,40.875279,-96.673145,40.875279",
+    "geom:latitude":40.875279,
+    "geom:longitude":-96.673145,
+    "iso:country":"US",
+    "sg:address":"6545 Cascade Dr",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 890 1859",
+    "sg:postcode":"68504",
+    "sg:province":"NE",
+    "sg:tags":[
+        "instruction",
+        "music"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3rEgMPB86OCytKdBSgEiVI_40.875279_-96.673145@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295302,
+    "wof:geomhash":"8804ee569b2782a408069df46ce2ff19",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878687,
+            "region_id":85688563,
+            "venue_id":873624277
+        }
+    ],
+    "wof:id":873624277,
+    "wof:lastmodified":1464295302,
+    "wof:name":"Dr Brown's Studio",
+    "wof:parent_id":85878687,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "music"
+    ]
+},
+  "bbox": [
+    -96.673145,
+    40.875279,
+    -96.673145,
+    40.875279
+],
+  "geometry": {"coordinates":[-96.67314500000001,40.875279],"type":"Point"}
+}

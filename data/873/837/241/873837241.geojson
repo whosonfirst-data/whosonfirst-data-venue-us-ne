@@ -1,0 +1,72 @@
+{
+  "id": 873837241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.067716,41.305561,-96.067716,41.305561",
+    "geom:latitude":41.305561,
+    "geom:longitude":-96.067716,
+    "iso:country":"US",
+    "sg:address":"5116 Terrace Dr",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 571 2038",
+    "sg:postcode":"68134",
+    "sg:province":"NE",
+    "sg:tags":[
+        "christian",
+        "church"
+    ],
+    "sg:website":"www.fortstreetchristian.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85872505,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2GdDzrp0vmsB3KeRjFQPD1_41.305561_-96.067716@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298490,
+    "wof:geomhash":"30771f31c56903d7413d4a099e0a67ea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":873837241
+        }
+    ],
+    "wof:id":873837241,
+    "wof:lastmodified":1464298490,
+    "wof:name":"Fort Street Christian Church",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "christian",
+        "church"
+    ]
+},
+  "bbox": [
+    -96.067716,
+    41.305561,
+    -96.067716,
+    41.305561
+],
+  "geometry": {"coordinates":[-96.067716,41.305561],"type":"Point"}
+}

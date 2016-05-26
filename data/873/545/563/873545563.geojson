@@ -1,0 +1,66 @@
+{
+  "id": 873545563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.945209,41.158592,-95.945209,41.158592",
+    "geom:latitude":41.158592,
+    "geom:longitude":-95.945209,
+    "iso:country":"US",
+    "sg:address":"2208 Pratt Ave",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 291 9211",
+    "sg:postcode":"68123",
+    "sg:province":"NE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85821583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_71u9OAPV0NLkQjZG1Ba8HR_41.158592_-95.945209@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294322,
+    "wof:geomhash":"8e8a509b5b948b5566fc69294330f265",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85821583,
+            "region_id":85688563,
+            "venue_id":873545563
+        }
+    ],
+    "wof:id":873545563,
+    "wof:lastmodified":1464294322,
+    "wof:name":"Don & Millie's",
+    "wof:parent_id":85821583,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -95.945209,
+    41.158592,
+    -95.945209,
+    41.158592
+],
+  "geometry": {"coordinates":[-95.94520900000001,41.158592],"type":"Point"}
+}

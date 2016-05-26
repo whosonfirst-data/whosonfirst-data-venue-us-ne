@@ -1,0 +1,75 @@
+{
+  "id": 873737749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.710101,40.808163,-96.710101,40.808163",
+    "geom:latitude":40.808163,
+    "geom:longitude":-96.710101,
+    "iso:country":"US",
+    "sg:address":"710 J St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 441 7185",
+    "sg:postcode":"68508",
+    "sg:province":"NE",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878699,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4zUoXBOB0EYzu40OcRn9m2_40.808163_-96.710101@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296892,
+    "wof:geomhash":"0c9b53963ff167fc3e257ed8ad3f6f89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878699,
+            "region_id":85688563,
+            "venue_id":873737749
+        }
+    ],
+    "wof:id":873737749,
+    "wof:lastmodified":1464296892,
+    "wof:name":"Lincoln Startran Office",
+    "wof:parent_id":85878699,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -96.710101,
+    40.808163,
+    -96.710101,
+    40.808163
+],
+  "geometry": {"coordinates":[-96.71010099999999,40.808163],"type":"Point"}
+}

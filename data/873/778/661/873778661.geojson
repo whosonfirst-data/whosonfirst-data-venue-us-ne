@@ -1,0 +1,71 @@
+{
+  "id": 873778661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.133567,41.310192,-96.133567,41.310192",
+    "geom:latitude":41.310192,
+    "geom:longitude":-96.133567,
+    "iso:country":"US",
+    "sg:address":"14067 Hartman Ave",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 991 1422",
+    "sg:postcode":"68164",
+    "sg:province":"NE",
+    "sg:tags":[
+        "cosmetic",
+        "perfume"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85872505,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3mX5rFSJld6RBbS6AzUM8l_41.310192_-96.133567@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297471,
+    "wof:geomhash":"59427f9e4d62161e1b60ed178a089552",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":873778661
+        }
+    ],
+    "wof:id":873778661,
+    "wof:lastmodified":1464297471,
+    "wof:name":"Beauticontrol",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cosmetic",
+        "perfume"
+    ]
+},
+  "bbox": [
+    -96.133567,
+    41.310192,
+    -96.133567,
+    41.310192
+],
+  "geometry": {"coordinates":[-96.133567,41.310192],"type":"Point"}
+}

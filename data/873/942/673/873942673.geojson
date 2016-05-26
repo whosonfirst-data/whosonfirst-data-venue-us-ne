@@ -1,0 +1,75 @@
+{
+  "id": 873942673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.911987,41.144633,-95.911987,41.144633",
+    "geom:latitude":41.144633,
+    "geom:longitude":-95.911987,
+    "iso:country":"US",
+    "sg:address":"1503 Galvin Rd S",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 291 1355",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "loan",
+        "state",
+        "real estate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85804025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2XmaPf4SsDfNdgiuWcNx8j_41.144633_-95.911987@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300791,
+    "wof:geomhash":"ed8c6a6d6f51efd85a818981d5c6ea0a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85804025,
+            "region_id":85688563,
+            "venue_id":873942673
+        }
+    ],
+    "wof:id":873942673,
+    "wof:lastmodified":1464300791,
+    "wof:name":"Commercial State Bank",
+    "wof:parent_id":85804025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan",
+        "state",
+        "real estate"
+    ]
+},
+  "bbox": [
+    -95.911987,
+    41.144633,
+    -95.911987,
+    41.144633
+],
+  "geometry": {"coordinates":[-95.911987,41.144633],"type":"Point"}
+}

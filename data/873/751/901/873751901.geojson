@@ -1,0 +1,71 @@
+{
+  "id": 873751901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.089746,41.302639,-96.089746,41.302639",
+    "geom:latitude":41.302639,
+    "geom:longitude":-96.089746,
+    "iso:country":"US",
+    "sg:address":"11459 Queens Dr",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 491 3908",
+    "sg:postcode":"68164",
+    "sg:province":"NE",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85872505,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5fGlZ3qqbab98MnMcy91HZ_41.302639_-96.089746@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297100,
+    "wof:geomhash":"a53d866d4149c72e39fa0eaa417ff7bf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":873751901
+        }
+    ],
+    "wof:id":873751901,
+    "wof:lastmodified":1464297100,
+    "wof:name":"Martin Plumbing Inc",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.089746,
+    41.302639,
+    -96.089746,
+    41.302639
+],
+  "geometry": {"coordinates":[-96.08974600000001,41.302639],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873903543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.076513,41.301231,-96.076513,41.301231",
+    "geom:latitude":41.301231,
+    "geom:longitude":-96.076513,
+    "iso:country":"US",
+    "sg:address":"10411 Fowler Ave",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 491 0753",
+    "sg:postcode":"68134",
+    "sg:province":"NE",
+    "sg:tags":[
+        "pool",
+        "swimming"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85872505,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4bVKVMDTfykW6TqjWE38ca_41.301231_-96.076513@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299888,
+    "wof:geomhash":"c370ae3e18859d4e6e0a59c646cb19d4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":873903543
+        }
+    ],
+    "wof:id":873903543,
+    "wof:lastmodified":1464299888,
+    "wof:name":"Sunnyslope Pool",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pool",
+        "swimming"
+    ]
+},
+  "bbox": [
+    -96.076513,
+    41.301231,
+    -96.076513,
+    41.301231
+],
+  "geometry": {"coordinates":[-96.07651300000001,41.301231],"type":"Point"}
+}

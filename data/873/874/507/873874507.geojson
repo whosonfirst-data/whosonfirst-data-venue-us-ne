@@ -1,0 +1,79 @@
+{
+  "id": 873874507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.942945,41.323309,-95.942945,41.323309",
+    "geom:latitude":41.323309,
+    "geom:longitude":-95.942945,
+    "iso:country":"US",
+    "sg:address":"2020 Read St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 443 5157",
+    "sg:postcode":"68112",
+    "sg:province":"NE",
+    "sg:tags":[
+        "phase",
+        "full",
+        "remodeling"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85805287,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6iOAVjZtMJMfs0rjh2hTpB_41.323309_-95.942945@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299326,
+    "wof:geomhash":"b21e51404ba22c368be4f7917dbadf4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85805287,
+            "region_id":85688563,
+            "venue_id":873874507
+        }
+    ],
+    "wof:id":873874507,
+    "wof:lastmodified":1464299326,
+    "wof:name":"General Contractor",
+    "wof:parent_id":85805287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "phase",
+        "full",
+        "remodeling"
+    ]
+},
+  "bbox": [
+    -95.942945,
+    41.323309,
+    -95.942945,
+    41.323309
+],
+  "geometry": {"coordinates":[-95.94294499999999,41.323309],"type":"Point"}
+}

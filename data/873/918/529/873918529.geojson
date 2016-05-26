@@ -1,0 +1,81 @@
+{
+  "id": 873918529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.962656,41.245509,-95.962656,41.245509",
+    "geom:latitude":41.245509,
+    "geom:longitude":-95.962656,
+    "iso:country":"US",
+    "sg:address":"1330 Turner Blvd",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 934 1096",
+    "sg:postcode":"68105",
+    "sg:province":"NE",
+    "sg:tags":[
+        "school",
+        "instruction",
+        "music",
+        "educational"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872527,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6mln1fJsTCl3zBw5lE5Nb0_41.245509_-95.962656@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300187,
+    "wof:geomhash":"1ec8db26da0c427c182a0e196a9ef10c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872527,
+            "region_id":85688563,
+            "venue_id":873918529
+        }
+    ],
+    "wof:id":873918529,
+    "wof:lastmodified":1464300187,
+    "wof:name":"Thomas Voice Studio Gal",
+    "wof:parent_id":85872527,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "school",
+        "instruction",
+        "music",
+        "educational"
+    ]
+},
+  "bbox": [
+    -95.962656,
+    41.245509,
+    -95.962656,
+    41.245509
+],
+  "geometry": {"coordinates":[-95.962656,41.245509],"type":"Point"}
+}

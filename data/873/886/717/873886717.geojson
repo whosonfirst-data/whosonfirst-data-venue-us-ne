@@ -1,0 +1,71 @@
+{
+  "id": 873886717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.037138,41.140708,-96.037138,41.140708",
+    "geom:latitude":41.140708,
+    "geom:longitude":-96.037138,
+    "iso:country":"US",
+    "sg:address":"1310 Gold Coast Rd",
+    "sg:city":"Papillion",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 339 9443",
+    "sg:postcode":"68046",
+    "sg:province":"NE",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85843697,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4dkmTYvn3KSUENuEmEEADK_41.140708_-96.037138@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299568,
+    "wof:geomhash":"78981a26685594b173cad9e672423b08",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85843697,
+            "region_id":85688563,
+            "venue_id":873886717
+        }
+    ],
+    "wof:id":873886717,
+    "wof:lastmodified":1464299568,
+    "wof:name":"Gold Coast Auto Svc",
+    "wof:parent_id":85843697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -96.037138,
+    41.140708,
+    -96.037138,
+    41.140708
+],
+  "geometry": {"coordinates":[-96.037138,41.140708],"type":"Point"}
+}

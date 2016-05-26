@@ -1,0 +1,73 @@
+{
+  "id": 873867209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.736421,40.874235,-96.736421,40.874235",
+    "geom:latitude":40.874235,
+    "geom:longitude":-96.736421,
+    "iso:country":"US",
+    "sg:address":"6140 NW 11th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 477 8145",
+    "sg:postcode":"68521",
+    "sg:province":"NE",
+    "sg:tags":[
+        "operator",
+        "tour"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_03YmZ4MCbqwafDbbNLgerN_40.874235_-96.736421@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299176,
+    "wof:geomhash":"464f99ca135aede611335b9ebb9777d3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878717,
+            "region_id":85688563,
+            "venue_id":873867209
+        }
+    ],
+    "wof:id":873867209,
+    "wof:lastmodified":1464299176,
+    "wof:name":"Custom Tour Consultants",
+    "wof:parent_id":85878717,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "tour"
+    ]
+},
+  "bbox": [
+    -96.736421,
+    40.874235,
+    -96.736421,
+    40.874235
+],
+  "geometry": {"coordinates":[-96.73642100000001,40.874235],"type":"Point"}
+}

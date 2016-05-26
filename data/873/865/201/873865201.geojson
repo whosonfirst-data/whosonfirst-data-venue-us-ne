@@ -1,0 +1,74 @@
+{
+  "id": 873865201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.041224,41.142139,-96.041224,41.142139",
+    "geom:latitude":41.142139,
+    "geom:longitude":-96.041224,
+    "iso:country":"US",
+    "sg:address":"1229 Golden Gate Dr",
+    "sg:city":"Papillion",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 592 1042",
+    "sg:postcode":"68046",
+    "sg:province":"NE",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85843697,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2w4fBFOnM2EPuW3ribwLCo_41.142139_-96.041224@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299142,
+    "wof:geomhash":"8b443c71fe00a2b8c8239912e7329a1b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85843697,
+            "region_id":85688563,
+            "venue_id":873865201
+        }
+    ],
+    "wof:id":873865201,
+    "wof:lastmodified":1464299142,
+    "wof:name":"Carriage Hill Barber Shop",
+    "wof:parent_id":85843697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -96.041224,
+    41.142139,
+    -96.041224,
+    41.142139
+],
+  "geometry": {"coordinates":[-96.041224,41.142139],"type":"Point"}
+}

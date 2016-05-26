@@ -1,0 +1,73 @@
+{
+  "id": 873915843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.912801,41.142653,-95.912801,41.142653",
+    "geom:latitude":41.142653,
+    "geom:longitude":-95.912801,
+    "iso:country":"US",
+    "sg:address":"1500 Wall St",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 291 2233",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "consultant",
+        "designer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85821583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7M2suAjvjMYcpfDxnYRCdZ_41.142653_-95.912801@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300138,
+    "wof:geomhash":"6bacb7223050fea0c849565b4741cc5c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85821583,
+            "region_id":85688563,
+            "venue_id":873915843
+        }
+    ],
+    "wof:id":873915843,
+    "wof:lastmodified":1464300138,
+    "wof:name":"Science Applications Intl Corp",
+    "wof:parent_id":85821583,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "designer"
+    ]
+},
+  "bbox": [
+    -95.912801,
+    41.142653,
+    -95.912801,
+    41.142653
+],
+  "geometry": {"coordinates":[-95.912801,41.142653],"type":"Point"}
+}

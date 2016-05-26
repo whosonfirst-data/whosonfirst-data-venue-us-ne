@@ -1,0 +1,70 @@
+{
+  "id": 873818681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.682222,40.821753,-96.682222,40.821753",
+    "geom:latitude":40.821753,
+    "geom:longitude":-96.682222,
+    "iso:country":"US",
+    "sg:address":"800 N 27th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 476 3341",
+    "sg:postcode":"68503",
+    "sg:province":"NE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878723,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_688Wb9T8QJ67zQObsUJkyr_40.821753_-96.682222@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298091,
+    "wof:geomhash":"6949031e6ce797bc58a59eef81afaeff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878723,
+            "region_id":85688563,
+            "venue_id":873818681
+        }
+    ],
+    "wof:id":873818681,
+    "wof:lastmodified":1464298091,
+    "wof:name":"Wagey Drug",
+    "wof:parent_id":85878723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.682222,
+    40.821753,
+    -96.682222,
+    40.821753
+],
+  "geometry": {"coordinates":[-96.682222,40.821753],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873789051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.951978,41.119856,-95.951978,41.119856",
+    "geom:latitude":41.119856,
+    "geom:longitude":-95.951978,
+    "iso:country":"US",
+    "sg:address":"12701 S 28th Ave",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 291 2446",
+    "sg:postcode":"68123",
+    "sg:province":"NE",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974747,
+        102082777,
+        85820061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4z6daziO7u7TP0dD5uPMI9_41.119856_-95.951978@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297629,
+    "wof:geomhash":"16f3e49a25f53d678d96b94b06fdfb60",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974747,
+            "neighbourhood_id":85820061,
+            "region_id":85688563,
+            "venue_id":873789051
+        }
+    ],
+    "wof:id":873789051,
+    "wof:lastmodified":1464297629,
+    "wof:name":"Phillips 66 20819",
+    "wof:parent_id":85820061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -95.951978,
+    41.119856,
+    -95.951978,
+    41.119856
+],
+  "geometry": {"coordinates":[-95.951978,41.119856],"type":"Point"}
+}

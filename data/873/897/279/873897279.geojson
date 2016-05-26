@@ -1,0 +1,71 @@
+{
+  "id": 873897279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.046819,41.151609,-96.046819,41.151609",
+    "geom:latitude":41.151609,
+    "geom:longitude":-96.046819,
+    "iso:country":"US",
+    "sg:address":"503 S Madison St",
+    "sg:city":"Papillion",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 639 2506",
+    "sg:postcode":"68046",
+    "sg:province":"NE",
+    "sg:tags":[
+        "investment",
+        "closed"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85843697,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5dXG9PW7fFqYMuyZVj22i6_41.151609_-96.046819@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299770,
+    "wof:geomhash":"5f5d1abf30aa49af09581762253c3678",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85843697,
+            "region_id":85688563,
+            "venue_id":873897279
+        }
+    ],
+    "wof:id":873897279,
+    "wof:lastmodified":1464299770,
+    "wof:name":"Panko & Pfahl LLC",
+    "wof:parent_id":85843697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "investment",
+        "closed"
+    ]
+},
+  "bbox": [
+    -96.046819,
+    41.151609,
+    -96.046819,
+    41.151609
+],
+  "geometry": {"coordinates":[-96.046819,41.151609],"type":"Point"}
+}

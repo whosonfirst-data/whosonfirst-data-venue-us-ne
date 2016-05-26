@@ -1,0 +1,81 @@
+{
+  "id": 873978223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.682473,40.880729,-96.682473,40.880729",
+    "geom:latitude":40.880729,
+    "geom:longitude":-96.682473,
+    "iso:country":"US",
+    "sg:address":"6835 N 27th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ne/lincoln/243370-baskin-robbins/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 742 7417",
+    "sg:postcode":"68521",
+    "sg:province":"NE",
+    "sg:tags":[
+        "american",
+        "ice",
+        "cream"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2tnfNsxApKSk26vM5ysCAZ_40.880254_-96.682058@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464302304,
+    "wof:geomhash":"e90021066b0e217116184359b84f9b87",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878687,
+            "region_id":85688563,
+            "venue_id":873978223
+        }
+    ],
+    "wof:id":873978223,
+    "wof:lastmodified":1464302304,
+    "wof:name":"Baskin-Robbins",
+    "wof:parent_id":85878687,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "ice",
+        "cream"
+    ]
+},
+  "bbox": [
+    -96.682473,
+    40.880729,
+    -96.682473,
+    40.880729
+],
+  "geometry": {"coordinates":[-96.682473,40.880729],"type":"Point"}
+}

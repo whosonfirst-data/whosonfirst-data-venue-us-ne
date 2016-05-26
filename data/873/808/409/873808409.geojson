@@ -1,0 +1,70 @@
+{
+  "id": 873808409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.122237,41.292251,-96.122237,41.292251",
+    "geom:latitude":41.292251,
+    "geom:longitude":-96.122237,
+    "iso:country":"US",
+    "sg:address":"13330 W Maple Rd",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 431 0655",
+    "sg:postcode":"68164",
+    "sg:province":"NE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872503,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7LtVpAg3cIfyKDpd1cJEfM_41.292251_-96.122237@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297898,
+    "wof:geomhash":"61a7e832de7d3f076dbd9d5a40c41ff7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872503,
+            "region_id":85688563,
+            "venue_id":873808409
+        }
+    ],
+    "wof:id":873808409,
+    "wof:lastmodified":1464297898,
+    "wof:name":"Walgreens",
+    "wof:parent_id":85872503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.122237,
+    41.292251,
+    -96.122237,
+    41.292251
+],
+  "geometry": {"coordinates":[-96.122237,41.292251],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873663823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.634427,40.850719,-96.634427,40.850719",
+    "geom:latitude":40.850719,
+    "geom:longitude":-96.634427,
+    "iso:country":"US",
+    "sg:address":"3700 N 63rd St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 770 7415",
+    "sg:postcode":"68507",
+    "sg:province":"NE",
+    "sg:tags":[
+        "home",
+        "improvement"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85824241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7SRNzhdHiRNahZiF1Z8t5w_40.850719_-96.634427@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295739,
+    "wof:geomhash":"e6926621795a3585bd544bdec0be2bb6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85824241,
+            "region_id":85688563,
+            "venue_id":873663823
+        }
+    ],
+    "wof:id":873663823,
+    "wof:lastmodified":1464295739,
+    "wof:name":"Custom Service",
+    "wof:parent_id":85824241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "improvement"
+    ]
+},
+  "bbox": [
+    -96.634427,
+    40.850719,
+    -96.634427,
+    40.850719
+],
+  "geometry": {"coordinates":[-96.634427,40.850719],"type":"Point"}
+}

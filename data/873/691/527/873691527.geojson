@@ -1,0 +1,77 @@
+{
+  "id": 873691527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.95466,41.257924,-95.95466,41.257924",
+    "geom:latitude":41.257924,
+    "geom:longitude":-95.95466,
+    "iso:country":"US",
+    "sg:address":"222 S 29th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 345 6555",
+    "sg:postcode":"68131",
+    "sg:province":"NE",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872525,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_64G0pOvU0ooLOjVLDM6aFM_41.257924_-95.954660@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296310,
+    "wof:geomhash":"5448218a70720a64b07dae1b7cbe101b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872525,
+            "region_id":85688563,
+            "venue_id":873691527
+        }
+    ],
+    "wof:id":873691527,
+    "wof:lastmodified":1464296310,
+    "wof:name":"YWCA",
+    "wof:parent_id":85872525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -95.95466,
+    41.257924,
+    -95.95466,
+    41.257924
+],
+  "geometry": {"coordinates":[-95.95466,41.257924],"type":"Point"}
+}

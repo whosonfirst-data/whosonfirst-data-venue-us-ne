@@ -1,0 +1,75 @@
+{
+  "id": 873947131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.12188,41.282936,-96.12188,41.282936",
+    "geom:latitude":41.282936,
+    "geom:longitude":-96.12188,
+    "iso:country":"US",
+    "sg:address":"13312 Lake St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 573 1973",
+    "sg:postcode":"68164",
+    "sg:province":"NE",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872503,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7BkOcX8GBrwJTZpt5vLQiJ_41.282936_-96.121880@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464301013,
+    "wof:geomhash":"d368c8201bf4a104d68d7d37396e01dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872503,
+            "region_id":85688563,
+            "venue_id":873947131
+        }
+    ],
+    "wof:id":873947131,
+    "wof:lastmodified":1464301013,
+    "wof:name":"House Doctor Inc",
+    "wof:parent_id":85872503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -96.12188,
+    41.282936,
+    -96.12188,
+    41.282936
+],
+  "geometry": {"coordinates":[-96.12188,41.282936],"type":"Point"}
+}

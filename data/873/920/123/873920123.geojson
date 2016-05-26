@@ -1,0 +1,75 @@
+{
+  "id": 873920123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.692561,40.826225,-96.692561,40.826225",
+    "geom:latitude":40.826225,
+    "geom:longitude":-96.692561,
+    "iso:country":"US",
+    "sg:address":"1937 Dudley St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 434 1776",
+    "sg:postcode":"68503",
+    "sg:province":"NE",
+    "sg:tags":[
+        "barricade"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878723,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Mv9rVI3MGZQepp1H4oFyd_40.826225_-96.692561@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300213,
+    "wof:geomhash":"eaecd2575da1f4049e30142c27d4cba2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878723,
+            "region_id":85688563,
+            "venue_id":873920123
+        }
+    ],
+    "wof:id":873920123,
+    "wof:lastmodified":1464300213,
+    "wof:name":"Trafcon Inc",
+    "wof:parent_id":85878723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "barricade"
+    ]
+},
+  "bbox": [
+    -96.692561,
+    40.826225,
+    -96.692561,
+    40.826225
+],
+  "geometry": {"coordinates":[-96.692561,40.826225],"type":"Point"}
+}

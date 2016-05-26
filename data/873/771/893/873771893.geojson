@@ -1,0 +1,71 @@
+{
+  "id": 873771893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.917959,41.152425,-95.917959,41.152425",
+    "geom:latitude":41.152425,
+    "geom:longitude":-95.917959,
+    "iso:country":"US",
+    "sg:address":"923 Galvin Rd S",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Self-service Laundry",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 291 0316",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "coin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85821583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Q6IMWTL0fXkOQI6FQ9Cgx_41.152425_-95.917959@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297388,
+    "wof:geomhash":"5acc3255fc03165f89f00809a5c15cab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85821583,
+            "region_id":85688563,
+            "venue_id":873771893
+        }
+    ],
+    "wof:id":873771893,
+    "wof:lastmodified":1464297388,
+    "wof:name":"Laundry World",
+    "wof:parent_id":85821583,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "coin"
+    ]
+},
+  "bbox": [
+    -95.917959,
+    41.152425,
+    -95.917959,
+    41.152425
+],
+  "geometry": {"coordinates":[-95.917959,41.152425],"type":"Point"}
+}

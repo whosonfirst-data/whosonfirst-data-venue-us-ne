@@ -1,0 +1,71 @@
+{
+  "id": 873954217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.09086,41.127307,-96.09086,41.127307",
+    "geom:latitude":41.127307,
+    "geom:longitude":-96.09086,
+    "iso:country":"US",
+    "sg:address":"12102 S 114th St",
+    "sg:city":"Papillion",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 339 8468",
+    "sg:postcode":"68046",
+    "sg:province":"NE",
+    "sg:tags":[
+        "property",
+        "lessor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85843697,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0dWEnLZ11pTiQ486LLTvWe_41.127307_-96.090860@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464301312,
+    "wof:geomhash":"c42ccde86ea181e8c842c196f552102e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85843697,
+            "region_id":85688563,
+            "venue_id":873954217
+        }
+    ],
+    "wof:id":873954217,
+    "wof:lastmodified":1464301312,
+    "wof:name":"Lorraine Haug",
+    "wof:parent_id":85843697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "property",
+        "lessor"
+    ]
+},
+  "bbox": [
+    -96.09086,
+    41.127307,
+    -96.09086,
+    41.127307
+],
+  "geometry": {"coordinates":[-96.09086000000001,41.127307],"type":"Point"}
+}

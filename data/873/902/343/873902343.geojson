@@ -1,0 +1,73 @@
+{
+  "id": 873902343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.892418,41.128696,-95.892418,41.128696",
+    "geom:latitude":41.128696,
+    "geom:longitude":-95.892418,
+    "iso:country":"US",
+    "sg:address":"2902 Hancock St",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Developer",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 291 7602",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "mobile",
+        "home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974747,
+        102082777,
+        85820061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_68OQOEW5YUNdTXyajTrK80_41.128696_-95.892418@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299862,
+    "wof:geomhash":"60b63ff8035b30f676bb69e46c8de6b3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974747,
+            "neighbourhood_id":85820061,
+            "region_id":85688563,
+            "venue_id":873902343
+        }
+    ],
+    "wof:id":873902343,
+    "wof:lastmodified":1464299862,
+    "wof:name":"Green Acres",
+    "wof:parent_id":85820061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mobile",
+        "home"
+    ]
+},
+  "bbox": [
+    -95.892418,
+    41.128696,
+    -95.892418,
+    41.128696
+],
+  "geometry": {"coordinates":[-95.89241800000001,41.128696],"type":"Point"}
+}

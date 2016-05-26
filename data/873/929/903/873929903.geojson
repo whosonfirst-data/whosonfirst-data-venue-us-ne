@@ -1,0 +1,71 @@
+{
+  "id": 873929903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.929957,41.16275,-95.929957,41.16275",
+    "geom:latitude":41.16275,
+    "geom:longitude":-95.929957,
+    "iso:country":"US",
+    "sg:address":"9710 S 9th Ave",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 291 3840",
+    "sg:postcode":"68123",
+    "sg:province":"NE",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85804025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6imdLlYIGPLA5DC1ff4xLH_41.162750_-95.929957@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300408,
+    "wof:geomhash":"188866b626ae43f6fa12ed2653137dc2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85804025,
+            "region_id":85688563,
+            "venue_id":873929903
+        }
+    ],
+    "wof:id":873929903,
+    "wof:lastmodified":1464300408,
+    "wof:name":"Sean M Keating",
+    "wof:parent_id":85804025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -95.929957,
+    41.16275,
+    -95.929957,
+    41.16275
+],
+  "geometry": {"coordinates":[-95.929957,41.16275],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 873865729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.723389,40.868144,-96.723389,40.868144",
+    "geom:latitude":40.868144,
+    "geom:longitude":-96.723389,
+    "iso:country":"US",
+    "sg:address":"120 W Harvest Dr",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 479 2141",
+    "sg:postcode":"68521",
+    "sg:province":"NE",
+    "sg:tags":[
+        "publisher"
+    ],
+    "sg:website":"www.processor.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Ap3LY0jVTDygztf8eLwHb_40.868144_-96.723389@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299151,
+    "wof:geomhash":"8eb406257ade96d943ba6729c6dca953",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878717,
+            "region_id":85688563,
+            "venue_id":873865729
+        }
+    ],
+    "wof:id":873865729,
+    "wof:lastmodified":1464299151,
+    "wof:name":"Processor",
+    "wof:parent_id":85878717,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "publisher"
+    ]
+},
+  "bbox": [
+    -96.723389,
+    40.868144,
+    -96.723389,
+    40.868144
+],
+  "geometry": {"coordinates":[-96.723389,40.868144],"type":"Point"}
+}

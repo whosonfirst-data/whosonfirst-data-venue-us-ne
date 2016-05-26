@@ -1,0 +1,80 @@
+{
+  "id": 873761889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.69464,40.743859,-96.69464,40.743859",
+    "geom:latitude":40.743859,
+    "geom:longitude":-96.69464,
+    "iso:country":"US",
+    "sg:address":"1955 Southern Light Dr",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Theater",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 423 5939",
+    "sg:postcode":"68512",
+    "sg:province":"NE",
+    "sg:tags":[
+        "group",
+        "garbage",
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1fspBHlNhgLoWHRipshskZ_40.743859_-96.694640@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297235,
+    "wof:geomhash":"a450de7b98ac5e6315788a13c0a46ddf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878709,
+            "region_id":85688563,
+            "venue_id":873761889
+        }
+    ],
+    "wof:id":873761889,
+    "wof:lastmodified":1464297235,
+    "wof:name":"Jacob Wyant Refuse Service",
+    "wof:parent_id":85878709,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "group",
+        "garbage",
+        "collection"
+    ]
+},
+  "bbox": [
+    -96.69464,
+    40.743859,
+    -96.69464,
+    40.743859
+],
+  "geometry": {"coordinates":[-96.69464000000001,40.743859],"type":"Point"}
+}

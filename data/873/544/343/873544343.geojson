@@ -1,0 +1,77 @@
+{
+  "id": 873544343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.000592,41.237978,-96.000592,41.237978",
+    "geom:latitude":41.237978,
+    "geom:longitude":-96.000592,
+    "iso:country":"US",
+    "sg:address":"5642 Center St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 553 9974",
+    "sg:postcode":"68106",
+    "sg:province":"NE",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872513,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6XnT9CL88XHBTWj4kTaP2F_41.237978_-96.000592@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294310,
+    "wof:geomhash":"3f4074793eb820d70c48ed7f486776e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872513,
+            "region_id":85688563,
+            "venue_id":873544343
+        }
+    ],
+    "wof:id":873544343,
+    "wof:lastmodified":1464294310,
+    "wof:name":"Jed Lo Oil Co",
+    "wof:parent_id":85872513,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -96.000592,
+    41.237978,
+    -96.000592,
+    41.237978
+],
+  "geometry": {"coordinates":[-96.000592,41.237978],"type":"Point"}
+}

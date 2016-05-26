@@ -1,0 +1,75 @@
+{
+  "id": 873962657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.739311,40.81388,-96.739311,40.81388",
+    "geom:latitude":40.81388,
+    "geom:longitude":-96.739311,
+    "iso:country":"US",
+    "sg:address":"930 W O St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 742 4448",
+    "sg:postcode":"68528",
+    "sg:province":"NE",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878689,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_61fzyvAGfCGFOashbA7fbi_40.813880_-96.739311@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464301679,
+    "wof:geomhash":"c2a50e6a30e51c417b9eade904a33ce5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878689,
+            "region_id":85688563,
+            "venue_id":873962657
+        }
+    ],
+    "wof:id":873962657,
+    "wof:lastmodified":1464301679,
+    "wof:name":"Nebraska Rents",
+    "wof:parent_id":85878689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.739311,
+    40.81388,
+    -96.739311,
+    40.81388
+],
+  "geometry": {"coordinates":[-96.739311,40.81388],"type":"Point"}
+}

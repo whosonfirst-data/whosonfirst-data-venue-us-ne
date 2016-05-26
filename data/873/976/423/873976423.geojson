@@ -1,0 +1,88 @@
+{
+  "id": 873976423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.108843,41.233455,-96.108843,41.233455",
+    "geom:latitude":41.233455,
+    "geom:longitude":-96.108843,
+    "iso:country":"US",
+    "sg:address":"12423 W Center Rd",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ne/omaha/96710-ihop/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 333 3533",
+    "sg:postcode":"68144",
+    "sg:province":"NE",
+    "sg:tags":[
+        "sandwich",
+        "salad",
+        "burger",
+        "soup",
+        "american",
+        "steakhouse",
+        "wrap"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872531,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Yg9nMJZGK98W3Gq4XGhbh_41.233455_-96.108843@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464302237,
+    "wof:geomhash":"f39f082c58200b5a6a6fa8b324a5f0fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872531,
+            "region_id":85688563,
+            "venue_id":873976423
+        }
+    ],
+    "wof:id":873976423,
+    "wof:lastmodified":1464302237,
+    "wof:name":"IHOP",
+    "wof:parent_id":85872531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandwich",
+        "salad",
+        "burger",
+        "soup",
+        "american",
+        "steakhouse",
+        "wrap"
+    ]
+},
+  "bbox": [
+    -96.108843,
+    41.233455,
+    -96.108843,
+    41.233455
+],
+  "geometry": {"coordinates":[-96.10884299999999,41.233455],"type":"Point"}
+}

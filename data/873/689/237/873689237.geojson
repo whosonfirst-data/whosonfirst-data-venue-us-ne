@@ -1,0 +1,76 @@
+{
+  "id": 873689237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.98667,41.187122,-95.98667,41.187122",
+    "geom:latitude":41.187122,
+    "geom:longitude":-95.98667,
+    "iso:country":"US",
+    "sg:address":"7310 S 48th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 734 5011",
+    "sg:postcode":"68157",
+    "sg:province":"NE",
+    "sg:tags":[
+        "elementary"
+    ],
+    "sg:website":"www.ops.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85849923,
+        102191575,
+        404519143,
+        85633793,
+        85974545,
+        102082777,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0bPbTQfIrdz2n25eYRBsf5_41.187122_-95.986670@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296254,
+    "wof:geomhash":"dcf5c1b157570a60b1a6e9168c2a6f47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082777,
+            "localadmin_id":404519143,
+            "locality_id":85974545,
+            "neighbourhood_id":85849923,
+            "region_id":85688563,
+            "venue_id":873689237
+        }
+    ],
+    "wof:id":873689237,
+    "wof:lastmodified":1464296254,
+    "wof:name":"Pawnee Elementary School",
+    "wof:parent_id":85849923,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary"
+    ]
+},
+  "bbox": [
+    -95.98667,
+    41.187122,
+    -95.98667,
+    41.187122
+],
+  "geometry": {"coordinates":[-95.98667,41.187122],"type":"Point"}
+}

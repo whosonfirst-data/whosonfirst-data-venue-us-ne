@@ -1,0 +1,75 @@
+{
+  "id": 873703365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.947804,41.184044,-95.947804,41.184044",
+    "geom:latitude":41.184044,
+    "geom:longitude":-95.947804,
+    "iso:country":"US",
+    "sg:address":"7501 S 25th St",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 733 9184",
+    "sg:postcode":"68147",
+    "sg:province":"NE",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85849923,
+        102191575,
+        404519143,
+        85633793,
+        85974545,
+        102082777,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_30bPLfDnzxG6TMD3w4J8jA_41.184044_-95.947804@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296439,
+    "wof:geomhash":"34b6699753fa77d5764cd7ea9138e5dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082777,
+            "localadmin_id":404519143,
+            "locality_id":85974545,
+            "neighbourhood_id":85849923,
+            "region_id":85688563,
+            "venue_id":873703365
+        }
+    ],
+    "wof:id":873703365,
+    "wof:lastmodified":1464296439,
+    "wof:name":"South Roads Apartments",
+    "wof:parent_id":85849923,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -95.947804,
+    41.184044,
+    -95.947804,
+    41.184044
+],
+  "geometry": {"coordinates":[-95.947804,41.184044],"type":"Point"}
+}

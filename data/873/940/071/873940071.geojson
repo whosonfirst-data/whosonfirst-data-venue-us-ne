@@ -1,0 +1,74 @@
+{
+  "id": 873940071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.032657,41.350245,-96.032657,41.350245",
+    "geom:latitude":41.350245,
+    "geom:longitude":-96.032657,
+    "iso:country":"US",
+    "sg:address":"7880 Rainwood Rd",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Glass & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 572 5399",
+    "sg:postcode":"68122",
+    "sg:province":"NE",
+    "sg:tags":[
+        "refractory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85872505,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_73T8CulZW8q3065Q7gupCH_41.350245_-96.032657@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300697,
+    "wof:geomhash":"f50c88f976106f1347e737751017116f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":873940071
+        }
+    ],
+    "wof:id":873940071,
+    "wof:lastmodified":1464300697,
+    "wof:name":"Team Industrial Services Inc",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "refractory"
+    ]
+},
+  "bbox": [
+    -96.032657,
+    41.350245,
+    -96.032657,
+    41.350245
+],
+  "geometry": {"coordinates":[-96.032657,41.350245],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 873617375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.041472,41.139171,-96.041472,41.139171",
+    "geom:latitude":41.139171,
+    "geom:longitude":-96.041472,
+    "iso:country":"US",
+    "sg:address":"701 Olson Dr",
+    "sg:city":"Papillion",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 592 0077",
+    "sg:postcode":"68046",
+    "sg:province":"NE",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "sg:website":"www.nebraskaheart.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85843697,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6YgCNJ2X2yY002IpaTeOlF_41.139171_-96.041472@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295219,
+    "wof:geomhash":"74d108e4db8032a970f7033d733d3d0f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85843697,
+            "region_id":85688563,
+            "venue_id":873617375
+        }
+    ],
+    "wof:id":873617375,
+    "wof:lastmodified":1464295219,
+    "wof:name":"Nebraska Heart Institute PC",
+    "wof:parent_id":85843697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -96.041472,
+    41.139171,
+    -96.041472,
+    41.139171
+],
+  "geometry": {"coordinates":[-96.041472,41.139171],"type":"Point"}
+}

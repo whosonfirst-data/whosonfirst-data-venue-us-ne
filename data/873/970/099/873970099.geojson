@@ -1,0 +1,76 @@
+{
+  "id": 873970099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.910404,41.141185,-95.910404,41.141185",
+    "geom:latitude":41.141185,
+    "geom:longitude":-95.910404,
+    "iso:country":"US",
+    "sg:address":"1309 Harlan Dr",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 291 6789",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "mental",
+        "psychiatric",
+        "facility"
+    ],
+    "sg:website":"http://www.tenenthealth.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974747,
+        102082777,
+        85820061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Ymgmbj5mdUvCe7KFLaSXl_41.141128_-95.910465@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464301986,
+    "wof:geomhash":"48689d6e4a9d989019aac4ae9da37e52",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974747,
+            "neighbourhood_id":85820061,
+            "region_id":85688563,
+            "venue_id":873970099
+        }
+    ],
+    "wof:id":873970099,
+    "wof:lastmodified":1464301986,
+    "wof:name":"Tenet",
+    "wof:parent_id":85820061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mental",
+        "psychiatric",
+        "facility"
+    ]
+},
+  "bbox": [
+    -95.910404,
+    41.141185,
+    -95.910404,
+    41.141185
+],
+  "geometry": {"coordinates":[-95.910404,41.141185],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873795799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.609945,40.87105,-96.609945,40.87105",
+    "geom:latitude":40.87105,
+    "geom:longitude":-96.609945,
+    "iso:country":"US",
+    "sg:address":"7845 Fletcher Ave",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 467 3634",
+    "sg:postcode":"68507",
+    "sg:province":"NE",
+    "sg:tags":[
+        "product",
+        "asphalt"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85824241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0qoGJoG4PtbLzsIdf2ewax_40.871050_-96.609945@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297724,
+    "wof:geomhash":"e9bccf66296d7674670db9df159ae45b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85824241,
+            "region_id":85688563,
+            "venue_id":873795799
+        }
+    ],
+    "wof:id":873795799,
+    "wof:lastmodified":1464297724,
+    "wof:name":"Dobson Brothers Construction",
+    "wof:parent_id":85824241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "asphalt"
+    ]
+},
+  "bbox": [
+    -96.609945,
+    40.87105,
+    -96.609945,
+    40.87105
+],
+  "geometry": {"coordinates":[-96.609945,40.87105],"type":"Point"}
+}

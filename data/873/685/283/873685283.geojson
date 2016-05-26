@@ -1,0 +1,71 @@
+{
+  "id": 873685283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.641274,40.814109,-96.641274,40.814109",
+    "geom:latitude":40.814109,
+    "geom:longitude":-96.641274,
+    "iso:country":"US",
+    "sg:address":"5 Gateway Mall",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 466 6121",
+    "sg:postcode":"68505",
+    "sg:province":"NE",
+    "sg:website":"www.charlotte-russe.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878703,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_48MJL7ZPmtj6mjBFBWfjwI_40.814109_-96.641274@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296145,
+    "wof:geomhash":"ab7bcb3d704c8c7823f4fd7d72a00912",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878703,
+            "region_id":85688563,
+            "venue_id":873685283
+        }
+    ],
+    "wof:id":873685283,
+    "wof:lastmodified":1464296145,
+    "wof:name":"Charlotte Russe",
+    "wof:parent_id":85878703,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.641274,
+    40.814109,
+    -96.641274,
+    40.814109
+],
+  "geometry": {"coordinates":[-96.641274,40.814109],"type":"Point"}
+}

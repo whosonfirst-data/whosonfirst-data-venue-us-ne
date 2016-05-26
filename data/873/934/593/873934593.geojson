@@ -1,0 +1,77 @@
+{
+  "id": 873934593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.961578,41.232299,-95.961578,41.232299",
+    "geom:latitude":41.232299,
+    "geom:longitude":-95.961578,
+    "iso:country":"US",
+    "sg:address":"2806 S 33rd St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 346 5576",
+    "sg:postcode":"68105",
+    "sg:province":"NE",
+    "sg:tags":[
+        "carpentry",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872527,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2PBquZnVe3iEHbIvZJ28Fp_41.232299_-95.961578@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300491,
+    "wof:geomhash":"a479f674d90afffeafaf85db5a3917dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872527,
+            "region_id":85688563,
+            "venue_id":873934593
+        }
+    ],
+    "wof:id":873934593,
+    "wof:lastmodified":1464300491,
+    "wof:name":"Bogart Construction",
+    "wof:parent_id":85872527,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carpentry",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -95.961578,
+    41.232299,
+    -95.961578,
+    41.232299
+],
+  "geometry": {"coordinates":[-95.961578,41.232299],"type":"Point"}
+}

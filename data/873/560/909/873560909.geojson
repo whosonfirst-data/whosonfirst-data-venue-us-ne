@@ -1,0 +1,71 @@
+{
+  "id": 873560909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.085286,41.316577,-96.085286,41.316577",
+    "geom:latitude":41.316577,
+    "geom:longitude":-96.085286,
+    "iso:country":"US",
+    "sg:address":"6311 N 109th Cir",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 496 7874",
+    "sg:postcode":"68164",
+    "sg:province":"NE",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85872505,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5EHLmY01lf83kJvxVkqtdp_41.316577_-96.085286@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294509,
+    "wof:geomhash":"b067fe2308b7b63f0510de66bb94684b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":873560909
+        }
+    ],
+    "wof:id":873560909,
+    "wof:lastmodified":1464294509,
+    "wof:name":"Lyons Heating & Cooling Svc",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.085286,
+    41.316577,
+    -96.085286,
+    41.316577
+],
+  "geometry": {"coordinates":[-96.085286,41.316577],"type":"Point"}
+}

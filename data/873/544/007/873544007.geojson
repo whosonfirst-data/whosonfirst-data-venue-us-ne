@@ -1,0 +1,82 @@
+{
+  "id": 873544007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.235588,41.280798,-96.235588,41.280798",
+    "geom:latitude":41.280798,
+    "geom:longitude":-96.235588,
+    "iso:country":"US",
+    "sg:address":"201 E Park Rd",
+    "sg:city":"Elkhorn",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Meat",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Farming",
+            "subcategory":"Farm & Veterinary Services",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 289 2104",
+    "sg:postcode":"68022",
+    "sg:province":"NE",
+    "sg:tags":[
+        "livestock",
+        "butchering"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85868921,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7PKsRl12e1rCLPo767R9Bt_41.280798_-96.235588@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294306,
+    "wof:geomhash":"eb9120e274ba6781e4af87564a3e3b3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85868921,
+            "region_id":85688563,
+            "venue_id":873544007
+        }
+    ],
+    "wof:id":873544007,
+    "wof:lastmodified":1464294306,
+    "wof:name":"J & J Quality Meats Inc",
+    "wof:parent_id":85868921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "livestock",
+        "butchering"
+    ]
+},
+  "bbox": [
+    -96.235588,
+    41.280798,
+    -96.235588,
+    41.280798
+],
+  "geometry": {"coordinates":[-96.23558800000001,41.280798],"type":"Point"}
+}

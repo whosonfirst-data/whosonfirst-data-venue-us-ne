@@ -1,0 +1,69 @@
+{
+  "id": 873743227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.04289,41.157383,-96.04289,41.157383",
+    "geom:latitude":41.157383,
+    "geom:longitude":-96.04289,
+    "iso:country":"US",
+    "sg:address":"103 N Washington St",
+    "sg:city":"Papillion",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 331 5470",
+    "sg:postcode":"68046",
+    "sg:province":"NE",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85843697,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_14qAuQrIGPDCpd1fOBgsOR_41.157383_-96.042890@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296974,
+    "wof:geomhash":"b452f7c3d41870c62fe04e93ab7e57e7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85843697,
+            "region_id":85688563,
+            "venue_id":873743227
+        }
+    ],
+    "wof:id":873743227,
+    "wof:lastmodified":1464296974,
+    "wof:name":"Papillion Barbers",
+    "wof:parent_id":85843697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -96.04289,
+    41.157383,
+    -96.04289,
+    41.157383
+],
+  "geometry": {"coordinates":[-96.04289,41.157383],"type":"Point"}
+}

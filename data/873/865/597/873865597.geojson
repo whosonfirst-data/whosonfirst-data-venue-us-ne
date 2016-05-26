@@ -1,0 +1,73 @@
+{
+  "id": 873865597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.161589,41.18649,-96.161589,41.18649",
+    "geom:latitude":41.18649,
+    "geom:longitude":-96.161589,
+    "iso:country":"US",
+    "sg:address":"15803 Josephine St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 896 8832",
+    "sg:postcode":"68136",
+    "sg:province":"NE",
+    "sg:tags":[
+        "excavation",
+        "grading",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85834285,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5WSbt78VQUCbddD2aSkZUz_41.186490_-96.161589@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299149,
+    "wof:geomhash":"88be6b567983e60ef945b7ba1b074990",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85834285,
+            "region_id":85688563,
+            "venue_id":873865597
+        }
+    ],
+    "wof:id":873865597,
+    "wof:lastmodified":1464299149,
+    "wof:name":"BT Grading Inc",
+    "wof:parent_id":85834285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "grading",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.161589,
+    41.18649,
+    -96.161589,
+    41.18649
+],
+  "geometry": {"coordinates":[-96.16158900000001,41.18649],"type":"Point"}
+}

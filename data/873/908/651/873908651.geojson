@@ -1,0 +1,75 @@
+{
+  "id": 873908651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.22943,41.14384,-96.22943,41.14384",
+    "geom:latitude":41.14384,
+    "geom:longitude":-96.22943,
+    "iso:country":"US",
+    "sg:address":"20055 Hackberry Dr",
+    "sg:city":"Gretna",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 332 3716",
+    "sg:postcode":"68028",
+    "sg:province":"NE",
+    "sg:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85834285,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6abQieBe8AEpLweUUPxcOr_41.143840_-96.229430@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299987,
+    "wof:geomhash":"0171d5698e7b76cb46ac601ace89070e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85834285,
+            "region_id":85688563,
+            "venue_id":873908651
+        }
+    ],
+    "wof:id":873908651,
+    "wof:lastmodified":1464299987,
+    "wof:name":"Double D Video",
+    "wof:parent_id":85834285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ]
+},
+  "bbox": [
+    -96.22943,
+    41.14384,
+    -96.22943,
+    41.14384
+],
+  "geometry": {"coordinates":[-96.22942999999999,41.14384],"type":"Point"}
+}

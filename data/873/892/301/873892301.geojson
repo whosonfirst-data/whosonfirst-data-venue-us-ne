@@ -1,0 +1,69 @@
+{
+  "id": 873892301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.13211,41.309308,-96.13211,41.309308",
+    "geom:latitude":41.309308,
+    "geom:longitude":-96.13211,
+    "iso:country":"US",
+    "sg:address":"5607 N 139th Ave",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Paper Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 493 9363",
+    "sg:postcode":"68164",
+    "sg:province":"NE",
+    "sg:tags":[
+        "mill"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85872505,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0OPAalA5OUvVT15BnWoebF_41.309308_-96.132110@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299672,
+    "wof:geomhash":"87ecb56bf5b0cdcf05c9bfc9260eb88c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":873892301
+        }
+    ],
+    "wof:id":873892301,
+    "wof:lastmodified":1464299672,
+    "wof:name":"A Write Impression",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mill"
+    ]
+},
+  "bbox": [
+    -96.13211,
+    41.309308,
+    -96.13211,
+    41.309308
+],
+  "geometry": {"coordinates":[-96.13211,41.309308],"type":"Point"}
+}

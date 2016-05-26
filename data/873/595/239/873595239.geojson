@@ -1,0 +1,77 @@
+{
+  "id": 873595239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.708646,40.816886,-96.708646,40.816886",
+    "geom:latitude":40.816886,
+    "geom:longitude":-96.708646,
+    "iso:country":"US",
+    "sg:address":"817 R St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Dance Studio",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 435 3726",
+    "sg:postcode":"68508",
+    "sg:province":"NE",
+    "sg:tags":[
+        "instruction",
+        "dancing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878699,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4s4ZxvDvibl7KLASHi5Q4P_40.816886_-96.708646@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294909,
+    "wof:geomhash":"c90f8c529830cf361125ce6c1f13a097",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878699,
+            "region_id":85688563,
+            "venue_id":873595239
+        }
+    ],
+    "wof:id":873595239,
+    "wof:lastmodified":1464294909,
+    "wof:name":"Delray Ballroom",
+    "wof:parent_id":85878699,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "dancing"
+    ]
+},
+  "bbox": [
+    -96.708646,
+    40.816886,
+    -96.708646,
+    40.816886
+],
+  "geometry": {"coordinates":[-96.708646,40.816886],"type":"Point"}
+}

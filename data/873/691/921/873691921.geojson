@@ -1,0 +1,75 @@
+{
+  "id": 873691921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.081299,41.248654,-96.081299,41.248654",
+    "geom:latitude":41.248654,
+    "geom:longitude":-96.081299,
+    "iso:country":"US",
+    "sg:address":"10727 Pacific St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 391 6509",
+    "sg:postcode":"68114",
+    "sg:province":"NE",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872533,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6SSO6CRJa13iP1wZcqADnO_41.248654_-96.081299@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296315,
+    "wof:geomhash":"1a56a1e57de34eee321c6e837bc7cd6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872533,
+            "region_id":85688563,
+            "venue_id":873691921
+        }
+    ],
+    "wof:id":873691921,
+    "wof:lastmodified":1464296315,
+    "wof:name":"Station 52",
+    "wof:parent_id":85872533,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -96.081299,
+    41.248654,
+    -96.081299,
+    41.248654
+],
+  "geometry": {"coordinates":[-96.081299,41.248654],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873832267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.931582,41.165105,-95.931582,41.165105",
+    "geom:latitude":41.165105,
+    "geom:longitude":-95.931582,
+    "iso:country":"US",
+    "sg:address":"915 Fairview St",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 614 0107",
+    "sg:postcode":"68147",
+    "sg:province":"NE",
+    "sg:tags":[
+        "agency"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85804025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6VaM57xBD7EV8OxgIxOslz_41.165105_-95.931582@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298383,
+    "wof:geomhash":"988d8f4d827cba655ba3bdb9189b2597",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85804025,
+            "region_id":85688563,
+            "venue_id":873832267
+        }
+    ],
+    "wof:id":873832267,
+    "wof:lastmodified":1464298383,
+    "wof:name":"VIP Travel",
+    "wof:parent_id":85804025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency"
+    ]
+},
+  "bbox": [
+    -95.931582,
+    41.165105,
+    -95.931582,
+    41.165105
+],
+  "geometry": {"coordinates":[-95.93158200000001,41.165105],"type":"Point"}
+}

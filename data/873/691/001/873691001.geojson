@@ -1,0 +1,73 @@
+{
+  "id": 873691001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.642292,40.871333,-96.642292,40.871333",
+    "geom:latitude":40.871333,
+    "geom:longitude":-96.642292,
+    "iso:country":"US",
+    "sg:address":"5601 Fletcher Ave",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 325 0447",
+    "sg:postcode":"68507",
+    "sg:province":"NE",
+    "sg:tags":[
+        "concrete",
+        "equipment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85824241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5McGd2IsAPFPQtpO6WXWzE_40.871333_-96.642292@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296299,
+    "wof:geomhash":"32b7eb07780f7be3fcfe3d6c7cf2aab7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85824241,
+            "region_id":85688563,
+            "venue_id":873691001
+        }
+    ],
+    "wof:id":873691001,
+    "wof:lastmodified":1464296299,
+    "wof:name":"Road Builders Machinery Supply",
+    "wof:parent_id":85824241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "equipment"
+    ]
+},
+  "bbox": [
+    -96.642292,
+    40.871333,
+    -96.642292,
+    40.871333
+],
+  "geometry": {"coordinates":[-96.642292,40.871333],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 873648993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.040745,41.231571,-96.040745,41.231571",
+    "geom:latitude":41.231571,
+    "geom:longitude":-96.040745,
+    "iso:country":"US",
+    "sg:address":"3004 S 82nd Ave",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 933 0056",
+    "sg:postcode":"68124",
+    "sg:province":"NE",
+    "sg:tags":[
+        "property",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872511,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6RfDaqxWSWWYSh3nCnTbJ2_41.231571_-96.040745@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295576,
+    "wof:geomhash":"3d83d8523943f9b0894424e26850f304",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872511,
+            "region_id":85688563,
+            "venue_id":873648993
+        }
+    ],
+    "wof:id":873648993,
+    "wof:lastmodified":1464295576,
+    "wof:name":"Property Maintenance Svc",
+    "wof:parent_id":85872511,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "property",
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -96.040745,
+    41.231571,
+    -96.040745,
+    41.231571
+],
+  "geometry": {"coordinates":[-96.040745,41.231571],"type":"Point"}
+}

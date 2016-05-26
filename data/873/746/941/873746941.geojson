@@ -1,0 +1,82 @@
+{
+  "id": 873746941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.998079,41.254071,-95.998079,41.254071",
+    "geom:latitude":41.254071,
+    "geom:longitude":-95.998079,
+    "iso:country":"US",
+    "sg:address":"630 S 55th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 341 1828",
+    "sg:postcode":"68106",
+    "sg:province":"NE",
+    "sg:tags":[
+        "company",
+        "business"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867055,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5oW6eWD26m5dAfdgQ72gdD_41.254071_-95.998079@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297037,
+    "wof:geomhash":"6f7701349490ea9d4fe35a77f071b4c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85867055,
+            "region_id":85688563,
+            "venue_id":873746941
+        }
+    ],
+    "wof:id":873746941,
+    "wof:lastmodified":1464297037,
+    "wof:name":"Network Technologies Corp",
+    "wof:parent_id":85867055,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "business"
+    ]
+},
+  "bbox": [
+    -95.998079,
+    41.254071,
+    -95.998079,
+    41.254071
+],
+  "geometry": {"coordinates":[-95.998079,41.254071],"type":"Point"}
+}

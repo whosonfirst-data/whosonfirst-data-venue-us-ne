@@ -1,0 +1,71 @@
+{
+  "id": 873792269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.691112,40.87014,-96.691112,40.87014",
+    "geom:latitude":40.87014,
+    "geom:longitude":-96.691112,
+    "iso:country":"US",
+    "sg:address":"5707 N 20th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 438 9055",
+    "sg:postcode":"68521",
+    "sg:province":"NE",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4yYZCdSMLBeKnICGOYaZhK_40.870140_-96.691112@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297680,
+    "wof:geomhash":"f3876dad9751997a6ac46eccf5d70c82",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878687,
+            "region_id":85688563,
+            "venue_id":873792269
+        }
+    ],
+    "wof:id":873792269,
+    "wof:lastmodified":1464297680,
+    "wof:name":"Rock N Roll Kids",
+    "wof:parent_id":85878687,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -96.691112,
+    40.87014,
+    -96.691112,
+    40.87014
+],
+  "geometry": {"coordinates":[-96.691112,40.87014],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873953225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.638462,40.755446,-96.638462,40.755446",
+    "geom:latitude":40.755446,
+    "geom:longitude":-96.638462,
+    "iso:country":"US",
+    "sg:address":"5960 Vandervoort Dr",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 441 4125",
+    "sg:postcode":"68516",
+    "sg:province":"NE",
+    "sg:website":"www.realestategrp.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878695,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0qtaMXMjrt1EM5pxBAr4rU_40.755446_-96.638462@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464301275,
+    "wof:geomhash":"5a386f9182934fff0433cbc5639ce036",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878695,
+            "region_id":85688563,
+            "venue_id":873953225
+        }
+    ],
+    "wof:id":873953225,
+    "wof:lastmodified":1464301275,
+    "wof:name":"Re/Max",
+    "wof:parent_id":85878695,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.638462,
+    40.755446,
+    -96.638462,
+    40.755446
+],
+  "geometry": {"coordinates":[-96.638462,40.755446],"type":"Point"}
+}

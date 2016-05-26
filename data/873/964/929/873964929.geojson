@@ -1,0 +1,72 @@
+{
+  "id": 873964929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.676174,40.729209,-96.676174,40.729209",
+    "geom:latitude":40.729209,
+    "geom:longitude":-96.676174,
+    "iso:country":"US",
+    "sg:address":"3200 Grainger Pkwy",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 420 6600",
+    "sg:postcode":"68516",
+    "sg:province":"NE",
+    "sg:tags":[
+        "church"
+    ],
+    "sg:website":"www.horizonschurch.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_40x7IUZ7As3y6YxkzzTEfk_40.729209_-96.676174@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464301791,
+    "wof:geomhash":"41e62b11a9b1cdb99f76b9f926116f80",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878733,
+            "region_id":85688563,
+            "venue_id":873964929
+        }
+    ],
+    "wof:id":873964929,
+    "wof:lastmodified":1464301791,
+    "wof:name":"Horizons Community Church",
+    "wof:parent_id":85878733,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -96.676174,
+    40.729209,
+    -96.676174,
+    40.729209
+],
+  "geometry": {"coordinates":[-96.676174,40.729209],"type":"Point"}
+}

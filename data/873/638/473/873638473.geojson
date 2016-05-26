@@ -1,0 +1,75 @@
+{
+  "id": 873638473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.650133,40.800452,-96.650133,40.800452",
+    "geom:latitude":40.800452,
+    "geom:longitude":-96.650133,
+    "iso:country":"US",
+    "sg:address":"1281 S Cotner Blvd",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 488 4416",
+    "sg:postcode":"68510",
+    "sg:province":"NE",
+    "sg:tags":[
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878683,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5EC0BnkE09YaJhLHysWATO_40.800452_-96.650133@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295459,
+    "wof:geomhash":"30f212e528ec50a7ca3d67f69f73dddd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878683,
+            "region_id":85688563,
+            "venue_id":873638473
+        }
+    ],
+    "wof:id":873638473,
+    "wof:lastmodified":1464295459,
+    "wof:name":"Lee Booksellers",
+    "wof:parent_id":85878683,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dealer"
+    ]
+},
+  "bbox": [
+    -96.650133,
+    40.800452,
+    -96.650133,
+    40.800452
+],
+  "geometry": {"coordinates":[-96.650133,40.800452],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873654337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.163196,41.186503,-96.163196,41.186503",
+    "geom:latitude":41.186503,
+    "geom:longitude":-96.163196,
+    "iso:country":"US",
+    "sg:address":"15907 Josephine St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 677 5952",
+    "sg:postcode":"68136",
+    "sg:province":"NE",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85834285,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0S7bfsuFhECIqFwOs8O084_41.186503_-96.163196@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295639,
+    "wof:geomhash":"a276dff9a8b494767d22c258ab73a733",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85834285,
+            "region_id":85688563,
+            "venue_id":873654337
+        }
+    ],
+    "wof:id":873654337,
+    "wof:lastmodified":1464295639,
+    "wof:name":"Pelster Construction",
+    "wof:parent_id":85834285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.163196,
+    41.186503,
+    -96.163196,
+    41.186503
+],
+  "geometry": {"coordinates":[-96.163196,41.186503],"type":"Point"}
+}

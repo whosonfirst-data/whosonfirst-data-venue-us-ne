@@ -1,0 +1,73 @@
+{
+  "id": 873895073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.04392,41.154345,-96.04392,41.154345",
+    "geom:latitude":41.154345,
+    "geom:longitude":-96.04392,
+    "iso:country":"US",
+    "sg:address":"137 W Lincoln St",
+    "sg:city":"Papillion",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 935 1939",
+    "sg:postcode":"68046",
+    "sg:province":"NE",
+    "sg:tags":[
+        "car",
+        "used",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85843697,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2U2zNp2p4L0fA6tDvRqM0P_41.154345_-96.043920@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299723,
+    "wof:geomhash":"f22ff77d90300a151286e056f4e3ba17",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85843697,
+            "region_id":85688563,
+            "venue_id":873895073
+        }
+    ],
+    "wof:id":873895073,
+    "wof:lastmodified":1464299723,
+    "wof:name":"Park View Auto",
+    "wof:parent_id":85843697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "used",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -96.04392,
+    41.154345,
+    -96.04392,
+    41.154345
+],
+  "geometry": {"coordinates":[-96.04392,41.154345],"type":"Point"}
+}

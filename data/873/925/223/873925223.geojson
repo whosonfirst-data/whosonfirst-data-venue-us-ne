@@ -1,0 +1,77 @@
+{
+  "id": 873925223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.654186,40.770721,-96.654186,40.770721",
+    "geom:latitude":40.770721,
+    "geom:longitude":-96.654186,
+    "iso:country":"US",
+    "sg:address":"4711 Meredeth St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 489 7452",
+    "sg:postcode":"68506",
+    "sg:province":"NE",
+    "sg:tags":[
+        "home",
+        "group"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85811821,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1LXEaWL8lHT9BLkn0cd6sK_40.770721_-96.654186@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300308,
+    "wof:geomhash":"ae6985be4da695b4efc31be7ec934ef4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85811821,
+            "region_id":85688563,
+            "venue_id":873925223
+        }
+    ],
+    "wof:id":873925223,
+    "wof:lastmodified":1464300308,
+    "wof:name":"Community Alternatives Ne",
+    "wof:parent_id":85811821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "group"
+    ]
+},
+  "bbox": [
+    -96.654186,
+    40.770721,
+    -96.654186,
+    40.770721
+],
+  "geometry": {"coordinates":[-96.654186,40.770721],"type":"Point"}
+}

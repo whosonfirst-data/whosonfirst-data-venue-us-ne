@@ -1,0 +1,73 @@
+{
+  "id": 873554557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.046414,41.313005,-96.046414,41.313005",
+    "geom:latitude":41.313005,
+    "geom:longitude":-96.046414,
+    "iso:country":"US",
+    "sg:address":"6044 Wenninghoff Rd",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 571 9314",
+    "sg:postcode":"68134",
+    "sg:province":"NE",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85872505,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1HCMpV7QW52s8a5daU6Uie_41.313005_-96.046414@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294430,
+    "wof:geomhash":"57fe9e88bb0f03257c49bde76b397046",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":873554557
+        }
+    ],
+    "wof:id":873554557,
+    "wof:lastmodified":1464294430,
+    "wof:name":"Northwest Auto Care Inc",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -96.046414,
+    41.313005,
+    -96.046414,
+    41.313005
+],
+  "geometry": {"coordinates":[-96.046414,41.313005],"type":"Point"}
+}

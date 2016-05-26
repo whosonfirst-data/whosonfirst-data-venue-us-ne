@@ -1,0 +1,76 @@
+{
+  "id": 873687331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.766033,40.813739,-96.766033,40.813739",
+    "geom:latitude":40.813739,
+    "geom:longitude":-96.766033,
+    "iso:country":"US",
+    "sg:address":"3201 W O St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 474 7569",
+    "sg:postcode":"68528",
+    "sg:province":"NE",
+    "sg:tags":[
+        "oil"
+    ],
+    "sg:website":"www.gasnshop.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878743,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0BOpspRBoq8I5Gi82uok8i_40.813739_-96.766033@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296201,
+    "wof:geomhash":"a0829e73fe1e0cc99192930943df119a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878743,
+            "region_id":85688563,
+            "venue_id":873687331
+        }
+    ],
+    "wof:id":873687331,
+    "wof:lastmodified":1464296201,
+    "wof:name":"Gas 'n Shop",
+    "wof:parent_id":85878743,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil"
+    ]
+},
+  "bbox": [
+    -96.766033,
+    40.813739,
+    -96.766033,
+    40.813739
+],
+  "geometry": {"coordinates":[-96.76603299999999,40.813739],"type":"Point"}
+}

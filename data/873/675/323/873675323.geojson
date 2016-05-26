@@ -1,0 +1,79 @@
+{
+  "id": 873675323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.68938,40.796765,-96.68938,40.796765",
+    "geom:latitude":40.796765,
+    "geom:longitude":-96.68938,
+    "iso:country":"US",
+    "sg:address":"1515 S 22nd St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 477 6605",
+    "sg:postcode":"68502",
+    "sg:province":"NE",
+    "sg:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878727,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0WigOXVnWCxBeKIepuZNxx_40.796765_-96.689380@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295876,
+    "wof:geomhash":"d7d7d312c04ae64f1ffdfae8cd3bd1e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878727,
+            "region_id":85688563,
+            "venue_id":873675323
+        }
+    ],
+    "wof:id":873675323,
+    "wof:lastmodified":1464295876,
+    "wof:name":"Kitty Groomer",
+    "wof:parent_id":85878727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ]
+},
+  "bbox": [
+    -96.68938,
+    40.796765,
+    -96.68938,
+    40.796765
+],
+  "geometry": {"coordinates":[-96.68938,40.796765],"type":"Point"}
+}

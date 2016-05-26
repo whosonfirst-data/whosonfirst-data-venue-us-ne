@@ -1,0 +1,73 @@
+{
+  "id": 873963277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.722619,40.86588,-96.722619,40.86588",
+    "geom:latitude":40.86588,
+    "geom:longitude":-96.722619,
+    "iso:country":"US",
+    "sg:address":"5501 NW 1st St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 476 3245",
+    "sg:postcode":"68521",
+    "sg:province":"NE",
+    "sg:tags":[
+        "shop",
+        "coffee"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_21fT67a8yiTsNIm24Dg4Oy_40.865880_-96.722619@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464301705,
+    "wof:geomhash":"ef9c26514c9232d1755724247e021a7e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878717,
+            "region_id":85688563,
+            "venue_id":873963277
+        }
+    ],
+    "wof:id":873963277,
+    "wof:lastmodified":1464301705,
+    "wof:name":"Tin Cup Coffee",
+    "wof:parent_id":85878717,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "coffee"
+    ]
+},
+  "bbox": [
+    -96.722619,
+    40.86588,
+    -96.722619,
+    40.86588
+],
+  "geometry": {"coordinates":[-96.72261899999999,40.86588],"type":"Point"}
+}

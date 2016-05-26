@@ -1,0 +1,73 @@
+{
+  "id": 873678045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.63015,40.790608,-96.63015,40.790608",
+    "geom:latitude":40.790608,
+    "geom:longitude":-96.63015,
+    "iso:country":"US",
+    "sg:address":"6716 Flint Ridge Rd",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 488 3609",
+    "sg:postcode":"68506",
+    "sg:province":"NE",
+    "sg:tags":[
+        "institution",
+        "business"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7CL3VCUcNrNmolg4vhCv8f_40.790608_-96.630150@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295938,
+    "wof:geomhash":"4a166da8f6c17fe0807f80940052d202",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878697,
+            "region_id":85688563,
+            "venue_id":873678045
+        }
+    ],
+    "wof:id":873678045,
+    "wof:lastmodified":1464295938,
+    "wof:name":"Farmland Financial Services",
+    "wof:parent_id":85878697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "institution",
+        "business"
+    ]
+},
+  "bbox": [
+    -96.63015,
+    40.790608,
+    -96.63015,
+    40.790608
+],
+  "geometry": {"coordinates":[-96.63015,40.790608],"type":"Point"}
+}

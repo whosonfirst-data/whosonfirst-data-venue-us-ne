@@ -1,0 +1,72 @@
+{
+  "id": 873910185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.069153,41.325769,-96.069153,41.325769",
+    "geom:latitude":41.325769,
+    "geom:longitude":-96.069153,
+    "iso:country":"US",
+    "sg:address":"10020 Scott Cir",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Hobbies, Toys, & Games",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 498 8888",
+    "sg:postcode":"68122",
+    "sg:province":"NE",
+    "sg:tags":[
+        "model",
+        "supply"
+    ],
+    "sg:website":"www.hobbytown.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85872505,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_22wHuXnVtyhyu785iJ2w7z_41.325769_-96.069153@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300017,
+    "wof:geomhash":"0c21b975ee4f9dfccdb74d0683edbcea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":873910185
+        }
+    ],
+    "wof:id":873910185,
+    "wof:lastmodified":1464300017,
+    "wof:name":"Hobbytown USA",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "model",
+        "supply"
+    ]
+},
+  "bbox": [
+    -96.069153,
+    41.325769,
+    -96.069153,
+    41.325769
+],
+  "geometry": {"coordinates":[-96.069153,41.325769],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 873976735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.653669,40.817106,-96.653669,40.817106",
+    "geom:latitude":40.817106,
+    "geom:longitude":-96.653669,
+    "iso:country":"US",
+    "sg:address":"500 N 48th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ne/lincoln/150870-boston-market/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 466 3111",
+    "sg:postcode":"68504",
+    "sg:province":"NE",
+    "sg:tags":[
+        "barbecue",
+        "american",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878703,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Ty6eG42iXk5m6SVed0ZmM_40.817106_-96.653669@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464302247,
+    "wof:geomhash":"e6c494fe53ccbb82f0a05fdd33af7234",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878703,
+            "region_id":85688563,
+            "venue_id":873976735
+        }
+    ],
+    "wof:id":873976735,
+    "wof:lastmodified":1464302247,
+    "wof:name":"Boston Market",
+    "wof:parent_id":85878703,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "barbecue",
+        "american",
+        "soup"
+    ]
+},
+  "bbox": [
+    -96.653669,
+    40.817106,
+    -96.653669,
+    40.817106
+],
+  "geometry": {"coordinates":[-96.65366899999999,40.817106],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 873845319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.094557,41.304534,-96.094557,41.304534",
+    "geom:latitude":41.304534,
+    "geom:longitude":-96.094557,
+    "iso:country":"US",
+    "sg:address":"11641 Raleigh Dr",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 493 4244",
+    "sg:postcode":"68164",
+    "sg:province":"NE",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872503,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Z2CB5xdwKeCaKrtTOoj1C_41.304534_-96.094557@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298689,
+    "wof:geomhash":"f5290e9f8ebe2b7a0fb7f56f399f3984",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872503,
+            "region_id":85688563,
+            "venue_id":873845319
+        }
+    ],
+    "wof:id":873845319,
+    "wof:lastmodified":1464298689,
+    "wof:name":"D M Construction",
+    "wof:parent_id":85872503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.094557,
+    41.304534,
+    -96.094557,
+    41.304534
+],
+  "geometry": {"coordinates":[-96.09455699999999,41.304534],"type":"Point"}
+}

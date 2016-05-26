@@ -1,0 +1,66 @@
+{
+  "id": 873863283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.625217,40.793739,-96.625217,40.793739",
+    "geom:latitude":40.793739,
+    "geom:longitude":-96.625217,
+    "iso:country":"US",
+    "sg:address":"1530 S 70th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 434 8167",
+    "sg:postcode":"68506",
+    "sg:province":"NE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0xEDfyL9bNAwXSOm5h6vvF_40.793739_-96.625217@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299100,
+    "wof:geomhash":"535de6f6077aa6dea0b1e873a06b8dd2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878697,
+            "region_id":85688563,
+            "venue_id":873863283
+        }
+    ],
+    "wof:id":873863283,
+    "wof:lastmodified":1464299100,
+    "wof:name":"East Lincoln Mental Hlth Svcs",
+    "wof:parent_id":85878697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.625217,
+    40.793739,
+    -96.625217,
+    40.793739
+],
+  "geometry": {"coordinates":[-96.62521700000001,40.793739],"type":"Point"}
+}

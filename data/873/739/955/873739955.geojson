@@ -1,0 +1,77 @@
+{
+  "id": 873739955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.081392,41.232324,-96.081392,41.232324",
+    "geom:latitude":41.232324,
+    "geom:longitude":-96.081392,
+    "iso:country":"US",
+    "sg:address":"2945 S 108th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 731 6380",
+    "sg:postcode":"68144",
+    "sg:province":"NE",
+    "sg:tags":[
+        "drycleaning",
+        "plant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872533,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7CABnGrk516fTDjelTK0rB_41.232324_-96.081392@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296919,
+    "wof:geomhash":"7ccf2509035f2716070ecf75dd65e4d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872533,
+            "region_id":85688563,
+            "venue_id":873739955
+        }
+    ],
+    "wof:id":873739955,
+    "wof:lastmodified":1464296919,
+    "wof:name":"V Ip Cleaners",
+    "wof:parent_id":85872533,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drycleaning",
+        "plant"
+    ]
+},
+  "bbox": [
+    -96.081392,
+    41.232324,
+    -96.081392,
+    41.232324
+],
+  "geometry": {"coordinates":[-96.08139199999999,41.232324],"type":"Point"}
+}

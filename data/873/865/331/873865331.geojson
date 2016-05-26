@@ -1,0 +1,69 @@
+{
+  "id": 873865331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.237059,41.145889,-96.237059,41.145889",
+    "geom:latitude":41.145889,
+    "geom:longitude":-96.237059,
+    "iso:country":"US",
+    "sg:address":"215 Enterprise Dr",
+    "sg:city":"Gretna",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 332 5166",
+    "sg:postcode":"68028",
+    "sg:province":"NE",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85834285,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3gGqOJOzGm2ZbK4cP2AdPd_41.145889_-96.237059@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299144,
+    "wof:geomhash":"99b6754bffadd1d8f2f1c5236958255d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85834285,
+            "region_id":85688563,
+            "venue_id":873865331
+        }
+    ],
+    "wof:id":873865331,
+    "wof:lastmodified":1464299144,
+    "wof:name":"Mc Kinney's Food Ctr",
+    "wof:parent_id":85834285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -96.237059,
+    41.145889,
+    -96.237059,
+    41.145889
+],
+  "geometry": {"coordinates":[-96.237059,41.145889],"type":"Point"}
+}

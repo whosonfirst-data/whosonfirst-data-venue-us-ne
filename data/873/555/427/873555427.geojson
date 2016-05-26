@@ -1,0 +1,79 @@
+{
+  "id": 873555427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.007218,41.308966,-96.007218,41.308966",
+    "geom:latitude":41.308966,
+    "geom:longitude":-96.007218,
+    "iso:country":"US",
+    "sg:address":"6070 Jaynes St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 571 9652",
+    "sg:postcode":"68104",
+    "sg:province":"NE",
+    "sg:tags":[
+        "floor",
+        "laying",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85805755,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ARvMQaC7R5GmIBeRKNSb6_41.308966_-96.007218@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294442,
+    "wof:geomhash":"903044735242b7512dd36f2847398cf7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85805755,
+            "region_id":85688563,
+            "venue_id":873555427
+        }
+    ],
+    "wof:id":873555427,
+    "wof:lastmodified":1464294442,
+    "wof:name":"N Dall Inc",
+    "wof:parent_id":85805755,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "floor",
+        "laying",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.007218,
+    41.308966,
+    -96.007218,
+    41.308966
+],
+  "geometry": {"coordinates":[-96.00721799999999,41.308966],"type":"Point"}
+}

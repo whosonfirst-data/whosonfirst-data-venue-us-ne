@@ -1,0 +1,71 @@
+{
+  "id": 873549655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.736335,40.859919,-96.736335,40.859919",
+    "geom:latitude":40.859919,
+    "geom:longitude":-96.736335,
+    "iso:country":"US",
+    "sg:address":"1020 W Britt Dr",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 476 8826",
+    "sg:postcode":"68521",
+    "sg:province":"NE",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4TJIEjI1Ipg2a5lf86rWD5_40.859919_-96.736335@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294373,
+    "wof:geomhash":"0c8708af2371946b9002bf616ff1b276",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878717,
+            "region_id":85688563,
+            "venue_id":873549655
+        }
+    ],
+    "wof:id":873549655,
+    "wof:lastmodified":1464294373,
+    "wof:name":"Angels In Training",
+    "wof:parent_id":85878717,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -96.736335,
+    40.859919,
+    -96.736335,
+    40.859919
+],
+  "geometry": {"coordinates":[-96.736335,40.859919],"type":"Point"}
+}

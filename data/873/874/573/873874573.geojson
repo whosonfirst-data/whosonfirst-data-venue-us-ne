@@ -1,0 +1,73 @@
+{
+  "id": 873874573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.24711,41.150197,-96.24711,41.150197",
+    "geom:latitude":41.150197,
+    "geom:longitude":-96.24711,
+    "iso:country":"US",
+    "sg:address":"21210 Schofield Dr",
+    "sg:city":"Gretna",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 895 3980",
+    "sg:postcode":"68028",
+    "sg:province":"NE",
+    "sg:tags":[
+        "beef",
+        "feedlot",
+        "cattle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85834285,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1vFJYQld1geE3cEZEaHgdk_41.150197_-96.247110@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299327,
+    "wof:geomhash":"30cf47913e638d08d4c18d165e4a9a17",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85834285,
+            "region_id":85688563,
+            "venue_id":873874573
+        }
+    ],
+    "wof:id":873874573,
+    "wof:lastmodified":1464299327,
+    "wof:name":"Witt Feeding Inc",
+    "wof:parent_id":85834285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beef",
+        "feedlot",
+        "cattle"
+    ]
+},
+  "bbox": [
+    -96.24711,
+    41.150197,
+    -96.24711,
+    41.150197
+],
+  "geometry": {"coordinates":[-96.24711000000001,41.150197],"type":"Point"}
+}

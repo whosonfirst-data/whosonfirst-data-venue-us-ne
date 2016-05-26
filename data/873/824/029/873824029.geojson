@@ -1,0 +1,79 @@
+{
+  "id": 873824029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.034987,41.223325,-96.034987,41.223325",
+    "geom:latitude":41.223325,
+    "geom:longitude":-96.034987,
+    "iso:country":"US",
+    "sg:address":"7777 D St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 391 2456",
+    "sg:postcode":"68124",
+    "sg:province":"NE",
+    "sg:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872511,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1nLP3dwQJA1YBfnzydYvAc_41.223325_-96.034987@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298213,
+    "wof:geomhash":"54d718e6fa5fbdd928c75a270b154855",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872511,
+            "region_id":85688563,
+            "venue_id":873824029
+        }
+    ],
+    "wof:id":873824029,
+    "wof:lastmodified":1464298213,
+    "wof:name":"Tully's Kennels",
+    "wof:parent_id":85872511,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -96.034987,
+    41.223325,
+    -96.034987,
+    41.223325
+],
+  "geometry": {"coordinates":[-96.034987,41.223325],"type":"Point"}
+}

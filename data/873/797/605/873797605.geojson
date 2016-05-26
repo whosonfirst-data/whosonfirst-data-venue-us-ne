@@ -1,0 +1,71 @@
+{
+  "id": 873797605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.89504,41.136556,-95.89504,41.136556",
+    "geom:latitude":41.136556,
+    "geom:longitude":-95.89504,
+    "iso:country":"US",
+    "sg:address":"102 W Mission Ave",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 293 2772",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974747,
+        102082777,
+        85820061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7MAxDjGrhoytLGmB9kMeDB_41.136556_-95.895040@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297745,
+    "wof:geomhash":"57ee5752a9081765ddd6258b76522548",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974747,
+            "neighbourhood_id":85820061,
+            "region_id":85688563,
+            "venue_id":873797605
+        }
+    ],
+    "wof:id":873797605,
+    "wof:lastmodified":1464297745,
+    "wof:name":"Bellevue Police Dept",
+    "wof:parent_id":85820061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -95.89504,
+    41.136556,
+    -95.89504,
+    41.136556
+],
+  "geometry": {"coordinates":[-95.89503999999999,41.136556],"type":"Point"}
+}

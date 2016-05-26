@@ -1,0 +1,81 @@
+{
+  "id": 873753431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.70703,40.79845,-96.70703,40.79845",
+    "geom:latitude":40.79845,
+    "geom:longitude":-96.70703,
+    "iso:country":"US",
+    "sg:address":"1430 S 10th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 477 3529",
+    "sg:postcode":"68502",
+    "sg:province":"NE",
+    "sg:tags":[
+        "plumbing",
+        "drain",
+        "cleaning",
+        "sewer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878705,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5WsBODAfScsRUxdd1hsnSA_40.798450_-96.707030@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297126,
+    "wof:geomhash":"94f4c82a4b9e8a7eabb9e397c1190e4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878705,
+            "region_id":85688563,
+            "venue_id":873753431
+        }
+    ],
+    "wof:id":873753431,
+    "wof:lastmodified":1464297126,
+    "wof:name":"A 1 Drain & Sewer Svc",
+    "wof:parent_id":85878705,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "drain",
+        "cleaning",
+        "sewer"
+    ]
+},
+  "bbox": [
+    -96.70703,
+    40.79845,
+    -96.70703,
+    40.79845
+],
+  "geometry": {"coordinates":[-96.70703,40.79845],"type":"Point"}
+}

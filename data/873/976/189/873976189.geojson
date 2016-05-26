@@ -1,0 +1,72 @@
+{
+  "id": 873976189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.040021,41.181462,-96.040021,41.181462",
+    "geom:latitude":41.181462,
+    "geom:longitude":-96.040021,
+    "iso:country":"US",
+    "sg:address":"8045 S 83rd Ave",
+    "sg:city":"La Vista",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ne/la-vista/88323-bostons-gourmet-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 592 2337",
+    "sg:postcode":"68128",
+    "sg:province":"NE",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85843697,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3JizeDSgN0ACNrRA05JoLh_41.181462_-96.040021@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464302229,
+    "wof:geomhash":"e0cab98c86c019cb72042cee59436d51",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85843697,
+            "region_id":85688563,
+            "venue_id":873976189
+        }
+    ],
+    "wof:id":873976189,
+    "wof:lastmodified":1464302229,
+    "wof:name":"Boston's Gourmet Pizza",
+    "wof:parent_id":85843697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -96.040021,
+    41.181462,
+    -96.040021,
+    41.181462
+],
+  "geometry": {"coordinates":[-96.040021,41.181462],"type":"Point"}
+}

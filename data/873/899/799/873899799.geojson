@@ -1,0 +1,77 @@
+{
+  "id": 873899799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.594247,40.809578,-96.594247,40.809578",
+    "geom:latitude":40.809578,
+    "geom:longitude":-96.594247,
+    "iso:country":"US",
+    "sg:address":"410 E Hillcrest Dr",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 489 2937",
+    "sg:postcode":"68520",
+    "sg:province":"NE",
+    "sg:tags":[
+        "crop",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878725,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3iSj2ul8zG5fWNjld6spmf_40.809578_-96.594247@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299813,
+    "wof:geomhash":"5b315f58a096433ca2bb5e3727327448",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878725,
+            "region_id":85688563,
+            "venue_id":873899799
+        }
+    ],
+    "wof:id":873899799,
+    "wof:lastmodified":1464299813,
+    "wof:name":"Kassebaum Farms",
+    "wof:parent_id":85878725,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crop",
+        "general"
+    ]
+},
+  "bbox": [
+    -96.594247,
+    40.809578,
+    -96.594247,
+    40.809578
+],
+  "geometry": {"coordinates":[-96.594247,40.809578],"type":"Point"}
+}

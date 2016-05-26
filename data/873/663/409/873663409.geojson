@@ -1,0 +1,75 @@
+{
+  "id": 873663409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.230048,41.1456,-96.230048,41.1456",
+    "geom:latitude":41.1456,
+    "geom:longitude":-96.230048,
+    "iso:country":"US",
+    "sg:address":"11265 S 201st St",
+    "sg:city":"Gretna",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 332 5392",
+    "sg:postcode":"68028",
+    "sg:province":"NE",
+    "sg:tags":[
+        "hearing",
+        "equipment",
+        "supply",
+        "impaired"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85834285,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5b4PZLJ6WpxtCA29cOXJwf_41.145600_-96.230048@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295735,
+    "wof:geomhash":"233e7ca198269bd560b08b012a08a0ef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85834285,
+            "region_id":85688563,
+            "venue_id":873663409
+        }
+    ],
+    "wof:id":873663409,
+    "wof:lastmodified":1464295735,
+    "wof:name":"Hearing Testing Inc",
+    "wof:parent_id":85834285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hearing",
+        "equipment",
+        "supply",
+        "impaired"
+    ]
+},
+  "bbox": [
+    -96.230048,
+    41.1456,
+    -96.230048,
+    41.1456
+],
+  "geometry": {"coordinates":[-96.230048,41.1456],"type":"Point"}
+}

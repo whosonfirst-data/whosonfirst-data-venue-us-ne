@@ -1,0 +1,82 @@
+{
+  "id": 873944511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.696745,40.791757,-96.696745,40.791757",
+    "geom:latitude":40.791757,
+    "geom:longitude":-96.696745,
+    "iso:country":"US",
+    "sg:address":"1600 South St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 477 2247",
+    "sg:postcode":"68502",
+    "sg:province":"NE",
+    "sg:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ],
+    "sg:website":"www.blockbuster.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878719,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4v0BkNCSBQSnX09QXJ5I7v_40.791757_-96.696745@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300863,
+    "wof:geomhash":"c4ffae934a3a3a6230817bf39432a5f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878719,
+            "region_id":85688563,
+            "venue_id":873944511
+        }
+    ],
+    "wof:id":873944511,
+    "wof:lastmodified":1464300863,
+    "wof:name":"Blockbuster Video",
+    "wof:parent_id":85878719,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ]
+},
+  "bbox": [
+    -96.696745,
+    40.791757,
+    -96.696745,
+    40.791757
+],
+  "geometry": {"coordinates":[-96.69674500000001,40.791757],"type":"Point"}
+}

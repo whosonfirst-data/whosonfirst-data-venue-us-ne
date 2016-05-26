@@ -1,0 +1,79 @@
+{
+  "id": 873961213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.690662,40.798133,-96.690662,40.798133",
+    "geom:latitude":40.798133,
+    "geom:longitude":-96.690662,
+    "iso:country":"US",
+    "sg:address":"1417 S 21st St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 438 1262",
+    "sg:postcode":"68502",
+    "sg:province":"NE",
+    "sg:tags":[
+        "repairing",
+        "piano",
+        "refinishing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878727,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2p8midsfBunkFkZ6lNlvt9_40.798133_-96.690662@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464301603,
+    "wof:geomhash":"6d3487236f7387047ec04c9b8e129cb6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878727,
+            "region_id":85688563,
+            "venue_id":873961213
+        }
+    ],
+    "wof:id":873961213,
+    "wof:lastmodified":1464301603,
+    "wof:name":"That Tuning Guy",
+    "wof:parent_id":85878727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "piano",
+        "refinishing"
+    ]
+},
+  "bbox": [
+    -96.690662,
+    40.798133,
+    -96.690662,
+    40.798133
+],
+  "geometry": {"coordinates":[-96.690662,40.798133],"type":"Point"}
+}

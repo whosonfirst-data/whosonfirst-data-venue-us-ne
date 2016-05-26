@@ -1,0 +1,73 @@
+{
+  "id": 873880977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.918297,41.157385,-95.918297,41.157385",
+    "geom:latitude":41.157385,
+    "geom:longitude":-95.918297,
+    "iso:country":"US",
+    "sg:address":"301 Kings Dr",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Secretarial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 291 3643",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "reporting",
+        "court"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85804025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2U33GBZEoMpRuB6Ir3mQjI_41.157385_-95.918297@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299451,
+    "wof:geomhash":"dae3f705a698bc5b5c54f7228e1e4f44",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85804025,
+            "region_id":85688563,
+            "venue_id":873880977
+        }
+    ],
+    "wof:id":873880977,
+    "wof:lastmodified":1464299451,
+    "wof:name":"Matheson Reporting Inc",
+    "wof:parent_id":85804025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "reporting",
+        "court"
+    ]
+},
+  "bbox": [
+    -95.918297,
+    41.157385,
+    -95.918297,
+    41.157385
+],
+  "geometry": {"coordinates":[-95.918297,41.157385],"type":"Point"}
+}

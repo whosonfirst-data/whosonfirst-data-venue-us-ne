@@ -1,0 +1,66 @@
+{
+  "id": 873874963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.958734,41.108115,-95.958734,41.108115",
+    "geom:latitude":41.108115,
+    "geom:longitude":-95.958734,
+    "iso:country":"US",
+    "sg:address":"3211 Blackhawk Dr",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 292 7371",
+    "sg:postcode":"68123",
+    "sg:province":"NE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974747,
+        102082777,
+        85820061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1v0RmPUc4eyN8YDB2g9TFr_41.108115_-95.958734@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299336,
+    "wof:geomhash":"e26971e7f0e60e67ce5c675c15b9b543",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974747,
+            "neighbourhood_id":85820061,
+            "region_id":85688563,
+            "venue_id":873874963
+        }
+    ],
+    "wof:id":873874963,
+    "wof:lastmodified":1464299336,
+    "wof:name":"Convenient Food Mart",
+    "wof:parent_id":85820061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -95.958734,
+    41.108115,
+    -95.958734,
+    41.108115
+],
+  "geometry": {"coordinates":[-95.95873400000001,41.108115],"type":"Point"}
+}

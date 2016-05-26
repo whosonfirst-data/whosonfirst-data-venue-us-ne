@@ -1,0 +1,73 @@
+{
+  "id": 873831443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.624989,40.841979,-96.624989,40.841979",
+    "geom:latitude":40.841979,
+    "geom:longitude":-96.624989,
+    "iso:country":"US",
+    "sg:address":"2951 N 70th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 466 2951",
+    "sg:postcode":"68507",
+    "sg:province":"NE",
+    "sg:tags":[
+        "photographer",
+        "photo"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85824241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5unONX7qk5tByOluBxMW5Y_40.841979_-96.624989@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298358,
+    "wof:geomhash":"67be10d7e7d67d7fe1272a100fbdc198",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85824241,
+            "region_id":85688563,
+            "venue_id":873831443
+        }
+    ],
+    "wof:id":873831443,
+    "wof:lastmodified":1464298358,
+    "wof:name":"Anderson Studio Inc",
+    "wof:parent_id":85824241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photographer",
+        "photo"
+    ]
+},
+  "bbox": [
+    -96.624989,
+    40.841979,
+    -96.624989,
+    40.841979
+],
+  "geometry": {"coordinates":[-96.624989,40.841979],"type":"Point"}
+}

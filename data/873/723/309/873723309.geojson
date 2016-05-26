@@ -1,0 +1,77 @@
+{
+  "id": 873723309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.368094,41.424331,-97.368094,41.424331",
+    "geom:latitude":41.424331,
+    "geom:longitude":-97.368094,
+    "iso:country":"US",
+    "sg:address":"3205 8th St",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 562 8228",
+    "sg:postcode":"68601",
+    "sg:province":"NE",
+    "sg:tags":[
+        "cashing",
+        "accounting",
+        "depositing",
+        "check"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974401,
+        102084277,
+        85854093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_75iBxMnwAZimJumLaAuRew_41.424331_-97.368094@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296691,
+    "wof:geomhash":"a95cf05235ebbad484a87304eeded66c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084277,
+            "locality_id":85974401,
+            "neighbourhood_id":85854093,
+            "region_id":85688563,
+            "venue_id":873723309
+        }
+    ],
+    "wof:id":873723309,
+    "wof:lastmodified":1464296691,
+    "wof:name":"Check Services LLC",
+    "wof:parent_id":85854093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cashing",
+        "accounting",
+        "depositing",
+        "check"
+    ]
+},
+  "bbox": [
+    -97.368094,
+    41.424331,
+    -97.368094,
+    41.424331
+],
+  "geometry": {"coordinates":[-97.368094,41.424331],"type":"Point"}
+}

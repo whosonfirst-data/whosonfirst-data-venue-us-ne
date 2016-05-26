@@ -1,0 +1,70 @@
+{
+  "id": 873893873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.0055,41.299566,-96.0055,41.299566",
+    "geom:latitude":41.299566,
+    "geom:longitude":-96.0055,
+    "iso:country":"US",
+    "sg:address":"6020 Ames Ave",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 455 4545",
+    "sg:postcode":"68104",
+    "sg:province":"NE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85805755,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2bHj65MN2uLi2ezLil6j9q_41.299566_-96.005500@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299703,
+    "wof:geomhash":"5de59f0d7b42427814ab7be176171b2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85805755,
+            "region_id":85688563,
+            "venue_id":873893873
+        }
+    ],
+    "wof:id":873893873,
+    "wof:lastmodified":1464299703,
+    "wof:name":"AFLAC",
+    "wof:parent_id":85805755,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.0055,
+    41.299566,
+    -96.0055,
+    41.299566
+],
+  "geometry": {"coordinates":[-96.0055,41.299566],"type":"Point"}
+}

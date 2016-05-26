@@ -1,0 +1,71 @@
+{
+  "id": 873727147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.134684,41.321198,-96.134684,41.321198",
+    "geom:latitude":41.321198,
+    "geom:longitude":-96.134684,
+    "iso:country":"US",
+    "sg:address":"14314 Ida St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 496 3838",
+    "sg:postcode":"68142",
+    "sg:province":"NE",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85872505,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0jdpvLnoRaMr5nuU7oGM17_41.321198_-96.134684@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296742,
+    "wof:geomhash":"baa651c69f10c7821ba9c2ff2f862ed7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":873727147
+        }
+    ],
+    "wof:id":873727147,
+    "wof:lastmodified":1464296742,
+    "wof:name":"Witt Construction",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.134684,
+    41.321198,
+    -96.134684,
+    41.321198
+],
+  "geometry": {"coordinates":[-96.13468399999999,41.321198],"type":"Point"}
+}

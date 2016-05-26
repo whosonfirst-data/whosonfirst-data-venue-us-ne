@@ -1,0 +1,78 @@
+{
+  "id": 873784113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.630524,40.814598,-96.630524,40.814598",
+    "geom:latitude":40.814598,
+    "geom:longitude":-96.630524,
+    "iso:country":"US",
+    "sg:address":"110 N 66th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 464 1554",
+    "sg:postcode":"68505",
+    "sg:province":"NE",
+    "sg:tags":[
+        "video",
+        "tape"
+    ],
+    "sg:website":"www.hollywoodvideo.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878725,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6RYcoPfl2BuBEzMckGmYMc_40.814598_-96.630524@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297545,
+    "wof:geomhash":"f4b96bdc863bd84c9ff67d5bbd5d0352",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878725,
+            "region_id":85688563,
+            "venue_id":873784113
+        }
+    ],
+    "wof:id":873784113,
+    "wof:lastmodified":1464297545,
+    "wof:name":"Hollywood Video",
+    "wof:parent_id":85878725,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "video",
+        "tape"
+    ]
+},
+  "bbox": [
+    -96.630524,
+    40.814598,
+    -96.630524,
+    40.814598
+],
+  "geometry": {"coordinates":[-96.63052399999999,40.814598],"type":"Point"}
+}

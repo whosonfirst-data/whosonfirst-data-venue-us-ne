@@ -1,0 +1,86 @@
+{
+  "id": 873723865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.707008,40.826535,-96.707008,40.826535",
+    "geom:latitude":40.826535,
+    "geom:longitude":-96.707008,
+    "iso:country":"US",
+    "sg:address":"1211 N 10th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Durable Goods & Equipment",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 477 1111",
+    "sg:postcode":"68508",
+    "sg:province":"NE",
+    "sg:tags":[
+        "instrument",
+        "surveying",
+        "repair",
+        "professional"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878731,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4SZ3BznpnC9s6H7ynGqCX0_40.826535_-96.707008@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296697,
+    "wof:geomhash":"671414451ac678e79f73e42ac531650f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878731,
+            "region_id":85688563,
+            "venue_id":873723865
+        }
+    ],
+    "wof:id":873723865,
+    "wof:lastmodified":1464296697,
+    "wof:name":"Klein Survey Systems Inc",
+    "wof:parent_id":85878731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instrument",
+        "surveying",
+        "repair",
+        "professional"
+    ]
+},
+  "bbox": [
+    -96.707008,
+    40.826535,
+    -96.707008,
+    40.826535
+],
+  "geometry": {"coordinates":[-96.707008,40.826535],"type":"Point"}
+}

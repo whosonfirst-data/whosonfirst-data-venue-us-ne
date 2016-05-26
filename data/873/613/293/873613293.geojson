@@ -1,0 +1,75 @@
+{
+  "id": 873613293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.624979,40.793867,-96.624979,40.793867",
+    "geom:latitude":40.793867,
+    "geom:longitude":-96.624979,
+    "iso:country":"US",
+    "sg:address":"1710 S 70th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 489 8838",
+    "sg:postcode":"68506",
+    "sg:province":"NE",
+    "sg:tags":[
+        "building",
+        "commercial",
+        "operates"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_16mhjRSwLRXpgxn9vndIgw_40.793867_-96.624979@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295179,
+    "wof:geomhash":"f80e1430c25757b435f3792f2f6257c9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878697,
+            "region_id":85688563,
+            "venue_id":873613293
+        }
+    ],
+    "wof:id":873613293,
+    "wof:lastmodified":1464295179,
+    "wof:name":"70th Street Properties Inc",
+    "wof:parent_id":85878697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "commercial",
+        "operates"
+    ]
+},
+  "bbox": [
+    -96.624979,
+    40.793867,
+    -96.624979,
+    40.793867
+],
+  "geometry": {"coordinates":[-96.624979,40.793867],"type":"Point"}
+}

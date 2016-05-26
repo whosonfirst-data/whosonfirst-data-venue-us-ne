@@ -1,0 +1,73 @@
+{
+  "id": 873895499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.137042,41.183727,-96.137042,41.183727",
+    "geom:latitude":41.183727,
+    "geom:longitude":-96.137042,
+    "iso:country":"US",
+    "sg:address":"7600 S 142nd St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 891 1600",
+    "sg:postcode":"68138",
+    "sg:province":"NE",
+    "sg:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85834285,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0sSoFNkw6zC2G2UIioadch_41.183727_-96.137042@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299730,
+    "wof:geomhash":"07fa13a265124806bcd1f53e0ada6d28",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85834285,
+            "region_id":85688563,
+            "venue_id":873895499
+        }
+    ],
+    "wof:id":873895499,
+    "wof:lastmodified":1464299730,
+    "wof:name":"U-Haul Co",
+    "wof:parent_id":85834285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -96.137042,
+    41.183727,
+    -96.137042,
+    41.183727
+],
+  "geometry": {"coordinates":[-96.13704199999999,41.183727],"type":"Point"}
+}

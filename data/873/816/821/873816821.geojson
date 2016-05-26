@@ -1,0 +1,75 @@
+{
+  "id": 873816821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.958955,41.236651,-95.958955,41.236651",
+    "geom:latitude":41.236651,
+    "geom:longitude":-95.958955,
+    "iso:country":"US",
+    "sg:address":"2309 Hanscom Blvd",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Theater",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 932 3821",
+    "sg:postcode":"68105",
+    "sg:province":"NE",
+    "sg:tags":[
+        "live"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872527,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0oykK21j4kQcg7qYw7PHTo_41.236651_-95.958955@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298050,
+    "wof:geomhash":"e6b10136cd0e25b561f750d6095528a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872527,
+            "region_id":85688563,
+            "venue_id":873816821
+        }
+    ],
+    "wof:id":873816821,
+    "wof:lastmodified":1464298050,
+    "wof:name":"Omaha Magic Theatre Inc",
+    "wof:parent_id":85872527,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "live"
+    ]
+},
+  "bbox": [
+    -95.958955,
+    41.236651,
+    -95.958955,
+    41.236651
+],
+  "geometry": {"coordinates":[-95.958955,41.236651],"type":"Point"}
+}

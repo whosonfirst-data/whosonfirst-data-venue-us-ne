@@ -1,0 +1,73 @@
+{
+  "id": 873731875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.236719,41.146921,-96.236719,41.146921",
+    "geom:latitude":41.146921,
+    "geom:longitude":-96.236719,
+    "iso:country":"US",
+    "sg:address":"20604 State Hwy 370",
+    "sg:city":"Gretna",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 332 4774",
+    "sg:postcode":"68028",
+    "sg:province":"NE",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85834285,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_13MlcjkZ5dUQ86dhqGXRvN_41.146921_-96.236719@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296802,
+    "wof:geomhash":"1f48529f0e6df8dfdb1461285efa55ae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85834285,
+            "region_id":85688563,
+            "venue_id":873731875
+        }
+    ],
+    "wof:id":873731875,
+    "wof:lastmodified":1464296802,
+    "wof:name":"Gretna Paint & Body Repair",
+    "wof:parent_id":85834285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -96.236719,
+    41.146921,
+    -96.236719,
+    41.146921
+],
+  "geometry": {"coordinates":[-96.23671899999999,41.146921],"type":"Point"}
+}

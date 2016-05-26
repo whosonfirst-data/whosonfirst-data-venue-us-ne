@@ -1,0 +1,75 @@
+{
+  "id": 873546015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.664579,40.751104,-96.664579,40.751104",
+    "geom:latitude":40.751104,
+    "geom:longitude":-96.664579,
+    "iso:country":"US",
+    "sg:address":"6050 Village Dr",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 421 8581",
+    "sg:postcode":"68516",
+    "sg:province":"NE",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878739,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6iOogFN6hyLbmuhrTmTvAr_40.751104_-96.664579@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294328,
+    "wof:geomhash":"5c3b213210cb37dbdf85d4e3f96f210f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878739,
+            "region_id":85688563,
+            "venue_id":873546015
+        }
+    ],
+    "wof:id":873546015,
+    "wof:lastmodified":1464294328,
+    "wof:name":"Jeffrey E Tomjack MD",
+    "wof:parent_id":85878739,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -96.664579,
+    40.751104,
+    -96.664579,
+    40.751104
+],
+  "geometry": {"coordinates":[-96.664579,40.751104],"type":"Point"}
+}

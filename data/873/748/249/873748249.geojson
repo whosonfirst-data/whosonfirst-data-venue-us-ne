@@ -1,0 +1,76 @@
+{
+  "id": 873748249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.705724,40.794207,-96.705724,40.794207",
+    "geom:latitude":40.794207,
+    "geom:longitude":-96.705724,
+    "iso:country":"US",
+    "sg:address":"1845 S 11th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"News Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 475 6397",
+    "sg:postcode":"68502",
+    "sg:province":"NE",
+    "sg:tags":[
+        "syndicate"
+    ],
+    "sg:website":"www.newslinkinc.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878705,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_74768zzadvytMuLTyVvkoE_40.794207_-96.705724@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297052,
+    "wof:geomhash":"256d1a1b14c989beddeb1c501f94b32a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878705,
+            "region_id":85688563,
+            "venue_id":873748249
+        }
+    ],
+    "wof:id":873748249,
+    "wof:lastmodified":1464297052,
+    "wof:name":"News Link",
+    "wof:parent_id":85878705,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "syndicate"
+    ]
+},
+  "bbox": [
+    -96.705724,
+    40.794207,
+    -96.705724,
+    40.794207
+],
+  "geometry": {"coordinates":[-96.705724,40.794207],"type":"Point"}
+}

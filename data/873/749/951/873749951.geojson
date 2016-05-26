@@ -1,0 +1,71 @@
+{
+  "id": 873749951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.696798,40.787138,-96.696798,40.787138",
+    "geom:latitude":40.787138,
+    "geom:longitude":-96.696798,
+    "iso:country":"US",
+    "sg:address":"2500 S 17th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 476 6202",
+    "sg:postcode":"68502",
+    "sg:province":"NE",
+    "sg:website":"www.bsacrament.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878719,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_31rHPWPoCnqWzt5pkLcv4v_40.787138_-96.696798@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297074,
+    "wof:geomhash":"8848bad4d4f138930e538de06124df99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878719,
+            "region_id":85688563,
+            "venue_id":873749951
+        }
+    ],
+    "wof:id":873749951,
+    "wof:lastmodified":1464297074,
+    "wof:name":"Blessed Sacrament School",
+    "wof:parent_id":85878719,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.696798,
+    40.787138,
+    -96.696798,
+    40.787138
+],
+  "geometry": {"coordinates":[-96.696798,40.787138],"type":"Point"}
+}

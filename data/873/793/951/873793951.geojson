@@ -1,0 +1,75 @@
+{
+  "id": 873793951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.986389,41.174572,-95.986389,41.174572",
+    "geom:latitude":41.174572,
+    "geom:longitude":-95.986389,
+    "iso:country":"US",
+    "sg:address":"4710 Virginia St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 346 4852",
+    "sg:postcode":"68157",
+    "sg:province":"NE",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85849923,
+        102191575,
+        404519143,
+        85633793,
+        85974545,
+        102082777,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7KOZ6KtOHMnnzTp3EbUd9m_41.174572_-95.986389@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297702,
+    "wof:geomhash":"069276190485135df06b7343d9931b9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082777,
+            "localadmin_id":404519143,
+            "locality_id":85974545,
+            "neighbourhood_id":85849923,
+            "region_id":85688563,
+            "venue_id":873793951
+        }
+    ],
+    "wof:id":873793951,
+    "wof:lastmodified":1464297702,
+    "wof:name":"Southwinds",
+    "wof:parent_id":85849923,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -95.986389,
+    41.174572,
+    -95.986389,
+    41.174572
+],
+  "geometry": {"coordinates":[-95.986389,41.174572],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873845229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.923376,41.15436,-95.923376,41.15436",
+    "geom:latitude":41.15436,
+    "geom:longitude":-95.923376,
+    "iso:country":"US",
+    "sg:address":"2102 Harvell Cir",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Job Training",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 293 5500",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "rehabilitation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85821583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_30xKLMujlFaPr3k9cuJCdm_41.154360_-95.923376@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298687,
+    "wof:geomhash":"d96ab4f0a30fe3a62fe359c077b5ef26",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85821583,
+            "region_id":85688563,
+            "venue_id":873845229
+        }
+    ],
+    "wof:id":873845229,
+    "wof:lastmodified":1464298687,
+    "wof:name":"Quality Living Inc",
+    "wof:parent_id":85821583,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "rehabilitation"
+    ]
+},
+  "bbox": [
+    -95.923376,
+    41.15436,
+    -95.923376,
+    41.15436
+],
+  "geometry": {"coordinates":[-95.923376,41.15436],"type":"Point"}
+}

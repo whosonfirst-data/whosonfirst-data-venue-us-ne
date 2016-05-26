@@ -1,0 +1,75 @@
+{
+  "id": 873906555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.120976,41.234015,-96.120976,41.234015",
+    "geom:latitude":41.234015,
+    "geom:longitude":-96.120976,
+    "iso:country":"US",
+    "sg:address":"13255 W Center Rd",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 697 1080",
+    "sg:postcode":"68144",
+    "sg:province":"NE",
+    "sg:tags":[
+        "loan"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872531,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_02KA99OrRjdoMdem5KxrtR_41.234015_-96.120976@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299950,
+    "wof:geomhash":"7d6d3b1c719a724cb2fe80d46a0ac6f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872531,
+            "region_id":85688563,
+            "venue_id":873906555
+        }
+    ],
+    "wof:id":873906555,
+    "wof:lastmodified":1464299950,
+    "wof:name":"Paycheck Advance",
+    "wof:parent_id":85872531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan"
+    ]
+},
+  "bbox": [
+    -96.120976,
+    41.234015,
+    -96.120976,
+    41.234015
+],
+  "geometry": {"coordinates":[-96.120976,41.234015],"type":"Point"}
+}

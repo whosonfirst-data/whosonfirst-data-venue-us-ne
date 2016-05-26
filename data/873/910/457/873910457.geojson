@@ -1,0 +1,75 @@
+{
+  "id": 873910457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.935367,41.158643,-95.935367,41.158643",
+    "geom:latitude":41.158643,
+    "geom:longitude":-95.935367,
+    "iso:country":"US",
+    "sg:address":"10601 S 15th St",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 293 6600",
+    "sg:postcode":"68123",
+    "sg:province":"NE",
+    "sg:tags":[
+        "arts",
+        "distribution",
+        "warehousing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85821583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0CBdhJm4PMpkBSINxf9P2e_41.158643_-95.935367@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300021,
+    "wof:geomhash":"f44245693caa9876f437d9e3a16d8c0c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85821583,
+            "region_id":85688563,
+            "venue_id":873910457
+        }
+    ],
+    "wof:id":873910457,
+    "wof:lastmodified":1464300021,
+    "wof:name":"Caterpillar",
+    "wof:parent_id":85821583,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "arts",
+        "distribution",
+        "warehousing"
+    ]
+},
+  "bbox": [
+    -95.935367,
+    41.158643,
+    -95.935367,
+    41.158643
+],
+  "geometry": {"coordinates":[-95.935367,41.158643],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873573789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.958063,41.109915,-95.958063,41.109915",
+    "geom:latitude":41.109915,
+    "geom:longitude":-95.958063,
+    "iso:country":"US",
+    "sg:address":"3002 Jason St",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 291 8080",
+    "sg:postcode":"68123",
+    "sg:province":"NE",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974747,
+        102082777,
+        85820061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4faT1ItYpNmsgjn4Own4ah_41.109915_-95.958063@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294650,
+    "wof:geomhash":"0855ed74a67393cc65ddbe3f000e0e52",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974747,
+            "neighbourhood_id":85820061,
+            "region_id":85688563,
+            "venue_id":873573789
+        }
+    ],
+    "wof:id":873573789,
+    "wof:lastmodified":1464294650,
+    "wof:name":"Around House Improvements",
+    "wof:parent_id":85820061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -95.958063,
+    41.109915,
+    -95.958063,
+    41.109915
+],
+  "geometry": {"coordinates":[-95.958063,41.109915],"type":"Point"}
+}

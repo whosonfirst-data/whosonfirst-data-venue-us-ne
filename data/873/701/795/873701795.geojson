@@ -1,0 +1,73 @@
+{
+  "id": 873701795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.042412,41.156332,-96.042412,41.156332",
+    "geom:latitude":41.156332,
+    "geom:longitude":-96.042412,
+    "iso:country":"US",
+    "sg:address":"219 E 1st St",
+    "sg:city":"Papillion",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 339 6460",
+    "sg:postcode":"68046",
+    "sg:province":"NE",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85843697,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2BZINfdvyevckkBlOTUGSI_41.156332_-96.042412@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296423,
+    "wof:geomhash":"1487c79b279cad7fb27f8ad13d27b025",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85843697,
+            "region_id":85688563,
+            "venue_id":873701795
+        }
+    ],
+    "wof:id":873701795,
+    "wof:lastmodified":1464296423,
+    "wof:name":"Papillion Foreign Motors Inc",
+    "wof:parent_id":85843697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -96.042412,
+    41.156332,
+    -96.042412,
+    41.156332
+],
+  "geometry": {"coordinates":[-96.042412,41.156332],"type":"Point"}
+}

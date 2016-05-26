@@ -1,0 +1,74 @@
+{
+  "id": 873662593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.916611,41.141542,-95.916611,41.141542",
+    "geom:latitude":41.141542,
+    "geom:longitude":-95.916611,
+    "iso:country":"US",
+    "sg:address":"1702 Hillcrest Dr",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 682 4295",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "home",
+        "residential"
+    ],
+    "sg:website":"www.hillcresthealth.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85821583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_69Z3DZd1LbuTeTN5Mdy8td_41.141542_-95.916611@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295726,
+    "wof:geomhash":"f6b240bfcf1770f458342274d519bfc8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85821583,
+            "region_id":85688563,
+            "venue_id":873662593
+        }
+    ],
+    "wof:id":873662593,
+    "wof:lastmodified":1464295726,
+    "wof:name":"Victoria Gardens",
+    "wof:parent_id":85821583,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "residential"
+    ]
+},
+  "bbox": [
+    -95.916611,
+    41.141542,
+    -95.916611,
+    41.141542
+],
+  "geometry": {"coordinates":[-95.916611,41.141542],"type":"Point"}
+}

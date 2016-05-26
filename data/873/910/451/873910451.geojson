@@ -1,0 +1,77 @@
+{
+  "id": 873910451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.968131,41.281397,-95.968131,41.281397",
+    "geom:latitude":41.281397,
+    "geom:longitude":-95.968131,
+    "iso:country":"US",
+    "sg:address":"3651 Lake St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 505 9961",
+    "sg:postcode":"68111",
+    "sg:province":"NE",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872525,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6jYNCaHchmFEgRzxj9xV1S_41.281397_-95.968131@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300021,
+    "wof:geomhash":"2a42a4ac0141109c72bbf9791e144709",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872525,
+            "region_id":85688563,
+            "venue_id":873910451
+        }
+    ],
+    "wof:id":873910451,
+    "wof:lastmodified":1464300021,
+    "wof:name":"Northern Electric",
+    "wof:parent_id":85872525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -95.968131,
+    41.281397,
+    -95.968131,
+    41.281397
+],
+  "geometry": {"coordinates":[-95.968131,41.281397],"type":"Point"}
+}

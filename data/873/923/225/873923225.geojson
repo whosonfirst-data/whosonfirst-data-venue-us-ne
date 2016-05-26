@@ -1,0 +1,69 @@
+{
+  "id": 873923225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.039373,41.187081,-96.039373,41.187081",
+    "geom:latitude":41.187081,
+    "geom:longitude":-96.039373,
+    "iso:country":"US",
+    "sg:address":"8110 Park View Blvd",
+    "sg:city":"La Vista",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 331 4748",
+    "sg:postcode":"68128",
+    "sg:province":"NE",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85843697,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2qwKQyNF0kd5Uhc8iED2qT_41.187081_-96.039373@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300275,
+    "wof:geomhash":"efcc42603cfb3d90b5abce60242b7cc8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85843697,
+            "region_id":85688563,
+            "venue_id":873923225
+        }
+    ],
+    "wof:id":873923225,
+    "wof:lastmodified":1464300275,
+    "wof:name":"LA Vista Fire Dept",
+    "wof:parent_id":85843697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -96.039373,
+    41.187081,
+    -96.039373,
+    41.187081
+],
+  "geometry": {"coordinates":[-96.039373,41.187081],"type":"Point"}
+}

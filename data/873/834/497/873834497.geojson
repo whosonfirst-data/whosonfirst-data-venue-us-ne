@@ -1,0 +1,72 @@
+{
+  "id": 873834497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.637069,40.865321,-96.637069,40.865321",
+    "geom:latitude":40.865321,
+    "geom:longitude":-96.637069,
+    "iso:country":"US",
+    "sg:address":"6940 Cornhusker Hwy",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 434 2006",
+    "sg:postcode":"68507",
+    "sg:province":"NE",
+    "sg:tags":[
+        "boiler"
+    ],
+    "sg:website":"www.neboiler.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85824241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2kr4ziIm4JEGAHOJ1fgtL8_40.865321_-96.637069@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298433,
+    "wof:geomhash":"e4f2365e6299328d3a02f5195fe17525",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85824241,
+            "region_id":85688563,
+            "venue_id":873834497
+        }
+    ],
+    "wof:id":873834497,
+    "wof:lastmodified":1464298433,
+    "wof:name":"Energy Recovery Intl",
+    "wof:parent_id":85824241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "boiler"
+    ]
+},
+  "bbox": [
+    -96.637069,
+    40.865321,
+    -96.637069,
+    40.865321
+],
+  "geometry": {"coordinates":[-96.637069,40.865321],"type":"Point"}
+}

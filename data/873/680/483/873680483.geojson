@@ -1,0 +1,78 @@
+{
+  "id": 873680483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.138834,41.166805,-96.138834,41.166805",
+    "geom:latitude":41.166805,
+    "geom:longitude":-96.138834,
+    "iso:country":"US",
+    "sg:address":"9509 S 144th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 895 5286",
+    "sg:postcode":"68138",
+    "sg:province":"NE",
+    "sg:tags":[
+        "station",
+        "gasoline",
+        "filing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85834285,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5XTLDrf2PfmOt1hmiI0w7H_41.166805_-96.138834@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296009,
+    "wof:geomhash":"9d4f0b6c300d257da55e3bcfa1175877",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85834285,
+            "region_id":85688563,
+            "venue_id":873680483
+        }
+    ],
+    "wof:id":873680483,
+    "wof:lastmodified":1464296009,
+    "wof:name":"Wally's Place",
+    "wof:parent_id":85834285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline",
+        "filing"
+    ]
+},
+  "bbox": [
+    -96.138834,
+    41.166805,
+    -96.138834,
+    41.166805
+],
+  "geometry": {"coordinates":[-96.138834,41.166805],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 873607245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.081776,41.286155,-96.081776,41.286155",
+    "geom:latitude":41.286155,
+    "geom:longitude":-96.081776,
+    "iso:country":"US",
+    "sg:address":"10824 Cottonwood Ln",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 493 2085",
+    "sg:postcode":"68164",
+    "sg:province":"NE",
+    "sg:tags":[
+        "lock",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872503,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6OulP9JkQLQHr5vEdzTjl9_41.286155_-96.081776@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295082,
+    "wof:geomhash":"303c5a33ec27377a4ccac74e48f7b021",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872503,
+            "region_id":85688563,
+            "venue_id":873607245
+        }
+    ],
+    "wof:id":873607245,
+    "wof:lastmodified":1464295082,
+    "wof:name":"Accurate Locksmiths",
+    "wof:parent_id":85872503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "locksmith"
+    ]
+},
+  "bbox": [
+    -96.081776,
+    41.286155,
+    -96.081776,
+    41.286155
+],
+  "geometry": {"coordinates":[-96.081776,41.286155],"type":"Point"}
+}

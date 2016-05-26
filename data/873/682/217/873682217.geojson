@@ -1,0 +1,78 @@
+{
+  "id": 873682217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.024014,41.254372,-96.024014,41.254372",
+    "geom:latitude":41.254372,
+    "geom:longitude":-96.024014,
+    "iso:country":"US",
+    "sg:address":"602 S 72nd St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 301 1060",
+    "sg:postcode":"68114",
+    "sg:province":"NE",
+    "sg:tags":[
+        "instrument",
+        "musical"
+    ],
+    "sg:website":"www.drumcityinc.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872509,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4bKLPRMt37aMQ0XY1n9pUQ_41.254372_-96.024014@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296059,
+    "wof:geomhash":"480aff9b96df9c38c0a3020b11a03668",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872509,
+            "region_id":85688563,
+            "venue_id":873682217
+        }
+    ],
+    "wof:id":873682217,
+    "wof:lastmodified":1464296059,
+    "wof:name":"Drum Shop",
+    "wof:parent_id":85872509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instrument",
+        "musical"
+    ]
+},
+  "bbox": [
+    -96.024014,
+    41.254372,
+    -96.024014,
+    41.254372
+],
+  "geometry": {"coordinates":[-96.02401399999999,41.254372],"type":"Point"}
+}

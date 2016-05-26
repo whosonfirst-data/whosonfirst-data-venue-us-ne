@@ -1,0 +1,71 @@
+{
+  "id": 873960023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.368125,41.424406,-97.368125,41.424406",
+    "geom:latitude":41.424406,
+    "geom:longitude":-97.368125,
+    "iso:country":"US",
+    "sg:address":"3200 8th St",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 564 2729",
+    "sg:postcode":"68601",
+    "sg:province":"NE",
+    "sg:tags":[
+        "operation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974401,
+        102084277,
+        85854093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2iFnEYWu2suznZByEV2GF5_41.424406_-97.368125@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464301528,
+    "wof:geomhash":"af89e6bcdb0d3e80bfa65c7c559bb52c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084277,
+            "locality_id":85974401,
+            "neighbourhood_id":85854093,
+            "region_id":85688563,
+            "venue_id":873960023
+        }
+    ],
+    "wof:id":873960023,
+    "wof:lastmodified":1464301528,
+    "wof:name":"Berkey Motel",
+    "wof:parent_id":85854093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operation"
+    ]
+},
+  "bbox": [
+    -97.368125,
+    41.424406,
+    -97.368125,
+    41.424406
+],
+  "geometry": {"coordinates":[-97.36812500000001,41.424406],"type":"Point"}
+}

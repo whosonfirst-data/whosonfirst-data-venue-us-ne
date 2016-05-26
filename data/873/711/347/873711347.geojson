@@ -1,0 +1,69 @@
+{
+  "id": 873711347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.060875,41.311707,-96.060875,41.311707",
+    "geom:latitude":41.311707,
+    "geom:longitude":-96.060875,
+    "iso:country":"US",
+    "sg:address":"9425 Laurel Cir",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 331 3408",
+    "sg:postcode":"68134",
+    "sg:province":"NE",
+    "sg:tags":[
+        "printer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85872505,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1P6wQ4ItPKhDgWZBL8KH2c_41.311707_-96.060875@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296537,
+    "wof:geomhash":"cb95964fa722e587cc9f6cc8c16fe26c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":873711347
+        }
+    ],
+    "wof:id":873711347,
+    "wof:lastmodified":1464296537,
+    "wof:name":"PIP Printing",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "printer"
+    ]
+},
+  "bbox": [
+    -96.060875,
+    41.311707,
+    -96.060875,
+    41.311707
+],
+  "geometry": {"coordinates":[-96.060875,41.311707],"type":"Point"}
+}

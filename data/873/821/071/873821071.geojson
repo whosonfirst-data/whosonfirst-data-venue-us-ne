@@ -1,0 +1,73 @@
+{
+  "id": 873821071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.890132,41.124814,-95.890132,41.124814",
+    "geom:latitude":41.124814,
+    "geom:longitude":-95.890132,
+    "iso:country":"US",
+    "sg:address":"3302 Harlan Lewis Rd",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Meat",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 291 3600",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "prod",
+        "prepared"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974747,
+        102082777,
+        85820061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0AmmL57uTYhHhOhp1lNnY6_41.124814_-95.890132@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298139,
+    "wof:geomhash":"259fd98e089165525d18a22526db510b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974747,
+            "neighbourhood_id":85820061,
+            "region_id":85688563,
+            "venue_id":873821071
+        }
+    ],
+    "wof:id":873821071,
+    "wof:lastmodified":1464298139,
+    "wof:name":"O'Brien & Co",
+    "wof:parent_id":85820061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "prod",
+        "prepared"
+    ]
+},
+  "bbox": [
+    -95.890132,
+    41.124814,
+    -95.890132,
+    41.124814
+],
+  "geometry": {"coordinates":[-95.89013199999999,41.124814],"type":"Point"}
+}

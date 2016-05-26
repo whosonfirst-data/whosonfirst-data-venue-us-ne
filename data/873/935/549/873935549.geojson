@@ -1,0 +1,79 @@
+{
+  "id": 873935549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.668335,40.809915,-96.668335,40.809915",
+    "geom:latitude":40.809915,
+    "geom:longitude":-96.668335,
+    "iso:country":"US",
+    "sg:address":"3540 L St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 476 5349",
+    "sg:postcode":"68510",
+    "sg:province":"NE",
+    "sg:tags":[
+        "general",
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878715,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5HGIrmLaNjLoI8k24W9FUI_40.809915_-96.668335@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300510,
+    "wof:geomhash":"a62dbd9a95ed5ce31f149857fb620c4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878715,
+            "region_id":85688563,
+            "venue_id":873935549
+        }
+    ],
+    "wof:id":873935549,
+    "wof:lastmodified":1464300510,
+    "wof:name":"Bison Electric Co Inc",
+    "wof:parent_id":85878715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.668335,
+    40.809915,
+    -96.668335,
+    40.809915
+],
+  "geometry": {"coordinates":[-96.668335,40.809915],"type":"Point"}
+}

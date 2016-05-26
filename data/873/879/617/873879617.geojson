@@ -1,0 +1,70 @@
+{
+  "id": 873879617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.064094,41.176226,-96.064094,41.176226",
+    "geom:latitude":41.176226,
+    "geom:longitude":-96.064094,
+    "iso:country":"US",
+    "sg:address":"9631 Giles Rd",
+    "sg:city":"La Vista",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 339 4010",
+    "sg:postcode":"68128",
+    "sg:province":"NE",
+    "sg:tags":[
+        "caterer"
+    ],
+    "sg:website":"www.samuelmancinos.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85843697,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0S4SH8sSEy3R8ncWQhtDbW_41.176226_-96.064094@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299425,
+    "wof:geomhash":"5dec40211d66ec111757fface96184fa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85843697,
+            "region_id":85688563,
+            "venue_id":873879617
+        }
+    ],
+    "wof:id":873879617,
+    "wof:lastmodified":1464299425,
+    "wof:name":"Samuel Mancino's Italian",
+    "wof:parent_id":85843697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caterer"
+    ]
+},
+  "bbox": [
+    -96.064094,
+    41.176226,
+    -96.064094,
+    41.176226
+],
+  "geometry": {"coordinates":[-96.064094,41.176226],"type":"Point"}
+}

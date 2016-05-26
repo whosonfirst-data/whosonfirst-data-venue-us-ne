@@ -1,0 +1,73 @@
+{
+  "id": 873961629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.636412,40.721203,-96.636412,40.721203",
+    "geom:latitude":40.721203,
+    "geom:longitude":-96.636412,
+    "iso:country":"US",
+    "sg:address":"9201 S 63rd St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 423 9207",
+    "sg:postcode":"68516",
+    "sg:province":"NE",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85878745,
+        102083503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7JZ8KSstp65BlqIw3uiy0T_40.721203_-96.636412@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464301622,
+    "wof:geomhash":"3bc484f7ed69e193e7d353d9a92aa540",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "neighbourhood_id":85878745,
+            "region_id":85688563,
+            "venue_id":873961629
+        }
+    ],
+    "wof:id":873961629,
+    "wof:lastmodified":1464301622,
+    "wof:name":"Lonnie Noble Trucking Inc",
+    "wof:parent_id":85878745,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -96.636412,
+    40.721203,
+    -96.636412,
+    40.721203
+],
+  "geometry": {"coordinates":[-96.63641200000001,40.721203],"type":"Point"}
+}

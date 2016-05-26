@@ -1,0 +1,78 @@
+{
+  "id": 873976305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.04805,41.284821,-96.04805,41.284821",
+    "geom:latitude":41.284821,
+    "geom:longitude":-96.04805,
+    "iso:country":"US",
+    "sg:address":"8727 Maple St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ne/omaha/10711-charlies-on-the-lake/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 502 7343",
+    "sg:postcode":"68134",
+    "sg:province":"NE",
+    "sg:tags":[
+        "seafood",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867061,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4n9QGdeZ76dD3YEFKl7VZ6_41.284821_-96.048050@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464302233,
+    "wof:geomhash":"2b03d351270615cdeaadef574d8ae280",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85867061,
+            "region_id":85688563,
+            "venue_id":873976305
+        }
+    ],
+    "wof:id":873976305,
+    "wof:lastmodified":1464302233,
+    "wof:name":"Charlie's On The Lake",
+    "wof:parent_id":85867061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "seafood",
+        "american"
+    ]
+},
+  "bbox": [
+    -96.04805,
+    41.284821,
+    -96.04805,
+    41.284821
+],
+  "geometry": {"coordinates":[-96.04805,41.284821],"type":"Point"}
+}

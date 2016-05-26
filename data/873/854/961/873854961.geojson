@@ -1,0 +1,71 @@
+{
+  "id": 873854961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.887913,41.147775,-95.887913,41.147775",
+    "geom:latitude":41.147775,
+    "geom:longitude":-95.887913,
+    "iso:country":"US",
+    "sg:address":"1205 Bluff St",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 292 1264",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85804025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3QeBf6ReC8pfWq77gHBhpo_41.147775_-95.887913@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298913,
+    "wof:geomhash":"3d9f85fa58df568dd3b215c6379e330e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85804025,
+            "region_id":85688563,
+            "venue_id":873854961
+        }
+    ],
+    "wof:id":873854961,
+    "wof:lastmodified":1464298913,
+    "wof:name":"Chris Rieple Construction",
+    "wof:parent_id":85804025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -95.887913,
+    41.147775,
+    -95.887913,
+    41.147775
+],
+  "geometry": {"coordinates":[-95.887913,41.147775],"type":"Point"}
+}

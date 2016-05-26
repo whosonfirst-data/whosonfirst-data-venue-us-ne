@@ -1,0 +1,75 @@
+{
+  "id": 873685905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.728332,40.784442,-96.728332,40.784442",
+    "geom:latitude":40.784442,
+    "geom:longitude":-96.728332,
+    "iso:country":"US",
+    "sg:address":"3010 SW 6th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Vending Machines",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 477 2479",
+    "sg:postcode":"68522",
+    "sg:province":"NE",
+    "sg:tags":[
+        "operator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420525807,
+        102191575,
+        404520095,
+        85633793,
+        85974679,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3B58ivhb3M1w4icleQ2IgY_40.784442_-96.728332@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296162,
+    "wof:geomhash":"28ca9ec24f17852501c9bf187101923c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404520095,
+            "locality_id":85974679,
+            "neighbourhood_id":420525807,
+            "region_id":85688563,
+            "venue_id":873685905
+        }
+    ],
+    "wof:id":873685905,
+    "wof:lastmodified":1464296162,
+    "wof:name":"Cottonwood Vending",
+    "wof:parent_id":420525807,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator"
+    ]
+},
+  "bbox": [
+    -96.728332,
+    40.784442,
+    -96.728332,
+    40.784442
+],
+  "geometry": {"coordinates":[-96.72833199999999,40.784442],"type":"Point"}
+}

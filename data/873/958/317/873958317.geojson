@@ -1,0 +1,78 @@
+{
+  "id": 873958317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.690886,40.842785,-96.690886,40.842785",
+    "geom:latitude":40.842785,
+    "geom:longitude":-96.690886,
+    "iso:country":"US",
+    "sg:address":"2211 Cornhusker Hwy",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 464 7770",
+    "sg:postcode":"68521",
+    "sg:province":"NE",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "sg:website":"www.mrrooter.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878721,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_200C2BGZlWCSOGCh6VOhEQ_40.842785_-96.690886@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464301455,
+    "wof:geomhash":"3ccbdc929bc5c67a9e9379fbf17db8df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878721,
+            "region_id":85688563,
+            "venue_id":873958317
+        }
+    ],
+    "wof:id":873958317,
+    "wof:lastmodified":1464301455,
+    "wof:name":"Mr Rooter",
+    "wof:parent_id":85878721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.690886,
+    40.842785,
+    -96.690886,
+    40.842785
+],
+  "geometry": {"coordinates":[-96.69088600000001,40.842785],"type":"Point"}
+}

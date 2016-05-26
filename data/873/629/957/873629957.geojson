@@ -1,0 +1,77 @@
+{
+  "id": 873629957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.707091,40.810466,-96.707091,40.810466",
+    "geom:latitude":40.810466,
+    "geom:longitude":-96.707091,
+    "iso:country":"US",
+    "sg:address":"315 S 10th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 435 9185",
+    "sg:postcode":"68508",
+    "sg:province":"NE",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878699,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4s9bh2nq1QdVe1ExPd5z51_40.810466_-96.707091@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295365,
+    "wof:geomhash":"c2fe25c7e17f26a6a47124bcf5b0f6b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878699,
+            "region_id":85688563,
+            "venue_id":873629957
+        }
+    ],
+    "wof:id":873629957,
+    "wof:lastmodified":1464295365,
+    "wof:name":"Gross Amoco Service",
+    "wof:parent_id":85878699,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -96.707091,
+    40.810466,
+    -96.707091,
+    40.810466
+],
+  "geometry": {"coordinates":[-96.70709100000001,40.810466],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873555041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.905928,41.170897,-95.905928,41.170897",
+    "geom:latitude":41.170897,
+    "geom:longitude":-95.905928,
+    "iso:country":"US",
+    "sg:address":"1108 Camp Gifford Rd",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 733 5980",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85804025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0j12rPMeQ6ZkqapMIq1Lpv_41.170897_-95.905928@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294436,
+    "wof:geomhash":"d10dc47663432f1b2673da2dfbb3f801",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85804025,
+            "region_id":85688563,
+            "venue_id":873555041
+        }
+    ],
+    "wof:id":873555041,
+    "wof:lastmodified":1464294436,
+    "wof:name":"Stricklin Masonry",
+    "wof:parent_id":85804025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -95.905928,
+    41.170897,
+    -95.905928,
+    41.170897
+],
+  "geometry": {"coordinates":[-95.905928,41.170897],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 873895893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.044425,41.311569,-96.044425,41.311569",
+    "geom:latitude":41.311569,
+    "geom:longitude":-96.044425,
+    "iso:country":"US",
+    "sg:address":"8345 Crown Point Ave",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 572 6763",
+    "sg:postcode":"68134",
+    "sg:province":"NE",
+    "sg:tags":[
+        "church"
+    ],
+    "sg:website":"www.emmanuelfellowship.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85872505,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2G0lkhuujJMyxo7V4qbCKh_41.311569_-96.044425@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299739,
+    "wof:geomhash":"ae09d688684fdbae11f70b2f253ec35f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":873895893
+        }
+    ],
+    "wof:id":873895893,
+    "wof:lastmodified":1464299739,
+    "wof:name":"Emmanuel Fellowship Inc",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -96.044425,
+    41.311569,
+    -96.044425,
+    41.311569
+],
+  "geometry": {"coordinates":[-96.044425,41.311569],"type":"Point"}
+}

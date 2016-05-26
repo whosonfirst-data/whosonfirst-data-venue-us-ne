@@ -1,0 +1,77 @@
+{
+  "id": 873586057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.986554,41.178309,-95.986554,41.178309",
+    "geom:latitude":41.178309,
+    "geom:longitude":-95.986554,
+    "iso:country":"US",
+    "sg:address":"8202 S 48th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 734 2865",
+    "sg:postcode":"68157",
+    "sg:province":"NE",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85849923,
+        102191575,
+        404519143,
+        85633793,
+        85974545,
+        102082777,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4S6EHlCQwoZe1VztOXCfh1_41.178309_-95.986554@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294785,
+    "wof:geomhash":"7ee53002c08c593afb577f554a6ad145",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082777,
+            "localadmin_id":404519143,
+            "locality_id":85974545,
+            "neighbourhood_id":85849923,
+            "region_id":85688563,
+            "venue_id":873586057
+        }
+    ],
+    "wof:id":873586057,
+    "wof:lastmodified":1464294785,
+    "wof:name":"Amtech Auto Care Ctr",
+    "wof:parent_id":85849923,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -95.986554,
+    41.178309,
+    -95.986554,
+    41.178309
+],
+  "geometry": {"coordinates":[-95.986554,41.178309],"type":"Point"}
+}

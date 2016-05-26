@@ -1,0 +1,74 @@
+{
+  "id": 873744693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.923622,41.074721,-95.923622,41.074721",
+    "geom:latitude":41.074721,
+    "geom:longitude":-95.923622,
+    "iso:country":"US",
+    "sg:address":"1016 la Platte Rd",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 291 7607",
+    "sg:postcode":"68123",
+    "sg:province":"NE",
+    "sg:tags":[
+        "hauling",
+        "trucking"
+    ],
+    "sg:website":"www.flatbedexpress.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974747,
+        102082777,
+        85820061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4NYgKAnp8VcDaDR4bkuZVu_41.074721_-95.923622@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297006,
+    "wof:geomhash":"f3a1b2693ba21bdc9afd8f655a8aa385",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974747,
+            "neighbourhood_id":85820061,
+            "region_id":85688563,
+            "venue_id":873744693
+        }
+    ],
+    "wof:id":873744693,
+    "wof:lastmodified":1464297006,
+    "wof:name":"Flatbed Express",
+    "wof:parent_id":85820061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hauling",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -95.923622,
+    41.074721,
+    -95.923622,
+    41.074721
+],
+  "geometry": {"coordinates":[-95.92362199999999,41.074721],"type":"Point"}
+}

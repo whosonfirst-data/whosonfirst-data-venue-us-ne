@@ -1,0 +1,71 @@
+{
+  "id": 873538951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.052718,41.216399,-96.052718,41.216399",
+    "geom:latitude":41.216399,
+    "geom:longitude":-96.052718,
+    "iso:country":"US",
+    "sg:address":"4324 S 90th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 333 3390",
+    "sg:postcode":"68127",
+    "sg:province":"NE",
+    "sg:website":"www.ruan.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872511,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6btIRVulTyOAeKXncPzehh_41.216399_-96.052718@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294249,
+    "wof:geomhash":"160fa70b79083cd79d3986c03107b3a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872511,
+            "region_id":85688563,
+            "venue_id":873538951
+        }
+    ],
+    "wof:id":873538951,
+    "wof:lastmodified":1464294249,
+    "wof:name":"Single Source Transportation",
+    "wof:parent_id":85872511,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.052718,
+    41.216399,
+    -96.052718,
+    41.216399
+],
+  "geometry": {"coordinates":[-96.052718,41.216399],"type":"Point"}
+}

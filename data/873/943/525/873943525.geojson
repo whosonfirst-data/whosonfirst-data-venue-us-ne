@@ -1,0 +1,75 @@
+{
+  "id": 873943525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.993984,41.25439,-95.993984,41.25439",
+    "geom:latitude":41.25439,
+    "geom:longitude":-95.993984,
+    "iso:country":"US",
+    "sg:address":"510 S 51st Ave",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Membership Organization",
+            "type":"Services"
+        },
+        {
+            "category":"Organizations",
+            "subcategory":"Professional Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 558 7383",
+    "sg:postcode":"68106",
+    "sg:province":"NE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867055,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3mke9Dw653EFznYN5OJ6Yr_41.254390_-95.993984@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300830,
+    "wof:geomhash":"d8154118c0e02d32135388d367192148",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85867055,
+            "region_id":85688563,
+            "venue_id":873943525
+        }
+    ],
+    "wof:id":873943525,
+    "wof:lastmodified":1464300830,
+    "wof:name":"Epilepsy Association Nebraska",
+    "wof:parent_id":85867055,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -95.993984,
+    41.25439,
+    -95.993984,
+    41.25439
+],
+  "geometry": {"coordinates":[-95.993984,41.25439],"type":"Point"}
+}

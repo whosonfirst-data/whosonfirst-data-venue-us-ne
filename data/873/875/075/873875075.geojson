@@ -1,0 +1,73 @@
+{
+  "id": 873875075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.950596,41.175285,-95.950596,41.175285",
+    "geom:latitude":41.175285,
+    "geom:longitude":-95.950596,
+    "iso:country":"US",
+    "sg:address":"2554 Holly St",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 731 2197",
+    "sg:postcode":"68147",
+    "sg:province":"NE",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85821583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7GQi42C0s7uQtEZr33ATwN_41.175285_-95.950596@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299337,
+    "wof:geomhash":"bf1cc8dc239c423e4a73ffe0e2178510",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85821583,
+            "region_id":85688563,
+            "venue_id":873875075
+        }
+    ],
+    "wof:id":873875075,
+    "wof:lastmodified":1464299337,
+    "wof:name":"Mister Switch",
+    "wof:parent_id":85821583,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -95.950596,
+    41.175285,
+    -95.950596,
+    41.175285
+],
+  "geometry": {"coordinates":[-95.950596,41.175285],"type":"Point"}
+}

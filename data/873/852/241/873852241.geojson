@@ -1,0 +1,77 @@
+{
+  "id": 873852241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.973285,41.332076,-95.973285,41.332076",
+    "geom:latitude":41.332076,
+    "geom:longitude":-95.973285,
+    "iso:country":"US",
+    "sg:address":"3808 Grebe St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 933 0892",
+    "sg:postcode":"68112",
+    "sg:province":"NE",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85813863,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Z5d3B87esktaaPhdFNObk_41.332076_-95.973285@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298855,
+    "wof:geomhash":"7914a4fe6dd0f25019ada79223f99de2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85813863,
+            "region_id":85688563,
+            "venue_id":873852241
+        }
+    ],
+    "wof:id":873852241,
+    "wof:lastmodified":1464298855,
+    "wof:name":"Midwest Central Electric Co",
+    "wof:parent_id":85813863,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -95.973285,
+    41.332076,
+    -95.973285,
+    41.332076
+],
+  "geometry": {"coordinates":[-95.973285,41.332076],"type":"Point"}
+}

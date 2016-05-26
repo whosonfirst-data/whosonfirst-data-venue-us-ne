@@ -1,0 +1,70 @@
+{
+  "id": 873973815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.992996,41.283001,-95.992996,41.283001",
+    "geom:latitude":41.283001,
+    "geom:longitude":-95.992996,
+    "iso:country":"US",
+    "sg:address":"5101 NW Radial Hwy",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 553 5510",
+    "sg:postcode":"68104",
+    "sg:province":"NE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872535,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6bQQ3xDCGWICirD4u4re2a_41.283235_-95.993158@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464302151,
+    "wof:geomhash":"841d05c54e317534163e1e1f6cac11d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872535,
+            "region_id":85688563,
+            "venue_id":873973815
+        }
+    ],
+    "wof:id":873973815,
+    "wof:lastmodified":1464302151,
+    "wof:name":"Bob Beck's Barbery",
+    "wof:parent_id":85872535,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -95.992996,
+    41.283001,
+    -95.992996,
+    41.283001
+],
+  "geometry": {"coordinates":[-95.99299600000001,41.283001],"type":"Point"}
+}

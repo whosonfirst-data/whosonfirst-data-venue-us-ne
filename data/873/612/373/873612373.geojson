@@ -1,0 +1,75 @@
+{
+  "id": 873612373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.644351,40.77504,-96.644351,40.77504",
+    "geom:latitude":40.77504,
+    "geom:longitude":-96.644351,
+    "iso:country":"US",
+    "sg:address":"5402 Stockwell St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 489 2410",
+    "sg:postcode":"68506",
+    "sg:province":"NE",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85811821,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3On7hQ4m8qyS20AWmu1FPO_40.775040_-96.644351@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295170,
+    "wof:geomhash":"b342dba644f69409a31d4ca8c4ff8a99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85811821,
+            "region_id":85688563,
+            "venue_id":873612373
+        }
+    ],
+    "wof:id":873612373,
+    "wof:lastmodified":1464295170,
+    "wof:name":"CB Cleaning Service",
+    "wof:parent_id":85811821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -96.644351,
+    40.77504,
+    -96.644351,
+    40.77504
+],
+  "geometry": {"coordinates":[-96.644351,40.77504],"type":"Point"}
+}

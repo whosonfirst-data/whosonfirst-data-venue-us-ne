@@ -1,0 +1,75 @@
+{
+  "id": 873885629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.950783,41.325199,-95.950783,41.325199",
+    "geom:latitude":41.325199,
+    "geom:longitude":-95.950783,
+    "iso:country":"US",
+    "sg:address":"2515 Sharon Dr",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 451 4302",
+    "sg:postcode":"68112",
+    "sg:province":"NE",
+    "sg:tags":[
+        "condominium"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85805287,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7DbtXzaRQQZ5DfDyl4ctxf_41.325199_-95.950783@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299550,
+    "wof:geomhash":"709e1882f129919b958588b499fa5600",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85805287,
+            "region_id":85688563,
+            "venue_id":873885629
+        }
+    ],
+    "wof:id":873885629,
+    "wof:lastmodified":1464299550,
+    "wof:name":"Colony House Condominiums",
+    "wof:parent_id":85805287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "condominium"
+    ]
+},
+  "bbox": [
+    -95.950783,
+    41.325199,
+    -95.950783,
+    41.325199
+],
+  "geometry": {"coordinates":[-95.950783,41.325199],"type":"Point"}
+}

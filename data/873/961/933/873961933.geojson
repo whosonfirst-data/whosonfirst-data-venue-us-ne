@@ -1,0 +1,75 @@
+{
+  "id": 873961933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.97101,41.24133,-95.97101,41.24133",
+    "geom:latitude":41.24133,
+    "geom:longitude":-95.97101,
+    "iso:country":"US",
+    "sg:address":"1914 S 38th Ave",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 612 9300",
+    "sg:postcode":"68105",
+    "sg:province":"NE",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872527,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1wxD1rKA6Gk5clbzp6fhrl_41.241330_-95.971010@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464301647,
+    "wof:geomhash":"68c5be10181f8a0e5e5e5c9b35e97eb6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872527,
+            "region_id":85688563,
+            "venue_id":873961933
+        }
+    ],
+    "wof:id":873961933,
+    "wof:lastmodified":1464301647,
+    "wof:name":"C & C Electrostatic Painting",
+    "wof:parent_id":85872527,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -95.97101,
+    41.24133,
+    -95.97101,
+    41.24133
+],
+  "geometry": {"coordinates":[-95.97101000000001,41.24133],"type":"Point"}
+}

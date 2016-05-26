@@ -1,0 +1,71 @@
+{
+  "id": 873914159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.074996,41.314684,-96.074996,41.314684",
+    "geom:latitude":41.314684,
+    "geom:longitude":-96.074996,
+    "iso:country":"US",
+    "sg:address":"6302 N 103rd Ave",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 391 1654",
+    "sg:postcode":"68134",
+    "sg:province":"NE",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85872505,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6kJYNLks7reMb0Ye8WoMjN_41.314684_-96.074996@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300091,
+    "wof:geomhash":"31d729479a3e7761040ae3fafed19777",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":873914159
+        }
+    ],
+    "wof:id":873914159,
+    "wof:lastmodified":1464300091,
+    "wof:name":"Bellevue Ob",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -96.074996,
+    41.314684,
+    -96.074996,
+    41.314684
+],
+  "geometry": {"coordinates":[-96.074996,41.314684],"type":"Point"}
+}

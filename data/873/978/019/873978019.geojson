@@ -1,0 +1,76 @@
+{
+  "id": 873978019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.080748,41.287913,-96.080748,41.287913",
+    "geom:latitude":41.287913,
+    "geom:longitude":-96.080748,
+    "iso:country":"US",
+    "sg:address":"3211 N 108th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ne/omaha/204912-taco-bell/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 498 0345",
+    "sg:postcode":"68164",
+    "sg:province":"NE",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872503,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3yAfD8kaJglFWAvHGpFaEt_41.287780_-96.081341@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464302298,
+    "wof:geomhash":"391b0a58a5a51d6b11d5878a6b222e6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872503,
+            "region_id":85688563,
+            "venue_id":873978019
+        }
+    ],
+    "wof:id":873978019,
+    "wof:lastmodified":1464302298,
+    "wof:name":"Taco Bell",
+    "wof:parent_id":85872503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -96.080748,
+    41.287913,
+    -96.080748,
+    41.287913
+],
+  "geometry": {"coordinates":[-96.080748,41.287913],"type":"Point"}
+}

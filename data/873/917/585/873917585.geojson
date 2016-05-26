@@ -1,0 +1,78 @@
+{
+  "id": 873917585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.730817,40.860595,-96.730817,40.860595",
+    "geom:latitude":40.860595,
+    "geom:longitude":-96.730817,
+    "iso:country":"US",
+    "sg:address":"610 W Cuming St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 438 0538",
+    "sg:postcode":"68521",
+    "sg:province":"NE",
+    "sg:tags":[
+        "educational",
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_59HB4Bl7W5eJCeiIEIOTqu_40.860595_-96.730817@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300169,
+    "wof:geomhash":"5421a02d6b99b9db4cc629118fbbe74e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878717,
+            "region_id":85688563,
+            "venue_id":873917585
+        }
+    ],
+    "wof:id":873917585,
+    "wof:lastmodified":1464300169,
+    "wof:name":"National Child Resistant Testi",
+    "wof:parent_id":85878717,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "educational",
+        "day"
+    ]
+},
+  "bbox": [
+    -96.730817,
+    40.860595,
+    -96.730817,
+    40.860595
+],
+  "geometry": {"coordinates":[-96.730817,40.860595],"type":"Point"}
+}

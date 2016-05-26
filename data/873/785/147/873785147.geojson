@@ -1,0 +1,71 @@
+{
+  "id": 873785147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.046399,41.313148,-96.046399,41.313148",
+    "geom:latitude":41.313148,
+    "geom:longitude":-96.046399,
+    "iso:country":"US",
+    "sg:address":"6060 Wenninghoff Rd",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 571 3838",
+    "sg:postcode":"68134",
+    "sg:province":"NE",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85872505,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6hAXPlEx5Z9vr5NEndLTQC_41.313148_-96.046399@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297558,
+    "wof:geomhash":"12d79bbf853294f76cd0bfce24203ae9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":873785147
+        }
+    ],
+    "wof:id":873785147,
+    "wof:lastmodified":1464297558,
+    "wof:name":"Barry Larson & Son Genl Contrs",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.046399,
+    41.313148,
+    -96.046399,
+    41.313148
+],
+  "geometry": {"coordinates":[-96.04639899999999,41.313148],"type":"Point"}
+}

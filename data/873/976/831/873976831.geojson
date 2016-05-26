@@ -1,0 +1,76 @@
+{
+  "id": 873976831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.637825,40.862915,-96.637825,40.862915",
+    "geom:latitude":40.862915,
+    "geom:longitude":-96.637825,
+    "iso:country":"US",
+    "sg:address":"6001 Cornhusker Hwy",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ne/lincoln/115879-quiznos-sub/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 464 0110",
+    "sg:postcode":"68507",
+    "sg:province":"NE",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85824241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6wHMY7sMOjYybFCUqRtteB_40.862915_-96.637825@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464302250,
+    "wof:geomhash":"473d7aa53c26e63f6a48c39abbf678d2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85824241,
+            "region_id":85688563,
+            "venue_id":873976831
+        }
+    ],
+    "wof:id":873976831,
+    "wof:lastmodified":1464302250,
+    "wof:name":"Quiznos Sub",
+    "wof:parent_id":85824241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -96.637825,
+    40.862915,
+    -96.637825,
+    40.862915
+],
+  "geometry": {"coordinates":[-96.63782500000001,40.862915],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 873948209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.666978,40.843117,-96.666978,40.843117",
+    "geom:latitude":40.843117,
+    "geom:longitude":-96.666978,
+    "iso:country":"US",
+    "sg:address":"3105 N 38th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 432 0301",
+    "sg:postcode":"68504",
+    "sg:province":"NE",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878741,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5WpNa6i1AIibNeEYDOHAug_40.843117_-96.666978@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464301066,
+    "wof:geomhash":"ec02a61dd62c6abbbc69e4e80d0cee55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878741,
+            "region_id":85688563,
+            "venue_id":873948209
+        }
+    ],
+    "wof:id":873948209,
+    "wof:lastmodified":1464301066,
+    "wof:name":"Eagle Nest Self Storage",
+    "wof:parent_id":85878741,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -96.666978,
+    40.843117,
+    -96.666978,
+    40.843117
+],
+  "geometry": {"coordinates":[-96.666978,40.843117],"type":"Point"}
+}

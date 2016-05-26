@@ -1,0 +1,75 @@
+{
+  "id": 873833369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.103736,41.226063,-96.103736,41.226063",
+    "geom:latitude":41.226063,
+    "geom:longitude":-96.103736,
+    "iso:country":"US",
+    "sg:address":"3322 S 122nd St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 334 2206",
+    "sg:postcode":"68144",
+    "sg:province":"NE",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872531,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0sCgiWpjTWtziBebDTlrIo_41.226063_-96.103736@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298412,
+    "wof:geomhash":"6c1c722bcce70369c40a48fae512b1cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872531,
+            "region_id":85688563,
+            "venue_id":873833369
+        }
+    ],
+    "wof:id":873833369,
+    "wof:lastmodified":1464298412,
+    "wof:name":"Second Glance",
+    "wof:parent_id":85872531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -96.103736,
+    41.226063,
+    -96.103736,
+    41.226063
+],
+  "geometry": {"coordinates":[-96.103736,41.226063],"type":"Point"}
+}

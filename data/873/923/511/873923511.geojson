@@ -1,0 +1,77 @@
+{
+  "id": 873923511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.694787,40.842847,-96.694787,40.842847",
+    "geom:latitude":40.842847,
+    "geom:longitude":-96.694787,
+    "iso:country":"US",
+    "sg:address":"1720 Adams St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 435 2996",
+    "sg:postcode":"68521",
+    "sg:province":"NE",
+    "sg:tags":[
+        "tool",
+        "parts"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85868917,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Mt0PAZfrc2jsGr3FAe8ip_40.842847_-96.694787@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300280,
+    "wof:geomhash":"b83428b93270a7fe07cbbe3b29036ab5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85868917,
+            "region_id":85688563,
+            "venue_id":873923511
+        }
+    ],
+    "wof:id":873923511,
+    "wof:lastmodified":1464300280,
+    "wof:name":"Tool Hospital",
+    "wof:parent_id":85868917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tool",
+        "parts"
+    ]
+},
+  "bbox": [
+    -96.694787,
+    40.842847,
+    -96.694787,
+    40.842847
+],
+  "geometry": {"coordinates":[-96.69478700000001,40.842847],"type":"Point"}
+}

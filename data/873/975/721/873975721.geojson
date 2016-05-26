@@ -1,0 +1,76 @@
+{
+  "id": 873975721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.916137,41.149325,-95.916137,41.149325",
+    "geom:latitude":41.149325,
+    "geom:longitude":-95.916137,
+    "iso:country":"US",
+    "sg:address":"1103 Galvin Rd S",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Deli",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ne/bellevue/126241-blimpie-subs--sandwiches/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 291 4066",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85821583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6YhwoIotkGdCqU3WFJAgal_41.149325_-95.916137@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464302214,
+    "wof:geomhash":"bd0d29ead0f0fe7c8f7d1ed1684e02be",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85821583,
+            "region_id":85688563,
+            "venue_id":873975721
+        }
+    ],
+    "wof:id":873975721,
+    "wof:lastmodified":1464302214,
+    "wof:name":"Blimpie Subs & Sandwiches",
+    "wof:parent_id":85821583,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -95.916137,
+    41.149325,
+    -95.916137,
+    41.149325
+],
+  "geometry": {"coordinates":[-95.91613700000001,41.149325],"type":"Point"}
+}

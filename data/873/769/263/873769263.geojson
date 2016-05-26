@@ -1,0 +1,73 @@
+{
+  "id": 873769263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.126842,41.18945,-96.126842,41.18945",
+    "geom:latitude":41.18945,
+    "geom:longitude":-96.126842,
+    "iso:country":"US",
+    "sg:address":"13606 Redwood Cir",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 630 5085",
+    "sg:postcode":"68138",
+    "sg:province":"NE",
+    "sg:tags":[
+        "cleaners",
+        "rug",
+        "carpet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85834285,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2OWfd9uZHRO82Bp9Cn3pGD_41.189450_-96.126842@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297353,
+    "wof:geomhash":"6eaaac03a4c0e9a109c6aec83bc50294",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85834285,
+            "region_id":85688563,
+            "venue_id":873769263
+        }
+    ],
+    "wof:id":873769263,
+    "wof:lastmodified":1464297353,
+    "wof:name":"Schufeldt Carpet & Upholstery",
+    "wof:parent_id":85834285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners",
+        "rug",
+        "carpet"
+    ]
+},
+  "bbox": [
+    -96.126842,
+    41.18945,
+    -96.126842,
+    41.18945
+],
+  "geometry": {"coordinates":[-96.126842,41.18945],"type":"Point"}
+}

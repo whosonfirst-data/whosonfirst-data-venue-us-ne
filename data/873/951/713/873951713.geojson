@@ -1,0 +1,75 @@
+{
+  "id": 873951713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.689561,40.866605,-96.689561,40.866605",
+    "geom:latitude":40.866605,
+    "geom:longitude":-96.689561,
+    "iso:country":"US",
+    "sg:address":"2425 Folkways Blvd",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 476 7385",
+    "sg:postcode":"68521",
+    "sg:province":"NE",
+    "sg:tags":[
+        "home",
+        "retirement",
+        "community"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1mZ0v5hus9fnBqUv5wUEk9_40.866605_-96.689561@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464301206,
+    "wof:geomhash":"78706eae66083b2ab009932335fb0449",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878687,
+            "region_id":85688563,
+            "venue_id":873951713
+        }
+    ],
+    "wof:id":873951713,
+    "wof:lastmodified":1464301206,
+    "wof:name":"North Gate Garden Estates",
+    "wof:parent_id":85878687,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "retirement",
+        "community"
+    ]
+},
+  "bbox": [
+    -96.689561,
+    40.866605,
+    -96.689561,
+    40.866605
+],
+  "geometry": {"coordinates":[-96.689561,40.866605],"type":"Point"}
+}

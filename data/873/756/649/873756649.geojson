@@ -1,0 +1,69 @@
+{
+  "id": 873756649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.127914,41.302364,-96.127914,41.302364",
+    "geom:latitude":41.302364,
+    "geom:longitude":-96.127914,
+    "iso:country":"US",
+    "sg:address":"13708 Larimore Ave",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 965 4040",
+    "sg:postcode":"68164",
+    "sg:province":"NE",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85872505,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_64PLioi1toGrPwkMnVw7LO_41.302364_-96.127914@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297164,
+    "wof:geomhash":"36e4e4102d7eb6354f1789af5907febd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":873756649
+        }
+    ],
+    "wof:id":873756649,
+    "wof:lastmodified":1464297164,
+    "wof:name":"Perrotto Debra Day Care",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -96.127914,
+    41.302364,
+    -96.127914,
+    41.302364
+],
+  "geometry": {"coordinates":[-96.127914,41.302364],"type":"Point"}
+}

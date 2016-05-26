@@ -1,0 +1,79 @@
+{
+  "id": 873908635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.098189,41.245661,-96.098189,41.245661",
+    "geom:latitude":41.245661,
+    "geom:longitude":-96.098189,
+    "iso:country":"US",
+    "sg:address":"1243 S 119th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 778 9191",
+    "sg:postcode":"68144",
+    "sg:province":"NE",
+    "sg:tags":[
+        "preparation",
+        "pharmaceutical",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872531,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6dnSpi99buzJJ2gtICqXgl_41.245661_-96.098189@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299987,
+    "wof:geomhash":"b3d1fd67054a8aa19b0f7f0b67cd6a04",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872531,
+            "region_id":85688563,
+            "venue_id":873908635
+        }
+    ],
+    "wof:id":873908635,
+    "wof:lastmodified":1464299987,
+    "wof:name":"Somnitech",
+    "wof:parent_id":85872531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "preparation",
+        "pharmaceutical",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -96.098189,
+    41.245661,
+    -96.098189,
+    41.245661
+],
+  "geometry": {"coordinates":[-96.098189,41.245661],"type":"Point"}
+}

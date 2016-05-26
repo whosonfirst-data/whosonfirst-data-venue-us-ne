@@ -1,0 +1,71 @@
+{
+  "id": 873845995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.758325,40.935069,-96.758325,40.935069",
+    "geom:latitude":40.935069,
+    "geom:longitude":-96.758325,
+    "iso:country":"US",
+    "sg:address":"2500 W James Dr",
+    "sg:city":"Raymond",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Membership Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 783 3011",
+    "sg:postcode":"68428",
+    "sg:province":"NE",
+    "sg:tags":[
+        "society"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2tovdq8dCSt4SbHZaaVciL_40.935069_-96.758325@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298702,
+    "wof:geomhash":"d9a041ae53343346ebeea01c7c102c0b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878717,
+            "region_id":85688563,
+            "venue_id":873845995
+        }
+    ],
+    "wof:id":873845995,
+    "wof:lastmodified":1464298702,
+    "wof:name":"Bluebirds Across Nebraska",
+    "wof:parent_id":85878717,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "society"
+    ]
+},
+  "bbox": [
+    -96.758325,
+    40.935069,
+    -96.758325,
+    40.935069
+],
+  "geometry": {"coordinates":[-96.758325,40.935069],"type":"Point"}
+}

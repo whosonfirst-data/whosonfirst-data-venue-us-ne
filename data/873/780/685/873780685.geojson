@@ -1,0 +1,71 @@
+{
+  "id": 873780685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.676592,40.741729,-96.676592,40.741729",
+    "geom:latitude":40.741729,
+    "geom:longitude":-96.676592,
+    "iso:country":"US",
+    "sg:address":"6601 S 30th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 328 0958",
+    "sg:postcode":"68516",
+    "sg:province":"NE",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3YKQUnARMc8p8Dg8SBJ76y_40.741729_-96.676592@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297501,
+    "wof:geomhash":"2d97941b6c36aca7e0fe3841c3884088",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878733,
+            "region_id":85688563,
+            "venue_id":873780685
+        }
+    ],
+    "wof:id":873780685,
+    "wof:lastmodified":1464297501,
+    "wof:name":"Donna McDowell",
+    "wof:parent_id":85878733,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -96.676592,
+    40.741729,
+    -96.676592,
+    40.741729
+],
+  "geometry": {"coordinates":[-96.676592,40.741729],"type":"Point"}
+}

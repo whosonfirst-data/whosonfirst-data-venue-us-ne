@@ -1,0 +1,78 @@
+{
+  "id": 873912455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.72505,40.813558,-96.72505,40.813558",
+    "geom:latitude":40.813558,
+    "geom:longitude":-96.72505,
+    "iso:country":"US",
+    "sg:address":"610 W O St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 477 6700",
+    "sg:postcode":"68528",
+    "sg:province":"NE",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "sg:website":"www.ecarhop.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878743,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5XcU5AZLNbNleWz3q3KjSq_40.813558_-96.725050@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300058,
+    "wof:geomhash":"bd23f29fb75fd94556a4294c91ee454f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878743,
+            "region_id":85688563,
+            "venue_id":873912455
+        }
+    ],
+    "wof:id":873912455,
+    "wof:lastmodified":1464300058,
+    "wof:name":"Carhop",
+    "wof:parent_id":85878743,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -96.72505,
+    40.813558,
+    -96.72505,
+    40.813558
+],
+  "geometry": {"coordinates":[-96.72505,40.813558],"type":"Point"}
+}

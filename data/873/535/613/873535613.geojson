@@ -1,0 +1,75 @@
+{
+  "id": 873535613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.047546,41.134175,-96.047546,41.134175",
+    "geom:latitude":41.134175,
+    "geom:longitude":-96.047546,
+    "iso:country":"US",
+    "sg:address":"500 Windsor Dr",
+    "sg:city":"Papillion",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Developer",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 290 1818",
+    "sg:postcode":"68046",
+    "sg:province":"NE",
+    "sg:tags":[
+        "development",
+        "land",
+        "commercial",
+        "subdividing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85843697,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_76h4qGSN3bBGRskq7Rg4T1_41.134175_-96.047546@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294211,
+    "wof:geomhash":"9affdb1596587516fb141d73cbe177f6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85843697,
+            "region_id":85688563,
+            "venue_id":873535613
+        }
+    ],
+    "wof:id":873535613,
+    "wof:lastmodified":1464294211,
+    "wof:name":"Midlands Development Inc",
+    "wof:parent_id":85843697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "development",
+        "land",
+        "commercial",
+        "subdividing"
+    ]
+},
+  "bbox": [
+    -96.047546,
+    41.134175,
+    -96.047546,
+    41.134175
+],
+  "geometry": {"coordinates":[-96.047546,41.134175],"type":"Point"}
+}

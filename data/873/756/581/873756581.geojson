@@ -1,0 +1,77 @@
+{
+  "id": 873756581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.110705,41.236693,-96.110705,41.236693",
+    "geom:latitude":41.236693,
+    "geom:longitude":-96.110705,
+    "iso:country":"US",
+    "sg:address":"12556 Arbor St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 614 1076",
+    "sg:postcode":"68144",
+    "sg:province":"NE",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872531,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_67TfFC6Oa46XzURfdY4RgZ_41.236693_-96.110705@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297163,
+    "wof:geomhash":"8c490ed432b033ebb89f2e8242a7d71a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872531,
+            "region_id":85688563,
+            "venue_id":873756581
+        }
+    ],
+    "wof:id":873756581,
+    "wof:lastmodified":1464297163,
+    "wof:name":"Colorburst Landscape & Design",
+    "wof:parent_id":85872531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.110705,
+    41.236693,
+    -96.110705,
+    41.236693
+],
+  "geometry": {"coordinates":[-96.110705,41.236693],"type":"Point"}
+}

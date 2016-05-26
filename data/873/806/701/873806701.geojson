@@ -1,0 +1,71 @@
+{
+  "id": 873806701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.916318,41.155827,-95.916318,41.155827",
+    "geom:latitude":41.155827,
+    "geom:longitude":-95.916318,
+    "iso:country":"US",
+    "sg:address":"1805 Brenda Dr",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 708 3647",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "pet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85821583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_70cNLhO3csqXyu2LlT6Ffy_41.155827_-95.916318@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297863,
+    "wof:geomhash":"64fea2834f3c6d20da546f0ca66092a5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85821583,
+            "region_id":85688563,
+            "venue_id":873806701
+        }
+    ],
+    "wof:id":873806701,
+    "wof:lastmodified":1464297863,
+    "wof:name":"Bellevue Pet Animal Waste",
+    "wof:parent_id":85821583,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet"
+    ]
+},
+  "bbox": [
+    -95.916318,
+    41.155827,
+    -95.916318,
+    41.155827
+],
+  "geometry": {"coordinates":[-95.916318,41.155827],"type":"Point"}
+}

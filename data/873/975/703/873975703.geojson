@@ -1,0 +1,74 @@
+{
+  "id": 873975703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.918974,41.155181,-95.918974,41.155181",
+    "geom:latitude":41.155181,
+    "geom:longitude":-95.918974,
+    "iso:country":"US",
+    "sg:address":"608 Galvin Rd S",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ne/bellevue/200585-long-john-silvers/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 291 6261",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "seafood",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85804025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2NX1nypeNL0CA0jcLQIqid_41.155181_-95.918974@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464302213,
+    "wof:geomhash":"a19af76db666ee91c7ad549ee1bfbaef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85804025,
+            "region_id":85688563,
+            "venue_id":873975703
+        }
+    ],
+    "wof:id":873975703,
+    "wof:lastmodified":1464302213,
+    "wof:name":"Long John Silver's",
+    "wof:parent_id":85804025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "seafood",
+        "american"
+    ]
+},
+  "bbox": [
+    -95.918974,
+    41.155181,
+    -95.918974,
+    41.155181
+],
+  "geometry": {"coordinates":[-95.91897400000001,41.155181],"type":"Point"}
+}

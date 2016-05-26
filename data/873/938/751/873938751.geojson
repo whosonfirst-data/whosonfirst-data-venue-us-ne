@@ -1,0 +1,71 @@
+{
+  "id": 873938751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.075484,41.305175,-96.075484,41.305175",
+    "geom:latitude":41.305175,
+    "geom:longitude":-96.075484,
+    "iso:country":"US",
+    "sg:address":"4905 N 103rd Ave",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Hazard Insurance",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 496 2656",
+    "sg:postcode":"68134",
+    "sg:province":"NE",
+    "sg:tags":[
+        "carrier",
+        "surety"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85872505,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Ncs98EB1kMp06o20NEDSJ_41.305175_-96.075484@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300637,
+    "wof:geomhash":"8798470f4519a20fc4551441be5ef3c2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":873938751
+        }
+    ],
+    "wof:id":873938751,
+    "wof:lastmodified":1464300637,
+    "wof:name":"Tangent Equity Group Inc",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carrier",
+        "surety"
+    ]
+},
+  "bbox": [
+    -96.075484,
+    41.305175,
+    -96.075484,
+    41.305175
+],
+  "geometry": {"coordinates":[-96.075484,41.305175],"type":"Point"}
+}

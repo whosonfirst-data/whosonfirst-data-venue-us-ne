@@ -1,0 +1,71 @@
+{
+  "id": 873846687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.896199,41.136407,-95.896199,41.136407",
+    "geom:latitude":41.136407,
+    "geom:longitude":-95.896199,
+    "iso:country":"US",
+    "sg:address":"223 W Mission Ave",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 291 2454",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "jeweler"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974747,
+        102082777,
+        85820061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7UMMC4AnUkJzGEkqpQzdS1_41.136407_-95.896199@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298722,
+    "wof:geomhash":"31d4581a9660414b01deb9ae6c663403",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974747,
+            "neighbourhood_id":85820061,
+            "region_id":85688563,
+            "venue_id":873846687
+        }
+    ],
+    "wof:id":873846687,
+    "wof:lastmodified":1464298722,
+    "wof:name":"Erwin's Bellevue Jewelry",
+    "wof:parent_id":85820061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "jeweler"
+    ]
+},
+  "bbox": [
+    -95.896199,
+    41.136407,
+    -95.896199,
+    41.136407
+],
+  "geometry": {"coordinates":[-95.896199,41.136407],"type":"Point"}
+}

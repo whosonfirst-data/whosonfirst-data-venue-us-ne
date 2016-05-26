@@ -1,0 +1,66 @@
+{
+  "id": 873689631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.624711,40.793079,-96.624711,40.793079",
+    "geom:latitude":40.793079,
+    "geom:longitude":-96.624711,
+    "iso:country":"US",
+    "sg:address":"1820 Lori Ln",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 466 0383",
+    "sg:postcode":"68506",
+    "sg:province":"NE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6bGBwdfcSnB6zXpQrdkmCL_40.793079_-96.624711@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296264,
+    "wof:geomhash":"4b0c06d5b9a2b2305cb79bff928626ac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878697,
+            "region_id":85688563,
+            "venue_id":873689631
+        }
+    ],
+    "wof:id":873689631,
+    "wof:lastmodified":1464296264,
+    "wof:name":"Sue's Beauty Boutique",
+    "wof:parent_id":85878697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.624711,
+    40.793079,
+    -96.624711,
+    40.793079
+],
+  "geometry": {"coordinates":[-96.624711,40.793079],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 873860937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.683467,40.857603,-96.683467,40.857603",
+    "geom:latitude":40.857603,
+    "geom:longitude":-96.683467,
+    "iso:country":"US",
+    "sg:address":"4645 N 26th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 477 5962",
+    "sg:postcode":"68521",
+    "sg:province":"NE",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878721,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0xPBuRKm2QKbDdYdYHDpKi_40.857603_-96.683467@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299058,
+    "wof:geomhash":"c1a509d288f39c52a226d66a97115c88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878721,
+            "region_id":85688563,
+            "venue_id":873860937
+        }
+    ],
+    "wof:id":873860937,
+    "wof:lastmodified":1464299058,
+    "wof:name":"Lincoln TMJ Therapy",
+    "wof:parent_id":85878721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -96.683467,
+    40.857603,
+    -96.683467,
+    40.857603
+],
+  "geometry": {"coordinates":[-96.68346699999999,40.857603],"type":"Point"}
+}

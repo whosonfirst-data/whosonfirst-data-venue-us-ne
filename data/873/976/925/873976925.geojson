@@ -1,0 +1,78 @@
+{
+  "id": 873976925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.62464,40.767519,-96.62464,40.767519",
+    "geom:latitude":40.767519,
+    "geom:longitude":-96.62464,
+    "iso:country":"US",
+    "sg:address":"4500 S 70th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ne/lincoln/129529-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 488 1012",
+    "sg:postcode":"68516",
+    "sg:province":"NE",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878695,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7NRSmTCdWTbKKciv2SKpCF_40.767519_-96.624640@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464302258,
+    "wof:geomhash":"89bbf2a89553c03ae41ffee26569c8ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878695,
+            "region_id":85688563,
+            "venue_id":873976925
+        }
+    ],
+    "wof:id":873976925,
+    "wof:lastmodified":1464302258,
+    "wof:name":"Subway",
+    "wof:parent_id":85878695,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -96.62464,
+    40.767519,
+    -96.62464,
+    40.767519
+],
+  "geometry": {"coordinates":[-96.62464,40.767519],"type":"Point"}
+}

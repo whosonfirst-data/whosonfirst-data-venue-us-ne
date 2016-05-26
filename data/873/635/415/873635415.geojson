@@ -1,0 +1,79 @@
+{
+  "id": 873635415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.048265,41.225104,-96.048265,41.225104",
+    "geom:latitude":41.225104,
+    "geom:longitude":-96.048265,
+    "iso:country":"US",
+    "sg:address":"8514 B St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 393 3093",
+    "sg:postcode":"68124",
+    "sg:province":"NE",
+    "sg:tags":[
+        "cleaners",
+        "rug",
+        "carpet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872511,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4602t3j0HrfTKiQUuIlDF1_41.225104_-96.048265@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295427,
+    "wof:geomhash":"88a8033ff8c6522d7d19301d553e3003",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872511,
+            "region_id":85688563,
+            "venue_id":873635415
+        }
+    ],
+    "wof:id":873635415,
+    "wof:lastmodified":1464295427,
+    "wof:name":"Pat's Carpet Care",
+    "wof:parent_id":85872511,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners",
+        "rug",
+        "carpet"
+    ]
+},
+  "bbox": [
+    -96.048265,
+    41.225104,
+    -96.048265,
+    41.225104
+],
+  "geometry": {"coordinates":[-96.048265,41.225104],"type":"Point"}
+}

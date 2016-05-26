@@ -1,0 +1,86 @@
+{
+  "id": 873840009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.635126,40.805931,-96.635126,40.805931",
+    "geom:latitude":40.805931,
+    "geom:longitude":-96.635126,
+    "iso:country":"US",
+    "sg:address":"6230 Sunrise Rd",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Film & Video Production",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 489 0088",
+    "sg:postcode":"68510",
+    "sg:province":"NE",
+    "sg:tags":[
+        "sound",
+        "audio",
+        "lighting",
+        "reinforcement"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878703,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_40HWcde8sTiPsjB32uUJjp_40.805931_-96.635126@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298553,
+    "wof:geomhash":"28d25f157316a03b1af4a07d311ecab0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878703,
+            "region_id":85688563,
+            "venue_id":873840009
+        }
+    ],
+    "wof:id":873840009,
+    "wof:lastmodified":1464298553,
+    "wof:name":"C Foley Prof Audio Svcs",
+    "wof:parent_id":85878703,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sound",
+        "audio",
+        "lighting",
+        "reinforcement"
+    ]
+},
+  "bbox": [
+    -96.635126,
+    40.805931,
+    -96.635126,
+    40.805931
+],
+  "geometry": {"coordinates":[-96.635126,40.805931],"type":"Point"}
+}

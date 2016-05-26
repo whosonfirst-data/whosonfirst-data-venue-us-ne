@@ -1,0 +1,75 @@
+{
+  "id": 873686993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.9696,41.183502,-95.9696,41.183502",
+    "geom:latitude":41.183502,
+    "geom:longitude":-95.9696,
+    "iso:country":"US",
+    "sg:address":"3705 Chandler Rd W",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 734 7334",
+    "sg:postcode":"68147",
+    "sg:province":"NE",
+    "sg:tags":[
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85849923,
+        102191575,
+        404519143,
+        85633793,
+        85974545,
+        102082777,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2kgCFrDr8SuMWMumrhR14m_41.183502_-95.969600@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296192,
+    "wof:geomhash":"a962ffc6a0feba78d03d792553cd01aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082777,
+            "localadmin_id":404519143,
+            "locality_id":85974545,
+            "neighbourhood_id":85849923,
+            "region_id":85688563,
+            "venue_id":873686993
+        }
+    ],
+    "wof:id":873686993,
+    "wof:lastmodified":1464296192,
+    "wof:name":"Gilder Elementary School",
+    "wof:parent_id":85849923,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary"
+    ]
+},
+  "bbox": [
+    -95.9696,
+    41.183502,
+    -95.9696,
+    41.183502
+],
+  "geometry": {"coordinates":[-95.9696,41.183502],"type":"Point"}
+}

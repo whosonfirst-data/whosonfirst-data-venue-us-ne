@@ -1,0 +1,73 @@
+{
+  "id": 873582431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.913078,41.174238,-95.913078,41.174238",
+    "geom:latitude":41.174238,
+    "geom:longitude":-95.913078,
+    "iso:country":"US",
+    "sg:address":"811 Moore Dr",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 731 3090",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "property",
+        "lessor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85804025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Uw3JaWCZtefgUkmHIMr6w_41.174238_-95.913078@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294747,
+    "wof:geomhash":"fcf8a17d1dcc3ace14fe835025023bdc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85804025,
+            "region_id":85688563,
+            "venue_id":873582431
+        }
+    ],
+    "wof:id":873582431,
+    "wof:lastmodified":1464294747,
+    "wof:name":"Orville Knapp",
+    "wof:parent_id":85804025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "property",
+        "lessor"
+    ]
+},
+  "bbox": [
+    -95.913078,
+    41.174238,
+    -95.913078,
+    41.174238
+],
+  "geometry": {"coordinates":[-95.913078,41.174238],"type":"Point"}
+}

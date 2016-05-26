@@ -1,0 +1,71 @@
+{
+  "id": 873938891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.052688,41.300982,-96.052688,41.300982",
+    "geom:latitude":41.300982,
+    "geom:longitude":-96.052688,
+    "iso:country":"US",
+    "sg:address":"4720 N 90th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 572 0339",
+    "sg:postcode":"68134",
+    "sg:province":"NE",
+    "sg:website":"www.sjsomaha.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867061,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0QVZYPx6wQuBrHTH2mkBCs_41.300982_-96.052688@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300641,
+    "wof:geomhash":"d74859e91e4b245907a55c9fc96713fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85867061,
+            "region_id":85688563,
+            "venue_id":873938891
+        }
+    ],
+    "wof:id":873938891,
+    "wof:lastmodified":1464300641,
+    "wof:name":"St James Seton School",
+    "wof:parent_id":85867061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.052688,
+    41.300982,
+    -96.052688,
+    41.300982
+],
+  "geometry": {"coordinates":[-96.052688,41.300982],"type":"Point"}
+}

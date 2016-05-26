@@ -1,0 +1,73 @@
+{
+  "id": 873719637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.379123,41.438648,-97.379123,41.438648",
+    "geom:latitude":41.438648,
+    "geom:longitude":-97.379123,
+    "iso:country":"US",
+    "sg:address":"4215 23rd St",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 564 4366",
+    "sg:postcode":"68601",
+    "sg:province":"NE",
+    "sg:tags":[
+        "television",
+        "radio"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974401,
+        102084277,
+        85854093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4wYx72kpbacJU1bzOT4BO2_41.438648_-97.379123@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296648,
+    "wof:geomhash":"0bd0b5c5ba45f36c147f7164537fa328",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084277,
+            "locality_id":85974401,
+            "neighbourhood_id":85854093,
+            "region_id":85688563,
+            "venue_id":873719637
+        }
+    ],
+    "wof:id":873719637,
+    "wof:lastmodified":1464296648,
+    "wof:name":"P & K TV-Electronics",
+    "wof:parent_id":85854093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "television",
+        "radio"
+    ]
+},
+  "bbox": [
+    -97.379123,
+    41.438648,
+    -97.379123,
+    41.438648
+],
+  "geometry": {"coordinates":[-97.37912300000001,41.438648],"type":"Point"}
+}

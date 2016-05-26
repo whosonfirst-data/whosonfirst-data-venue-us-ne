@@ -1,0 +1,77 @@
+{
+  "id": 873934441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.928005,41.174281,-95.928005,41.174281",
+    "geom:latitude":41.174281,
+    "geom:longitude":-95.928005,
+    "iso:country":"US",
+    "sg:address":"8705 S 9th St",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 932 8856",
+    "sg:postcode":"68147",
+    "sg:province":"NE",
+    "sg:tags":[
+        "equipment",
+        "coffee",
+        "handling",
+        "roasting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85804025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3lvMBOD6UmjyrBOTyEagYZ_41.174281_-95.928005@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300488,
+    "wof:geomhash":"cff449939d5da4771d0d9855a8eb8e26",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85804025,
+            "region_id":85688563,
+            "venue_id":873934441
+        }
+    ],
+    "wof:id":873934441,
+    "wof:lastmodified":1464300488,
+    "wof:name":"Harvest Roasting",
+    "wof:parent_id":85804025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "coffee",
+        "handling",
+        "roasting"
+    ]
+},
+  "bbox": [
+    -95.928005,
+    41.174281,
+    -95.928005,
+    41.174281
+],
+  "geometry": {"coordinates":[-95.928005,41.174281],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873560269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.046403,41.313112,-96.046403,41.313112",
+    "geom:latitude":41.313112,
+    "geom:longitude":-96.046403,
+    "iso:country":"US",
+    "sg:address":"6056 Wenninghoff Rd",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 571 9100",
+    "sg:postcode":"68134",
+    "sg:province":"NE",
+    "sg:tags":[
+        "excavating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85872505,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3td64fXFmf1G6nm29uxoCV_41.313112_-96.046403@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294503,
+    "wof:geomhash":"75c0e807d44a44c2cb70308a279f16c3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":873560269
+        }
+    ],
+    "wof:id":873560269,
+    "wof:lastmodified":1464294503,
+    "wof:name":"Fager Excavating Co",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.046403,
+    41.313112,
+    -96.046403,
+    41.313112
+],
+  "geometry": {"coordinates":[-96.046403,41.313112],"type":"Point"}
+}

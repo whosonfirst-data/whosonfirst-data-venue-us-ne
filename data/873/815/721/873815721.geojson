@@ -1,0 +1,70 @@
+{
+  "id": 873815721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-98.336882,40.919634,-98.336882,40.919634",
+    "geom:latitude":40.919634,
+    "geom:longitude":-98.336882,
+    "iso:country":"US",
+    "sg:address":"229 E Ashton Ave",
+    "sg:city":"Grand Island",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 308 384 1088",
+    "sg:postcode":"68801",
+    "sg:province":"NE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85840711,
+        102191575,
+        404518499,
+        85633793,
+        85973941,
+        102083477,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_77D1YBWVltjZ9nzGqzQvgc_40.919634_-98.336882@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298028,
+    "wof:geomhash":"8c395671752d1b2f42d919a2b083fffa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083477,
+            "localadmin_id":404518499,
+            "locality_id":85973941,
+            "neighbourhood_id":85840711,
+            "region_id":85688563,
+            "venue_id":873815721
+        }
+    ],
+    "wof:id":873815721,
+    "wof:lastmodified":1464298028,
+    "wof:name":"Shady Grove Blacksmith Shop",
+    "wof:parent_id":85840711,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -98.336882,
+    40.919634,
+    -98.336882,
+    40.919634
+],
+  "geometry": {"coordinates":[-98.336882,40.919634],"type":"Point"}
+}

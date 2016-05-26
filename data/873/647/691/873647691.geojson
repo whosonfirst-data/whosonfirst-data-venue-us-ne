@@ -1,0 +1,71 @@
+{
+  "id": 873647691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.050818,41.135415,-96.050818,41.135415",
+    "geom:latitude":41.135415,
+    "geom:longitude":-96.050818,
+    "iso:country":"US",
+    "sg:address":"709 S Fillmore St",
+    "sg:city":"Papillion",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 339 9941",
+    "sg:postcode":"68046",
+    "sg:province":"NE",
+    "sg:tags":[
+        "school",
+        "educational"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85843697,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7G0QnVTsY8si1u4hJRkjYP_41.135415_-96.050818@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295563,
+    "wof:geomhash":"8e1064419fc87c3a29f234ec12dead19",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85843697,
+            "region_id":85688563,
+            "venue_id":873647691
+        }
+    ],
+    "wof:id":873647691,
+    "wof:lastmodified":1464295563,
+    "wof:name":"Ronor Inc",
+    "wof:parent_id":85843697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "school",
+        "educational"
+    ]
+},
+  "bbox": [
+    -96.050818,
+    41.135415,
+    -96.050818,
+    41.135415
+],
+  "geometry": {"coordinates":[-96.05081800000001,41.135415],"type":"Point"}
+}

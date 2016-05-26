@@ -1,0 +1,71 @@
+{
+  "id": 873769229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.638421,40.871308,-96.638421,40.871308",
+    "geom:latitude":40.871308,
+    "geom:longitude":-96.638421,
+    "iso:country":"US",
+    "sg:address":"5901 Fletcher Ave",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 466 0077",
+    "sg:postcode":"68507",
+    "sg:province":"NE",
+    "sg:tags":[
+        "used"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85824241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Wfpmdgl26JzFUOA49crTg_40.871308_-96.638421@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297352,
+    "wof:geomhash":"6e36e549ce5515ad0dc900b67e721d28",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85824241,
+            "region_id":85688563,
+            "venue_id":873769229
+        }
+    ],
+    "wof:id":873769229,
+    "wof:lastmodified":1464297352,
+    "wof:name":"Bouwens Auto Sales",
+    "wof:parent_id":85824241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "used"
+    ]
+},
+  "bbox": [
+    -96.638421,
+    40.871308,
+    -96.638421,
+    40.871308
+],
+  "geometry": {"coordinates":[-96.63842099999999,40.871308],"type":"Point"}
+}

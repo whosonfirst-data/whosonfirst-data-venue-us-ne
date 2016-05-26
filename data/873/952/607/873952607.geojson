@@ -1,0 +1,69 @@
+{
+  "id": 873952607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.152485,41.316194,-96.152485,41.316194",
+    "geom:latitude":41.316194,
+    "geom:longitude":-96.152485,
+    "iso:country":"US",
+    "sg:address":"6215 N 153rd St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 493 6267",
+    "sg:postcode":"68116",
+    "sg:province":"NE",
+    "sg:tags":[
+        "cleaning"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85872505,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7XdG2FHIqpPGBO2Ak9yz6j_41.316194_-96.152485@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464301255,
+    "wof:geomhash":"d02823f2e10e38cac70b7bdb78188c9d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":873952607
+        }
+    ],
+    "wof:id":873952607,
+    "wof:lastmodified":1464301255,
+    "wof:name":"As Clean As Can Be",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaning"
+    ]
+},
+  "bbox": [
+    -96.152485,
+    41.316194,
+    -96.152485,
+    41.316194
+],
+  "geometry": {"coordinates":[-96.152485,41.316194],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 873878173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.063546,41.321049,-96.063546,41.321049",
+    "geom:latitude":41.321049,
+    "geom:longitude":-96.063546,
+    "iso:country":"US",
+    "sg:address":"6912 N 97th Cir",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Sporting Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 571 6409",
+    "sg:postcode":"68122",
+    "sg:province":"NE",
+    "sg:website":"www.deckersports.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85872505,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_78BrXLfIBdyDjDHV8Rs3Yf_41.321049_-96.063546@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299400,
+    "wof:geomhash":"24da323ff4710c29329c5f6a232dcafb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":873878173
+        }
+    ],
+    "wof:id":873878173,
+    "wof:lastmodified":1464299400,
+    "wof:name":"Decker Sports",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.063546,
+    41.321049,
+    -96.063546,
+    41.321049
+],
+  "geometry": {"coordinates":[-96.063546,41.321049],"type":"Point"}
+}

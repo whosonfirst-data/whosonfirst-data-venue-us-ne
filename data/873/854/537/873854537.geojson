@@ -1,0 +1,71 @@
+{
+  "id": 873854537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.918109,41.148487,-95.918109,41.148487",
+    "geom:latitude":41.148487,
+    "geom:longitude":-95.918109,
+    "iso:country":"US",
+    "sg:address":"1807 Lloyd St",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 292 0819",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "printer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85821583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4jOzG2VzfEwyvYojVWTlu0_41.148487_-95.918109@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298906,
+    "wof:geomhash":"8b9e90ab5da8fa55891e2771bb468249",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85821583,
+            "region_id":85688563,
+            "venue_id":873854537
+        }
+    ],
+    "wof:id":873854537,
+    "wof:lastmodified":1464298906,
+    "wof:name":"K M Printing",
+    "wof:parent_id":85821583,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "printer"
+    ]
+},
+  "bbox": [
+    -95.918109,
+    41.148487,
+    -95.918109,
+    41.148487
+],
+  "geometry": {"coordinates":[-95.918109,41.148487],"type":"Point"}
+}

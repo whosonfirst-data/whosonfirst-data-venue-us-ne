@@ -1,0 +1,76 @@
+{
+  "id": 873706369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.081284,41.248805,-96.081284,41.248805",
+    "geom:latitude":41.248805,
+    "geom:longitude":-96.081284,
+    "iso:country":"US",
+    "sg:address":"10730 Pacific St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Membership Organization",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 397 9785",
+    "sg:postcode":"68114",
+    "sg:province":"NE",
+    "sg:website":"www.bran-inc.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872503,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_23zIUJnxyXSle6u03JRk67_41.248805_-96.081284@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296474,
+    "wof:geomhash":"2ced6f40b4f49beb01be059cc4d55d4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872503,
+            "region_id":85688563,
+            "venue_id":873706369
+        }
+    ],
+    "wof:id":873706369,
+    "wof:lastmodified":1464296474,
+    "wof:name":"Bicycle Ride Across Neberska",
+    "wof:parent_id":85872503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.081284,
+    41.248805,
+    -96.081284,
+    41.248805
+],
+  "geometry": {"coordinates":[-96.081284,41.248805],"type":"Point"}
+}

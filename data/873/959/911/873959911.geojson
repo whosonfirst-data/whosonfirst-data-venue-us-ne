@@ -1,0 +1,73 @@
+{
+  "id": 873959911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.618007,40.794959,-96.618007,40.794959",
+    "geom:latitude":40.794959,
+    "geom:longitude":-96.618007,
+    "iso:country":"US",
+    "sg:address":"7520 N Hampton Rd",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 489 3188",
+    "sg:postcode":"68506",
+    "sg:province":"NE",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_66KrCX60T65OHzimw74dd2_40.794959_-96.618007@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464301524,
+    "wof:geomhash":"96cbe25b5656e8b20d907486be8a5e1a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878697,
+            "region_id":85688563,
+            "venue_id":873959911
+        }
+    ],
+    "wof:id":873959911,
+    "wof:lastmodified":1464301524,
+    "wof:name":"Les Spry MD",
+    "wof:parent_id":85878697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -96.618007,
+    40.794959,
+    -96.618007,
+    40.794959
+],
+  "geometry": {"coordinates":[-96.61800700000001,40.794959],"type":"Point"}
+}

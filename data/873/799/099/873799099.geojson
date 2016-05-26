@@ -1,0 +1,73 @@
+{
+  "id": 873799099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.094591,41.320682,-96.094591,41.320682",
+    "geom:latitude":41.320682,
+    "geom:longitude":-96.094591,
+    "iso:country":"US",
+    "sg:address":"11651 Mary St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 934 9300",
+    "sg:postcode":"68164",
+    "sg:province":"NE",
+    "sg:tags":[
+        "cleaners",
+        "rug",
+        "carpet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85872505,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ZRZJyiHSc9t4SEa8rLoyi_41.320682_-96.094591@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297763,
+    "wof:geomhash":"e8169b81ba5daa777722939e0f98b18b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":873799099
+        }
+    ],
+    "wof:id":873799099,
+    "wof:lastmodified":1464297763,
+    "wof:name":"Chem Dry Metro",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners",
+        "rug",
+        "carpet"
+    ]
+},
+  "bbox": [
+    -96.094591,
+    41.320682,
+    -96.094591,
+    41.320682
+],
+  "geometry": {"coordinates":[-96.09459099999999,41.320682],"type":"Point"}
+}

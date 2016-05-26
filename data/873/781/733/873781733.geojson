@@ -1,0 +1,79 @@
+{
+  "id": 873781733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.675657,40.781591,-96.675657,40.781591",
+    "geom:latitude":40.781591,
+    "geom:longitude":-96.675657,
+    "iso:country":"US",
+    "sg:address":"3175 Woodsdale Blvd",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 423 8800",
+    "sg:postcode":"68502",
+    "sg:province":"NE",
+    "sg:tags":[
+        "building",
+        "operator",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878713,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_37d56m1tf0jcNgncmF3Eal_40.781591_-96.675657@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297514,
+    "wof:geomhash":"988e4663be1cca39ee8cdf5eb18eeffb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878713,
+            "region_id":85688563,
+            "venue_id":873781733
+        }
+    ],
+    "wof:id":873781733,
+    "wof:lastmodified":1464297514,
+    "wof:name":"Goldberg Stuart Realty",
+    "wof:parent_id":85878713,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "operator",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -96.675657,
+    40.781591,
+    -96.675657,
+    40.781591
+],
+  "geometry": {"coordinates":[-96.675657,40.781591],"type":"Point"}
+}

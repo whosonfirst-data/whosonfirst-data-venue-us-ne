@@ -1,0 +1,71 @@
+{
+  "id": 873733483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.771498,40.792256,-96.771498,40.792256",
+    "geom:latitude":40.792256,
+    "geom:longitude":-96.771498,
+    "iso:country":"US",
+    "sg:address":"3531 W Plum St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 499 4937",
+    "sg:postcode":"68522",
+    "sg:province":"NE",
+    "sg:tags":[
+        "tile",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85813295,
+        102083503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6bIcHHxFCWUIDB3yJUO2i1_40.792256_-96.771498@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296821,
+    "wof:geomhash":"17fa0e091f61d20f776004134ae00266",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "neighbourhood_id":85813295,
+            "region_id":85688563,
+            "venue_id":873733483
+        }
+    ],
+    "wof:id":873733483,
+    "wof:lastmodified":1464296821,
+    "wof:name":"Prestige Tile",
+    "wof:parent_id":85813295,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tile",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -96.771498,
+    40.792256,
+    -96.771498,
+    40.792256
+],
+  "geometry": {"coordinates":[-96.77149799999999,40.792256],"type":"Point"}
+}

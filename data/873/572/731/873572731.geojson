@@ -1,0 +1,70 @@
+{
+  "id": 873572731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.082674,41.214385,-96.082674,41.214385",
+    "geom:latitude":41.214385,
+    "geom:longitude":-96.082674,
+    "iso:country":"US",
+    "sg:address":"10930 J St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 331 8256",
+    "sg:postcode":"68137",
+    "sg:province":"NE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872531,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6f6xmuWec3d9VsoaNT1sjs_41.214385_-96.082674@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294639,
+    "wof:geomhash":"298498e0e49853374a89e3fac4bdf617",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872531,
+            "region_id":85688563,
+            "venue_id":873572731
+        }
+    ],
+    "wof:id":873572731,
+    "wof:lastmodified":1464294639,
+    "wof:name":"Service Master Co",
+    "wof:parent_id":85872531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.082674,
+    41.214385,
+    -96.082674,
+    41.214385
+],
+  "geometry": {"coordinates":[-96.082674,41.214385],"type":"Point"}
+}

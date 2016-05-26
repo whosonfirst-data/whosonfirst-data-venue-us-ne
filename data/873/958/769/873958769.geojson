@@ -1,0 +1,77 @@
+{
+  "id": 873958769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.101228,41.270341,-96.101228,41.270341",
+    "geom:latitude":41.270341,
+    "geom:longitude":-96.101228,
+    "iso:country":"US",
+    "sg:address":"1225 N 121st St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Dance Studio",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 592 5034",
+    "sg:postcode":"68154",
+    "sg:province":"NE",
+    "sg:tags":[
+        "instruction",
+        "dancing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872503,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7331oR2QaMZPr0IF7KsGsd_41.270341_-96.101228@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464301472,
+    "wof:geomhash":"60dc237c481002fa14ea5375518f3fbf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872503,
+            "region_id":85688563,
+            "venue_id":873958769
+        }
+    ],
+    "wof:id":873958769,
+    "wof:lastmodified":1464301472,
+    "wof:name":"Rabe's Dance Studio",
+    "wof:parent_id":85872503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "dancing"
+    ]
+},
+  "bbox": [
+    -96.101228,
+    41.270341,
+    -96.101228,
+    41.270341
+],
+  "geometry": {"coordinates":[-96.10122800000001,41.270341],"type":"Point"}
+}

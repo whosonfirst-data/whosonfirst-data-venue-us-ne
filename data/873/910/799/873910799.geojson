@@ -1,0 +1,69 @@
+{
+  "id": 873910799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.789843,40.813788,-96.789843,40.813788",
+    "geom:latitude":40.813788,
+    "geom:longitude":-96.789843,
+    "iso:country":"US",
+    "sg:address":"4800 W O St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 474 1771",
+    "sg:postcode":"68528",
+    "sg:province":"NE",
+    "sg:tags":[
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85813295,
+        102083503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0C9Tfn6KfQdMKGyqMVWBJn_40.813788_-96.789843@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300028,
+    "wof:geomhash":"fa63656e410f37de983dd6ab0f93419c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "neighbourhood_id":85813295,
+            "region_id":85688563,
+            "venue_id":873910799
+        }
+    ],
+    "wof:id":873910799,
+    "wof:lastmodified":1464300028,
+    "wof:name":"Shoemaker's Shell Truck Stop",
+    "wof:parent_id":85813295,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil"
+    ]
+},
+  "bbox": [
+    -96.789843,
+    40.813788,
+    -96.789843,
+    40.813788
+],
+  "geometry": {"coordinates":[-96.789843,40.813788],"type":"Point"}
+}

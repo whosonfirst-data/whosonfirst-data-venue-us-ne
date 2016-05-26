@@ -1,0 +1,74 @@
+{
+  "id": 873557887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.776739,40.846415,-96.776739,40.846415",
+    "geom:latitude":40.846415,
+    "geom:longitude":-96.776739,
+    "iso:country":"US",
+    "sg:address":"3401 NW 39th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 470 2909",
+    "sg:postcode":"68524",
+    "sg:province":"NE",
+    "sg:tags":[
+        "marketing",
+        "program"
+    ],
+    "sg:website":"www.acton.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ysWdI4omTaW0NkBGxqQ9g_40.846415_-96.776739@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294470,
+    "wof:geomhash":"09b3a11e01790b9bf6a84dda94459cb0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878717,
+            "region_id":85688563,
+            "venue_id":873557887
+        }
+    ],
+    "wof:id":873557887,
+    "wof:lastmodified":1464294470,
+    "wof:name":"Acton Marketing",
+    "wof:parent_id":85878717,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "marketing",
+        "program"
+    ]
+},
+  "bbox": [
+    -96.776739,
+    40.846415,
+    -96.776739,
+    40.846415
+],
+  "geometry": {"coordinates":[-96.77673900000001,40.846415],"type":"Point"}
+}

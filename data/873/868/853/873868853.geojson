@@ -1,0 +1,75 @@
+{
+  "id": 873868853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.653843,40.755243,-96.653843,40.755243",
+    "geom:latitude":40.755243,
+    "geom:longitude":-96.653843,
+    "iso:country":"US",
+    "sg:address":"4701 Old Cheney Rd",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 423 0055",
+    "sg:postcode":"68516",
+    "sg:province":"NE",
+    "sg:tags":[
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85811821,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_69a0HOA15xBraHFfFVAWuU_40.755243_-96.653843@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299205,
+    "wof:geomhash":"1154291dd07bac5d37af656d7d850f37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85811821,
+            "region_id":85688563,
+            "venue_id":873868853
+        }
+    ],
+    "wof:id":873868853,
+    "wof:lastmodified":1464299205,
+    "wof:name":"Old Home Bread",
+    "wof:parent_id":85811821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker"
+    ]
+},
+  "bbox": [
+    -96.653843,
+    40.755243,
+    -96.653843,
+    40.755243
+],
+  "geometry": {"coordinates":[-96.65384299999999,40.755243],"type":"Point"}
+}

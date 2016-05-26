@@ -1,0 +1,71 @@
+{
+  "id": 873818461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.118519,41.317245,-96.118519,41.317245",
+    "geom:latitude":41.317245,
+    "geom:longitude":-96.118519,
+    "iso:country":"US",
+    "sg:address":"6423 N 131st St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 616 3686",
+    "sg:postcode":"68164",
+    "sg:province":"NE",
+    "sg:tags":[
+        "tile",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85872505,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2pmra4VdbMwAdrQlvvyrZE_41.317245_-96.118519@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298088,
+    "wof:geomhash":"dc9c9fac66b28e57850084eac8754ffc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":873818461
+        }
+    ],
+    "wof:id":873818461,
+    "wof:lastmodified":1464298088,
+    "wof:name":"Florer's Floors",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tile",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -96.118519,
+    41.317245,
+    -96.118519,
+    41.317245
+],
+  "geometry": {"coordinates":[-96.11851900000001,41.317245],"type":"Point"}
+}

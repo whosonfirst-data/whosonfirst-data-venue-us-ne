@@ -1,0 +1,76 @@
+{
+  "id": 873900561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.050733,41.232626,-96.050733,41.232626",
+    "geom:latitude":41.232626,
+    "geom:longitude":-96.050733,
+    "iso:country":"US",
+    "sg:address":"2801 S 88th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 391 7684",
+    "sg:postcode":"68124",
+    "sg:province":"NE",
+    "sg:tags":[
+        "clinic"
+    ],
+    "sg:website":"www.girlsandboystown.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872533,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_619a9INSNqyFceMZhPrg6r_41.232626_-96.050733@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299827,
+    "wof:geomhash":"0d668fe3691d9223822005b40462e014",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872533,
+            "region_id":85688563,
+            "venue_id":873900561
+        }
+    ],
+    "wof:id":873900561,
+    "wof:lastmodified":1464299827,
+    "wof:name":"Boystown Pediatrics",
+    "wof:parent_id":85872533,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -96.050733,
+    41.232626,
+    -96.050733,
+    41.232626
+],
+  "geometry": {"coordinates":[-96.05073299999999,41.232626],"type":"Point"}
+}

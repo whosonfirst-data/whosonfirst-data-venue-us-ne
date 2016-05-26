@@ -1,0 +1,71 @@
+{
+  "id": 873888295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.679223,40.735723,-96.679223,40.735723",
+    "geom:latitude":40.735723,
+    "geom:longitude":-96.679223,
+    "iso:country":"US",
+    "sg:address":"7431 Lambert Pl",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 420 7905",
+    "sg:postcode":"68516",
+    "sg:province":"NE",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4fOHRDdFShofT9uqizyZke_40.735723_-96.679223@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299596,
+    "wof:geomhash":"c112950ae90b03078c0e42c8f598f20d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878733,
+            "region_id":85688563,
+            "venue_id":873888295
+        }
+    ],
+    "wof:id":873888295,
+    "wof:lastmodified":1464299596,
+    "wof:name":"Stephanie Elgin",
+    "wof:parent_id":85878733,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -96.679223,
+    40.735723,
+    -96.679223,
+    40.735723
+],
+  "geometry": {"coordinates":[-96.67922299999999,40.735723],"type":"Point"}
+}

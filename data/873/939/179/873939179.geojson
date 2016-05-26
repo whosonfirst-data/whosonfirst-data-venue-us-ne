@@ -1,0 +1,75 @@
+{
+  "id": 873939179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.976865,41.244289,-95.976865,41.244289",
+    "geom:latitude":41.244289,
+    "geom:longitude":-95.976865,
+    "iso:country":"US",
+    "sg:address":"4215 Pine St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 551 4354",
+    "sg:postcode":"68105",
+    "sg:province":"NE",
+    "sg:tags":[
+        "arrangement"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872523,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_05fhgU0Eb2BUabjIZZRvuz_41.244289_-95.976865@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300650,
+    "wof:geomhash":"339ed9061273e88a1ce603e5406dffa8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872523,
+            "region_id":85688563,
+            "venue_id":873939179
+        }
+    ],
+    "wof:id":873939179,
+    "wof:lastmodified":1464300650,
+    "wof:name":"JB Truck Brokerage Inc",
+    "wof:parent_id":85872523,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "arrangement"
+    ]
+},
+  "bbox": [
+    -95.976865,
+    41.244289,
+    -95.976865,
+    41.244289
+],
+  "geometry": {"coordinates":[-95.976865,41.244289],"type":"Point"}
+}

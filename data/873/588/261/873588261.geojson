@@ -1,0 +1,81 @@
+{
+  "id": 873588261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.149206,41.190148,-96.149206,41.190148",
+    "geom:latitude":41.190148,
+    "geom:longitude":-96.149206,
+    "iso:country":"US",
+    "sg:address":"15103 Redwood St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 861 1669",
+    "sg:postcode":"68138",
+    "sg:province":"NE",
+    "sg:tags":[
+        "technical",
+        "consultant",
+        "designer",
+        "scientific"
+    ],
+    "sg:website":"www.rcmt.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85834285,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3cVIVnQ7hW1nH9uiTIauZH_41.190148_-96.149206@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294810,
+    "wof:geomhash":"1a0f31018f72e07adab33ff411bc1420",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85834285,
+            "region_id":85688563,
+            "venue_id":873588261
+        }
+    ],
+    "wof:id":873588261,
+    "wof:lastmodified":1464294810,
+    "wof:name":"R C M Technologies Inc",
+    "wof:parent_id":85834285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "technical",
+        "consultant",
+        "designer",
+        "scientific"
+    ]
+},
+  "bbox": [
+    -96.149206,
+    41.190148,
+    -96.149206,
+    41.190148
+],
+  "geometry": {"coordinates":[-96.14920600000001,41.190148],"type":"Point"}
+}

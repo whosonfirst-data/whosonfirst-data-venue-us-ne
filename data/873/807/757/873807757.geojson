@@ -1,0 +1,77 @@
+{
+  "id": 873807757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.974998,41.261783,-95.974998,41.261783",
+    "geom:latitude":41.261783,
+    "geom:longitude":-95.974998,
+    "iso:country":"US",
+    "sg:address":"309 N 41st Ave",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 551 8235",
+    "sg:postcode":"68131",
+    "sg:province":"NE",
+    "sg:tags":[
+        "cookie",
+        "cracker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872525,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_69l4DH4HisNWzLvMLhYQGC_41.261783_-95.974998@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297885,
+    "wof:geomhash":"96d5e491e881884b88df18098afad3ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872525,
+            "region_id":85688563,
+            "venue_id":873807757
+        }
+    ],
+    "wof:id":873807757,
+    "wof:lastmodified":1464297885,
+    "wof:name":"Cookie Co",
+    "wof:parent_id":85872525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cookie",
+        "cracker"
+    ]
+},
+  "bbox": [
+    -95.974998,
+    41.261783,
+    -95.974998,
+    41.261783
+],
+  "geometry": {"coordinates":[-95.974998,41.261783],"type":"Point"}
+}

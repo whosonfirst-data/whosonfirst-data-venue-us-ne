@@ -1,0 +1,75 @@
+{
+  "id": 873856765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.720043,40.804729,-96.720043,40.804729",
+    "geom:latitude":40.804729,
+    "geom:longitude":-96.720043,
+    "iso:country":"US",
+    "sg:address":"107 F St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"College",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 472 1415",
+    "sg:postcode":"68508",
+    "sg:province":"NE",
+    "sg:tags":[
+        "university"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878737,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_71z9wqL09jLtrAFwT3lpax_40.804729_-96.720043@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298948,
+    "wof:geomhash":"f94ebbd3bd80b48c2744f12dd20168e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878737,
+            "region_id":85688563,
+            "venue_id":873856765
+        }
+    ],
+    "wof:id":873856765,
+    "wof:lastmodified":1464298948,
+    "wof:name":"University of Nebraska",
+    "wof:parent_id":85878737,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "university"
+    ]
+},
+  "bbox": [
+    -96.720043,
+    40.804729,
+    -96.720043,
+    40.804729
+],
+  "geometry": {"coordinates":[-96.720043,40.804729],"type":"Point"}
+}

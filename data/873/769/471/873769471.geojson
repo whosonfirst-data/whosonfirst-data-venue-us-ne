@@ -1,0 +1,71 @@
+{
+  "id": 873769471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.065226,41.309101,-96.065226,41.309101",
+    "geom:latitude":41.309101,
+    "geom:longitude":-96.065226,
+    "iso:country":"US",
+    "sg:address":"9824 Ellison Ave",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 571 4508",
+    "sg:postcode":"68134",
+    "sg:province":"NE",
+    "sg:tags":[
+        "hanging",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85872505,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_63SdaaGbBimbpVaM4XFDWV_41.309101_-96.065226@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297355,
+    "wof:geomhash":"c93b73594427e4b10649d5e6315b8c5c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":873769471
+        }
+    ],
+    "wof:id":873769471,
+    "wof:lastmodified":1464297355,
+    "wof:name":"Painting Plus",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.065226,
+    41.309101,
+    -96.065226,
+    41.309101
+],
+  "geometry": {"coordinates":[-96.065226,41.309101],"type":"Point"}
+}

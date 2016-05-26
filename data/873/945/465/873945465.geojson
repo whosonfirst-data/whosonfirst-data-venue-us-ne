@@ -1,0 +1,75 @@
+{
+  "id": 873945465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.663256,40.848715,-96.663256,40.848715",
+    "geom:latitude":40.848715,
+    "geom:longitude":-96.663256,
+    "iso:country":"US",
+    "sg:address":"3605 N 40th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 466 8118",
+    "sg:postcode":"68504",
+    "sg:province":"NE",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878741,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5nv6dUTGc43sz4VX4YJo4Y_40.848715_-96.663256@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300899,
+    "wof:geomhash":"09e21fe0f85bd5851ed10ed31203c5cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878741,
+            "region_id":85688563,
+            "venue_id":873945465
+        }
+    ],
+    "wof:id":873945465,
+    "wof:lastmodified":1464300899,
+    "wof:name":"Biggerstaff Plumbing & Htg Inc",
+    "wof:parent_id":85878741,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.663256,
+    40.848715,
+    -96.663256,
+    40.848715
+],
+  "geometry": {"coordinates":[-96.663256,40.848715],"type":"Point"}
+}

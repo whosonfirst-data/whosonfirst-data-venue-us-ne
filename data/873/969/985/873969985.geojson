@@ -1,0 +1,78 @@
+{
+  "id": 873969985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.957232,41.257673,-95.957232,41.257673",
+    "geom:latitude":41.257673,
+    "geom:longitude":-95.957232,
+    "iso:country":"US",
+    "sg:address":"3023 Farnam St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Employment Agencies",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 738 9200",
+    "sg:postcode":"68131",
+    "sg:province":"NE",
+    "sg:tags":[
+        "temp",
+        "labor"
+    ],
+    "sg:website":"www.laborready.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872525,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2VNZT0yDg2feDQwzh1tl2C_41.257620_-95.957174@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464301982,
+    "wof:geomhash":"c07eea097dc20aa2adce3224a1d105cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872525,
+            "region_id":85688563,
+            "venue_id":873969985
+        }
+    ],
+    "wof:id":873969985,
+    "wof:lastmodified":1464301982,
+    "wof:name":"Labor Ready",
+    "wof:parent_id":85872525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "temp",
+        "labor"
+    ]
+},
+  "bbox": [
+    -95.957232,
+    41.257673,
+    -95.957232,
+    41.257673
+],
+  "geometry": {"coordinates":[-95.957232,41.257673],"type":"Point"}
+}

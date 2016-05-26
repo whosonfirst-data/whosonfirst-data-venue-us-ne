@@ -1,0 +1,70 @@
+{
+  "id": 873948013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.708461,40.817512,-96.708461,40.817512",
+    "geom:latitude":40.817512,
+    "geom:longitude":-96.708461,
+    "iso:country":"US",
+    "sg:address":"401 N 9th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"College",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 472 2656",
+    "sg:postcode":"68508",
+    "sg:province":"NE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878699,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0tGJ0zLgGFtzILqOcHsg1I_40.817512_-96.708461@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464301059,
+    "wof:geomhash":"f87ae32035efb1d25bf8bc3ceea24239",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878699,
+            "region_id":85688563,
+            "venue_id":873948013
+        }
+    ],
+    "wof:id":873948013,
+    "wof:lastmodified":1464301059,
+    "wof:name":"University of Nebraska",
+    "wof:parent_id":85878699,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.708461,
+    40.817512,
+    -96.708461,
+    40.817512
+],
+  "geometry": {"coordinates":[-96.708461,40.817512],"type":"Point"}
+}

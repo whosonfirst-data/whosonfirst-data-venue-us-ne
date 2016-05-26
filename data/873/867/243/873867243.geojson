@@ -1,0 +1,70 @@
+{
+  "id": 873867243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.605931,40.808122,-96.605931,40.808122",
+    "geom:latitude":40.808122,
+    "geom:longitude":-96.605931,
+    "iso:country":"US",
+    "sg:address":"500 S 84th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 327 3478",
+    "sg:postcode":"68520",
+    "sg:province":"NE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878725,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1r9lzMUcDDXEX1tVcin8R1_40.808122_-96.605931@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299177,
+    "wof:geomhash":"7456eb389abc6de4a230c96083a2a7cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878725,
+            "region_id":85688563,
+            "venue_id":873867243
+        }
+    ],
+    "wof:id":873867243,
+    "wof:lastmodified":1464299177,
+    "wof:name":"State Farm Insurance",
+    "wof:parent_id":85878725,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.605931,
+    40.808122,
+    -96.605931,
+    40.808122
+],
+  "geometry": {"coordinates":[-96.605931,40.808122],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 873976733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.6567,40.820707,-96.6567,40.820707",
+    "geom:latitude":40.820707,
+    "geom:longitude":-96.6567,
+    "iso:country":"US",
+    "sg:address":"4603 Vine St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ne/lincoln/121718-fazolis/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 466 4045",
+    "sg:postcode":"68503",
+    "sg:province":"NE",
+    "sg:tags":[
+        "italian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878701,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4VqCtiFoCSjYBbJXlIl2wo_40.820707_-96.656700@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464302247,
+    "wof:geomhash":"7f6c268072f176abb74b5dcb56aefab3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878701,
+            "region_id":85688563,
+            "venue_id":873976733
+        }
+    ],
+    "wof:id":873976733,
+    "wof:lastmodified":1464302247,
+    "wof:name":"Fazoli's",
+    "wof:parent_id":85878701,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "italian"
+    ]
+},
+  "bbox": [
+    -96.6567,
+    40.820707,
+    -96.6567,
+    40.820707
+],
+  "geometry": {"coordinates":[-96.6567,40.820707],"type":"Point"}
+}

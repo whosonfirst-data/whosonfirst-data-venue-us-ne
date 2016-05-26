@@ -1,0 +1,73 @@
+{
+  "id": 873620097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.614979,40.77842,-96.614979,40.77842",
+    "geom:latitude":40.77842,
+    "geom:longitude":-96.614979,
+    "iso:country":"US",
+    "sg:address":"3360 Longview Ct",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 484 8288",
+    "sg:postcode":"68506",
+    "sg:province":"NE",
+    "sg:tags":[
+        "home",
+        "builder"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_53jtqgDUD0649Ew6EaAw3Z_40.778420_-96.614979@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295251,
+    "wof:geomhash":"926c848f7f2bbef0b922e2eae17e6d1d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878697,
+            "region_id":85688563,
+            "venue_id":873620097
+        }
+    ],
+    "wof:id":873620097,
+    "wof:lastmodified":1464295251,
+    "wof:name":"Herbert Homes LTD Inc",
+    "wof:parent_id":85878697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "builder"
+    ]
+},
+  "bbox": [
+    -96.614979,
+    40.77842,
+    -96.614979,
+    40.77842
+],
+  "geometry": {"coordinates":[-96.61497900000001,40.77842],"type":"Point"}
+}

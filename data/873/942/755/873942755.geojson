@@ -1,0 +1,66 @@
+{
+  "id": 873942755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.946411,41.134196,-95.946411,41.134196",
+    "geom:latitude":41.134196,
+    "geom:longitude":-95.946411,
+    "iso:country":"US",
+    "sg:address":"11806 S 25th St",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Self-service Laundry",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 292 8904",
+    "sg:postcode":"68123",
+    "sg:province":"NE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85821583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6R8X07VavUEi5lfLLedzTL_41.134196_-95.946411@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300795,
+    "wof:geomhash":"29b6ef33a2abb686d97c4ca97ecd10cb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85821583,
+            "region_id":85688563,
+            "venue_id":873942755
+        }
+    ],
+    "wof:id":873942755,
+    "wof:lastmodified":1464300795,
+    "wof:name":"Bellevue Maytag Laundry",
+    "wof:parent_id":85821583,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -95.946411,
+    41.134196,
+    -95.946411,
+    41.134196
+],
+  "geometry": {"coordinates":[-95.946411,41.134196],"type":"Point"}
+}

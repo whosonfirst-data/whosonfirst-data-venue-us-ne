@@ -1,0 +1,73 @@
+{
+  "id": 873663461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.654838,40.736429,-96.654838,40.736429",
+    "geom:latitude":40.736429,
+    "geom:longitude":-96.654838,
+    "iso:country":"US",
+    "sg:address":"4600 Birch Creek Dr",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 420 1621",
+    "sg:postcode":"68516",
+    "sg:province":"NE",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2xdQAc7AokmBNPFGuCOxCs_40.736429_-96.654838@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295735,
+    "wof:geomhash":"f570df6024d23f7b0fad0b0131c68f5b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878733,
+            "region_id":85688563,
+            "venue_id":873663461
+        }
+    ],
+    "wof:id":873663461,
+    "wof:lastmodified":1464295735,
+    "wof:name":"David R & Sandra Wolfe",
+    "wof:parent_id":85878733,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.654838,
+    40.736429,
+    -96.654838,
+    40.736429
+],
+  "geometry": {"coordinates":[-96.654838,40.736429],"type":"Point"}
+}

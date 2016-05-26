@@ -1,0 +1,78 @@
+{
+  "id": 873617537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.641753,40.817076,-96.641753,40.817076",
+    "geom:latitude":40.817076,
+    "geom:longitude":-96.641753,
+    "iso:country":"US",
+    "sg:address":"5700 R St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 434 5500",
+    "sg:postcode":"68505",
+    "sg:province":"NE",
+    "sg:tags":[
+        "authorities",
+        "housing"
+    ],
+    "sg:website":"www.l-housing.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878703,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2zCqpAWXdyaiAUTGaq6LbU_40.817076_-96.641753@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295220,
+    "wof:geomhash":"8d750f989c7afdb5ba8916fba1ed45b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878703,
+            "region_id":85688563,
+            "venue_id":873617537
+        }
+    ],
+    "wof:id":873617537,
+    "wof:lastmodified":1464295220,
+    "wof:name":"Lincoln Housing Authority",
+    "wof:parent_id":85878703,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "authorities",
+        "housing"
+    ]
+},
+  "bbox": [
+    -96.641753,
+    40.817076,
+    -96.641753,
+    40.817076
+],
+  "geometry": {"coordinates":[-96.64175299999999,40.817076],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873854521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.888242,41.15095,-95.888242,41.15095",
+    "geom:latitude":41.15095,
+    "geom:longitude":-95.888242,
+    "iso:country":"US",
+    "sg:address":"1007 Kountze Memorial Dr",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 291 4549",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "tackle",
+        "fishing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85804025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5zhTITV0KXwyXP4arEY4Bv_41.150950_-95.888242@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298905,
+    "wof:geomhash":"2a30199336c2125583d4bcb1714f21e8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85804025,
+            "region_id":85688563,
+            "venue_id":873854521
+        }
+    ],
+    "wof:id":873854521,
+    "wof:lastmodified":1464298905,
+    "wof:name":"Johnson Family Lurs",
+    "wof:parent_id":85804025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tackle",
+        "fishing"
+    ]
+},
+  "bbox": [
+    -95.888242,
+    41.15095,
+    -95.888242,
+    41.15095
+],
+  "geometry": {"coordinates":[-95.88824200000001,41.15095],"type":"Point"}
+}

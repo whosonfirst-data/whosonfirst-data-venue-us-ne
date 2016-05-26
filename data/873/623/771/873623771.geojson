@@ -1,0 +1,75 @@
+{
+  "id": 873623771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.040381,41.259755,-96.040381,41.259755",
+    "geom:latitude":41.259755,
+    "geom:longitude":-96.040381,
+    "iso:country":"US",
+    "sg:address":"8300 Dodge St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 354 3031",
+    "sg:postcode":"68114",
+    "sg:province":"NE",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872509,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0X1seHojHNj1hYBLi6UpS5_41.259755_-96.040381@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295295,
+    "wof:geomhash":"5486543848fe61f2b2f13f43cdc3504e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872509,
+            "region_id":85688563,
+            "venue_id":873623771
+        }
+    ],
+    "wof:id":873623771,
+    "wof:lastmodified":1464295295,
+    "wof:name":"Andrea J Steenson MD",
+    "wof:parent_id":85872509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -96.040381,
+    41.259755,
+    -96.040381,
+    41.259755
+],
+  "geometry": {"coordinates":[-96.040381,41.259755],"type":"Point"}
+}

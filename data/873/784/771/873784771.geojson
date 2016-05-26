@@ -1,0 +1,69 @@
+{
+  "id": 873784771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.232191,41.148252,-96.232191,41.148252",
+    "geom:latitude":41.148252,
+    "geom:longitude":-96.232191,
+    "iso:country":"US",
+    "sg:address":"20332 Husker Dr",
+    "sg:city":"Gretna",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 916 9903",
+    "sg:postcode":"68028",
+    "sg:province":"NE",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85834285,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6nwJZynHsOWLPZK4j49YJ3_41.148252_-96.232191@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297553,
+    "wof:geomhash":"3d36054e9a2e19b64325d07344fa0d5a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85834285,
+            "region_id":85688563,
+            "venue_id":873784771
+        }
+    ],
+    "wof:id":873784771,
+    "wof:lastmodified":1464297553,
+    "wof:name":"Senegal Specialty Contracting",
+    "wof:parent_id":85834285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.232191,
+    41.148252,
+    -96.232191,
+    41.148252
+],
+  "geometry": {"coordinates":[-96.232191,41.148252],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 873663871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.966467,41.265828,-95.966467,41.265828",
+    "geom:latitude":41.265828,
+    "geom:longitude":-95.966467,
+    "iso:country":"US",
+    "sg:address":"3401 Webster St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 850 7679",
+    "sg:postcode":"68131",
+    "sg:province":"NE",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872525,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_35Wl84OAFj2iwqcXtcu1t8_41.265828_-95.966467@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295739,
+    "wof:geomhash":"6be251a48b1a503a792b6d73adf32c1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872525,
+            "region_id":85688563,
+            "venue_id":873663871
+        }
+    ],
+    "wof:id":873663871,
+    "wof:lastmodified":1464295739,
+    "wof:name":"Josh Melancon High Quality",
+    "wof:parent_id":85872525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -95.966467,
+    41.265828,
+    -95.966467,
+    41.265828
+],
+  "geometry": {"coordinates":[-95.96646699999999,41.265828],"type":"Point"}
+}

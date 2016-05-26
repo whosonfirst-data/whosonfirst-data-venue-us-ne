@@ -1,0 +1,73 @@
+{
+  "id": 873697955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.056954,41.308811,-96.056954,41.308811",
+    "geom:latitude":41.308811,
+    "geom:longitude":-96.056954,
+    "iso:country":"US",
+    "sg:address":"5410 N 92nd Ave",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 572 7250",
+    "sg:postcode":"68134",
+    "sg:province":"NE",
+    "sg:tags":[
+        "metalwork",
+        "architectural",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85872505,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3lXMbrXGyIjktymF5tLIMn_41.308811_-96.056954@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296384,
+    "wof:geomhash":"d92317ac49de2452950a931ede45e4d6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":873697955
+        }
+    ],
+    "wof:id":873697955,
+    "wof:lastmodified":1464296384,
+    "wof:name":"Bno Ironworks",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "metalwork",
+        "architectural",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -96.056954,
+    41.308811,
+    -96.056954,
+    41.308811
+],
+  "geometry": {"coordinates":[-96.056954,41.308811],"type":"Point"}
+}

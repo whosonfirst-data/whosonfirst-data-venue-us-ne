@@ -1,0 +1,75 @@
+{
+  "id": 873724847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.128609,41.187248,-96.128609,41.187248",
+    "geom:latitude":41.187248,
+    "geom:longitude":-96.128609,
+    "iso:country":"US",
+    "sg:address":"7305 S 137th Ave",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 896 2255",
+    "sg:postcode":"68138",
+    "sg:province":"NE",
+    "sg:tags":[
+        "real",
+        "residential",
+        "property",
+        "lessor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85834285,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3BvYJ93xbkespmPUauMn3i_41.187248_-96.128609@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296710,
+    "wof:geomhash":"ceb56c6581624950024880fffc8550f6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85834285,
+            "region_id":85688563,
+            "venue_id":873724847
+        }
+    ],
+    "wof:id":873724847,
+    "wof:lastmodified":1464296710,
+    "wof:name":"Jim Bowley Services",
+    "wof:parent_id":85834285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "real",
+        "residential",
+        "property",
+        "lessor"
+    ]
+},
+  "bbox": [
+    -96.128609,
+    41.187248,
+    -96.128609,
+    41.187248
+],
+  "geometry": {"coordinates":[-96.128609,41.187248],"type":"Point"}
+}

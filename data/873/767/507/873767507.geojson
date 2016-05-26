@@ -1,0 +1,71 @@
+{
+  "id": 873767507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.044151,41.161529,-96.044151,41.161529",
+    "geom:latitude":41.161529,
+    "geom:longitude":-96.044151,
+    "iso:country":"US",
+    "sg:address":"515 N Adams St",
+    "sg:city":"Papillion",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 593 7998",
+    "sg:postcode":"68046",
+    "sg:province":"NE",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85843697,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5vE4QAeRKr2SDfjqMQV2Xt_41.161529_-96.044151@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297332,
+    "wof:geomhash":"df313db1779ebbf951ca97af4ca6e481",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85843697,
+            "region_id":85688563,
+            "venue_id":873767507
+        }
+    ],
+    "wof:id":873767507,
+    "wof:lastmodified":1464297332,
+    "wof:name":"Walls By Design Inc",
+    "wof:parent_id":85843697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.044151,
+    41.161529,
+    -96.044151,
+    41.161529
+],
+  "geometry": {"coordinates":[-96.044151,41.161529],"type":"Point"}
+}

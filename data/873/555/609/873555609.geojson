@@ -1,0 +1,71 @@
+{
+  "id": 873555609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.91733,41.160114,-95.91733,41.160114",
+    "geom:latitude":41.160114,
+    "geom:longitude":-95.91733,
+    "iso:country":"US",
+    "sg:address":"108 Kings Cir",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 850 5438",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "developer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85804025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7T5rMH3EuNLBr6mWHe8Fhk_41.160114_-95.917330@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294444,
+    "wof:geomhash":"c9774e24c35a4935d39d93f87c0a6323",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85804025,
+            "region_id":85688563,
+            "venue_id":873555609
+        }
+    ],
+    "wof:id":873555609,
+    "wof:lastmodified":1464294444,
+    "wof:name":"Tron Software Limited",
+    "wof:parent_id":85804025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "developer"
+    ]
+},
+  "bbox": [
+    -95.91733,
+    41.160114,
+    -95.91733,
+    41.160114
+],
+  "geometry": {"coordinates":[-95.91733000000001,41.160114],"type":"Point"}
+}

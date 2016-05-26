@@ -1,0 +1,75 @@
+{
+  "id": 873954605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.749288,40.814662,-96.749288,40.814662",
+    "geom:latitude":40.814662,
+    "geom:longitude":-96.749288,
+    "iso:country":"US",
+    "sg:address":"208 NW 20th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Painting Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 476 3100",
+    "sg:postcode":"68528",
+    "sg:province":"NE",
+    "sg:tags":[
+        "paint"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878689,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3NErd4a9pOHE3S16iWpFe6_40.814662_-96.749288@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464301326,
+    "wof:geomhash":"07c8bc96918391514b4df0760d542e85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878689,
+            "region_id":85688563,
+            "venue_id":873954605
+        }
+    ],
+    "wof:id":873954605,
+    "wof:lastmodified":1464301326,
+    "wof:name":"Sherwin-Williams Paints",
+    "wof:parent_id":85878689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paint"
+    ]
+},
+  "bbox": [
+    -96.749288,
+    40.814662,
+    -96.749288,
+    40.814662
+],
+  "geometry": {"coordinates":[-96.74928800000001,40.814662],"type":"Point"}
+}

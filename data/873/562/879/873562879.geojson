@@ -1,0 +1,75 @@
+{
+  "id": 873562879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.032322,41.258257,-96.032322,41.258257",
+    "geom:latitude":41.258257,
+    "geom:longitude":-96.032322,
+    "iso:country":"US",
+    "sg:address":"250 S 77th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 955 3900",
+    "sg:postcode":"68114",
+    "sg:province":"NE",
+    "sg:tags":[
+        "psychologist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872509,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0rwL62lb38I5AKCZddhHtt_41.258257_-96.032322@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294530,
+    "wof:geomhash":"3508c4af6b78af06e0a5ed6398af4e2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872509,
+            "region_id":85688563,
+            "venue_id":873562879
+        }
+    ],
+    "wof:id":873562879,
+    "wof:lastmodified":1464294530,
+    "wof:name":"Children's Family Support Ctr",
+    "wof:parent_id":85872509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "psychologist"
+    ]
+},
+  "bbox": [
+    -96.032322,
+    41.258257,
+    -96.032322,
+    41.258257
+],
+  "geometry": {"coordinates":[-96.03232199999999,41.258257],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 873666825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.364735,41.438758,-97.364735,41.438758",
+    "geom:latitude":41.438758,
+    "geom:longitude":-97.364735,
+    "iso:country":"US",
+    "sg:address":"3012 23rd St",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 564 4317",
+    "sg:postcode":"68601",
+    "sg:province":"NE",
+    "sg:tags":[
+        "insulation",
+        "heat",
+        "system",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974401,
+        102084277,
+        85854093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_55u8Uf6jG4MryYIZN2ON5Q_41.438758_-97.364735@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295767,
+    "wof:geomhash":"855062085ef9c213da3de57964edff79",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084277,
+            "locality_id":85974401,
+            "neighbourhood_id":85854093,
+            "region_id":85688563,
+            "venue_id":873666825
+        }
+    ],
+    "wof:id":873666825,
+    "wof:lastmodified":1464295767,
+    "wof:name":"Westco International",
+    "wof:parent_id":85854093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "insulation",
+        "heat",
+        "system",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -97.364735,
+    41.438758,
+    -97.364735,
+    41.438758
+],
+  "geometry": {"coordinates":[-97.364735,41.438758],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 873711251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.702597,40.804744,-96.702597,40.804744",
+    "geom:latitude":40.804744,
+    "geom:longitude":-96.702597,
+    "iso:country":"US",
+    "sg:address":"1313 F St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 477 3617",
+    "sg:postcode":"68508",
+    "sg:province":"NE",
+    "sg:tags":[
+        "builder",
+        "operative"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878705,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6JTZL0K247YOkMsCrWcw5I_40.804744_-96.702597@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296536,
+    "wof:geomhash":"844fc8044c198a0d2f70cb86f5a9cbce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878705,
+            "region_id":85688563,
+            "venue_id":873711251
+        }
+    ],
+    "wof:id":873711251,
+    "wof:lastmodified":1464296536,
+    "wof:name":"Richard E Moulton",
+    "wof:parent_id":85878705,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "builder",
+        "operative"
+    ]
+},
+  "bbox": [
+    -96.702597,
+    40.804744,
+    -96.702597,
+    40.804744
+],
+  "geometry": {"coordinates":[-96.702597,40.804744],"type":"Point"}
+}

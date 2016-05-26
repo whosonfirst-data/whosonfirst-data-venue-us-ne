@@ -1,0 +1,73 @@
+{
+  "id": 873820555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.049039,41.188666,-96.049039,41.188666",
+    "geom:latitude":41.188666,
+    "geom:longitude":-96.049039,
+    "iso:country":"US",
+    "sg:address":"8822 Elm Dr",
+    "sg:city":"La Vista",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 592 7720",
+    "sg:postcode":"68128",
+    "sg:province":"NE",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85843697,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0OKOyYc8mQLPZdvrJg34LO_41.188666_-96.049039@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298130,
+    "wof:geomhash":"c5eb426661d442e7b147d74a320632f9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85843697,
+            "region_id":85688563,
+            "venue_id":873820555
+        }
+    ],
+    "wof:id":873820555,
+    "wof:lastmodified":1464298130,
+    "wof:name":"Texmo Trucking",
+    "wof:parent_id":85843697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -96.049039,
+    41.188666,
+    -96.049039,
+    41.188666
+],
+  "geometry": {"coordinates":[-96.04903899999999,41.188666],"type":"Point"}
+}

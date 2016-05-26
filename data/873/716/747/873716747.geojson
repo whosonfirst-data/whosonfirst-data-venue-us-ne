@@ -1,0 +1,70 @@
+{
+  "id": 873716747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.042246,41.263231,-96.042246,41.263231",
+    "geom:latitude":41.263231,
+    "geom:longitude":-96.042246,
+    "iso:country":"US",
+    "sg:address":"8333 Cass St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 391 2673",
+    "sg:postcode":"68114",
+    "sg:province":"NE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872509,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4hCmCXwfbFneVUSco8L368_41.263231_-96.042246@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296603,
+    "wof:geomhash":"541ad83eee66ea019d42a9eb7c43bbf6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872509,
+            "region_id":85688563,
+            "venue_id":873716747
+        }
+    ],
+    "wof:id":873716747,
+    "wof:lastmodified":1464296603,
+    "wof:name":"State Farm Insurance",
+    "wof:parent_id":85872509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.042246,
+    41.263231,
+    -96.042246,
+    41.263231
+],
+  "geometry": {"coordinates":[-96.04224600000001,41.263231],"type":"Point"}
+}

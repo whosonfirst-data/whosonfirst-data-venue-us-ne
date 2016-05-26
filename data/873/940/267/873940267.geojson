@@ -1,0 +1,70 @@
+{
+  "id": 873940267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.685175,40.791663,-96.685175,40.791663",
+    "geom:latitude":40.791663,
+    "geom:longitude":-96.685175,
+    "iso:country":"US",
+    "sg:address":"2675 South St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Library",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 441 8570",
+    "sg:postcode":"68502",
+    "sg:province":"NE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878727,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7M0jvslMpOIFC2d6T7aGQW_40.791663_-96.685175@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300704,
+    "wof:geomhash":"fe30e45ebbdb43fe63bfac3f5846b01a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878727,
+            "region_id":85688563,
+            "venue_id":873940267
+        }
+    ],
+    "wof:id":873940267,
+    "wof:lastmodified":1464300704,
+    "wof:name":"South Library",
+    "wof:parent_id":85878727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.685175,
+    40.791663,
+    -96.685175,
+    40.791663
+],
+  "geometry": {"coordinates":[-96.685175,40.791663],"type":"Point"}
+}

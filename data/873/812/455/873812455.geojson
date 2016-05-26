@@ -1,0 +1,71 @@
+{
+  "id": 873812455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.713395,40.875362,-96.713395,40.875362",
+    "geom:latitude":40.875362,
+    "geom:longitude":-96.713395,
+    "iso:country":"US",
+    "sg:address":"600 Pennsylvania Ave",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 438 8297",
+    "sg:postcode":"68521",
+    "sg:province":"NE",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3CWLFCRhgn8b825HIhT7HW_40.875362_-96.713395@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297969,
+    "wof:geomhash":"b5aaae01fd858944149c0e93b8a0506a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878717,
+            "region_id":85688563,
+            "venue_id":873812455
+        }
+    ],
+    "wof:id":873812455,
+    "wof:lastmodified":1464297969,
+    "wof:name":"Rods Auto Service",
+    "wof:parent_id":85878717,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -96.713395,
+    40.875362,
+    -96.713395,
+    40.875362
+],
+  "geometry": {"coordinates":[-96.71339500000001,40.875362],"type":"Point"}
+}

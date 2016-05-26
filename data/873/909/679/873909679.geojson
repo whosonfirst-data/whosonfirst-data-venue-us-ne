@@ -1,0 +1,75 @@
+{
+  "id": 873909679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.624572,40.894909,-96.624572,40.894909",
+    "geom:latitude":40.894909,
+    "geom:longitude":-96.624572,
+    "iso:country":"US",
+    "sg:address":"8401 N 70th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 466 8848",
+    "sg:postcode":"68517",
+    "sg:province":"NE",
+    "sg:tags":[
+        "metalwork",
+        "architectural",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85824241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2bNvGuBmF9sYdQ0V4dpekM_40.894909_-96.624572@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300008,
+    "wof:geomhash":"9938778fa976b6a9368b1b4b13f6a915",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85824241,
+            "region_id":85688563,
+            "venue_id":873909679
+        }
+    ],
+    "wof:id":873909679,
+    "wof:lastmodified":1464300008,
+    "wof:name":"Nebraska Ironworks",
+    "wof:parent_id":85824241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "metalwork",
+        "architectural",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -96.624572,
+    40.894909,
+    -96.624572,
+    40.894909
+],
+  "geometry": {"coordinates":[-96.624572,40.894909],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 873725605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.655064,40.840223,-96.655064,40.840223",
+    "geom:latitude":40.840223,
+    "geom:longitude":-96.655064,
+    "iso:country":"US",
+    "sg:address":"4611 Madison Ave",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Tobacco",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 466 4656",
+    "sg:postcode":"68504",
+    "sg:province":"NE",
+    "sg:tags":[
+        "cigarette",
+        "cigar",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85853163,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ETXP3B5K4kOhyiKAlzcUE_40.840223_-96.655064@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296720,
+    "wof:geomhash":"74113dc1843e1caff30d29b6800d4340",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85853163,
+            "region_id":85688563,
+            "venue_id":873725605
+        }
+    ],
+    "wof:id":873725605,
+    "wof:lastmodified":1464296720,
+    "wof:name":"Uni Video",
+    "wof:parent_id":85853163,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cigarette",
+        "cigar",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -96.655064,
+    40.840223,
+    -96.655064,
+    40.840223
+],
+  "geometry": {"coordinates":[-96.655064,40.840223],"type":"Point"}
+}

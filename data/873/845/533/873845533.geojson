@@ -1,0 +1,71 @@
+{
+  "id": 873845533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.082446,41.300899,-96.082446,41.300899",
+    "geom:latitude":41.300899,
+    "geom:longitude":-96.082446,
+    "iso:country":"US",
+    "sg:address":"10808 Fowler Ave",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 493 2607",
+    "sg:postcode":"68164",
+    "sg:province":"NE",
+    "sg:tags":[
+        "investor",
+        "real estate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85872505,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_540CrCSPszf4cL1UrIH0Ne_41.300899_-96.082446@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298693,
+    "wof:geomhash":"c39999ba72634c908f5ff7cd65e7924f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":873845533
+        }
+    ],
+    "wof:id":873845533,
+    "wof:lastmodified":1464298693,
+    "wof:name":"V & F Investment Company",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "investor",
+        "real estate"
+    ]
+},
+  "bbox": [
+    -96.082446,
+    41.300899,
+    -96.082446,
+    41.300899
+],
+  "geometry": {"coordinates":[-96.082446,41.300899],"type":"Point"}
+}

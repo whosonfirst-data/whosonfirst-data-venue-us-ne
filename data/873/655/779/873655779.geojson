@@ -1,0 +1,75 @@
+{
+  "id": 873655779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.635743,40.820211,-96.635743,40.820211",
+    "geom:latitude":40.820211,
+    "geom:longitude":-96.635743,
+    "iso:country":"US",
+    "sg:address":"630 N Cotner Blvd",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 466 1333",
+    "sg:postcode":"68505",
+    "sg:province":"NE",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878703,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ZGRlLSLPVd1iQb6MFRfT2_40.820211_-96.635743@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295654,
+    "wof:geomhash":"e6ec6e31e73a356d4f49804b84c53217",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878703,
+            "region_id":85688563,
+            "venue_id":873655779
+        }
+    ],
+    "wof:id":873655779,
+    "wof:lastmodified":1464295654,
+    "wof:name":"Yosh Ameku DDS",
+    "wof:parent_id":85878703,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -96.635743,
+    40.820211,
+    -96.635743,
+    40.820211
+],
+  "geometry": {"coordinates":[-96.63574300000001,40.820211],"type":"Point"}
+}

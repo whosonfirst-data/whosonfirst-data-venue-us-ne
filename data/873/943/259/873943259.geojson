@@ -1,0 +1,75 @@
+{
+  "id": 873943259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.675965,40.842499,-96.675965,40.842499",
+    "geom:latitude":40.842499,
+    "geom:longitude":-96.675965,
+    "iso:country":"US",
+    "sg:address":"3233 Cornhusker Hwy",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 610 1606",
+    "sg:postcode":"68504",
+    "sg:province":"NE",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878741,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3mV3OmHNxchGQNUe07ZKi2_40.842499_-96.675965@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300816,
+    "wof:geomhash":"5fbc60de9409ba5c507394d9ccf2b1b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878741,
+            "region_id":85688563,
+            "venue_id":873943259
+        }
+    ],
+    "wof:id":873943259,
+    "wof:lastmodified":1464300816,
+    "wof:name":"APMS",
+    "wof:parent_id":85878741,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -96.675965,
+    40.842499,
+    -96.675965,
+    40.842499
+],
+  "geometry": {"coordinates":[-96.67596500000001,40.842499],"type":"Point"}
+}

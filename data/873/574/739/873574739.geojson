@@ -1,0 +1,71 @@
+{
+  "id": 873574739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.727804,40.869346,-96.727804,40.869346",
+    "geom:latitude":40.869346,
+    "geom:longitude":-96.727804,
+    "iso:country":"US",
+    "sg:address":"440 W Burt Dr",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 438 3760",
+    "sg:postcode":"68521",
+    "sg:province":"NE",
+    "sg:tags":[
+        "advisory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7btcXLD84mnnWWauGMURTI_40.869346_-96.727804@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294660,
+    "wof:geomhash":"18f0e66cb3eeb67322cf7f1859b15563",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878717,
+            "region_id":85688563,
+            "venue_id":873574739
+        }
+    ],
+    "wof:id":873574739,
+    "wof:lastmodified":1464294660,
+    "wof:name":"Primerica",
+    "wof:parent_id":85878717,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "advisory"
+    ]
+},
+  "bbox": [
+    -96.727804,
+    40.869346,
+    -96.727804,
+    40.869346
+],
+  "geometry": {"coordinates":[-96.72780400000001,40.869346],"type":"Point"}
+}

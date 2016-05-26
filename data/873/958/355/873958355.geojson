@@ -1,0 +1,73 @@
+{
+  "id": 873958355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.640915,40.85927,-96.640915,40.85927",
+    "geom:latitude":40.85927,
+    "geom:longitude":-96.640915,
+    "iso:country":"US",
+    "sg:address":"5970 Cornhusker Hwy",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 466 4334",
+    "sg:postcode":"68507",
+    "sg:province":"NE",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85824241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6znkmdXDQRSLDYlL6DBfEK_40.859270_-96.640915@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464301456,
+    "wof:geomhash":"02762e2ea41af724174e6445d7f8cde4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85824241,
+            "region_id":85688563,
+            "venue_id":873958355
+        }
+    ],
+    "wof:id":873958355,
+    "wof:lastmodified":1464301456,
+    "wof:name":"R & B Enterprises",
+    "wof:parent_id":85824241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.640915,
+    40.85927,
+    -96.640915,
+    40.85927
+],
+  "geometry": {"coordinates":[-96.64091500000001,40.85927],"type":"Point"}
+}

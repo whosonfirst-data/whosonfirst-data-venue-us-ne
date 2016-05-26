@@ -1,0 +1,71 @@
+{
+  "id": 873631011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.069836,41.330289,-96.069836,41.330289",
+    "geom:latitude":41.330289,
+    "geom:longitude":-96.069836,
+    "iso:country":"US",
+    "sg:address":"7820 N 101st Plz",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Art Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 491 0365",
+    "sg:postcode":"68122",
+    "sg:province":"NE",
+    "sg:tags":[
+        "photography",
+        "commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85872505,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0yTX39P5UHswEDB8CFTNOs_41.330289_-96.069836@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295375,
+    "wof:geomhash":"91975cf85093d4076cae70b7c674f911",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":873631011
+        }
+    ],
+    "wof:id":873631011,
+    "wof:lastmodified":1464295375,
+    "wof:name":"Mystic Colors",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photography",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -96.069836,
+    41.330289,
+    -96.069836,
+    41.330289
+],
+  "geometry": {"coordinates":[-96.069836,41.330289],"type":"Point"}
+}

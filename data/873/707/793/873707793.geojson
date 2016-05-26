@@ -1,0 +1,71 @@
+{
+  "id": 873707793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.799635,40.813635,-96.799635,40.813635",
+    "geom:latitude":40.813635,
+    "geom:longitude":-96.799635,
+    "iso:country":"US",
+    "sg:address":"5905 W O St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 476 0101",
+    "sg:postcode":"68528",
+    "sg:province":"NE",
+    "sg:tags":[
+        "excavating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85813295,
+        102083503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_64fZmcD02DUpRqwzvFEgNt_40.813635_-96.799635@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296493,
+    "wof:geomhash":"111bb35b7c880bef8e994655f448e585",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "neighbourhood_id":85813295,
+            "region_id":85688563,
+            "venue_id":873707793
+        }
+    ],
+    "wof:id":873707793,
+    "wof:lastmodified":1464296493,
+    "wof:name":"Shanahan Brothers Construction",
+    "wof:parent_id":85813295,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.799635,
+    40.813635,
+    -96.799635,
+    40.813635
+],
+  "geometry": {"coordinates":[-96.79963499999999,40.813635],"type":"Point"}
+}

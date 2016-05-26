@@ -1,0 +1,71 @@
+{
+  "id": 873924249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.060877,41.304758,-96.060877,41.304758",
+    "geom:latitude":41.304758,
+    "geom:longitude":-96.060877,
+    "iso:country":"US",
+    "sg:address":"9559 Tomahawk Blvd",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 572 6946",
+    "sg:postcode":"68134",
+    "sg:province":"NE",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85872505,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_670JflU1cp8Og3C7h8ocjR_41.304758_-96.060877@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300292,
+    "wof:geomhash":"e7ae314951b20556179e839f9a0642b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":873924249
+        }
+    ],
+    "wof:id":873924249,
+    "wof:lastmodified":1464300292,
+    "wof:name":"Rapid Response Omaha's Dsstr",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -96.060877,
+    41.304758,
+    -96.060877,
+    41.304758
+],
+  "geometry": {"coordinates":[-96.060877,41.304758],"type":"Point"}
+}

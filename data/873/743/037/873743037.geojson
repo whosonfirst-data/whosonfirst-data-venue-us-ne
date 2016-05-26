@@ -1,0 +1,73 @@
+{
+  "id": 873743037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.909026,41.162699,-95.909026,41.162699",
+    "geom:latitude":41.162699,
+    "geom:longitude":-95.909026,
+    "iso:country":"US",
+    "sg:address":"1101 Tanglewood Ct",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 614 0083",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "hanging",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85804025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4JeOWKz69tNtSTiVJtgQ4N_41.162699_-95.909026@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296972,
+    "wof:geomhash":"f77845ecd3f6a227faf8136d5629a550",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85804025,
+            "region_id":85688563,
+            "venue_id":873743037
+        }
+    ],
+    "wof:id":873743037,
+    "wof:lastmodified":1464296972,
+    "wof:name":"Double E Painting",
+    "wof:parent_id":85804025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -95.909026,
+    41.162699,
+    -95.909026,
+    41.162699
+],
+  "geometry": {"coordinates":[-95.909026,41.162699],"type":"Point"}
+}

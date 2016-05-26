@@ -1,0 +1,70 @@
+{
+  "id": 873617845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.100617,41.274396,-96.100617,41.274396",
+    "geom:latitude":41.274396,
+    "geom:longitude":-96.100617,
+    "iso:country":"US",
+    "sg:address":"1714 N 120th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 390 0890",
+    "sg:postcode":"68154",
+    "sg:province":"NE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872503,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0q5Oe86c1xIYq6VR68c42y_41.274396_-96.100617@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295223,
+    "wof:geomhash":"3265623145a1cd7508ed0421047f0d89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872503,
+            "region_id":85688563,
+            "venue_id":873617845
+        }
+    ],
+    "wof:id":873617845,
+    "wof:lastmodified":1464295223,
+    "wof:name":"Candlewood Shopping Ctr",
+    "wof:parent_id":85872503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.100617,
+    41.274396,
+    -96.100617,
+    41.274396
+],
+  "geometry": {"coordinates":[-96.100617,41.274396],"type":"Point"}
+}

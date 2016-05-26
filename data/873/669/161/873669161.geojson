@@ -1,0 +1,73 @@
+{
+  "id": 873669161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.727016,40.84991,-96.727016,40.84991",
+    "geom:latitude":40.84991,
+    "geom:longitude":-96.727016,
+    "iso:country":"US",
+    "sg:address":"616 W Fairfield St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Construction Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 474 3891",
+    "sg:postcode":"68521",
+    "sg:province":"NE",
+    "sg:tags":[
+        "sand",
+        "gravel"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1UMZpmi9ay6CahGQv3VuHM_40.849910_-96.727016@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295792,
+    "wof:geomhash":"ec56d56da115b426b24e0e6b36f23bb9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878717,
+            "region_id":85688563,
+            "venue_id":873669161
+        }
+    ],
+    "wof:id":873669161,
+    "wof:lastmodified":1464295792,
+    "wof:name":"Stromberg River Rock Sand",
+    "wof:parent_id":85878717,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sand",
+        "gravel"
+    ]
+},
+  "bbox": [
+    -96.727016,
+    40.84991,
+    -96.727016,
+    40.84991
+],
+  "geometry": {"coordinates":[-96.72701600000001,40.84991],"type":"Point"}
+}

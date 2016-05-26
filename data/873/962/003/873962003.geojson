@@ -1,0 +1,75 @@
+{
+  "id": 873962003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.978832,41.252487,-95.978832,41.252487",
+    "geom:latitude":41.252487,
+    "geom:longitude":-95.978832,
+    "iso:country":"US",
+    "sg:address":"4310 Leavenworth St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 551 1414",
+    "sg:postcode":"68105",
+    "sg:province":"NE",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872523,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1oDTdyEUvU2HN2BuDbpEin_41.252487_-95.978832@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464301653,
+    "wof:geomhash":"f5c79ea68c81dac0c6d992e24aff7c41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872523,
+            "region_id":85688563,
+            "venue_id":873962003
+        }
+    ],
+    "wof:id":873962003,
+    "wof:lastmodified":1464301653,
+    "wof:name":"Joe Coan Barber Shop",
+    "wof:parent_id":85872523,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -95.978832,
+    41.252487,
+    -95.978832,
+    41.252487
+],
+  "geometry": {"coordinates":[-95.978832,41.252487],"type":"Point"}
+}

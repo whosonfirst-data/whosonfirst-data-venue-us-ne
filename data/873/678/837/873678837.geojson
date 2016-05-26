@@ -1,0 +1,73 @@
+{
+  "id": 873678837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.690897,40.737663,-96.690897,40.737663",
+    "geom:latitude":40.737663,
+    "geom:longitude":-96.690897,
+    "iso:country":"US",
+    "sg:address":"2100 Pond Cir",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 432 4772",
+    "sg:postcode":"68512",
+    "sg:province":"NE",
+    "sg:tags":[
+        "lock",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_27CGz5XBbppKogRomY3aJd_40.737663_-96.690897@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295963,
+    "wof:geomhash":"ae66d3c320b0a77777596994e7a2d703",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878733,
+            "region_id":85688563,
+            "venue_id":873678837
+        }
+    ],
+    "wof:id":873678837,
+    "wof:lastmodified":1464295963,
+    "wof:name":"Tim's Lock Svc",
+    "wof:parent_id":85878733,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "locksmith"
+    ]
+},
+  "bbox": [
+    -96.690897,
+    40.737663,
+    -96.690897,
+    40.737663
+],
+  "geometry": {"coordinates":[-96.69089700000001,40.737663],"type":"Point"}
+}

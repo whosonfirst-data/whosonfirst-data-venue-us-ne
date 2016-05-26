@@ -1,0 +1,70 @@
+{
+  "id": 873601293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.127785,41.224503,-96.127785,41.224503",
+    "geom:latitude":41.224503,
+    "geom:longitude":-96.127785,
+    "iso:country":"US",
+    "sg:address":"13353 A St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 398 1507",
+    "sg:postcode":"68144",
+    "sg:province":"NE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872531,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_59wVpnYEHh5g1GGPinx8Yi_41.224503_-96.127785@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295001,
+    "wof:geomhash":"c392e4ff8e21edd907a341777776cc04",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872531,
+            "region_id":85688563,
+            "venue_id":873601293
+        }
+    ],
+    "wof:id":873601293,
+    "wof:lastmodified":1464295001,
+    "wof:name":"Cool Cars",
+    "wof:parent_id":85872531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.127785,
+    41.224503,
+    -96.127785,
+    41.224503
+],
+  "geometry": {"coordinates":[-96.127785,41.224503],"type":"Point"}
+}

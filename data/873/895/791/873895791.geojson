@@ -1,0 +1,72 @@
+{
+  "id": 873895791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.617237,40.769594,-96.617237,40.769594",
+    "geom:latitude":40.769594,
+    "geom:longitude":-96.617237,
+    "iso:country":"US",
+    "sg:address":"7601 Pioneers Blvd",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 484 6677",
+    "sg:postcode":"68506",
+    "sg:province":"NE",
+    "sg:tags":[
+        "medical"
+    ],
+    "sg:website":"www.amimaging.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4FLtO7jcXiJ2jceJGGjTxZ_40.769594_-96.617237@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299737,
+    "wof:geomhash":"08ad0cc1e2a45ac67f0e6b019b2a4ac8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878697,
+            "region_id":85688563,
+            "venue_id":873895791
+        }
+    ],
+    "wof:id":873895791,
+    "wof:lastmodified":1464299737,
+    "wof:name":"Advanced Medical Imaging Inc",
+    "wof:parent_id":85878697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -96.617237,
+    40.769594,
+    -96.617237,
+    40.769594
+],
+  "geometry": {"coordinates":[-96.617237,40.769594],"type":"Point"}
+}

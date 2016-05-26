@@ -1,0 +1,82 @@
+{
+  "id": 873794489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.925555,41.171536,-95.925555,41.171536",
+    "geom:latitude":41.171536,
+    "geom:longitude":-95.925555,
+    "iso:country":"US",
+    "sg:address":"726 Fort Crook Rd N",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 502 6926",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "glass",
+        "coating",
+        "tinting",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85804025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Z6HeC7Vtcftm035ggBujF_41.171536_-95.925555@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297709,
+    "wof:geomhash":"f3ecea1c429e33f23db55d731d03f4bf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85804025,
+            "region_id":85688563,
+            "venue_id":873794489
+        }
+    ],
+    "wof:id":873794489,
+    "wof:lastmodified":1464297709,
+    "wof:name":"High Impact",
+    "wof:parent_id":85804025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass",
+        "coating",
+        "tinting",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -95.925555,
+    41.171536,
+    -95.925555,
+    41.171536
+],
+  "geometry": {"coordinates":[-95.925555,41.171536],"type":"Point"}
+}

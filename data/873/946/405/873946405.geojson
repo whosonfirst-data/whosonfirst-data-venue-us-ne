@@ -1,0 +1,77 @@
+{
+  "id": 873946405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.119601,41.215019,-96.119601,41.215019",
+    "geom:latitude":41.215019,
+    "geom:longitude":-96.119601,
+    "iso:country":"US",
+    "sg:address":"4512 S 132nd St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 330 2981",
+    "sg:postcode":"68137",
+    "sg:province":"NE",
+    "sg:tags":[
+        "automobile",
+        "lubrication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872531,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_261w3Ja4Gjg7sKKcWxE7Nn_41.215019_-96.119601@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300966,
+    "wof:geomhash":"e9540ff6aeb60c69ab67b39ec4a9917c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872531,
+            "region_id":85688563,
+            "venue_id":873946405
+        }
+    ],
+    "wof:id":873946405,
+    "wof:lastmodified":1464300966,
+    "wof:name":"Insta-Lube Inc",
+    "wof:parent_id":85872531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "lubrication"
+    ]
+},
+  "bbox": [
+    -96.119601,
+    41.215019,
+    -96.119601,
+    41.215019
+],
+  "geometry": {"coordinates":[-96.119601,41.215019],"type":"Point"}
+}

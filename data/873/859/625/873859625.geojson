@@ -1,0 +1,71 @@
+{
+  "id": 873859625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.074496,41.312221,-96.074496,41.312221",
+    "geom:latitude":41.312221,
+    "geom:longitude":-96.074496,
+    "iso:country":"US",
+    "sg:address":"10303 Crown Point Ave",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 496 4001",
+    "sg:postcode":"68134",
+    "sg:province":"NE",
+    "sg:tags":[
+        "loan",
+        "real estate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85872505,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Nee3cI7EpmSvxjGWXJ4sw_41.312221_-96.074496@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299009,
+    "wof:geomhash":"30a4d8b51eea3b27a54dd496f0a322f7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":873859625
+        }
+    ],
+    "wof:id":873859625,
+    "wof:lastmodified":1464299009,
+    "wof:name":"Mortgage Smartz",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan",
+        "real estate"
+    ]
+},
+  "bbox": [
+    -96.074496,
+    41.312221,
+    -96.074496,
+    41.312221
+],
+  "geometry": {"coordinates":[-96.074496,41.312221],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 873690029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.023983,41.291207,-96.023983,41.291207",
+    "geom:latitude":41.291207,
+    "geom:longitude":-96.023983,
+    "iso:country":"US",
+    "sg:address":"3620 N 72nd St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 571 3700",
+    "sg:postcode":"68134",
+    "sg:province":"NE",
+    "sg:tags":[
+        "automobile",
+        "parts"
+    ],
+    "sg:website":"www.oreillyauto.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872515,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1VGvSRX5j78DfOEiH8xSfu_41.291207_-96.023983@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296273,
+    "wof:geomhash":"a0f684b5ba253ab0354fc195d29b4285",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872515,
+            "region_id":85688563,
+            "venue_id":873690029
+        }
+    ],
+    "wof:id":873690029,
+    "wof:lastmodified":1464296273,
+    "wof:name":"O'Reilly Auto Parts",
+    "wof:parent_id":85872515,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "parts"
+    ]
+},
+  "bbox": [
+    -96.023983,
+    41.291207,
+    -96.023983,
+    41.291207
+],
+  "geometry": {"coordinates":[-96.023983,41.291207],"type":"Point"}
+}

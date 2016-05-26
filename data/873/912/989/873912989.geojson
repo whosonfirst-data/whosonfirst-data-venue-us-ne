@@ -1,0 +1,88 @@
+{
+  "id": 873912989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.98022,41.278646,-95.98022,41.278646",
+    "geom:latitude":41.278646,
+    "geom:longitude":-95.98022,
+    "iso:country":"US",
+    "sg:address":"2110 Military Ave",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 451 8827",
+    "sg:postcode":"68111",
+    "sg:province":"NE",
+    "sg:tags":[
+        "refinishing",
+        "bathtub",
+        "restoration",
+        "sink",
+        "basement"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872535,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3w6oXwqxpfWtuIjA4i1g6d_41.278646_-95.980220@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300069,
+    "wof:geomhash":"e357992d21693e20edd3c5f394f46f21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872535,
+            "region_id":85688563,
+            "venue_id":873912989
+        }
+    ],
+    "wof:id":873912989,
+    "wof:lastmodified":1464300069,
+    "wof:name":"European Coatings",
+    "wof:parent_id":85872535,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "refinishing",
+        "bathtub",
+        "restoration",
+        "sink",
+        "basement"
+    ]
+},
+  "bbox": [
+    -95.98022,
+    41.278646,
+    -95.98022,
+    41.278646
+],
+  "geometry": {"coordinates":[-95.98022,41.278646],"type":"Point"}
+}

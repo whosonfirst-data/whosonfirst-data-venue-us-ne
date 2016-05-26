@@ -1,0 +1,71 @@
+{
+  "id": 873828651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.899624,41.157202,-95.899624,41.157202",
+    "geom:latitude":41.157202,
+    "geom:longitude":-95.899624,
+    "iso:country":"US",
+    "sg:address":"503 Dowding Ct",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Film & Video Production",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 397 6321",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85804025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2YIAZdQlgN6QtDUmbPeLS9_41.157202_-95.899624@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298307,
+    "wof:geomhash":"7b4e8e6ce97130f73056081a804e496e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85804025,
+            "region_id":85688563,
+            "venue_id":873828651
+        }
+    ],
+    "wof:id":873828651,
+    "wof:lastmodified":1464298307,
+    "wof:name":"Douglas Productions",
+    "wof:parent_id":85804025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tape"
+    ]
+},
+  "bbox": [
+    -95.899624,
+    41.157202,
+    -95.899624,
+    41.157202
+],
+  "geometry": {"coordinates":[-95.899624,41.157202],"type":"Point"}
+}

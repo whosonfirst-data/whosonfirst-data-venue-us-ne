@@ -1,0 +1,71 @@
+{
+  "id": 873725263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.917558,41.151178,-95.917558,41.151178",
+    "geom:latitude":41.151178,
+    "geom:longitude":-95.917558,
+    "iso:country":"US",
+    "sg:address":"1003 Galvin Rd S",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 292 2577",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "power"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85821583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0SYydy3g3ur4F8xEr054Us_41.151178_-95.917558@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296715,
+    "wof:geomhash":"d81911e8fe7ef772acbbfe2ac7f8edc4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85821583,
+            "region_id":85688563,
+            "venue_id":873725263
+        }
+    ],
+    "wof:id":873725263,
+    "wof:lastmodified":1464296715,
+    "wof:name":"Walkers Inc",
+    "wof:parent_id":85821583,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "power"
+    ]
+},
+  "bbox": [
+    -95.917558,
+    41.151178,
+    -95.917558,
+    41.151178
+],
+  "geometry": {"coordinates":[-95.917558,41.151178],"type":"Point"}
+}

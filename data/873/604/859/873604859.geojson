@@ -1,0 +1,77 @@
+{
+  "id": 873604859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.143281,41.278224,-96.143281,41.278224",
+    "geom:latitude":41.278224,
+    "geom:longitude":-96.143281,
+    "iso:country":"US",
+    "sg:address":"14612 Patrick Cir",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 496 2054",
+    "sg:postcode":"68116",
+    "sg:province":"NE",
+    "sg:tags":[
+        "video",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85806957,
+        102191575,
+        404519987,
+        85633793,
+        85973479,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Ei2ZfoBVXCiJUTJVn0opa_41.278224_-96.143281@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295038,
+    "wof:geomhash":"77f4745d35432c9bfa5c61d4039c9914",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404519987,
+            "locality_id":85973479,
+            "neighbourhood_id":85806957,
+            "region_id":85688563,
+            "venue_id":873604859
+        }
+    ],
+    "wof:id":873604859,
+    "wof:lastmodified":1464295038,
+    "wof:name":"Video Voyages",
+    "wof:parent_id":85806957,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "video",
+        "tape"
+    ]
+},
+  "bbox": [
+    -96.143281,
+    41.278224,
+    -96.143281,
+    41.278224
+],
+  "geometry": {"coordinates":[-96.143281,41.278224],"type":"Point"}
+}

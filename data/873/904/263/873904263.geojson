@@ -1,0 +1,77 @@
+{
+  "id": 873904263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.640426,40.758409,-96.640426,40.758409",
+    "geom:latitude":40.758409,
+    "geom:longitude":-96.640426,
+    "iso:country":"US",
+    "sg:address":"5550 S 59th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 420 0800",
+    "sg:postcode":"68516",
+    "sg:province":"NE",
+    "sg:tags":[
+        "therapist",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878695,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6igWDBrIkS7e1bi1DluWUh_40.758409_-96.640426@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299904,
+    "wof:geomhash":"de34167872f1209d4706fe02ab8406a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878695,
+            "region_id":85688563,
+            "venue_id":873904263
+        }
+    ],
+    "wof:id":873904263,
+    "wof:lastmodified":1464299904,
+    "wof:name":"Crossroads Physical Therapy",
+    "wof:parent_id":85878695,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "physical"
+    ]
+},
+  "bbox": [
+    -96.640426,
+    40.758409,
+    -96.640426,
+    40.758409
+],
+  "geometry": {"coordinates":[-96.64042600000001,40.758409],"type":"Point"}
+}

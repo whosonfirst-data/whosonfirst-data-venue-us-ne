@@ -1,0 +1,72 @@
+{
+  "id": 873631045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.11873,41.312584,-96.11873,41.312584",
+    "geom:latitude":41.312584,
+    "geom:longitude":-96.11873,
+    "iso:country":"US",
+    "sg:address":"12909 Laurel Ave",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 452 2604",
+    "sg:postcode":"68164",
+    "sg:province":"NE",
+    "sg:tags":[
+        "communication",
+        "datum"
+    ],
+    "sg:website":"www.dtn.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85872505,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1YmJT2OPazcg6W6Xt6Y398_41.312584_-96.118730@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295375,
+    "wof:geomhash":"dce95d0cf01600baf67468a709b2fe66",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":873631045
+        }
+    ],
+    "wof:id":873631045,
+    "wof:lastmodified":1464295375,
+    "wof:name":"DATA Transmission Network",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "communication",
+        "datum"
+    ]
+},
+  "bbox": [
+    -96.11873,
+    41.312584,
+    -96.11873,
+    41.312584
+],
+  "geometry": {"coordinates":[-96.11873,41.312584],"type":"Point"}
+}

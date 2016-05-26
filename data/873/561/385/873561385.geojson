@@ -1,0 +1,73 @@
+{
+  "id": 873561385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.999542,41.142949,-95.999542,41.142949",
+    "geom:latitude":41.142949,
+    "geom:longitude":-95.999542,
+    "iso:country":"US",
+    "sg:address":"5608 Mark St",
+    "sg:city":"Papillion",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 331 7224",
+    "sg:postcode":"68133",
+    "sg:province":"NE",
+    "sg:tags":[
+        "carpentry",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85821583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2GWV6K0zGp03ipDiWxK9km_41.142949_-95.999542@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294513,
+    "wof:geomhash":"77f7c91db0031c9fdfe16bbdc386186e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85821583,
+            "region_id":85688563,
+            "venue_id":873561385
+        }
+    ],
+    "wof:id":873561385,
+    "wof:lastmodified":1464294513,
+    "wof:name":"Schmitz Construction",
+    "wof:parent_id":85821583,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carpentry",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -95.999542,
+    41.142949,
+    -95.999542,
+    41.142949
+],
+  "geometry": {"coordinates":[-95.99954200000001,41.142949],"type":"Point"}
+}

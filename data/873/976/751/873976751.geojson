@@ -1,0 +1,74 @@
+{
+  "id": 873976751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.647479,40.855204,-96.647479,40.855204",
+    "geom:latitude":40.855204,
+    "geom:longitude":-96.647479,
+    "iso:country":"US",
+    "sg:address":"5327 Cornhusker Hwy",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ne/lincoln/194655-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 464 0973",
+    "sg:postcode":"68504",
+    "sg:province":"NE",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85824241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5kEihVokbX7c8wvQAirX39_40.855204_-96.647479@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464302248,
+    "wof:geomhash":"2d7cf7692a6287b120e10220d22ab1f7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85824241,
+            "region_id":85688563,
+            "venue_id":873976751
+        }
+    ],
+    "wof:id":873976751,
+    "wof:lastmodified":1464302248,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85824241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -96.647479,
+    40.855204,
+    -96.647479,
+    40.855204
+],
+  "geometry": {"coordinates":[-96.647479,40.855204],"type":"Point"}
+}

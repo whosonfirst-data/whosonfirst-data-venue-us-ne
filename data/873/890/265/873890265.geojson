@@ -1,0 +1,78 @@
+{
+  "id": 873890265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.030406,41.259745,-96.030406,41.259745",
+    "geom:latitude":41.259745,
+    "geom:longitude":-96.030406,
+    "iso:country":"US",
+    "sg:address":"7624 Dodge St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Mobile Phone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 393 7019",
+    "sg:postcode":"68114",
+    "sg:province":"NE",
+    "sg:tags":[
+        "telephone",
+        "cellular"
+    ],
+    "sg:website":"www.cingular.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872509,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7gTf8X8zeafhtNl5ukOAhM_41.259745_-96.030406@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299636,
+    "wof:geomhash":"82e8ad0f12ba8ccbcd92ad1c586ae6ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872509,
+            "region_id":85688563,
+            "venue_id":873890265
+        }
+    ],
+    "wof:id":873890265,
+    "wof:lastmodified":1464299636,
+    "wof:name":"Cingular Wireless",
+    "wof:parent_id":85872509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "telephone",
+        "cellular"
+    ]
+},
+  "bbox": [
+    -96.030406,
+    41.259745,
+    -96.030406,
+    41.259745
+],
+  "geometry": {"coordinates":[-96.030406,41.259745],"type":"Point"}
+}

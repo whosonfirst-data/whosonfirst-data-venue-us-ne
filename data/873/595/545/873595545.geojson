@@ -1,0 +1,77 @@
+{
+  "id": 873595545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.123871,41.284449,-96.123871,41.284449",
+    "geom:latitude":41.284449,
+    "geom:longitude":-96.123871,
+    "iso:country":"US",
+    "sg:address":"13406 Corby Cir",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 498 8340",
+    "sg:postcode":"68164",
+    "sg:province":"NE",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872503,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0do96EitNbt2U43XdqbLJ2_41.284449_-96.123871@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294917,
+    "wof:geomhash":"39a7b13d58eef87aba478cc014e35dd4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872503,
+            "region_id":85688563,
+            "venue_id":873595545
+        }
+    ],
+    "wof:id":873595545,
+    "wof:lastmodified":1464294917,
+    "wof:name":"Glenn Palmer Homes Inc",
+    "wof:parent_id":85872503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.123871,
+    41.284449,
+    -96.123871,
+    41.284449
+],
+  "geometry": {"coordinates":[-96.12387099999999,41.284449],"type":"Point"}
+}

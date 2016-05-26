@@ -1,0 +1,70 @@
+{
+  "id": 873765381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.019619,41.285117,-96.019619,41.285117",
+    "geom:latitude":41.285117,
+    "geom:longitude":-96.019619,
+    "iso:country":"US",
+    "sg:address":"6916 Maple St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Dance Studio",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 572 8567",
+    "sg:postcode":"68104",
+    "sg:province":"NE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872507,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0PQIZj6d9BzmvcWjOBvQeF_41.285117_-96.019619@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297302,
+    "wof:geomhash":"f3597c34cbf1039a88aa3c3f811219a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872507,
+            "region_id":85688563,
+            "venue_id":873765381
+        }
+    ],
+    "wof:id":873765381,
+    "wof:lastmodified":1464297302,
+    "wof:name":"Dance Expressions",
+    "wof:parent_id":85872507,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.019619,
+    41.285117,
+    -96.019619,
+    41.285117
+],
+  "geometry": {"coordinates":[-96.01961900000001,41.285117],"type":"Point"}
+}

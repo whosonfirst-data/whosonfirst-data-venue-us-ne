@@ -1,0 +1,79 @@
+{
+  "id": 873826797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.702545,40.810344,-96.702545,40.810344",
+    "geom:latitude":40.810344,
+    "geom:longitude":-96.702545,
+    "iso:country":"US",
+    "sg:address":"304 S 13th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Secretarial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 477 8425",
+    "sg:postcode":"68502",
+    "sg:province":"NE",
+    "sg:tags":[
+        "convention",
+        "court",
+        "reporter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878699,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_74JnXC0ZZv2RuRFvEEgdCM_40.810344_-96.702545@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298272,
+    "wof:geomhash":"fc0af06e31f3c7c9620c9425f8a084b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878699,
+            "region_id":85688563,
+            "venue_id":873826797
+        }
+    ],
+    "wof:id":873826797,
+    "wof:lastmodified":1464298272,
+    "wof:name":"General Reporting Svc",
+    "wof:parent_id":85878699,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "convention",
+        "court",
+        "reporter"
+    ]
+},
+  "bbox": [
+    -96.702545,
+    40.810344,
+    -96.702545,
+    40.810344
+],
+  "geometry": {"coordinates":[-96.702545,40.810344],"type":"Point"}
+}

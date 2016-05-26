@@ -1,0 +1,75 @@
+{
+  "id": 873854639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.663306,40.820798,-96.663306,40.820798",
+    "geom:latitude":40.820798,
+    "geom:longitude":-96.663306,
+    "iso:country":"US",
+    "sg:address":"3900 Vine St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 466 6341",
+    "sg:postcode":"68503",
+    "sg:province":"NE",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878701,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7K4w83GHk0QrVUI6LvJmph_40.820798_-96.663306@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298907,
+    "wof:geomhash":"2c9adb1d7025724ba1e30dae6baacf07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878701,
+            "region_id":85688563,
+            "venue_id":873854639
+        }
+    ],
+    "wof:id":873854639,
+    "wof:lastmodified":1464298907,
+    "wof:name":"Children's Place",
+    "wof:parent_id":85878701,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -96.663306,
+    40.820798,
+    -96.663306,
+    40.820798
+],
+  "geometry": {"coordinates":[-96.66330600000001,40.820798],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 873751521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.067269,41.280941,-96.067269,41.280941",
+    "geom:latitude":41.280941,
+    "geom:longitude":-96.067269,
+    "iso:country":"US",
+    "sg:address":"9728 Cady Ave",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 740 2600",
+    "sg:postcode":"68134",
+    "sg:province":"NE",
+    "sg:tags":[
+        "carwash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867061,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4WHq7ac97fFg6Pct8D0XUy_41.280941_-96.067269@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297095,
+    "wof:geomhash":"e3aaeeb751cc1ffc96fdbbd02fa0d193",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85867061,
+            "region_id":85688563,
+            "venue_id":873751521
+        }
+    ],
+    "wof:id":873751521,
+    "wof:lastmodified":1464297095,
+    "wof:name":"Carlson Power Wash",
+    "wof:parent_id":85867061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash"
+    ]
+},
+  "bbox": [
+    -96.067269,
+    41.280941,
+    -96.067269,
+    41.280941
+],
+  "geometry": {"coordinates":[-96.067269,41.280941],"type":"Point"}
+}

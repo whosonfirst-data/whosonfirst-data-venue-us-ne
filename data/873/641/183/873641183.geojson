@@ -1,0 +1,66 @@
+{
+  "id": 873641183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.978127,41.132413,-95.978127,41.132413",
+    "geom:latitude":41.132413,
+    "geom:longitude":-95.978127,
+    "iso:country":"US",
+    "sg:address":"4319 Hike Cir",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 502 5081",
+    "sg:postcode":"68123",
+    "sg:province":"NE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85821583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7NRnTFWaWdqgzlbF7vlp9j_41.132413_-95.978127@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295489,
+    "wof:geomhash":"22b55c4409378bf1ae5916e9d1a35ee4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85821583,
+            "region_id":85688563,
+            "venue_id":873641183
+        }
+    ],
+    "wof:id":873641183,
+    "wof:lastmodified":1464295489,
+    "wof:name":"Gifts & Baskets Galore",
+    "wof:parent_id":85821583,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -95.978127,
+    41.132413,
+    -95.978127,
+    41.132413
+],
+  "geometry": {"coordinates":[-95.978127,41.132413],"type":"Point"}
+}

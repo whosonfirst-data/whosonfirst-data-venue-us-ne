@@ -1,0 +1,71 @@
+{
+  "id": 873803513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.726499,40.86324,-96.726499,40.86324",
+    "geom:latitude":40.86324,
+    "geom:longitude":-96.726499,
+    "iso:country":"US",
+    "sg:address":"231 W Lombard Dr",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 435 2406",
+    "sg:postcode":"68521",
+    "sg:province":"NE",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3chLJbajNTQkD72Isy839R_40.863240_-96.726499@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297815,
+    "wof:geomhash":"4108a450fb3749178604d74b3410ddd2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878717,
+            "region_id":85688563,
+            "venue_id":873803513
+        }
+    ],
+    "wof:id":873803513,
+    "wof:lastmodified":1464297815,
+    "wof:name":"Jacqueline Clymer",
+    "wof:parent_id":85878717,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -96.726499,
+    40.86324,
+    -96.726499,
+    40.86324
+],
+  "geometry": {"coordinates":[-96.726499,40.86324],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873696119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.666781,40.732126,-96.666781,40.732126",
+    "geom:latitude":40.732126,
+    "geom:longitude":-96.666781,
+    "iso:country":"US",
+    "sg:address":"3718 Diablo Dr",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 421 2706",
+    "sg:postcode":"68516",
+    "sg:province":"NE",
+    "sg:tags":[
+        "communications"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5onMfW1UdJPXamMWolDyB2_40.732126_-96.666781@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296367,
+    "wof:geomhash":"e6cdf6e6827305efbdf66db4e7efabfa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878733,
+            "region_id":85688563,
+            "venue_id":873696119
+        }
+    ],
+    "wof:id":873696119,
+    "wof:lastmodified":1464296367,
+    "wof:name":"Community Connections",
+    "wof:parent_id":85878733,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "communications"
+    ]
+},
+  "bbox": [
+    -96.666781,
+    40.732126,
+    -96.666781,
+    40.732126
+],
+  "geometry": {"coordinates":[-96.666781,40.732126],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 873968635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.957001,41.257599,-95.957001,41.257599",
+    "geom:latitude":41.257599,
+    "geom:longitude":-95.957001,
+    "iso:country":"US",
+    "sg:address":"3019 Farnam St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 344 2490",
+    "sg:postcode":"68131",
+    "sg:province":"NE",
+    "sg:tags":[
+        "convenient",
+        "liquor",
+        "package"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872525,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1PDTph4SO2Wh57MnawSut5_41.257620_-95.957199@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464301938,
+    "wof:geomhash":"1f1771a7ce07ff530cf15f758c62054c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872525,
+            "region_id":85688563,
+            "venue_id":873968635
+        }
+    ],
+    "wof:id":873968635,
+    "wof:lastmodified":1464301938,
+    "wof:name":"Sam's Food & Liquor",
+    "wof:parent_id":85872525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "convenient",
+        "liquor",
+        "package"
+    ]
+},
+  "bbox": [
+    -95.957001,
+    41.257599,
+    -95.957001,
+    41.257599
+],
+  "geometry": {"coordinates":[-95.95700100000001,41.257599],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873749579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.052519,41.312269,-96.052519,41.312269",
+    "geom:latitude":41.312269,
+    "geom:longitude":-96.052519,
+    "iso:country":"US",
+    "sg:address":"5817 N 90th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 426 4777",
+    "sg:postcode":"68134",
+    "sg:province":"NE",
+    "sg:tags":[
+        "home",
+        "builder"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85872505,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7FVjtHlWXOJp08NDsBrQkd_41.312269_-96.052519@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297069,
+    "wof:geomhash":"8320131b0436af51aef361c6e81c895f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":873749579
+        }
+    ],
+    "wof:id":873749579,
+    "wof:lastmodified":1464297069,
+    "wof:name":"MDI Homes Inc",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "builder"
+    ]
+},
+  "bbox": [
+    -96.052519,
+    41.312269,
+    -96.052519,
+    41.312269
+],
+  "geometry": {"coordinates":[-96.052519,41.312269],"type":"Point"}
+}

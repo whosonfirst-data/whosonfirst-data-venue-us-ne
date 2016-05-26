@@ -1,0 +1,71 @@
+{
+  "id": 873953025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.611111,40.732138,-96.611111,40.732138",
+    "geom:latitude":40.732138,
+    "geom:longitude":-96.611111,
+    "iso:country":"US",
+    "sg:address":"7935 Amber Hill Rd",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 423 9520",
+    "sg:postcode":"68516",
+    "sg:province":"NE",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4rNgwwWsZ0DMmoUmkxiaVZ_40.732138_-96.611111@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464301268,
+    "wof:geomhash":"5f51e39c444103eef7792db8357cf171",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878685,
+            "region_id":85688563,
+            "venue_id":873953025
+        }
+    ],
+    "wof:id":873953025,
+    "wof:lastmodified":1464301268,
+    "wof:name":"Amber Hill Services",
+    "wof:parent_id":85878685,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -96.611111,
+    40.732138,
+    -96.611111,
+    40.732138
+],
+  "geometry": {"coordinates":[-96.61111099999999,40.732138],"type":"Point"}
+}

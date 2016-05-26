@@ -1,0 +1,71 @@
+{
+  "id": 873883279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.925208,41.167338,-95.925208,41.167338",
+    "geom:latitude":41.167338,
+    "geom:longitude":-95.925208,
+    "iso:country":"US",
+    "sg:address":"510 Fort Crook Rd N",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 734 8444",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85804025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Dsc4eQPW19b3OpI2cxg0U_41.167338_-95.925208@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299500,
+    "wof:geomhash":"cafd24d13d0cfdbb85271a8d3e7e30d4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85804025,
+            "region_id":85688563,
+            "venue_id":873883279
+        }
+    ],
+    "wof:id":873883279,
+    "wof:lastmodified":1464299500,
+    "wof:name":"Saturn",
+    "wof:parent_id":85804025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [
+    -95.925208,
+    41.167338,
+    -95.925208,
+    41.167338
+],
+  "geometry": {"coordinates":[-95.925208,41.167338],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 873579345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.125394,41.180088,-96.125394,41.180088",
+    "geom:latitude":41.180088,
+    "geom:longitude":-96.125394,
+    "iso:country":"US",
+    "sg:address":"13433 Centech Rd",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Metals & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 894 1900",
+    "sg:postcode":"68138",
+    "sg:province":"NE",
+    "sg:tags":[
+        "steel",
+        "warehouse"
+    ],
+    "sg:website":"www.statesteel.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85834285,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_09MECkRizGYjaBFr7NP12J_41.180088_-96.125394@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294709,
+    "wof:geomhash":"342e8c8ff57fcf0d6ae6c28e01885b7a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85834285,
+            "region_id":85688563,
+            "venue_id":873579345
+        }
+    ],
+    "wof:id":873579345,
+    "wof:lastmodified":1464294709,
+    "wof:name":"State Steel Of Omaha",
+    "wof:parent_id":85834285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "steel",
+        "warehouse"
+    ]
+},
+  "bbox": [
+    -96.125394,
+    41.180088,
+    -96.125394,
+    41.180088
+],
+  "geometry": {"coordinates":[-96.125394,41.180088],"type":"Point"}
+}

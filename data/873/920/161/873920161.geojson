@@ -1,0 +1,71 @@
+{
+  "id": 873920161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.942673,41.159186,-95.942673,41.159186",
+    "geom:latitude":41.159186,
+    "geom:longitude":-95.942673,
+    "iso:country":"US",
+    "sg:address":"2112 Cornhusker Rd",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 000 1111",
+    "sg:postcode":"68123",
+    "sg:province":"NE",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85821583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Oc8UrVZuwU22vdkM9tlEg_41.159186_-95.942673@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300214,
+    "wof:geomhash":"93ffd8fb77c19eb8420dc43198aa897c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85821583,
+            "region_id":85688563,
+            "venue_id":873920161
+        }
+    ],
+    "wof:id":873920161,
+    "wof:lastmodified":1464300214,
+    "wof:name":"Aldi",
+    "wof:parent_id":85821583,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -95.942673,
+    41.159186,
+    -95.942673,
+    41.159186
+],
+  "geometry": {"coordinates":[-95.942673,41.159186],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873922699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.05251,41.313866,-96.05251,41.313866",
+    "geom:latitude":41.313866,
+    "geom:longitude":-96.05251,
+    "iso:country":"US",
+    "sg:address":"6111 N 90th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 573 7141",
+    "sg:postcode":"68134",
+    "sg:province":"NE",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85872505,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0SDuxssFkZmVxLnnH0nASq_41.313866_-96.052510@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300265,
+    "wof:geomhash":"78c4abf89d0a79f63aa78c1ef03160ef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":873922699
+        }
+    ],
+    "wof:id":873922699,
+    "wof:lastmodified":1464300265,
+    "wof:name":"Safari Auto & Truck Brokers",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -96.05251,
+    41.313866,
+    -96.05251,
+    41.313866
+],
+  "geometry": {"coordinates":[-96.05251,41.313866],"type":"Point"}
+}

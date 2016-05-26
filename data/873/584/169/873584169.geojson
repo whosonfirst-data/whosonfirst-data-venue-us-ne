@@ -1,0 +1,75 @@
+{
+  "id": 873584169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.995406,41.187103,-95.995406,41.187103",
+    "geom:latitude":41.187103,
+    "geom:longitude":-95.995406,
+    "iso:country":"US",
+    "sg:address":"7217 Wood River Dr",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 731 9402",
+    "sg:postcode":"68157",
+    "sg:province":"NE",
+    "sg:tags":[
+        "confectionery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85849923,
+        102191575,
+        404519143,
+        85633793,
+        85974545,
+        102082777,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0iFCEnETeRcZm9p2ZjanhO_41.187103_-95.995406@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294764,
+    "wof:geomhash":"cdef448d50e4d6962b0c2fa906354f0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082777,
+            "localadmin_id":404519143,
+            "locality_id":85974545,
+            "neighbourhood_id":85849923,
+            "region_id":85688563,
+            "venue_id":873584169
+        }
+    ],
+    "wof:id":873584169,
+    "wof:lastmodified":1464294764,
+    "wof:name":"Martens Distributing",
+    "wof:parent_id":85849923,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "confectionery"
+    ]
+},
+  "bbox": [
+    -95.995406,
+    41.187103,
+    -95.995406,
+    41.187103
+],
+  "geometry": {"coordinates":[-95.995406,41.187103],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873739271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.065452,41.310832,-96.065452,41.310832",
+    "geom:latitude":41.310832,
+    "geom:longitude":-96.065452,
+    "iso:country":"US",
+    "sg:address":"9824 Laurel Ave",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 571 0910",
+    "sg:postcode":"68134",
+    "sg:province":"NE",
+    "sg:tags":[
+        "house",
+        "apartment",
+        "ope"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85872505,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Tnrziwd8QO5F1ewF6cEjt_41.310832_-96.065452@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296911,
+    "wof:geomhash":"c47bb9c4e041d14c23196c15181af3e3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":873739271
+        }
+    ],
+    "wof:id":873739271,
+    "wof:lastmodified":1464296911,
+    "wof:name":"Birkel Construction Co",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "apartment",
+        "ope"
+    ]
+},
+  "bbox": [
+    -96.065452,
+    41.310832,
+    -96.065452,
+    41.310832
+],
+  "geometry": {"coordinates":[-96.06545199999999,41.310832],"type":"Point"}
+}

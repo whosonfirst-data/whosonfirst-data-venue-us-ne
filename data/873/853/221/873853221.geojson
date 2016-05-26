@@ -1,0 +1,71 @@
+{
+  "id": 873853221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.63961,40.813278,-96.63961,40.813278",
+    "geom:latitude":40.813278,
+    "geom:longitude":-96.63961,
+    "iso:country":"US",
+    "sg:address":"5901 O St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 436 1000",
+    "sg:postcode":"68510",
+    "sg:province":"NE",
+    "sg:website":"www.lps.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878703,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2K750gSikKWNgG53iknsE3_40.813278_-96.639610@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298882,
+    "wof:geomhash":"1e13489ddf11cc3aae5529046c5c08b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878703,
+            "region_id":85688563,
+            "venue_id":873853221
+        }
+    ],
+    "wof:id":873853221,
+    "wof:lastmodified":1464298882,
+    "wof:name":"Lincoln Public School District",
+    "wof:parent_id":85878703,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.63961,
+    40.813278,
+    -96.63961,
+    40.813278
+],
+  "geometry": {"coordinates":[-96.63961,40.813278],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873884273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.728179,40.87301,-96.728179,40.87301",
+    "geom:latitude":40.87301,
+    "geom:longitude":-96.728179,
+    "iso:country":"US",
+    "sg:address":"540 W Joel St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 466 4003",
+    "sg:postcode":"68521",
+    "sg:province":"NE",
+    "sg:tags":[
+        "handyman"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1PReA2LVJkAZmUQF2E1hrW_40.873010_-96.728179@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299524,
+    "wof:geomhash":"9d56ce87349d76681780ce0d07cc5016",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878717,
+            "region_id":85688563,
+            "venue_id":873884273
+        }
+    ],
+    "wof:id":873884273,
+    "wof:lastmodified":1464299524,
+    "wof:name":"All Trade Solutions",
+    "wof:parent_id":85878717,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "handyman"
+    ]
+},
+  "bbox": [
+    -96.728179,
+    40.87301,
+    -96.728179,
+    40.87301
+],
+  "geometry": {"coordinates":[-96.728179,40.87301],"type":"Point"}
+}

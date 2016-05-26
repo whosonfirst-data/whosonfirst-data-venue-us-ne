@@ -1,0 +1,73 @@
+{
+  "id": 873919581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.026897,41.180823,-96.026897,41.180823",
+    "geom:latitude":41.180823,
+    "geom:longitude":-96.026897,
+    "iso:country":"US",
+    "sg:address":"7314 Valley Rd",
+    "sg:city":"La Vista",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 556 6901",
+    "sg:postcode":"68128",
+    "sg:province":"NE",
+    "sg:tags":[
+        "cleaners",
+        "rug",
+        "carpet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85843697,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4vi6kuJTMVmc0hAFRTf40S_41.180823_-96.026897@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300204,
+    "wof:geomhash":"d4730c333bf86dca7843f9b669298a1f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85843697,
+            "region_id":85688563,
+            "venue_id":873919581
+        }
+    ],
+    "wof:id":873919581,
+    "wof:lastmodified":1464300204,
+    "wof:name":"Cardinal Carpet & Floor Clean",
+    "wof:parent_id":85843697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners",
+        "rug",
+        "carpet"
+    ]
+},
+  "bbox": [
+    -96.026897,
+    41.180823,
+    -96.026897,
+    41.180823
+],
+  "geometry": {"coordinates":[-96.02689700000001,41.180823],"type":"Point"}
+}

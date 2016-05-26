@@ -1,0 +1,71 @@
+{
+  "id": 873922319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.919283,41.141347,-95.919283,41.141347",
+    "geom:latitude":41.141347,
+    "geom:longitude":-95.919283,
+    "iso:country":"US",
+    "sg:address":"202 Westridge Ave",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 293 5900",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "clergy"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85821583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6vNGgvh4KQiLMNV4z1I6Wt_41.141347_-95.919283@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300258,
+    "wof:geomhash":"ab250843dbdbc7b74fa7a5dfa4195758",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85821583,
+            "region_id":85688563,
+            "venue_id":873922319
+        }
+    ],
+    "wof:id":873922319,
+    "wof:lastmodified":1464300258,
+    "wof:name":"Herman Brown",
+    "wof:parent_id":85821583,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clergy"
+    ]
+},
+  "bbox": [
+    -95.919283,
+    41.141347,
+    -95.919283,
+    41.141347
+],
+  "geometry": {"coordinates":[-95.91928299999999,41.141347],"type":"Point"}
+}

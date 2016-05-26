@@ -1,0 +1,72 @@
+{
+  "id": 873976911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.702908,40.734501,-96.702908,40.734501",
+    "geom:latitude":40.734501,
+    "geom:longitude":-96.702908,
+    "iso:country":"US",
+    "sg:address":"1245 Libra Dr",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ne/lincoln/244707-slapshotz-bar--grill/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 420 7825",
+    "sg:postcode":"68512",
+    "sg:province":"NE",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3AzGO91Gn9q3X9AjCB5pI1_40.734501_-96.702908@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464302258,
+    "wof:geomhash":"255311c19663be3f230ed45ba6715ed7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878709,
+            "region_id":85688563,
+            "venue_id":873976911
+        }
+    ],
+    "wof:id":873976911,
+    "wof:lastmodified":1464302258,
+    "wof:name":"Slapshotz Bar & Grill",
+    "wof:parent_id":85878709,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -96.702908,
+    40.734501,
+    -96.702908,
+    40.734501
+],
+  "geometry": {"coordinates":[-96.70290799999999,40.734501],"type":"Point"}
+}

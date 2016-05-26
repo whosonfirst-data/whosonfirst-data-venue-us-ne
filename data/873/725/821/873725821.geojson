@@ -1,0 +1,79 @@
+{
+  "id": 873725821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.04886,41.219669,-96.04886,41.219669",
+    "geom:latitude":41.219669,
+    "geom:longitude":-96.04886,
+    "iso:country":"US",
+    "sg:address":"8711 F St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 339 4643",
+    "sg:postcode":"68127",
+    "sg:province":"NE",
+    "sg:tags":[
+        "car",
+        "used",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872511,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4S1RWpT4InGb4lgURggvqQ_41.219669_-96.048860@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296722,
+    "wof:geomhash":"6bcc8a828cdfb3c28e0fe1479d4ff9e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872511,
+            "region_id":85688563,
+            "venue_id":873725821
+        }
+    ],
+    "wof:id":873725821,
+    "wof:lastmodified":1464296722,
+    "wof:name":"Variety Motors Inc",
+    "wof:parent_id":85872511,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "used",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -96.04886,
+    41.219669,
+    -96.04886,
+    41.219669
+],
+  "geometry": {"coordinates":[-96.04886,41.219669],"type":"Point"}
+}

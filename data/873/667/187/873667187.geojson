@@ -1,0 +1,75 @@
+{
+  "id": 873667187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.699675,40.813638,-96.699675,40.813638",
+    "geom:latitude":40.813638,
+    "geom:longitude":-96.699675,
+    "iso:country":"US",
+    "sg:address":"1400 O St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 476 7147",
+    "sg:postcode":"68508",
+    "sg:province":"NE",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878699,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6f5aI9t2UsOfjRPE85VlyJ_40.813638_-96.699675@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295771,
+    "wof:geomhash":"75a28f59343a2055a12dafc44dfe55c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878699,
+            "region_id":85688563,
+            "venue_id":873667187
+        }
+    ],
+    "wof:id":873667187,
+    "wof:lastmodified":1464295771,
+    "wof:name":"Gourmet Grill",
+    "wof:parent_id":85878699,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -96.699675,
+    40.813638,
+    -96.699675,
+    40.813638
+],
+  "geometry": {"coordinates":[-96.699675,40.813638],"type":"Point"}
+}

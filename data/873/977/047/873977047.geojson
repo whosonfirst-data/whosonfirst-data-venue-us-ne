@@ -1,0 +1,76 @@
+{
+  "id": 873977047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.603141,40.732366,-96.603141,40.732366",
+    "geom:latitude":40.732366,
+    "geom:longitude":-96.603141,
+    "iso:country":"US",
+    "sg:address":"8600 Amber Hill Ct",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ne/lincoln/115880-quiznos-sub/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 420 5612",
+    "sg:postcode":"68526",
+    "sg:province":"NE",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5F0nY57KxVsTrbBk5Ogqtg_40.732366_-96.603141@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464302262,
+    "wof:geomhash":"aaac8b28e8a37ff2d2cc59cd4c4998e9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878685,
+            "region_id":85688563,
+            "venue_id":873977047
+        }
+    ],
+    "wof:id":873977047,
+    "wof:lastmodified":1464302262,
+    "wof:name":"Quiznos Sub",
+    "wof:parent_id":85878685,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -96.603141,
+    40.732366,
+    -96.603141,
+    40.732366
+],
+  "geometry": {"coordinates":[-96.60314099999999,40.732366],"type":"Point"}
+}

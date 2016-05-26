@@ -1,0 +1,75 @@
+{
+  "id": 873697567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.26501,41.257395,-96.26501,41.257395",
+    "geom:latitude":41.257395,
+    "geom:longitude":-96.26501,
+    "iso:country":"US",
+    "sg:address":"367 Lakehurst Dr",
+    "sg:city":"Waterloo",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 779 2111",
+    "sg:postcode":"68069",
+    "sg:province":"NE",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85868921,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4HXSUDK4XoAcWSAjR9vOr7_41.257395_-96.265010@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296380,
+    "wof:geomhash":"35ea7e456b78685b3f18c69a14559821",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85868921,
+            "region_id":85688563,
+            "venue_id":873697567
+        }
+    ],
+    "wof:id":873697567,
+    "wof:lastmodified":1464296380,
+    "wof:name":"RR Drywall",
+    "wof:parent_id":85868921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.26501,
+    41.257395,
+    -96.26501,
+    41.257395
+],
+  "geometry": {"coordinates":[-96.26501,41.257395],"type":"Point"}
+}

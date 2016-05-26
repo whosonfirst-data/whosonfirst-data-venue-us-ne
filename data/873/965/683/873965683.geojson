@@ -1,0 +1,73 @@
+{
+  "id": 873965683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.004515,41.133247,-96.004515,41.133247",
+    "geom:latitude":41.133247,
+    "geom:longitude":-96.004515,
+    "iso:country":"US",
+    "sg:address":"11615 S 60th St",
+    "sg:city":"Papillion",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 331 5593",
+    "sg:postcode":"68133",
+    "sg:province":"NE",
+    "sg:tags":[
+        "road",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85821583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4shbURNrTjMrQNibCwrUO5_41.133247_-96.004515@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464301828,
+    "wof:geomhash":"90dc7e685764d4f8f0fa5b74252d7fd9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85821583,
+            "region_id":85688563,
+            "venue_id":873965683
+        }
+    ],
+    "wof:id":873965683,
+    "wof:lastmodified":1464301828,
+    "wof:name":"Roads Dept",
+    "wof:parent_id":85821583,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "road",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.004515,
+    41.133247,
+    -96.004515,
+    41.133247
+],
+  "geometry": {"coordinates":[-96.004515,41.133247],"type":"Point"}
+}

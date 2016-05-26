@@ -1,0 +1,73 @@
+{
+  "id": 873937749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.657486,40.738909,-96.657486,40.738909",
+    "geom:latitude":40.738909,
+    "geom:longitude":-96.657486,
+    "iso:country":"US",
+    "sg:address":"7144 Beaver Hollow Cir",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 421 2828",
+    "sg:postcode":"68516",
+    "sg:province":"NE",
+    "sg:tags":[
+        "hanging",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ijwyn2H21kYmKPqOJzmvz_40.738909_-96.657486@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300600,
+    "wof:geomhash":"0e3252d50428c5381db58acfc5519454",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878733,
+            "region_id":85688563,
+            "venue_id":873937749
+        }
+    ],
+    "wof:id":873937749,
+    "wof:lastmodified":1464300600,
+    "wof:name":"Eggert Painting",
+    "wof:parent_id":85878733,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.657486,
+    40.738909,
+    -96.657486,
+    40.738909
+],
+  "geometry": {"coordinates":[-96.65748600000001,40.738909],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 873801213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.03603,41.30482,-96.03603,41.30482",
+    "geom:latitude":41.30482,
+    "geom:longitude":-96.03603,
+    "iso:country":"US",
+    "sg:address":"7809 Military Ave",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 571 3071",
+    "sg:postcode":"68134",
+    "sg:province":"NE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872515,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0HJSqq7zltIZbODZVc7mpW_41.304820_-96.036030@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297788,
+    "wof:geomhash":"aeff260d975b449e27ca656239556b78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872515,
+            "region_id":85688563,
+            "venue_id":873801213
+        }
+    ],
+    "wof:id":873801213,
+    "wof:lastmodified":1464297788,
+    "wof:name":"Makin' Waves",
+    "wof:parent_id":85872515,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.03603,
+    41.30482,
+    -96.03603,
+    41.30482
+],
+  "geometry": {"coordinates":[-96.03603,41.30482],"type":"Point"}
+}

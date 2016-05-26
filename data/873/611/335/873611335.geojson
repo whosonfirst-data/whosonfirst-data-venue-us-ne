@@ -1,0 +1,73 @@
+{
+  "id": 873611335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.121379,41.17613,-96.121379,41.17613",
+    "geom:latitude":41.17613,
+    "geom:longitude":-96.121379,
+    "iso:country":"US",
+    "sg:address":"13430 Giles Rd",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 896 9559",
+    "sg:postcode":"68138",
+    "sg:province":"NE",
+    "sg:tags":[
+        "cleaners",
+        "rug",
+        "carpet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85834285,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5oAtQiFm0BdF7loDu17h3t_41.176130_-96.121379@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295157,
+    "wof:geomhash":"682f690c0ce8b2b45b00b8987582c125",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85834285,
+            "region_id":85688563,
+            "venue_id":873611335
+        }
+    ],
+    "wof:id":873611335,
+    "wof:lastmodified":1464295157,
+    "wof:name":"Leapatrick Chem-Dry",
+    "wof:parent_id":85834285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners",
+        "rug",
+        "carpet"
+    ]
+},
+  "bbox": [
+    -96.121379,
+    41.17613,
+    -96.121379,
+    41.17613
+],
+  "geometry": {"coordinates":[-96.121379,41.17613],"type":"Point"}
+}

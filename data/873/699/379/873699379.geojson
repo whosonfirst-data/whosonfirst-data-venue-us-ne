@@ -1,0 +1,75 @@
+{
+  "id": 873699379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.705887,40.813518,-96.705887,40.813518",
+    "geom:latitude":40.813518,
+    "geom:longitude":-96.705887,
+    "iso:country":"US",
+    "sg:address":"1033 O St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 434 9450",
+    "sg:postcode":"68508",
+    "sg:province":"NE",
+    "sg:tags":[
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878699,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2zyXxI9Q78osZOiipIA08C_40.813518_-96.705887@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296398,
+    "wof:geomhash":"031422269944eb5087e86174eaf10ba9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878699,
+            "region_id":85688563,
+            "venue_id":873699379
+        }
+    ],
+    "wof:id":873699379,
+    "wof:lastmodified":1464296398,
+    "wof:name":"9th Street Parking Corporation",
+    "wof:parent_id":85878699,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile"
+    ]
+},
+  "bbox": [
+    -96.705887,
+    40.813518,
+    -96.705887,
+    40.813518
+],
+  "geometry": {"coordinates":[-96.705887,40.813518],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 873977899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.980378,41.263712,-95.980378,41.263712",
+    "geom:latitude":41.263712,
+    "geom:longitude":-95.980378,
+    "iso:country":"US",
+    "sg:address":"417 N Saddle Creek Rd",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ne/omaha/115888-quiznos-sub/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 559 0000",
+    "sg:postcode":"68131",
+    "sg:province":"NE",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867055,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3uHipRdKo7ekLFtiHfmfzt_41.263807_-95.980703@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464302293,
+    "wof:geomhash":"0f2c53ea2c1468abe38608ca7ce5ce0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85867055,
+            "region_id":85688563,
+            "venue_id":873977899
+        }
+    ],
+    "wof:id":873977899,
+    "wof:lastmodified":1464302293,
+    "wof:name":"Quiznos Sub",
+    "wof:parent_id":85867055,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -95.980378,
+    41.263712,
+    -95.980378,
+    41.263712
+],
+  "geometry": {"coordinates":[-95.980378,41.263712],"type":"Point"}
+}

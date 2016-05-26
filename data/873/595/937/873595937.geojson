@@ -1,0 +1,71 @@
+{
+  "id": 873595937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.368039,41.438797,-97.368039,41.438797",
+    "geom:latitude":41.438797,
+    "geom:longitude":-97.368039,
+    "iso:country":"US",
+    "sg:address":"3216 23rd St",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Mobile Phone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 562 8866",
+    "sg:postcode":"68601",
+    "sg:province":"NE",
+    "sg:tags":[
+        "cellular"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974401,
+        102084277,
+        85854093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_75uUbvRT04eTIwm4Ty9hjm_41.438797_-97.368039@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294924,
+    "wof:geomhash":"3be0ee562e952a85425741a2201c77b4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084277,
+            "locality_id":85974401,
+            "neighbourhood_id":85854093,
+            "region_id":85688563,
+            "venue_id":873595937
+        }
+    ],
+    "wof:id":873595937,
+    "wof:lastmodified":1464294924,
+    "wof:name":"Bolte-Styskal Cellular",
+    "wof:parent_id":85854093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cellular"
+    ]
+},
+  "bbox": [
+    -97.368039,
+    41.438797,
+    -97.368039,
+    41.438797
+],
+  "geometry": {"coordinates":[-97.368039,41.438797],"type":"Point"}
+}

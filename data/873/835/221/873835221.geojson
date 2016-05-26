@@ -1,0 +1,73 @@
+{
+  "id": 873835221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.967655,41.143388,-95.967655,41.143388",
+    "geom:latitude":41.143388,
+    "geom:longitude":-95.967655,
+    "iso:country":"US",
+    "sg:address":"3802 Raynor Pkwy",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 280 3660",
+    "sg:postcode":"68123",
+    "sg:province":"NE",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85821583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4XagIFhFKke0wZzRPv1JbO_41.143388_-95.967655@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298449,
+    "wof:geomhash":"ef3ae8d5f3ee5c05639ec1ae42a088d7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85821583,
+            "region_id":85688563,
+            "venue_id":873835221
+        }
+    ],
+    "wof:id":873835221,
+    "wof:lastmodified":1464298449,
+    "wof:name":"Charles E Giangarra MD",
+    "wof:parent_id":85821583,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -95.967655,
+    41.143388,
+    -95.967655,
+    41.143388
+],
+  "geometry": {"coordinates":[-95.96765499999999,41.143388],"type":"Point"}
+}

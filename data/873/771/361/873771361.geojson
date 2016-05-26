@@ -1,0 +1,75 @@
+{
+  "id": 873771361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.016349,41.225134,-96.016349,41.225134",
+    "geom:latitude":41.225134,
+    "geom:longitude":-96.016349,
+    "iso:country":"US",
+    "sg:address":"6621 B St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 393 4301",
+    "sg:postcode":"68106",
+    "sg:province":"NE",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867059,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4rjvWloPCKCt2EISHMyt29_41.225134_-96.016349@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297382,
+    "wof:geomhash":"c354e9ab10b5854cc4d77a3efed0c9d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85867059,
+            "region_id":85688563,
+            "venue_id":873771361
+        }
+    ],
+    "wof:id":873771361,
+    "wof:lastmodified":1464297382,
+    "wof:name":"Kens High Performance Towing",
+    "wof:parent_id":85867059,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -96.016349,
+    41.225134,
+    -96.016349,
+    41.225134
+],
+  "geometry": {"coordinates":[-96.01634900000001,41.225134],"type":"Point"}
+}

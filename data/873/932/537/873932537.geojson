@@ -1,0 +1,82 @@
+{
+  "id": 873932537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.688634,40.871533,-96.688634,40.871533",
+    "geom:latitude":40.871533,
+    "geom:longitude":-96.688634,
+    "iso:country":"US",
+    "sg:address":"2200 Fletcher Ave",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 438 5500",
+    "sg:postcode":"68521",
+    "sg:province":"NE",
+    "sg:tags":[
+        "advisory",
+        "planning",
+        "financial",
+        "consultant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3TuoVfZjBk79QyQRCp6J5U_40.871533_-96.688634@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300456,
+    "wof:geomhash":"4fbdedd0a1f9b9f0dcf46f73fb0d804f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878687,
+            "region_id":85688563,
+            "venue_id":873932537
+        }
+    ],
+    "wof:id":873932537,
+    "wof:lastmodified":1464300456,
+    "wof:name":"Tomorrow's Money",
+    "wof:parent_id":85878687,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "advisory",
+        "planning",
+        "financial",
+        "consultant"
+    ]
+},
+  "bbox": [
+    -96.688634,
+    40.871533,
+    -96.688634,
+    40.871533
+],
+  "geometry": {"coordinates":[-96.68863399999999,40.871533],"type":"Point"}
+}

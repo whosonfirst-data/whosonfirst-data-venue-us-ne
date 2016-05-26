@@ -1,0 +1,75 @@
+{
+  "id": 873545033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.246794,41.139669,-96.246794,41.139669",
+    "geom:latitude":41.139669,
+    "geom:longitude":-96.246794,
+    "iso:country":"US",
+    "sg:address":"608 W Angus St",
+    "sg:city":"Gretna",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 332 3255",
+    "sg:postcode":"68028",
+    "sg:province":"NE",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85834285,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ioq2mf8qziRv47KjzZs60_41.139669_-96.246794@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294316,
+    "wof:geomhash":"c3673cb05cd92bfc59e1a086f13ca7dc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85834285,
+            "region_id":85688563,
+            "venue_id":873545033
+        }
+    ],
+    "wof:id":873545033,
+    "wof:lastmodified":1464294316,
+    "wof:name":"Mike's Auto Repair",
+    "wof:parent_id":85834285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general",
+        "supply"
+    ]
+},
+  "bbox": [
+    -96.246794,
+    41.139669,
+    -96.246794,
+    41.139669
+],
+  "geometry": {"coordinates":[-96.24679399999999,41.139669],"type":"Point"}
+}

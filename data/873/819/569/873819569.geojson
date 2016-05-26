@@ -1,0 +1,66 @@
+{
+  "id": 873819569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.908966,41.162812,-95.908966,41.162812",
+    "geom:latitude":41.162812,
+    "geom:longitude":-95.908966,
+    "iso:country":"US",
+    "sg:address":"1105 Tanglewood Ct",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 933 6055",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85804025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5KpPzjKOpl2vlDIKGsIjL7_41.162812_-95.908966@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298112,
+    "wof:geomhash":"61459943611834fa1dc17a9e203b5732",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85804025,
+            "region_id":85688563,
+            "venue_id":873819569
+        }
+    ],
+    "wof:id":873819569,
+    "wof:lastmodified":1464298112,
+    "wof:name":"Hooyah Outdoor Sports",
+    "wof:parent_id":85804025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -95.908966,
+    41.162812,
+    -95.908966,
+    41.162812
+],
+  "geometry": {"coordinates":[-95.90896600000001,41.162812],"type":"Point"}
+}

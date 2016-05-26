@@ -1,0 +1,73 @@
+{
+  "id": 873890705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.671762,40.877328,-96.671762,40.877328",
+    "geom:latitude":40.877328,
+    "geom:longitude":-96.671762,
+    "iso:country":"US",
+    "sg:address":"3353 Watercress Ln",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 770 1994",
+    "sg:postcode":"68504",
+    "sg:province":"NE",
+    "sg:tags":[
+        "maker",
+        "cabinet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_53SWVe325R8dPZa8fCibPE_40.877328_-96.671762@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299643,
+    "wof:geomhash":"f0d64f7e4292ab6b0c378b677b005b3f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878687,
+            "region_id":85688563,
+            "venue_id":873890705
+        }
+    ],
+    "wof:id":873890705,
+    "wof:lastmodified":1464299643,
+    "wof:name":"Jones Brothers Woodworking",
+    "wof:parent_id":85878687,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maker",
+        "cabinet"
+    ]
+},
+  "bbox": [
+    -96.671762,
+    40.877328,
+    -96.671762,
+    40.877328
+],
+  "geometry": {"coordinates":[-96.671762,40.877328],"type":"Point"}
+}

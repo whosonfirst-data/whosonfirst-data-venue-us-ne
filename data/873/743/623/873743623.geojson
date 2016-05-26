@@ -1,0 +1,66 @@
+{
+  "id": 873743623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.897786,41.134402,-95.897786,41.134402",
+    "geom:latitude":41.134402,
+    "geom:longitude":-95.897786,
+    "iso:country":"US",
+    "sg:address":"2301 Wayne St",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 292 8260",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974747,
+        102082777,
+        85820061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5NK5DQcmfbr96OzUh4FGHX_41.134402_-95.897786@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296982,
+    "wof:geomhash":"759116c8ebb762eb8544c111c21d1f79",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974747,
+            "neighbourhood_id":85820061,
+            "region_id":85688563,
+            "venue_id":873743623
+        }
+    ],
+    "wof:id":873743623,
+    "wof:lastmodified":1464296982,
+    "wof:name":"Wenmar",
+    "wof:parent_id":85820061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -95.897786,
+    41.134402,
+    -95.897786,
+    41.134402
+],
+  "geometry": {"coordinates":[-95.897786,41.134402],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 873793883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.152055,41.259608,-96.152055,41.259608",
+    "geom:latitude":41.259608,
+    "geom:longitude":-96.152055,
+    "iso:country":"US",
+    "sg:address":"15230 Westchester Dr",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 334 2625",
+    "sg:postcode":"68154",
+    "sg:province":"NE",
+    "sg:tags":[
+        "sprinkler",
+        "landscape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85806957,
+        102191575,
+        404519987,
+        85633793,
+        85973479,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1DKYZRq3F76SwyfjGLZu9J_41.259608_-96.152055@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297702,
+    "wof:geomhash":"e6315c47c9e14ceac936a891f8187fed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404519987,
+            "locality_id":85973479,
+            "neighbourhood_id":85806957,
+            "region_id":85688563,
+            "venue_id":873793883
+        }
+    ],
+    "wof:id":873793883,
+    "wof:lastmodified":1464297702,
+    "wof:name":"Nature's Helper Inc",
+    "wof:parent_id":85806957,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sprinkler",
+        "landscape"
+    ]
+},
+  "bbox": [
+    -96.152055,
+    41.259608,
+    -96.152055,
+    41.259608
+],
+  "geometry": {"coordinates":[-96.152055,41.259608],"type":"Point"}
+}

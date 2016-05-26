@@ -1,0 +1,75 @@
+{
+  "id": 873729679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.593496,40.733439,-96.593496,40.733439",
+    "geom:latitude":40.733439,
+    "geom:longitude":-96.593496,
+    "iso:country":"US",
+    "sg:address":"7500 S 91st St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 327 2700",
+    "sg:postcode":"68526",
+    "sg:province":"NE",
+    "sg:tags":[
+        "medical",
+        "surgical",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0SJi0ghDMyapwfbcaVE4V5_40.733439_-96.593496@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296775,
+    "wof:geomhash":"b5f8d641f6651f3fc3b1f92d6d1af54d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878685,
+            "region_id":85688563,
+            "venue_id":873729679
+        }
+    ],
+    "wof:id":873729679,
+    "wof:lastmodified":1464296775,
+    "wof:name":"Nebraska Heart Hosptal",
+    "wof:parent_id":85878685,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical",
+        "surgical",
+        "general"
+    ]
+},
+  "bbox": [
+    -96.593496,
+    40.733439,
+    -96.593496,
+    40.733439
+],
+  "geometry": {"coordinates":[-96.593496,40.733439],"type":"Point"}
+}

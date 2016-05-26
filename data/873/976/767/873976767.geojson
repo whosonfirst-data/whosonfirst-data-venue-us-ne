@@ -1,0 +1,78 @@
+{
+  "id": 873976767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.644771,40.858215,-96.644771,40.858215",
+    "geom:latitude":40.858215,
+    "geom:longitude":-96.644771,
+    "iso:country":"US",
+    "sg:address":"5500 Superior St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ne/lincoln/225166-caseys-general-store/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 465 5011",
+    "sg:postcode":"68504",
+    "sg:province":"NE",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878741,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4dhfG1J9tUqdQR546w1HZX_40.858215_-96.644771@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464302248,
+    "wof:geomhash":"41f92fd73600ff05af179784c4284a18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878741,
+            "region_id":85688563,
+            "venue_id":873976767
+        }
+    ],
+    "wof:id":873976767,
+    "wof:lastmodified":1464302248,
+    "wof:name":"Casey's General Store",
+    "wof:parent_id":85878741,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -96.644771,
+    40.858215,
+    -96.644771,
+    40.858215
+],
+  "geometry": {"coordinates":[-96.64477100000001,40.858215],"type":"Point"}
+}

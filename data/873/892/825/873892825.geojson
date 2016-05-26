@@ -1,0 +1,77 @@
+{
+  "id": 873892825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.096473,41.296354,-96.096473,41.296354",
+    "geom:latitude":41.296354,
+    "geom:longitude":-96.096473,
+    "iso:country":"US",
+    "sg:address":"11612 Sahler St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 493 4761",
+    "sg:postcode":"68164",
+    "sg:province":"NE",
+    "sg:tags":[
+        "programing",
+        "custom"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872503,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1I8NKxAw7Y8murU6UkIkkU_41.296354_-96.096473@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299686,
+    "wof:geomhash":"d76a9f1b1dc28d1dbc6917a994c189fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872503,
+            "region_id":85688563,
+            "venue_id":873892825
+        }
+    ],
+    "wof:id":873892825,
+    "wof:lastmodified":1464299686,
+    "wof:name":"Golden Sprocket Inc",
+    "wof:parent_id":85872503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "programing",
+        "custom"
+    ]
+},
+  "bbox": [
+    -96.096473,
+    41.296354,
+    -96.096473,
+    41.296354
+],
+  "geometry": {"coordinates":[-96.096473,41.296354],"type":"Point"}
+}

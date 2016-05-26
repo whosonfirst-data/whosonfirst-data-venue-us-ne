@@ -1,0 +1,71 @@
+{
+  "id": 873887831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.040293,41.338707,-96.040293,41.338707",
+    "geom:latitude":41.338707,
+    "geom:longitude":-96.040293,
+    "iso:country":"US",
+    "sg:address":"8225 Clay St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 614 8683",
+    "sg:postcode":"68122",
+    "sg:province":"NE",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85872505,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2StXNVdkcy4RcXf7zjeTlW_41.338707_-96.040293@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299588,
+    "wof:geomhash":"0434b181bcf73ae3376d32655f2d527a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":873887831
+        }
+    ],
+    "wof:id":873887831,
+    "wof:lastmodified":1464299588,
+    "wof:name":"Nickscape Landscaping",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.040293,
+    41.338707,
+    -96.040293,
+    41.338707
+],
+  "geometry": {"coordinates":[-96.04029300000001,41.338707],"type":"Point"}
+}

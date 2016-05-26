@@ -1,0 +1,73 @@
+{
+  "id": 873758039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.118777,41.299945,-96.118777,41.299945",
+    "geom:latitude":41.299945,
+    "geom:longitude":-96.118777,
+    "iso:country":"US",
+    "sg:address":"13074 Meredith Ave",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 498 4463",
+    "sg:postcode":"68164",
+    "sg:province":"NE",
+    "sg:tags":[
+        "builder",
+        "repairer",
+        "chimney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85872505,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_630xerWBy6MK7AwKXQwt89_41.299945_-96.118777@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297182,
+    "wof:geomhash":"0f45385a1c4e1f4f66f457cdd660cb7b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":873758039
+        }
+    ],
+    "wof:id":873758039,
+    "wof:lastmodified":1464297182,
+    "wof:name":"Matney Masonry",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "builder",
+        "repairer",
+        "chimney"
+    ]
+},
+  "bbox": [
+    -96.118777,
+    41.299945,
+    -96.118777,
+    41.299945
+],
+  "geometry": {"coordinates":[-96.11877699999999,41.299945],"type":"Point"}
+}

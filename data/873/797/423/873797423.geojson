@@ -1,0 +1,73 @@
+{
+  "id": 873797423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.905853,41.158684,-95.905853,41.158684",
+    "geom:latitude":41.158684,
+    "geom:longitude":-95.905853,
+    "iso:country":"US",
+    "sg:address":"108 Bellevue Blvd",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 291 3532",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "hanging",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85804025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_62dvoTKo7FK1Z7LIZkLyd7_41.158684_-95.905853@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297743,
+    "wof:geomhash":"29a2a8ecdd1c9faa722d039aca4c1d3b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85804025,
+            "region_id":85688563,
+            "venue_id":873797423
+        }
+    ],
+    "wof:id":873797423,
+    "wof:lastmodified":1464297743,
+    "wof:name":"Jans Different Strokes",
+    "wof:parent_id":85804025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -95.905853,
+    41.158684,
+    -95.905853,
+    41.158684
+],
+  "geometry": {"coordinates":[-95.90585299999999,41.158684],"type":"Point"}
+}

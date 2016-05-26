@@ -1,0 +1,66 @@
+{
+  "id": 873915279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.586895,40.755191,-96.586895,40.755191",
+    "geom:latitude":40.755191,
+    "geom:longitude":-96.586895,
+    "iso:country":"US",
+    "sg:address":"10101 Old Cheney Rd",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 488 8190",
+    "sg:postcode":"68526",
+    "sg:province":"NE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4xF0BqnX6XkEICklPzxlue_40.755191_-96.586895@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300114,
+    "wof:geomhash":"70bf1058b83179341c715784e22d068c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878685,
+            "region_id":85688563,
+            "venue_id":873915279
+        }
+    ],
+    "wof:id":873915279,
+    "wof:lastmodified":1464300114,
+    "wof:name":"Kenl Inn",
+    "wof:parent_id":85878685,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.586895,
+    40.755191,
+    -96.586895,
+    40.755191
+],
+  "geometry": {"coordinates":[-96.586895,40.755191],"type":"Point"}
+}

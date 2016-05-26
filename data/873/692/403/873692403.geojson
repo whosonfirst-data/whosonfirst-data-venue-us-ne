@@ -1,0 +1,66 @@
+{
+  "id": 873692403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.642207,40.858467,-96.642207,40.858467",
+    "geom:latitude":40.858467,
+    "geom:longitude":-96.642207,
+    "iso:country":"US",
+    "sg:address":"5640 Cornhusker Hwy",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Farm Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 466 1191",
+    "sg:postcode":"68507",
+    "sg:province":"NE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85824241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1hf5tZ5a3s8VngCvvG0exW_40.858467_-96.642207@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296320,
+    "wof:geomhash":"940adcc19e0b005e6d1f5aadce52d4f5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85824241,
+            "region_id":85688563,
+            "venue_id":873692403
+        }
+    ],
+    "wof:id":873692403,
+    "wof:lastmodified":1464296320,
+    "wof:name":"Orscheln Farm & Home",
+    "wof:parent_id":85824241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.642207,
+    40.858467,
+    -96.642207,
+    40.858467
+],
+  "geometry": {"coordinates":[-96.642207,40.858467],"type":"Point"}
+}

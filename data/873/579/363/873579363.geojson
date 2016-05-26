@@ -1,0 +1,72 @@
+{
+  "id": 873579363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.046238,41.160935,-96.046238,41.160935",
+    "geom:latitude":41.160935,
+    "geom:longitude":-96.046238,
+    "iso:country":"US",
+    "sg:address":"530 N Jackson St",
+    "sg:city":"Papillion",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 331 3450",
+    "sg:postcode":"68046",
+    "sg:province":"NE",
+    "sg:tags":[
+        "fabrication",
+        "welding"
+    ],
+    "sg:website":"www.papillionwelding.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85843697,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_71NCESfCeg906TlsYOC7ft_41.160935_-96.046238@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294709,
+    "wof:geomhash":"1ebbf20bf8d3f75fc6a788fb985c9363",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85843697,
+            "region_id":85688563,
+            "venue_id":873579363
+        }
+    ],
+    "wof:id":873579363,
+    "wof:lastmodified":1464294709,
+    "wof:name":"Papillion Welding",
+    "wof:parent_id":85843697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fabrication",
+        "welding"
+    ]
+},
+  "bbox": [
+    -96.046238,
+    41.160935,
+    -96.046238,
+    41.160935
+],
+  "geometry": {"coordinates":[-96.046238,41.160935],"type":"Point"}
+}

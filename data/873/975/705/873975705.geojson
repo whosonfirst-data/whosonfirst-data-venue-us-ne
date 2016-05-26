@@ -1,0 +1,74 @@
+{
+  "id": 873975705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.912125,41.144695,-95.912125,41.144695",
+    "geom:latitude":41.144695,
+    "geom:longitude":-95.912125,
+    "iso:country":"US",
+    "sg:address":"1510 Galvin Rd S",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ne/bellevue/183487-kfc---kentucky-fried-chicken/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 291 0500",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "american",
+        "chicken"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85804025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1h6jC57TybgIlY419kzHUt_41.144695_-95.912125@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464302213,
+    "wof:geomhash":"646c5e90d73e58c17aa47dba9b72237e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85804025,
+            "region_id":85688563,
+            "venue_id":873975705
+        }
+    ],
+    "wof:id":873975705,
+    "wof:lastmodified":1464302213,
+    "wof:name":"KFC - Kentucky Fried Chicken",
+    "wof:parent_id":85804025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "chicken"
+    ]
+},
+  "bbox": [
+    -95.912125,
+    41.144695,
+    -95.912125,
+    41.144695
+],
+  "geometry": {"coordinates":[-95.912125,41.144695],"type":"Point"}
+}

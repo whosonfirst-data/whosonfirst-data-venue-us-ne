@@ -1,0 +1,74 @@
+{
+  "id": 873811031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.90824,41.150776,-95.90824,41.150776",
+    "geom:latitude":41.150776,
+    "geom:longitude":-95.90824,
+    "iso:country":"US",
+    "sg:address":"1020 Lincoln Rd",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Film & Video Production",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 291 3381",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "duplication",
+        "tape"
+    ],
+    "sg:website":"www.dicobe.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85804025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1yD3W4MqFBYV3BuIDLqCue_41.150776_-95.908240@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297945,
+    "wof:geomhash":"10d8c5a3218c74181fa0362e034eff81",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85804025,
+            "region_id":85688563,
+            "venue_id":873811031
+        }
+    ],
+    "wof:id":873811031,
+    "wof:lastmodified":1464297945,
+    "wof:name":"Dicobe Inc",
+    "wof:parent_id":85804025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "duplication",
+        "tape"
+    ]
+},
+  "bbox": [
+    -95.90824,
+    41.150776,
+    -95.90824,
+    41.150776
+],
+  "geometry": {"coordinates":[-95.90824000000001,41.150776],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873748543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.89926,41.151331,-95.89926,41.151331",
+    "geom:latitude":41.151331,
+    "geom:longitude":-95.89926,
+    "iso:country":"US",
+    "sg:address":"508 Waldruh Dr",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 291 3303",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "masonry",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85804025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_53ikR3vaolZDeuL74EP3Yj_41.151331_-95.899260@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297056,
+    "wof:geomhash":"707e98da66ec21a60cd4898aa618bd5b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85804025,
+            "region_id":85688563,
+            "venue_id":873748543
+        }
+    ],
+    "wof:id":873748543,
+    "wof:lastmodified":1464297056,
+    "wof:name":"Twin City Masonry & Concrete",
+    "wof:parent_id":85804025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "masonry",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -95.89926,
+    41.151331,
+    -95.89926,
+    41.151331
+],
+  "geometry": {"coordinates":[-95.89926,41.151331],"type":"Point"}
+}

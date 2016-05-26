@@ -1,0 +1,73 @@
+{
+  "id": 873642509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.731056,40.861306,-96.731056,40.861306",
+    "geom:latitude":40.861306,
+    "geom:longitude":-96.731056,
+    "iso:country":"US",
+    "sg:address":"5201 NW 6th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 438 5067",
+    "sg:postcode":"68521",
+    "sg:province":"NE",
+    "sg:tags":[
+        "hauling",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2BwFSQjDwXJWWTa6ExEBLz_40.861306_-96.731056@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295505,
+    "wof:geomhash":"89898359cdb592c1884ec0030c2fcadd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878717,
+            "region_id":85688563,
+            "venue_id":873642509
+        }
+    ],
+    "wof:id":873642509,
+    "wof:lastmodified":1464295505,
+    "wof:name":"Krasser Inc",
+    "wof:parent_id":85878717,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hauling",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -96.731056,
+    40.861306,
+    -96.731056,
+    40.861306
+],
+  "geometry": {"coordinates":[-96.731056,40.861306],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 873976915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.700814,40.738194,-96.700814,40.738194",
+    "geom:latitude":40.738194,
+    "geom:longitude":-96.700814,
+    "iso:country":"US",
+    "sg:address":"1501 Pine Lake Rd",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ne/lincoln/129471-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 420 5010",
+    "sg:postcode":"68512",
+    "sg:province":"NE",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_75M57lAkpso1tbKzXQ1yNk_40.738194_-96.700814@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464302258,
+    "wof:geomhash":"a7146d927b1eec68dceb4d428afca0d6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878709,
+            "region_id":85688563,
+            "venue_id":873976915
+        }
+    ],
+    "wof:id":873976915,
+    "wof:lastmodified":1464302258,
+    "wof:name":"Subway",
+    "wof:parent_id":85878709,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -96.700814,
+    40.738194,
+    -96.700814,
+    40.738194
+],
+  "geometry": {"coordinates":[-96.70081399999999,40.738194],"type":"Point"}
+}

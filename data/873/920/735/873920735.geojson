@@ -1,0 +1,71 @@
+{
+  "id": 873920735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.786708,40.876397,-96.786708,40.876397",
+    "geom:latitude":40.876397,
+    "geom:longitude":-96.786708,
+    "iso:country":"US",
+    "sg:address":"6707 NW 48th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 470 3223",
+    "sg:postcode":"68524",
+    "sg:province":"NE",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85826663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0W8u7lBAaCuQU1SNah8694_40.876397_-96.786708@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300223,
+    "wof:geomhash":"3e1cad3c672edb4c89d6170e24c0df59",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85826663,
+            "region_id":85688563,
+            "venue_id":873920735
+        }
+    ],
+    "wof:id":873920735,
+    "wof:lastmodified":1464300223,
+    "wof:name":"Northwest Rv & Boat Storage",
+    "wof:parent_id":85826663,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -96.786708,
+    40.876397,
+    -96.786708,
+    40.876397
+],
+  "geometry": {"coordinates":[-96.786708,40.876397],"type":"Point"}
+}

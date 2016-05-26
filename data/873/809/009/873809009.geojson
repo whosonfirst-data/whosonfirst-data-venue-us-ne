@@ -1,0 +1,79 @@
+{
+  "id": 873809009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.733265,40.814849,-96.733265,40.814849",
+    "geom:latitude":40.814849,
+    "geom:longitude":-96.733265,
+    "iso:country":"US",
+    "sg:address":"530 W P St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 434 6414",
+    "sg:postcode":"68528",
+    "sg:province":"NE",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878689,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_01V6IDlnKYwCu1BUQV5Bd3_40.814849_-96.733265@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297909,
+    "wof:geomhash":"b389a5aeb98f48559ae45f819417e927",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878689,
+            "region_id":85688563,
+            "venue_id":873809009
+        }
+    ],
+    "wof:id":873809009,
+    "wof:lastmodified":1464297909,
+    "wof:name":"Dps Transport Inc",
+    "wof:parent_id":85878689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -96.733265,
+    40.814849,
+    -96.733265,
+    40.814849
+],
+  "geometry": {"coordinates":[-96.733265,40.814849],"type":"Point"}
+}

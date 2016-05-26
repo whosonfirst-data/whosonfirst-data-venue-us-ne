@@ -1,0 +1,73 @@
+{
+  "id": 873935567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.684699,40.719784,-96.684699,40.719784",
+    "geom:latitude":40.719784,
+    "geom:longitude":-96.684699,
+    "iso:country":"US",
+    "sg:address":"9001 Whispering Wind Rd",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 730 5838",
+    "sg:postcode":"68512",
+    "sg:province":"NE",
+    "sg:tags":[
+        "home",
+        "builder"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6QzjaOMdP1xzGqaT07Ynmb_40.719784_-96.684699@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300511,
+    "wof:geomhash":"b68e9db4acf3f7158e669f317f21489e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878733,
+            "region_id":85688563,
+            "venue_id":873935567
+        }
+    ],
+    "wof:id":873935567,
+    "wof:lastmodified":1464300511,
+    "wof:name":"Lancaster Homes",
+    "wof:parent_id":85878733,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "builder"
+    ]
+},
+  "bbox": [
+    -96.684699,
+    40.719784,
+    -96.684699,
+    40.719784
+],
+  "geometry": {"coordinates":[-96.68469899999999,40.719784],"type":"Point"}
+}

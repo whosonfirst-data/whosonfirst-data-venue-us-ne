@@ -1,0 +1,79 @@
+{
+  "id": 873944515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.077189,41.224477,-96.077189,41.224477",
+    "geom:latitude":41.224477,
+    "geom:longitude":-96.077189,
+    "iso:country":"US",
+    "sg:address":"3505 S 105th Ave",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 343 8477",
+    "sg:postcode":"68124",
+    "sg:province":"NE",
+    "sg:tags":[
+        "home",
+        "group",
+        "treatment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872533,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3yG4Pk4PBXW4hs10G7c5S9_41.224477_-96.077189@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300863,
+    "wof:geomhash":"ef52b43c4e24c5233c2528568c6ef867",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872533,
+            "region_id":85688563,
+            "venue_id":873944515
+        }
+    ],
+    "wof:id":873944515,
+    "wof:lastmodified":1464300863,
+    "wof:name":"Rockbrook",
+    "wof:parent_id":85872533,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "group",
+        "treatment"
+    ]
+},
+  "bbox": [
+    -96.077189,
+    41.224477,
+    -96.077189,
+    41.224477
+],
+  "geometry": {"coordinates":[-96.077189,41.224477],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 873879513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.045536,41.280004,-96.045536,41.280004",
+    "geom:latitude":41.280004,
+    "geom:longitude":-96.045536,
+    "iso:country":"US",
+    "sg:address":"2622 Keystone Dr",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 397 7276",
+    "sg:postcode":"68134",
+    "sg:province":"NE",
+    "sg:tags":[
+        "automobile",
+        "foreign"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867061,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0lSxVS6Uus2HqALjfwcYTr_41.280004_-96.045536@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299423,
+    "wof:geomhash":"729db140fb691344bdf9e23dbdad0a08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85867061,
+            "region_id":85688563,
+            "venue_id":873879513
+        }
+    ],
+    "wof:id":873879513,
+    "wof:lastmodified":1464299423,
+    "wof:name":"Cooks Import Repair",
+    "wof:parent_id":85867061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "foreign"
+    ]
+},
+  "bbox": [
+    -96.045536,
+    41.280004,
+    -96.045536,
+    41.280004
+],
+  "geometry": {"coordinates":[-96.045536,41.280004],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 873976171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.043343,41.179836,-96.043343,41.179836",
+    "geom:latitude":41.179836,
+    "geom:longitude":-96.043343,
+    "iso:country":"US",
+    "sg:address":"8420 Brentwood Dr",
+    "sg:city":"La Vista",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ne/la-vista/96357-taco-johns/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 592 2100",
+    "sg:postcode":"68128",
+    "sg:province":"NE",
+    "sg:tags":[
+        "american",
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85843697,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7X0vm98iRJR6r9QwKtBhnB_41.179836_-96.043343@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464302229,
+    "wof:geomhash":"cd2dc9735de991b5da540dff05d7b500",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85843697,
+            "region_id":85688563,
+            "venue_id":873976171
+        }
+    ],
+    "wof:id":873976171,
+    "wof:lastmodified":1464302229,
+    "wof:name":"Taco John's",
+    "wof:parent_id":85843697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "mexican"
+    ]
+},
+  "bbox": [
+    -96.043343,
+    41.179836,
+    -96.043343,
+    41.179836
+],
+  "geometry": {"coordinates":[-96.04334299999999,41.179836],"type":"Point"}
+}

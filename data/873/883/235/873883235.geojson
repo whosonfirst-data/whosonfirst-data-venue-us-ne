@@ -1,0 +1,71 @@
+{
+  "id": 873883235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.045583,41.167843,-96.045583,41.167843",
+    "geom:latitude":41.167843,
+    "geom:longitude":-96.045583,
+    "iso:country":"US",
+    "sg:address":"801 N Adams St",
+    "sg:city":"Papillion",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 339 1775",
+    "sg:postcode":"68046",
+    "sg:province":"NE",
+    "sg:tags":[
+        "home",
+        "convalescent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85843697,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_45iH25g3P5GFnrpwdSr65L_41.167843_-96.045583@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299499,
+    "wof:geomhash":"88576bb8f47e10f44e7834053cb9b9db",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85843697,
+            "region_id":85688563,
+            "venue_id":873883235
+        }
+    ],
+    "wof:id":873883235,
+    "wof:lastmodified":1464299499,
+    "wof:name":"WEL Life At Papillion",
+    "wof:parent_id":85843697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "convalescent"
+    ]
+},
+  "bbox": [
+    -96.045583,
+    41.167843,
+    -96.045583,
+    41.167843
+],
+  "geometry": {"coordinates":[-96.04558299999999,41.167843],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 873627233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.633154,40.857098,-96.633154,40.857098",
+    "geom:latitude":40.857098,
+    "geom:longitude":-96.633154,
+    "iso:country":"US",
+    "sg:address":"6310 Havelock Ave",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 466 9222",
+    "sg:postcode":"68507",
+    "sg:province":"NE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85824241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5dbFGJk0wdrq0Y9edaAjme_40.857098_-96.633154@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295332,
+    "wof:geomhash":"d2f6a147f4fadc7b659d236af44bd03c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85824241,
+            "region_id":85688563,
+            "venue_id":873627233
+        }
+    ],
+    "wof:id":873627233,
+    "wof:lastmodified":1464295332,
+    "wof:name":"Amigos",
+    "wof:parent_id":85824241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.633154,
+    40.857098,
+    -96.633154,
+    40.857098
+],
+  "geometry": {"coordinates":[-96.633154,40.857098],"type":"Point"}
+}

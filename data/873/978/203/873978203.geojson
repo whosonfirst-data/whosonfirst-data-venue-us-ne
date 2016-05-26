@@ -1,0 +1,74 @@
+{
+  "id": 873978203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.682801,40.738992,-96.682801,40.738992",
+    "geom:latitude":40.738992,
+    "geom:longitude":-96.682801,
+    "iso:country":"US",
+    "sg:address":"7101 S 27th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ne/lincoln/109394-village-inn/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 421 6115",
+    "sg:postcode":"68512",
+    "sg:province":"NE",
+    "sg:tags":[
+        "new",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ASPvG42SpiDHdz7OWasU2_40.738796_-96.682602@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464302304,
+    "wof:geomhash":"2edaeecc73ccc596ffcba465f895c047",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878733,
+            "region_id":85688563,
+            "venue_id":873978203
+        }
+    ],
+    "wof:id":873978203,
+    "wof:lastmodified":1464302304,
+    "wof:name":"Village Inn",
+    "wof:parent_id":85878733,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "new",
+        "american"
+    ]
+},
+  "bbox": [
+    -96.682801,
+    40.738992,
+    -96.682801,
+    40.738992
+],
+  "geometry": {"coordinates":[-96.682801,40.738992],"type":"Point"}
+}

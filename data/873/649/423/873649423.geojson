@@ -1,0 +1,77 @@
+{
+  "id": 873649423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.925547,41.171421,-95.925547,41.171421",
+    "geom:latitude":41.171421,
+    "geom:longitude":-95.925547,
+    "iso:country":"US",
+    "sg:address":"732 Fort Crook Rd N",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 733 2600",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "air",
+        "heating",
+        "conditioning",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85804025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_37Rb4uAd38xCxJQY76wgg0_41.171421_-95.925547@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295580,
+    "wof:geomhash":"dfc9cd6c40495eeeb8439af1affbb89f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85804025,
+            "region_id":85688563,
+            "venue_id":873649423
+        }
+    ],
+    "wof:id":873649423,
+    "wof:lastmodified":1464295580,
+    "wof:name":"Trico Mechanical Services",
+    "wof:parent_id":85804025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "air",
+        "heating",
+        "conditioning",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -95.925547,
+    41.171421,
+    -95.925547,
+    41.171421
+],
+  "geometry": {"coordinates":[-95.92554699999999,41.171421],"type":"Point"}
+}

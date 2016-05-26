@@ -1,0 +1,71 @@
+{
+  "id": 873827301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.61339,40.790613,-96.61339,40.790613",
+    "geom:latitude":40.790613,
+    "geom:longitude":-96.61339,
+    "iso:country":"US",
+    "sg:address":"7901 Trendwood Dr",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 483 7901",
+    "sg:postcode":"68506",
+    "sg:province":"NE",
+    "sg:tags":[
+        "caterer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_57LcgRDvBgGa3QaMcnAGg5_40.790613_-96.613390@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298283,
+    "wof:geomhash":"140885f5962b4111f173cb2b3ec51630",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878697,
+            "region_id":85688563,
+            "venue_id":873827301
+        }
+    ],
+    "wof:id":873827301,
+    "wof:lastmodified":1464298283,
+    "wof:name":"Creative Cooking",
+    "wof:parent_id":85878697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caterer"
+    ]
+},
+  "bbox": [
+    -96.61339,
+    40.790613,
+    -96.61339,
+    40.790613
+],
+  "geometry": {"coordinates":[-96.61339,40.790613],"type":"Point"}
+}

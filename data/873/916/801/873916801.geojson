@@ -1,0 +1,75 @@
+{
+  "id": 873916801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.052523,41.214094,-96.052523,41.214094",
+    "geom:latitude":41.214094,
+    "geom:longitude":-96.052523,
+    "iso:country":"US",
+    "sg:address":"4601 S 90th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 339 1235",
+    "sg:postcode":"68127",
+    "sg:province":"NE",
+    "sg:tags":[
+        "lounge"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872511,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2HdJ4U2unZaqR2TtSFFPCw_41.214094_-96.052523@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300155,
+    "wof:geomhash":"0565d3b6dce7f1b2c2aa8bc608593c24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872511,
+            "region_id":85688563,
+            "venue_id":873916801
+        }
+    ],
+    "wof:id":873916801,
+    "wof:lastmodified":1464300155,
+    "wof:name":"Time Clock Lounge",
+    "wof:parent_id":85872511,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lounge"
+    ]
+},
+  "bbox": [
+    -96.052523,
+    41.214094,
+    -96.052523,
+    41.214094
+],
+  "geometry": {"coordinates":[-96.05252299999999,41.214094],"type":"Point"}
+}

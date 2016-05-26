@@ -1,0 +1,77 @@
+{
+  "id": 873651225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.726735,40.793232,-96.726735,40.793232",
+    "geom:latitude":40.793232,
+    "geom:longitude":-96.726735,
+    "iso:country":"US",
+    "sg:address":"2001 SW 5th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 438 8200",
+    "sg:postcode":"68522",
+    "sg:province":"NE",
+    "sg:tags":[
+        "system",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878737,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_32rvA0MOiJVSE4YlXpPkMR_40.793232_-96.726735@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295600,
+    "wof:geomhash":"bf2826a1d2804a4b3b5f9d1a693ca576",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878737,
+            "region_id":85688563,
+            "venue_id":873651225
+        }
+    ],
+    "wof:id":873651225,
+    "wof:lastmodified":1464295600,
+    "wof:name":"Hydrologic Water Mgmt Systems",
+    "wof:parent_id":85878737,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "system",
+        "supply"
+    ]
+},
+  "bbox": [
+    -96.726735,
+    40.793232,
+    -96.726735,
+    40.793232
+],
+  "geometry": {"coordinates":[-96.72673500000001,40.793232],"type":"Point"}
+}

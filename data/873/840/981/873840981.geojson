@@ -1,0 +1,71 @@
+{
+  "id": 873840981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.942551,41.15837,-95.942551,41.15837",
+    "geom:latitude":41.15837,
+    "geom:longitude":-95.942551,
+    "iso:country":"US",
+    "sg:address":"10201 S 21st St",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 292 1711",
+    "sg:postcode":"68123",
+    "sg:province":"NE",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85821583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3IVEjZ00YVS4lq0bngBdAd_41.158370_-95.942551@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298576,
+    "wof:geomhash":"4ccbffae24be372a6e9cca7407414f33",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85821583,
+            "region_id":85688563,
+            "venue_id":873840981
+        }
+    ],
+    "wof:id":873840981,
+    "wof:lastmodified":1464298576,
+    "wof:name":"Tech Builders Inc",
+    "wof:parent_id":85821583,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -95.942551,
+    41.15837,
+    -95.942551,
+    41.15837
+],
+  "geometry": {"coordinates":[-95.94255099999999,41.15837],"type":"Point"}
+}

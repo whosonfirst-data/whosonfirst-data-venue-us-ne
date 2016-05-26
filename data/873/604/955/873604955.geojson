@@ -1,0 +1,73 @@
+{
+  "id": 873604955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.043028,41.39281,-96.043028,41.39281",
+    "geom:latitude":41.39281,
+    "geom:longitude":-96.043028,
+    "iso:country":"US",
+    "sg:address":"14315 N 84th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 571 5435",
+    "sg:postcode":"68122",
+    "sg:province":"NE",
+    "sg:tags":[
+        "machine",
+        "mfg",
+        "accessory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85872505,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Oldx1GCe2vpgOuOiDcxOk_41.392810_-96.043028@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295039,
+    "wof:geomhash":"f0285b9bb6dca20f7dbe1603f25115ce",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":873604955
+        }
+    ],
+    "wof:id":873604955,
+    "wof:lastmodified":1464295039,
+    "wof:name":"Norm Rose",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "mfg",
+        "accessory"
+    ]
+},
+  "bbox": [
+    -96.043028,
+    41.39281,
+    -96.043028,
+    41.39281
+],
+  "geometry": {"coordinates":[-96.04302800000001,41.39281],"type":"Point"}
+}

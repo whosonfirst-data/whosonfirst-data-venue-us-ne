@@ -1,0 +1,72 @@
+{
+  "id": 873937387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.042943,41.168873,-96.042943,41.168873",
+    "geom:latitude":41.168873,
+    "geom:longitude":-96.042943,
+    "iso:country":"US",
+    "sg:address":"101 E Centennial Rd",
+    "sg:city":"Papillion",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 592 6637",
+    "sg:postcode":"68046",
+    "sg:province":"NE",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "sg:website":"www.methodisthospital.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85843697,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5r48neheeYGubGrJYasRb6_41.168873_-96.042943@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300587,
+    "wof:geomhash":"b2bd3ecabeffc7c290e05ac9d671fed1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85843697,
+            "region_id":85688563,
+            "venue_id":873937387
+        }
+    ],
+    "wof:id":873937387,
+    "wof:lastmodified":1464300587,
+    "wof:name":"Physicians Clinic Papillion",
+    "wof:parent_id":85843697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -96.042943,
+    41.168873,
+    -96.042943,
+    41.168873
+],
+  "geometry": {"coordinates":[-96.04294299999999,41.168873],"type":"Point"}
+}

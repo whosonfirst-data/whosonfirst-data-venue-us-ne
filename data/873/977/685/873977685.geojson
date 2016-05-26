@@ -1,0 +1,76 @@
+{
+  "id": 873977685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.918252,41.153051,-95.918252,41.153051",
+    "geom:latitude":41.153051,
+    "geom:longitude":-95.918252,
+    "iso:country":"US",
+    "sg:address":"816 Galvin Rd S",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ne/bellevue/155551-runza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 292 0267",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85821583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1xR4g6l0Ani4Eq3Lc6sSQT_41.152607_-95.918179@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464302286,
+    "wof:geomhash":"6acfde5b1dcf7b72489c6dc27b08050b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85821583,
+            "region_id":85688563,
+            "venue_id":873977685
+        }
+    ],
+    "wof:id":873977685,
+    "wof:lastmodified":1464302286,
+    "wof:name":"Runza",
+    "wof:parent_id":85821583,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -95.918252,
+    41.153051,
+    -95.918252,
+    41.153051
+],
+  "geometry": {"coordinates":[-95.918252,41.153051],"type":"Point"}
+}

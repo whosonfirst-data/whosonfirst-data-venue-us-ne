@@ -1,0 +1,64 @@
+{
+  "id": 873710895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.140273,41.167649,-96.140273,41.167649",
+    "geom:latitude":41.167649,
+    "geom:longitude":-96.140273,
+    "iso:country":"US",
+    "sg:address":"9305 S 145th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 895 8175",
+    "sg:postcode":"68138",
+    "sg:province":"NE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85834285,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5O4EuDmf3MtyxsbsYJyg8s_41.167649_-96.140273@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296531,
+    "wof:geomhash":"f9ec0d272e70ab71b97e492001cc58cb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85834285,
+            "region_id":85688563,
+            "venue_id":873710895
+        }
+    ],
+    "wof:id":873710895,
+    "wof:lastmodified":1464296531,
+    "wof:name":"Best Pub",
+    "wof:parent_id":85834285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.140273,
+    41.167649,
+    -96.140273,
+    41.167649
+],
+  "geometry": {"coordinates":[-96.14027299999999,41.167649],"type":"Point"}
+}

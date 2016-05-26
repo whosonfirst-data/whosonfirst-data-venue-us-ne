@@ -1,0 +1,70 @@
+{
+  "id": 873975783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.043026,41.163783,-96.043026,41.163783",
+    "geom:latitude":41.163783,
+    "geom:longitude":-96.043026,
+    "iso:country":"US",
+    "sg:address":"718 N Washington St",
+    "sg:city":"Papillion",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ne/papillion/119248-starbucks-coffee/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 597 9900",
+    "sg:postcode":"68046",
+    "sg:province":"NE",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85843697,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0IjV0UNB2EECde3wxd1GRr_41.163783_-96.043026@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464302216,
+    "wof:geomhash":"cfe4b68439dff19299d97cf8aee2bb56",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85843697,
+            "region_id":85688563,
+            "venue_id":873975783
+        }
+    ],
+    "wof:id":873975783,
+    "wof:lastmodified":1464302216,
+    "wof:name":"Starbucks Coffee",
+    "wof:parent_id":85843697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -96.043026,
+    41.163783,
+    -96.043026,
+    41.163783
+],
+  "geometry": {"coordinates":[-96.043026,41.163783],"type":"Point"}
+}

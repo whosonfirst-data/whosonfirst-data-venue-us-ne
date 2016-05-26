@@ -1,0 +1,77 @@
+{
+  "id": 873827903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.975663,41.27886,-95.975663,41.27886",
+    "geom:latitude":41.27886,
+    "geom:longitude":-95.975663,
+    "iso:country":"US",
+    "sg:address":"2107 N 42nd St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 558 0437",
+    "sg:postcode":"68111",
+    "sg:province":"NE",
+    "sg:tags":[
+        "machine",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872525,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_32JKkiI9ZziCq9YTuwhC35_41.278860_-95.975663@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298293,
+    "wof:geomhash":"91e376df18a7d2f39decee72633c7a8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872525,
+            "region_id":85688563,
+            "venue_id":873827903
+        }
+    ],
+    "wof:id":873827903,
+    "wof:lastmodified":1464298293,
+    "wof:name":"Marsh Machine Shop & Mfg Co",
+    "wof:parent_id":85872525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "shop"
+    ]
+},
+  "bbox": [
+    -95.975663,
+    41.27886,
+    -95.975663,
+    41.27886
+],
+  "geometry": {"coordinates":[-95.975663,41.27886],"type":"Point"}
+}

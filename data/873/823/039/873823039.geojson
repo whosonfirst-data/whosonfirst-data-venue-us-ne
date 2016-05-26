@@ -1,0 +1,75 @@
+{
+  "id": 873823039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.693527,40.839981,-96.693527,40.839981",
+    "geom:latitude":40.839981,
+    "geom:longitude":-96.693527,
+    "iso:country":"US",
+    "sg:address":"2705 N 19th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 474 5061",
+    "sg:postcode":"68521",
+    "sg:province":"NE",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878691,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5edYgNVWXns2ExiAXdKQnP_40.839981_-96.693527@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298191,
+    "wof:geomhash":"4caf7d20ea80d9dfa9defccdd7e0123c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878691,
+            "region_id":85688563,
+            "venue_id":873823039
+        }
+    ],
+    "wof:id":873823039,
+    "wof:lastmodified":1464298191,
+    "wof:name":"Nebraskaland Professional Clng",
+    "wof:parent_id":85878691,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -96.693527,
+    40.839981,
+    -96.693527,
+    40.839981
+],
+  "geometry": {"coordinates":[-96.693527,40.839981],"type":"Point"}
+}

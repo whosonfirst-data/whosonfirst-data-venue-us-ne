@@ -1,0 +1,86 @@
+{
+  "id": 873833459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.062564,41.214131,-96.062564,41.214131",
+    "geom:latitude":41.214131,
+    "geom:longitude":-96.062564,
+    "iso:country":"US",
+    "sg:address":"10179 J St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 597 1556",
+    "sg:postcode":"68127",
+    "sg:province":"NE",
+    "sg:tags":[
+        "glass",
+        "leaded",
+        "stained",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872511,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_470UQ6kmxydOqkUpAxn6vV_41.214131_-96.062564@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298414,
+    "wof:geomhash":"fdff6c714714c682d30e6b644428f60c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872511,
+            "region_id":85688563,
+            "venue_id":873833459
+        }
+    ],
+    "wof:id":873833459,
+    "wof:lastmodified":1464298414,
+    "wof:name":"A Classic Art Glass Inc",
+    "wof:parent_id":85872511,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass",
+        "leaded",
+        "stained",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.062564,
+    41.214131,
+    -96.062564,
+    41.214131
+],
+  "geometry": {"coordinates":[-96.06256399999999,41.214131],"type":"Point"}
+}

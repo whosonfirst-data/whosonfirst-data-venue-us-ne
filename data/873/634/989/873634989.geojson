@@ -1,0 +1,71 @@
+{
+  "id": 873634989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.922581,41.180241,-95.922581,41.180241",
+    "geom:latitude":41.180241,
+    "geom:longitude":-95.922581,
+    "iso:country":"US",
+    "sg:address":"1107 Grandview St",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 731 8641",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85804025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5TXgtTP4saWKUIgHXUJxSy_41.180241_-95.922581@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295423,
+    "wof:geomhash":"e436b77791b5726c49aae22a9c86ba3a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85804025,
+            "region_id":85688563,
+            "venue_id":873634989
+        }
+    ],
+    "wof:id":873634989,
+    "wof:lastmodified":1464295423,
+    "wof:name":"Ideal Plumbing",
+    "wof:parent_id":85804025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -95.922581,
+    41.180241,
+    -95.922581,
+    41.180241
+],
+  "geometry": {"coordinates":[-95.92258099999999,41.180241],"type":"Point"}
+}

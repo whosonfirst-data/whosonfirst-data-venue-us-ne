@@ -1,0 +1,77 @@
+{
+  "id": 873974731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.955299,41.2523,-95.955299,41.2523",
+    "geom:latitude":41.2523,
+    "geom:longitude":-95.955299,
+    "iso:country":"US",
+    "sg:address":"2901 Leavenworth St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 342 9519",
+    "sg:postcode":"68105",
+    "sg:province":"NE",
+    "sg:tags":[
+        "repair",
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872527,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6zlEy4uuDsPz5B0uoU82DF_41.252410_-95.955844@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464302181,
+    "wof:geomhash":"4bf58ccdf20430d7622c16019a13edc0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872527,
+            "region_id":85688563,
+            "venue_id":873974731
+        }
+    ],
+    "wof:id":873974731,
+    "wof:lastmodified":1464302181,
+    "wof:name":"Fred's Friendly 66 Service",
+    "wof:parent_id":85872527,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "oil"
+    ]
+},
+  "bbox": [
+    -95.955299,
+    41.2523,
+    -95.955299,
+    41.2523
+],
+  "geometry": {"coordinates":[-95.955299,41.2523],"type":"Point"}
+}

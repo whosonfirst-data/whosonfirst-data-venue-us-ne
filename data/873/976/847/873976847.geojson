@@ -1,0 +1,78 @@
+{
+  "id": 873976847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.703115,40.803316,-96.703115,40.803316",
+    "geom:latitude":40.803316,
+    "geom:longitude":-96.703115,
+    "iso:country":"US",
+    "sg:address":"1001 S 13th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ne/lincoln/225168-caseys-general-store/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 477 8724",
+    "sg:postcode":"68508",
+    "sg:province":"NE",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878705,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0s9Ov2s1Id384ReUqzIkCg_40.803316_-96.703115@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464302251,
+    "wof:geomhash":"876ec3fe5e4c623af2d149819ff3bb50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878705,
+            "region_id":85688563,
+            "venue_id":873976847
+        }
+    ],
+    "wof:id":873976847,
+    "wof:lastmodified":1464302251,
+    "wof:name":"Casey's General Store",
+    "wof:parent_id":85878705,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -96.703115,
+    40.803316,
+    -96.703115,
+    40.803316
+],
+  "geometry": {"coordinates":[-96.703115,40.803316],"type":"Point"}
+}

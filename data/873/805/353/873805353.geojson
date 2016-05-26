@@ -1,0 +1,73 @@
+{
+  "id": 873805353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.639913,40.852805,-96.639913,40.852805",
+    "geom:latitude":40.852805,
+    "geom:longitude":-96.639913,
+    "iso:country":"US",
+    "sg:address":"3900 Touzalin Ave",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 464 4459",
+    "sg:postcode":"68507",
+    "sg:province":"NE",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85824241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2PJAEdJNee6Vk7OOhRAM6s_40.852805_-96.639913@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297840,
+    "wof:geomhash":"a0356e8275033ffab7e31ed2ae9a0c5e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85824241,
+            "region_id":85688563,
+            "venue_id":873805353
+        }
+    ],
+    "wof:id":873805353,
+    "wof:lastmodified":1464297840,
+    "wof:name":"Oak's Auto Sales",
+    "wof:parent_id":85824241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -96.639913,
+    40.852805,
+    -96.639913,
+    40.852805
+],
+  "geometry": {"coordinates":[-96.63991300000001,40.852805],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 873883819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.701083,40.814543,-96.701083,40.814543",
+    "geom:latitude":40.814543,
+    "geom:longitude":-96.701083,
+    "iso:country":"US",
+    "sg:address":"118 N 14th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 475 8663",
+    "sg:postcode":"68508",
+    "sg:province":"NE",
+    "sg:tags":[
+        "dealer"
+    ],
+    "sg:website":"www.anovelideabookstore.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878699,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6q1U6iNQ82vupsUNgZU4Fj_40.814543_-96.701083@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299511,
+    "wof:geomhash":"95a41c2d31655da1088853587323be73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878699,
+            "region_id":85688563,
+            "venue_id":873883819
+        }
+    ],
+    "wof:id":873883819,
+    "wof:lastmodified":1464299511,
+    "wof:name":"A Novel Idea",
+    "wof:parent_id":85878699,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dealer"
+    ]
+},
+  "bbox": [
+    -96.701083,
+    40.814543,
+    -96.701083,
+    40.814543
+],
+  "geometry": {"coordinates":[-96.701083,40.814543],"type":"Point"}
+}

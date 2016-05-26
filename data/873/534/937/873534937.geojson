@@ -1,0 +1,85 @@
+{
+  "id": 873534937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.92335,41.154331,-95.92335,41.154331",
+    "geom:latitude":41.154331,
+    "geom:longitude":-95.92335,
+    "iso:country":"US",
+    "sg:address":"2104 Harvell Cir",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 505 7100",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "web",
+        "internet",
+        "design",
+        "hosting",
+        "site"
+    ],
+    "sg:website":"www.bellevue.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85821583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5GV3ts4gnSnUMgSqK0u3rj_41.154331_-95.923350@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294203,
+    "wof:geomhash":"b7aef1fd2593f7bc2800222e24597c54",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85821583,
+            "region_id":85688563,
+            "venue_id":873534937
+        }
+    ],
+    "wof:id":873534937,
+    "wof:lastmodified":1464294203,
+    "wof:name":"Bellevue Data Communications",
+    "wof:parent_id":85821583,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "web",
+        "internet",
+        "design",
+        "hosting",
+        "site"
+    ]
+},
+  "bbox": [
+    -95.92335,
+    41.154331,
+    -95.92335,
+    41.154331
+],
+  "geometry": {"coordinates":[-95.92335,41.154331],"type":"Point"}
+}

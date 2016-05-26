@@ -1,0 +1,71 @@
+{
+  "id": 873947183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.957113,41.256737,-95.957113,41.256737",
+    "geom:latitude":41.256737,
+    "geom:longitude":-95.957113,
+    "iso:country":"US",
+    "sg:address":"3024 Harney St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 536 3000",
+    "sg:postcode":"68131",
+    "sg:province":"NE",
+    "sg:website":"www.nationalindemnity.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872525,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4xqGC4InVIGT4uo83kuypo_41.256737_-95.957113@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464301014,
+    "wof:geomhash":"945f48f3b26b333cf7b7949ddd93a63f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872525,
+            "region_id":85688563,
+            "venue_id":873947183
+        }
+    ],
+    "wof:id":873947183,
+    "wof:lastmodified":1464301014,
+    "wof:name":"National Indemnity Co",
+    "wof:parent_id":85872525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -95.957113,
+    41.256737,
+    -95.957113,
+    41.256737
+],
+  "geometry": {"coordinates":[-95.95711300000001,41.256737],"type":"Point"}
+}

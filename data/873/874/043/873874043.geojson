@@ -1,0 +1,69 @@
+{
+  "id": 873874043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.047715,41.137645,-96.047715,41.137645",
+    "geom:latitude":41.137645,
+    "geom:longitude":-96.047715,
+    "iso:country":"US",
+    "sg:address":"401 W Gold Coast Rd",
+    "sg:city":"Papillion",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 592 5567",
+    "sg:postcode":"68046",
+    "sg:province":"NE",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85843697,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5pM7OtG2mbrMb0KoPFNqpQ_41.137645_-96.047715@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299316,
+    "wof:geomhash":"737aef56959c1005934cbbdaf1e77bc6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85843697,
+            "region_id":85688563,
+            "venue_id":873874043
+        }
+    ],
+    "wof:id":873874043,
+    "wof:lastmodified":1464299316,
+    "wof:name":"Urology Center PC",
+    "wof:parent_id":85843697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -96.047715,
+    41.137645,
+    -96.047715,
+    41.137645
+],
+  "geometry": {"coordinates":[-96.047715,41.137645],"type":"Point"}
+}

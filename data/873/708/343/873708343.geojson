@@ -1,0 +1,75 @@
+{
+  "id": 873708343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.626458,40.810143,-96.626458,40.810143",
+    "geom:latitude":40.810143,
+    "geom:longitude":-96.626458,
+    "iso:country":"US",
+    "sg:address":"6900 L St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 484 8131",
+    "sg:postcode":"68510",
+    "sg:province":"NE",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878725,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2iSkH7LmqYU4FL6eYB01o7_40.810143_-96.626458@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296499,
+    "wof:geomhash":"d3bb225f804eda89fc1ad3122540dc03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878725,
+            "region_id":85688563,
+            "venue_id":873708343
+        }
+    ],
+    "wof:id":873708343,
+    "wof:lastmodified":1464296499,
+    "wof:name":"Nebraska Stroke Foundation",
+    "wof:parent_id":85878725,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -96.626458,
+    40.810143,
+    -96.626458,
+    40.810143
+],
+  "geometry": {"coordinates":[-96.626458,40.810143],"type":"Point"}
+}

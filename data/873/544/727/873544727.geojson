@@ -1,0 +1,71 @@
+{
+  "id": 873544727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.040106,41.137402,-96.040106,41.137402",
+    "geom:latitude":41.137402,
+    "geom:longitude":-96.040106,
+    "iso:country":"US",
+    "sg:address":"401 E Gold Coast Rd",
+    "sg:city":"Papillion",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 934 9323",
+    "sg:postcode":"68046",
+    "sg:province":"NE",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85843697,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3S2FfWwArzhKyL3kJpXecf_41.137402_-96.040106@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294313,
+    "wof:geomhash":"c1c07d16e09cdab5b825d350a1a065db",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85843697,
+            "region_id":85688563,
+            "venue_id":873544727
+        }
+    ],
+    "wof:id":873544727,
+    "wof:lastmodified":1464294313,
+    "wof:name":"Janet Grange PC",
+    "wof:parent_id":85843697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -96.040106,
+    41.137402,
+    -96.040106,
+    41.137402
+],
+  "geometry": {"coordinates":[-96.04010599999999,41.137402],"type":"Point"}
+}

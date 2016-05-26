@@ -1,0 +1,71 @@
+{
+  "id": 873829545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.901625,41.146169,-95.901625,41.146169",
+    "geom:latitude":41.146169,
+    "geom:longitude":-95.901625,
+    "iso:country":"US",
+    "sg:address":"1402 Freeman Dr",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 291 0303",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "agency"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85804025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5PPfRl6S2VQPG5LW5CjsxQ_41.146169_-95.901625@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298323,
+    "wof:geomhash":"cb8f425fb368eb5f920394ce62cd9bc3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85804025,
+            "region_id":85688563,
+            "venue_id":873829545
+        }
+    ],
+    "wof:id":873829545,
+    "wof:lastmodified":1464298323,
+    "wof:name":"Alyiska Travel Service",
+    "wof:parent_id":85804025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency"
+    ]
+},
+  "bbox": [
+    -95.901625,
+    41.146169,
+    -95.901625,
+    41.146169
+],
+  "geometry": {"coordinates":[-95.901625,41.146169],"type":"Point"}
+}

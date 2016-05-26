@@ -1,0 +1,75 @@
+{
+  "id": 873671379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.947096,41.2805,-95.947096,41.2805",
+    "geom:latitude":41.2805,
+    "geom:longitude":-95.947096,
+    "iso:country":"US",
+    "sg:address":"2314 N 24th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 342 3776",
+    "sg:postcode":"68110",
+    "sg:province":"NE",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872525,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1puq9OTiulQPx86y2Quols_41.280500_-95.947096@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295815,
+    "wof:geomhash":"43a016115c91425c956cd8693fe9f392",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872525,
+            "region_id":85688563,
+            "venue_id":873671379
+        }
+    ],
+    "wof:id":873671379,
+    "wof:lastmodified":1464295815,
+    "wof:name":"Headz Up Barber Shop",
+    "wof:parent_id":85872525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -95.947096,
+    41.2805,
+    -95.947096,
+    41.2805
+],
+  "geometry": {"coordinates":[-95.947096,41.2805],"type":"Point"}
+}

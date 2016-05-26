@@ -1,0 +1,74 @@
+{
+  "id": 873977001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.722948,40.865934,-96.722948,40.865934",
+    "geom:latitude":40.865934,
+    "geom:longitude":-96.722948,
+    "iso:country":"US",
+    "sg:address":"5533 NW 1st St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ne/lincoln/129542-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 477 2550",
+    "sg:postcode":"68521",
+    "sg:province":"NE",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Sa9tN3GtHMx42KxooUGum_40.865934_-96.722948@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464302261,
+    "wof:geomhash":"170afcca2a608cead439a2442a9681f6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878717,
+            "region_id":85688563,
+            "venue_id":873977001
+        }
+    ],
+    "wof:id":873977001,
+    "wof:lastmodified":1464302261,
+    "wof:name":"Subway",
+    "wof:parent_id":85878717,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -96.722948,
+    40.865934,
+    -96.722948,
+    40.865934
+],
+  "geometry": {"coordinates":[-96.722948,40.865934],"type":"Point"}
+}

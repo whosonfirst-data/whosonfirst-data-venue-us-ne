@@ -1,0 +1,72 @@
+{
+  "id": 873977003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.682059,40.865109,-96.682059,40.865109",
+    "geom:latitude":40.865109,
+    "geom:longitude":-96.682059,
+    "iso:country":"US",
+    "sg:address":"5353 N 27th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ne/lincoln/10696-beacon-hills/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 476 5300",
+    "sg:postcode":"68521",
+    "sg:province":"NE",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_45pnERi617ZxdcAmGBu0Fj_40.865109_-96.682059@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464302261,
+    "wof:geomhash":"c82b9ff8ab0f5a477a97a8a5e7f125e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878687,
+            "region_id":85688563,
+            "venue_id":873977003
+        }
+    ],
+    "wof:id":873977003,
+    "wof:lastmodified":1464302261,
+    "wof:name":"Beacon Hills",
+    "wof:parent_id":85878687,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -96.682059,
+    40.865109,
+    -96.682059,
+    40.865109
+],
+  "geometry": {"coordinates":[-96.682059,40.865109],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 873688747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.133776,41.232983,-96.133776,41.232983",
+    "geom:latitude":41.232983,
+    "geom:longitude":-96.133776,
+    "iso:country":"US",
+    "sg:address":"2725 S 140th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Advertising",
+            "type":"Services"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 697 9009",
+    "sg:postcode":"68144",
+    "sg:province":"NE",
+    "sg:tags":[
+        "printer",
+        "mailing",
+        "shipping"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872531,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_76DOg1lS6rKRKpAxCg9lPy_41.232983_-96.133776@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296242,
+    "wof:geomhash":"3b49bfe7d00557a71597cd415bdfd4c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872531,
+            "region_id":85688563,
+            "venue_id":873688747
+        }
+    ],
+    "wof:id":873688747,
+    "wof:lastmodified":1464296242,
+    "wof:name":"Fed Ex Kinko's Ofc & Print Ctr",
+    "wof:parent_id":85872531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "printer",
+        "mailing",
+        "shipping"
+    ]
+},
+  "bbox": [
+    -96.133776,
+    41.232983,
+    -96.133776,
+    41.232983
+],
+  "geometry": {"coordinates":[-96.133776,41.232983],"type":"Point"}
+}

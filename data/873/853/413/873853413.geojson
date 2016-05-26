@@ -1,0 +1,87 @@
+{
+  "id": 873853413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.984365,41.268011,-95.984365,41.268011",
+    "geom:latitude":41.268011,
+    "geom:longitude":-95.984365,
+    "iso:country":"US",
+    "sg:address":"4614 Cuming St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 551 6622",
+    "sg:postcode":"68132",
+    "sg:province":"NE",
+    "sg:tags":[
+        "industrial",
+        "jewelry",
+        "mfg",
+        "die",
+        "engraves",
+        "mold",
+        "maker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867055,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6nJyNaCqefYv1UFeP1wamu_41.268011_-95.984365@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298885,
+    "wof:geomhash":"248857e1696eaa876f07d994c42e8764",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85867055,
+            "region_id":85688563,
+            "venue_id":873853413
+        }
+    ],
+    "wof:id":873853413,
+    "wof:lastmodified":1464298885,
+    "wof:name":"Herman Engraving Company",
+    "wof:parent_id":85867055,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industrial",
+        "jewelry",
+        "mfg",
+        "die",
+        "engraves",
+        "mold",
+        "maker"
+    ]
+},
+  "bbox": [
+    -95.984365,
+    41.268011,
+    -95.984365,
+    41.268011
+],
+  "geometry": {"coordinates":[-95.984365,41.268011],"type":"Point"}
+}

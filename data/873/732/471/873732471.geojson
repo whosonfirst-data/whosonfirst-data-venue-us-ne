@@ -1,0 +1,71 @@
+{
+  "id": 873732471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.638337,40.872545,-96.638337,40.872545",
+    "geom:latitude":40.872545,
+    "geom:longitude":-96.638337,
+    "iso:country":"US",
+    "sg:address":"6100 N 60th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Scrap",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 464 5348",
+    "sg:postcode":"68507",
+    "sg:province":"NE",
+    "sg:tags":[
+        "waste"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85824241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4JS4ToKuA8HQmQFCTrZou5_40.872545_-96.638337@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296809,
+    "wof:geomhash":"7fe9a070fc049c49b723c4a62ac1a55f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85824241,
+            "region_id":85688563,
+            "venue_id":873732471
+        }
+    ],
+    "wof:id":873732471,
+    "wof:lastmodified":1464296809,
+    "wof:name":"Stericycle Corp",
+    "wof:parent_id":85824241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "waste"
+    ]
+},
+  "bbox": [
+    -96.638337,
+    40.872545,
+    -96.638337,
+    40.872545
+],
+  "geometry": {"coordinates":[-96.63833700000001,40.872545],"type":"Point"}
+}

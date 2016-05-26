@@ -1,0 +1,71 @@
+{
+  "id": 873895525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.926952,41.153486,-95.926952,41.153486",
+    "geom:latitude":41.153486,
+    "geom:longitude":-95.926952,
+    "iso:country":"US",
+    "sg:address":"812 Fort Crook Rd S",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Boat Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 293 1131",
+    "sg:postcode":"68123",
+    "sg:province":"NE",
+    "sg:tags":[
+        "marina"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85821583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6vEBvHfGZMzsQc8B1YmGbx_41.153486_-95.926952@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299730,
+    "wof:geomhash":"b61bbdc5611f0e7bb693b508fc346fab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85821583,
+            "region_id":85688563,
+            "venue_id":873895525
+        }
+    ],
+    "wof:id":873895525,
+    "wof:lastmodified":1464299730,
+    "wof:name":"Midwest Performance Boat Sales",
+    "wof:parent_id":85821583,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "marina"
+    ]
+},
+  "bbox": [
+    -95.926952,
+    41.153486,
+    -95.926952,
+    41.153486
+],
+  "geometry": {"coordinates":[-95.926952,41.153486],"type":"Point"}
+}

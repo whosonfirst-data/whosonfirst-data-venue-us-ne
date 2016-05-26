@@ -1,0 +1,71 @@
+{
+  "id": 873681919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.694027,40.752438,-96.694027,40.752438",
+    "geom:latitude":40.752438,
+    "geom:longitude":-96.694027,
+    "iso:country":"US",
+    "sg:address":"6001 Fieldcrest Way",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 486 4380",
+    "sg:postcode":"68512",
+    "sg:province":"NE",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0WJZpdQL4AL4a3HwC8p514_40.752438_-96.694027@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296051,
+    "wof:geomhash":"0e9ed7e7a28488ddd8feffeed0269183",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878709,
+            "region_id":85688563,
+            "venue_id":873681919
+        }
+    ],
+    "wof:id":873681919,
+    "wof:lastmodified":1464296051,
+    "wof:name":"Merlyn Vogt DDS",
+    "wof:parent_id":85878709,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -96.694027,
+    40.752438,
+    -96.694027,
+    40.752438
+],
+  "geometry": {"coordinates":[-96.69402700000001,40.752438],"type":"Point"}
+}

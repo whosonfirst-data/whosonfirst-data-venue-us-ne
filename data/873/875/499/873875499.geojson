@@ -1,0 +1,75 @@
+{
+  "id": 873875499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.705638,40.806346,-96.705638,40.806346",
+    "geom:latitude":40.806346,
+    "geom:longitude":-96.705638,
+    "iso:country":"US",
+    "sg:address":"745 S 11th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 434 7090",
+    "sg:postcode":"68508",
+    "sg:province":"NE",
+    "sg:tags":[
+        "italian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878705,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Ku8uqIWbxdGOBrM3cPiki_40.806346_-96.705638@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299345,
+    "wof:geomhash":"6150aa876285fcc87040524f348864d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878705,
+            "region_id":85688563,
+            "venue_id":873875499
+        }
+    ],
+    "wof:id":873875499,
+    "wof:lastmodified":1464299345,
+    "wof:name":"Davinci S Pizza",
+    "wof:parent_id":85878705,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "italian"
+    ]
+},
+  "bbox": [
+    -96.705638,
+    40.806346,
+    -96.705638,
+    40.806346
+],
+  "geometry": {"coordinates":[-96.70563799999999,40.806346],"type":"Point"}
+}

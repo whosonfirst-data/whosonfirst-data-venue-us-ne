@@ -1,0 +1,73 @@
+{
+  "id": 873760063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.916426,41.149741,-95.916426,41.149741",
+    "geom:latitude":41.149741,
+    "geom:longitude":-95.916426,
+    "iso:country":"US",
+    "sg:address":"1021 Galvin Rd S",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 291 7377",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "video",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85821583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2KpSqATHdtA2cjOUqpfU2j_41.149741_-95.916426@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297207,
+    "wof:geomhash":"70d632db9ddbef193c6ce22fac6f1f35",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85821583,
+            "region_id":85688563,
+            "venue_id":873760063
+        }
+    ],
+    "wof:id":873760063,
+    "wof:lastmodified":1464297207,
+    "wof:name":"Blockbuster",
+    "wof:parent_id":85821583,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "video",
+        "tape"
+    ]
+},
+  "bbox": [
+    -95.916426,
+    41.149741,
+    -95.916426,
+    41.149741
+],
+  "geometry": {"coordinates":[-95.916426,41.149741],"type":"Point"}
+}

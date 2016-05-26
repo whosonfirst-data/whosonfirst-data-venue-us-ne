@@ -1,0 +1,73 @@
+{
+  "id": 873959829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.134699,41.170576,-96.134699,41.170576",
+    "geom:latitude":41.170576,
+    "geom:longitude":-96.134699,
+    "iso:country":"US",
+    "sg:address":"8907 S 142nd Avenue Cir",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 614 1819",
+    "sg:postcode":"68138",
+    "sg:province":"NE",
+    "sg:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85834285,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4CfFHtcp9YlZhQku3e0gmx_41.170576_-96.134699@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464301521,
+    "wof:geomhash":"eabbc20980e32b215ea0e7b93a17f5b9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85834285,
+            "region_id":85688563,
+            "venue_id":873959829
+        }
+    ],
+    "wof:id":873959829,
+    "wof:lastmodified":1464301521,
+    "wof:name":"Dog Grooming By Stacie",
+    "wof:parent_id":85834285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ]
+},
+  "bbox": [
+    -96.134699,
+    41.170576,
+    -96.134699,
+    41.170576
+],
+  "geometry": {"coordinates":[-96.134699,41.170576],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 873908419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.593553,40.733193,-96.593553,40.733193",
+    "geom:latitude":40.733193,
+    "geom:longitude":-96.593553,
+    "iso:country":"US",
+    "sg:address":"8900 Andermatt Dr",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 489 8155",
+    "sg:postcode":"68526",
+    "sg:province":"NE",
+    "sg:tags":[
+        "center"
+    ],
+    "sg:website":"www.menards.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7k2yoYFZoUt9Kyy3mSsAtt_40.733193_-96.593553@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299983,
+    "wof:geomhash":"8de233cfb0f9daaf11bf57bf81931c1a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878685,
+            "region_id":85688563,
+            "venue_id":873908419
+        }
+    ],
+    "wof:id":873908419,
+    "wof:lastmodified":1464299983,
+    "wof:name":"Menards",
+    "wof:parent_id":85878685,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "center"
+    ]
+},
+  "bbox": [
+    -96.593553,
+    40.733193,
+    -96.593553,
+    40.733193
+],
+  "geometry": {"coordinates":[-96.593553,40.733193],"type":"Point"}
+}

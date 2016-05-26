@@ -1,0 +1,76 @@
+{
+  "id": 873913021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.89861,41.152832,-95.89861,41.152832",
+    "geom:latitude":41.152832,
+    "geom:longitude":-95.89861,
+    "iso:country":"US",
+    "sg:address":"836 Hidden Hills Dr",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 292 2300",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "appraiser"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85804025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1lhCJ5V9BXtVNF5ddqo1ks_41.152832_-95.898610@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300069,
+    "wof:geomhash":"1cda8df3abb65753205010111bfd0034",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85804025,
+            "region_id":85688563,
+            "venue_id":873913021
+        }
+    ],
+    "wof:id":873913021,
+    "wof:lastmodified":1464300069,
+    "wof:name":"Appraisal Associates Of Omaha",
+    "wof:parent_id":85804025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appraiser"
+    ]
+},
+  "bbox": [
+    -95.89861,
+    41.152832,
+    -95.89861,
+    41.152832
+],
+  "geometry": {"coordinates":[-95.89861000000001,41.152832],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873923813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.682217,40.856216,-96.682217,40.856216",
+    "geom:latitude":40.856216,
+    "geom:longitude":-96.682217,
+    "iso:country":"US",
+    "sg:address":"4411 N 27th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 435 6222",
+    "sg:postcode":"68521",
+    "sg:province":"NE",
+    "sg:website":"www.gasnshop.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878721,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ZbyFO4QKfuFPlvQO09U9q_40.856216_-96.682217@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300285,
+    "wof:geomhash":"d44d40575762a8184643a0ab2a265311",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878721,
+            "region_id":85688563,
+            "venue_id":873923813
+        }
+    ],
+    "wof:id":873923813,
+    "wof:lastmodified":1464300285,
+    "wof:name":"Gas 'n Shop",
+    "wof:parent_id":85878721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.682217,
+    40.856216,
+    -96.682217,
+    40.856216
+],
+  "geometry": {"coordinates":[-96.68221699999999,40.856216],"type":"Point"}
+}

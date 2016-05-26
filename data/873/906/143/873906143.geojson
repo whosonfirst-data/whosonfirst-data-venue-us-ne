@@ -1,0 +1,69 @@
+{
+  "id": 873906143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.078324,41.339202,-96.078324,41.339202",
+    "geom:latitude":41.339202,
+    "geom:longitude":-96.078324,
+    "iso:country":"US",
+    "sg:address":"10607 Bondesson Cir",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Chemicals & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 571 5911",
+    "sg:postcode":"68122",
+    "sg:province":"NE",
+    "sg:tags":[
+        "oxygen"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85872505,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4qwhSZKHnMcwoIAQi1I2ua_41.339202_-96.078324@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299943,
+    "wof:geomhash":"b06724f93cf090d737ad4804b6975ec1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":873906143
+        }
+    ],
+    "wof:id":873906143,
+    "wof:lastmodified":1464299943,
+    "wof:name":"Oxygen Specialists",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oxygen"
+    ]
+},
+  "bbox": [
+    -96.078324,
+    41.339202,
+    -96.078324,
+    41.339202
+],
+  "geometry": {"coordinates":[-96.07832399999999,41.339202],"type":"Point"}
+}

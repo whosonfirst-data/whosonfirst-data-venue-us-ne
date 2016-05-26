@@ -1,0 +1,73 @@
+{
+  "id": 873844275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.894539,41.124083,-95.894539,41.124083",
+    "geom:latitude":41.124083,
+    "geom:longitude":-95.894539,
+    "iso:country":"US",
+    "sg:address":"103 E 34th Ave",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 291 7467",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974747,
+        102082777,
+        85820061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_36T4ot4kg2fle2F5u7rLir_41.124083_-95.894539@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298663,
+    "wof:geomhash":"ee0e9badc5b0a7ac09dd053d342f5284",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974747,
+            "neighbourhood_id":85820061,
+            "region_id":85688563,
+            "venue_id":873844275
+        }
+    ],
+    "wof:id":873844275,
+    "wof:lastmodified":1464298663,
+    "wof:name":"Vaida Construction Co",
+    "wof:parent_id":85820061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -95.894539,
+    41.124083,
+    -95.894539,
+    41.124083
+],
+  "geometry": {"coordinates":[-95.89453899999999,41.124083],"type":"Point"}
+}

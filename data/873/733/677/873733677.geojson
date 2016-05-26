@@ -1,0 +1,73 @@
+{
+  "id": 873733677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.909151,41.141158,-95.909151,41.141158",
+    "geom:latitude":41.141158,
+    "geom:longitude":-95.909151,
+    "iso:country":"US",
+    "sg:address":"1812 Galvin Rd S",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 291 4769",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "automobile",
+        "parts"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974747,
+        102082777,
+        85820061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0J8rzDbpgekE2B7KbN3m6r_41.141158_-95.909151@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296823,
+    "wof:geomhash":"a5fb064ffdacb37d715a50dbcc975b24",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974747,
+            "neighbourhood_id":85820061,
+            "region_id":85688563,
+            "venue_id":873733677
+        }
+    ],
+    "wof:id":873733677,
+    "wof:lastmodified":1464296823,
+    "wof:name":"O'Reilly Auto Parts",
+    "wof:parent_id":85820061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "parts"
+    ]
+},
+  "bbox": [
+    -95.909151,
+    41.141158,
+    -95.909151,
+    41.141158
+],
+  "geometry": {"coordinates":[-95.90915099999999,41.141158],"type":"Point"}
+}

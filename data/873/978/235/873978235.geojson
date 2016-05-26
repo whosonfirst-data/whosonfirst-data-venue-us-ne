@@ -1,0 +1,76 @@
+{
+  "id": 873978235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.681526,40.845214,-96.681526,40.845214",
+    "geom:latitude":40.845214,
+    "geom:longitude":-96.681526,
+    "iso:country":"US",
+    "sg:address":"3310 N 27th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ne/lincoln/204899-taco-bell/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 466 0550",
+    "sg:postcode":"68521",
+    "sg:province":"NE",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878721,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6jlXFdMHhpjjxHuvSS8O7V_40.845309_-96.681975@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464302305,
+    "wof:geomhash":"0066ce46203f2b126b923af79a8f8dc2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878721,
+            "region_id":85688563,
+            "venue_id":873978235
+        }
+    ],
+    "wof:id":873978235,
+    "wof:lastmodified":1464302305,
+    "wof:name":"Taco Bell",
+    "wof:parent_id":85878721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -96.681526,
+    40.845214,
+    -96.681526,
+    40.845214
+],
+  "geometry": {"coordinates":[-96.68152600000001,40.845214],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 873820609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.626401,40.798989,-96.626401,40.798989",
+    "geom:latitude":40.798989,
+    "geom:longitude":-96.626401,
+    "iso:country":"US",
+    "sg:address":"6900 A St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 436 2000",
+    "sg:postcode":"68510",
+    "sg:province":"NE",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "sg:website":"www.ortholinc.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878703,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1kofPBiUHty5UQs35UgKLa_40.798989_-96.626401@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298131,
+    "wof:geomhash":"8a6c7f8ae0a3d6b8a2c9b32010452c71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878703,
+            "region_id":85688563,
+            "venue_id":873820609
+        }
+    ],
+    "wof:id":873820609,
+    "wof:lastmodified":1464298131,
+    "wof:name":"Lincoln Orthopaedic Ctr",
+    "wof:parent_id":85878703,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -96.626401,
+    40.798989,
+    -96.626401,
+    40.798989
+],
+  "geometry": {"coordinates":[-96.626401,40.798989],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873859249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.645114,40.856581,-96.645114,40.856581",
+    "geom:latitude":40.856581,
+    "geom:longitude":-96.645114,
+    "iso:country":"US",
+    "sg:address":"4821 Cornhusker Hwy",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 944 7010",
+    "sg:postcode":"68504",
+    "sg:province":"NE",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85824241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3RpWy2oyhGenfzEotNAcqg_40.856581_-96.645114@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299002,
+    "wof:geomhash":"881f62bb93a92fd7fab0c8ce1c1a611b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85824241,
+            "region_id":85688563,
+            "venue_id":873859249
+        }
+    ],
+    "wof:id":873859249,
+    "wof:lastmodified":1464299002,
+    "wof:name":"J & J Auto Sales",
+    "wof:parent_id":85824241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -96.645114,
+    40.856581,
+    -96.645114,
+    40.856581
+],
+  "geometry": {"coordinates":[-96.64511400000001,40.856581],"type":"Point"}
+}

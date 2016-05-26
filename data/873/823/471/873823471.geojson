@@ -1,0 +1,77 @@
+{
+  "id": 873823471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.720614,40.79571,-96.720614,40.79571",
+    "geom:latitude":40.79571,
+    "geom:longitude":-96.720614,
+    "iso:country":"US",
+    "sg:address":"1600 S 1st St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 435 2034",
+    "sg:postcode":"68502",
+    "sg:province":"NE",
+    "sg:tags":[
+        "machine",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878737,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5wgPxAAHXiILt4ll5Pqqxm_40.795710_-96.720614@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298199,
+    "wof:geomhash":"e867ad9c6a30e3ecfbf114e366182214",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878737,
+            "region_id":85688563,
+            "venue_id":873823471
+        }
+    ],
+    "wof:id":873823471,
+    "wof:lastmodified":1464298199,
+    "wof:name":"Capital Machine",
+    "wof:parent_id":85878737,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "shop"
+    ]
+},
+  "bbox": [
+    -96.720614,
+    40.79571,
+    -96.720614,
+    40.79571
+],
+  "geometry": {"coordinates":[-96.720614,40.79571],"type":"Point"}
+}

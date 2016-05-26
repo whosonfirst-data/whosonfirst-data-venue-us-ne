@@ -1,0 +1,71 @@
+{
+  "id": 873853943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.044473,41.15342,-96.044473,41.15342",
+    "geom:latitude":41.15342,
+    "geom:longitude":-96.044473,
+    "iso:country":"US",
+    "sg:address":"245 W Grant St",
+    "sg:city":"Papillion",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 331 5586",
+    "sg:postcode":"68046",
+    "sg:province":"NE",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85843697,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1OaOa3th6Gqg4YBeIpLF0O_41.153420_-96.044473@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298895,
+    "wof:geomhash":"48bc02e209cd1257240ea21479d43d56",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85843697,
+            "region_id":85688563,
+            "venue_id":873853943
+        }
+    ],
+    "wof:id":873853943,
+    "wof:lastmodified":1464298895,
+    "wof:name":"Steve Haffke Plumbing Inc",
+    "wof:parent_id":85843697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.044473,
+    41.15342,
+    -96.044473,
+    41.15342
+],
+  "geometry": {"coordinates":[-96.044473,41.15342],"type":"Point"}
+}

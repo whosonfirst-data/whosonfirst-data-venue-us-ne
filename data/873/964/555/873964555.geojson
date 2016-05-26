@@ -1,0 +1,71 @@
+{
+  "id": 873964555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.655413,40.742816,-96.655413,40.742816",
+    "geom:latitude":40.742816,
+    "geom:longitude":-96.655413,
+    "iso:country":"US",
+    "sg:address":"4616 Happy Hollow Ct",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 423 0053",
+    "sg:postcode":"68516",
+    "sg:province":"NE",
+    "sg:tags":[
+        "paint"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Ea8IE9AXQk4Qv57aUZLr5_40.742816_-96.655413@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464301769,
+    "wof:geomhash":"6e51dd054086a1f506f4f0c56ba9c3a4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878733,
+            "region_id":85688563,
+            "venue_id":873964555
+        }
+    ],
+    "wof:id":873964555,
+    "wof:lastmodified":1464301769,
+    "wof:name":"Danley's Paint & Decor",
+    "wof:parent_id":85878733,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paint"
+    ]
+},
+  "bbox": [
+    -96.655413,
+    40.742816,
+    -96.655413,
+    40.742816
+],
+  "geometry": {"coordinates":[-96.655413,40.742816],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 873744055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.015308,41.317555,-96.015308,41.317555",
+    "geom:latitude":41.317555,
+    "geom:longitude":-96.015308,
+    "iso:country":"US",
+    "sg:address":"6659 Sorensen Pkwy",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Podiatrist",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 572 0423",
+    "sg:postcode":"68152",
+    "sg:province":"NE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85805755,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_59YEowpIUHxHmfchPVMQ26_41.317555_-96.015308@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296994,
+    "wof:geomhash":"466a1cd2c338a613e0be0db0f7c0b884",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85805755,
+            "region_id":85688563,
+            "venue_id":873744055
+        }
+    ],
+    "wof:id":873744055,
+    "wof:lastmodified":1464296994,
+    "wof:name":"Omaha Foot Care Ctr",
+    "wof:parent_id":85805755,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.015308,
+    41.317555,
+    -96.015308,
+    41.317555
+],
+  "geometry": {"coordinates":[-96.015308,41.317555],"type":"Point"}
+}

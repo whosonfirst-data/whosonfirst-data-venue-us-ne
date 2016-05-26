@@ -1,0 +1,71 @@
+{
+  "id": 873808543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.913685,41.150172,-95.913685,41.150172",
+    "geom:latitude":41.150172,
+    "geom:longitude":-95.913685,
+    "iso:country":"US",
+    "sg:address":"1009 Birchcrest Rd",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 292 8830",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "catering"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85821583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3WVrkZVRVSV2DgnUI7i0z9_41.150172_-95.913685@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297900,
+    "wof:geomhash":"85d53684c00fe710c9aaf8d8058ef09d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85821583,
+            "region_id":85688563,
+            "venue_id":873808543
+        }
+    ],
+    "wof:id":873808543,
+    "wof:lastmodified":1464297900,
+    "wof:name":"Michelle Ging",
+    "wof:parent_id":85821583,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "catering"
+    ]
+},
+  "bbox": [
+    -95.913685,
+    41.150172,
+    -95.913685,
+    41.150172
+],
+  "geometry": {"coordinates":[-95.913685,41.150172],"type":"Point"}
+}

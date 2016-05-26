@@ -1,0 +1,75 @@
+{
+  "id": 873697457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.647688,40.786539,-96.647688,40.786539",
+    "geom:latitude":40.786539,
+    "geom:longitude":-96.647688,
+    "iso:country":"US",
+    "sg:address":"2538 S 53rd St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 202 0033",
+    "sg:postcode":"68506",
+    "sg:province":"NE",
+    "sg:tags":[
+        "limousine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85811821,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0pu1rqdC1SqvYi039krm7V_40.786539_-96.647688@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296379,
+    "wof:geomhash":"c1b96dd878dd265d7910d36d7fa271e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85811821,
+            "region_id":85688563,
+            "venue_id":873697457
+        }
+    ],
+    "wof:id":873697457,
+    "wof:lastmodified":1464296379,
+    "wof:name":"Your Own Limousine",
+    "wof:parent_id":85811821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "limousine"
+    ]
+},
+  "bbox": [
+    -96.647688,
+    40.786539,
+    -96.647688,
+    40.786539
+],
+  "geometry": {"coordinates":[-96.647688,40.786539],"type":"Point"}
+}

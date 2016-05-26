@@ -1,0 +1,71 @@
+{
+  "id": 873889925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.928171,41.162447,-95.928171,41.162447",
+    "geom:latitude":41.162447,
+    "geom:longitude":-95.928171,
+    "iso:country":"US",
+    "sg:address":"9909 S 9th Cir",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 291 3153",
+    "sg:postcode":"68123",
+    "sg:province":"NE",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85821583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Gn6zT8u0BCmTEuzF9sUn2_41.162447_-95.928171@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299630,
+    "wof:geomhash":"10af56ecf34881207659e2751e7b1acb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85821583,
+            "region_id":85688563,
+            "venue_id":873889925
+        }
+    ],
+    "wof:id":873889925,
+    "wof:lastmodified":1464299630,
+    "wof:name":"Sunshine Cleaning Services",
+    "wof:parent_id":85821583,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -95.928171,
+    41.162447,
+    -95.928171,
+    41.162447
+],
+  "geometry": {"coordinates":[-95.92817100000001,41.162447],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 873713895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.896503,41.137088,-95.896503,41.137088",
+    "geom:latitude":41.137088,
+    "geom:longitude":-95.896503,
+    "iso:country":"US",
+    "sg:address":"2202 Washington St",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 293 4260",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:website":"www.bellevuepublicschools.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974747,
+        102082777,
+        85820061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3xmacHuwjHwwbps5GLWqdI_41.137088_-95.896503@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296567,
+    "wof:geomhash":"d2d472f4cb3ee5cb481e7faf73677d40",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974747,
+            "neighbourhood_id":85820061,
+            "region_id":85688563,
+            "venue_id":873713895
+        }
+    ],
+    "wof:id":873713895,
+    "wof:lastmodified":1464296567,
+    "wof:name":"Mission Middle School",
+    "wof:parent_id":85820061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -95.896503,
+    41.137088,
+    -95.896503,
+    41.137088
+],
+  "geometry": {"coordinates":[-95.896503,41.137088],"type":"Point"}
+}

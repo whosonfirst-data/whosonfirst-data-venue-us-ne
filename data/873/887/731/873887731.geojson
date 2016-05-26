@@ -1,0 +1,71 @@
+{
+  "id": 873887731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.624389,40.842529,-96.624389,40.842529",
+    "geom:latitude":40.842529,
+    "geom:longitude":-96.624389,
+    "iso:country":"US",
+    "sg:address":"7100 Adams St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 436 3449",
+    "sg:postcode":"68507",
+    "sg:province":"NE",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85824241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3QCiPk8Rivo0LAH4j6bZMV_40.842529_-96.624389@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299586,
+    "wof:geomhash":"3dc989905a9f7c0df33b6e5ddd52e94c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85824241,
+            "region_id":85688563,
+            "venue_id":873887731
+        }
+    ],
+    "wof:id":873887731,
+    "wof:lastmodified":1464299586,
+    "wof:name":"Stonyridge Apartments",
+    "wof:parent_id":85824241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -96.624389,
+    40.842529,
+    -96.624389,
+    40.842529
+],
+  "geometry": {"coordinates":[-96.62438899999999,40.842529],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 873554361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.130976,41.297513,-96.130976,41.297513",
+    "geom:latitude":41.297513,
+    "geom:longitude":-96.130976,
+    "iso:country":"US",
+    "sg:address":"4270 N 139th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Organizations",
+            "subcategory":"Professional Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 493 4739",
+    "sg:postcode":"68164",
+    "sg:province":"NE",
+    "sg:tags":[
+        "profit"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872503,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4m0kH6YPDHjVeq1r6aZ5F9_41.297513_-96.130976@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294428,
+    "wof:geomhash":"7d7f6507904147f58c617f778ae6ca38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872503,
+            "region_id":85688563,
+            "venue_id":873554361
+        }
+    ],
+    "wof:id":873554361,
+    "wof:lastmodified":1464294428,
+    "wof:name":"Omaha Restaurant Association",
+    "wof:parent_id":85872503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "profit"
+    ]
+},
+  "bbox": [
+    -96.130976,
+    41.297513,
+    -96.130976,
+    41.297513
+],
+  "geometry": {"coordinates":[-96.130976,41.297513],"type":"Point"}
+}

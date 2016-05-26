@@ -1,0 +1,77 @@
+{
+  "id": 873646921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.65373,40.780239,-96.65373,40.780239",
+    "geom:latitude":40.780239,
+    "geom:longitude":-96.65373,
+    "iso:country":"US",
+    "sg:address":"3312 S 48th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 489 0072",
+    "sg:postcode":"68506",
+    "sg:province":"NE",
+    "sg:tags":[
+        "home",
+        "care"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878735,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4OISEs2uncmWuDyiaUDyQI_40.780239_-96.653730@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295555,
+    "wof:geomhash":"a950e6e2c97b92822834131eb0c9c892",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878735,
+            "region_id":85688563,
+            "venue_id":873646921
+        }
+    ],
+    "wof:id":873646921,
+    "wof:lastmodified":1464295555,
+    "wof:name":"Lincolns Restorative Health S",
+    "wof:parent_id":85878735,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "care"
+    ]
+},
+  "bbox": [
+    -96.65373,
+    40.780239,
+    -96.65373,
+    40.780239
+],
+  "geometry": {"coordinates":[-96.65373,40.780239],"type":"Point"}
+}

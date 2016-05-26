@@ -1,0 +1,71 @@
+{
+  "id": 873559135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.737783,40.869061,-96.737783,40.869061",
+    "geom:latitude":40.869061,
+    "geom:longitude":-96.737783,
+    "iso:country":"US",
+    "sg:address":"5707 NW 12th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Vending Machines",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 435 0343",
+    "sg:postcode":"68523",
+    "sg:province":"NE",
+    "sg:tags":[
+        "operator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0rj4feEIHWw7tMI6bhEenS_40.869061_-96.737783@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294490,
+    "wof:geomhash":"63b07a69adbf62d060c85c86b229a9ab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878717,
+            "region_id":85688563,
+            "venue_id":873559135
+        }
+    ],
+    "wof:id":873559135,
+    "wof:lastmodified":1464294490,
+    "wof:name":"Premier Vendors",
+    "wof:parent_id":85878717,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator"
+    ]
+},
+  "bbox": [
+    -96.737783,
+    40.869061,
+    -96.737783,
+    40.869061
+],
+  "geometry": {"coordinates":[-96.73778299999999,40.869061],"type":"Point"}
+}

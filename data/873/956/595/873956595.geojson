@@ -1,0 +1,73 @@
+{
+  "id": 873956595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.676411,40.864657,-96.676411,40.864657",
+    "geom:latitude":40.864657,
+    "geom:longitude":-96.676411,
+    "iso:country":"US",
+    "sg:address":"2700 Folkways Blvd",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 438 0077",
+    "sg:postcode":"68504",
+    "sg:province":"NE",
+    "sg:tags":[
+        "tire",
+        "accessory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2XqNBehDsoQS22U7AFAJK0_40.864657_-96.676411@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464301392,
+    "wof:geomhash":"4c57ec234037e3f071b9312fa0b962ad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878687,
+            "region_id":85688563,
+            "venue_id":873956595
+        }
+    ],
+    "wof:id":873956595,
+    "wof:lastmodified":1464301392,
+    "wof:name":"T O Haas Tire",
+    "wof:parent_id":85878687,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tire",
+        "accessory"
+    ]
+},
+  "bbox": [
+    -96.676411,
+    40.864657,
+    -96.676411,
+    40.864657
+],
+  "geometry": {"coordinates":[-96.676411,40.864657],"type":"Point"}
+}

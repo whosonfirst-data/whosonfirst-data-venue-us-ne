@@ -1,0 +1,69 @@
+{
+  "id": 873891761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.643627,40.736447,-96.643627,40.736447",
+    "geom:latitude":40.736447,
+    "geom:longitude":-96.643627,
+    "iso:country":"US",
+    "sg:address":"7400 Crosslake Ln",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Hardware",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 420 5050",
+    "sg:postcode":"68516",
+    "sg:province":"NE",
+    "sg:tags":[
+        "refrigerating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85878745,
+        102083503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4QJQIiymGuBOIHUVZu24Nm_40.736447_-96.643627@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299661,
+    "wof:geomhash":"16c5bfda26a6d3b82f7bad8aac54fccd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "neighbourhood_id":85878745,
+            "region_id":85688563,
+            "venue_id":873891761
+        }
+    ],
+    "wof:id":873891761,
+    "wof:lastmodified":1464299661,
+    "wof:name":"Tech Masters",
+    "wof:parent_id":85878745,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "refrigerating"
+    ]
+},
+  "bbox": [
+    -96.643627,
+    40.736447,
+    -96.643627,
+    40.736447
+],
+  "geometry": {"coordinates":[-96.643627,40.736447],"type":"Point"}
+}

@@ -1,0 +1,87 @@
+{
+  "id": 873977863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.043102,41.232124,-96.043102,41.232124",
+    "geom:latitude":41.232124,
+    "geom:longitude":-96.043102,
+    "iso:country":"US",
+    "sg:address":"2916 S 84th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Deli",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ne/omaha/233116-little-king/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 397 7965",
+    "sg:postcode":"68124",
+    "sg:province":"NE",
+    "sg:tags":[
+        "deli",
+        "wrap",
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872511,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_62KAu7DT1BHp4wcpkm4Jt4_41.231747_-96.043171@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464302292,
+    "wof:geomhash":"7ba6f98d963f0ddb9b1a2038009a3d1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872511,
+            "region_id":85688563,
+            "venue_id":873977863
+        }
+    ],
+    "wof:id":873977863,
+    "wof:lastmodified":1464302292,
+    "wof:name":"Little King",
+    "wof:parent_id":85872511,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "deli",
+        "wrap",
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -96.043102,
+    41.232124,
+    -96.043102,
+    41.232124
+],
+  "geometry": {"coordinates":[-96.043102,41.232124],"type":"Point"}
+}

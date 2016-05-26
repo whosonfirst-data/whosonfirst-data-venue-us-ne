@@ -1,0 +1,71 @@
+{
+  "id": 873776909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.967401,41.189476,-95.967401,41.189476",
+    "geom:latitude":41.189476,
+    "geom:longitude":-95.967401,
+    "iso:country":"US",
+    "sg:address":"7001 S 36th St",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 731 1002",
+    "sg:postcode":"68147",
+    "sg:province":"NE",
+    "sg:website":"www.teambank-na.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85849923,
+        102191575,
+        404519143,
+        85633793,
+        85974545,
+        102082777,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6XSNWuNfoDiyaYoZM0lB6u_41.189476_-95.967401@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297449,
+    "wof:geomhash":"6372cb79c5dba9b5a1782830ddd99419",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082777,
+            "localadmin_id":404519143,
+            "locality_id":85974545,
+            "neighbourhood_id":85849923,
+            "region_id":85688563,
+            "venue_id":873776909
+        }
+    ],
+    "wof:id":873776909,
+    "wof:lastmodified":1464297449,
+    "wof:name":"Team Bank Na",
+    "wof:parent_id":85849923,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -95.967401,
+    41.189476,
+    -95.967401,
+    41.189476
+],
+  "geometry": {"coordinates":[-95.967401,41.189476],"type":"Point"}
+}

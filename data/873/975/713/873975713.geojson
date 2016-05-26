@@ -1,0 +1,76 @@
+{
+  "id": 873975713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.918966,41.155159,-95.918966,41.155159",
+    "geom:latitude":41.155159,
+    "geom:longitude":-95.918966,
+    "iso:country":"US",
+    "sg:address":"610 Galvin Rd S",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ne/bellevue/181586-wendys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 291 7157",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "burger",
+        "american",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85804025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ReevrRI93d9ne6AQUxyjb_41.155159_-95.918966@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464302214,
+    "wof:geomhash":"e4dfce20bd100a5fa8b6f7f9d040c1fc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85804025,
+            "region_id":85688563,
+            "venue_id":873975713
+        }
+    ],
+    "wof:id":873975713,
+    "wof:lastmodified":1464302214,
+    "wof:name":"Wendy's",
+    "wof:parent_id":85804025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "soup"
+    ]
+},
+  "bbox": [
+    -95.918966,
+    41.155159,
+    -95.918966,
+    41.155159
+],
+  "geometry": {"coordinates":[-95.918966,41.155159],"type":"Point"}
+}

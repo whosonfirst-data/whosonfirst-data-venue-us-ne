@@ -1,0 +1,77 @@
+{
+  "id": 873956503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.69537,40.859133,-96.69537,40.859133",
+    "geom:latitude":40.859133,
+    "geom:longitude":-96.69537,
+    "iso:country":"US",
+    "sg:address":"4811 N 17th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 432 2177",
+    "sg:postcode":"68521",
+    "sg:province":"NE",
+    "sg:tags":[
+        "automobile",
+        "customizing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878721,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_48Y6cOVQVDNO8fJMUFp7qe_40.859133_-96.695370@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464301390,
+    "wof:geomhash":"e4a1ddc1c22dd43fa99bb0f38c1299ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878721,
+            "region_id":85688563,
+            "venue_id":873956503
+        }
+    ],
+    "wof:id":873956503,
+    "wof:lastmodified":1464301390,
+    "wof:name":"Stripes Plus",
+    "wof:parent_id":85878721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "customizing"
+    ]
+},
+  "bbox": [
+    -96.69537,
+    40.859133,
+    -96.69537,
+    40.859133
+],
+  "geometry": {"coordinates":[-96.69537,40.859133],"type":"Point"}
+}

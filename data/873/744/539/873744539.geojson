@@ -1,0 +1,77 @@
+{
+  "id": 873744539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.03795,41.262283,-96.03795,41.262283",
+    "geom:latitude":41.262283,
+    "geom:longitude":-96.03795,
+    "iso:country":"US",
+    "sg:address":"7820 Chicago Plz",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 390 9030",
+    "sg:postcode":"68114",
+    "sg:province":"NE",
+    "sg:tags":[
+        "lease",
+        "vehicle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872509,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3JbwpFEZ72UUUgTxXkXpVM_41.262283_-96.037950@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297003,
+    "wof:geomhash":"57dfb884b2af6dd6e1357ef993cb7ce3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872509,
+            "region_id":85688563,
+            "venue_id":873744539
+        }
+    ],
+    "wof:id":873744539,
+    "wof:lastmodified":1464297003,
+    "wof:name":"Nebraska Leasing Services Inc",
+    "wof:parent_id":85872509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lease",
+        "vehicle"
+    ]
+},
+  "bbox": [
+    -96.03795,
+    41.262283,
+    -96.03795,
+    41.262283
+],
+  "geometry": {"coordinates":[-96.03795,41.262283],"type":"Point"}
+}

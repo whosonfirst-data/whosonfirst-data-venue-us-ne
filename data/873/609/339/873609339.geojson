@@ -1,0 +1,79 @@
+{
+  "id": 873609339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.101825,41.233951,-96.101825,41.233951",
+    "geom:latitude":41.233951,
+    "geom:longitude":-96.101825,
+    "iso:country":"US",
+    "sg:address":"12141 W Center Rd",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Gym",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 334 6721",
+    "sg:postcode":"68144",
+    "sg:province":"NE",
+    "sg:tags":[
+        "fitness",
+        "physical",
+        "facility"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872531,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1axcX5bus6iwjCOl4LE0Y0_41.233951_-96.101825@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295131,
+    "wof:geomhash":"f55c6a98187dbd772e81219e9022fec2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872531,
+            "region_id":85688563,
+            "venue_id":873609339
+        }
+    ],
+    "wof:id":873609339,
+    "wof:lastmodified":1464295131,
+    "wof:name":"Jazzercise Westwood Center",
+    "wof:parent_id":85872531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fitness",
+        "physical",
+        "facility"
+    ]
+},
+  "bbox": [
+    -96.101825,
+    41.233951,
+    -96.101825,
+    41.233951
+],
+  "geometry": {"coordinates":[-96.10182500000001,41.233951],"type":"Point"}
+}

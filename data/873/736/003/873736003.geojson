@@ -1,0 +1,73 @@
+{
+  "id": 873736003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.143783,41.152038,-96.143783,41.152038",
+    "geom:latitude":41.152038,
+    "geom:longitude":-96.143783,
+    "iso:country":"US",
+    "sg:address":"14805 Custer Rd",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 895 8871",
+    "sg:postcode":"68113",
+    "sg:province":"NE",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85834285,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ewP0YBhYSxFvlx3FDbR9h_41.152038_-96.143783@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296870,
+    "wof:geomhash":"288014eeac2b60ddbb98c309b7374de7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85834285,
+            "region_id":85688563,
+            "venue_id":873736003
+        }
+    ],
+    "wof:id":873736003,
+    "wof:lastmodified":1464296870,
+    "wof:name":"Flying A Body Shop",
+    "wof:parent_id":85834285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -96.143783,
+    41.152038,
+    -96.143783,
+    41.152038
+],
+  "geometry": {"coordinates":[-96.143783,41.152038],"type":"Point"}
+}

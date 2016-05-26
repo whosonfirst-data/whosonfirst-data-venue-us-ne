@@ -1,0 +1,74 @@
+{
+  "id": 873591063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.043043,41.157181,-96.043043,41.157181",
+    "geom:latitude":41.157181,
+    "geom:longitude":-96.043043,
+    "iso:country":"US",
+    "sg:address":"122 N Washington St",
+    "sg:city":"Papillion",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Home Furnishings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 933 1188",
+    "sg:postcode":"68046",
+    "sg:province":"NE",
+    "sg:tags":[
+        "antique"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85843697,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4dyoYYQLf0IsVdXDCVozOh_41.157181_-96.043043@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294844,
+    "wof:geomhash":"5fe5cbec0cba32b7ed4e50a754aa9df3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85843697,
+            "region_id":85688563,
+            "venue_id":873591063
+        }
+    ],
+    "wof:id":873591063,
+    "wof:lastmodified":1464294844,
+    "wof:name":"Serendipity",
+    "wof:parent_id":85843697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "antique"
+    ]
+},
+  "bbox": [
+    -96.043043,
+    41.157181,
+    -96.043043,
+    41.157181
+],
+  "geometry": {"coordinates":[-96.043043,41.157181],"type":"Point"}
+}

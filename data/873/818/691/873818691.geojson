@@ -1,0 +1,88 @@
+{
+  "id": 873818691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.048959,41.21549,-96.048959,41.21549",
+    "geom:latitude":41.21549,
+    "geom:longitude":-96.048959,
+    "iso:country":"US",
+    "sg:address":"4308 S 89th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Hardware",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 592 7860",
+    "sg:postcode":"68127",
+    "sg:province":"NE",
+    "sg:tags":[
+        "battery",
+        "air",
+        "conditioning",
+        "unit",
+        "heating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872511,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7P2hSsBHPYSdBXNag7rSJC_41.215490_-96.048959@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298092,
+    "wof:geomhash":"91d03c45681b1d8333cd7629c32c1a88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872511,
+            "region_id":85688563,
+            "venue_id":873818691
+        }
+    ],
+    "wof:id":873818691,
+    "wof:lastmodified":1464298092,
+    "wof:name":"Data Power Technology Corp",
+    "wof:parent_id":85872511,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "battery",
+        "air",
+        "conditioning",
+        "unit",
+        "heating"
+    ]
+},
+  "bbox": [
+    -96.048959,
+    41.21549,
+    -96.048959,
+    41.21549
+],
+  "geometry": {"coordinates":[-96.048959,41.21549],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873648619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.753745,40.838626,-96.753745,40.838626",
+    "geom:latitude":40.838626,
+    "geom:longitude":-96.753745,
+    "iso:country":"US",
+    "sg:address":"2400 NW 24th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 471 7112",
+    "sg:postcode":"68524",
+    "sg:province":"NE",
+    "sg:tags":[
+        "state",
+        "security"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4vGT0giD3OKba3jcVkAB7R_40.838626_-96.753745@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295573,
+    "wof:geomhash":"ccaa06a0729acf2ef4042fac193793bf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878717,
+            "region_id":85688563,
+            "venue_id":873648619
+        }
+    ],
+    "wof:id":873648619,
+    "wof:lastmodified":1464295573,
+    "wof:name":"National Guard",
+    "wof:parent_id":85878717,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "security"
+    ]
+},
+  "bbox": [
+    -96.753745,
+    40.838626,
+    -96.753745,
+    40.838626
+],
+  "geometry": {"coordinates":[-96.753745,40.838626],"type":"Point"}
+}

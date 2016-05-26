@@ -1,0 +1,77 @@
+{
+  "id": 873709879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.062681,41.308526,-96.062681,41.308526",
+    "geom:latitude":41.308526,
+    "geom:longitude":-96.062681,
+    "iso:country":"US",
+    "sg:address":"9422 Jaynes St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 391 5500",
+    "sg:postcode":"68134",
+    "sg:province":"NE",
+    "sg:tags":[
+        "provide",
+        "phone",
+        "pager",
+        "cellular",
+        "communication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85872505,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3fakHcJGTZlcQn05AmSF0n_41.308526_-96.062681@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296520,
+    "wof:geomhash":"d6ac102cb13c5efdc8cc4d51e0f1f0c0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":873709879
+        }
+    ],
+    "wof:id":873709879,
+    "wof:lastmodified":1464296520,
+    "wof:name":"America Cellular & Paging",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "provide",
+        "phone",
+        "pager",
+        "cellular",
+        "communication"
+    ]
+},
+  "bbox": [
+    -96.062681,
+    41.308526,
+    -96.062681,
+    41.308526
+],
+  "geometry": {"coordinates":[-96.062681,41.308526],"type":"Point"}
+}

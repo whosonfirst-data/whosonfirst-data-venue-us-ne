@@ -1,0 +1,75 @@
+{
+  "id": 873612041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.040947,41.298315,-96.040947,41.298315",
+    "geom:latitude":41.298315,
+    "geom:longitude":-96.040947,
+    "iso:country":"US",
+    "sg:address":"8314 Boyd St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 572 8928",
+    "sg:postcode":"68134",
+    "sg:province":"NE",
+    "sg:tags":[
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872515,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2pcxLJf3SQ4jLLWCeMj2js_41.298315_-96.040947@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295167,
+    "wof:geomhash":"651f314593c1ca3c1d21b44f8de5a318",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872515,
+            "region_id":85688563,
+            "venue_id":873612041
+        }
+    ],
+    "wof:id":873612041,
+    "wof:lastmodified":1464295167,
+    "wof:name":"Boyd Elementary School",
+    "wof:parent_id":85872515,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary"
+    ]
+},
+  "bbox": [
+    -96.040947,
+    41.298315,
+    -96.040947,
+    41.298315
+],
+  "geometry": {"coordinates":[-96.040947,41.298315],"type":"Point"}
+}

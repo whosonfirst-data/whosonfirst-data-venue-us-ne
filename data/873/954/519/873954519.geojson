@@ -1,0 +1,71 @@
+{
+  "id": 873954519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.052663,41.313937,-96.052663,41.313937",
+    "geom:latitude":41.313937,
+    "geom:longitude":-96.052663,
+    "iso:country":"US",
+    "sg:address":"6102 Irvington Rd",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 572 6565",
+    "sg:postcode":"68134",
+    "sg:province":"NE",
+    "sg:tags":[
+        "shop",
+        "coffee"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85872505,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5RAJMi0vs00hCN3kyn3YQ7_41.313937_-96.052663@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464301323,
+    "wof:geomhash":"3f214a5a4ca2bcd11cffce99ef2e68e7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":873954519
+        }
+    ],
+    "wof:id":873954519,
+    "wof:lastmodified":1464301323,
+    "wof:name":"M J Java",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "coffee"
+    ]
+},
+  "bbox": [
+    -96.052663,
+    41.313937,
+    -96.052663,
+    41.313937
+],
+  "geometry": {"coordinates":[-96.052663,41.313937],"type":"Point"}
+}

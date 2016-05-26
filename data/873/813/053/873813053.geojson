@@ -1,0 +1,71 @@
+{
+  "id": 873813053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.91038,41.142563,-95.91038,41.142563",
+    "geom:latitude":41.142563,
+    "geom:longitude":-95.91038,
+    "iso:country":"US",
+    "sg:address":"1702 Galvin Rd S",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 293 8089",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "chinese"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974747,
+        102082777,
+        85820061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6hn6j1jSwBABcL5dOv7khz_41.142563_-95.910380@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297979,
+    "wof:geomhash":"e9a92ded526234f697e4256532b17d12",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974747,
+            "neighbourhood_id":85820061,
+            "region_id":85688563,
+            "venue_id":873813053
+        }
+    ],
+    "wof:id":873813053,
+    "wof:lastmodified":1464297979,
+    "wof:name":"Jade Palace Inc",
+    "wof:parent_id":85820061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chinese"
+    ]
+},
+  "bbox": [
+    -95.91038,
+    41.142563,
+    -95.91038,
+    41.142563
+],
+  "geometry": {"coordinates":[-95.91038,41.142563],"type":"Point"}
+}

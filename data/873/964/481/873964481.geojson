@@ -1,0 +1,77 @@
+{
+  "id": 873964481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-98.357199,40.905713,-98.357199,40.905713",
+    "geom:latitude":40.905713,
+    "geom:longitude":-98.357199,
+    "iso:country":"US",
+    "sg:address":"1606 Roberta Ave",
+    "sg:city":"Grand Island",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 308 382 8542",
+    "sg:postcode":"68803",
+    "sg:province":"NE",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85840711,
+        102191575,
+        404518499,
+        85633793,
+        85973941,
+        102083477,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4GfBkdODcz6dt37Jn0TA2Z_40.905713_-98.357199@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464301763,
+    "wof:geomhash":"6ec0f2db9ca4854e6c03efb0cf8a0369",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083477,
+            "localadmin_id":404518499,
+            "locality_id":85973941,
+            "neighbourhood_id":85840711,
+            "region_id":85688563,
+            "venue_id":873964481
+        }
+    ],
+    "wof:id":873964481,
+    "wof:lastmodified":1464301763,
+    "wof:name":"Nietfeldt Plumbing Co",
+    "wof:parent_id":85840711,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -98.357199,
+    40.905713,
+    -98.357199,
+    40.905713
+],
+  "geometry": {"coordinates":[-98.35719899999999,40.905713],"type":"Point"}
+}

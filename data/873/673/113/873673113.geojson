@@ -1,0 +1,75 @@
+{
+  "id": 873673113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.641911,40.813289,-96.641911,40.813289",
+    "geom:latitude":40.813289,
+    "geom:longitude":-96.641911,
+    "iso:country":"US",
+    "sg:address":"5605 O St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 489 8002",
+    "sg:postcode":"68510",
+    "sg:province":"NE",
+    "sg:tags":[
+        "counseling"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878703,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6IlOpCzzsgpRF0Z5NOJUDu_40.813289_-96.641911@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295831,
+    "wof:geomhash":"d9a281be371d6c958ac296601f983b84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878703,
+            "region_id":85688563,
+            "venue_id":873673113
+        }
+    ],
+    "wof:id":873673113,
+    "wof:lastmodified":1464295831,
+    "wof:name":"Kasten's Counseling & Resource",
+    "wof:parent_id":85878703,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "counseling"
+    ]
+},
+  "bbox": [
+    -96.641911,
+    40.813289,
+    -96.641911,
+    40.813289
+],
+  "geometry": {"coordinates":[-96.64191099999999,40.813289],"type":"Point"}
+}

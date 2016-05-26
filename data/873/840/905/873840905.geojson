@@ -1,0 +1,75 @@
+{
+  "id": 873840905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.707158,40.789218,-96.707158,40.789218",
+    "geom:latitude":40.789218,
+    "geom:longitude":-96.707158,
+    "iso:country":"US",
+    "sg:address":"2109 State Hwy 2",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 421 2186",
+    "sg:postcode":"68502",
+    "sg:province":"NE",
+    "sg:tags":[
+        "drinking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878719,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5dznGwgi5n6SFdiossjdn5_40.789218_-96.707158@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298574,
+    "wof:geomhash":"38ed6c09d56ab272361e642f188d68ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878719,
+            "region_id":85688563,
+            "venue_id":873840905
+        }
+    ],
+    "wof:id":873840905,
+    "wof:lastmodified":1464298574,
+    "wof:name":"Silver Fox",
+    "wof:parent_id":85878719,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drinking"
+    ]
+},
+  "bbox": [
+    -96.707158,
+    40.789218,
+    -96.707158,
+    40.789218
+],
+  "geometry": {"coordinates":[-96.70715800000001,40.789218],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 873870225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.655414,40.847443,-96.655414,40.847443",
+    "geom:latitude":40.847443,
+    "geom:longitude":-96.655414,
+    "iso:country":"US",
+    "sg:address":"4645 Hartley St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 467 3651",
+    "sg:postcode":"68504",
+    "sg:province":"NE",
+    "sg:tags":[
+        "fire",
+        "alarm",
+        "system"
+    ],
+    "sg:website":"www.spectronics.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85853163,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7jrnnq5i8fs29Vb2dHx9bA_40.847443_-96.655414@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299228,
+    "wof:geomhash":"adad4b7173b69d191b4e675359a9818b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85853163,
+            "region_id":85688563,
+            "venue_id":873870225
+        }
+    ],
+    "wof:id":873870225,
+    "wof:lastmodified":1464299228,
+    "wof:name":"Spectronics Corp",
+    "wof:parent_id":85853163,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fire",
+        "alarm",
+        "system"
+    ]
+},
+  "bbox": [
+    -96.655414,
+    40.847443,
+    -96.655414,
+    40.847443
+],
+  "geometry": {"coordinates":[-96.65541399999999,40.847443],"type":"Point"}
+}

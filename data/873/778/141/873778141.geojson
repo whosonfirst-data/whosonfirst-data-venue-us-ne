@@ -1,0 +1,73 @@
+{
+  "id": 873778141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.678535,40.739306,-96.678535,40.739306",
+    "geom:latitude":40.739306,
+    "geom:longitude":-96.678535,
+    "iso:country":"US",
+    "sg:address":"7120 S 29th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 420 2200",
+    "sg:postcode":"68516",
+    "sg:province":"NE",
+    "sg:tags":[
+        "consultant",
+        "business"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0wWELodjqKKPy9FwE9PUYd_40.739306_-96.678535@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297465,
+    "wof:geomhash":"46fe8fd587fb9ae40767ead4c27910d4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878733,
+            "region_id":85688563,
+            "venue_id":873778141
+        }
+    ],
+    "wof:id":873778141,
+    "wof:lastmodified":1464297465,
+    "wof:name":"KATS Management Svc",
+    "wof:parent_id":85878733,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "business"
+    ]
+},
+  "bbox": [
+    -96.678535,
+    40.739306,
+    -96.678535,
+    40.739306
+],
+  "geometry": {"coordinates":[-96.678535,40.739306],"type":"Point"}
+}

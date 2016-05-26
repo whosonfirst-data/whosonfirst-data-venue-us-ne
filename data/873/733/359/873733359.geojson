@@ -1,0 +1,73 @@
+{
+  "id": 873733359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.067341,41.307567,-96.067341,41.307567",
+    "geom:latitude":41.307567,
+    "geom:longitude":-96.067341,
+    "iso:country":"US",
+    "sg:address":"10015 Ogden Plz",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 932 6100",
+    "sg:postcode":"68134",
+    "sg:province":"NE",
+    "sg:tags":[
+        "polishing",
+        "waxing",
+        "floor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85872505,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6VS4LUqJqYNOaJXD5q2daB_41.307567_-96.067341@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296819,
+    "wof:geomhash":"5bd570c4d8d418b6240d89e938b5aa48",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":873733359
+        }
+    ],
+    "wof:id":873733359,
+    "wof:lastmodified":1464296819,
+    "wof:name":"Ahma Do Cleaning",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "waxing",
+        "floor"
+    ]
+},
+  "bbox": [
+    -96.067341,
+    41.307567,
+    -96.067341,
+    41.307567
+],
+  "geometry": {"coordinates":[-96.067341,41.307567],"type":"Point"}
+}

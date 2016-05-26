@@ -1,0 +1,70 @@
+{
+  "id": 873620005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.16853,41.265276,-96.16853,41.265276",
+    "geom:latitude":41.265276,
+    "geom:longitude":-96.16853,
+    "iso:country":"US",
+    "sg:address":"506 N 162nd Ave",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 452 2020",
+    "sg:postcode":"68118",
+    "sg:province":"NE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85806957,
+        102191575,
+        404519987,
+        85633793,
+        85973479,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6O52fwRxYrRi4p8xtyuUre_41.265276_-96.168530@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295250,
+    "wof:geomhash":"ad58d3c4f73b8539d3f258b52cd1c665",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404519987,
+            "locality_id":85973479,
+            "neighbourhood_id":85806957,
+            "region_id":85688563,
+            "venue_id":873620005
+        }
+    ],
+    "wof:id":873620005,
+    "wof:lastmodified":1464295250,
+    "wof:name":"Aldrich Elem",
+    "wof:parent_id":85806957,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.16853,
+    41.265276,
+    -96.16853,
+    41.265276
+],
+  "geometry": {"coordinates":[-96.16853,41.265276],"type":"Point"}
+}

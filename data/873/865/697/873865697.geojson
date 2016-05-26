@@ -1,0 +1,77 @@
+{
+  "id": 873865697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.030213,41.28683,-96.030213,41.28683",
+    "geom:latitude":41.28683,
+    "geom:longitude":-96.030213,
+    "iso:country":"US",
+    "sg:address":"2906 N 75th Ave",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 397 9809",
+    "sg:postcode":"68134",
+    "sg:province":"NE",
+    "sg:tags":[
+        "warehouse",
+        "public"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872515,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4GxKudkKjpaqqaJpmg4Pa6_41.286830_-96.030213@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299150,
+    "wof:geomhash":"40b069a78a776a8d926a90003047bb4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872515,
+            "region_id":85688563,
+            "venue_id":873865697
+        }
+    ],
+    "wof:id":873865697,
+    "wof:lastmodified":1464299150,
+    "wof:name":"NTD Industrial Park",
+    "wof:parent_id":85872515,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "warehouse",
+        "public"
+    ]
+},
+  "bbox": [
+    -96.030213,
+    41.28683,
+    -96.030213,
+    41.28683
+],
+  "geometry": {"coordinates":[-96.030213,41.28683],"type":"Point"}
+}

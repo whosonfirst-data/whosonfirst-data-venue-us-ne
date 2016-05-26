@@ -1,0 +1,69 @@
+{
+  "id": 873544791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.186951,41.15518,-96.186951,41.15518",
+    "geom:latitude":41.15518,
+    "geom:longitude":-96.186951,
+    "iso:country":"US",
+    "sg:address":"17505 Riviera Dr",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 677 5141",
+    "sg:postcode":"68136",
+    "sg:province":"NE",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85834285,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0je81f9jZaDHcVaa5ARpff_41.155180_-96.186951@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294314,
+    "wof:geomhash":"d3574cd6149bab2e490262cac87828a9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85834285,
+            "region_id":85688563,
+            "venue_id":873544791
+        }
+    ],
+    "wof:id":873544791,
+    "wof:lastmodified":1464294314,
+    "wof:name":"Housecall Veterinary Svc",
+    "wof:parent_id":85834285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -96.186951,
+    41.15518,
+    -96.186951,
+    41.15518
+],
+  "geometry": {"coordinates":[-96.18695099999999,41.15518],"type":"Point"}
+}

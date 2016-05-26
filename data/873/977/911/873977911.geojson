@@ -1,0 +1,78 @@
+{
+  "id": 873977911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.974207,41.259882,-95.974207,41.259882",
+    "geom:latitude":41.259882,
+    "geom:longitude":-95.974207,
+    "iso:country":"US",
+    "sg:address":"4020 Dodge St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ne/omaha/129520-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 551 1081",
+    "sg:postcode":"68131",
+    "sg:province":"NE",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872525,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2YkSxT8C3wSCZcIOiUcQQm_41.259729_-95.974539@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464302293,
+    "wof:geomhash":"06e40e26816b7ee8c9168be5a4b4dbe7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872525,
+            "region_id":85688563,
+            "venue_id":873977911
+        }
+    ],
+    "wof:id":873977911,
+    "wof:lastmodified":1464302293,
+    "wof:name":"Subway",
+    "wof:parent_id":85872525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -95.974207,
+    41.259882,
+    -95.974207,
+    41.259882
+],
+  "geometry": {"coordinates":[-95.97420700000001,41.259882],"type":"Point"}
+}

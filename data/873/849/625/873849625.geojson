@@ -1,0 +1,89 @@
+{
+  "id": 873849625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.696682,40.811598,-96.696682,40.811598",
+    "geom:latitude":40.811598,
+    "geom:longitude":-96.696682,
+    "iso:country":"US",
+    "sg:address":"220 S 17th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 434 7177",
+    "sg:postcode":"68508",
+    "sg:province":"NE",
+    "sg:tags":[
+        "urban",
+        "medical",
+        "indian",
+        "under",
+        "served",
+        "other",
+        "se",
+        "population"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878699,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1R3pk7cpw2qs0Maav0dn0j_40.811598_-96.696682@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298804,
+    "wof:geomhash":"3cb86ab43b1d3d385e1264afe954ba5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878699,
+            "region_id":85688563,
+            "venue_id":873849625
+        }
+    ],
+    "wof:id":873849625,
+    "wof:lastmodified":1464298804,
+    "wof:name":"Nebraska Urban Indian Hlth Ctr",
+    "wof:parent_id":85878699,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "urban",
+        "medical",
+        "indian",
+        "under",
+        "served",
+        "other",
+        "se",
+        "population"
+    ]
+},
+  "bbox": [
+    -96.696682,
+    40.811598,
+    -96.696682,
+    40.811598
+],
+  "geometry": {"coordinates":[-96.696682,40.811598],"type":"Point"}
+}

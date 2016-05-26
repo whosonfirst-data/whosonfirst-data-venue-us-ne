@@ -1,0 +1,71 @@
+{
+  "id": 873798491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.739588,40.852523,-96.739588,40.852523",
+    "geom:latitude":40.852523,
+    "geom:longitude":-96.739588,
+    "iso:country":"US",
+    "sg:address":"1200 King Bird Rd",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 435 7137",
+    "sg:postcode":"68521",
+    "sg:province":"NE",
+    "sg:tags":[
+        "bottler"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3earbGg0CHtUregXQwOHZE_40.852523_-96.739588@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297756,
+    "wof:geomhash":"3b948955fef64422e2642d035fe7a0fb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878717,
+            "region_id":85688563,
+            "venue_id":873798491
+        }
+    ],
+    "wof:id":873798491,
+    "wof:lastmodified":1464297756,
+    "wof:name":"Coca-Cola Bottling Co",
+    "wof:parent_id":85878717,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bottler"
+    ]
+},
+  "bbox": [
+    -96.739588,
+    40.852523,
+    -96.739588,
+    40.852523
+],
+  "geometry": {"coordinates":[-96.739588,40.852523],"type":"Point"}
+}

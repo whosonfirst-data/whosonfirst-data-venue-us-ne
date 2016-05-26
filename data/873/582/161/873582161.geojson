@@ -1,0 +1,73 @@
+{
+  "id": 873582161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.359292,41.431161,-97.359292,41.431161",
+    "geom:latitude":41.431161,
+    "geom:longitude":-97.359292,
+    "iso:country":"US",
+    "sg:address":"1459 26th Ave",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 564 8129",
+    "sg:postcode":"68601",
+    "sg:province":"NE",
+    "sg:tags":[
+        "department",
+        "protection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974401,
+        102084277,
+        85854093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5vrWt7T3tVbSIBfSnNXEKZ_41.431161_-97.359292@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294744,
+    "wof:geomhash":"adf38584a52956bdd82c645ccd5dd2c7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084277,
+            "locality_id":85974401,
+            "neighbourhood_id":85854093,
+            "region_id":85688563,
+            "venue_id":873582161
+        }
+    ],
+    "wof:id":873582161,
+    "wof:lastmodified":1464294744,
+    "wof:name":"Columbus Fire Department",
+    "wof:parent_id":85854093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department",
+        "protection"
+    ]
+},
+  "bbox": [
+    -97.359292,
+    41.431161,
+    -97.359292,
+    41.431161
+],
+  "geometry": {"coordinates":[-97.359292,41.431161],"type":"Point"}
+}

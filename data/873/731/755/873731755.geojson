@@ -1,0 +1,75 @@
+{
+  "id": 873731755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.652829,40.822746,-96.652829,40.822746",
+    "geom:latitude":40.822746,
+    "geom:longitude":-96.652829,
+    "iso:country":"US",
+    "sg:address":"4830 Wilshire Blvd",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 467 5439",
+    "sg:postcode":"68504",
+    "sg:province":"NE",
+    "sg:tags":[
+        "appliance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878701,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7FpEDF9A2XYOCp4DJAf3pS_40.822746_-96.652829@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296801,
+    "wof:geomhash":"79e657e6435562e08c08b6908f468396",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878701,
+            "region_id":85688563,
+            "venue_id":873731755
+        }
+    ],
+    "wof:id":873731755,
+    "wof:lastmodified":1464296801,
+    "wof:name":"Appliance Doctor",
+    "wof:parent_id":85878701,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appliance"
+    ]
+},
+  "bbox": [
+    -96.652829,
+    40.822746,
+    -96.652829,
+    40.822746
+],
+  "geometry": {"coordinates":[-96.652829,40.822746],"type":"Point"}
+}

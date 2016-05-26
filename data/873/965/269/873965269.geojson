@@ -1,0 +1,83 @@
+{
+  "id": 873965269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.127885,41.223387,-96.127885,41.223387",
+    "geom:latitude":41.223387,
+    "geom:longitude":-96.127885,
+    "iso:country":"US",
+    "sg:address":"13315 B St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Painting Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 334 1715",
+    "sg:postcode":"68144",
+    "sg:province":"NE",
+    "sg:tags":[
+        "paint",
+        "glass"
+    ],
+    "sg:website":"www.porterpaints.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872531,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0SxKumO22hOJdmIZIZgZhA_41.223387_-96.127885@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464301808,
+    "wof:geomhash":"1aa48dcf8438cc481dde40935de6efc7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872531,
+            "region_id":85688563,
+            "venue_id":873965269
+        }
+    ],
+    "wof:id":873965269,
+    "wof:lastmodified":1464301808,
+    "wof:name":"Pittsburgh Paints",
+    "wof:parent_id":85872531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paint",
+        "glass"
+    ]
+},
+  "bbox": [
+    -96.127885,
+    41.223387,
+    -96.127885,
+    41.223387
+],
+  "geometry": {"coordinates":[-96.12788500000001,41.223387],"type":"Point"}
+}

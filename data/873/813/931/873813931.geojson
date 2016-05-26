@@ -1,0 +1,71 @@
+{
+  "id": 873813931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.618417,40.796603,-96.618417,40.796603",
+    "geom:latitude":40.796603,
+    "geom:longitude":-96.618417,
+    "iso:country":"US",
+    "sg:address":"7400 Briarhurst Cir",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 489 6954",
+    "sg:postcode":"68506",
+    "sg:province":"NE",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4HkFQqD17UZvn0cYbfgjxX_40.796603_-96.618417@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297995,
+    "wof:geomhash":"98e45be865908920d6122308beb0ce5f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878697,
+            "region_id":85688563,
+            "venue_id":873813931
+        }
+    ],
+    "wof:id":873813931,
+    "wof:lastmodified":1464297995,
+    "wof:name":"Gage Industrial",
+    "wof:parent_id":85878697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.618417,
+    40.796603,
+    -96.618417,
+    40.796603
+],
+  "geometry": {"coordinates":[-96.61841699999999,40.796603],"type":"Point"}
+}

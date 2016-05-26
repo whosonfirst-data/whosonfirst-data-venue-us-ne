@@ -1,0 +1,71 @@
+{
+  "id": 873801205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.905502,41.136517,-95.905502,41.136517",
+    "geom:latitude":41.136517,
+    "geom:longitude":-95.905502,
+    "iso:country":"US",
+    "sg:address":"900 W Mission Ave",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 291 5842",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974747,
+        102082777,
+        85820061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4k1w354qMVaSqNmehD1c8U_41.136517_-95.905502@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297787,
+    "wof:geomhash":"f383883283e5df518dc92e24efa36d66",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974747,
+            "neighbourhood_id":85820061,
+            "region_id":85688563,
+            "venue_id":873801205
+        }
+    ],
+    "wof:id":873801205,
+    "wof:lastmodified":1464297787,
+    "wof:name":"Towne Dental",
+    "wof:parent_id":85820061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -95.905502,
+    41.136517,
+    -95.905502,
+    41.136517
+],
+  "geometry": {"coordinates":[-95.905502,41.136517],"type":"Point"}
+}

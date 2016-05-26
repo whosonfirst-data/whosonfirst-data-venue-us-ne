@@ -1,0 +1,71 @@
+{
+  "id": 873866451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.951926,41.067599,-95.951926,41.067599",
+    "geom:latitude":41.067599,
+    "geom:longitude":-95.951926,
+    "iso:country":"US",
+    "sg:address":"17023 Dyson Hollow Rd",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 502 3780",
+    "sg:postcode":"68123",
+    "sg:province":"NE",
+    "sg:tags":[
+        "investor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974747,
+        102082777,
+        85820061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3CPcs0umJ8UFJcOje9SAXx_41.067599_-95.951926@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299164,
+    "wof:geomhash":"12b8c268103a281191ead03d2757b6fc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974747,
+            "neighbourhood_id":85820061,
+            "region_id":85688563,
+            "venue_id":873866451
+        }
+    ],
+    "wof:id":873866451,
+    "wof:lastmodified":1464299164,
+    "wof:name":"Advantage Investments",
+    "wof:parent_id":85820061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "investor"
+    ]
+},
+  "bbox": [
+    -95.951926,
+    41.067599,
+    -95.951926,
+    41.067599
+],
+  "geometry": {"coordinates":[-95.951926,41.067599],"type":"Point"}
+}

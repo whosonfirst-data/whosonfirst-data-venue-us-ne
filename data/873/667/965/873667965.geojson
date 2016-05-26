@@ -1,0 +1,69 @@
+{
+  "id": 873667965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.036836,41.170625,-96.036836,41.170625",
+    "geom:latitude":41.170625,
+    "geom:longitude":-96.036836,
+    "iso:country":"US",
+    "sg:address":"1004 Edgewood Blvd",
+    "sg:city":"Papillion",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 339 2837",
+    "sg:postcode":"68046",
+    "sg:province":"NE",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85843697,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3rfPRaCsIe6Z31SgsuGIqy_41.170625_-96.036836@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295780,
+    "wof:geomhash":"6a8017b378674be8b8cbd53aeb5f98b9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85843697,
+            "region_id":85688563,
+            "venue_id":873667965
+        }
+    ],
+    "wof:id":873667965,
+    "wof:lastmodified":1464295780,
+    "wof:name":"Kreitlow Construction",
+    "wof:parent_id":85843697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -96.036836,
+    41.170625,
+    -96.036836,
+    41.170625
+],
+  "geometry": {"coordinates":[-96.03683599999999,41.170625],"type":"Point"}
+}

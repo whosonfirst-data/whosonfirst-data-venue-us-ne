@@ -1,0 +1,79 @@
+{
+  "id": 873972573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.022353,41.230657,-96.022353,41.230657",
+    "geom:latitude":41.230657,
+    "geom:longitude":-96.022353,
+    "iso:country":"US",
+    "sg:address":"7070 Spring St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 398 5779",
+    "sg:postcode":"68106",
+    "sg:province":"NE",
+    "sg:tags":[
+        "physician",
+        "surgeon",
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867059,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5AfcE8ShHwhnSXeAXUtytE_41.230732_-96.022034@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464302089,
+    "wof:geomhash":"872506021f3fbefb7b94ccbfb7458763",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85867059,
+            "region_id":85688563,
+            "venue_id":873972573
+        }
+    ],
+    "wof:id":873972573,
+    "wof:lastmodified":1464302089,
+    "wof:name":"Alegent Health - Midlands",
+    "wof:parent_id":85867059,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon",
+        "medical"
+    ]
+},
+  "bbox": [
+    -96.022353,
+    41.230657,
+    -96.022353,
+    41.230657
+],
+  "geometry": {"coordinates":[-96.022353,41.230657],"type":"Point"}
+}

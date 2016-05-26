@@ -1,0 +1,71 @@
+{
+  "id": 873922155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.687264,40.726481,-96.687264,40.726481",
+    "geom:latitude":40.726481,
+    "geom:longitude":-96.687264,
+    "iso:country":"US",
+    "sg:address":"8400 Hollynn Ln",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 432 3209",
+    "sg:postcode":"68512",
+    "sg:province":"NE",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5mJ1lAddIfOvbBsloBnWkf_40.726481_-96.687264@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300255,
+    "wof:geomhash":"f92e0c351558e878736096caafc19e5d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878733,
+            "region_id":85688563,
+            "venue_id":873922155
+        }
+    ],
+    "wof:id":873922155,
+    "wof:lastmodified":1464300255,
+    "wof:name":"Herrera's Commercial Cleaning",
+    "wof:parent_id":85878733,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -96.687264,
+    40.726481,
+    -96.687264,
+    40.726481
+],
+  "geometry": {"coordinates":[-96.687264,40.726481],"type":"Point"}
+}

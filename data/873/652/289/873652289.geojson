@@ -1,0 +1,79 @@
+{
+  "id": 873652289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.671434,40.799946,-96.671434,40.799946",
+    "geom:latitude":40.799946,
+    "geom:longitude":-96.671434,
+    "iso:country":"US",
+    "sg:address":"3408 B St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 525 7498",
+    "sg:postcode":"68510",
+    "sg:province":"NE",
+    "sg:tags":[
+        "repairing",
+        "remodeling",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892213,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2EPaxsaxgHMmUwMAKGepX3_40.799946_-96.671434@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295616,
+    "wof:geomhash":"00cb9beaa91dd7a4b5ca3f0a31efe03f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85892213,
+            "region_id":85688563,
+            "venue_id":873652289
+        }
+    ],
+    "wof:id":873652289,
+    "wof:lastmodified":1464295616,
+    "wof:name":"B & B Remodeling",
+    "wof:parent_id":85892213,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "remodeling",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.671434,
+    40.799946,
+    -96.671434,
+    40.799946
+],
+  "geometry": {"coordinates":[-96.671434,40.799946],"type":"Point"}
+}

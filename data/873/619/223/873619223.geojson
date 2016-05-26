@@ -1,0 +1,74 @@
+{
+  "id": 873619223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.77,40.850258,-96.77,40.850258",
+    "geom:latitude":40.850258,
+    "geom:longitude":-96.77,
+    "iso:country":"US",
+    "sg:address":"3400 W Luke St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 441 8381",
+    "sg:postcode":"68524",
+    "sg:province":"NE",
+    "sg:tags":[
+        "department"
+    ],
+    "sg:website":"www.lincoln.ne.gov/city/fire/index.htm",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102529023,
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0w9q3JZB8ehFShBm1qEHwj_40.850258_-96.770000@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295243,
+    "wof:geomhash":"30df5947edb2192d90cbdb9f90c86812",
+    "wof:hierarchy":[
+        {
+            "campus_id":102529023,
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878717,
+            "region_id":85688563,
+            "venue_id":873619223
+        }
+    ],
+    "wof:id":873619223,
+    "wof:lastmodified":1464295243,
+    "wof:name":"Lincoln Fire Dept",
+    "wof:parent_id":102529023,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -96.77,
+    40.850258,
+    -96.77,
+    40.850258
+],
+  "geometry": {"coordinates":[-96.77,40.850258],"type":"Point"}
+}

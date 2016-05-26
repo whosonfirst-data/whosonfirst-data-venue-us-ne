@@ -1,0 +1,75 @@
+{
+  "id": 873933195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.940883,41.280537,-95.940883,41.280537",
+    "geom:latitude":41.280537,
+    "geom:longitude":-95.940883,
+    "iso:country":"US",
+    "sg:address":"2209 Florence Blvd",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 346 6939",
+    "sg:postcode":"68110",
+    "sg:province":"NE",
+    "sg:tags":[
+        "protection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872525,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_78uTO89pzd7G3Ff474Hf9c_41.280537_-95.940883@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300467,
+    "wof:geomhash":"940c92ebe8f38709c12fee2d4342478d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872525,
+            "region_id":85688563,
+            "venue_id":873933195
+        }
+    ],
+    "wof:id":873933195,
+    "wof:lastmodified":1464300467,
+    "wof:name":"Fire Station 20",
+    "wof:parent_id":85872525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "protection"
+    ]
+},
+  "bbox": [
+    -95.940883,
+    41.280537,
+    -95.940883,
+    41.280537
+],
+  "geometry": {"coordinates":[-95.940883,41.280537],"type":"Point"}
+}

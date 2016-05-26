@@ -1,0 +1,77 @@
+{
+  "id": 873635073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.617239,40.82978,-96.617239,40.82978",
+    "geom:latitude":40.82978,
+    "geom:longitude":-96.617239,
+    "iso:country":"US",
+    "sg:address":"1600 N 76th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 416 9379",
+    "sg:postcode":"68505",
+    "sg:province":"NE",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878725,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2A1DYJL9iYhmejoPfm6Ci9_40.829780_-96.617239@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295424,
+    "wof:geomhash":"f4b354e39cb97af1cba46945c64d0321",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878725,
+            "region_id":85688563,
+            "venue_id":873635073
+        }
+    ],
+    "wof:id":873635073,
+    "wof:lastmodified":1464295424,
+    "wof:name":"Nebraska Construction Inc",
+    "wof:parent_id":85878725,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.617239,
+    40.82978,
+    -96.617239,
+    40.82978
+],
+  "geometry": {"coordinates":[-96.617239,40.82978],"type":"Point"}
+}

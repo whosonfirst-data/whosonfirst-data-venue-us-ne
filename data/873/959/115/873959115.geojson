@@ -1,0 +1,71 @@
+{
+  "id": 873959115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.73082,40.86534,-96.73082,40.86534",
+    "geom:latitude":40.86534,
+    "geom:longitude":-96.73082,
+    "iso:country":"US",
+    "sg:address":"5560 NW Tudor Ln",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 438 6000",
+    "sg:postcode":"68521",
+    "sg:province":"NE",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4OA42FLccKBjElYw1vFgbN_40.865340_-96.730820@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464301491,
+    "wof:geomhash":"d8e8a341b96eb81a6955b61fa63e102a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878717,
+            "region_id":85688563,
+            "venue_id":873959115
+        }
+    ],
+    "wof:id":873959115,
+    "wof:lastmodified":1464301491,
+    "wof:name":"Pk Contructing Inc",
+    "wof:parent_id":85878717,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -96.73082,
+    40.86534,
+    -96.73082,
+    40.86534
+],
+  "geometry": {"coordinates":[-96.73081999999999,40.86534],"type":"Point"}
+}

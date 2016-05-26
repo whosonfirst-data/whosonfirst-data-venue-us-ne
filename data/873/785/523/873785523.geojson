@@ -1,0 +1,69 @@
+{
+  "id": 873785523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.151527,41.154476,-96.151527,41.154476",
+    "geom:latitude":41.154476,
+    "geom:longitude":-96.151527,
+    "iso:country":"US",
+    "sg:address":"10720 Sapp Brothers Dr",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 896 5112",
+    "sg:postcode":"68138",
+    "sg:province":"NE",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85834285,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3VmJrsaHYiMpFSIGMJJsDI_41.154476_-96.151527@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297562,
+    "wof:geomhash":"7eee9ee440e3ef200e7bc9b4fcc77cd9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85834285,
+            "region_id":85688563,
+            "venue_id":873785523
+        }
+    ],
+    "wof:id":873785523,
+    "wof:lastmodified":1464297562,
+    "wof:name":"Kozeny Doug",
+    "wof:parent_id":85834285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -96.151527,
+    41.154476,
+    -96.151527,
+    41.154476
+],
+  "geometry": {"coordinates":[-96.151527,41.154476],"type":"Point"}
+}

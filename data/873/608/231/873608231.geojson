@@ -1,0 +1,71 @@
+{
+  "id": 873608231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.625146,40.813393,-96.625146,40.813393",
+    "geom:latitude":40.813393,
+    "geom:longitude":-96.625146,
+    "iso:country":"US",
+    "sg:address":"6600 O St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 434 4997",
+    "sg:postcode":"68510",
+    "sg:province":"NE",
+    "sg:website":"www.wellsfargo.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878725,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2k03dLE4hfoLFysWYooODl_40.813393_-96.625146@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295109,
+    "wof:geomhash":"c83396916e9f58ce99cdc936844e13e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878725,
+            "region_id":85688563,
+            "venue_id":873608231
+        }
+    ],
+    "wof:id":873608231,
+    "wof:lastmodified":1464295109,
+    "wof:name":"Wells Fargo Bank",
+    "wof:parent_id":85878725,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.625146,
+    40.813393,
+    -96.625146,
+    40.813393
+],
+  "geometry": {"coordinates":[-96.625146,40.813393],"type":"Point"}
+}

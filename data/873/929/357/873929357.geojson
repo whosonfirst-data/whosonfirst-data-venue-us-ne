@@ -1,0 +1,71 @@
+{
+  "id": 873929357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.142095,41.187453,-96.142095,41.187453",
+    "geom:latitude":41.187453,
+    "geom:longitude":-96.142095,
+    "iso:country":"US",
+    "sg:address":"14611 Willow Creek Dr",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 706 8946",
+    "sg:postcode":"68138",
+    "sg:province":"NE",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85834285,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_114ByODnn0usZRuHOaLwgh_41.187453_-96.142095@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300395,
+    "wof:geomhash":"2d39d70dc6ecb76be2d170121d5f929f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85834285,
+            "region_id":85688563,
+            "venue_id":873929357
+        }
+    ],
+    "wof:id":873929357,
+    "wof:lastmodified":1464300395,
+    "wof:name":"Accurate Electric",
+    "wof:parent_id":85834285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.142095,
+    41.187453,
+    -96.142095,
+    41.187453
+],
+  "geometry": {"coordinates":[-96.142095,41.187453],"type":"Point"}
+}

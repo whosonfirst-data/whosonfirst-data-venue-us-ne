@@ -1,0 +1,75 @@
+{
+  "id": 873842813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.69106,40.857301,-96.69106,40.857301",
+    "geom:latitude":40.857301,
+    "geom:longitude":-96.69106,
+    "iso:country":"US",
+    "sg:address":"2550 Superior St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 435 6686",
+    "sg:postcode":"68521",
+    "sg:province":"NE",
+    "sg:tags":[
+        "jeweler"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878721,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1CbmXajHoi8Mx6UdTfOV1B_40.857301_-96.691060@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298628,
+    "wof:geomhash":"3bcdf22a22d8b689a40c962231f8cea6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878721,
+            "region_id":85688563,
+            "venue_id":873842813
+        }
+    ],
+    "wof:id":873842813,
+    "wof:lastmodified":1464298628,
+    "wof:name":"North Star Jewelry",
+    "wof:parent_id":85878721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "jeweler"
+    ]
+},
+  "bbox": [
+    -96.69106,
+    40.857301,
+    -96.69106,
+    40.857301
+],
+  "geometry": {"coordinates":[-96.69105999999999,40.857301],"type":"Point"}
+}

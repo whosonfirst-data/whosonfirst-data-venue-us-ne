@@ -1,0 +1,83 @@
+{
+  "id": 873955659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.648951,40.788214,-96.648951,40.788214",
+    "geom:latitude":40.788214,
+    "geom:longitude":-96.648951,
+    "iso:country":"US",
+    "sg:address":"4920 Normal Blvd",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Research",
+            "type":"Services"
+        },
+        {
+            "category":"Organizations",
+            "subcategory":"Professional Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 489 7500",
+    "sg:postcode":"68506",
+    "sg:province":"NE",
+    "sg:tags":[
+        "nonphysical",
+        "commercial"
+    ],
+    "sg:website":"www.lincolnea.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85811821,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7aai929fQIoLEs4pda98u2_40.788214_-96.648951@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464301361,
+    "wof:geomhash":"3e38c183f9d4d552f14a745bffa66384",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85811821,
+            "region_id":85688563,
+            "venue_id":873955659
+        }
+    ],
+    "wof:id":873955659,
+    "wof:lastmodified":1464301361,
+    "wof:name":"Lincoln Education Association",
+    "wof:parent_id":85811821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nonphysical",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -96.648951,
+    40.788214,
+    -96.648951,
+    40.788214
+],
+  "geometry": {"coordinates":[-96.648951,40.788214],"type":"Point"}
+}

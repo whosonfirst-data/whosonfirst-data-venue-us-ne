@@ -1,0 +1,75 @@
+{
+  "id": 873926021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.698495,40.79269,-96.698495,40.79269",
+    "geom:latitude":40.79269,
+    "geom:longitude":-96.698495,
+    "iso:country":"US",
+    "sg:address":"2015 S 16th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 435 3165",
+    "sg:postcode":"68502",
+    "sg:province":"NE",
+    "sg:tags":[
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878719,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4dvAcXsYtYuhHOfYwUqXzY_40.792690_-96.698495@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300327,
+    "wof:geomhash":"1a34be15e13ed987572bbedb371616b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878719,
+            "region_id":85688563,
+            "venue_id":873926021
+        }
+    ],
+    "wof:id":873926021,
+    "wof:lastmodified":1464300327,
+    "wof:name":"Houses of Hope of Nebraska",
+    "wof:parent_id":85878719,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential"
+    ]
+},
+  "bbox": [
+    -96.698495,
+    40.79269,
+    -96.698495,
+    40.79269
+],
+  "geometry": {"coordinates":[-96.69849499999999,40.79269],"type":"Point"}
+}

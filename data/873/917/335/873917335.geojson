@@ -1,0 +1,73 @@
+{
+  "id": 873917335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.047067,41.185479,-96.047067,41.185479",
+    "geom:latitude":41.185479,
+    "geom:longitude":-96.047067,
+    "iso:country":"US",
+    "sg:address":"7313 Park Crest Dr",
+    "sg:city":"La Vista",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 592 2140",
+    "sg:postcode":"68128",
+    "sg:province":"NE",
+    "sg:tags":[
+        "repairing",
+        "remodeling",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85843697,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7AtwF6C5XZ1tGBAgdtKUgh_41.185479_-96.047067@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300164,
+    "wof:geomhash":"29ea8529ee8a3b3f0fb53904f90f6d93",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85843697,
+            "region_id":85688563,
+            "venue_id":873917335
+        }
+    ],
+    "wof:id":873917335,
+    "wof:lastmodified":1464300164,
+    "wof:name":"Tri City Home Improvement",
+    "wof:parent_id":85843697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "remodeling",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.047067,
+    41.185479,
+    -96.047067,
+    41.185479
+],
+  "geometry": {"coordinates":[-96.047067,41.185479],"type":"Point"}
+}

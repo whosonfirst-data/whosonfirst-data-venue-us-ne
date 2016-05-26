@@ -1,0 +1,76 @@
+{
+  "id": 873828457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.137246,41.222406,-96.137246,41.222406",
+    "geom:latitude":41.222406,
+    "geom:longitude":-96.137246,
+    "iso:country":"US",
+    "sg:address":"14242 C Cir",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 334 3330",
+    "sg:postcode":"68144",
+    "sg:province":"NE",
+    "sg:tags":[
+        "trucking"
+    ],
+    "sg:website":"www.ups.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872531,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0UGZ7tsJqyiup8L7Xa5Q70_41.222406_-96.137246@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298304,
+    "wof:geomhash":"3b0e12a126cfc263aef91eccb2931f1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872531,
+            "region_id":85688563,
+            "venue_id":873828457
+        }
+    ],
+    "wof:id":873828457,
+    "wof:lastmodified":1464298304,
+    "wof:name":"Worldwide Dedicated Svc",
+    "wof:parent_id":85872531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -96.137246,
+    41.222406,
+    -96.137246,
+    41.222406
+],
+  "geometry": {"coordinates":[-96.137246,41.222406],"type":"Point"}
+}

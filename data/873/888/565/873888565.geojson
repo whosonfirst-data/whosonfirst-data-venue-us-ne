@@ -1,0 +1,75 @@
+{
+  "id": 873888565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.10303,41.234102,-96.10303,41.234102",
+    "geom:latitude":41.234102,
+    "geom:longitude":-96.10303,
+    "iso:country":"US",
+    "sg:address":"12100 W Center Rd",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 898 2946",
+    "sg:postcode":"68144",
+    "sg:province":"NE",
+    "sg:tags":[
+        "federal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872531,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1kZjiKMWwPimPQyGJHvTvb_41.234102_-96.103030@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299601,
+    "wof:geomhash":"d1bd1d8ebf935561d80481c47124904f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872531,
+            "region_id":85688563,
+            "venue_id":873888565
+        }
+    ],
+    "wof:id":873888565,
+    "wof:lastmodified":1464299601,
+    "wof:name":"Stenberg For Senate 2000",
+    "wof:parent_id":85872531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "federal"
+    ]
+},
+  "bbox": [
+    -96.10303,
+    41.234102,
+    -96.10303,
+    41.234102
+],
+  "geometry": {"coordinates":[-96.10303,41.234102],"type":"Point"}
+}

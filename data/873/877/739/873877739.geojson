@@ -1,0 +1,75 @@
+{
+  "id": 873877739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.041243,41.262388,-96.041243,41.262388",
+    "geom:latitude":41.262388,
+    "geom:longitude":-96.041243,
+    "iso:country":"US",
+    "sg:address":"8000 Chicago St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 391 0705",
+    "sg:postcode":"68114",
+    "sg:province":"NE",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872509,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2dYHgqW7KI8Ec4zhQKpbDC_41.262388_-96.041243@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299391,
+    "wof:geomhash":"2435bd74555c49ab3750c6f772ab9c7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872509,
+            "region_id":85688563,
+            "venue_id":873877739
+        }
+    ],
+    "wof:id":873877739,
+    "wof:lastmodified":1464299391,
+    "wof:name":"Urologic Consultants",
+    "wof:parent_id":85872509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -96.041243,
+    41.262388,
+    -96.041243,
+    41.262388
+],
+  "geometry": {"coordinates":[-96.04124299999999,41.262388],"type":"Point"}
+}

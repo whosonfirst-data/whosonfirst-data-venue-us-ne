@@ -1,0 +1,71 @@
+{
+  "id": 873606913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.195066,41.182959,-96.195066,41.182959",
+    "geom:latitude":41.182959,
+    "geom:longitude":-96.195066,
+    "iso:country":"US",
+    "sg:address":"17904 Storage Rd",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 681 5243",
+    "sg:postcode":"68136",
+    "sg:province":"NE",
+    "sg:tags":[
+        "product",
+        "asphalt"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85834285,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5pKoaZFPocEloXusjTtZlF_41.182959_-96.195066@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295075,
+    "wof:geomhash":"8e1d8004b16480be02c4fdb113679ff3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85834285,
+            "region_id":85688563,
+            "venue_id":873606913
+        }
+    ],
+    "wof:id":873606913,
+    "wof:lastmodified":1464295075,
+    "wof:name":"Miktom Parking Lot Maintenance",
+    "wof:parent_id":85834285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "asphalt"
+    ]
+},
+  "bbox": [
+    -96.195066,
+    41.182959,
+    -96.195066,
+    41.182959
+],
+  "geometry": {"coordinates":[-96.195066,41.182959],"type":"Point"}
+}

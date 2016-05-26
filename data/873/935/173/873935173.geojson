@@ -1,0 +1,71 @@
+{
+  "id": 873935173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.187784,41.182867,-96.187784,41.182867",
+    "geom:latitude":41.182867,
+    "geom:longitude":-96.187784,
+    "iso:country":"US",
+    "sg:address":"17401 Storage Rd",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 891 4874",
+    "sg:postcode":"68136",
+    "sg:province":"NE",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85834285,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4U1hh3gGW2Ay33A4iZV6BJ_41.182867_-96.187784@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300503,
+    "wof:geomhash":"a877679f343dd308fb851cc21364c3a6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85834285,
+            "region_id":85688563,
+            "venue_id":873935173
+        }
+    ],
+    "wof:id":873935173,
+    "wof:lastmodified":1464300503,
+    "wof:name":"J B Construction Co Inc",
+    "wof:parent_id":85834285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.187784,
+    41.182867,
+    -96.187784,
+    41.182867
+],
+  "geometry": {"coordinates":[-96.18778399999999,41.182867],"type":"Point"}
+}

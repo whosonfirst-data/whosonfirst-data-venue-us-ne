@@ -1,0 +1,73 @@
+{
+  "id": 873605833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.642915,40.851838,-96.642915,40.851838",
+    "geom:latitude":40.851838,
+    "geom:longitude":-96.642915,
+    "iso:country":"US",
+    "sg:address":"5610 Seward Ave",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 467 1010",
+    "sg:postcode":"68507",
+    "sg:province":"NE",
+    "sg:tags":[
+        "business",
+        "association"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85824241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2y2St1ayvdovGLhIPtxEsy_40.851838_-96.642915@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295056,
+    "wof:geomhash":"1410e784b09634b8d4469cbd7366cdb9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85824241,
+            "region_id":85688563,
+            "venue_id":873605833
+        }
+    ],
+    "wof:id":873605833,
+    "wof:lastmodified":1464295056,
+    "wof:name":"Junior Achievement of Lincoln",
+    "wof:parent_id":85824241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "business",
+        "association"
+    ]
+},
+  "bbox": [
+    -96.642915,
+    40.851838,
+    -96.642915,
+    40.851838
+],
+  "geometry": {"coordinates":[-96.642915,40.851838],"type":"Point"}
+}

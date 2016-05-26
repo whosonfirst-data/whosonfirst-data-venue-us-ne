@@ -1,0 +1,73 @@
+{
+  "id": 873710645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.935291,41.158689,-95.935291,41.158689",
+    "geom:latitude":41.158689,
+    "geom:longitude":-95.935291,
+    "iso:country":"US",
+    "sg:address":"10403 S 15th St",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 291 2204",
+    "sg:postcode":"68123",
+    "sg:province":"NE",
+    "sg:tags":[
+        "salon",
+        "beauty"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85821583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6FBrEnMIMSJwwlpNZb4H6Q_41.158689_-95.935291@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296528,
+    "wof:geomhash":"82579dac689e6b471121140dbc21d1ca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85821583,
+            "region_id":85688563,
+            "venue_id":873710645
+        }
+    ],
+    "wof:id":873710645,
+    "wof:lastmodified":1464296528,
+    "wof:name":"Sally Beauty Supply",
+    "wof:parent_id":85821583,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "salon",
+        "beauty"
+    ]
+},
+  "bbox": [
+    -95.935291,
+    41.158689,
+    -95.935291,
+    41.158689
+],
+  "geometry": {"coordinates":[-95.93529100000001,41.158689],"type":"Point"}
+}

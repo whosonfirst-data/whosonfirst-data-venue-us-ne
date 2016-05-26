@@ -1,0 +1,71 @@
+{
+  "id": 873606739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.044368,41.156704,-96.044368,41.156704",
+    "geom:latitude":41.156704,
+    "geom:longitude":-96.044368,
+    "iso:country":"US",
+    "sg:address":"146 N Adams St",
+    "sg:city":"Papillion",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 339 8617",
+    "sg:postcode":"68046",
+    "sg:province":"NE",
+    "sg:tags":[
+        "department",
+        "volunteer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85843697,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6m8CcwUSM358Ldh98vRaWX_41.156704_-96.044368@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295070,
+    "wof:geomhash":"32c05be8a0f25f5e9a512ceb5edd14e5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85843697,
+            "region_id":85688563,
+            "venue_id":873606739
+        }
+    ],
+    "wof:id":873606739,
+    "wof:lastmodified":1464295070,
+    "wof:name":"Papillion Volunteer Fire Dept",
+    "wof:parent_id":85843697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department",
+        "volunteer"
+    ]
+},
+  "bbox": [
+    -96.044368,
+    41.156704,
+    -96.044368,
+    41.156704
+],
+  "geometry": {"coordinates":[-96.04436800000001,41.156704],"type":"Point"}
+}

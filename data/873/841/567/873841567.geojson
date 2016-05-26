@@ -1,0 +1,73 @@
+{
+  "id": 873841567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.634714,40.790853,-96.634714,40.790853",
+    "geom:latitude":40.790853,
+    "geom:longitude":-96.634714,
+    "iso:country":"US",
+    "sg:address":"6220 Newton St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 489 5900",
+    "sg:postcode":"68506",
+    "sg:province":"NE",
+    "sg:tags":[
+        "consultant",
+        "business"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7GsrAzAZuHYbGw5Bly1lXu_40.790853_-96.634714@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298588,
+    "wof:geomhash":"108de38e11e5ecc4c32a2fafff2883e1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878697,
+            "region_id":85688563,
+            "venue_id":873841567
+        }
+    ],
+    "wof:id":873841567,
+    "wof:lastmodified":1464298588,
+    "wof:name":"R R Anderson & Assoc",
+    "wof:parent_id":85878697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "business"
+    ]
+},
+  "bbox": [
+    -96.634714,
+    40.790853,
+    -96.634714,
+    40.790853
+],
+  "geometry": {"coordinates":[-96.634714,40.790853],"type":"Point"}
+}

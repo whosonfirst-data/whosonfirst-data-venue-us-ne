@@ -1,0 +1,79 @@
+{
+  "id": 873943763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.967461,41.186683,-95.967461,41.186683",
+    "geom:latitude":41.186683,
+    "geom:longitude":-95.967461,
+    "iso:country":"US",
+    "sg:address":"7506 S 36th St",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Developer",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 733 4522",
+    "sg:postcode":"68147",
+    "sg:province":"NE",
+    "sg:tags":[
+        "profit",
+        "cemetery",
+        "association"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85849923,
+        102191575,
+        404519143,
+        85633793,
+        85974545,
+        102082777,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0K2y2kNPUuPZnj2P67QX3B_41.186683_-95.967461@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300838,
+    "wof:geomhash":"59c59efcaf6315550f46b6fa879dc12d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082777,
+            "localadmin_id":404519143,
+            "locality_id":85974545,
+            "neighbourhood_id":85849923,
+            "region_id":85688563,
+            "venue_id":873943763
+        }
+    ],
+    "wof:id":873943763,
+    "wof:lastmodified":1464300838,
+    "wof:name":"Saint Johns Cemetery",
+    "wof:parent_id":85849923,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "profit",
+        "cemetery",
+        "association"
+    ]
+},
+  "bbox": [
+    -95.967461,
+    41.186683,
+    -95.967461,
+    41.186683
+],
+  "geometry": {"coordinates":[-95.967461,41.186683],"type":"Point"}
+}

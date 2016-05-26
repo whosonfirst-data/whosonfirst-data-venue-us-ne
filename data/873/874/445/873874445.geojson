@@ -1,0 +1,71 @@
+{
+  "id": 873874445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.081482,41.190556,-96.081482,41.190556",
+    "geom:latitude":41.190556,
+    "geom:longitude":-96.081482,
+    "iso:country":"US",
+    "sg:address":"7002 S 108th St",
+    "sg:city":"La Vista",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 597 9300",
+    "sg:postcode":"68128",
+    "sg:province":"NE",
+    "sg:tags":[
+        "product",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85843697,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4rCpXoKb5p5zmLnoa9N8MZ_41.190556_-96.081482@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299325,
+    "wof:geomhash":"bb8235b748ab5af970ed53f09de74a64",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85843697,
+            "region_id":85688563,
+            "venue_id":873874445
+        }
+    ],
+    "wof:id":873874445,
+    "wof:lastmodified":1464299325,
+    "wof:name":"Cope Plastics Inc",
+    "wof:parent_id":85843697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -96.081482,
+    41.190556,
+    -96.081482,
+    41.190556
+],
+  "geometry": {"coordinates":[-96.08148199999999,41.190556],"type":"Point"}
+}

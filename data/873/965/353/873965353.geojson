@@ -1,0 +1,75 @@
+{
+  "id": 873965353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.048395,41.232434,-96.048395,41.232434",
+    "geom:latitude":41.232434,
+    "geom:longitude":-96.048395,
+    "iso:country":"US",
+    "sg:address":"2723 S 87th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 393 1550",
+    "sg:postcode":"68124",
+    "sg:province":"NE",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872511,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0XlQlB6hT5yP0IRulTWkiZ_41.232434_-96.048395@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464301812,
+    "wof:geomhash":"85d1612934570912a998790ad85533f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872511,
+            "region_id":85688563,
+            "venue_id":873965353
+        }
+    ],
+    "wof:id":873965353,
+    "wof:lastmodified":1464301812,
+    "wof:name":"Physicians of Obgy Clinic",
+    "wof:parent_id":85872511,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -96.048395,
+    41.232434,
+    -96.048395,
+    41.232434
+],
+  "geometry": {"coordinates":[-96.048395,41.232434],"type":"Point"}
+}

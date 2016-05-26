@@ -1,0 +1,77 @@
+{
+  "id": 873869255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.608861,40.82004,-96.608861,40.82004",
+    "geom:latitude":40.82004,
+    "geom:longitude":-96.608861,
+    "iso:country":"US",
+    "sg:address":"8216 Russwood Cir",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 770 1195",
+    "sg:postcode":"68505",
+    "sg:province":"NE",
+    "sg:tags":[
+        "garbage",
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878725,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0k1LwWaXzFaSbb4UTiM3ys_40.820040_-96.608861@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299212,
+    "wof:geomhash":"4c560b9d09c28cee8c3fb6167401ebf7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878725,
+            "region_id":85688563,
+            "venue_id":873869255
+        }
+    ],
+    "wof:id":873869255,
+    "wof:lastmodified":1464299212,
+    "wof:name":"Capital City Roll-Offs",
+    "wof:parent_id":85878725,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection"
+    ]
+},
+  "bbox": [
+    -96.608861,
+    40.82004,
+    -96.608861,
+    40.82004
+],
+  "geometry": {"coordinates":[-96.608861,40.82004],"type":"Point"}
+}

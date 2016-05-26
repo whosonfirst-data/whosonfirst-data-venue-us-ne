@@ -1,0 +1,77 @@
+{
+  "id": 873618109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.138634,41.22482,-96.138634,41.22482",
+    "geom:latitude":41.22482,
+    "geom:longitude":-96.138634,
+    "iso:country":"US",
+    "sg:address":"3636 S 144th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 334 0396",
+    "sg:postcode":"68144",
+    "sg:province":"NE",
+    "sg:tags":[
+        "instruction",
+        "gymnastic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872531,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1EVveqMG3bKvO5SnBkaYNR_41.224820_-96.138634@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295225,
+    "wof:geomhash":"44315bfb707e16e853e32beda050b565",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872531,
+            "region_id":85688563,
+            "venue_id":873618109
+        }
+    ],
+    "wof:id":873618109,
+    "wof:lastmodified":1464295225,
+    "wof:name":"Nebraska Gold Gymnastics",
+    "wof:parent_id":85872531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "gymnastic"
+    ]
+},
+  "bbox": [
+    -96.138634,
+    41.22482,
+    -96.138634,
+    41.22482
+],
+  "geometry": {"coordinates":[-96.138634,41.22482],"type":"Point"}
+}

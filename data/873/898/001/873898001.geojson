@@ -1,0 +1,75 @@
+{
+  "id": 873898001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.702852,40.814675,-96.702852,40.814675",
+    "geom:latitude":40.814675,
+    "geom:longitude":-96.702852,
+    "iso:country":"US",
+    "sg:address":"1225 P St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 434 4288",
+    "sg:postcode":"68508",
+    "sg:province":"NE",
+    "sg:tags":[
+        "garage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878699,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1W73wQEouoJj8vxIv2aQDU_40.814675_-96.702852@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299782,
+    "wof:geomhash":"1dfde9f38c1ef4bc7bfa80fdd964186e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878699,
+            "region_id":85688563,
+            "venue_id":873898001
+        }
+    ],
+    "wof:id":873898001,
+    "wof:lastmodified":1464299782,
+    "wof:name":"Rampark Parking",
+    "wof:parent_id":85878699,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garage"
+    ]
+},
+  "bbox": [
+    -96.702852,
+    40.814675,
+    -96.702852,
+    40.814675
+],
+  "geometry": {"coordinates":[-96.70285199999999,40.814675],"type":"Point"}
+}

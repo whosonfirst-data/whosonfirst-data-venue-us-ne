@@ -1,0 +1,81 @@
+{
+  "id": 873856673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.735928,40.852406,-96.735928,40.852406",
+    "geom:latitude":40.852406,
+    "geom:longitude":-96.735928,
+    "iso:country":"US",
+    "sg:address":"1001 King Bird Rd",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 434 2775",
+    "sg:postcode":"68521",
+    "sg:province":"NE",
+    "sg:tags":[
+        "mfg",
+        "commercial",
+        "research",
+        "only",
+        "fertilizer",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6sxVXvg3ijMRXDIPFlxeMg_40.852406_-96.735928@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298947,
+    "wof:geomhash":"7b91af62e3187e377600a930e3994b38",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878717,
+            "region_id":85688563,
+            "venue_id":873856673
+        }
+    ],
+    "wof:id":873856673,
+    "wof:lastmodified":1464298947,
+    "wof:name":"Rieke Metals Inc",
+    "wof:parent_id":85878717,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg",
+        "commercial",
+        "research",
+        "only",
+        "fertilizer",
+        "physical"
+    ]
+},
+  "bbox": [
+    -96.735928,
+    40.852406,
+    -96.735928,
+    40.852406
+],
+  "geometry": {"coordinates":[-96.735928,40.852406],"type":"Point"}
+}

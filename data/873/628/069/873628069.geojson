@@ -1,0 +1,71 @@
+{
+  "id": 873628069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.736611,40.86214,-96.736611,40.86214",
+    "geom:latitude":40.86214,
+    "geom:longitude":-96.736611,
+    "iso:country":"US",
+    "sg:address":"5311 NW Fairway Dr",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 435 1159",
+    "sg:postcode":"68521",
+    "sg:province":"NE",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ygD4ODOpfbJoSSFyoR6ZB_40.862140_-96.736611@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295341,
+    "wof:geomhash":"339d2cc150f586dc3184d3d1f04c4e51",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878717,
+            "region_id":85688563,
+            "venue_id":873628069
+        }
+    ],
+    "wof:id":873628069,
+    "wof:lastmodified":1464295341,
+    "wof:name":"Janices Day Care",
+    "wof:parent_id":85878717,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -96.736611,
+    40.86214,
+    -96.736611,
+    40.86214
+],
+  "geometry": {"coordinates":[-96.736611,40.86214],"type":"Point"}
+}

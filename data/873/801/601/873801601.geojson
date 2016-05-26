@@ -1,0 +1,71 @@
+{
+  "id": 873801601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.953466,41.131421,-95.953466,41.131421",
+    "geom:latitude":41.131421,
+    "geom:longitude":-95.953466,
+    "iso:country":"US",
+    "sg:address":"2809 Ponderosa Dr",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 292 9057",
+    "sg:postcode":"68123",
+    "sg:province":"NE",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85821583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7L9cgkaIpUpyblm13xY7bn_41.131421_-95.953466@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297792,
+    "wof:geomhash":"5ae90fff38564c10619f0ac4e6ae621c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85821583,
+            "region_id":85688563,
+            "venue_id":873801601
+        }
+    ],
+    "wof:id":873801601,
+    "wof:lastmodified":1464297792,
+    "wof:name":"Yeknopes Pok Day Care",
+    "wof:parent_id":85821583,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -95.953466,
+    41.131421,
+    -95.953466,
+    41.131421
+],
+  "geometry": {"coordinates":[-95.95346600000001,41.131421],"type":"Point"}
+}

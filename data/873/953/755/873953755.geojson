@@ -1,0 +1,72 @@
+{
+  "id": 873953755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.642755,40.862977,-96.642755,40.862977",
+    "geom:latitude":40.862977,
+    "geom:longitude":-96.642755,
+    "iso:country":"US",
+    "sg:address":"4921 N 57th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 466 3911",
+    "sg:postcode":"68507",
+    "sg:province":"NE",
+    "sg:tags":[
+        "engineer"
+    ],
+    "sg:website":"www.terracon.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85824241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_55nliU4jKE28blOMnhsvfH_40.862977_-96.642755@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464301293,
+    "wof:geomhash":"5a8c9834bd5319d983f7a765b67e92e1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85824241,
+            "region_id":85688563,
+            "venue_id":873953755
+        }
+    ],
+    "wof:id":873953755,
+    "wof:lastmodified":1464301293,
+    "wof:name":"Terracon",
+    "wof:parent_id":85824241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineer"
+    ]
+},
+  "bbox": [
+    -96.642755,
+    40.862977,
+    -96.642755,
+    40.862977
+],
+  "geometry": {"coordinates":[-96.64275499999999,40.862977],"type":"Point"}
+}

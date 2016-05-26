@@ -1,0 +1,75 @@
+{
+  "id": 873805119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.948833,41.175511,-95.948833,41.175511",
+    "geom:latitude":41.175511,
+    "geom:longitude":-95.948833,
+    "iso:country":"US",
+    "sg:address":"2502 Holly St",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 677 8623",
+    "sg:postcode":"68147",
+    "sg:province":"NE",
+    "sg:tags":[
+        "excavation",
+        "sanitary",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85821583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7JFK5MaL0Rn2wU0yaTBGif_41.175511_-95.948833@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297836,
+    "wof:geomhash":"b89fda40ad312ef4d68b545d85982323",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85821583,
+            "region_id":85688563,
+            "venue_id":873805119
+        }
+    ],
+    "wof:id":873805119,
+    "wof:lastmodified":1464297836,
+    "wof:name":"Poloncic Construction",
+    "wof:parent_id":85821583,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "sanitary",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -95.948833,
+    41.175511,
+    -95.948833,
+    41.175511
+],
+  "geometry": {"coordinates":[-95.94883299999999,41.175511],"type":"Point"}
+}

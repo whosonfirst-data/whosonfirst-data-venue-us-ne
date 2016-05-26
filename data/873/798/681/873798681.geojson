@@ -1,0 +1,73 @@
+{
+  "id": 873798681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.91757,41.136316,-95.91757,41.136316",
+    "geom:latitude":41.136316,
+    "geom:longitude":-95.91757,
+    "iso:country":"US",
+    "sg:address":"109 Crestridge Dr",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 991 4294",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974747,
+        102082777,
+        85820061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4O6LYJ0pOOPSyaN4Hj8ZUV_41.136316_-95.917570@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297758,
+    "wof:geomhash":"e7c61878d7ebb9bf0661332535527183",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974747,
+            "neighbourhood_id":85820061,
+            "region_id":85688563,
+            "venue_id":873798681
+        }
+    ],
+    "wof:id":873798681,
+    "wof:lastmodified":1464297758,
+    "wof:name":"J C Frey Plumbing",
+    "wof:parent_id":85820061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -95.91757,
+    41.136316,
+    -95.91757,
+    41.136316
+],
+  "geometry": {"coordinates":[-95.91757,41.136316],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873931669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.609361,40.777497,-96.609361,40.777497",
+    "geom:latitude":40.777497,
+    "geom:longitude":-96.609361,
+    "iso:country":"US",
+    "sg:address":"8240 Eastwood Dr",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 438 6558",
+    "sg:postcode":"68506",
+    "sg:province":"NE",
+    "sg:tags":[
+        "home",
+        "builder"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_38rPU3OiqPZTQa7CDxfUAt_40.777497_-96.609361@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300441,
+    "wof:geomhash":"1ddf1f1d8540a13d6decd2a017b2c5b2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878697,
+            "region_id":85688563,
+            "venue_id":873931669
+        }
+    ],
+    "wof:id":873931669,
+    "wof:lastmodified":1464300441,
+    "wof:name":"Neighbors Family Homes Inc",
+    "wof:parent_id":85878697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "builder"
+    ]
+},
+  "bbox": [
+    -96.609361,
+    40.777497,
+    -96.609361,
+    40.777497
+],
+  "geometry": {"coordinates":[-96.60936100000001,40.777497],"type":"Point"}
+}

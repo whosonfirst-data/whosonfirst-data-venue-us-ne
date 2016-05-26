@@ -1,0 +1,75 @@
+{
+  "id": 873945877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.148877,41.251832,-96.148877,41.251832",
+    "geom:latitude":41.251832,
+    "geom:longitude":-96.148877,
+    "iso:country":"US",
+    "sg:address":"641 S 150th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 758 9362",
+    "sg:postcode":"68154",
+    "sg:province":"NE",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85806957,
+        102191575,
+        404519987,
+        85633793,
+        85973479,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_69DorX6cpYWLgCr2sW7xTy_41.251832_-96.148877@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300917,
+    "wof:geomhash":"1e2b096d9b15b4ce89940b3220fb40e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404519987,
+            "locality_id":85973479,
+            "neighbourhood_id":85806957,
+            "region_id":85688563,
+            "venue_id":873945877
+        }
+    ],
+    "wof:id":873945877,
+    "wof:lastmodified":1464300917,
+    "wof:name":"Metro Plumbing",
+    "wof:parent_id":85806957,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.148877,
+    41.251832,
+    -96.148877,
+    41.251832
+],
+  "geometry": {"coordinates":[-96.148877,41.251832],"type":"Point"}
+}

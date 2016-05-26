@@ -1,0 +1,73 @@
+{
+  "id": 873879235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.366841,41.439171,-97.366841,41.439171",
+    "geom:latitude":41.439171,
+    "geom:longitude":-97.366841,
+    "iso:country":"US",
+    "sg:address":"2380 32nd Ave",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 564 5785",
+    "sg:postcode":"68601",
+    "sg:province":"NE",
+    "sg:tags":[
+        "party",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974401,
+        102084277,
+        85854093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5xXuvxKRXASumlhXbABGR2_41.439171_-97.366841@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299418,
+    "wof:geomhash":"c2e66a7f95504dab1de3a470c659814d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084277,
+            "locality_id":85974401,
+            "neighbourhood_id":85854093,
+            "region_id":85688563,
+            "venue_id":873879235
+        }
+    ],
+    "wof:id":873879235,
+    "wof:lastmodified":1464299418,
+    "wof:name":"Party Palace & Gift Shop",
+    "wof:parent_id":85854093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "party",
+        "supply"
+    ]
+},
+  "bbox": [
+    -97.366841,
+    41.439171,
+    -97.366841,
+    41.439171
+],
+  "geometry": {"coordinates":[-97.36684099999999,41.439171],"type":"Point"}
+}

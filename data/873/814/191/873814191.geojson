@@ -1,0 +1,71 @@
+{
+  "id": 873814191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.046146,41.159476,-96.046146,41.159476",
+    "geom:latitude":41.159476,
+    "geom:longitude":-96.046146,
+    "iso:country":"US",
+    "sg:address":"400 N Jackson St",
+    "sg:city":"Papillion",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 339 7007",
+    "sg:postcode":"68046",
+    "sg:province":"NE",
+    "sg:tags":[
+        "masonry",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85843697,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4wC3C0zfoas5pHj533LIBs_41.159476_-96.046146@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298000,
+    "wof:geomhash":"816d006858fba5f82ec2e662e65cfb77",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85843697,
+            "region_id":85688563,
+            "venue_id":873814191
+        }
+    ],
+    "wof:id":873814191,
+    "wof:lastmodified":1464298000,
+    "wof:name":"Hansen Construction",
+    "wof:parent_id":85843697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "masonry",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.046146,
+    41.159476,
+    -96.046146,
+    41.159476
+],
+  "geometry": {"coordinates":[-96.04614599999999,41.159476],"type":"Point"}
+}

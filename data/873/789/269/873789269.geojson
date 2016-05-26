@@ -1,0 +1,71 @@
+{
+  "id": 873789269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.778105,40.785125,-96.778105,40.785125",
+    "geom:latitude":40.785125,
+    "geom:longitude":-96.778105,
+    "iso:country":"US",
+    "sg:address":"2501 SW 40th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 483 1229",
+    "sg:postcode":"68522",
+    "sg:province":"NE",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85813295,
+        102083503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_59oRqfedshtM2Gyde3hijj_40.785125_-96.778105@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297632,
+    "wof:geomhash":"9782a0c426f32592fd69f9ce49e52510",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "neighbourhood_id":85813295,
+            "region_id":85688563,
+            "venue_id":873789269
+        }
+    ],
+    "wof:id":873789269,
+    "wof:lastmodified":1464297632,
+    "wof:name":"Donald A Clark Contracting",
+    "wof:parent_id":85813295,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.778105,
+    40.785125,
+    -96.778105,
+    40.785125
+],
+  "geometry": {"coordinates":[-96.778105,40.785125],"type":"Point"}
+}

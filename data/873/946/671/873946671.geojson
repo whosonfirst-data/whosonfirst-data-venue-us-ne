@@ -1,0 +1,73 @@
+{
+  "id": 873946671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.190327,41.182799,-96.190327,41.182799",
+    "geom:latitude":41.182799,
+    "geom:longitude":-96.190327,
+    "iso:country":"US",
+    "sg:address":"17601 Storage Rd",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 896 3189",
+    "sg:postcode":"68136",
+    "sg:province":"NE",
+    "sg:tags":[
+        "electrical",
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85834285,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5f8l1w3FNsSRRuidy5n1aU_41.182799_-96.190327@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300980,
+    "wof:geomhash":"41b55431d788cd25fca48a0a756ab7ba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85834285,
+            "region_id":85688563,
+            "venue_id":873946671
+        }
+    ],
+    "wof:id":873946671,
+    "wof:lastmodified":1464300980,
+    "wof:name":"Great Plains Electric Inc",
+    "wof:parent_id":85834285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.190327,
+    41.182799,
+    -96.190327,
+    41.182799
+],
+  "geometry": {"coordinates":[-96.190327,41.182799],"type":"Point"}
+}

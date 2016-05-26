@@ -1,0 +1,70 @@
+{
+  "id": 873624121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.670117,40.814416,-96.670117,40.814416",
+    "geom:latitude":40.814416,
+    "geom:longitude":-96.670117,
+    "iso:country":"US",
+    "sg:address":"110 N 35th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 000 1111",
+    "sg:postcode":"68503",
+    "sg:province":"NE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878715,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2uiLjZNoQRcYVlL9wiuke2_40.814416_-96.670117@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295300,
+    "wof:geomhash":"4bc7a37182a75a6cb6441da2a080e120",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878715,
+            "region_id":85688563,
+            "venue_id":873624121
+        }
+    ],
+    "wof:id":873624121,
+    "wof:lastmodified":1464295300,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85878715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.670117,
+    40.814416,
+    -96.670117,
+    40.814416
+],
+  "geometry": {"coordinates":[-96.670117,40.814416],"type":"Point"}
+}

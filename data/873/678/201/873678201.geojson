@@ -1,0 +1,73 @@
+{
+  "id": 873678201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.192529,41.182877,-96.192529,41.182877",
+    "geom:latitude":41.182877,
+    "geom:longitude":-96.192529,
+    "iso:country":"US",
+    "sg:address":"17719 Storage Rd",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 895 6534",
+    "sg:postcode":"68136",
+    "sg:province":"NE",
+    "sg:tags":[
+        "plastic",
+        "machinery",
+        "molding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85834285,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2eVAJWYHkoLvvL0x8qsaem_41.182877_-96.192529@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295943,
+    "wof:geomhash":"c6602b0ce3372b40aacb650395191760",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85834285,
+            "region_id":85688563,
+            "venue_id":873678201
+        }
+    ],
+    "wof:id":873678201,
+    "wof:lastmodified":1464295943,
+    "wof:name":"Battleson Industrial Svc Inc",
+    "wof:parent_id":85834285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plastic",
+        "machinery",
+        "molding"
+    ]
+},
+  "bbox": [
+    -96.192529,
+    41.182877,
+    -96.192529,
+    41.182877
+],
+  "geometry": {"coordinates":[-96.19252899999999,41.182877],"type":"Point"}
+}

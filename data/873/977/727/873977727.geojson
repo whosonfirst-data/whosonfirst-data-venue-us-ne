@@ -1,0 +1,72 @@
+{
+  "id": 873977727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.023675,41.17617,-96.023675,41.17617",
+    "geom:latitude":41.17617,
+    "geom:longitude":-96.023675,
+    "iso:country":"US",
+    "sg:address":"8304 S 72nd St",
+    "sg:city":"Papillion",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ne/papillion/109399-village-inn/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 339 9339",
+    "sg:postcode":"68046",
+    "sg:province":"NE",
+    "sg:tags":[
+        "new",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85843697,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2U5Q4OHjrBs3xwSdgUGhMN_41.176087_-96.023767@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464302287,
+    "wof:geomhash":"67aa158eb5f2947faea93d3df5c43b08",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85843697,
+            "region_id":85688563,
+            "venue_id":873977727
+        }
+    ],
+    "wof:id":873977727,
+    "wof:lastmodified":1464302287,
+    "wof:name":"Village Inn",
+    "wof:parent_id":85843697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "new",
+        "american"
+    ]
+},
+  "bbox": [
+    -96.023675,
+    41.17617,
+    -96.023675,
+    41.17617
+],
+  "geometry": {"coordinates":[-96.023675,41.17617],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 873599091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.720346,40.808542,-96.720346,40.808542",
+    "geom:latitude":40.808542,
+    "geom:longitude":-96.720346,
+    "iso:country":"US",
+    "sg:address":"541 S 1st St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 475 5121",
+    "sg:postcode":"68508",
+    "sg:province":"NE",
+    "sg:tags":[
+        "repair",
+        "station"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878737,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_49KUDzhBiQLtqGyCPK1z3K_40.808542_-96.720346@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294974,
+    "wof:geomhash":"57878284b5f9b242cef157a4d52fde6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878737,
+            "region_id":85688563,
+            "venue_id":873599091
+        }
+    ],
+    "wof:id":873599091,
+    "wof:lastmodified":1464294974,
+    "wof:name":"Yant Testing Supply & Eqp",
+    "wof:parent_id":85878737,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "station"
+    ]
+},
+  "bbox": [
+    -96.720346,
+    40.808542,
+    -96.720346,
+    40.808542
+],
+  "geometry": {"coordinates":[-96.72034600000001,40.808542],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 873610369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.906505,41.134514,-95.906505,41.134514",
+    "geom:latitude":41.134514,
+    "geom:longitude":-95.906505,
+    "iso:country":"US",
+    "sg:address":"1014 W 24th Ave",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 291 1123",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "fire",
+        "alarm",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974747,
+        102082777,
+        85820061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Ekqz3Macr2bkpKsvooZBg_41.134514_-95.906505@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295148,
+    "wof:geomhash":"4391c5cced3c4c9ea388de957817742d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974747,
+            "neighbourhood_id":85820061,
+            "region_id":85688563,
+            "venue_id":873610369
+        }
+    ],
+    "wof:id":873610369,
+    "wof:lastmodified":1464295148,
+    "wof:name":"Ideal Systems",
+    "wof:parent_id":85820061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fire",
+        "alarm",
+        "system"
+    ]
+},
+  "bbox": [
+    -95.906505,
+    41.134514,
+    -95.906505,
+    41.134514
+],
+  "geometry": {"coordinates":[-95.906505,41.134514],"type":"Point"}
+}

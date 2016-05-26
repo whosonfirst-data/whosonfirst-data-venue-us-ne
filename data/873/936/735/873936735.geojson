@@ -1,0 +1,71 @@
+{
+  "id": 873936735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.044611,41.133564,-96.044611,41.133564",
+    "geom:latitude":41.133564,
+    "geom:longitude":-96.044611,
+    "iso:country":"US",
+    "sg:address":"1958 Kingston Cir",
+    "sg:city":"Papillion",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 592 7746",
+    "sg:postcode":"68046",
+    "sg:province":"NE",
+    "sg:tags":[
+        "carpentry",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85843697,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0fMJ614qtpqhcJUW9KDpOI_41.133564_-96.044611@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300558,
+    "wof:geomhash":"cc0269d9670e75384e4cefe097724b8a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85843697,
+            "region_id":85688563,
+            "venue_id":873936735
+        }
+    ],
+    "wof:id":873936735,
+    "wof:lastmodified":1464300558,
+    "wof:name":"Grate John",
+    "wof:parent_id":85843697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carpentry",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.044611,
+    41.133564,
+    -96.044611,
+    41.133564
+],
+  "geometry": {"coordinates":[-96.044611,41.133564],"type":"Point"}
+}

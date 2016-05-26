@@ -1,0 +1,71 @@
+{
+  "id": 873732405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.044477,41.185737,-96.044477,41.185737",
+    "geom:latitude":41.185737,
+    "geom:longitude":-96.044477,
+    "iso:country":"US",
+    "sg:address":"8515 Spruce Ct",
+    "sg:city":"La Vista",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 596 0320",
+    "sg:postcode":"68128",
+    "sg:province":"NE",
+    "sg:tags":[
+        "tile",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85843697,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0KzaTbL79FFv15agzErPTl_41.185737_-96.044477@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296808,
+    "wof:geomhash":"29469abfd25b593473a8da91b9555d5e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85843697,
+            "region_id":85688563,
+            "venue_id":873732405
+        }
+    ],
+    "wof:id":873732405,
+    "wof:lastmodified":1464296808,
+    "wof:name":"Huss Tile Inc",
+    "wof:parent_id":85843697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tile",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -96.044477,
+    41.185737,
+    -96.044477,
+    41.185737
+],
+  "geometry": {"coordinates":[-96.044477,41.185737],"type":"Point"}
+}

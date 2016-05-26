@@ -1,0 +1,79 @@
+{
+  "id": 873848667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.070886,41.285203,-96.070886,41.285203",
+    "geom:latitude":41.285203,
+    "geom:longitude":-96.070886,
+    "iso:country":"US",
+    "sg:address":"10154 Maple St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 573 0020",
+    "sg:postcode":"68134",
+    "sg:province":"NE",
+    "sg:tags":[
+        "apparel",
+        "bowling",
+        "accessory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872503,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3z9toBdwALuclQBVINXPT8_41.285203_-96.070886@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298786,
+    "wof:geomhash":"33ee7f2514d9c1be03a92fd20295d80c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872503,
+            "region_id":85688563,
+            "venue_id":873848667
+        }
+    ],
+    "wof:id":873848667,
+    "wof:lastmodified":1464298786,
+    "wof:name":"Bowlers Choice Inc",
+    "wof:parent_id":85872503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apparel",
+        "bowling",
+        "accessory"
+    ]
+},
+  "bbox": [
+    -96.070886,
+    41.285203,
+    -96.070886,
+    41.285203
+],
+  "geometry": {"coordinates":[-96.070886,41.285203],"type":"Point"}
+}

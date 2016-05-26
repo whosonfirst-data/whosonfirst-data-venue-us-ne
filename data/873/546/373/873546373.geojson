@@ -1,0 +1,71 @@
+{
+  "id": 873546373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.894985,41.136618,-95.894985,41.136618",
+    "geom:latitude":41.136618,
+    "geom:longitude":-95.894985,
+    "iso:country":"US",
+    "sg:address":"2231 Jefferson St",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 293 0750",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974747,
+        102082777,
+        85820061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Mw6iqlrVAt8WzU0mEekrB_41.136618_-95.894985@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294333,
+    "wof:geomhash":"ba538175f094a7a9ff0a8be9499ef8cf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974747,
+            "neighbourhood_id":85820061,
+            "region_id":85688563,
+            "venue_id":873546373
+        }
+    ],
+    "wof:id":873546373,
+    "wof:lastmodified":1464294333,
+    "wof:name":"New Beginnings Worship Center",
+    "wof:parent_id":85820061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -95.894985,
+    41.136618,
+    -95.894985,
+    41.136618
+],
+  "geometry": {"coordinates":[-95.89498500000001,41.136618],"type":"Point"}
+}

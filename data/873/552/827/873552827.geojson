@@ -1,0 +1,79 @@
+{
+  "id": 873552827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.953139,41.330519,-95.953139,41.330519",
+    "geom:latitude":41.330519,
+    "geom:longitude":-95.953139,
+    "iso:country":"US",
+    "sg:address":"7609 N 27th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 455 7971",
+    "sg:postcode":"68112",
+    "sg:province":"NE",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85805287,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7JjBqRaVV2xDZjgUi3GX7K_41.330519_-95.953139@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294410,
+    "wof:geomhash":"7a26f0dc566f01617628ba8941b7081e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85805287,
+            "region_id":85688563,
+            "venue_id":873552827
+        }
+    ],
+    "wof:id":873552827,
+    "wof:lastmodified":1464294410,
+    "wof:name":"Transfer 88",
+    "wof:parent_id":85805287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -95.953139,
+    41.330519,
+    -95.953139,
+    41.330519
+],
+  "geometry": {"coordinates":[-95.95313899999999,41.330519],"type":"Point"}
+}

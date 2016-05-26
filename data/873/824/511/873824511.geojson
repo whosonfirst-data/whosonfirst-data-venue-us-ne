@@ -1,0 +1,77 @@
+{
+  "id": 873824511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.704584,40.830444,-96.704584,40.830444",
+    "geom:latitude":40.830444,
+    "geom:longitude":-96.704584,
+    "iso:country":"US",
+    "sg:address":"1300 Military Rd",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 309 7210",
+    "sg:postcode":"68508",
+    "sg:province":"NE",
+    "sg:tags":[
+        "administration",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878731,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_25fwVRAueOBSJ1c1B6G5Qm_40.830444_-96.704584@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298224,
+    "wof:geomhash":"363b30cfca1296ba5c4e9a15be352937",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878731,
+            "region_id":85688563,
+            "venue_id":873824511
+        }
+    ],
+    "wof:id":873824511,
+    "wof:lastmodified":1464298224,
+    "wof:name":"Military Nebraska Department",
+    "wof:parent_id":85878731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "administration",
+        "general"
+    ]
+},
+  "bbox": [
+    -96.704584,
+    40.830444,
+    -96.704584,
+    40.830444
+],
+  "geometry": {"coordinates":[-96.704584,40.830444],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 873950817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.079185,41.306577,-96.079185,41.306577",
+    "geom:latitude":41.306577,
+    "geom:longitude":-96.079185,
+    "iso:country":"US",
+    "sg:address":"10635 Fort St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 431 1780",
+    "sg:postcode":"68134",
+    "sg:province":"NE",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85872505,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1InVuoSVHbgkraXYkssvpe_41.306577_-96.079185@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464301178,
+    "wof:geomhash":"c264e66ebb6b3ad0d6b14f50b93b3d90",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":873950817
+        }
+    ],
+    "wof:id":873950817,
+    "wof:lastmodified":1464301178,
+    "wof:name":"Chad L Kluza DDS",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -96.079185,
+    41.306577,
+    -96.079185,
+    41.306577
+],
+  "geometry": {"coordinates":[-96.079185,41.306577],"type":"Point"}
+}

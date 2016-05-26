@@ -1,0 +1,71 @@
+{
+  "id": 873627851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.633049,40.857022,-96.633049,40.857022",
+    "geom:latitude":40.857022,
+    "geom:longitude":-96.633049,
+    "iso:country":"US",
+    "sg:address":"6301 Havelock Ave",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 466 2241",
+    "sg:postcode":"68507",
+    "sg:province":"NE",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85824241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2V0LEHn0ql153nD2ODqUdZ_40.857022_-96.633049@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295339,
+    "wof:geomhash":"88a07b79147cea9af9235ebf84bdaecd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85824241,
+            "region_id":85688563,
+            "venue_id":873627851
+        }
+    ],
+    "wof:id":873627851,
+    "wof:lastmodified":1464295339,
+    "wof:name":"Havelock Clinic Of Dr Zieg",
+    "wof:parent_id":85824241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -96.633049,
+    40.857022,
+    -96.633049,
+    40.857022
+],
+  "geometry": {"coordinates":[-96.633049,40.857022],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 873722177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.129834,41.192823,-96.129834,41.192823",
+    "geom:latitude":41.192823,
+    "geom:longitude":-96.129834,
+    "iso:country":"US",
+    "sg:address":"6605 S 139th Cir",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 896 0146",
+    "sg:postcode":"68137",
+    "sg:province":"NE",
+    "sg:tags":[
+        "glass",
+        "window",
+        "plate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872531,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0EU9pE0FCLaBB2ztws64WU_41.192823_-96.129834@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296676,
+    "wof:geomhash":"27cf8a200769b3cef6ea0040851a1088",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872531,
+            "region_id":85688563,
+            "venue_id":873722177
+        }
+    ],
+    "wof:id":873722177,
+    "wof:lastmodified":1464296676,
+    "wof:name":"Best Glass Co",
+    "wof:parent_id":85872531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass",
+        "window",
+        "plate"
+    ]
+},
+  "bbox": [
+    -96.129834,
+    41.192823,
+    -96.129834,
+    41.192823
+],
+  "geometry": {"coordinates":[-96.129834,41.192823],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 873802619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.966275,41.190778,-95.966275,41.190778",
+    "geom:latitude":41.190778,
+    "geom:longitude":-95.966275,
+    "iso:country":"US",
+    "sg:address":"3509 Harrison St",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 733 4770",
+    "sg:postcode":"68147",
+    "sg:province":"NE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85849923,
+        102191575,
+        404519143,
+        85633793,
+        85974545,
+        102082777,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_45I088cT3gIckTHDZfAdKj_41.190778_-95.966275@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297805,
+    "wof:geomhash":"cd4830a48c8d24d9f44e206001b2d0d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082777,
+            "localadmin_id":404519143,
+            "locality_id":85974545,
+            "neighbourhood_id":85849923,
+            "region_id":85688563,
+            "venue_id":873802619
+        }
+    ],
+    "wof:id":873802619,
+    "wof:lastmodified":1464297805,
+    "wof:name":"George W Otto DDS",
+    "wof:parent_id":85849923,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -95.966275,
+    41.190778,
+    -95.966275,
+    41.190778
+],
+  "geometry": {"coordinates":[-95.966275,41.190778],"type":"Point"}
+}

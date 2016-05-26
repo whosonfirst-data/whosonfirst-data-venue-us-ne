@@ -1,0 +1,71 @@
+{
+  "id": 873732835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.154667,41.176672,-96.154667,41.176672",
+    "geom:latitude":41.176672,
+    "geom:longitude":-96.154667,
+    "iso:country":"US",
+    "sg:address":"15315 Robin Cir",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 880 7698",
+    "sg:postcode":"68138",
+    "sg:province":"NE",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85834285,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1yEfjZ4akAoFl5txwoshHZ_41.176672_-96.154667@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296813,
+    "wof:geomhash":"ff40b7787e49a500b3b84844e04a2744",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85834285,
+            "region_id":85688563,
+            "venue_id":873732835
+        }
+    ],
+    "wof:id":873732835,
+    "wof:lastmodified":1464296813,
+    "wof:name":"Executive Electric",
+    "wof:parent_id":85834285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.154667,
+    41.176672,
+    -96.154667,
+    41.176672
+],
+  "geometry": {"coordinates":[-96.154667,41.176672],"type":"Point"}
+}

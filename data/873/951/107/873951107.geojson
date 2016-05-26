@@ -1,0 +1,69 @@
+{
+  "id": 873951107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.04156,41.156592,-96.04156,41.156592",
+    "geom:latitude":41.156592,
+    "geom:longitude":-96.04156,
+    "iso:country":"US",
+    "sg:address":"137 N Jefferson St",
+    "sg:city":"Papillion",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 827 7537",
+    "sg:postcode":"68046",
+    "sg:province":"NE",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85843697,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4pHtJtm0Yf5CNAtNRnqHE0_41.156592_-96.041560@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464301187,
+    "wof:geomhash":"0a630cda2e5e6a3cdd01bbd9b3722209",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85843697,
+            "region_id":85688563,
+            "venue_id":873951107
+        }
+    ],
+    "wof:id":873951107,
+    "wof:lastmodified":1464301187,
+    "wof:name":"Apple Tree Orchard LLC",
+    "wof:parent_id":85843697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -96.04156,
+    41.156592,
+    -96.04156,
+    41.156592
+],
+  "geometry": {"coordinates":[-96.04156,41.156592],"type":"Point"}
+}

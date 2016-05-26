@@ -1,0 +1,70 @@
+{
+  "id": 873968983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.988197,41.281601,-95.988197,41.281601",
+    "geom:latitude":41.281601,
+    "geom:longitude":-95.988197,
+    "iso:country":"US",
+    "sg:address":"4902 NW Radial Hwy",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 553 4480",
+    "sg:postcode":"68104",
+    "sg:province":"NE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872535,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ZDB9QfRDnsnYKbVlwZNK9_41.281448_-95.988969@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464301950,
+    "wof:geomhash":"d8a8d1afa38b1b8a15565a6b508f1fe3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872535,
+            "region_id":85688563,
+            "venue_id":873968983
+        }
+    ],
+    "wof:id":873968983,
+    "wof:lastmodified":1464301950,
+    "wof:name":"Midwest Automotive Sales & Service",
+    "wof:parent_id":85872535,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -95.988197,
+    41.281601,
+    -95.988197,
+    41.281601
+],
+  "geometry": {"coordinates":[-95.988197,41.281601],"type":"Point"}
+}

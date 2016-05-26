@@ -1,0 +1,71 @@
+{
+  "id": 873828643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.085718,41.305213,-96.085718,41.305213",
+    "geom:latitude":41.305213,
+    "geom:longitude":-96.085718,
+    "iso:country":"US",
+    "sg:address":"5122 N 112th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 496 7380",
+    "sg:postcode":"68164",
+    "sg:province":"NE",
+    "sg:tags":[
+        "public",
+        "relations"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85872505,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3YpzGWpZJyBexDOXBM09sI_41.305213_-96.085718@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298307,
+    "wof:geomhash":"4a5a3ba60c59bcd15f9878a864a702ec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":873828643
+        }
+    ],
+    "wof:id":873828643,
+    "wof:lastmodified":1464298307,
+    "wof:name":"Rockwell Automation Inc",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "public",
+        "relations"
+    ]
+},
+  "bbox": [
+    -96.085718,
+    41.305213,
+    -96.085718,
+    41.305213
+],
+  "geometry": {"coordinates":[-96.085718,41.305213],"type":"Point"}
+}

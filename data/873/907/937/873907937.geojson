@@ -1,0 +1,80 @@
+{
+  "id": 873907937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.075064,41.293557,-96.075064,41.293557",
+    "geom:latitude":41.293557,
+    "geom:longitude":-96.075064,
+    "iso:country":"US",
+    "sg:address":"3826 N 104th Ave",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 932 1550",
+    "sg:postcode":"68134",
+    "sg:province":"NE",
+    "sg:tags":[
+        "passenger"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872503,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2idCgYFkU2FPBqccc04cY7_41.293557_-96.075064@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299975,
+    "wof:geomhash":"c4502ded68612cb287476bc354b5db9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872503,
+            "region_id":85688563,
+            "venue_id":873907937
+        }
+    ],
+    "wof:id":873907937,
+    "wof:lastmodified":1464299975,
+    "wof:name":"Goodwill Medical Trnsprtn",
+    "wof:parent_id":85872503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger"
+    ]
+},
+  "bbox": [
+    -96.075064,
+    41.293557,
+    -96.075064,
+    41.293557
+],
+  "geometry": {"coordinates":[-96.075064,41.293557],"type":"Point"}
+}

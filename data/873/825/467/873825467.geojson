@@ -1,0 +1,71 @@
+{
+  "id": 873825467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.11982,41.306544,-96.11982,41.306544",
+    "geom:latitude":41.306544,
+    "geom:longitude":-96.11982,
+    "iso:country":"US",
+    "sg:address":"13211 Fort St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 493 7200",
+    "sg:postcode":"68164",
+    "sg:province":"NE",
+    "sg:tags":[
+        "lock",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85872505,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3aQRrjduASqNPmCY5LIMHZ_41.306544_-96.119820@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298245,
+    "wof:geomhash":"2862192442262a2facdf5f23db60af7e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":873825467
+        }
+    ],
+    "wof:id":873825467,
+    "wof:lastmodified":1464298245,
+    "wof:name":"A Locksmiths",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "locksmith"
+    ]
+},
+  "bbox": [
+    -96.11982,
+    41.306544,
+    -96.11982,
+    41.306544
+],
+  "geometry": {"coordinates":[-96.11982,41.306544],"type":"Point"}
+}

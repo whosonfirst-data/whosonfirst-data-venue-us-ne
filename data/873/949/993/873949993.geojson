@@ -1,0 +1,77 @@
+{
+  "id": 873949993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.121512,41.205248,-96.121512,41.205248",
+    "geom:latitude":41.205248,
+    "geom:longitude":-96.121512,
+    "iso:country":"US",
+    "sg:address":"13508 Q St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 345 8660",
+    "sg:postcode":"68137",
+    "sg:province":"NE",
+    "sg:tags":[
+        "automobile",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872531,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3HuDp0QileI7Pp4ZjZP6Ql_41.205248_-96.121512@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464301150,
+    "wof:geomhash":"1cecd55199c3d436e0fc17e1075407ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872531,
+            "region_id":85688563,
+            "venue_id":873949993
+        }
+    ],
+    "wof:id":873949993,
+    "wof:lastmodified":1464301150,
+    "wof:name":"Midwest Undercar Warehouse",
+    "wof:parent_id":85872531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "supply"
+    ]
+},
+  "bbox": [
+    -96.121512,
+    41.205248,
+    -96.121512,
+    41.205248
+],
+  "geometry": {"coordinates":[-96.121512,41.205248],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873792629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.10075,41.297946,-96.10075,41.297946",
+    "geom:latitude":41.297946,
+    "geom:longitude":-96.10075,
+    "iso:country":"US",
+    "sg:address":"4700 N 120th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 493 1777",
+    "sg:postcode":"68164",
+    "sg:province":"NE",
+    "sg:tags":[
+        "range",
+        "practice",
+        "golf"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85872505,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6WQQ1AtF0GtawhIeo8zv3A_41.297946_-96.100750@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297685,
+    "wof:geomhash":"155799a6296d0feac699aca4e06ba676",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":873792629
+        }
+    ],
+    "wof:id":873792629,
+    "wof:lastmodified":1464297685,
+    "wof:name":"Schmidley's Driving Range",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "range",
+        "practice",
+        "golf"
+    ]
+},
+  "bbox": [
+    -96.10075,
+    41.297946,
+    -96.10075,
+    41.297946
+],
+  "geometry": {"coordinates":[-96.10075000000001,41.297946],"type":"Point"}
+}

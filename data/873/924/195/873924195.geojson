@@ -1,0 +1,73 @@
+{
+  "id": 873924195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.119818,41.364873,-96.119818,41.364873",
+    "geom:latitude":41.364873,
+    "geom:longitude":-96.119818,
+    "iso:country":"US",
+    "sg:address":"12831 Bennington Rd",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 672 9225",
+    "sg:postcode":"68142",
+    "sg:province":"NE",
+    "sg:tags":[
+        "lawn",
+        "maintenance",
+        "grounds"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85872505,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2nbM08OkCkGMdrGKnsz1wG_41.364873_-96.119818@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300291,
+    "wof:geomhash":"10e1e1800da96e1bf302df9ba025cf2f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":873924195
+        }
+    ],
+    "wof:id":873924195,
+    "wof:lastmodified":1464300291,
+    "wof:name":"Affordable Lawn Care",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lawn",
+        "maintenance",
+        "grounds"
+    ]
+},
+  "bbox": [
+    -96.119818,
+    41.364873,
+    -96.119818,
+    41.364873
+],
+  "geometry": {"coordinates":[-96.119818,41.364873],"type":"Point"}
+}

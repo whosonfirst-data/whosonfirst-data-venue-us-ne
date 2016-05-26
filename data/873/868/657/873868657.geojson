@@ -1,0 +1,71 @@
+{
+  "id": 873868657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.105622,41.326077,-96.105622,41.326077",
+    "geom:latitude":41.326077,
+    "geom:longitude":-96.105622,
+    "iso:country":"US",
+    "sg:address":"12329 Scott Cir",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 991 6100",
+    "sg:postcode":"68142",
+    "sg:province":"NE",
+    "sg:tags":[
+        "home",
+        "builder"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85872505,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_46izBDIw5yraFcLPJRmTft_41.326077_-96.105622@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299202,
+    "wof:geomhash":"0ef7b9b62e1fbb7b5b6f84ed89bfe4d6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":873868657
+        }
+    ],
+    "wof:id":873868657,
+    "wof:lastmodified":1464299202,
+    "wof:name":"Platinum Builders LLC",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "builder"
+    ]
+},
+  "bbox": [
+    -96.105622,
+    41.326077,
+    -96.105622,
+    41.326077
+],
+  "geometry": {"coordinates":[-96.105622,41.326077],"type":"Point"}
+}

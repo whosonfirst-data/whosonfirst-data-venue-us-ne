@@ -1,0 +1,77 @@
+{
+  "id": 873718283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.057309,41.280188,-96.057309,41.280188",
+    "geom:latitude":41.280188,
+    "geom:longitude":-96.057309,
+    "iso:country":"US",
+    "sg:address":"9270 Cady Ave",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 444 7300",
+    "sg:postcode":"68134",
+    "sg:province":"NE",
+    "sg:tags":[
+        "pool",
+        "swimming"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867061,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6OScEyiLrGEZMMdwlYuLFI_41.280188_-96.057309@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296624,
+    "wof:geomhash":"258da4c6e76711a79ec63d03bf4057a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85867061,
+            "region_id":85688563,
+            "venue_id":873718283
+        }
+    ],
+    "wof:id":873718283,
+    "wof:lastmodified":1464296624,
+    "wof:name":"Camelot Swimming Pools",
+    "wof:parent_id":85867061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pool",
+        "swimming"
+    ]
+},
+  "bbox": [
+    -96.057309,
+    41.280188,
+    -96.057309,
+    41.280188
+],
+  "geometry": {"coordinates":[-96.057309,41.280188],"type":"Point"}
+}

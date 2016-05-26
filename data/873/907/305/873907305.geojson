@@ -1,0 +1,71 @@
+{
+  "id": 873907305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.045335,41.188622,-96.045335,41.188622",
+    "geom:latitude":41.188622,
+    "geom:longitude":-96.045335,
+    "iso:country":"US",
+    "sg:address":"7116 S 86th St",
+    "sg:city":"La Vista",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 934 1096",
+    "sg:postcode":"68128",
+    "sg:province":"NE",
+    "sg:tags":[
+        "instruction",
+        "music"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85843697,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7TVj4H90dcRSHLjbo3EPuj_41.188622_-96.045335@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299964,
+    "wof:geomhash":"5b3fdeb6b129c239caebcb916704cbf4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85843697,
+            "region_id":85688563,
+            "venue_id":873907305
+        }
+    ],
+    "wof:id":873907305,
+    "wof:lastmodified":1464299964,
+    "wof:name":"Thomas Voice Studio",
+    "wof:parent_id":85843697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "music"
+    ]
+},
+  "bbox": [
+    -96.045335,
+    41.188622,
+    -96.045335,
+    41.188622
+],
+  "geometry": {"coordinates":[-96.04533499999999,41.188622],"type":"Point"}
+}

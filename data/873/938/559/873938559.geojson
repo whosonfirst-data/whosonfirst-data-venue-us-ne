@@ -1,0 +1,71 @@
+{
+  "id": 873938559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.943077,41.174839,-95.943077,41.174839",
+    "geom:latitude":41.174839,
+    "geom:longitude":-95.943077,
+    "iso:country":"US",
+    "sg:address":"8604 S 21st St",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 733 0221",
+    "sg:postcode":"68147",
+    "sg:province":"NE",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85821583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6dSxkSCXpH0wMQNGMFWm2M_41.174839_-95.943077@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300631,
+    "wof:geomhash":"0f042c63dca700f644d0183df6232515",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85821583,
+            "region_id":85688563,
+            "venue_id":873938559
+        }
+    ],
+    "wof:id":873938559,
+    "wof:lastmodified":1464300631,
+    "wof:name":"Oppermen Masonry",
+    "wof:parent_id":85821583,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -95.943077,
+    41.174839,
+    -95.943077,
+    41.174839
+],
+  "geometry": {"coordinates":[-95.943077,41.174839],"type":"Point"}
+}

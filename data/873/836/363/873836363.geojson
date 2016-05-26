@@ -1,0 +1,73 @@
+{
+  "id": 873836363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.645656,40.857813,-96.645656,40.857813",
+    "geom:latitude":40.857813,
+    "geom:longitude":-96.645656,
+    "iso:country":"US",
+    "sg:address":"5401 Superior St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 464 7444",
+    "sg:postcode":"68504",
+    "sg:province":"NE",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85824241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5z0576H1mC4Pn2mA3Z91av_40.857813_-96.645656@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298473,
+    "wof:geomhash":"0bf19990713b1034acd493c379bb8774",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85824241,
+            "region_id":85688563,
+            "venue_id":873836363
+        }
+    ],
+    "wof:id":873836363,
+    "wof:lastmodified":1464298473,
+    "wof:name":"USA Rv's Auto's",
+    "wof:parent_id":85824241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -96.645656,
+    40.857813,
+    -96.645656,
+    40.857813
+],
+  "geometry": {"coordinates":[-96.645656,40.857813],"type":"Point"}
+}

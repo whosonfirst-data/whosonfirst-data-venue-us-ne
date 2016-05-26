@@ -1,0 +1,75 @@
+{
+  "id": 873573323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.704257,40.81483,-96.704257,40.81483",
+    "geom:latitude":40.81483,
+    "geom:longitude":-96.704257,
+    "iso:country":"US",
+    "sg:address":"1120 P St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 438 8800",
+    "sg:postcode":"68508",
+    "sg:province":"NE",
+    "sg:tags":[
+        "sportswear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878699,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7BN1Ug4S8jNzTISX9h1Owl_40.814830_-96.704257@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294645,
+    "wof:geomhash":"34735149f6f8738ba3c4cbc873533483",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878699,
+            "region_id":85688563,
+            "venue_id":873573323
+        }
+    ],
+    "wof:id":873573323,
+    "wof:lastmodified":1464294645,
+    "wof:name":"Husker Headquarters",
+    "wof:parent_id":85878699,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sportswear"
+    ]
+},
+  "bbox": [
+    -96.704257,
+    40.81483,
+    -96.704257,
+    40.81483
+],
+  "geometry": {"coordinates":[-96.704257,40.81483],"type":"Point"}
+}

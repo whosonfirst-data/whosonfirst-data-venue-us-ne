@@ -1,0 +1,67 @@
+{
+  "id": 873925717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.907945,41.150708,-95.907945,41.150708",
+    "geom:latitude":41.150708,
+    "geom:longitude":-95.907945,
+    "iso:country":"US",
+    "sg:address":"1003 Lincoln Rd",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Library",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 293 3157",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:website":"www.bellevuelibrary.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85804025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1olWkvGosX4ebWC2XACDFz_41.150708_-95.907945@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300321,
+    "wof:geomhash":"a09d0f9c1370536e3bb82d6a4a467bfc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85804025,
+            "region_id":85688563,
+            "venue_id":873925717
+        }
+    ],
+    "wof:id":873925717,
+    "wof:lastmodified":1464300321,
+    "wof:name":"Bellevue Public Library",
+    "wof:parent_id":85804025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -95.907945,
+    41.150708,
+    -95.907945,
+    41.150708
+],
+  "geometry": {"coordinates":[-95.907945,41.150708],"type":"Point"}
+}

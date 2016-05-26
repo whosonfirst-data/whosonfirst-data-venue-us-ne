@@ -1,0 +1,77 @@
+{
+  "id": 873769835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.218479,41.240579,-96.218479,41.240579",
+    "geom:latitude":41.240579,
+    "geom:longitude":-96.218479,
+    "iso:country":"US",
+    "sg:address":"19312 Shadow Ridge Dr",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 289 1074",
+    "sg:postcode":"68130",
+    "sg:province":"NE",
+    "sg:tags":[
+        "home",
+        "builder"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85868921,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5DDOW25riEHfS6MCjcGEw1_41.240579_-96.218479@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297362,
+    "wof:geomhash":"5255c14a21de1c2e4367abbed11b3d3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85868921,
+            "region_id":85688563,
+            "venue_id":873769835
+        }
+    ],
+    "wof:id":873769835,
+    "wof:lastmodified":1464297362,
+    "wof:name":"Sherwood Homes",
+    "wof:parent_id":85868921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "builder"
+    ]
+},
+  "bbox": [
+    -96.218479,
+    41.240579,
+    -96.218479,
+    41.240579
+],
+  "geometry": {"coordinates":[-96.218479,41.240579],"type":"Point"}
+}

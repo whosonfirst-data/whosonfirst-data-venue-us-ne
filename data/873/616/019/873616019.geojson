@@ -1,0 +1,71 @@
+{
+  "id": 873616019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.033439,41.326101,-96.033439,41.326101",
+    "geom:latitude":41.326101,
+    "geom:longitude":-96.033439,
+    "iso:country":"US",
+    "sg:address":"7404 N 78th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 571 9096",
+    "sg:postcode":"68122",
+    "sg:province":"NE",
+    "sg:tags":[
+        "company",
+        "holding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85872505,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4TEaY8YlVrfsIXy05Drj10_41.326101_-96.033439@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295205,
+    "wof:geomhash":"45b603387daa6b1b29a90a34a67844a8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":873616019
+        }
+    ],
+    "wof:id":873616019,
+    "wof:lastmodified":1464295205,
+    "wof:name":"Newpath Holdings",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "holding"
+    ]
+},
+  "bbox": [
+    -96.033439,
+    41.326101,
+    -96.033439,
+    41.326101
+],
+  "geometry": {"coordinates":[-96.033439,41.326101],"type":"Point"}
+}

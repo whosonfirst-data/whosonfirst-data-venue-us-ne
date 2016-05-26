@@ -1,0 +1,76 @@
+{
+  "id": 873898091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.0853,41.20595,-96.0853,41.20595",
+    "geom:latitude":41.20595,
+    "geom:longitude":-96.0853,
+    "iso:country":"US",
+    "sg:address":"5055 S 111th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 593 6500",
+    "sg:postcode":"68137",
+    "sg:province":"NE",
+    "sg:tags":[
+        "audio"
+    ],
+    "sg:website":"www.avisystems.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872531,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5xU7yc73UhjMCunJ80nGnh_41.205950_-96.085300@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299783,
+    "wof:geomhash":"952cafd6bb3105349651fc5f721e4294",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872531,
+            "region_id":85688563,
+            "venue_id":873898091
+        }
+    ],
+    "wof:id":873898091,
+    "wof:lastmodified":1464299783,
+    "wof:name":"AVI Systems",
+    "wof:parent_id":85872531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "audio"
+    ]
+},
+  "bbox": [
+    -96.0853,
+    41.20595,
+    -96.0853,
+    41.20595
+],
+  "geometry": {"coordinates":[-96.0853,41.20595],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 873742263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.664391,40.844325,-96.664391,40.844325",
+    "geom:latitude":40.844325,
+    "geom:longitude":-96.664391,
+    "iso:country":"US",
+    "sg:address":"3110 N 40th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 466 3669",
+    "sg:postcode":"68504",
+    "sg:province":"NE",
+    "sg:tags":[
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878741,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3KW6PBmQFomsaBeFuxeQ8J_40.844325_-96.664391@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296959,
+    "wof:geomhash":"e2345b3a09cc397f5051a93a81353f50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878741,
+            "region_id":85688563,
+            "venue_id":873742263
+        }
+    ],
+    "wof:id":873742263,
+    "wof:lastmodified":1464296959,
+    "wof:name":"L & L Equipment & Truck Repair",
+    "wof:parent_id":85878741,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [
+    -96.664391,
+    40.844325,
+    -96.664391,
+    40.844325
+],
+  "geometry": {"coordinates":[-96.66439099999999,40.844325],"type":"Point"}
+}

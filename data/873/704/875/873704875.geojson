@@ -1,0 +1,79 @@
+{
+  "id": 873704875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.691365,40.814624,-96.691365,40.814624",
+    "geom:latitude":40.814624,
+    "geom:longitude":-96.691365,
+    "iso:country":"US",
+    "sg:address":"2037 P St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 477 8200",
+    "sg:postcode":"68503",
+    "sg:province":"NE",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878723,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5GfoBnEvx4q4LQMt90KMnp_40.814624_-96.691365@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296455,
+    "wof:geomhash":"0bba869a27475c88e1dfb88274d880db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878723,
+            "region_id":85688563,
+            "venue_id":873704875
+        }
+    ],
+    "wof:id":873704875,
+    "wof:lastmodified":1464296455,
+    "wof:name":"Auto Connection Inc",
+    "wof:parent_id":85878723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -96.691365,
+    40.814624,
+    -96.691365,
+    40.814624
+],
+  "geometry": {"coordinates":[-96.691365,40.814624],"type":"Point"}
+}

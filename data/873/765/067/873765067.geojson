@@ -1,0 +1,75 @@
+{
+  "id": 873765067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.047127,41.294484,-96.047127,41.294484",
+    "geom:latitude":41.294484,
+    "geom:longitude":-96.047127,
+    "iso:country":"US",
+    "sg:address":"8648 Keystone Dr",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 571 1806",
+    "sg:postcode":"68134",
+    "sg:province":"NE",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872515,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0RMq2fLtEfiLeaxwndkd9k_41.294484_-96.047127@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297297,
+    "wof:geomhash":"9bc19a1c7d8fe26645bf945bf251cf29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872515,
+            "region_id":85688563,
+            "venue_id":873765067
+        }
+    ],
+    "wof:id":873765067,
+    "wof:lastmodified":1464297297,
+    "wof:name":"Dundee Plumbing Service",
+    "wof:parent_id":85872515,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.047127,
+    41.294484,
+    -96.047127,
+    41.294484
+],
+  "geometry": {"coordinates":[-96.047127,41.294484],"type":"Point"}
+}

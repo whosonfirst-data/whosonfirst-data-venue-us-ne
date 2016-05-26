@@ -1,0 +1,72 @@
+{
+  "id": 873816891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.598746,40.842465,-96.598746,40.842465",
+    "geom:latitude":40.842465,
+    "geom:longitude":-96.598746,
+    "iso:country":"US",
+    "sg:address":"8701 Adams St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 466 6861",
+    "sg:postcode":"68507",
+    "sg:province":"NE",
+    "sg:tags":[
+        "day"
+    ],
+    "sg:website":"www.faithlincoln.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85824241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0F0C2XIIPjKck3nk27DotE_40.842465_-96.598746@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298051,
+    "wof:geomhash":"34764d7dc48b64a46ef52557b7156256",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85824241,
+            "region_id":85688563,
+            "venue_id":873816891
+        }
+    ],
+    "wof:id":873816891,
+    "wof:lastmodified":1464298051,
+    "wof:name":"Faith Lutheran School",
+    "wof:parent_id":85824241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -96.598746,
+    40.842465,
+    -96.598746,
+    40.842465
+],
+  "geometry": {"coordinates":[-96.59874600000001,40.842465],"type":"Point"}
+}

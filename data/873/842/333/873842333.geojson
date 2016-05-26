@@ -1,0 +1,75 @@
+{
+  "id": 873842333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.987004,41.242955,-95.987004,41.242955",
+    "geom:latitude":41.242955,
+    "geom:longitude":-95.987004,
+    "iso:country":"US",
+    "sg:address":"4845 Hickory St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 558 5895",
+    "sg:postcode":"68106",
+    "sg:province":"NE",
+    "sg:tags":[
+        "telecommunication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872523,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5kbnk1c1TAnZtoLgVa3Vm4_41.242955_-95.987004@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298613,
+    "wof:geomhash":"259a21ad36ac578d4ac114bdba9849c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872523,
+            "region_id":85688563,
+            "venue_id":873842333
+        }
+    ],
+    "wof:id":873842333,
+    "wof:lastmodified":1464298613,
+    "wof:name":"M G Young Inc",
+    "wof:parent_id":85872523,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "telecommunication"
+    ]
+},
+  "bbox": [
+    -95.987004,
+    41.242955,
+    -95.987004,
+    41.242955
+],
+  "geometry": {"coordinates":[-95.987004,41.242955],"type":"Point"}
+}

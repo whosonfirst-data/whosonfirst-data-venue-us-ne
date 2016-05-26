@@ -1,0 +1,79 @@
+{
+  "id": 873669981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.108265,41.200455,-96.108265,41.200455",
+    "geom:latitude":41.200455,
+    "geom:longitude":-96.108265,
+    "iso:country":"US",
+    "sg:address":"12505 V St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 895 6999",
+    "sg:postcode":"68137",
+    "sg:province":"NE",
+    "sg:tags":[
+        "distance",
+        "long",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872531,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ILmlQFXH1CTdeaJe4ucNO_41.200455_-96.108265@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295802,
+    "wof:geomhash":"486b79fe2029cbc1734a8ef8f1a0cae8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872531,
+            "region_id":85688563,
+            "venue_id":873669981
+        }
+    ],
+    "wof:id":873669981,
+    "wof:lastmodified":1464295802,
+    "wof:name":"Power Unlimited",
+    "wof:parent_id":85872531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "distance",
+        "long",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -96.108265,
+    41.200455,
+    -96.108265,
+    41.200455
+],
+  "geometry": {"coordinates":[-96.108265,41.200455],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873546593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.069278,41.260368,-96.069278,41.260368",
+    "geom:latitude":41.260368,
+    "geom:longitude":-96.069278,
+    "iso:country":"US",
+    "sg:address":"10010 Regency Cir",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 384 5500",
+    "sg:postcode":"68114",
+    "sg:province":"NE",
+    "sg:website":"www.wellsfargo.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867061,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2WxfUlVP3Xdwac8RM7NujG_41.260368_-96.069278@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294335,
+    "wof:geomhash":"fef3ac6418ce96fbae2938ba7e1b317b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85867061,
+            "region_id":85688563,
+            "venue_id":873546593
+        }
+    ],
+    "wof:id":873546593,
+    "wof:lastmodified":1464294335,
+    "wof:name":"Wells Fargo Bank",
+    "wof:parent_id":85867061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.069278,
+    41.260368,
+    -96.069278,
+    41.260368
+],
+  "geometry": {"coordinates":[-96.069278,41.260368],"type":"Point"}
+}

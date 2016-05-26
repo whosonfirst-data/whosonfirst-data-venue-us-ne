@@ -1,0 +1,78 @@
+{
+  "id": 873764567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.692598,40.797901,-96.692598,40.797901",
+    "geom:latitude":40.797901,
+    "geom:longitude":-96.692598,
+    "iso:country":"US",
+    "sg:address":"1945 Washington St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 430 5890",
+    "sg:postcode":"68502",
+    "sg:province":"NE",
+    "sg:tags":[
+        "building",
+        "inspection"
+    ],
+    "sg:website":"www.npiweb.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878727,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_095OHJIHtlYCHPRgCUMrso_40.797901_-96.692598@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297287,
+    "wof:geomhash":"8ec945dd0d95d9ec93f72c2f2c5a37bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878727,
+            "region_id":85688563,
+            "venue_id":873764567
+        }
+    ],
+    "wof:id":873764567,
+    "wof:lastmodified":1464297287,
+    "wof:name":"National Property Inspections",
+    "wof:parent_id":85878727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "inspection"
+    ]
+},
+  "bbox": [
+    -96.692598,
+    40.797901,
+    -96.692598,
+    40.797901
+],
+  "geometry": {"coordinates":[-96.692598,40.797901],"type":"Point"}
+}

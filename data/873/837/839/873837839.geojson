@@ -1,0 +1,71 @@
+{
+  "id": 873837839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.634709,40.790014,-96.634709,40.790014",
+    "geom:latitude":40.790014,
+    "geom:longitude":-96.634709,
+    "iso:country":"US",
+    "sg:address":"2214 Heritage Pines Ct",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 489 0506",
+    "sg:postcode":"68506",
+    "sg:province":"NE",
+    "sg:tags":[
+        "investor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_55SGiG6YQGtmkL4QgJv2Zk_40.790014_-96.634709@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298502,
+    "wof:geomhash":"ffb3edd6a1fb12da708978778e1b2c64",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878697,
+            "region_id":85688563,
+            "venue_id":873837839
+        }
+    ],
+    "wof:id":873837839,
+    "wof:lastmodified":1464298502,
+    "wof:name":"Hawkins Investment Proper",
+    "wof:parent_id":85878697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "investor"
+    ]
+},
+  "bbox": [
+    -96.634709,
+    40.790014,
+    -96.634709,
+    40.790014
+],
+  "geometry": {"coordinates":[-96.634709,40.790014],"type":"Point"}
+}

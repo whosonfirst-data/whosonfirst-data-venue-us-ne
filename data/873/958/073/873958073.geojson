@@ -1,0 +1,75 @@
+{
+  "id": 873958073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.894986,41.136526,-95.894986,41.136526",
+    "geom:latitude":41.136526,
+    "geom:longitude":-95.894986,
+    "iso:country":"US",
+    "sg:address":"2227 Jefferson St",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 292 9800",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "physician",
+        "surgeon",
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974747,
+        102082777,
+        85820061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0OcRdDD262p0aG2VTntBmR_41.136526_-95.894986@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464301448,
+    "wof:geomhash":"932bf9b21066ad32c4ec466d75cb75d0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974747,
+            "neighbourhood_id":85820061,
+            "region_id":85688563,
+            "venue_id":873958073
+        }
+    ],
+    "wof:id":873958073,
+    "wof:lastmodified":1464301448,
+    "wof:name":"Salvatore A Zieno MD",
+    "wof:parent_id":85820061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon",
+        "medical"
+    ]
+},
+  "bbox": [
+    -95.894986,
+    41.136526,
+    -95.894986,
+    41.136526
+],
+  "geometry": {"coordinates":[-95.894986,41.136526],"type":"Point"}
+}

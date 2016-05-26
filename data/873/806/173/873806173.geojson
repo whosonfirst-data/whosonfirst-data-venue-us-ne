@@ -1,0 +1,73 @@
+{
+  "id": 873806173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.888146,41.14533,-95.888146,41.14533",
+    "geom:latitude":41.14533,
+    "geom:longitude":-95.888146,
+    "iso:country":"US",
+    "sg:address":"402 Robinson Ave",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 292 7632",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974747,
+        102082777,
+        85820061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2CAZUvsxYHa6g44z2zBjnq_41.145330_-95.888146@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297854,
+    "wof:geomhash":"98d04182eff740a55e5198c60147e930",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974747,
+            "neighbourhood_id":85820061,
+            "region_id":85688563,
+            "venue_id":873806173
+        }
+    ],
+    "wof:id":873806173,
+    "wof:lastmodified":1464297854,
+    "wof:name":"Standard Plumbing Svc",
+    "wof:parent_id":85820061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -95.888146,
+    41.14533,
+    -95.888146,
+    41.14533
+],
+  "geometry": {"coordinates":[-95.88814600000001,41.14533],"type":"Point"}
+}

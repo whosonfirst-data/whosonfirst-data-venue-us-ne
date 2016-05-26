@@ -1,0 +1,71 @@
+{
+  "id": 873892455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.634637,40.853923,-96.634637,40.853923",
+    "geom:latitude":40.853923,
+    "geom:longitude":-96.634637,
+    "iso:country":"US",
+    "sg:address":"6220 Logan Ave",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Metals & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 467 4314",
+    "sg:postcode":"68507",
+    "sg:province":"NE",
+    "sg:tags":[
+        "pipe"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85824241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ho0cEDxFi9r8gyIhfGQyn_40.853923_-96.634637@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299675,
+    "wof:geomhash":"8de44d4eb3f12a78c228f068bc441a11",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85824241,
+            "region_id":85688563,
+            "venue_id":873892455
+        }
+    ],
+    "wof:id":873892455,
+    "wof:lastmodified":1464299675,
+    "wof:name":"Elite Piping Svc",
+    "wof:parent_id":85824241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pipe"
+    ]
+},
+  "bbox": [
+    -96.634637,
+    40.853923,
+    -96.634637,
+    40.853923
+],
+  "geometry": {"coordinates":[-96.634637,40.853923],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 873947669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.047303,41.315876,-96.047303,41.315876",
+    "geom:latitude":41.315876,
+    "geom:longitude":-96.047303,
+    "iso:country":"US",
+    "sg:address":"8615 Vernon Ave",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 571 4514",
+    "sg:postcode":"68134",
+    "sg:province":"NE",
+    "sg:tags":[
+        "excavating",
+        "contractor"
+    ],
+    "sg:website":"www.doubledexcavating.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85872505,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3s06Z6QbT6JAQHPYulETRp_41.315876_-96.047303@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464301042,
+    "wof:geomhash":"d84542cd0f1565e9283617053e68bf99",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":873947669
+        }
+    ],
+    "wof:id":873947669,
+    "wof:lastmodified":1464301042,
+    "wof:name":"Double D Excavating Inc",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.047303,
+    41.315876,
+    -96.047303,
+    41.315876
+],
+  "geometry": {"coordinates":[-96.047303,41.315876],"type":"Point"}
+}

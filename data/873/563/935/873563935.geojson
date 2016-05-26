@@ -1,0 +1,79 @@
+{
+  "id": 873563935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.942244,41.280612,-95.942244,41.280612",
+    "geom:latitude":41.280612,
+    "geom:longitude":-95.942244,
+    "iso:country":"US",
+    "sg:address":"2200 N 20th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 341 4673",
+    "sg:postcode":"68110",
+    "sg:province":"NE",
+    "sg:tags":[
+        "youth",
+        "organization",
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872525,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3f6Jy7DZ3jsJITy8vzYicm_41.280612_-95.942244@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294543,
+    "wof:geomhash":"553c3291c94a92342bd93bc09fd03def",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872525,
+            "region_id":85688563,
+            "venue_id":873563935
+        }
+    ],
+    "wof:id":873563935,
+    "wof:lastmodified":1464294543,
+    "wof:name":"Hope Center",
+    "wof:parent_id":85872525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "youth",
+        "organization",
+        "center"
+    ]
+},
+  "bbox": [
+    -95.942244,
+    41.280612,
+    -95.942244,
+    41.280612
+],
+  "geometry": {"coordinates":[-95.942244,41.280612],"type":"Point"}
+}

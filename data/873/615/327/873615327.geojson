@@ -1,0 +1,71 @@
+{
+  "id": 873615327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.044301,41.161096,-96.044301,41.161096",
+    "geom:latitude":41.161096,
+    "geom:longitude":-96.044301,
+    "iso:country":"US",
+    "sg:address":"546 N Adams St",
+    "sg:city":"Papillion",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 339 7665",
+    "sg:postcode":"68046",
+    "sg:province":"NE",
+    "sg:tags":[
+        "machine",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85843697,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5PwsDDXYKMD1rGSpXHEMbr_41.161096_-96.044301@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295198,
+    "wof:geomhash":"d1ef732603aaf27a1019ede8d2bbec07",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85843697,
+            "region_id":85688563,
+            "venue_id":873615327
+        }
+    ],
+    "wof:id":873615327,
+    "wof:lastmodified":1464295198,
+    "wof:name":"Papillion Machine Restorations",
+    "wof:parent_id":85843697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "shop"
+    ]
+},
+  "bbox": [
+    -96.044301,
+    41.161096,
+    -96.044301,
+    41.161096
+],
+  "geometry": {"coordinates":[-96.044301,41.161096],"type":"Point"}
+}

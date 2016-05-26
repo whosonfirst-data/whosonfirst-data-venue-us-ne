@@ -1,0 +1,71 @@
+{
+  "id": 873653423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.023893,41.355854,-96.023893,41.355854",
+    "geom:latitude":41.355854,
+    "geom:longitude":-96.023893,
+    "iso:country":"US",
+    "sg:address":"10800 N 72nd St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 572 7276",
+    "sg:postcode":"68122",
+    "sg:province":"NE",
+    "sg:tags":[
+        "training",
+        "dog"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85872505,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6fZcv47JUloQXnxH5u8A9v_41.355854_-96.023893@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295629,
+    "wof:geomhash":"2fd84c6af52c3167e1b3f5e5e4353b5d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":873653423
+        }
+    ],
+    "wof:id":873653423,
+    "wof:lastmodified":1464295629,
+    "wof:name":"Companion Dog Club",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "training",
+        "dog"
+    ]
+},
+  "bbox": [
+    -96.023893,
+    41.355854,
+    -96.023893,
+    41.355854
+],
+  "geometry": {"coordinates":[-96.023893,41.355854],"type":"Point"}
+}

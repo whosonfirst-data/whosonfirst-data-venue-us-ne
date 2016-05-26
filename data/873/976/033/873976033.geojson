@@ -1,0 +1,78 @@
+{
+  "id": 873976033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.162838,41.262701,-96.162838,41.262701",
+    "geom:latitude":41.262701,
+    "geom:longitude":-96.162838,
+    "iso:country":"US",
+    "sg:address":"15751 W Dodge Rd",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ne/omaha/96371-taco-johns/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 330 5253",
+    "sg:postcode":"68118",
+    "sg:province":"NE",
+    "sg:tags":[
+        "american",
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85806957,
+        102191575,
+        404519987,
+        85633793,
+        85973479,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0G7B9HdUZ8qIoDOIdiW4VX_41.262701_-96.162838@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464302225,
+    "wof:geomhash":"8dd3954eec3f183a63480b7222550431",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404519987,
+            "locality_id":85973479,
+            "neighbourhood_id":85806957,
+            "region_id":85688563,
+            "venue_id":873976033
+        }
+    ],
+    "wof:id":873976033,
+    "wof:lastmodified":1464302225,
+    "wof:name":"Taco John's",
+    "wof:parent_id":85806957,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "mexican"
+    ]
+},
+  "bbox": [
+    -96.162838,
+    41.262701,
+    -96.162838,
+    41.262701
+],
+  "geometry": {"coordinates":[-96.16283799999999,41.262701],"type":"Point"}
+}

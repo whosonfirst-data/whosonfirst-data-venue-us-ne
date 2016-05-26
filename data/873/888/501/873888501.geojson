@@ -1,0 +1,70 @@
+{
+  "id": 873888501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.66519,40.791543,-96.66519,40.791543",
+    "geom:latitude":40.791543,
+    "geom:longitude":-96.66519,
+    "iso:country":"US",
+    "sg:address":"3865 South St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 486 0323",
+    "sg:postcode":"68506",
+    "sg:province":"NE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892213,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3icz4fuXIulVqKcGfFPNZz_40.791543_-96.665190@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299599,
+    "wof:geomhash":"9ff6a4996cd4147d7fa562daf9c701cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85892213,
+            "region_id":85688563,
+            "venue_id":873888501
+        }
+    ],
+    "wof:id":873888501,
+    "wof:lastmodified":1464299599,
+    "wof:name":"Bike Shop",
+    "wof:parent_id":85892213,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.66519,
+    40.791543,
+    -96.66519,
+    40.791543
+],
+  "geometry": {"coordinates":[-96.66519,40.791543],"type":"Point"}
+}

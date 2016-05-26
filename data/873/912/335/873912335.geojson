@@ -1,0 +1,76 @@
+{
+  "id": 873912335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.744158,40.844624,-96.744158,40.844624",
+    "geom:latitude":40.844624,
+    "geom:longitude":-96.744158,
+    "iso:country":"US",
+    "sg:address":"3431 Aviation Rd",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 471 2371",
+    "sg:postcode":"68524",
+    "sg:province":"NE",
+    "sg:tags":[
+        "state",
+        "program"
+    ],
+    "sg:website":"www.aero.state.ne.us",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102529023,
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6FsQeNktn1omXOSKZKhtd5_40.844624_-96.744158@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300056,
+    "wof:geomhash":"a2f0cac7749445d3b90da11c52a03e1f",
+    "wof:hierarchy":[
+        {
+            "campus_id":102529023,
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878717,
+            "region_id":85688563,
+            "venue_id":873912335
+        }
+    ],
+    "wof:id":873912335,
+    "wof:lastmodified":1464300056,
+    "wof:name":"Aeronautics Dept",
+    "wof:parent_id":102529023,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "program"
+    ]
+},
+  "bbox": [
+    -96.744158,
+    40.844624,
+    -96.744158,
+    40.844624
+],
+  "geometry": {"coordinates":[-96.744158,40.844624],"type":"Point"}
+}

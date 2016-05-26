@@ -1,0 +1,71 @@
+{
+  "id": 873690845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.914857,41.148048,-95.914857,41.148048",
+    "geom:latitude":41.148048,
+    "geom:longitude":-95.914857,
+    "iso:country":"US",
+    "sg:address":"1315 Galvin Rd S",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 291 4481",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85821583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3jk6cTA1IzFkFvvkvwDHqM_41.148048_-95.914857@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296295,
+    "wof:geomhash":"1a5bfad855c4739f08a465aa9c0dcccb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85821583,
+            "region_id":85688563,
+            "venue_id":873690845
+        }
+    ],
+    "wof:id":873690845,
+    "wof:lastmodified":1464296295,
+    "wof:name":"Hair Gallery",
+    "wof:parent_id":85821583,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -95.914857,
+    41.148048,
+    -95.914857,
+    41.148048
+],
+  "geometry": {"coordinates":[-95.914857,41.148048],"type":"Point"}
+}

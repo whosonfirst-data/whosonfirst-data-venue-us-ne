@@ -1,0 +1,77 @@
+{
+  "id": 873840225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.912109,41.156606,-95.912109,41.156606",
+    "geom:latitude":41.156606,
+    "geom:longitude":-95.912109,
+    "iso:country":"US",
+    "sg:address":"1508 Lawrence Ln",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 292 2199",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "agency",
+        "employment",
+        "programing",
+        "custom"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85804025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6MPQi8fzGT4KKF1waE1iX5_41.156606_-95.912109@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298557,
+    "wof:geomhash":"bc0cea8135b799dc878fcac52349873d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85804025,
+            "region_id":85688563,
+            "venue_id":873840225
+        }
+    ],
+    "wof:id":873840225,
+    "wof:lastmodified":1464298557,
+    "wof:name":"Charles Scott Enterprises",
+    "wof:parent_id":85804025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency",
+        "employment",
+        "programing",
+        "custom"
+    ]
+},
+  "bbox": [
+    -95.912109,
+    41.156606,
+    -95.912109,
+    41.156606
+],
+  "geometry": {"coordinates":[-95.912109,41.156606],"type":"Point"}
+}

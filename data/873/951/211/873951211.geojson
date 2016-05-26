@@ -1,0 +1,77 @@
+{
+  "id": 873951211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.652425,40.835942,-96.652425,40.835942",
+    "geom:latitude":40.835942,
+    "geom:longitude":-96.652425,
+    "iso:country":"US",
+    "sg:address":"2335 N 49th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 466 0620",
+    "sg:postcode":"68504",
+    "sg:province":"NE",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85853163,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2npc9GV51FuPjpNlkwBaRg_40.835942_-96.652425@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464301190,
+    "wof:geomhash":"36baa0b61d6fac582624673f051608da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85853163,
+            "region_id":85688563,
+            "venue_id":873951211
+        }
+    ],
+    "wof:id":873951211,
+    "wof:lastmodified":1464301190,
+    "wof:name":"Ron's Automotive",
+    "wof:parent_id":85853163,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -96.652425,
+    40.835942,
+    -96.652425,
+    40.835942
+],
+  "geometry": {"coordinates":[-96.65242499999999,40.835942],"type":"Point"}
+}

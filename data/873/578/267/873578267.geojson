@@ -1,0 +1,73 @@
+{
+  "id": 873578267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.134288,41.186308,-96.134288,41.186308",
+    "geom:latitude":41.186308,
+    "geom:longitude":-96.134288,
+    "iso:country":"US",
+    "sg:address":"7418 S 140th Ave",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 896 9642",
+    "sg:postcode":"68138",
+    "sg:province":"NE",
+    "sg:tags":[
+        "organization",
+        "medical",
+        "surgical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85834285,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1SezAD9TrVygVL50ujoEbu_41.186308_-96.134288@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294697,
+    "wof:geomhash":"95c8c3e268fad9b2c4622d076ebe03bd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85834285,
+            "region_id":85688563,
+            "venue_id":873578267
+        }
+    ],
+    "wof:id":873578267,
+    "wof:lastmodified":1464294697,
+    "wof:name":"Pantzlaff & Assoc Inc",
+    "wof:parent_id":85834285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "medical",
+        "surgical"
+    ]
+},
+  "bbox": [
+    -96.134288,
+    41.186308,
+    -96.134288,
+    41.186308
+],
+  "geometry": {"coordinates":[-96.134288,41.186308],"type":"Point"}
+}

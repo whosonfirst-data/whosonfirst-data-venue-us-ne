@@ -1,0 +1,80 @@
+{
+  "id": 873726073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.079817,41.234146,-96.079817,41.234146",
+    "geom:latitude":41.234146,
+    "geom:longitude":-96.079817,
+    "iso:country":"US",
+    "sg:address":"10727 W Center Rd",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 390 9096",
+    "sg:postcode":"68124",
+    "sg:province":"NE",
+    "sg:tags":[
+        "drinking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872533,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7T1lW7AHx1OWiex96xXspg_41.234146_-96.079817@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296726,
+    "wof:geomhash":"a3e84d074f6567d709d1b4f5c5e48e0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872533,
+            "region_id":85688563,
+            "venue_id":873726073
+        }
+    ],
+    "wof:id":873726073,
+    "wof:lastmodified":1464296726,
+    "wof:name":"Don & Millie's",
+    "wof:parent_id":85872533,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drinking"
+    ]
+},
+  "bbox": [
+    -96.079817,
+    41.234146,
+    -96.079817,
+    41.234146
+],
+  "geometry": {"coordinates":[-96.07981700000001,41.234146],"type":"Point"}
+}

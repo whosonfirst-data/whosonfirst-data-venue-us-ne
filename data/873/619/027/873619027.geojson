@@ -1,0 +1,73 @@
+{
+  "id": 873619027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.680555,40.726506,-96.680555,40.726506",
+    "geom:latitude":40.726506,
+    "geom:longitude":-96.680555,
+    "iso:country":"US",
+    "sg:address":"2770 Yankee Hill Rd",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 437 1234",
+    "sg:postcode":"68516",
+    "sg:province":"NE",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_31fug2oBtSslYEXlj7lLng_40.726506_-96.680555@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295241,
+    "wof:geomhash":"3a4785e3276e95f74da0f4d7fab01ff0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878733,
+            "region_id":85688563,
+            "venue_id":873619027
+        }
+    ],
+    "wof:id":873619027,
+    "wof:lastmodified":1464295241,
+    "wof:name":"Williamson Mitsubishi Leasing",
+    "wof:parent_id":85878733,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -96.680555,
+    40.726506,
+    -96.680555,
+    40.726506
+],
+  "geometry": {"coordinates":[-96.680555,40.726506],"type":"Point"}
+}

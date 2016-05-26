@@ -1,0 +1,71 @@
+{
+  "id": 873589049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.232755,41.136737,-96.232755,41.136737",
+    "geom:latitude":41.136737,
+    "geom:longitude":-96.232755,
+    "iso:country":"US",
+    "sg:address":"301 Sherwood Cir",
+    "sg:city":"Gretna",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 650 7469",
+    "sg:postcode":"68028",
+    "sg:province":"NE",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85834285,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0uJwFtv3bRXIjwEpsnz4z4_41.136737_-96.232755@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294818,
+    "wof:geomhash":"94c7f5101d539c0467cb57e9bb0a6c51",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85834285,
+            "region_id":85688563,
+            "venue_id":873589049
+        }
+    ],
+    "wof:id":873589049,
+    "wof:lastmodified":1464294818,
+    "wof:name":"Mc Cauley Concrete Constr",
+    "wof:parent_id":85834285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.232755,
+    41.136737,
+    -96.232755,
+    41.136737
+],
+  "geometry": {"coordinates":[-96.232755,41.136737],"type":"Point"}
+}

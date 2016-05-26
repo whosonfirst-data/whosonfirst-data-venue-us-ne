@@ -1,0 +1,71 @@
+{
+  "id": 873709333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.038912,41.154312,-96.038912,41.154312",
+    "geom:latitude":41.154312,
+    "geom:longitude":-96.038912,
+    "iso:country":"US",
+    "sg:address":"307 E Lincoln St",
+    "sg:city":"Papillion",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 339 0030",
+    "sg:postcode":"68046",
+    "sg:province":"NE",
+    "sg:tags":[
+        "retaining",
+        "wall"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85843697,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1yVpPlMYbB5zkO5l2pG1oT_41.154312_-96.038912@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296511,
+    "wof:geomhash":"af613e4832968dfb9fa4fa20a52a0083",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85843697,
+            "region_id":85688563,
+            "venue_id":873709333
+        }
+    ],
+    "wof:id":873709333,
+    "wof:lastmodified":1464296511,
+    "wof:name":"MGM Construction Inc",
+    "wof:parent_id":85843697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "retaining",
+        "wall"
+    ]
+},
+  "bbox": [
+    -96.038912,
+    41.154312,
+    -96.038912,
+    41.154312
+],
+  "geometry": {"coordinates":[-96.038912,41.154312],"type":"Point"}
+}

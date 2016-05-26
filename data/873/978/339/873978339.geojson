@@ -1,0 +1,80 @@
+{
+  "id": 873978339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-98.339787,40.90203,-98.339787,40.90203",
+    "geom:latitude":40.90203,
+    "geom:longitude":-98.339787,
+    "iso:country":"US",
+    "sg:address":"2004 S Locust St",
+    "sg:city":"Grand Island",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ne/grand-island/155514-runza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 308 384 4403",
+    "sg:postcode":"68801",
+    "sg:province":"NE",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85840711,
+        102191575,
+        404518499,
+        85633793,
+        85973941,
+        102083477,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4cSl9npeDzZyXSXDoZhl8N_40.902061_-98.339866@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464302308,
+    "wof:geomhash":"a7900a06d0a4cdb3a3cdd85b0113a235",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083477,
+            "localadmin_id":404518499,
+            "locality_id":85973941,
+            "neighbourhood_id":85840711,
+            "region_id":85688563,
+            "venue_id":873978339
+        }
+    ],
+    "wof:id":873978339,
+    "wof:lastmodified":1464302308,
+    "wof:name":"Runza",
+    "wof:parent_id":85840711,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -98.339787,
+    40.90203,
+    -98.339787,
+    40.90203
+],
+  "geometry": {"coordinates":[-98.339787,40.90203],"type":"Point"}
+}

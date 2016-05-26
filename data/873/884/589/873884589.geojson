@@ -1,0 +1,72 @@
+{
+  "id": 873884589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.023758,41.319894,-96.023758,41.319894",
+    "geom:latitude":41.319894,
+    "geom:longitude":-96.023758,
+    "iso:country":"US",
+    "sg:address":"6751 N 72nd St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 572 2020",
+    "sg:postcode":"68122",
+    "sg:province":"NE",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "sg:website":"www.brummeye.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85872505,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_73xLWJfC8IQBxKbCbwFtwg_41.319894_-96.023758@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299531,
+    "wof:geomhash":"ab0b93c3a49f6f9c18924fc86aa278be",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":873884589
+        }
+    ],
+    "wof:id":873884589,
+    "wof:lastmodified":1464299531,
+    "wof:name":"Brumm Eye Laser Ctr",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -96.023758,
+    41.319894,
+    -96.023758,
+    41.319894
+],
+  "geometry": {"coordinates":[-96.023758,41.319894],"type":"Point"}
+}

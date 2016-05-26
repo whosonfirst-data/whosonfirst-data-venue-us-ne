@@ -1,0 +1,67 @@
+{
+  "id": 873930057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.641512,40.851763,-96.641512,40.851763",
+    "geom:latitude":40.851763,
+    "geom:longitude":-96.641512,
+    "iso:country":"US",
+    "sg:address":"5700 Seward Ave",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 441 3555",
+    "sg:postcode":"68507",
+    "sg:province":"NE",
+    "sg:website":"www.lincone.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85824241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Ely8vxEIpfv1rKBwPmwQl_40.851763_-96.641512@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300411,
+    "wof:geomhash":"9bc58009d0c6be11cc853c3827d8d243",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85824241,
+            "region_id":85688563,
+            "venue_id":873930057
+        }
+    ],
+    "wof:id":873930057,
+    "wof:lastmodified":1464300411,
+    "wof:name":"Goodyear Federal Credit Union",
+    "wof:parent_id":85824241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.641512,
+    40.851763,
+    -96.641512,
+    40.851763
+],
+  "geometry": {"coordinates":[-96.64151200000001,40.851763],"type":"Point"}
+}

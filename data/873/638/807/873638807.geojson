@@ -1,0 +1,70 @@
+{
+  "id": 873638807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.153721,41.173102,-96.153721,41.173102",
+    "geom:latitude":41.173102,
+    "geom:longitude":-96.153721,
+    "iso:country":"US",
+    "sg:address":"8901 S 154th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 444 6222",
+    "sg:postcode":"68138",
+    "sg:province":"NE",
+    "sg:tags":[
+        "state"
+    ],
+    "sg:website":"www.papionrd.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85834285,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6enqoe7k35McBbGwoSHVsH_41.173102_-96.153721@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295462,
+    "wof:geomhash":"49f77337d3c2c8510c64eaf85a952f94",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85834285,
+            "region_id":85688563,
+            "venue_id":873638807
+        }
+    ],
+    "wof:id":873638807,
+    "wof:lastmodified":1464295462,
+    "wof:name":"Chalco Hills Recreation Area",
+    "wof:parent_id":85834285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state"
+    ]
+},
+  "bbox": [
+    -96.153721,
+    41.173102,
+    -96.153721,
+    41.173102
+],
+  "geometry": {"coordinates":[-96.153721,41.173102],"type":"Point"}
+}

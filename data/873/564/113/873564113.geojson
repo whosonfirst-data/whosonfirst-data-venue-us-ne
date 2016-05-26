@@ -1,0 +1,88 @@
+{
+  "id": 873564113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.11572,41.204704,-96.11572,41.204704",
+    "geom:latitude":41.204704,
+    "geom:longitude":-96.11572,
+    "iso:country":"US",
+    "sg:address":"12865 Deauville Dr",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Office Equipment",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 895 9358",
+    "sg:postcode":"68137",
+    "sg:province":"NE",
+    "sg:tags":[
+        "machine",
+        "copier",
+        "duplicating",
+        "copying",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872531,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7DKedJdIuWqijnAeFHx4ys_41.204704_-96.115720@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294545,
+    "wof:geomhash":"0315a3b41c2e2206f2e05a164911e36c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872531,
+            "region_id":85688563,
+            "venue_id":873564113
+        }
+    ],
+    "wof:id":873564113,
+    "wof:lastmodified":1464294545,
+    "wof:name":"L & M Copiers & Supplies",
+    "wof:parent_id":85872531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "copier",
+        "duplicating",
+        "copying",
+        "supply"
+    ]
+},
+  "bbox": [
+    -96.11572,
+    41.204704,
+    -96.11572,
+    41.204704
+],
+  "geometry": {"coordinates":[-96.11572,41.204704],"type":"Point"}
+}

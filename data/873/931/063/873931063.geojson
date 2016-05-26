@@ -1,0 +1,75 @@
+{
+  "id": 873931063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.62326,40.772726,-96.62326,40.772726",
+    "geom:latitude":40.772726,
+    "geom:longitude":-96.62326,
+    "iso:country":"US",
+    "sg:address":"4210 Pioneer Woods Dr",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 484 6042",
+    "sg:postcode":"68520",
+    "sg:province":"NE",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878695,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6m2KAS1nGXFzTCMwKgHZuG_40.772726_-96.623260@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300431,
+    "wof:geomhash":"062e0893dbe72c28f03d123794f2c879",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878695,
+            "region_id":85688563,
+            "venue_id":873931063
+        }
+    ],
+    "wof:id":873931063,
+    "wof:lastmodified":1464300431,
+    "wof:name":"Pioneer Woods Dental",
+    "wof:parent_id":85878695,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -96.62326,
+    40.772726,
+    -96.62326,
+    40.772726
+],
+  "geometry": {"coordinates":[-96.62326,40.772726],"type":"Point"}
+}

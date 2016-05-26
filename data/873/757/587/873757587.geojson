@@ -1,0 +1,69 @@
+{
+  "id": 873757587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.125302,41.1837,-96.125302,41.1837",
+    "geom:latitude":41.1837,
+    "geom:longitude":-96.125302,
+    "iso:country":"US",
+    "sg:address":"13579 Chandler St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 894 5500",
+    "sg:postcode":"68138",
+    "sg:province":"NE",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85834285,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0cy6lLnGe4D8hkrnVhTCuY_41.183700_-96.125302@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297177,
+    "wof:geomhash":"b5b09749c94b8d3a4c49de01189ae0f9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85834285,
+            "region_id":85688563,
+            "venue_id":873757587
+        }
+    ],
+    "wof:id":873757587,
+    "wof:lastmodified":1464297177,
+    "wof:name":"Jacqueline's Women & Men Hair",
+    "wof:parent_id":85834285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -96.125302,
+    41.1837,
+    -96.125302,
+    41.1837
+],
+  "geometry": {"coordinates":[-96.125302,41.1837],"type":"Point"}
+}

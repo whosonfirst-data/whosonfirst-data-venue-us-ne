@@ -1,0 +1,71 @@
+{
+  "id": 873920171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.73661,40.862298,-96.73661,40.862298",
+    "geom:latitude":40.862298,
+    "geom:longitude":-96.73661,
+    "iso:country":"US",
+    "sg:address":"5331 NW Fairway Dr",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 477 0988",
+    "sg:postcode":"68521",
+    "sg:province":"NE",
+    "sg:tags":[
+        "management"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7PAnPhipW7LOkIAr0X2Qqt_40.862298_-96.736610@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300214,
+    "wof:geomhash":"2f0d69ca316c2f51fc5d6b0dfabf8494",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878717,
+            "region_id":85688563,
+            "venue_id":873920171
+        }
+    ],
+    "wof:id":873920171,
+    "wof:lastmodified":1464300214,
+    "wof:name":"Advanced Air Quality Service L",
+    "wof:parent_id":85878717,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "management"
+    ]
+},
+  "bbox": [
+    -96.73661,
+    40.862298,
+    -96.73661,
+    40.862298
+],
+  "geometry": {"coordinates":[-96.73661,40.862298],"type":"Point"}
+}

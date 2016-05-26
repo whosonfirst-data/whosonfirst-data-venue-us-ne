@@ -1,0 +1,78 @@
+{
+  "id": 873976499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.096612,41.26353,-96.096612,41.26353",
+    "geom:latitude":41.26353,
+    "geom:longitude":-96.096612,
+    "iso:country":"US",
+    "sg:address":"11732 W Dodge Rd",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ne/omaha/9930-jericos/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 496 0222",
+    "sg:postcode":"68154",
+    "sg:province":"NE",
+    "sg:tags":[
+        "american",
+        "steakhouse"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872503,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2CrCkNWc9oDJCFOsHUhjVq_41.263530_-96.096612@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464302240,
+    "wof:geomhash":"bc7350d9dfbeec1e7a2fea86e5ee142d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872503,
+            "region_id":85688563,
+            "venue_id":873976499
+        }
+    ],
+    "wof:id":873976499,
+    "wof:lastmodified":1464302240,
+    "wof:name":"Jerico's",
+    "wof:parent_id":85872503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "steakhouse"
+    ]
+},
+  "bbox": [
+    -96.096612,
+    41.26353,
+    -96.096612,
+    41.26353
+],
+  "geometry": {"coordinates":[-96.09661199999999,41.26353],"type":"Point"}
+}

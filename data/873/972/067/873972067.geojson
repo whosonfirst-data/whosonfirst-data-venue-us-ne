@@ -1,0 +1,70 @@
+{
+  "id": 873972067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.989601,41.2598,-95.989601,41.2598",
+    "geom:latitude":41.2598,
+    "geom:longitude":-95.989601,
+    "iso:country":"US",
+    "sg:address":"4952 Dodge St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Theater",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 551 3595",
+    "sg:postcode":"68132",
+    "sg:province":"NE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867055,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4R2zGwVjkcBFRmYYPTrq2y_41.259746_-95.990236@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464302066,
+    "wof:geomhash":"518343dfa9accdaeebe37a84e9a37341",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85867055,
+            "region_id":85688563,
+            "venue_id":873972067
+        }
+    ],
+    "wof:id":873972067,
+    "wof:lastmodified":1464302066,
+    "wof:name":"Dundee Theatre",
+    "wof:parent_id":85867055,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -95.989601,
+    41.2598,
+    -95.989601,
+    41.2598
+],
+  "geometry": {"coordinates":[-95.98960099999999,41.2598],"type":"Point"}
+}

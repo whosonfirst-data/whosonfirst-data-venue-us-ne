@@ -1,0 +1,75 @@
+{
+  "id": 873825605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.081342,41.307686,-96.081342,41.307686",
+    "geom:latitude":41.307686,
+    "geom:longitude":-96.081342,
+    "iso:country":"US",
+    "sg:address":"5311 N 108th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 493 3747",
+    "sg:postcode":"68164",
+    "sg:province":"NE",
+    "sg:tags":[
+        "drycleaning",
+        "plant",
+        "except",
+        "rug"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85872505,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5zOVSjIYy4DBWp9Vb1jsWA_41.307686_-96.081342@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298247,
+    "wof:geomhash":"ca5a3a5c801d1c01ed5b4317ff9cbcf3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":873825605
+        }
+    ],
+    "wof:id":873825605,
+    "wof:lastmodified":1464298247,
+    "wof:name":"Fort Drycleaners & Tailors",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drycleaning",
+        "plant",
+        "except",
+        "rug"
+    ]
+},
+  "bbox": [
+    -96.081342,
+    41.307686,
+    -96.081342,
+    41.307686
+],
+  "geometry": {"coordinates":[-96.08134200000001,41.307686],"type":"Point"}
+}

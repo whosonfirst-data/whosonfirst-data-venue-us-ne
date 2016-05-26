@@ -1,0 +1,79 @@
+{
+  "id": 873967467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.977798,41.273701,-95.977798,41.273701",
+    "geom:latitude":41.273701,
+    "geom:longitude":-95.977798,
+    "iso:country":"US",
+    "sg:address":"1509 Military Ave",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 934 7467",
+    "sg:postcode":"68111",
+    "sg:province":"NE",
+    "sg:tags":[
+        "body",
+        "shop",
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867055,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0nu3TDDS7d2ACBpqYVrseN_41.274094_-95.977892@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464301897,
+    "wof:geomhash":"7e22dcc683dbba68953fe81070938c72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85867055,
+            "region_id":85688563,
+            "venue_id":873967467
+        }
+    ],
+    "wof:id":873967467,
+    "wof:lastmodified":1464301897,
+    "wof:name":"Fine Line Collision",
+    "wof:parent_id":85867055,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "shop",
+        "automotive"
+    ]
+},
+  "bbox": [
+    -95.977798,
+    41.273701,
+    -95.977798,
+    41.273701
+],
+  "geometry": {"coordinates":[-95.97779800000001,41.273701],"type":"Point"}
+}

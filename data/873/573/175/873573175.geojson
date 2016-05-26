@@ -1,0 +1,77 @@
+{
+  "id": 873573175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.64148,40.791173,-96.64148,40.791173",
+    "geom:latitude":40.791173,
+    "geom:longitude":-96.64148,
+    "iso:country":"US",
+    "sg:address":"2164 S 58th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 430 5529",
+    "sg:postcode":"68506",
+    "sg:province":"NE",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85811821,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_75uIgYTFfCRbyIQbAV2goT_40.791173_-96.641480@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294643,
+    "wof:geomhash":"f77477c6f59aeab5c2c9287f05f97ae5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85811821,
+            "region_id":85688563,
+            "venue_id":873573175
+        }
+    ],
+    "wof:id":873573175,
+    "wof:lastmodified":1464294643,
+    "wof:name":"Stonebrook Construction",
+    "wof:parent_id":85811821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.64148,
+    40.791173,
+    -96.64148,
+    40.791173
+],
+  "geometry": {"coordinates":[-96.64148,40.791173],"type":"Point"}
+}

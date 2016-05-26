@@ -1,0 +1,76 @@
+{
+  "id": 873955343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.229061,41.28911,-96.229061,41.28911",
+    "geom:latitude":41.28911,
+    "geom:longitude":-96.229061,
+    "iso:country":"US",
+    "sg:address":"315 Hopper St",
+    "sg:city":"Elkhorn",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Job Training",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 289 2572",
+    "sg:postcode":"68022",
+    "sg:province":"NE",
+    "sg:tags":[
+        "rehabilitation"
+    ],
+    "sg:website":"www.lcca.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85868921,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_68gmMDwW82yGw4JgLrsA0o_41.289110_-96.229061@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464301351,
+    "wof:geomhash":"085e4588be6f8b07f9af07fac32d1457",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85868921,
+            "region_id":85688563,
+            "venue_id":873955343
+        }
+    ],
+    "wof:id":873955343,
+    "wof:lastmodified":1464301351,
+    "wof:name":"Life Care Ctr Of Elkhorn",
+    "wof:parent_id":85868921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "rehabilitation"
+    ]
+},
+  "bbox": [
+    -96.229061,
+    41.28911,
+    -96.229061,
+    41.28911
+],
+  "geometry": {"coordinates":[-96.229061,41.28911],"type":"Point"}
+}

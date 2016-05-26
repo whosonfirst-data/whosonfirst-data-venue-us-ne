@@ -1,0 +1,78 @@
+{
+  "id": 873978159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.71147,40.815332,-96.71147,40.815332",
+    "geom:latitude":40.815332,
+    "geom:longitude":-96.71147,
+    "iso:country":"US",
+    "sg:address":"201 N 7th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ne/lincoln/4006-j-finnegans/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 477 4334",
+    "sg:postcode":"68508",
+    "sg:province":"NE",
+    "sg:tags":[
+        "seafood",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878731,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2zsq9BwZ1023fPlxe7spAu_40.815861_-96.710988@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464302302,
+    "wof:geomhash":"a2686b3f4dfa14f184aa7653bbc93832",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878731,
+            "region_id":85688563,
+            "venue_id":873978159
+        }
+    ],
+    "wof:id":873978159,
+    "wof:lastmodified":1464302302,
+    "wof:name":"J Finnegan's",
+    "wof:parent_id":85878731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "seafood",
+        "american"
+    ]
+},
+  "bbox": [
+    -96.71147,
+    40.815332,
+    -96.71147,
+    40.815332
+],
+  "geometry": {"coordinates":[-96.71147000000001,40.815332],"type":"Point"}
+}

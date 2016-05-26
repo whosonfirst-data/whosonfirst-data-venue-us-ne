@@ -1,0 +1,70 @@
+{
+  "id": 873554973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.115177,41.205095,-96.115177,41.205095",
+    "geom:latitude":41.205095,
+    "geom:longitude":-96.115177,
+    "iso:country":"US",
+    "sg:address":"12737 Q St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 895 2224",
+    "sg:postcode":"68137",
+    "sg:province":"NE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872531,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3HMTt8FL7R6UgdCQr5UI7G_41.205095_-96.115177@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294435,
+    "wof:geomhash":"b3f7f6f33225bc65b0a0a399cb1c2612",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872531,
+            "region_id":85688563,
+            "venue_id":873554973
+        }
+    ],
+    "wof:id":873554973,
+    "wof:lastmodified":1464294435,
+    "wof:name":"P C A",
+    "wof:parent_id":85872531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.115177,
+    41.205095,
+    -96.115177,
+    41.205095
+],
+  "geometry": {"coordinates":[-96.115177,41.205095],"type":"Point"}
+}

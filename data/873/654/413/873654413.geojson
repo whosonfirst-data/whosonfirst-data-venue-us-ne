@@ -1,0 +1,73 @@
+{
+  "id": 873654413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.903,41.128239,-95.903,41.128239",
+    "geom:latitude":41.128239,
+    "geom:longitude":-95.903,
+    "iso:country":"US",
+    "sg:address":"2701 Crawford St",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 291 1835",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "house",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974747,
+        102082777,
+        85820061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1jBnJzuB8wbeXKiBCosU0Z_41.128239_-95.903000@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295640,
+    "wof:geomhash":"fb4e63489fb9a7775785c8d13836d9d3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974747,
+            "neighbourhood_id":85820061,
+            "region_id":85688563,
+            "venue_id":873654413
+        }
+    ],
+    "wof:id":873654413,
+    "wof:lastmodified":1464295640,
+    "wof:name":"Jerry Kouba Construction",
+    "wof:parent_id":85820061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -95.903,
+    41.128239,
+    -95.903,
+    41.128239
+],
+  "geometry": {"coordinates":[-95.90300000000001,41.128239],"type":"Point"}
+}

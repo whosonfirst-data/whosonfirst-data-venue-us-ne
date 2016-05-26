@@ -1,0 +1,71 @@
+{
+  "id": 873932893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.066521,41.304621,-96.066521,41.304621",
+    "geom:latitude":41.304621,
+    "geom:longitude":-96.066521,
+    "iso:country":"US",
+    "sg:address":"5056 Parkview Dr",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 573 6358",
+    "sg:postcode":"68134",
+    "sg:province":"NE",
+    "sg:tags":[
+        "property",
+        "management"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85872505,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Se1lS7riF7XPa2sIpMznt_41.304621_-96.066521@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300463,
+    "wof:geomhash":"d3fb77e67769bd709ce24f07707ff6b9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":873932893
+        }
+    ],
+    "wof:id":873932893,
+    "wof:lastmodified":1464300463,
+    "wof:name":"Parkview Partners Inc",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "property",
+        "management"
+    ]
+},
+  "bbox": [
+    -96.066521,
+    41.304621,
+    -96.066521,
+    41.304621
+],
+  "geometry": {"coordinates":[-96.06652099999999,41.304621],"type":"Point"}
+}

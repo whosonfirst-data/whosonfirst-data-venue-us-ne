@@ -1,0 +1,71 @@
+{
+  "id": 873947381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.90667,41.136454,-95.90667,41.136454",
+    "geom:latitude":41.136454,
+    "geom:longitude":-95.90667,
+    "iso:country":"US",
+    "sg:address":"1009 W Mission Ave",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 293 1644",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974747,
+        102082777,
+        85820061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6uIPCztY8QRVrHjndOCLpX_41.136454_-95.906670@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464301028,
+    "wof:geomhash":"07d39995533855a2b9747f0301e836d1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974747,
+            "neighbourhood_id":85820061,
+            "region_id":85688563,
+            "venue_id":873947381
+        }
+    ],
+    "wof:id":873947381,
+    "wof:lastmodified":1464301028,
+    "wof:name":"Sinclair Service Station",
+    "wof:parent_id":85820061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -95.90667,
+    41.136454,
+    -95.90667,
+    41.136454
+],
+  "geometry": {"coordinates":[-95.90667000000001,41.136454],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 873783823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.622068,40.769701,-96.622068,40.769701",
+    "geom:latitude":40.769701,
+    "geom:longitude":-96.622068,
+    "iso:country":"US",
+    "sg:address":"4001 Pioneer Woods Dr",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 486 3116",
+    "sg:postcode":"68520",
+    "sg:province":"NE",
+    "sg:tags":[
+        "spa",
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878695,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_07cEfA3QU2f4C6IzviMk9Q_40.769701_-96.622068@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297542,
+    "wof:geomhash":"24c6600161b03ffcf9ab49e56efeb4f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878695,
+            "region_id":85688563,
+            "venue_id":873783823
+        }
+    ],
+    "wof:id":873783823,
+    "wof:lastmodified":1464297542,
+    "wof:name":"Center Stage Salon Spa & Tan",
+    "wof:parent_id":85878695,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "spa",
+        "day"
+    ]
+},
+  "bbox": [
+    -96.622068,
+    40.769701,
+    -96.622068,
+    40.769701
+],
+  "geometry": {"coordinates":[-96.622068,40.769701],"type":"Point"}
+}

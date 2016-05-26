@@ -1,0 +1,79 @@
+{
+  "id": 873728003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.957708,41.256736,-95.957708,41.256736",
+    "geom:latitude":41.256736,
+    "geom:longitude":-95.957708,
+    "iso:country":"US",
+    "sg:address":"2966 Harney St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Hardware",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 344 4311",
+    "sg:postcode":"68131",
+    "sg:province":"NE",
+    "sg:tags":[
+        "equipment",
+        "heating",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872525,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2zGcJ0EcjpoLD8Wex2MQPs_41.256736_-95.957708@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296754,
+    "wof:geomhash":"6b18565a13370e0596087e8aef523df6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872525,
+            "region_id":85688563,
+            "venue_id":873728003
+        }
+    ],
+    "wof:id":873728003,
+    "wof:lastmodified":1464296754,
+    "wof:name":"B G Peterson Co",
+    "wof:parent_id":85872525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "heating",
+        "system"
+    ]
+},
+  "bbox": [
+    -95.957708,
+    41.256736,
+    -95.957708,
+    41.256736
+],
+  "geometry": {"coordinates":[-95.957708,41.256736],"type":"Point"}
+}

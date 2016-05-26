@@ -1,0 +1,79 @@
+{
+  "id": 873720989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.706127,40.773826,-96.706127,40.773826",
+    "geom:latitude":40.773826,
+    "geom:longitude":-96.706127,
+    "iso:country":"US",
+    "sg:address":"1601 Pioneers Blvd",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 423 6571",
+    "sg:postcode":"68502",
+    "sg:province":"NE",
+    "sg:tags":[
+        "frozen",
+        "packaged",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878719,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6LVppsiNrT6VVoRaicIkhA_40.773826_-96.706127@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296663,
+    "wof:geomhash":"223452996db6237521e6940b5c532cbe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878719,
+            "region_id":85688563,
+            "venue_id":873720989
+        }
+    ],
+    "wof:id":873720989,
+    "wof:lastmodified":1464296663,
+    "wof:name":"Fleming Foods",
+    "wof:parent_id":85878719,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "frozen",
+        "packaged",
+        "general"
+    ]
+},
+  "bbox": [
+    -96.706127,
+    40.773826,
+    -96.706127,
+    40.773826
+],
+  "geometry": {"coordinates":[-96.706127,40.773826],"type":"Point"}
+}

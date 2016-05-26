@@ -1,0 +1,83 @@
+{
+  "id": 873739839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.101482,41.29054,-96.101482,41.29054",
+    "geom:latitude":41.29054,
+    "geom:longitude":-96.101482,
+    "iso:country":"US",
+    "sg:address":"12325 Emmet St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 452 5400",
+    "sg:postcode":"68164",
+    "sg:province":"NE",
+    "sg:tags":[
+        "analytical",
+        "laboratory",
+        "mfg",
+        "consumables",
+        "instrument"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872503,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_391XSipQXcahdyrwbZyElG_41.290540_-96.101482@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296917,
+    "wof:geomhash":"cb20b991105386e47ba81a4892b559cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872503,
+            "region_id":85688563,
+            "venue_id":873739839
+        }
+    ],
+    "wof:id":873739839,
+    "wof:lastmodified":1464296917,
+    "wof:name":"CRUACHEM LIMITED",
+    "wof:parent_id":85872503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "analytical",
+        "laboratory",
+        "mfg",
+        "consumables",
+        "instrument"
+    ]
+},
+  "bbox": [
+    -96.101482,
+    41.29054,
+    -96.101482,
+    41.29054
+],
+  "geometry": {"coordinates":[-96.101482,41.29054],"type":"Point"}
+}

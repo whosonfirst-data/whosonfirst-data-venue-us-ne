@@ -1,0 +1,73 @@
+{
+  "id": 873642021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.126501,41.185258,-96.126501,41.185258",
+    "geom:latitude":41.185258,
+    "geom:longitude":-96.126501,
+    "iso:country":"US",
+    "sg:address":"7601 S 136th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 896 9973",
+    "sg:postcode":"68138",
+    "sg:province":"NE",
+    "sg:tags":[
+        "builder",
+        "deck",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85834285,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_27CWnrZB6qq0GH5JnB8Qth_41.185258_-96.126501@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295499,
+    "wof:geomhash":"2bcc31a53f10f69ea05b07baed4cccbb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85834285,
+            "region_id":85688563,
+            "venue_id":873642021
+        }
+    ],
+    "wof:id":873642021,
+    "wof:lastmodified":1464295499,
+    "wof:name":"All Decked Out Inc",
+    "wof:parent_id":85834285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "builder",
+        "deck",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.126501,
+    41.185258,
+    -96.126501,
+    41.185258
+],
+  "geometry": {"coordinates":[-96.126501,41.185258],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873792483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.634502,40.850271,-96.634502,40.850271",
+    "geom:latitude":40.850271,
+    "geom:longitude":-96.634502,
+    "iso:country":"US",
+    "sg:address":"3743 N 63rd St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 467 4966",
+    "sg:postcode":"68507",
+    "sg:province":"NE",
+    "sg:tags":[
+        "electrical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85824241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_78Jt4vnQW1DeNrhcER9PFk_40.850271_-96.634502@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297683,
+    "wof:geomhash":"7471625d4e1010d4b10305a3e2facb04",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85824241,
+            "region_id":85688563,
+            "venue_id":873792483
+        }
+    ],
+    "wof:id":873792483,
+    "wof:lastmodified":1464297683,
+    "wof:name":"Appliance Technology",
+    "wof:parent_id":85824241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical"
+    ]
+},
+  "bbox": [
+    -96.634502,
+    40.850271,
+    -96.634502,
+    40.850271
+],
+  "geometry": {"coordinates":[-96.634502,40.850271],"type":"Point"}
+}

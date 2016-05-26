@@ -1,0 +1,75 @@
+{
+  "id": 873670193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.038162,41.16829,-96.038162,41.16829",
+    "geom:latitude":41.16829,
+    "geom:longitude":-96.038162,
+    "iso:country":"US",
+    "sg:address":"500 Shannon Rd",
+    "sg:city":"Papillion",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 339 3805",
+    "sg:postcode":"68046",
+    "sg:province":"NE",
+    "sg:tags":[
+        "plumbing",
+        "repair",
+        "water",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85843697,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2MWoEschgGSV1n6JEQcoA2_41.168290_-96.038162@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295804,
+    "wof:geomhash":"30a2a0d8f38654a3a828466264a7290c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85843697,
+            "region_id":85688563,
+            "venue_id":873670193
+        }
+    ],
+    "wof:id":873670193,
+    "wof:lastmodified":1464295804,
+    "wof:name":"Franklin Chizek Distributing",
+    "wof:parent_id":85843697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "repair",
+        "water",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.038162,
+    41.16829,
+    -96.038162,
+    41.16829
+],
+  "geometry": {"coordinates":[-96.038162,41.16829],"type":"Point"}
+}

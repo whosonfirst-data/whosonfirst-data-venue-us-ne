@@ -1,0 +1,73 @@
+{
+  "id": 873940595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.624952,40.850354,-96.624952,40.850354",
+    "geom:latitude":40.850354,
+    "geom:longitude":-96.624952,
+    "iso:country":"US",
+    "sg:address":"3735 N 70th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 464 3805",
+    "sg:postcode":"68507",
+    "sg:province":"NE",
+    "sg:tags":[
+        "station",
+        "gas"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85824241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1buwWVxd9ts471rk149QeO_40.850354_-96.624952@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300718,
+    "wof:geomhash":"8272d7dae2eeb5d5609a9fefa13b290c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85824241,
+            "region_id":85688563,
+            "venue_id":873940595
+        }
+    ],
+    "wof:id":873940595,
+    "wof:lastmodified":1464300718,
+    "wof:name":"Shop E Z",
+    "wof:parent_id":85824241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gas"
+    ]
+},
+  "bbox": [
+    -96.624952,
+    40.850354,
+    -96.624952,
+    40.850354
+],
+  "geometry": {"coordinates":[-96.62495199999999,40.850354],"type":"Point"}
+}

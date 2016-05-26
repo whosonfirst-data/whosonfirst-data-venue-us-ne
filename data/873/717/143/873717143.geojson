@@ -1,0 +1,81 @@
+{
+  "id": 873717143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.016788,41.227658,-96.016788,41.227658",
+    "geom:latitude":41.227658,
+    "geom:longitude":-96.016788,
+    "iso:country":"US",
+    "sg:address":"3108 S 67th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 397 2120",
+    "sg:postcode":"68106",
+    "sg:province":"NE",
+    "sg:tags":[
+        "street",
+        "paving",
+        "sewer",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867059,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5C3cGBjQvx5WPuooDpm9tB_41.227658_-96.016788@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296609,
+    "wof:geomhash":"c6deb753ba151bff402e470f2b7c3c7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85867059,
+            "region_id":85688563,
+            "venue_id":873717143
+        }
+    ],
+    "wof:id":873717143,
+    "wof:lastmodified":1464296609,
+    "wof:name":"MBC Construction Company Inc",
+    "wof:parent_id":85867059,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "street",
+        "paving",
+        "sewer",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.016788,
+    41.227658,
+    -96.016788,
+    41.227658
+],
+  "geometry": {"coordinates":[-96.01678800000001,41.227658],"type":"Point"}
+}

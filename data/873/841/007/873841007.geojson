@@ -1,0 +1,71 @@
+{
+  "id": 873841007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.635833,40.858815,-96.635833,40.858815",
+    "geom:latitude":40.858815,
+    "geom:longitude":-96.635833,
+    "iso:country":"US",
+    "sg:address":"4535 N 62nd St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 466 3354",
+    "sg:postcode":"68507",
+    "sg:province":"NE",
+    "sg:tags":[
+        "barricade"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85824241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3nFKckP3PaEusxdQLR4RSV_40.858815_-96.635833@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298576,
+    "wof:geomhash":"5f70121ca5b32950e30ee48406040ca5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85824241,
+            "region_id":85688563,
+            "venue_id":873841007
+        }
+    ],
+    "wof:id":873841007,
+    "wof:lastmodified":1464298576,
+    "wof:name":"D P Sawyer Barricades Inc",
+    "wof:parent_id":85824241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "barricade"
+    ]
+},
+  "bbox": [
+    -96.635833,
+    40.858815,
+    -96.635833,
+    40.858815
+],
+  "geometry": {"coordinates":[-96.63583300000001,40.858815],"type":"Point"}
+}

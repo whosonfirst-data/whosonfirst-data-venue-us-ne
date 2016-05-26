@@ -1,0 +1,71 @@
+{
+  "id": 873827283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.602348,40.799733,-96.602348,40.799733",
+    "geom:latitude":40.799733,
+    "geom:longitude":-96.602348,
+    "iso:country":"US",
+    "sg:address":"1220 Smoky Hill Rd",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 489 2908",
+    "sg:postcode":"68520",
+    "sg:province":"NE",
+    "sg:tags":[
+        "book"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4SgvKVPtU7aQ6WC9bmjQQN_40.799733_-96.602348@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298282,
+    "wof:geomhash":"b581e48c89a7c27336329383e0e27fe7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878697,
+            "region_id":85688563,
+            "venue_id":873827283
+        }
+    ],
+    "wof:id":873827283,
+    "wof:lastmodified":1464298282,
+    "wof:name":"Mc Graw-Hill Companies Inc",
+    "wof:parent_id":85878697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "book"
+    ]
+},
+  "bbox": [
+    -96.602348,
+    40.799733,
+    -96.602348,
+    40.799733
+],
+  "geometry": {"coordinates":[-96.60234800000001,40.799733],"type":"Point"}
+}

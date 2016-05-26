@@ -1,0 +1,76 @@
+{
+  "id": 873978227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.738672,40.843837,-96.738672,40.843837",
+    "geom:latitude":40.843837,
+    "geom:longitude":-96.738672,
+    "iso:country":"US",
+    "sg:address":"1141 W Bond St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ne/lincoln/194429-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 475 5238",
+    "sg:postcode":"68521",
+    "sg:province":"NE",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102529023,
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3F3TtnGrRDpE2ktndX7Kj7_40.844448_-96.739066@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464302304,
+    "wof:geomhash":"73612a45f7e82d086d02045a9555ff3c",
+    "wof:hierarchy":[
+        {
+            "campus_id":102529023,
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878717,
+            "region_id":85688563,
+            "venue_id":873978227
+        }
+    ],
+    "wof:id":873978227,
+    "wof:lastmodified":1464302304,
+    "wof:name":"McDonald's",
+    "wof:parent_id":102529023,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -96.738672,
+    40.843837,
+    -96.738672,
+    40.843837
+],
+  "geometry": {"coordinates":[-96.73867199999999,40.843837],"type":"Point"}
+}

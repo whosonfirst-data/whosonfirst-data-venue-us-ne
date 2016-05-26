@@ -1,0 +1,81 @@
+{
+  "id": 873974389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.639883,40.862576,-96.639883,40.862576",
+    "geom:latitude":40.862576,
+    "geom:longitude":-96.639883,
+    "iso:country":"US",
+    "sg:address":"5040 Russell Cir",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 877 885 4884",
+    "sg:postcode":"68507",
+    "sg:province":"NE",
+    "sg:tags":[
+        "new",
+        "used",
+        "truck"
+    ],
+    "sg:website":"http://www.wickstrucks.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85824241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6qFhT5sr6FXp2RcKml5OtQ_40.862800_-96.640200@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464302169,
+    "wof:geomhash":"5c7ef1a1a19afb84fb24ab2825636008",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85824241,
+            "region_id":85688563,
+            "venue_id":873974389
+        }
+    ],
+    "wof:id":873974389,
+    "wof:lastmodified":1464302169,
+    "wof:name":"Wick's Sterling Trucks Inc",
+    "wof:parent_id":85824241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "new",
+        "used",
+        "truck"
+    ]
+},
+  "bbox": [
+    -96.639883,
+    40.862576,
+    -96.639883,
+    40.862576
+],
+  "geometry": {"coordinates":[-96.639883,40.862576],"type":"Point"}
+}

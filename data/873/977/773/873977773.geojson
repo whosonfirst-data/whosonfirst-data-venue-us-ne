@@ -1,0 +1,78 @@
+{
+  "id": 873977773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.988008,41.248144,-95.988008,41.248144",
+    "geom:latitude":41.248144,
+    "geom:longitude":-95.988008,
+    "iso:country":"US",
+    "sg:address":"1115 S Saddle Creek Rd",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ne/omaha/96369-taco-johns/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 553 7400",
+    "sg:postcode":"68106",
+    "sg:province":"NE",
+    "sg:tags":[
+        "american",
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872523,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6vYniP1Po5EyUlacVerJl2_41.248631_-95.987934@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464302289,
+    "wof:geomhash":"3075df61862d4b5e3c9f52a05e749921",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872523,
+            "region_id":85688563,
+            "venue_id":873977773
+        }
+    ],
+    "wof:id":873977773,
+    "wof:lastmodified":1464302289,
+    "wof:name":"Taco John's",
+    "wof:parent_id":85872523,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "mexican"
+    ]
+},
+  "bbox": [
+    -95.988008,
+    41.248144,
+    -95.988008,
+    41.248144
+],
+  "geometry": {"coordinates":[-95.98800799999999,41.248144],"type":"Point"}
+}

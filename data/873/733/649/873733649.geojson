@@ -1,0 +1,71 @@
+{
+  "id": 873733649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.101844,41.327394,-96.101844,41.327394",
+    "geom:latitude":41.327394,
+    "geom:longitude":-96.101844,
+    "iso:country":"US",
+    "sg:address":"12101 Deer Creek Dr",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Golf",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 963 9950",
+    "sg:postcode":"68142",
+    "sg:province":"NE",
+    "sg:tags":[
+        "course",
+        "public"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85872505,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4FEHK2xSQSH9alI8LyhpeZ_41.327394_-96.101844@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296822,
+    "wof:geomhash":"f6f9faae46fec61a4182ce05842b0098",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":873733649
+        }
+    ],
+    "wof:id":873733649,
+    "wof:lastmodified":1464296822,
+    "wof:name":"Players Club",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "course",
+        "public"
+    ]
+},
+  "bbox": [
+    -96.101844,
+    41.327394,
+    -96.101844,
+    41.327394
+],
+  "geometry": {"coordinates":[-96.101844,41.327394],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 873816555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.689694,40.884229,-96.689694,40.884229",
+    "geom:latitude":40.884229,
+    "geom:longitude":-96.689694,
+    "iso:country":"US",
+    "sg:address":"2241 Humphrey Ave",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 441 4300",
+    "sg:postcode":"68521",
+    "sg:province":"NE",
+    "sg:tags":[
+        "industrial",
+        "valve"
+    ],
+    "sg:website":"www.dualdynamics.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4yQYjVN254SlQ4UmsCm4Pc_40.884229_-96.689694@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298044,
+    "wof:geomhash":"b047626c1126d75f903ff2744ebe3e17",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878687,
+            "region_id":85688563,
+            "venue_id":873816555
+        }
+    ],
+    "wof:id":873816555,
+    "wof:lastmodified":1464298044,
+    "wof:name":"Dual Dynamics",
+    "wof:parent_id":85878687,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industrial",
+        "valve"
+    ]
+},
+  "bbox": [
+    -96.689694,
+    40.884229,
+    -96.689694,
+    40.884229
+],
+  "geometry": {"coordinates":[-96.689694,40.884229],"type":"Point"}
+}

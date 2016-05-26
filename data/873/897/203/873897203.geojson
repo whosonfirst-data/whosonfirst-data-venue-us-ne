@@ -1,0 +1,75 @@
+{
+  "id": 873897203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.674925,40.82008,-96.674925,40.82008",
+    "geom:latitude":40.82008,
+    "geom:longitude":-96.674925,
+    "iso:country":"US",
+    "sg:address":"3141 U St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 432 5959",
+    "sg:postcode":"68503",
+    "sg:province":"NE",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878715,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0WaCsmETiK2d0LdNMgIFUQ_40.820080_-96.674925@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299769,
+    "wof:geomhash":"054b599884a17de0e6422c2d48edd0af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878715,
+            "region_id":85688563,
+            "venue_id":873897203
+        }
+    ],
+    "wof:id":873897203,
+    "wof:lastmodified":1464299769,
+    "wof:name":"Stanley Plumbing Co Inc",
+    "wof:parent_id":85878715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.674925,
+    40.82008,
+    -96.674925,
+    40.82008
+],
+  "geometry": {"coordinates":[-96.674925,40.82008],"type":"Point"}
+}

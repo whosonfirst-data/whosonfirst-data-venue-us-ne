@@ -1,0 +1,76 @@
+{
+  "id": 873540355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.657578,40.856795,-96.657578,40.856795",
+    "geom:latitude":40.856795,
+    "geom:longitude":-96.657578,
+    "iso:country":"US",
+    "sg:address":"4223 Progressive Ave",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 466 3386",
+    "sg:postcode":"68504",
+    "sg:province":"NE",
+    "sg:tags":[
+        "photo"
+    ],
+    "sg:website":"www.bobmeierphoto.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878741,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5aPspXTUCYr4WasVCtw7Ov_40.856795_-96.657578@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294263,
+    "wof:geomhash":"23f186a0ff3de03209cc9f5dd2744376",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878741,
+            "region_id":85688563,
+            "venue_id":873540355
+        }
+    ],
+    "wof:id":873540355,
+    "wof:lastmodified":1464294263,
+    "wof:name":"Bob Meier Photography",
+    "wof:parent_id":85878741,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photo"
+    ]
+},
+  "bbox": [
+    -96.657578,
+    40.856795,
+    -96.657578,
+    40.856795
+],
+  "geometry": {"coordinates":[-96.657578,40.856795],"type":"Point"}
+}

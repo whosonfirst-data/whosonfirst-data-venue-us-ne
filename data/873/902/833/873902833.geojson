@@ -1,0 +1,82 @@
+{
+  "id": 873902833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.642751,40.863208,-96.642751,40.863208",
+    "geom:latitude":40.863208,
+    "geom:longitude":-96.642751,
+    "iso:country":"US",
+    "sg:address":"4901 N 57th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Farming",
+            "subcategory":"Farm & Veterinary Services",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 466 6025",
+    "sg:postcode":"68507",
+    "sg:province":"NE",
+    "sg:tags":[
+        "perform",
+        "test",
+        "retail",
+        "hog"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85824241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5tPXUNXEArzb2SGPUdNJoh_40.863208_-96.642751@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299876,
+    "wof:geomhash":"79be6b179ff221159b499071a09e8897",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85824241,
+            "region_id":85688563,
+            "venue_id":873902833
+        }
+    ],
+    "wof:id":873902833,
+    "wof:lastmodified":1464299876,
+    "wof:name":"Nebraska Spf Swine Accrediting",
+    "wof:parent_id":85824241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "perform",
+        "test",
+        "retail",
+        "hog"
+    ]
+},
+  "bbox": [
+    -96.642751,
+    40.863208,
+    -96.642751,
+    40.863208
+],
+  "geometry": {"coordinates":[-96.642751,40.863208],"type":"Point"}
+}

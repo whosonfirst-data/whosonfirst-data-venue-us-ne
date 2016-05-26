@@ -1,0 +1,76 @@
+{
+  "id": 873948225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.091077,41.260549,-96.091077,41.260549",
+    "geom:latitude":41.260549,
+    "geom:longitude":-96.091077,
+    "iso:country":"US",
+    "sg:address":"380 N 114th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 330 5707",
+    "sg:postcode":"68154",
+    "sg:province":"NE",
+    "sg:tags":[
+        "mexican"
+    ],
+    "sg:website":"www.fernandosrestaurant.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872503,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ZqtBjKy2NyPFmfCuQS3fG_41.260549_-96.091077@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464301066,
+    "wof:geomhash":"0c7087482cabc39fa57514c2518f028c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872503,
+            "region_id":85688563,
+            "venue_id":873948225
+        }
+    ],
+    "wof:id":873948225,
+    "wof:lastmodified":1464301066,
+    "wof:name":"Fernando's",
+    "wof:parent_id":85872503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -96.091077,
+    41.260549,
+    -96.091077,
+    41.260549
+],
+  "geometry": {"coordinates":[-96.091077,41.260549],"type":"Point"}
+}

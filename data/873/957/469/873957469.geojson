@@ -1,0 +1,71 @@
+{
+  "id": 873957469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.137672,41.171058,-96.137672,41.171058",
+    "geom:latitude":41.171058,
+    "geom:longitude":-96.137672,
+    "iso:country":"US",
+    "sg:address":"8801 S 143rd Ave",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 896 5667",
+    "sg:postcode":"68138",
+    "sg:province":"NE",
+    "sg:tags":[
+        "hanging",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85834285,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5oSWUoZt8R0BbZRJqVlihh_41.171058_-96.137672@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464301422,
+    "wof:geomhash":"564b26b9dcca3fc64fd70a51d6836fb9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85834285,
+            "region_id":85688563,
+            "venue_id":873957469
+        }
+    ],
+    "wof:id":873957469,
+    "wof:lastmodified":1464301422,
+    "wof:name":"Charles & Co Painting",
+    "wof:parent_id":85834285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.137672,
+    41.171058,
+    -96.137672,
+    41.171058
+],
+  "geometry": {"coordinates":[-96.13767199999999,41.171058],"type":"Point"}
+}

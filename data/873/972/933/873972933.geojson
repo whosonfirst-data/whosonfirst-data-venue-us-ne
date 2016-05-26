@@ -1,0 +1,76 @@
+{
+  "id": 873972933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.956398,41.2854,-95.956398,41.2854",
+    "geom:latitude":41.2854,
+    "geom:longitude":-95.956398,
+    "iso:country":"US",
+    "sg:address":"2906 N 30th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 457 5520",
+    "sg:postcode":"68111",
+    "sg:province":"NE",
+    "sg:tags":[
+        "elementary"
+    ],
+    "sg:website":"www.ops.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872525,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5kaatLxOCvS0uaEzr5C2oR_41.285926_-95.956627@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464302107,
+    "wof:geomhash":"6368be3b83eba57f67c1e25967e09587",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872525,
+            "region_id":85688563,
+            "venue_id":873972933
+        }
+    ],
+    "wof:id":873972933,
+    "wof:lastmodified":1464302107,
+    "wof:name":"Kennedy Elementary School",
+    "wof:parent_id":85872525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary"
+    ]
+},
+  "bbox": [
+    -95.956398,
+    41.2854,
+    -95.956398,
+    41.2854
+],
+  "geometry": {"coordinates":[-95.95639799999999,41.2854],"type":"Point"}
+}

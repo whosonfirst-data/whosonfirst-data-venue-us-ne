@@ -1,0 +1,77 @@
+{
+  "id": 873799687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.11586,41.233981,-96.11586,41.233981",
+    "geom:latitude":41.233981,
+    "geom:longitude":-96.11586,
+    "iso:country":"US",
+    "sg:address":"12995 W Center Rd",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 697 8839",
+    "sg:postcode":"68144",
+    "sg:province":"NE",
+    "sg:tags":[
+        "video",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872531,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0jcaBRs75WPwdlqK6wH1GA_41.233981_-96.115860@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297769,
+    "wof:geomhash":"624d8248321f90e38e2af1c0e6328166",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872531,
+            "region_id":85688563,
+            "venue_id":873799687
+        }
+    ],
+    "wof:id":873799687,
+    "wof:lastmodified":1464297769,
+    "wof:name":"Hollywood Video",
+    "wof:parent_id":85872531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "video",
+        "tape"
+    ]
+},
+  "bbox": [
+    -96.11586,
+    41.233981,
+    -96.11586,
+    41.233981
+],
+  "geometry": {"coordinates":[-96.11586,41.233981],"type":"Point"}
+}

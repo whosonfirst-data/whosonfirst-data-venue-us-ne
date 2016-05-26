@@ -1,0 +1,73 @@
+{
+  "id": 873868835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.89102,41.134435,-95.89102,41.134435",
+    "geom:latitude":41.134435,
+    "geom:longitude":-95.89102,
+    "iso:country":"US",
+    "sg:address":"2306 Main St",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 291 5610",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974747,
+        102082777,
+        85820061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6LDUeoVO8G834qcgoFxMh8_41.134435_-95.891020@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299205,
+    "wof:geomhash":"3eace2c054603fa5cff702e108cbd2c4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974747,
+            "neighbourhood_id":85820061,
+            "region_id":85688563,
+            "venue_id":873868835
+        }
+    ],
+    "wof:id":873868835,
+    "wof:lastmodified":1464299205,
+    "wof:name":"Ron Moss Electric",
+    "wof:parent_id":85820061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -95.89102,
+    41.134435,
+    -95.89102,
+    41.134435
+],
+  "geometry": {"coordinates":[-95.89102,41.134435],"type":"Point"}
+}

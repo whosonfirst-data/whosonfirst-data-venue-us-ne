@@ -1,0 +1,66 @@
+{
+  "id": 873724695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.900299,41.13657,-95.900299,41.13657",
+    "geom:latitude":41.13657,
+    "geom:longitude":-95.900299,
+    "iso:country":"US",
+    "sg:address":"502 W Mission Ave",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 291 2967",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974747,
+        102082777,
+        85820061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1rkRE0pk6foSXwoU1X9bFS_41.136570_-95.900299@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296709,
+    "wof:geomhash":"24c7ae9cf5699ac24bbe59c9227d3822",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974747,
+            "neighbourhood_id":85820061,
+            "region_id":85688563,
+            "venue_id":873724695
+        }
+    ],
+    "wof:id":873724695,
+    "wof:lastmodified":1464296709,
+    "wof:name":"KWIK Shop",
+    "wof:parent_id":85820061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -95.900299,
+    41.13657,
+    -95.900299,
+    41.13657
+],
+  "geometry": {"coordinates":[-95.900299,41.13657],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873649901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.046067,41.262819,-96.046067,41.262819",
+    "geom:latitude":41.262819,
+    "geom:longitude":-96.046067,
+    "iso:country":"US",
+    "sg:address":"8511 W Dodge Rd",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 354 4800",
+    "sg:postcode":"68114",
+    "sg:province":"NE",
+    "sg:website":"www.bestcare.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872509,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4din1M2rUaWpC6WI5Euruf_41.262819_-96.046067@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295585,
+    "wof:geomhash":"154327965d093eaeae55b559ceac65f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872509,
+            "region_id":85688563,
+            "venue_id":873649901
+        }
+    ],
+    "wof:id":873649901,
+    "wof:lastmodified":1464295585,
+    "wof:name":"Methodist Health System",
+    "wof:parent_id":85872509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.046067,
+    41.262819,
+    -96.046067,
+    41.262819
+],
+  "geometry": {"coordinates":[-96.04606699999999,41.262819],"type":"Point"}
+}

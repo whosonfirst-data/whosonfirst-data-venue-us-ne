@@ -1,0 +1,78 @@
+{
+  "id": 873954089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.707218,40.871567,-96.707218,40.871567",
+    "geom:latitude":40.871567,
+    "geom:longitude":-96.707218,
+    "iso:country":"US",
+    "sg:address":"921 Fletcher Ave",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 432 4675",
+    "sg:postcode":"68521",
+    "sg:province":"NE",
+    "sg:tags":[
+        "fire",
+        "house",
+        "restoration",
+        "damage"
+    ],
+    "sg:website":"www.vogelconstruction.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ciTuzrb4m9JXQG93Zm5AC_40.871567_-96.707218@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464301306,
+    "wof:geomhash":"cf4a29faecbb3975877c2ba0c486b1f4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878717,
+            "region_id":85688563,
+            "venue_id":873954089
+        }
+    ],
+    "wof:id":873954089,
+    "wof:lastmodified":1464301306,
+    "wof:name":"Vogel Construction & Repair",
+    "wof:parent_id":85878717,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fire",
+        "house",
+        "restoration",
+        "damage"
+    ]
+},
+  "bbox": [
+    -96.707218,
+    40.871567,
+    -96.707218,
+    40.871567
+],
+  "geometry": {"coordinates":[-96.707218,40.871567],"type":"Point"}
+}

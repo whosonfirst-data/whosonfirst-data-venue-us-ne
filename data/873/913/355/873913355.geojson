@@ -1,0 +1,73 @@
+{
+  "id": 873913355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.081342,41.30778,-96.081342,41.30778",
+    "geom:latitude":41.30778,
+    "geom:longitude":-96.081342,
+    "iso:country":"US",
+    "sg:address":"5303 N 108th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 498 9792",
+    "sg:postcode":"68164",
+    "sg:province":"NE",
+    "sg:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85872505,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1E8CCR2WTBR379nUSiXPC2_41.307780_-96.081342@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300075,
+    "wof:geomhash":"86850b8e6daeafd3b09d1237028b261a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":873913355
+        }
+    ],
+    "wof:id":873913355,
+    "wof:lastmodified":1464300075,
+    "wof:name":"Tailwaggers",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ]
+},
+  "bbox": [
+    -96.081342,
+    41.30778,
+    -96.081342,
+    41.30778
+],
+  "geometry": {"coordinates":[-96.08134200000001,41.30778],"type":"Point"}
+}

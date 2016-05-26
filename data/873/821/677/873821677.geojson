@@ -1,0 +1,75 @@
+{
+  "id": 873821677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.670461,40.823988,-96.670461,40.823988",
+    "geom:latitude":40.823988,
+    "geom:longitude":-96.670461,
+    "iso:country":"US",
+    "sg:address":"1035 N 35th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 466 9104",
+    "sg:postcode":"68503",
+    "sg:province":"NE",
+    "sg:tags":[
+        "printer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878715,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3BD6VHQGwi8zSHcwCfxShI_40.823988_-96.670461@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298150,
+    "wof:geomhash":"ad00e4141b54fd690c1714cf35590153",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878715,
+            "region_id":85688563,
+            "venue_id":873821677
+        }
+    ],
+    "wof:id":873821677,
+    "wof:lastmodified":1464298150,
+    "wof:name":"Lincoln Printing & Typesetting",
+    "wof:parent_id":85878715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "printer"
+    ]
+},
+  "bbox": [
+    -96.670461,
+    40.823988,
+    -96.670461,
+    40.823988
+],
+  "geometry": {"coordinates":[-96.670461,40.823988],"type":"Point"}
+}

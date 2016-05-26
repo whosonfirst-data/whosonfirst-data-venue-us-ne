@@ -1,0 +1,72 @@
+{
+  "id": 873850675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.091465,41.170109,-96.091465,41.170109",
+    "geom:latitude":41.170109,
+    "geom:longitude":-96.091465,
+    "iso:country":"US",
+    "sg:address":"11619 Centennial Rd",
+    "sg:city":"La Vista",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Chemicals & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 733 4040",
+    "sg:postcode":"68128",
+    "sg:province":"NE",
+    "sg:tags":[
+        "building",
+        "industrial"
+    ],
+    "sg:website":"www.hillyard.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85843697,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0sRqv2mMHlbrwrtSiZcxMU_41.170109_-96.091465@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298825,
+    "wof:geomhash":"1d03a9ae844dcb5f2b438e527ad1d602",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85843697,
+            "region_id":85688563,
+            "venue_id":873850675
+        }
+    ],
+    "wof:id":873850675,
+    "wof:lastmodified":1464298825,
+    "wof:name":"Hillyard/Omaha",
+    "wof:parent_id":85843697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "industrial"
+    ]
+},
+  "bbox": [
+    -96.091465,
+    41.170109,
+    -96.091465,
+    41.170109
+],
+  "geometry": {"coordinates":[-96.091465,41.170109],"type":"Point"}
+}

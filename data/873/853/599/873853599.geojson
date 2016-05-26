@@ -1,0 +1,73 @@
+{
+  "id": 873853599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.642585,40.864036,-96.642585,40.864036",
+    "geom:latitude":40.864036,
+    "geom:longitude":-96.642585,
+    "iso:country":"US",
+    "sg:address":"4828 N 57th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 466 3340",
+    "sg:postcode":"68507",
+    "sg:province":"NE",
+    "sg:tags":[
+        "roofing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85824241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7fB7AutcvJwhCmTH9DLwZ7_40.864036_-96.642585@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298889,
+    "wof:geomhash":"536963c10fe10e69898ed38440745751",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85824241,
+            "region_id":85688563,
+            "venue_id":873853599
+        }
+    ],
+    "wof:id":873853599,
+    "wof:lastmodified":1464298889,
+    "wof:name":"Roofpros Inc",
+    "wof:parent_id":85824241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "roofing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.642585,
+    40.864036,
+    -96.642585,
+    40.864036
+],
+  "geometry": {"coordinates":[-96.642585,40.864036],"type":"Point"}
+}

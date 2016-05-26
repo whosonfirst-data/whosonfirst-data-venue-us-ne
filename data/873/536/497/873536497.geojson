@@ -1,0 +1,80 @@
+{
+  "id": 873536497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.074517,41.318591,-96.074517,41.318591",
+    "geom:latitude":41.318591,
+    "geom:longitude":-96.074517,
+    "iso:country":"US",
+    "sg:address":"10319 Huntington Ave",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Non-durable Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 496 2500",
+    "sg:postcode":"68122",
+    "sg:province":"NE",
+    "sg:tags":[
+        "fund",
+        "raising",
+        "merchandise",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85872505,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0fZcPMTgAwO4Hzju7feOSF_41.318591_-96.074517@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294220,
+    "wof:geomhash":"3df12491531f07d09fb2473ffe9077a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":873536497
+        }
+    ],
+    "wof:id":873536497,
+    "wof:lastmodified":1464294220,
+    "wof:name":"Red Wheel Fund Raising",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fund",
+        "raising",
+        "merchandise",
+        "general"
+    ]
+},
+  "bbox": [
+    -96.074517,
+    41.318591,
+    -96.074517,
+    41.318591
+],
+  "geometry": {"coordinates":[-96.074517,41.318591],"type":"Point"}
+}

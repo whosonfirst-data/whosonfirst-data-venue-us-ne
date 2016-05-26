@@ -1,0 +1,75 @@
+{
+  "id": 873558003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.994661,41.310427,-95.994661,41.310427",
+    "geom:latitude":41.310427,
+    "geom:longitude":-95.994661,
+    "iso:country":"US",
+    "sg:address":"5118 Hartman Ave",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 455 4117",
+    "sg:postcode":"68104",
+    "sg:province":"NE",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85805755,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1UAvjqmxWkfpY0sp8TwAdg_41.310427_-95.994661@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294471,
+    "wof:geomhash":"99c878dd3d3798afa8795ee15d016fa8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85805755,
+            "region_id":85688563,
+            "venue_id":873558003
+        }
+    ],
+    "wof:id":873558003,
+    "wof:lastmodified":1464294471,
+    "wof:name":"Church Of Christ",
+    "wof:parent_id":85805755,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -95.994661,
+    41.310427,
+    -95.994661,
+    41.310427
+],
+  "geometry": {"coordinates":[-95.99466099999999,41.310427],"type":"Point"}
+}

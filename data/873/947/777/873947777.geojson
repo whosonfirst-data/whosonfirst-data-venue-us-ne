@@ -1,0 +1,73 @@
+{
+  "id": 873947777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.736342,40.86901,-96.736342,40.86901",
+    "geom:latitude":40.86901,
+    "geom:longitude":-96.736342,
+    "iso:country":"US",
+    "sg:address":"1144 W Keating Dr",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 432 5303",
+    "sg:postcode":"68521",
+    "sg:province":"NE",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Lce52rXiEnzZfuZAs2G7U_40.869010_-96.736342@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464301045,
+    "wof:geomhash":"9c76d068bc670d5c9f0c59577044486f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878717,
+            "region_id":85688563,
+            "venue_id":873947777
+        }
+    ],
+    "wof:id":873947777,
+    "wof:lastmodified":1464301045,
+    "wof:name":"Darby's Landscape Curbing",
+    "wof:parent_id":85878717,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.736342,
+    40.86901,
+    -96.736342,
+    40.86901
+],
+  "geometry": {"coordinates":[-96.73634199999999,40.86901],"type":"Point"}
+}

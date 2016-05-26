@@ -1,0 +1,71 @@
+{
+  "id": 873880951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.040465,41.190613,-96.040465,41.190613",
+    "geom:latitude":41.190613,
+    "geom:longitude":-96.040465,
+    "iso:country":"US",
+    "sg:address":"7009 S 83rd St",
+    "sg:city":"La Vista",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 339 8350",
+    "sg:postcode":"68128",
+    "sg:province":"NE",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85843697,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_04kMMLivLcXGxr7VhvItm4_41.190613_-96.040465@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299451,
+    "wof:geomhash":"aba09a74211f49286f51c03feab6f6a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85843697,
+            "region_id":85688563,
+            "venue_id":873880951
+        }
+    ],
+    "wof:id":873880951,
+    "wof:lastmodified":1464299451,
+    "wof:name":"Point Management Co",
+    "wof:parent_id":85843697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -96.040465,
+    41.190613,
+    -96.040465,
+    41.190613
+],
+  "geometry": {"coordinates":[-96.040465,41.190613],"type":"Point"}
+}

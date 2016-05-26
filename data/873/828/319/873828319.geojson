@@ -1,0 +1,82 @@
+{
+  "id": 873828319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.97611,41.27001,-95.97611,41.27001",
+    "geom:latitude":41.27001,
+    "geom:longitude":-95.97611,
+    "iso:country":"US",
+    "sg:address":"1010 N 42nd St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 558 7989",
+    "sg:postcode":"68131",
+    "sg:province":"NE",
+    "sg:tags":[
+        "repair",
+        "masonry",
+        "caulking",
+        "contractor"
+    ],
+    "sg:website":"www.mcgillrestoration.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872525,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1tb6DhvfXOjChLbxpNWr2Z_41.270010_-95.976110@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298301,
+    "wof:geomhash":"39c3e8daf211059d0cc82a071dfa2120",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872525,
+            "region_id":85688563,
+            "venue_id":873828319
+        }
+    ],
+    "wof:id":873828319,
+    "wof:lastmodified":1464298301,
+    "wof:name":"Mc Gill Restoration Inc",
+    "wof:parent_id":85872525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "masonry",
+        "caulking",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -95.97611,
+    41.27001,
+    -95.97611,
+    41.27001
+],
+  "geometry": {"coordinates":[-95.97611000000001,41.27001],"type":"Point"}
+}

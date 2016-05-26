@@ -1,0 +1,71 @@
+{
+  "id": 873956441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.682601,40.742696,-96.682601,40.742696",
+    "geom:latitude":40.742696,
+    "geom:longitude":-96.682601,
+    "iso:country":"US",
+    "sg:address":"6801 S 27th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 323 1799",
+    "sg:postcode":"68512",
+    "sg:province":"NE",
+    "sg:tags":[
+        "commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Wb0sy1YYGECwmdLyFhcnN_40.742696_-96.682601@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464301388,
+    "wof:geomhash":"7f84b720b480ba8ef971656abdae804e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878733,
+            "region_id":85688563,
+            "venue_id":873956441
+        }
+    ],
+    "wof:id":873956441,
+    "wof:lastmodified":1464301388,
+    "wof:name":"Union Bank & Trust Co",
+    "wof:parent_id":85878733,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial"
+    ]
+},
+  "bbox": [
+    -96.682601,
+    40.742696,
+    -96.682601,
+    40.742696
+],
+  "geometry": {"coordinates":[-96.68260100000001,40.742696],"type":"Point"}
+}

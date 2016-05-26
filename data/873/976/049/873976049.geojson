@@ -1,0 +1,78 @@
+{
+  "id": 873976049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.162885,41.262701,-96.162885,41.262701",
+    "geom:latitude":41.262701,
+    "geom:longitude":-96.162885,
+    "iso:country":"US",
+    "sg:address":"15761 W Dodge Rd",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ne/omaha/129474-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 691 8766",
+    "sg:postcode":"68118",
+    "sg:province":"NE",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85806957,
+        102191575,
+        404519987,
+        85633793,
+        85973479,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Se07h4zj7lpA8I8I8t2Lq_41.262701_-96.162885@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464302225,
+    "wof:geomhash":"7324f98541f7a8fde6c501c27a0949f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404519987,
+            "locality_id":85973479,
+            "neighbourhood_id":85806957,
+            "region_id":85688563,
+            "venue_id":873976049
+        }
+    ],
+    "wof:id":873976049,
+    "wof:lastmodified":1464302225,
+    "wof:name":"Subway",
+    "wof:parent_id":85806957,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -96.162885,
+    41.262701,
+    -96.162885,
+    41.262701
+],
+  "geometry": {"coordinates":[-96.162885,41.262701],"type":"Point"}
+}

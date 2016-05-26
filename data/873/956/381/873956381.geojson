@@ -1,0 +1,86 @@
+{
+  "id": 873956381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.083551,41.290246,-96.083551,41.290246",
+    "geom:latitude":41.290246,
+    "geom:longitude":-96.083551,
+    "iso:country":"US",
+    "sg:address":"3335 N 109th Plz",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 498 0608",
+    "sg:postcode":"68164",
+    "sg:province":"NE",
+    "sg:tags":[
+        "equipment",
+        "design",
+        "dealer",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872503,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1PVqyBbRFDZzVBwKXUdHvS_41.290246_-96.083551@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464301386,
+    "wof:geomhash":"940503bf72e1a2538da5fac570bf99fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872503,
+            "region_id":85688563,
+            "venue_id":873956381
+        }
+    ],
+    "wof:id":873956381,
+    "wof:lastmodified":1464301386,
+    "wof:name":"Barden Systems",
+    "wof:parent_id":85872503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "design",
+        "dealer",
+        "system"
+    ]
+},
+  "bbox": [
+    -96.083551,
+    41.290246,
+    -96.083551,
+    41.290246
+],
+  "geometry": {"coordinates":[-96.083551,41.290246],"type":"Point"}
+}

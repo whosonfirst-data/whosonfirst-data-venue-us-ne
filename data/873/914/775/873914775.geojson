@@ -1,0 +1,75 @@
+{
+  "id": 873914775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.697206,40.811451,-96.697206,40.811451",
+    "geom:latitude":40.811451,
+    "geom:longitude":-96.697206,
+    "iso:country":"US",
+    "sg:address":"1640 M St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 474 8083",
+    "sg:postcode":"68508",
+    "sg:province":"NE",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878699,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1OI6QV7WnM3AgMYVBc84RQ_40.811451_-96.697206@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300102,
+    "wof:geomhash":"ee81c0c2fbc7e9ff116550d590aa1596",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878699,
+            "region_id":85688563,
+            "venue_id":873914775
+        }
+    ],
+    "wof:id":873914775,
+    "wof:lastmodified":1464300102,
+    "wof:name":"Auto Repair & Sale",
+    "wof:parent_id":85878699,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -96.697206,
+    40.811451,
+    -96.697206,
+    40.811451
+],
+  "geometry": {"coordinates":[-96.69720599999999,40.811451],"type":"Point"}
+}

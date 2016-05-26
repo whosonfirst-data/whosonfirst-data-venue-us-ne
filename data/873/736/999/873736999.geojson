@@ -1,0 +1,71 @@
+{
+  "id": 873736999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.237773,41.144398,-96.237773,41.144398",
+    "geom:latitude":41.144398,
+    "geom:longitude":-96.237773,
+    "iso:country":"US",
+    "sg:address":"510 Chestnut Dr",
+    "sg:city":"Gretna",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 332 4955",
+    "sg:postcode":"68028",
+    "sg:province":"NE",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85834285,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1XTl0umPwGix73qJnqqhJV_41.144398_-96.237773@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296882,
+    "wof:geomhash":"2b6289e38dc3131e21bc65373c3a2252",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85834285,
+            "region_id":85688563,
+            "venue_id":873736999
+        }
+    ],
+    "wof:id":873736999,
+    "wof:lastmodified":1464296882,
+    "wof:name":"North Park Apartments",
+    "wof:parent_id":85834285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -96.237773,
+    41.144398,
+    -96.237773,
+    41.144398
+],
+  "geometry": {"coordinates":[-96.237773,41.144398],"type":"Point"}
+}

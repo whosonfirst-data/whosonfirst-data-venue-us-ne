@@ -1,0 +1,71 @@
+{
+  "id": 873945069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.617501,40.792053,-96.617501,40.792053",
+    "geom:latitude":40.792053,
+    "geom:longitude":-96.617501,
+    "iso:country":"US",
+    "sg:address":"7420 S Hampton Rd",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 489 3054",
+    "sg:postcode":"68506",
+    "sg:province":"NE",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Qqx5CigKa8GeAvhjm3yu4_40.792053_-96.617501@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300885,
+    "wof:geomhash":"83f900fd4dd1ca63d30c053a34fe4a05",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878697,
+            "region_id":85688563,
+            "venue_id":873945069
+        }
+    ],
+    "wof:id":873945069,
+    "wof:lastmodified":1464300885,
+    "wof:name":"Dick H Hartsock",
+    "wof:parent_id":85878697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -96.617501,
+    40.792053,
+    -96.617501,
+    40.792053
+],
+  "geometry": {"coordinates":[-96.617501,40.792053],"type":"Point"}
+}

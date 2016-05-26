@@ -1,0 +1,69 @@
+{
+  "id": 873822881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.128975,41.184829,-96.128975,41.184829",
+    "geom:latitude":41.184829,
+    "geom:longitude":-96.128975,
+    "iso:country":"US",
+    "sg:address":"13719 Margo St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Secretarial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 861 9147",
+    "sg:postcode":"68138",
+    "sg:province":"NE",
+    "sg:tags":[
+        "reporting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85834285,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5fD5nYeUL56sGCbu5Lohd7_41.184829_-96.128975@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298187,
+    "wof:geomhash":"2047fd1bc18ba6ab6047b5442c3756d1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85834285,
+            "region_id":85688563,
+            "venue_id":873822881
+        }
+    ],
+    "wof:id":873822881,
+    "wof:lastmodified":1464298187,
+    "wof:name":"Regional West Court Reporters",
+    "wof:parent_id":85834285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "reporting"
+    ]
+},
+  "bbox": [
+    -96.128975,
+    41.184829,
+    -96.128975,
+    41.184829
+],
+  "geometry": {"coordinates":[-96.128975,41.184829],"type":"Point"}
+}

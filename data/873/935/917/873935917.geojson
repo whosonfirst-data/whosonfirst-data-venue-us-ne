@@ -1,0 +1,75 @@
+{
+  "id": 873935917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.93217,41.185144,-95.93217,41.185144",
+    "geom:latitude":41.185144,
+    "geom:longitude":-95.93217,
+    "iso:country":"US",
+    "sg:address":"1403 Fort Crook Rd N",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 733 5188",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "exhaust"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85849923,
+        102191575,
+        404519143,
+        85633793,
+        85974545,
+        102082777,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4njpVeCUs1Ks8iFb6DIOo4_41.185144_-95.932170@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300519,
+    "wof:geomhash":"0c6aecb727c4a87570a82e662df0dc47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082777,
+            "localadmin_id":404519143,
+            "locality_id":85974545,
+            "neighbourhood_id":85849923,
+            "region_id":85688563,
+            "venue_id":873935917
+        }
+    ],
+    "wof:id":873935917,
+    "wof:lastmodified":1464300519,
+    "wof:name":"Midas Muffler",
+    "wof:parent_id":85849923,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "exhaust"
+    ]
+},
+  "bbox": [
+    -95.93217,
+    41.185144,
+    -95.93217,
+    41.185144
+],
+  "geometry": {"coordinates":[-95.93217,41.185144],"type":"Point"}
+}

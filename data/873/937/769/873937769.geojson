@@ -1,0 +1,80 @@
+{
+  "id": 873937769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.710248,40.813525,-96.710248,40.813525",
+    "geom:latitude":40.813525,
+    "geom:longitude":-96.710248,
+    "iso:country":"US",
+    "sg:address":"727 O St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 476 4444",
+    "sg:postcode":"68508",
+    "sg:province":"NE",
+    "sg:tags":[
+        "heavy",
+        "course",
+        "golf"
+    ],
+    "sg:website":"www.gcbaa.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878699,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_41DH1seiel20cXmKeIvjoA_40.813525_-96.710248@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300601,
+    "wof:geomhash":"6c30d3aecd654624b33b8399594b47c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878699,
+            "region_id":85688563,
+            "venue_id":873937769
+        }
+    ],
+    "wof:id":873937769,
+    "wof:lastmodified":1464300601,
+    "wof:name":"Golf Course Builders Assn Amer",
+    "wof:parent_id":85878699,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heavy",
+        "course",
+        "golf"
+    ]
+},
+  "bbox": [
+    -96.710248,
+    40.813525,
+    -96.710248,
+    40.813525
+],
+  "geometry": {"coordinates":[-96.71024800000001,40.813525],"type":"Point"}
+}

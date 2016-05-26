@@ -1,0 +1,73 @@
+{
+  "id": 873676993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.139012,41.157863,-96.139012,41.157863",
+    "geom:latitude":41.157863,
+    "geom:longitude":-96.139012,
+    "iso:country":"US",
+    "sg:address":"10306 S 144th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 895 2233",
+    "sg:postcode":"68138",
+    "sg:province":"NE",
+    "sg:tags":[
+        "electrical",
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85834285,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0qWnradWetXFjdeZDZdTEk_41.157863_-96.139012@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295913,
+    "wof:geomhash":"95a37ed4715de649e83de16264177b87",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85834285,
+            "region_id":85688563,
+            "venue_id":873676993
+        }
+    ],
+    "wof:id":873676993,
+    "wof:lastmodified":1464295913,
+    "wof:name":"Millard Electric Co Inc",
+    "wof:parent_id":85834285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.139012,
+    41.157863,
+    -96.139012,
+    41.157863
+],
+  "geometry": {"coordinates":[-96.13901199999999,41.157863],"type":"Point"}
+}

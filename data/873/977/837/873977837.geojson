@@ -1,0 +1,74 @@
+{
+  "id": 873977837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.973787,41.140977,-95.973787,41.140977",
+    "geom:latitude":41.140977,
+    "geom:longitude":-95.973787,
+    "iso:country":"US",
+    "sg:address":"4109 Twin Creek Dr",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ne/bellevue-second-ii/191268-burger-king/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 292 8529",
+    "sg:postcode":"68123",
+    "sg:province":"NE",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85821583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ZHBIaYwaF6GcLm8PQJj74_41.140921_-95.973460@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464302291,
+    "wof:geomhash":"64ab380ba56bb268a9b24799248b0749",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85821583,
+            "region_id":85688563,
+            "venue_id":873977837
+        }
+    ],
+    "wof:id":873977837,
+    "wof:lastmodified":1464302291,
+    "wof:name":"Burger King",
+    "wof:parent_id":85821583,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -95.973787,
+    41.140977,
+    -95.973787,
+    41.140977
+],
+  "geometry": {"coordinates":[-95.973787,41.140977],"type":"Point"}
+}

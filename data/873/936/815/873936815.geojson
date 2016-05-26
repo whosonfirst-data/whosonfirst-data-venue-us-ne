@@ -1,0 +1,73 @@
+{
+  "id": 873936815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.040953,41.174419,-96.040953,41.174419",
+    "geom:latitude":41.174419,
+    "geom:longitude":-96.040953,
+    "iso:country":"US",
+    "sg:address":"1247 Royal Dr",
+    "sg:city":"Papillion",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 331 7975",
+    "sg:postcode":"68046",
+    "sg:province":"NE",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85843697,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ToC4DTns4PxU9OlXwqGmN_41.174419_-96.040953@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300564,
+    "wof:geomhash":"a3ae9606444f12868949ff4ca90b4da8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85843697,
+            "region_id":85688563,
+            "venue_id":873936815
+        }
+    ],
+    "wof:id":873936815,
+    "wof:lastmodified":1464300564,
+    "wof:name":"Joe Shallenberger Body Shop",
+    "wof:parent_id":85843697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -96.040953,
+    41.174419,
+    -96.040953,
+    41.174419
+],
+  "geometry": {"coordinates":[-96.040953,41.174419],"type":"Point"}
+}

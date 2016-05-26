@@ -1,0 +1,78 @@
+{
+  "id": 873891111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.063488,41.321204,-96.063488,41.321204",
+    "geom:latitude":41.321204,
+    "geom:longitude":-96.063488,
+    "iso:country":"US",
+    "sg:address":"6905 N 97th Cir",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 829 9000",
+    "sg:postcode":"68122",
+    "sg:province":"NE",
+    "sg:tags":[
+        "logistics",
+        "party",
+        "third"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85872505,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2WDQGqsAW6rlKTsPZeIJkj_41.321204_-96.063488@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299650,
+    "wof:geomhash":"5cca34d1b3d0e61fb1ae0fb4115ea7f1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":873891111
+        }
+    ],
+    "wof:id":873891111,
+    "wof:lastmodified":1464299650,
+    "wof:name":"Total Logistics Solutions LLC",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "logistics",
+        "party",
+        "third"
+    ]
+},
+  "bbox": [
+    -96.063488,
+    41.321204,
+    -96.063488,
+    41.321204
+],
+  "geometry": {"coordinates":[-96.06348800000001,41.321204],"type":"Point"}
+}

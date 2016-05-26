@@ -1,0 +1,84 @@
+{
+  "id": 873977045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.600857,40.734204,-96.600857,40.734204",
+    "geom:latitude":40.734204,
+    "geom:longitude":-96.600857,
+    "iso:country":"US",
+    "sg:address":"8701 Andermatt Dr",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ne/lincoln/91425-bennigans-grill--tavern/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 488 8701",
+    "sg:postcode":"68526",
+    "sg:province":"NE",
+    "sg:tags":[
+        "sandwich",
+        "salad",
+        "burger",
+        "pub",
+        "soup",
+        "american",
+        "wrap"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ZhfjSBV1ZPhDHmloHCsjj_40.734204_-96.600857@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464302262,
+    "wof:geomhash":"63c4cbe2272d459da6a484399fe253aa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878685,
+            "region_id":85688563,
+            "venue_id":873977045
+        }
+    ],
+    "wof:id":873977045,
+    "wof:lastmodified":1464302262,
+    "wof:name":"Bennigan's Grill & Tavern",
+    "wof:parent_id":85878685,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandwich",
+        "salad",
+        "burger",
+        "pub",
+        "soup",
+        "american",
+        "wrap"
+    ]
+},
+  "bbox": [
+    -96.600857,
+    40.734204,
+    -96.600857,
+    40.734204
+],
+  "geometry": {"coordinates":[-96.600857,40.734204],"type":"Point"}
+}

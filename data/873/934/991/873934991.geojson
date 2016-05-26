@@ -1,0 +1,75 @@
+{
+  "id": 873934991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.046232,41.160664,-96.046232,41.160664",
+    "geom:latitude":41.160664,
+    "geom:longitude":-96.046232,
+    "iso:country":"US",
+    "sg:address":"506 N Jackson St",
+    "sg:city":"Papillion",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 593 0121",
+    "sg:postcode":"68046",
+    "sg:province":"NE",
+    "sg:tags":[
+        "machine",
+        "shop",
+        "metalworking",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85843697,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6IRXAdm5dU4MXjYDVXONHR_41.160664_-96.046232@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300500,
+    "wof:geomhash":"041bc51af1c7156c49a7da1797245787",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85843697,
+            "region_id":85688563,
+            "venue_id":873934991
+        }
+    ],
+    "wof:id":873934991,
+    "wof:lastmodified":1464300500,
+    "wof:name":"Nicrex Machine Inc",
+    "wof:parent_id":85843697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "shop",
+        "metalworking",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -96.046232,
+    41.160664,
+    -96.046232,
+    41.160664
+],
+  "geometry": {"coordinates":[-96.046232,41.160664],"type":"Point"}
+}

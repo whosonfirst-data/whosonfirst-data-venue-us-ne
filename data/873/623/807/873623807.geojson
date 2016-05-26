@@ -1,0 +1,73 @@
+{
+  "id": 873623807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.894257,41.137457,-95.894257,41.137457",
+    "geom:latitude":41.137457,
+    "geom:longitude":-95.894257,
+    "iso:country":"US",
+    "sg:address":"113 W 22nd Ave",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 292 5590",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974747,
+        102082777,
+        85820061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2cODeGinGW7lILEIanY9QP_41.137457_-95.894257@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295296,
+    "wof:geomhash":"78c9302e58e4cfb2a30e010677c13efd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974747,
+            "neighbourhood_id":85820061,
+            "region_id":85688563,
+            "venue_id":873623807
+        }
+    ],
+    "wof:id":873623807,
+    "wof:lastmodified":1464295296,
+    "wof:name":"D C Electric",
+    "wof:parent_id":85820061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -95.894257,
+    41.137457,
+    -95.894257,
+    41.137457
+],
+  "geometry": {"coordinates":[-95.894257,41.137457],"type":"Point"}
+}

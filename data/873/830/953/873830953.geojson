@@ -1,0 +1,73 @@
+{
+  "id": 873830953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.739639,40.842887,-96.739639,40.842887",
+    "geom:latitude":40.842887,
+    "geom:longitude":-96.739639,
+    "iso:country":"US",
+    "sg:address":"3001 NW 12th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 475 3211",
+    "sg:postcode":"68521",
+    "sg:province":"NE",
+    "sg:tags":[
+        "operation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102529023,
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6CacSFLOwM8kOFkxqV5kM0_40.842887_-96.739639@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298350,
+    "wof:geomhash":"23ec76a0bb0a3bc4474ad91dfd9a0a47",
+    "wof:hierarchy":[
+        {
+            "campus_id":102529023,
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878717,
+            "region_id":85688563,
+            "venue_id":873830953
+        }
+    ],
+    "wof:id":873830953,
+    "wof:lastmodified":1464298350,
+    "wof:name":"Motel 6",
+    "wof:parent_id":102529023,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operation"
+    ]
+},
+  "bbox": [
+    -96.739639,
+    40.842887,
+    -96.739639,
+    40.842887
+],
+  "geometry": {"coordinates":[-96.739639,40.842887],"type":"Point"}
+}

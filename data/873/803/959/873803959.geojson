@@ -1,0 +1,70 @@
+{
+  "id": 873803959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.080861,41.277721,-96.080861,41.277721",
+    "geom:latitude":41.277721,
+    "geom:longitude":-96.080861,
+    "iso:country":"US",
+    "sg:address":"10707 Blondo St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 963 0010",
+    "sg:postcode":"68134",
+    "sg:province":"NE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872503,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1fasjiMx2BdxJHZp86n0P9_41.277721_-96.080861@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297822,
+    "wof:geomhash":"e06681349011cb94894b31215032cb2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872503,
+            "region_id":85688563,
+            "venue_id":873803959
+        }
+    ],
+    "wof:id":873803959,
+    "wof:lastmodified":1464297822,
+    "wof:name":"My T Mart",
+    "wof:parent_id":85872503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.080861,
+    41.277721,
+    -96.080861,
+    41.277721
+],
+  "geometry": {"coordinates":[-96.080861,41.277721],"type":"Point"}
+}

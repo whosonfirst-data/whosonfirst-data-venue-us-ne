@@ -1,0 +1,75 @@
+{
+  "id": 873802169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.647696,40.776933,-96.647696,40.776933",
+    "geom:latitude":40.776933,
+    "geom:longitude":-96.647696,
+    "iso:country":"US",
+    "sg:address":"5211 Calvert St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 483 4504",
+    "sg:postcode":"68506",
+    "sg:province":"NE",
+    "sg:tags":[
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85811821,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5PMs1ib7or5TEyqXaJHAkW_40.776933_-96.647696@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297799,
+    "wof:geomhash":"91286ec19daa7d90271259817b5343f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85811821,
+            "region_id":85688563,
+            "venue_id":873802169
+        }
+    ],
+    "wof:id":873802169,
+    "wof:lastmodified":1464297799,
+    "wof:name":"Union Manor",
+    "wof:parent_id":85811821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential"
+    ]
+},
+  "bbox": [
+    -96.647696,
+    40.776933,
+    -96.647696,
+    40.776933
+],
+  "geometry": {"coordinates":[-96.647696,40.776933],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873725205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.73173,40.871057,-96.73173,40.871057",
+    "geom:latitude":40.871057,
+    "geom:longitude":-96.73173,
+    "iso:country":"US",
+    "sg:address":"6125 NW 7th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 476 1351",
+    "sg:postcode":"68521",
+    "sg:province":"NE",
+    "sg:tags":[
+        "foundation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1R943FYLoHsl9BxUiJG0Lv_40.871057_-96.731730@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296715,
+    "wof:geomhash":"4ebc513d920a83e1da8b35fd2da13536",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878717,
+            "region_id":85688563,
+            "venue_id":873725205
+        }
+    ],
+    "wof:id":873725205,
+    "wof:lastmodified":1464296715,
+    "wof:name":"J & M Foundations Inc",
+    "wof:parent_id":85878717,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "foundation"
+    ]
+},
+  "bbox": [
+    -96.73173,
+    40.871057,
+    -96.73173,
+    40.871057
+],
+  "geometry": {"coordinates":[-96.73173,40.871057],"type":"Point"}
+}

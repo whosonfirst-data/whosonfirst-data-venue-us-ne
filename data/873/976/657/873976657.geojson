@@ -1,0 +1,74 @@
+{
+  "id": 873976657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.702745,40.698602,-96.702745,40.698602",
+    "geom:latitude":40.698602,
+    "geom:longitude":-96.702745,
+    "iso:country":"US",
+    "sg:address":"1200 Saltillo Rd",
+    "sg:city":"Roca",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ne/yankee-hill/129452-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 420 6161",
+    "sg:postcode":"68430",
+    "sg:province":"NE",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4tHJrWRvpGnPBOZwGFXjCL_40.698602_-96.702745@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464302245,
+    "wof:geomhash":"b2431e14f68695f4948165841e2ce246",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878733,
+            "region_id":85688563,
+            "venue_id":873976657
+        }
+    ],
+    "wof:id":873976657,
+    "wof:lastmodified":1464302245,
+    "wof:name":"Subway",
+    "wof:parent_id":85878733,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -96.702745,
+    40.698602,
+    -96.702745,
+    40.698602
+],
+  "geometry": {"coordinates":[-96.70274499999999,40.698602],"type":"Point"}
+}

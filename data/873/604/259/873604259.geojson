@@ -1,0 +1,76 @@
+{
+  "id": 873604259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.90206,41.300758,-95.90206,41.300758",
+    "geom:latitude":41.300758,
+    "geom:longitude":-95.90206,
+    "iso:country":"US",
+    "sg:address":"4801 Abbott Dr",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 346 2466",
+    "sg:postcode":"68110",
+    "sg:province":"NE",
+    "sg:tags":[
+        "garage"
+    ],
+    "sg:website":"www.ampcoairpark.com/contact.htm",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102524739,
+        85688563,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1mPVEiCukpJu2Kx8WOv5jA_41.300758_-95.902060@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295032,
+    "wof:geomhash":"b49a45132a2b4d209cb3856edc46bdd6",
+    "wof:hierarchy":[
+        {
+            "campus_id":102524739,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "region_id":85688563,
+            "venue_id":873604259
+        }
+    ],
+    "wof:id":873604259,
+    "wof:lastmodified":1464295032,
+    "wof:name":"AMPCO System Parking",
+    "wof:parent_id":102524739,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garage"
+    ]
+},
+  "bbox": [
+    -95.90206,
+    41.300758,
+    -95.90206,
+    41.300758
+],
+  "geometry": {"coordinates":[-95.90206000000001,41.300758],"type":"Point"}
+}

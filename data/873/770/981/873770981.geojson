@@ -1,0 +1,67 @@
+{
+  "id": 873770981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.923952,41.155841,-95.923952,41.155841",
+    "geom:latitude":41.155841,
+    "geom:longitude":-95.923952,
+    "iso:country":"US",
+    "sg:address":"2204 Longo Dr",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 292 8000",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:website":"www.sacfcu.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85821583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Xn7SC0amL7WXam47zfY9d_41.155841_-95.923952@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297377,
+    "wof:geomhash":"6cef7332f41d2fb9306bd99e9fbc3385",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85821583,
+            "region_id":85688563,
+            "venue_id":873770981
+        }
+    ],
+    "wof:id":873770981,
+    "wof:lastmodified":1464297377,
+    "wof:name":"SAC Federal Credit Union",
+    "wof:parent_id":85821583,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -95.923952,
+    41.155841,
+    -95.923952,
+    41.155841
+],
+  "geometry": {"coordinates":[-95.923952,41.155841],"type":"Point"}
+}

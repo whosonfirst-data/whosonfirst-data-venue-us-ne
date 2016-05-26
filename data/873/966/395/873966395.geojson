@@ -1,0 +1,70 @@
+{
+  "id": 873966395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.082993,41.205247,-96.082993,41.205247",
+    "geom:latitude":41.205247,
+    "geom:longitude":-96.082993,
+    "iso:country":"US",
+    "sg:address":"10841 Q St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 339 8131",
+    "sg:postcode":"68137",
+    "sg:province":"NE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872531,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6UQVb6xxWW5I3uIGsNNuFa_41.205247_-96.082993@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464301851,
+    "wof:geomhash":"91cc3903920fa4fc1655dafd764fd321",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872531,
+            "region_id":85688563,
+            "venue_id":873966395
+        }
+    ],
+    "wof:id":873966395,
+    "wof:lastmodified":1464301851,
+    "wof:name":"Gyros Shack",
+    "wof:parent_id":85872531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.082993,
+    41.205247,
+    -96.082993,
+    41.205247
+],
+  "geometry": {"coordinates":[-96.082993,41.205247],"type":"Point"}
+}

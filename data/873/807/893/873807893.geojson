@@ -1,0 +1,75 @@
+{
+  "id": 873807893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.615335,40.744363,-96.615335,40.744363",
+    "geom:latitude":40.744363,
+    "geom:longitude":-96.615335,
+    "iso:country":"US",
+    "sg:address":"6510 W Shore Dr",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 489 7445",
+    "sg:postcode":"68516",
+    "sg:province":"NE",
+    "sg:tags":[
+        "caterer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878707,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4NKZWIgIO5qUkpY8el1p7P_40.744363_-96.615335@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297888,
+    "wof:geomhash":"1a0e7a60626113c0e11e656a3f899cba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878707,
+            "region_id":85688563,
+            "venue_id":873807893
+        }
+    ],
+    "wof:id":873807893,
+    "wof:lastmodified":1464297888,
+    "wof:name":"Chez Hay Catering Inc",
+    "wof:parent_id":85878707,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caterer"
+    ]
+},
+  "bbox": [
+    -96.615335,
+    40.744363,
+    -96.615335,
+    40.744363
+],
+  "geometry": {"coordinates":[-96.615335,40.744363],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 873937523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.133815,41.205245,-96.133815,41.205245",
+    "geom:latitude":41.205245,
+    "geom:longitude":-96.133815,
+    "iso:country":"US",
+    "sg:address":"14353 Q St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 558 3333",
+    "sg:postcode":"68137",
+    "sg:province":"NE",
+    "sg:tags":[
+        "management"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872531,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2sS4lCrYdUEbqFJgdHop2w_41.205245_-96.133815@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300592,
+    "wof:geomhash":"a095167316dc3cd84bc28ee60788f0fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872531,
+            "region_id":85688563,
+            "venue_id":873937523
+        }
+    ],
+    "wof:id":873937523,
+    "wof:lastmodified":1464300592,
+    "wof:name":"Cutchall Management",
+    "wof:parent_id":85872531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "management"
+    ]
+},
+  "bbox": [
+    -96.133815,
+    41.205245,
+    -96.133815,
+    41.205245
+],
+  "geometry": {"coordinates":[-96.133815,41.205245],"type":"Point"}
+}

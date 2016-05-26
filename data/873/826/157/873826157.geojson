@@ -1,0 +1,82 @@
+{
+  "id": 873826157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.753725,40.798167,-96.753725,40.798167",
+    "geom:latitude":40.798167,
+    "geom:longitude":-96.753725,
+    "iso:country":"US",
+    "sg:address":"1417 SW 24th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 525 8407",
+    "sg:postcode":"68522",
+    "sg:province":"NE",
+    "sg:tags":[
+        "sprinkler",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878743,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5rZin6pLHI9RvHu2SGaX80_40.798167_-96.753725@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298257,
+    "wof:geomhash":"40d247a18f3644a313e40f43781b3780",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878743,
+            "region_id":85688563,
+            "venue_id":873826157
+        }
+    ],
+    "wof:id":873826157,
+    "wof:lastmodified":1464298257,
+    "wof:name":"Greenlawn Sprinkler Systems",
+    "wof:parent_id":85878743,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sprinkler",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.753725,
+    40.798167,
+    -96.753725,
+    40.798167
+],
+  "geometry": {"coordinates":[-96.753725,40.798167],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873916567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.673398,40.874244,-96.673398,40.874244",
+    "geom:latitude":40.874244,
+    "geom:longitude":-96.673398,
+    "iso:country":"US",
+    "sg:address":"6003 Meridian Dr",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Theater",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 435 7168",
+    "sg:postcode":"68504",
+    "sg:province":"NE",
+    "sg:tags":[
+        "live",
+        "music"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Gk7LJ9Qs8QXvqFZLvDLGu_40.874244_-96.673398@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300151,
+    "wof:geomhash":"9b0a9fb07ebd60ef4589488590285976",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878687,
+            "region_id":85688563,
+            "venue_id":873916567
+        }
+    ],
+    "wof:id":873916567,
+    "wof:lastmodified":1464300151,
+    "wof:name":"Bandstand Music",
+    "wof:parent_id":85878687,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "live",
+        "music"
+    ]
+},
+  "bbox": [
+    -96.673398,
+    40.874244,
+    -96.673398,
+    40.874244
+],
+  "geometry": {"coordinates":[-96.67339800000001,40.874244],"type":"Point"}
+}

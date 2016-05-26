@@ -1,0 +1,75 @@
+{
+  "id": 873837769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.741234,40.790571,-96.741234,40.790571",
+    "geom:latitude":40.790571,
+    "geom:longitude":-96.741234,
+    "iso:country":"US",
+    "sg:address":"1230 W Sewell St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 476 7849",
+    "sg:postcode":"68522",
+    "sg:province":"NE",
+    "sg:tags":[
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878743,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5xkJp2ZNxjDahwwN68k7MR_40.790571_-96.741234@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298501,
+    "wof:geomhash":"5101e52a751f0a5dc3b693b33068bd11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878743,
+            "region_id":85688563,
+            "venue_id":873837769
+        }
+    ],
+    "wof:id":873837769,
+    "wof:lastmodified":1464298501,
+    "wof:name":"L & W Garbage Service Inc",
+    "wof:parent_id":85878743,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "system"
+    ]
+},
+  "bbox": [
+    -96.741234,
+    40.790571,
+    -96.741234,
+    40.790571
+],
+  "geometry": {"coordinates":[-96.74123400000001,40.790571],"type":"Point"}
+}

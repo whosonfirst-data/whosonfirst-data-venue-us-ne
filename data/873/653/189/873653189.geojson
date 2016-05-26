@@ -1,0 +1,77 @@
+{
+  "id": 873653189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.967668,41.253652,-95.967668,41.253652",
+    "geom:latitude":41.253652,
+    "geom:longitude":-95.967668,
+    "iso:country":"US",
+    "sg:address":"604 S 37th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 346 8898",
+    "sg:postcode":"68105",
+    "sg:province":"NE",
+    "sg:tags":[
+        "specialty",
+        "outpatient"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872523,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6gyv4kcOi42Ju4rhTjhFp4_41.253652_-95.967668@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295626,
+    "wof:geomhash":"fa1514a33b4e1476af20f31a8e85a5fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872523,
+            "region_id":85688563,
+            "venue_id":873653189
+        }
+    ],
+    "wof:id":873653189,
+    "wof:lastmodified":1464295626,
+    "wof:name":"ARCH Halfway House",
+    "wof:parent_id":85872523,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "specialty",
+        "outpatient"
+    ]
+},
+  "bbox": [
+    -95.967668,
+    41.253652,
+    -95.967668,
+    41.253652
+],
+  "geometry": {"coordinates":[-95.967668,41.253652],"type":"Point"}
+}

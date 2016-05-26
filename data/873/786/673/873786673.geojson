@@ -1,0 +1,66 @@
+{
+  "id": 873786673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.705241,40.735117,-96.705241,40.735117",
+    "geom:latitude":40.735117,
+    "geom:longitude":-96.705241,
+    "iso:country":"US",
+    "sg:address":"1245 Libra Dr",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 421 1001",
+    "sg:postcode":"68512",
+    "sg:province":"NE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7TEDzvjqDjvrnQmM3i5jgy_40.735117_-96.705241@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297585,
+    "wof:geomhash":"f46b4a41d92f7d29b50acabc7dc51111",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878709,
+            "region_id":85688563,
+            "venue_id":873786673
+        }
+    ],
+    "wof:id":873786673,
+    "wof:lastmodified":1464297585,
+    "wof:name":"Peak Performance Fitness Gear",
+    "wof:parent_id":85878709,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.705241,
+    40.735117,
+    -96.705241,
+    40.735117
+],
+  "geometry": {"coordinates":[-96.705241,40.735117],"type":"Point"}
+}

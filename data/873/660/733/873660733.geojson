@@ -1,0 +1,69 @@
+{
+  "id": 873660733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.152758,41.15359,-96.152758,41.15359",
+    "geom:latitude":41.15359,
+    "geom:longitude":-96.152758,
+    "iso:country":"US",
+    "sg:address":"10812 Sapp Brothers Dr",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 894 5713",
+    "sg:postcode":"68138",
+    "sg:province":"NE",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85834285,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3pA4HgACnbMp1ZpJsykRLv_41.153590_-96.152758@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295705,
+    "wof:geomhash":"e4525c908ee341c1dc5900740de21e06",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85834285,
+            "region_id":85688563,
+            "venue_id":873660733
+        }
+    ],
+    "wof:id":873660733,
+    "wof:lastmodified":1464295705,
+    "wof:name":"A & D Truck Repair Inc",
+    "wof:parent_id":85834285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -96.152758,
+    41.15359,
+    -96.152758,
+    41.15359
+],
+  "geometry": {"coordinates":[-96.15275800000001,41.15359],"type":"Point"}
+}

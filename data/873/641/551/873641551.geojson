@@ -1,0 +1,75 @@
+{
+  "id": 873641551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.118896,41.297307,-96.118896,41.297307",
+    "geom:latitude":41.297307,
+    "geom:longitude":-96.118896,
+    "iso:country":"US",
+    "sg:address":"4231 N 131st St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 431 9012",
+    "sg:postcode":"68164",
+    "sg:province":"NE",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872503,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_15vcovDF6I8hh8NrKyCQ2U_41.297307_-96.118896@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295493,
+    "wof:geomhash":"ae5bc914cf568b7bf94afab9a6ce64b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872503,
+            "region_id":85688563,
+            "venue_id":873641551
+        }
+    ],
+    "wof:id":873641551,
+    "wof:lastmodified":1464295493,
+    "wof:name":"Lucky Duck Day Care",
+    "wof:parent_id":85872503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -96.118896,
+    41.297307,
+    -96.118896,
+    41.297307
+],
+  "geometry": {"coordinates":[-96.11889600000001,41.297307],"type":"Point"}
+}

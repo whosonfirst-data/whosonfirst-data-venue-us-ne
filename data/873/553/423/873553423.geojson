@@ -1,0 +1,70 @@
+{
+  "id": 873553423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.043064,41.177588,-96.043064,41.177588",
+    "geom:latitude":41.177588,
+    "geom:longitude":-96.043064,
+    "iso:country":"US",
+    "sg:address":"8114 S 84th St",
+    "sg:city":"La Vista",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 593 8900",
+    "sg:postcode":"68128",
+    "sg:province":"NE",
+    "sg:tags":[
+        "shop"
+    ],
+    "sg:website":"www.greatclips.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85843697,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2xugMCN2K6TcoZG0pfLC2h_41.177588_-96.043064@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294416,
+    "wof:geomhash":"945cc4e05ed7ea745cbb99d1362636cf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85843697,
+            "region_id":85688563,
+            "venue_id":873553423
+        }
+    ],
+    "wof:id":873553423,
+    "wof:lastmodified":1464294416,
+    "wof:name":"Great Clips",
+    "wof:parent_id":85843697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -96.043064,
+    41.177588,
+    -96.043064,
+    41.177588
+],
+  "geometry": {"coordinates":[-96.043064,41.177588],"type":"Point"}
+}

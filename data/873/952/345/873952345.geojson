@@ -1,0 +1,75 @@
+{
+  "id": 873952345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.652563,40.841362,-96.652563,40.841362",
+    "geom:latitude":40.841362,
+    "geom:longitude":-96.652563,
+    "iso:country":"US",
+    "sg:address":"4822 Cleveland Ave",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Funeral Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 464 3111",
+    "sg:postcode":"68504",
+    "sg:province":"NE",
+    "sg:tags":[
+        "director"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85853163,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1o7z4kmuMZaaA0rVHSbBF9_40.841362_-96.652563@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464301235,
+    "wof:geomhash":"ef8cf96d714fee4c236d340f294bf528",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85853163,
+            "region_id":85688563,
+            "venue_id":873952345
+        }
+    ],
+    "wof:id":873952345,
+    "wof:lastmodified":1464301235,
+    "wof:name":"Aspen Mortuary",
+    "wof:parent_id":85853163,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "director"
+    ]
+},
+  "bbox": [
+    -96.652563,
+    40.841362,
+    -96.652563,
+    40.841362
+],
+  "geometry": {"coordinates":[-96.652563,40.841362],"type":"Point"}
+}

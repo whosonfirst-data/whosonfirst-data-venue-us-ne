@@ -1,0 +1,81 @@
+{
+  "id": 873968889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.007202,41.299099,-96.007202,41.299099",
+    "geom:latitude":41.299099,
+    "geom:longitude":-96.007202,
+    "iso:country":"US",
+    "sg:address":"4417 N 61st St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 453 1611",
+    "sg:postcode":"68104",
+    "sg:province":"NE",
+    "sg:tags":[
+        "pet",
+        "veterinarian",
+        "boarding/pet",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85805755,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1WOdLNkYCRpGHnDtBDj9uq_41.299281_-96.007001@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464301947,
+    "wof:geomhash":"82ce899c81f6e1acb2d8a658c395827f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85805755,
+            "region_id":85688563,
+            "venue_id":873968889
+        }
+    ],
+    "wof:id":873968889,
+    "wof:lastmodified":1464301947,
+    "wof:name":"Benson Animal Clinic",
+    "wof:parent_id":85805755,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "veterinarian",
+        "boarding/pet",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -96.007202,
+    41.299099,
+    -96.007202,
+    41.299099
+],
+  "geometry": {"coordinates":[-96.00720200000001,41.299099],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 873910291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.901664,41.134419,-95.901664,41.134419",
+    "geom:latitude":41.134419,
+    "geom:longitude":-95.901664,
+    "iso:country":"US",
+    "sg:address":"2301 Van Buren St",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 291 3863",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "book",
+        "rare",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974747,
+        102082777,
+        85820061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3EXiaD0Bqy6XkZBGpytHPS_41.134419_-95.901664@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300019,
+    "wof:geomhash":"0346ce5dcd02a0e01666478da405fd5a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974747,
+            "neighbourhood_id":85820061,
+            "region_id":85688563,
+            "venue_id":873910291
+        }
+    ],
+    "wof:id":873910291,
+    "wof:lastmodified":1464300019,
+    "wof:name":"Olde Towne Books",
+    "wof:parent_id":85820061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "book",
+        "rare",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -95.901664,
+    41.134419,
+    -95.901664,
+    41.134419
+],
+  "geometry": {"coordinates":[-95.901664,41.134419],"type":"Point"}
+}

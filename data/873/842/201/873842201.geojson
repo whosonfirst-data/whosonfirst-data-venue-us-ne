@@ -1,0 +1,71 @@
+{
+  "id": 873842201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.032558,41.162414,-96.032558,41.162414",
+    "geom:latitude":41.162414,
+    "geom:longitude":-96.032558,
+    "iso:country":"US",
+    "sg:address":"700 N Aberdeen Dr",
+    "sg:city":"Papillion",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 592 8953",
+    "sg:postcode":"68046",
+    "sg:province":"NE",
+    "sg:tags":[
+        "carpentry",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85843697,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5GLPT6Lng1XQUr5b9UNxt4_41.162414_-96.032558@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298609,
+    "wof:geomhash":"cfd9c3d03daaea19b029d861b76a5361",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85843697,
+            "region_id":85688563,
+            "venue_id":873842201
+        }
+    ],
+    "wof:id":873842201,
+    "wof:lastmodified":1464298609,
+    "wof:name":"Skarda Construction Inc",
+    "wof:parent_id":85843697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carpentry",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.032558,
+    41.162414,
+    -96.032558,
+    41.162414
+],
+  "geometry": {"coordinates":[-96.03255799999999,41.162414],"type":"Point"}
+}

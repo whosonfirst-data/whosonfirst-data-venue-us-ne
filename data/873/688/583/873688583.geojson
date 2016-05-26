@@ -1,0 +1,71 @@
+{
+  "id": 873688583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.943358,41.110432,-95.943358,41.110432",
+    "geom:latitude":41.110432,
+    "geom:longitude":-95.943358,
+    "iso:country":"US",
+    "sg:address":"2303 Greenwald St",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 896 2222",
+    "sg:postcode":"68123",
+    "sg:province":"NE",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974747,
+        102082777,
+        85820061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0hYsikbSFUMPjOUew72Y2P_41.110432_-95.943358@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296237,
+    "wof:geomhash":"52b72f4dc34d3dc9e8d18ee2c8abc498",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974747,
+            "neighbourhood_id":85820061,
+            "region_id":85688563,
+            "venue_id":873688583
+        }
+    ],
+    "wof:id":873688583,
+    "wof:lastmodified":1464296237,
+    "wof:name":"Premier Sales & Svc",
+    "wof:parent_id":85820061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -95.943358,
+    41.110432,
+    -95.943358,
+    41.110432
+],
+  "geometry": {"coordinates":[-95.943358,41.110432],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 873743885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.064223,41.321533,-96.064223,41.321533",
+    "geom:latitude":41.321533,
+    "geom:longitude":-96.064223,
+    "iso:country":"US",
+    "sg:address":"6946 N 97th Cir",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 343 0600",
+    "sg:postcode":"68122",
+    "sg:province":"NE",
+    "sg:tags":[
+        "repairing",
+        "residential",
+        "commercial",
+        "remodeling",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85872505,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6TMcsyUntP7vlc9hvWt2Sh_41.321533_-96.064223@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296990,
+    "wof:geomhash":"7a208658c5a186ccbd4817a1d5ad24d6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":873743885
+        }
+    ],
+    "wof:id":873743885,
+    "wof:lastmodified":1464296990,
+    "wof:name":"Emanuel Contracting Inc",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "residential",
+        "commercial",
+        "remodeling",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.064223,
+    41.321533,
+    -96.064223,
+    41.321533
+],
+  "geometry": {"coordinates":[-96.064223,41.321533],"type":"Point"}
+}

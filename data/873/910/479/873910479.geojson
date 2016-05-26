@@ -1,0 +1,73 @@
+{
+  "id": 873910479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.728431,40.870679,-96.728431,40.870679",
+    "geom:latitude":40.870679,
+    "geom:longitude":-96.728431,
+    "iso:country":"US",
+    "sg:address":"6110 W Beal Cir",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Apparel",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 477 4982",
+    "sg:postcode":"68521",
+    "sg:province":"NE",
+    "sg:tags":[
+        "product",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Yo5L3MkKPNJ7acbthjsTv_40.870679_-96.728431@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300022,
+    "wof:geomhash":"29ac6fe370b73b4b7f6b8c698ebe2bcd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878717,
+            "region_id":85688563,
+            "venue_id":873910479
+        }
+    ],
+    "wof:id":873910479,
+    "wof:lastmodified":1464300022,
+    "wof:name":"Cradle Creations",
+    "wof:parent_id":85878717,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -96.728431,
+    40.870679,
+    -96.728431,
+    40.870679
+],
+  "geometry": {"coordinates":[-96.728431,40.870679],"type":"Point"}
+}

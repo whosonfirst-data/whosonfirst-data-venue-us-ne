@@ -1,0 +1,65 @@
+{
+  "id": 873939383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.082107,41.30487,-96.082107,41.30487",
+    "geom:latitude":41.30487,
+    "geom:longitude":-96.082107,
+    "iso:country":"US",
+    "sg:address":"5265 N 109th Avenue Cir",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 571 8378",
+    "sg:postcode":"68164",
+    "sg:province":"NE",
+    "sg:website":"www.convenientfoodmart.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85872505,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6hkeDXWEzFVstb2qJsDWsS_41.304870_-96.082107@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300657,
+    "wof:geomhash":"1dddf60ad3a5a519c3efe79be95fdd92",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":873939383
+        }
+    ],
+    "wof:id":873939383,
+    "wof:lastmodified":1464300657,
+    "wof:name":"Convenient Food Mart",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.082107,
+    41.30487,
+    -96.082107,
+    41.30487
+],
+  "geometry": {"coordinates":[-96.08210699999999,41.30487],"type":"Point"}
+}

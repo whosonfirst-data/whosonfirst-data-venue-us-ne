@@ -1,0 +1,71 @@
+{
+  "id": 873910697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.89157,41.156445,-95.89157,41.156445",
+    "geom:latitude":41.156445,
+    "geom:longitude":-95.89157,
+    "iso:country":"US",
+    "sg:address":"505 Ridge Rd",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Architect",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 291 2910",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "architectural"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85804025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7jqJYN6dZ8u5YBMXwtoop4_41.156445_-95.891570@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300025,
+    "wof:geomhash":"a51688ed6bc752aef0190126767f9709",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85804025,
+            "region_id":85688563,
+            "venue_id":873910697
+        }
+    ],
+    "wof:id":873910697,
+    "wof:lastmodified":1464300025,
+    "wof:name":"Willis Regier AIA",
+    "wof:parent_id":85804025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "architectural"
+    ]
+},
+  "bbox": [
+    -95.89157,
+    41.156445,
+    -95.89157,
+    41.156445
+],
+  "geometry": {"coordinates":[-95.89157,41.156445],"type":"Point"}
+}

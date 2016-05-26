@@ -1,0 +1,73 @@
+{
+  "id": 873536863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.605137,40.803106,-96.605137,40.803106",
+    "geom:latitude":40.803106,
+    "geom:longitude":-96.605137,
+    "iso:country":"US",
+    "sg:address":"8501 Navajo Trl",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 475 8398",
+    "sg:postcode":"68520",
+    "sg:province":"NE",
+    "sg:tags":[
+        "translator",
+        "interpreter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1WpGQr9aA9bt5DGVtUURK4_40.803106_-96.605137@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294223,
+    "wof:geomhash":"58083a9f45853f9ad62d5a84264e667b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878697,
+            "region_id":85688563,
+            "venue_id":873536863
+        }
+    ],
+    "wof:id":873536863,
+    "wof:lastmodified":1464294223,
+    "wof:name":"Lincoln Translation Svc Inc",
+    "wof:parent_id":85878697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "translator",
+        "interpreter"
+    ]
+},
+  "bbox": [
+    -96.605137,
+    40.803106,
+    -96.605137,
+    40.803106
+],
+  "geometry": {"coordinates":[-96.605137,40.803106],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 873706223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.038279,41.161179,-96.038279,41.161179",
+    "geom:latitude":41.161179,
+    "geom:longitude":-96.038279,
+    "iso:country":"US",
+    "sg:address":"403 Circle St",
+    "sg:city":"Papillion",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 339 2013",
+    "sg:postcode":"68046",
+    "sg:province":"NE",
+    "sg:tags":[
+        "system",
+        "contractor",
+        "equipment",
+        "electrical",
+        "telephone",
+        "merchandise"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85843697,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5NANTw9TAAwhAO3c5bgT4q_41.161179_-96.038279@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296472,
+    "wof:geomhash":"4d99b873bb81b2090426cd2a574e7611",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85843697,
+            "region_id":85688563,
+            "venue_id":873706223
+        }
+    ],
+    "wof:id":873706223,
+    "wof:lastmodified":1464296472,
+    "wof:name":"T & T Communications Inc",
+    "wof:parent_id":85843697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "system",
+        "contractor",
+        "equipment",
+        "electrical",
+        "telephone",
+        "merchandise"
+    ]
+},
+  "bbox": [
+    -96.038279,
+    41.161179,
+    -96.038279,
+    41.161179
+],
+  "geometry": {"coordinates":[-96.038279,41.161179],"type":"Point"}
+}

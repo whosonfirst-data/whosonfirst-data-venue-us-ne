@@ -1,0 +1,71 @@
+{
+  "id": 873682931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.02642,41.337242,-96.02642,41.337242",
+    "geom:latitude":41.337242,
+    "geom:longitude":-96.02642,
+    "iso:country":"US",
+    "sg:address":"7350 World Communications Dr",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 998 2600",
+    "sg:postcode":"68122",
+    "sg:province":"NE",
+    "sg:tags":[
+        "product",
+        "manufacturer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85872505,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5UkTk7uQOTioCvc5hBs5cL_41.337242_-96.026420@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296079,
+    "wof:geomhash":"e044ffcad7c3ef3c19aa37330d7b5fd2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":873682931
+        }
+    ],
+    "wof:id":873682931,
+    "wof:lastmodified":1464296079,
+    "wof:name":"Con Agra Foods",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -96.02642,
+    41.337242,
+    -96.02642,
+    41.337242
+],
+  "geometry": {"coordinates":[-96.02642,41.337242],"type":"Point"}
+}

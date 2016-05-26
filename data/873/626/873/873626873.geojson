@@ -1,0 +1,71 @@
+{
+  "id": 873626873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.625245,40.853921,-96.625245,40.853921",
+    "geom:latitude":40.853921,
+    "geom:longitude":-96.625245,
+    "iso:country":"US",
+    "sg:address":"6930 Logan Ave",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 466 5127",
+    "sg:postcode":"68507",
+    "sg:province":"NE",
+    "sg:tags":[
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85824241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ncovMhueBF7XLu6YxBxEy_40.853921_-96.625245@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295329,
+    "wof:geomhash":"9b1cf47f30fb07506222c74df3ce610c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85824241,
+            "region_id":85688563,
+            "venue_id":873626873
+        }
+    ],
+    "wof:id":873626873,
+    "wof:lastmodified":1464295329,
+    "wof:name":"Gc Construction Co",
+    "wof:parent_id":85824241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -96.625245,
+    40.853921,
+    -96.625245,
+    40.853921
+],
+  "geometry": {"coordinates":[-96.62524500000001,40.853921],"type":"Point"}
+}

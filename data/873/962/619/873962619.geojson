@@ -1,0 +1,73 @@
+{
+  "id": 873962619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.559076,40.704025,-96.559076,40.704025",
+    "geom:latitude":40.704025,
+    "geom:longitude":-96.559076,
+    "iso:country":"US",
+    "sg:address":"10880 S 120th St",
+    "sg:city":"Bennet",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 432 8661",
+    "sg:postcode":"68317",
+    "sg:province":"NE",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7mSPwkbnnktWX09Z31c9i4_40.704025_-96.559076@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464301678,
+    "wof:geomhash":"cd960f6df17fead38b80095c3b98f6e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878685,
+            "region_id":85688563,
+            "venue_id":873962619
+        }
+    ],
+    "wof:id":873962619,
+    "wof:lastmodified":1464301678,
+    "wof:name":"Woodcraft Homes Corp",
+    "wof:parent_id":85878685,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.559076,
+    40.704025,
+    -96.559076,
+    40.704025
+],
+  "geometry": {"coordinates":[-96.559076,40.704025],"type":"Point"}
+}

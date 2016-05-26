@@ -1,0 +1,72 @@
+{
+  "id": 873976063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.022897,41.318809,-96.022897,41.318809",
+    "geom:latitude":41.318809,
+    "geom:longitude":-96.022897,
+    "iso:country":"US",
+    "sg:address":"6607 N 72nd St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ne/omaha/109398-village-inn/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 573 9377",
+    "sg:postcode":"68122",
+    "sg:province":"NE",
+    "sg:tags":[
+        "new",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85872505,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0teXtQJE0e8lBO5nKl7XpQ_41.318809_-96.022897@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464302226,
+    "wof:geomhash":"140b3a2ce59eacb30be6183de960d3b9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":873976063
+        }
+    ],
+    "wof:id":873976063,
+    "wof:lastmodified":1464302226,
+    "wof:name":"Village Inn",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "new",
+        "american"
+    ]
+},
+  "bbox": [
+    -96.022897,
+    41.318809,
+    -96.022897,
+    41.318809
+],
+  "geometry": {"coordinates":[-96.022897,41.318809],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 873747547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.083597,41.304351,-96.083597,41.304351",
+    "geom:latitude":41.304351,
+    "geom:longitude":-96.083597,
+    "iso:country":"US",
+    "sg:address":"5020 N 110th Plz",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 330 0648",
+    "sg:postcode":"68164",
+    "sg:province":"NE",
+    "sg:tags":[
+        "janitor"
+    ],
+    "sg:website":"www.scrubscleaning.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85872505,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ZtoAJSysJc2faSKvYujCn_41.304351_-96.083597@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297045,
+    "wof:geomhash":"fb51eeeeb1102e0b65b9687c3d8ea6a0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":873747547
+        }
+    ],
+    "wof:id":873747547,
+    "wof:lastmodified":1464297045,
+    "wof:name":"Scrubs",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -96.083597,
+    41.304351,
+    -96.083597,
+    41.304351
+],
+  "geometry": {"coordinates":[-96.083597,41.304351],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873771163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.640262,40.850873,-96.640262,40.850873",
+    "geom:latitude":40.850873,
+    "geom:longitude":-96.640262,
+    "iso:country":"US",
+    "sg:address":"3851 Touzalin Ave",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 560 7803",
+    "sg:postcode":"68507",
+    "sg:province":"NE",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85824241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2d5LhS6kNT1QVMJS5naBmG_40.850873_-96.640262@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297379,
+    "wof:geomhash":"bed3e6928281139874a3a86ec59fd0ad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85824241,
+            "region_id":85688563,
+            "venue_id":873771163
+        }
+    ],
+    "wof:id":873771163,
+    "wof:lastmodified":1464297379,
+    "wof:name":"Top End Engineering Inc",
+    "wof:parent_id":85824241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [
+    -96.640262,
+    40.850873,
+    -96.640262,
+    40.850873
+],
+  "geometry": {"coordinates":[-96.64026200000001,40.850873],"type":"Point"}
+}

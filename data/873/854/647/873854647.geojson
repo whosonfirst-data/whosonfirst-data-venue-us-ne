@@ -1,0 +1,79 @@
+{
+  "id": 873854647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.689966,40.813675,-96.689966,40.813675",
+    "geom:latitude":40.813675,
+    "geom:longitude":-96.689966,
+    "iso:country":"US",
+    "sg:address":"2140 O St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 435 4082",
+    "sg:postcode":"68510",
+    "sg:province":"NE",
+    "sg:tags":[
+        "car",
+        "used",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878723,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1HMzaJIhUlC1zPuysYtJ55_40.813675_-96.689966@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298908,
+    "wof:geomhash":"74dc3c061bc07ba95c61a60354794f9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878723,
+            "region_id":85688563,
+            "venue_id":873854647
+        }
+    ],
+    "wof:id":873854647,
+    "wof:lastmodified":1464298908,
+    "wof:name":"C & B Auto Sales",
+    "wof:parent_id":85878723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "used",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -96.689966,
+    40.813675,
+    -96.689966,
+    40.813675
+],
+  "geometry": {"coordinates":[-96.689966,40.813675],"type":"Point"}
+}

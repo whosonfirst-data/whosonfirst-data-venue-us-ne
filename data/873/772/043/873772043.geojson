@@ -1,0 +1,76 @@
+{
+  "id": 873772043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.955569,41.258675,-95.955569,41.258675",
+    "geom:latitude":41.258675,
+    "geom:longitude":-95.955569,
+    "iso:country":"US",
+    "sg:address":"2917 Douglas St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 341 5181",
+    "sg:postcode":"68131",
+    "sg:province":"NE",
+    "sg:tags":[
+        "engineer"
+    ],
+    "sg:website":"www.psiusa.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872525,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_77sBaP36IzVUanq95oKf4r_41.258675_-95.955569@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297389,
+    "wof:geomhash":"44320ef52340828e048e3b1f0f17a739",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872525,
+            "region_id":85688563,
+            "venue_id":873772043
+        }
+    ],
+    "wof:id":873772043,
+    "wof:lastmodified":1464297389,
+    "wof:name":"PSI",
+    "wof:parent_id":85872525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineer"
+    ]
+},
+  "bbox": [
+    -95.955569,
+    41.258675,
+    -95.955569,
+    41.258675
+],
+  "geometry": {"coordinates":[-95.955569,41.258675],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873751515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.234992,41.141773,-96.234992,41.141773",
+    "geom:latitude":41.141773,
+    "geom:longitude":-96.234992,
+    "iso:country":"US",
+    "sg:address":"205 Acorn Cir",
+    "sg:city":"Gretna",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 332 3008",
+    "sg:postcode":"68028",
+    "sg:province":"NE",
+    "sg:tags":[
+        "heat",
+        "pump",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85834285,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0EjJfywx1c0H7vhFc6j6fo_41.141773_-96.234992@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297095,
+    "wof:geomhash":"fd75cd0b0b9a5e2568e74fb9573ea495",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85834285,
+            "region_id":85688563,
+            "venue_id":873751515
+        }
+    ],
+    "wof:id":873751515,
+    "wof:lastmodified":1464297095,
+    "wof:name":"Deluxe Heating & Cooling",
+    "wof:parent_id":85834285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heat",
+        "pump",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.234992,
+    41.141773,
+    -96.234992,
+    41.141773
+],
+  "geometry": {"coordinates":[-96.23499200000001,41.141773],"type":"Point"}
+}

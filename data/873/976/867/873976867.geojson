@@ -1,0 +1,76 @@
+{
+  "id": 873976867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.709264,40.814861,-96.709264,40.814861",
+    "geom:latitude":40.814861,
+    "geom:longitude":-96.709264,
+    "iso:country":"US",
+    "sg:address":"808 P St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ne/lincoln/244339-vincenzos-italian-ristorante/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 435 3889",
+    "sg:postcode":"68508",
+    "sg:province":"NE",
+    "sg:tags":[
+        "italian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878699,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0GB0mzkxK5LJZhJpVbP4Ex_40.814861_-96.709264@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464302256,
+    "wof:geomhash":"73cd93b264b09410ee02aaf42d56d8e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878699,
+            "region_id":85688563,
+            "venue_id":873976867
+        }
+    ],
+    "wof:id":873976867,
+    "wof:lastmodified":1464302256,
+    "wof:name":"Vincenzo's Italian Ristorante'",
+    "wof:parent_id":85878699,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "italian"
+    ]
+},
+  "bbox": [
+    -96.709264,
+    40.814861,
+    -96.709264,
+    40.814861
+],
+  "geometry": {"coordinates":[-96.709264,40.814861],"type":"Point"}
+}

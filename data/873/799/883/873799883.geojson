@@ -1,0 +1,73 @@
+{
+  "id": 873799883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.044347,41.153813,-96.044347,41.153813",
+    "geom:latitude":41.153813,
+    "geom:longitude":-96.044347,
+    "iso:country":"US",
+    "sg:address":"344 S Adams St",
+    "sg:city":"Papillion",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 659 5658",
+    "sg:postcode":"68046",
+    "sg:province":"NE",
+    "sg:tags":[
+        "glass",
+        "window",
+        "plate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85843697,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7UTzaeLZTJuTLM0NoJQKAZ_41.153813_-96.044347@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297772,
+    "wof:geomhash":"01e9ed89df8d418df8a0834fca3b0143",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85843697,
+            "region_id":85688563,
+            "venue_id":873799883
+        }
+    ],
+    "wof:id":873799883,
+    "wof:lastmodified":1464297772,
+    "wof:name":"Accurate Auto Glass",
+    "wof:parent_id":85843697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass",
+        "window",
+        "plate"
+    ]
+},
+  "bbox": [
+    -96.044347,
+    41.153813,
+    -96.044347,
+    41.153813
+],
+  "geometry": {"coordinates":[-96.044347,41.153813],"type":"Point"}
+}

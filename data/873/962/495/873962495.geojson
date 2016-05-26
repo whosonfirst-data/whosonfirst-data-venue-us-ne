@@ -1,0 +1,69 @@
+{
+  "id": 873962495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.130943,41.18339,-96.130943,41.18339",
+    "geom:latitude":41.18339,
+    "geom:longitude":-96.130943,
+    "iso:country":"US",
+    "sg:address":"13737 Chandler Rd",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Hardware",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 334 8185",
+    "sg:postcode":"68138",
+    "sg:province":"NE",
+    "sg:tags":[
+        "tool"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85834285,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6k4pzoKknVtC8mi0KJt6pu_41.183390_-96.130943@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464301671,
+    "wof:geomhash":"23e1a9bef0e1a74b14ce6a13f715625e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85834285,
+            "region_id":85688563,
+            "venue_id":873962495
+        }
+    ],
+    "wof:id":873962495,
+    "wof:lastmodified":1464301671,
+    "wof:name":"Omaha Tools",
+    "wof:parent_id":85834285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tool"
+    ]
+},
+  "bbox": [
+    -96.130943,
+    41.18339,
+    -96.130943,
+    41.18339
+],
+  "geometry": {"coordinates":[-96.130943,41.18339],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873959671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.903846,41.152163,-95.903846,41.152163",
+    "geom:latitude":41.152163,
+    "geom:longitude":-95.903846,
+    "iso:country":"US",
+    "sg:address":"807 Vernon Ave",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 292 0426",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "layer",
+        "carpet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85804025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_00M6AXz1ioIlot1DfHDb6d_41.152163_-95.903846@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464301516,
+    "wof:geomhash":"6404e426154ad25e21e009fcf7d46592",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85804025,
+            "region_id":85688563,
+            "venue_id":873959671
+        }
+    ],
+    "wof:id":873959671,
+    "wof:lastmodified":1464301516,
+    "wof:name":"Bob's Carpet Svc",
+    "wof:parent_id":85804025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "layer",
+        "carpet"
+    ]
+},
+  "bbox": [
+    -95.903846,
+    41.152163,
+    -95.903846,
+    41.152163
+],
+  "geometry": {"coordinates":[-95.903846,41.152163],"type":"Point"}
+}

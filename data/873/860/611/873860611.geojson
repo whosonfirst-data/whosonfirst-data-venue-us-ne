@@ -1,0 +1,83 @@
+{
+  "id": 873860611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.696965,40.810351,-96.696965,40.810351",
+    "geom:latitude":40.810351,
+    "geom:longitude":-96.696965,
+    "iso:country":"US",
+    "sg:address":"1618 L St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 435 5441",
+    "sg:postcode":"68508",
+    "sg:province":"NE",
+    "sg:tags":[
+        "environmental",
+        "engineer"
+    ],
+    "sg:website":"www.flatwatergroup.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878699,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_65EbEZ5zVk54YE2II7YYzI_40.810351_-96.696965@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299051,
+    "wof:geomhash":"0300e7aae4336c1d707a1ea3d8ff7e3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878699,
+            "region_id":85688563,
+            "venue_id":873860611
+        }
+    ],
+    "wof:id":873860611,
+    "wof:lastmodified":1464299051,
+    "wof:name":"Flatwater Group Inc",
+    "wof:parent_id":85878699,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "environmental",
+        "engineer"
+    ]
+},
+  "bbox": [
+    -96.696965,
+    40.810351,
+    -96.696965,
+    40.810351
+],
+  "geometry": {"coordinates":[-96.69696500000001,40.810351],"type":"Point"}
+}

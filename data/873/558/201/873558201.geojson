@@ -1,0 +1,82 @@
+{
+  "id": 873558201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.103352,41.277595,-96.103352,41.277595",
+    "geom:latitude":41.277595,
+    "geom:longitude":-96.103352,
+    "iso:country":"US",
+    "sg:address":"12013 Blondo St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 493 5621",
+    "sg:postcode":"68164",
+    "sg:province":"NE",
+    "sg:tags":[
+        "repairing",
+        "house",
+        "remodeling",
+        "contractor"
+    ],
+    "sg:website":"www.krtconstruction.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872503,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Mg5qOz3djHMTX2Fo8UAft_41.277595_-96.103352@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294473,
+    "wof:geomhash":"eeb442754988a9ec6ee7f96aeed61fcc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872503,
+            "region_id":85688563,
+            "venue_id":873558201
+        }
+    ],
+    "wof:id":873558201,
+    "wof:lastmodified":1464294473,
+    "wof:name":"K R T Construction",
+    "wof:parent_id":85872503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "house",
+        "remodeling",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.103352,
+    41.277595,
+    -96.103352,
+    41.277595
+],
+  "geometry": {"coordinates":[-96.103352,41.277595],"type":"Point"}
+}

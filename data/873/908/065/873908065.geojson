@@ -1,0 +1,84 @@
+{
+  "id": 873908065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.679656,40.85702,-96.679656,40.85702",
+    "geom:latitude":40.85702,
+    "geom:longitude":-96.679656,
+    "iso:country":"US",
+    "sg:address":"4101 Industrial Ave",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 464 8555",
+    "sg:postcode":"68504",
+    "sg:province":"NE",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878721,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_31mpB7rqT5kbLLtzDWoH1y_40.857020_-96.679656@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299977,
+    "wof:geomhash":"596cc8de2cce31fd69976facf849d72d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878721,
+            "region_id":85688563,
+            "venue_id":873908065
+        }
+    ],
+    "wof:id":873908065,
+    "wof:lastmodified":1464299977,
+    "wof:name":"Redshaw Paint Supply Inc",
+    "wof:parent_id":85878721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "shop"
+    ]
+},
+  "bbox": [
+    -96.679656,
+    40.85702,
+    -96.679656,
+    40.85702
+],
+  "geometry": {"coordinates":[-96.67965599999999,40.85702],"type":"Point"}
+}

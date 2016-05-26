@@ -1,0 +1,70 @@
+{
+  "id": 873938005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.040469,41.153558,-96.040469,41.153558",
+    "geom:latitude":41.153558,
+    "geom:longitude":-96.040469,
+    "iso:country":"US",
+    "sg:address":"202 E Grant St",
+    "sg:city":"Papillion",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 593 7886",
+    "sg:postcode":"68046",
+    "sg:province":"NE",
+    "sg:tags":[
+        "limousine"
+    ],
+    "sg:website":"www.oldmarketlimo.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85843697,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2aembyoo0POkhzcdjXXMJX_41.153558_-96.040469@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300608,
+    "wof:geomhash":"a83d94c31d097145461e1b9f38245642",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85843697,
+            "region_id":85688563,
+            "venue_id":873938005
+        }
+    ],
+    "wof:id":873938005,
+    "wof:lastmodified":1464300608,
+    "wof:name":"Old Market Limousine",
+    "wof:parent_id":85843697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "limousine"
+    ]
+},
+  "bbox": [
+    -96.040469,
+    41.153558,
+    -96.040469,
+    41.153558
+],
+  "geometry": {"coordinates":[-96.040469,41.153558],"type":"Point"}
+}

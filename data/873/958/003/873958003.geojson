@@ -1,0 +1,77 @@
+{
+  "id": 873958003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.649936,40.813332,-96.649936,40.813332",
+    "geom:latitude":40.813332,
+    "geom:longitude":-96.649936,
+    "iso:country":"US",
+    "sg:address":"5111 O St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 489 6354",
+    "sg:postcode":"68510",
+    "sg:province":"NE",
+    "sg:tags":[
+        "automobile",
+        "lubrication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878703,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1006lqt3Z8oxiq5gz8ClHb_40.813332_-96.649936@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464301446,
+    "wof:geomhash":"23258e33d1be7a1aee624e9d3ca74056",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878703,
+            "region_id":85688563,
+            "venue_id":873958003
+        }
+    ],
+    "wof:id":873958003,
+    "wof:lastmodified":1464301446,
+    "wof:name":"Texaco Xpress Lube",
+    "wof:parent_id":85878703,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "lubrication"
+    ]
+},
+  "bbox": [
+    -96.649936,
+    40.813332,
+    -96.649936,
+    40.813332
+],
+  "geometry": {"coordinates":[-96.649936,40.813332],"type":"Point"}
+}

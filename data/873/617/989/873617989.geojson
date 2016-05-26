@@ -1,0 +1,71 @@
+{
+  "id": 873617989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.13259,41.176297,-96.13259,41.176297",
+    "geom:latitude":41.176297,
+    "geom:longitude":-96.13259,
+    "iso:country":"US",
+    "sg:address":"14012 Giles Rd",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 895 5195",
+    "sg:postcode":"68138",
+    "sg:province":"NE",
+    "sg:tags":[
+        "road",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85834285,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0BlxjJNvX9QZFSLvbPbrqJ_41.176297_-96.132590@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295224,
+    "wof:geomhash":"bef65c6f537c37b9104757c1678faebf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85834285,
+            "region_id":85688563,
+            "venue_id":873617989
+        }
+    ],
+    "wof:id":873617989,
+    "wof:lastmodified":1464295224,
+    "wof:name":"NIK Construction Svc",
+    "wof:parent_id":85834285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "road",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.13259,
+    41.176297,
+    -96.13259,
+    41.176297
+],
+  "geometry": {"coordinates":[-96.13258999999999,41.176297],"type":"Point"}
+}

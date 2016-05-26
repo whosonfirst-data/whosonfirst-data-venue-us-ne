@@ -1,0 +1,75 @@
+{
+  "id": 873951271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.092242,41.260371,-96.092242,41.260371",
+    "geom:latitude":41.260371,
+    "geom:longitude":-96.092242,
+    "iso:country":"US",
+    "sg:address":"11422 Davenport St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Home Furnishings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 390 9684",
+    "sg:postcode":"68154",
+    "sg:province":"NE",
+    "sg:tags":[
+        "housewares"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872503,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5UHWHqlgweYY6vPmgNbaZ2_41.260371_-96.092242@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464301192,
+    "wof:geomhash":"f31fbeeaab4d53bdc60c622165d1987e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872503,
+            "region_id":85688563,
+            "venue_id":873951271
+        }
+    ],
+    "wof:id":873951271,
+    "wof:lastmodified":1464301192,
+    "wof:name":"Category One",
+    "wof:parent_id":85872503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "housewares"
+    ]
+},
+  "bbox": [
+    -96.092242,
+    41.260371,
+    -96.092242,
+    41.260371
+],
+  "geometry": {"coordinates":[-96.092242,41.260371],"type":"Point"}
+}

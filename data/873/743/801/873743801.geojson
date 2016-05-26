@@ -1,0 +1,73 @@
+{
+  "id": 873743801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.927749,41.169364,-95.927749,41.169364",
+    "geom:latitude":41.169364,
+    "geom:longitude":-95.927749,
+    "iso:country":"US",
+    "sg:address":"903 Alberta Ave",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 734 0300",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85804025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5xFdjkmBP6BSpHHZWR3sGF_41.169364_-95.927749@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296988,
+    "wof:geomhash":"a9491ab6e6395ce067fc4b5ad8eb82c4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85804025,
+            "region_id":85688563,
+            "venue_id":873743801
+        }
+    ],
+    "wof:id":873743801,
+    "wof:lastmodified":1464296988,
+    "wof:name":"Saturn Of Bellevue",
+    "wof:parent_id":85804025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -95.927749,
+    41.169364,
+    -95.927749,
+    41.169364
+],
+  "geometry": {"coordinates":[-95.92774900000001,41.169364],"type":"Point"}
+}

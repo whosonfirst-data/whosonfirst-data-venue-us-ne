@@ -1,0 +1,73 @@
+{
+  "id": 873608405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.631749,40.794286,-96.631749,40.794286",
+    "geom:latitude":40.794286,
+    "geom:longitude":-96.631749,
+    "iso:country":"US",
+    "sg:address":"1841 Rusty Ln",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 429 2159",
+    "sg:postcode":"68506",
+    "sg:province":"NE",
+    "sg:tags":[
+        "grading",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4R4OcCa34aPwK6ZyBjhX4B_40.794286_-96.631749@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295112,
+    "wof:geomhash":"29bdcc421192052ff3ab67d00741f0f8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878697,
+            "region_id":85688563,
+            "venue_id":873608405
+        }
+    ],
+    "wof:id":873608405,
+    "wof:lastmodified":1464295112,
+    "wof:name":"Black Diamond Enterprises",
+    "wof:parent_id":85878697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grading",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.631749,
+    40.794286,
+    -96.631749,
+    40.794286
+],
+  "geometry": {"coordinates":[-96.631749,40.794286],"type":"Point"}
+}

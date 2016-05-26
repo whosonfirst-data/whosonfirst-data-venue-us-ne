@@ -1,0 +1,71 @@
+{
+  "id": 873762101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.191232,41.160226,-96.191232,41.160226",
+    "geom:latitude":41.160226,
+    "geom:longitude":-96.191232,
+    "iso:country":"US",
+    "sg:address":"10219 S 176th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 895 4722",
+    "sg:postcode":"68136",
+    "sg:province":"NE",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85834285,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2pddoJwfPWKTqqjZWrxxqj_41.160226_-96.191232@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297239,
+    "wof:geomhash":"65f0e968c71ccdce3aa28f971f3bcf67",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85834285,
+            "region_id":85688563,
+            "venue_id":873762101
+        }
+    ],
+    "wof:id":873762101,
+    "wof:lastmodified":1464297239,
+    "wof:name":"Plambeck Plumbing Inc",
+    "wof:parent_id":85834285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.191232,
+    41.160226,
+    -96.191232,
+    41.160226
+],
+  "geometry": {"coordinates":[-96.191232,41.160226],"type":"Point"}
+}

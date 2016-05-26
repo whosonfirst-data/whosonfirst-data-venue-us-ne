@@ -1,0 +1,77 @@
+{
+  "id": 873868693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.987057,41.247806,-95.987057,41.247806",
+    "geom:latitude":41.247806,
+    "geom:longitude":-95.987057,
+    "iso:country":"US",
+    "sg:address":"4859 Pierce St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 553 7140",
+    "sg:postcode":"68106",
+    "sg:province":"NE",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872523,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3N9Vx6sFPUVxaRAxq4kPHv_41.247806_-95.987057@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299202,
+    "wof:geomhash":"d95e98bb20e1a085322b2238bfe8ea8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872523,
+            "region_id":85688563,
+            "venue_id":873868693
+        }
+    ],
+    "wof:id":873868693,
+    "wof:lastmodified":1464299202,
+    "wof:name":"Hi Performance Car Wash",
+    "wof:parent_id":85872523,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [
+    -95.987057,
+    41.247806,
+    -95.987057,
+    41.247806
+],
+  "geometry": {"coordinates":[-95.98705699999999,41.247806],"type":"Point"}
+}

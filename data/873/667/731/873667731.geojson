@@ -1,0 +1,73 @@
+{
+  "id": 873667731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.621285,40.869649,-96.621285,40.869649",
+    "geom:latitude":40.869649,
+    "geom:longitude":-96.621285,
+    "iso:country":"US",
+    "sg:address":"7201 Amanda Rd",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 466 5222",
+    "sg:postcode":"68507",
+    "sg:province":"NE",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85824241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4nZF6UuV9FrJFzkruJbaZk_40.869649_-96.621285@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295777,
+    "wof:geomhash":"2406b117bc73ea1c7ed84d6c7c9a0a45",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85824241,
+            "region_id":85688563,
+            "venue_id":873667731
+        }
+    ],
+    "wof:id":873667731,
+    "wof:lastmodified":1464295777,
+    "wof:name":"Lucht's Concrete Pumping",
+    "wof:parent_id":85824241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.621285,
+    40.869649,
+    -96.621285,
+    40.869649
+],
+  "geometry": {"coordinates":[-96.621285,40.869649],"type":"Point"}
+}

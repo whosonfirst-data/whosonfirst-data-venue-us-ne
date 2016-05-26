@@ -1,0 +1,71 @@
+{
+  "id": 873738877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.614879,40.786475,-96.614879,40.786475",
+    "geom:latitude":40.786475,
+    "geom:longitude":-96.614879,
+    "iso:country":"US",
+    "sg:address":"2410 S 77th Pl",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 483 6169",
+    "sg:postcode":"68506",
+    "sg:province":"NE",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2EO3atAnJJhef3Smprj5U0_40.786475_-96.614879@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296906,
+    "wof:geomhash":"ea555ceb97504099bcb6aa9abb20e511",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878697,
+            "region_id":85688563,
+            "venue_id":873738877
+        }
+    ],
+    "wof:id":873738877,
+    "wof:lastmodified":1464296906,
+    "wof:name":"Lancaster Dermatologics Inc",
+    "wof:parent_id":85878697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -96.614879,
+    40.786475,
+    -96.614879,
+    40.786475
+],
+  "geometry": {"coordinates":[-96.614879,40.786475],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 873948425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.978543,41.257904,-95.978543,41.257904",
+    "geom:latitude":41.257904,
+    "geom:longitude":-95.978543,
+    "iso:country":"US",
+    "sg:address":"4242 Farnam St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 559 2000",
+    "sg:postcode":"68131",
+    "sg:province":"NE",
+    "sg:tags":[
+        "operated",
+        "physician",
+        "clinic",
+        "by"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872523,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5446R3dGycJFqsXXzCzYEo_41.257904_-95.978543@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464301078,
+    "wof:geomhash":"07045985ebef6855c5ec0b3e1d9f21bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872523,
+            "region_id":85688563,
+            "venue_id":873948425
+        }
+    ],
+    "wof:id":873948425,
+    "wof:lastmodified":1464301078,
+    "wof:name":"Nebraska Medical Center",
+    "wof:parent_id":85872523,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operated",
+        "physician",
+        "clinic",
+        "by"
+    ]
+},
+  "bbox": [
+    -95.978543,
+    41.257904,
+    -95.978543,
+    41.257904
+],
+  "geometry": {"coordinates":[-95.978543,41.257904],"type":"Point"}
+}

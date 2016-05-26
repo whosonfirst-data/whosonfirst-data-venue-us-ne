@@ -1,0 +1,71 @@
+{
+  "id": 873880345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.046451,41.312665,-96.046451,41.312665",
+    "geom:latitude":41.312665,
+    "geom:longitude":-96.046451,
+    "iso:country":"US",
+    "sg:address":"6006 Wenninghoff Rd",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 669 8556",
+    "sg:postcode":"68134",
+    "sg:province":"NE",
+    "sg:tags":[
+        "home",
+        "improvement"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85872505,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0gYG9Lin18AlZIGipcPOzb_41.312665_-96.046451@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299440,
+    "wof:geomhash":"e01a5d42f37912760bb76bd51946c857",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":873880345
+        }
+    ],
+    "wof:id":873880345,
+    "wof:lastmodified":1464299440,
+    "wof:name":"G & J Remodeling",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "improvement"
+    ]
+},
+  "bbox": [
+    -96.046451,
+    41.312665,
+    -96.046451,
+    41.312665
+],
+  "geometry": {"coordinates":[-96.046451,41.312665],"type":"Point"}
+}

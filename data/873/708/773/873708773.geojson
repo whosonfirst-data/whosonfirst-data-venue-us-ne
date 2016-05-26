@@ -1,0 +1,75 @@
+{
+  "id": 873708773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.626839,40.810143,-96.626839,40.810143",
+    "geom:latitude":40.810143,
+    "geom:longitude":-96.626839,
+    "iso:country":"US",
+    "sg:address":"6930 L St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 489 6547",
+    "sg:postcode":"68510",
+    "sg:province":"NE",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878725,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6EE5O9aNuBof6ecs9hr0m8_40.810143_-96.626839@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296505,
+    "wof:geomhash":"7f9280bfe81d2d41c7d2c3c8faf67a10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878725,
+            "region_id":85688563,
+            "venue_id":873708773
+        }
+    ],
+    "wof:id":873708773,
+    "wof:lastmodified":1464296505,
+    "wof:name":"Crown Place Dental Group",
+    "wof:parent_id":85878725,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -96.626839,
+    40.810143,
+    -96.626839,
+    40.810143
+],
+  "geometry": {"coordinates":[-96.626839,40.810143],"type":"Point"}
+}

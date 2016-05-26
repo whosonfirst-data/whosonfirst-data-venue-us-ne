@@ -1,0 +1,71 @@
+{
+  "id": 873777685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.903344,41.14965,-95.903344,41.14965",
+    "geom:latitude":41.14965,
+    "geom:longitude":-95.903344,
+    "iso:country":"US",
+    "sg:address":"710 Sherman Dr",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 734 7332",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "datum"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85804025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Y5v12eIcw3lZfGB3OWUq8_41.149650_-95.903344@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297459,
+    "wof:geomhash":"2169b55ba5c1ae4fa76e46d29f57c894",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85804025,
+            "region_id":85688563,
+            "venue_id":873777685
+        }
+    ],
+    "wof:id":873777685,
+    "wof:lastmodified":1464297459,
+    "wof:name":"Web Cite Media",
+    "wof:parent_id":85804025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "datum"
+    ]
+},
+  "bbox": [
+    -95.903344,
+    41.14965,
+    -95.903344,
+    41.14965
+],
+  "geometry": {"coordinates":[-95.903344,41.14965],"type":"Point"}
+}

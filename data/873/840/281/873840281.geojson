@@ -1,0 +1,75 @@
+{
+  "id": 873840281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.020824,41.285121,-96.020824,41.285121",
+    "geom:latitude":41.285121,
+    "geom:longitude":-96.020824,
+    "iso:country":"US",
+    "sg:address":"7016 Maple St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 292 9702",
+    "sg:postcode":"68104",
+    "sg:province":"NE",
+    "sg:tags":[
+        "appliance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872507,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_039OgZ4NPSLrgvcUmDGhz5_41.285121_-96.020824@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298558,
+    "wof:geomhash":"ce005a2d4937468e5ff447ba01fbefd5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872507,
+            "region_id":85688563,
+            "venue_id":873840281
+        }
+    ],
+    "wof:id":873840281,
+    "wof:lastmodified":1464298558,
+    "wof:name":"All Appliance Svc Inc",
+    "wof:parent_id":85872507,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appliance"
+    ]
+},
+  "bbox": [
+    -96.020824,
+    41.285121,
+    -96.020824,
+    41.285121
+],
+  "geometry": {"coordinates":[-96.020824,41.285121],"type":"Point"}
+}

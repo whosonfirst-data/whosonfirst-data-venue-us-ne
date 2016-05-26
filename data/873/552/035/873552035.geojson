@@ -1,0 +1,71 @@
+{
+  "id": 873552035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.960635,41.099503,-95.960635,41.099503",
+    "geom:latitude":41.099503,
+    "geom:longitude":-95.960635,
+    "iso:country":"US",
+    "sg:address":"3234 Chad St",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 502 1627",
+    "sg:postcode":"68123",
+    "sg:province":"NE",
+    "sg:tags":[
+        "management"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974747,
+        102082777,
+        85820061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0bCkrjF79FDIOhlpZMCpij_41.099503_-95.960635@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294400,
+    "wof:geomhash":"08d7bb41dbf04b16d3ad832d5dd3b11a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974747,
+            "neighbourhood_id":85820061,
+            "region_id":85688563,
+            "venue_id":873552035
+        }
+    ],
+    "wof:id":873552035,
+    "wof:lastmodified":1464294400,
+    "wof:name":"Gillett Hurt Realty",
+    "wof:parent_id":85820061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "management"
+    ]
+},
+  "bbox": [
+    -95.960635,
+    41.099503,
+    -95.960635,
+    41.099503
+],
+  "geometry": {"coordinates":[-95.960635,41.099503],"type":"Point"}
+}

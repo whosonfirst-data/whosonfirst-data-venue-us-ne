@@ -1,0 +1,77 @@
+{
+  "id": 873870661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.691835,40.797169,-96.691835,40.797169",
+    "geom:latitude":40.797169,
+    "geom:longitude":-96.691835,
+    "iso:country":"US",
+    "sg:address":"1536 S 20th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 742 5965",
+    "sg:postcode":"68502",
+    "sg:province":"NE",
+    "sg:tags":[
+        "home",
+        "group"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878727,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_60mIegq4VxMfaMI0AIWIDn_40.797169_-96.691835@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299235,
+    "wof:geomhash":"3d49de5d37d233110277995435c79a3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878727,
+            "region_id":85688563,
+            "venue_id":873870661
+        }
+    ],
+    "wof:id":873870661,
+    "wof:lastmodified":1464299235,
+    "wof:name":"Oxford House Parkview",
+    "wof:parent_id":85878727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "group"
+    ]
+},
+  "bbox": [
+    -96.691835,
+    40.797169,
+    -96.691835,
+    40.797169
+],
+  "geometry": {"coordinates":[-96.691835,40.797169],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 873947485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.704391,40.82754,-96.704391,40.82754",
+    "geom:latitude":40.82754,
+    "geom:longitude":-96.704391,
+    "iso:country":"US",
+    "sg:address":"1041 Claremont St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 477 4257",
+    "sg:postcode":"68508",
+    "sg:province":"NE",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878731,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3F5nqefeBsRev3CIstqIhm_40.827540_-96.704391@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464301032,
+    "wof:geomhash":"e2d18310ce8b4c1beb5c5be01d6efc22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878731,
+            "region_id":85688563,
+            "venue_id":873947485
+        }
+    ],
+    "wof:id":873947485,
+    "wof:lastmodified":1464301032,
+    "wof:name":"Stanleys Complete Cleaning SE",
+    "wof:parent_id":85878731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -96.704391,
+    40.82754,
+    -96.704391,
+    40.82754
+],
+  "geometry": {"coordinates":[-96.704391,40.82754],"type":"Point"}
+}

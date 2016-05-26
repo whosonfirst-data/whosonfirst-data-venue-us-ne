@@ -1,0 +1,69 @@
+{
+  "id": 873590113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.045865,41.190704,-96.045865,41.190704",
+    "geom:latitude":41.190704,
+    "geom:longitude":-96.045865,
+    "iso:country":"US",
+    "sg:address":"7005 S 86th St",
+    "sg:city":"La Vista",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 680 0669",
+    "sg:postcode":"68128",
+    "sg:province":"NE",
+    "sg:tags":[
+        "landscape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85843697,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0huxbeoLd1Ec8AqDNAuPSi_41.190704_-96.045865@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294832,
+    "wof:geomhash":"7f591269afb81bde862574f9d06fe92c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85843697,
+            "region_id":85688563,
+            "venue_id":873590113
+        }
+    ],
+    "wof:id":873590113,
+    "wof:lastmodified":1464294832,
+    "wof:name":"Landscape Omaha",
+    "wof:parent_id":85843697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape"
+    ]
+},
+  "bbox": [
+    -96.045865,
+    41.190704,
+    -96.045865,
+    41.190704
+],
+  "geometry": {"coordinates":[-96.04586500000001,41.190704],"type":"Point"}
+}

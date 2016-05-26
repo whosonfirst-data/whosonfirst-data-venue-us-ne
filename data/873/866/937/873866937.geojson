@@ -1,0 +1,75 @@
+{
+  "id": 873866937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.668849,40.875994,-96.668849,40.875994",
+    "geom:latitude":40.875994,
+    "geom:longitude":-96.668849,
+    "iso:country":"US",
+    "sg:address":"6521 Saline Dr",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 304 7454",
+    "sg:postcode":"68504",
+    "sg:province":"NE",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ZRXtSn4ODFvmmRoW6AqEv_40.875994_-96.668849@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299172,
+    "wof:geomhash":"6ef836d4567b70b37220547a3ebbc4c6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878687,
+            "region_id":85688563,
+            "venue_id":873866937
+        }
+    ],
+    "wof:id":873866937,
+    "wof:lastmodified":1464299172,
+    "wof:name":"Doug's Dent Repair",
+    "wof:parent_id":85878687,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -96.668849,
+    40.875994,
+    -96.668849,
+    40.875994
+],
+  "geometry": {"coordinates":[-96.66884899999999,40.875994],"type":"Point"}
+}

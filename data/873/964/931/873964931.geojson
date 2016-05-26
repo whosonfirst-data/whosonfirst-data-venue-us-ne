@@ -1,0 +1,71 @@
+{
+  "id": 873964931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.891723,41.13548,-95.891723,41.13548",
+    "geom:latitude":41.13548,
+    "geom:longitude":-95.891723,
+    "iso:country":"US",
+    "sg:address":"206 E 23rd Ave",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 292 0193",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974747,
+        102082777,
+        85820061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0068d4OUukSJKxorvfxEZ1_41.135480_-95.891723@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464301791,
+    "wof:geomhash":"4e00d95032f55b371f6768fd1d67d5e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974747,
+            "neighbourhood_id":85820061,
+            "region_id":85688563,
+            "venue_id":873964931
+        }
+    ],
+    "wof:id":873964931,
+    "wof:lastmodified":1464301791,
+    "wof:name":"First Baptist Church-Bellevue",
+    "wof:parent_id":85820061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -95.891723,
+    41.13548,
+    -95.891723,
+    41.13548
+],
+  "geometry": {"coordinates":[-95.891723,41.13548],"type":"Point"}
+}

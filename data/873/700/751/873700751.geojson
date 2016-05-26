@@ -1,0 +1,69 @@
+{
+  "id": 873700751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.045894,41.135773,-96.045894,41.135773",
+    "geom:latitude":41.135773,
+    "geom:longitude":-96.045894,
+    "iso:country":"US",
+    "sg:address":"210 Fenwick Cir",
+    "sg:city":"Papillion",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 331 6297",
+    "sg:postcode":"68046",
+    "sg:province":"NE",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85843697,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ILrnwMpU2RjQRcvdq68mu_41.135773_-96.045894@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296413,
+    "wof:geomhash":"8b1d5315a7e7bd3d098d76f51879812f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85843697,
+            "region_id":85688563,
+            "venue_id":873700751
+        }
+    ],
+    "wof:id":873700751,
+    "wof:lastmodified":1464296413,
+    "wof:name":"Cal Creations LLC",
+    "wof:parent_id":85843697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [
+    -96.045894,
+    41.135773,
+    -96.045894,
+    41.135773
+],
+  "geometry": {"coordinates":[-96.045894,41.135773],"type":"Point"}
+}

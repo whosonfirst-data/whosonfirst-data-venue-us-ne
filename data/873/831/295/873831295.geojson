@@ -1,0 +1,69 @@
+{
+  "id": 873831295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.030379,41.324867,-96.030379,41.324867",
+    "geom:latitude":41.324867,
+    "geom:longitude":-96.030379,
+    "iso:country":"US",
+    "sg:address":"7302 N 76th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 573 9249",
+    "sg:postcode":"68122",
+    "sg:province":"NE",
+    "sg:tags":[
+        "software"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85872505,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5EOEcGS1jHpvVMRWy0yINm_41.324867_-96.030379@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298356,
+    "wof:geomhash":"8f61c482d0cf5b3cfec9dd01c80a4f2f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":873831295
+        }
+    ],
+    "wof:id":873831295,
+    "wof:lastmodified":1464298356,
+    "wof:name":"Surado Solutions Inc",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "software"
+    ]
+},
+  "bbox": [
+    -96.030379,
+    41.324867,
+    -96.030379,
+    41.324867
+],
+  "geometry": {"coordinates":[-96.030379,41.324867],"type":"Point"}
+}

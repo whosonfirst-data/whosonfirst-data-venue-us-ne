@@ -1,0 +1,76 @@
+{
+  "id": 873534691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.702748,40.779276,-96.702748,40.779276",
+    "geom:latitude":40.779276,
+    "geom:longitude":-96.702748,
+    "iso:country":"US",
+    "sg:address":"3230 S 13th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 202 6299",
+    "sg:postcode":"68502",
+    "sg:province":"NE",
+    "sg:tags":[
+        "photographer"
+    ],
+    "sg:website":"www.richmondphoto.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878719,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Xm4tgdDqUIJGjgKCqremo_40.779276_-96.702748@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294200,
+    "wof:geomhash":"06c79153e9928a431af30d0269df1152",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878719,
+            "region_id":85688563,
+            "venue_id":873534691
+        }
+    ],
+    "wof:id":873534691,
+    "wof:lastmodified":1464294200,
+    "wof:name":"Richmond Photography",
+    "wof:parent_id":85878719,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photographer"
+    ]
+},
+  "bbox": [
+    -96.702748,
+    40.779276,
+    -96.702748,
+    40.779276
+],
+  "geometry": {"coordinates":[-96.702748,40.779276],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 873924401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.029368,41.248706,-96.029368,41.248706",
+    "geom:latitude":41.248706,
+    "geom:longitude":-96.029368,
+    "iso:country":"US",
+    "sg:address":"7505 Pacific St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 393 7727",
+    "sg:postcode":"68114",
+    "sg:province":"NE",
+    "sg:tags":[
+        "key",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872509,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7RMzXREE3z2PkCUcxxsLUc_41.248706_-96.029368@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300295,
+    "wof:geomhash":"0d2a4d2f9b4d07e5cab57f89b06b7c8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872509,
+            "region_id":85688563,
+            "venue_id":873924401
+        }
+    ],
+    "wof:id":873924401,
+    "wof:lastmodified":1464300295,
+    "wof:name":"Enterprise Locksmiths Inc",
+    "wof:parent_id":85872509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "key",
+        "locksmith"
+    ]
+},
+  "bbox": [
+    -96.029368,
+    41.248706,
+    -96.029368,
+    41.248706
+],
+  "geometry": {"coordinates":[-96.02936800000001,41.248706],"type":"Point"}
+}

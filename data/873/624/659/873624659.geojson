@@ -1,0 +1,71 @@
+{
+  "id": 873624659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.609628,40.793994,-96.609628,40.793994",
+    "geom:latitude":40.793994,
+    "geom:longitude":-96.609628,
+    "iso:country":"US",
+    "sg:address":"1921 Beatrice St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Art Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 450 4722",
+    "sg:postcode":"68506",
+    "sg:province":"NE",
+    "sg:tags":[
+        "artist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1AaxYgeeZ5uHj5jVXc1bk2_40.793994_-96.609628@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295307,
+    "wof:geomhash":"6f80ee9de436715b418121d78a7ff64a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878697,
+            "region_id":85688563,
+            "venue_id":873624659
+        }
+    ],
+    "wof:id":873624659,
+    "wof:lastmodified":1464295307,
+    "wof:name":"Room For Fun",
+    "wof:parent_id":85878697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "artist"
+    ]
+},
+  "bbox": [
+    -96.609628,
+    40.793994,
+    -96.609628,
+    40.793994
+],
+  "geometry": {"coordinates":[-96.609628,40.793994],"type":"Point"}
+}

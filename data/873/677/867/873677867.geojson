@@ -1,0 +1,71 @@
+{
+  "id": 873677867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.958326,41.098493,-95.958326,41.098493",
+    "geom:latitude":41.098493,
+    "geom:longitude":-95.958326,
+    "iso:country":"US",
+    "sg:address":"14301 S 31st St",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 933 6539",
+    "sg:postcode":"68123",
+    "sg:province":"NE",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974747,
+        102082777,
+        85820061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_20sAklUgK0iXYQ57s8fA9Q_41.098493_-95.958326@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295933,
+    "wof:geomhash":"c7af087d1a29f95d07441112a952a67a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974747,
+            "neighbourhood_id":85820061,
+            "region_id":85688563,
+            "venue_id":873677867
+        }
+    ],
+    "wof:id":873677867,
+    "wof:lastmodified":1464295933,
+    "wof:name":"Ideal Home Renovations",
+    "wof:parent_id":85820061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -95.958326,
+    41.098493,
+    -95.958326,
+    41.098493
+],
+  "geometry": {"coordinates":[-95.958326,41.098493],"type":"Point"}
+}

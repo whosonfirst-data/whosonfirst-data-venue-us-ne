@@ -1,0 +1,66 @@
+{
+  "id": 873955283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.610088,40.781776,-96.610088,40.781776",
+    "geom:latitude":40.781776,
+    "geom:longitude":-96.610088,
+    "iso:country":"US",
+    "sg:address":"8001 Brookfield Dr",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 488 3971",
+    "sg:postcode":"68506",
+    "sg:province":"NE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4VUcAzJDsd7RiI6ICVTv8c_40.781776_-96.610088@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464301349,
+    "wof:geomhash":"04a21983d8bbe4c0c2f938cb0c1d385b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878697,
+            "region_id":85688563,
+            "venue_id":873955283
+        }
+    ],
+    "wof:id":873955283,
+    "wof:lastmodified":1464301349,
+    "wof:name":"Real Pro",
+    "wof:parent_id":85878697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.610088,
+    40.781776,
+    -96.610088,
+    40.781776
+],
+  "geometry": {"coordinates":[-96.610088,40.781776],"type":"Point"}
+}

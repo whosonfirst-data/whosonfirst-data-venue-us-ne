@@ -1,0 +1,71 @@
+{
+  "id": 873947389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.104565,41.248065,-96.104565,41.248065",
+    "geom:latitude":41.248065,
+    "geom:longitude":-96.104565,
+    "iso:country":"US",
+    "sg:address":"11902 Pierce Plz",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 697 5599",
+    "sg:postcode":"68144",
+    "sg:province":"NE",
+    "sg:website":"www.1ststatebank.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872531,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4rTcqJZMV1hRJJslLlgpMd_41.248065_-96.104565@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464301028,
+    "wof:geomhash":"0c1e323d562d2940ac7fd178e3a21baf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872531,
+            "region_id":85688563,
+            "venue_id":873947389
+        }
+    ],
+    "wof:id":873947389,
+    "wof:lastmodified":1464301028,
+    "wof:name":"First State Bank",
+    "wof:parent_id":85872531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.104565,
+    41.248065,
+    -96.104565,
+    41.248065
+],
+  "geometry": {"coordinates":[-96.10456499999999,41.248065],"type":"Point"}
+}

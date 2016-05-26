@@ -1,0 +1,77 @@
+{
+  "id": 873557745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.949423,41.240728,-95.949423,41.240728",
+    "geom:latitude":41.240728,
+    "geom:longitude":-95.949423,
+    "iso:country":"US",
+    "sg:address":"2215 S 26th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 346 2488",
+    "sg:postcode":"68105",
+    "sg:province":"NE",
+    "sg:tags":[
+        "recycling",
+        "aluminum"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872527,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_29fQGdbIcANULkOuLjCAyV_41.240728_-95.949423@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294468,
+    "wof:geomhash":"ad112e8f77caa818ea34bac220d94ce7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872527,
+            "region_id":85688563,
+            "venue_id":873557745
+        }
+    ],
+    "wof:id":873557745,
+    "wof:lastmodified":1464294468,
+    "wof:name":"Can Pac Recycling Inc",
+    "wof:parent_id":85872527,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "recycling",
+        "aluminum"
+    ]
+},
+  "bbox": [
+    -95.949423,
+    41.240728,
+    -95.949423,
+    41.240728
+],
+  "geometry": {"coordinates":[-95.949423,41.240728],"type":"Point"}
+}

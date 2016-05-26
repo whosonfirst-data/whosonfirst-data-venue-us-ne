@@ -1,0 +1,74 @@
+{
+  "id": 873975719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.918636,41.154169,-95.918636,41.154169",
+    "geom:latitude":41.154169,
+    "geom:longitude":-95.918636,
+    "iso:country":"US",
+    "sg:address":"701 Galvin Rd S",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ne/bellevue/77565-papa-murphys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 293 8710",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85804025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0fJfqVMFRhqsRAlhZsZmvC_41.154169_-95.918636@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464302214,
+    "wof:geomhash":"570cf1c5a7b91c36de039648e9e47a0a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85804025,
+            "region_id":85688563,
+            "venue_id":873975719
+        }
+    ],
+    "wof:id":873975719,
+    "wof:lastmodified":1464302214,
+    "wof:name":"Papa Murphy's",
+    "wof:parent_id":85804025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -95.918636,
+    41.154169,
+    -95.918636,
+    41.154169
+],
+  "geometry": {"coordinates":[-95.91863600000001,41.154169],"type":"Point"}
+}

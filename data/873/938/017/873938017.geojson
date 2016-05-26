@@ -1,0 +1,73 @@
+{
+  "id": 873938017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.953402,41.120451,-95.953402,41.120451",
+    "geom:latitude":41.120451,
+    "geom:longitude":-95.953402,
+    "iso:country":"US",
+    "sg:address":"2851 Capehart Rd",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 292 2240",
+    "sg:postcode":"68123",
+    "sg:province":"NE",
+    "sg:tags":[
+        "video",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974747,
+        102082777,
+        85820061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Z0Oh5x72Zk0KZL39yXx8g_41.120451_-95.953402@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300609,
+    "wof:geomhash":"3529e6047dc2a715571ac05035da0753",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974747,
+            "neighbourhood_id":85820061,
+            "region_id":85688563,
+            "venue_id":873938017
+        }
+    ],
+    "wof:id":873938017,
+    "wof:lastmodified":1464300609,
+    "wof:name":"Main Street Movies",
+    "wof:parent_id":85820061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "video",
+        "tape"
+    ]
+},
+  "bbox": [
+    -95.953402,
+    41.120451,
+    -95.953402,
+    41.120451
+],
+  "geometry": {"coordinates":[-95.953402,41.120451],"type":"Point"}
+}

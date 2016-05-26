@@ -1,0 +1,75 @@
+{
+  "id": 873830165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.891671,41.13966,-95.891671,41.13966",
+    "geom:latitude":41.13966,
+    "geom:longitude":-95.891671,
+    "iso:country":"US",
+    "sg:address":"204 E 20th Ave",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 292 3664",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "lawn",
+        "maintenance",
+        "grounds"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974747,
+        102082777,
+        85820061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1nAmJVEXcYSPg1MIeehJ2I_41.139660_-95.891671@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298334,
+    "wof:geomhash":"c1199ad8692c8fd40ed97f8e93193123",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974747,
+            "neighbourhood_id":85820061,
+            "region_id":85688563,
+            "venue_id":873830165
+        }
+    ],
+    "wof:id":873830165,
+    "wof:lastmodified":1464298334,
+    "wof:name":"Moore's Mowing Inc/Sprinkler",
+    "wof:parent_id":85820061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lawn",
+        "maintenance",
+        "grounds"
+    ]
+},
+  "bbox": [
+    -95.891671,
+    41.13966,
+    -95.891671,
+    41.13966
+],
+  "geometry": {"coordinates":[-95.891671,41.13966],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 873801005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.962753,41.129513,-95.962753,41.129513",
+    "geom:latitude":41.129513,
+    "geom:longitude":-95.962753,
+    "iso:country":"US",
+    "sg:address":"3406 Castile Dr",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 292 5100",
+    "sg:postcode":"68123",
+    "sg:province":"NE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85821583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4pthMfs7dMBzNdNnBGnBiS_41.129513_-95.962753@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297785,
+    "wof:geomhash":"a2da4c6da92aef36b2f899212feaaeb9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85821583,
+            "region_id":85688563,
+            "venue_id":873801005
+        }
+    ],
+    "wof:id":873801005,
+    "wof:lastmodified":1464297785,
+    "wof:name":"Diva's Clothing",
+    "wof:parent_id":85821583,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -95.962753,
+    41.129513,
+    -95.962753,
+    41.129513
+],
+  "geometry": {"coordinates":[-95.96275300000001,41.129513],"type":"Point"}
+}

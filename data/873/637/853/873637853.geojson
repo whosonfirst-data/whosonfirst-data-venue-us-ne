@@ -1,0 +1,73 @@
+{
+  "id": 873637853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.705674,40.749135,-96.705674,40.749135",
+    "geom:latitude":40.749135,
+    "geom:longitude":-96.705674,
+    "iso:country":"US",
+    "sg:address":"1010 Galloway Ave",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 423 0237",
+    "sg:postcode":"68512",
+    "sg:province":"NE",
+    "sg:tags":[
+        "archery",
+        "range"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6s3pA5SU9m0EbDJ8uMBMko_40.749135_-96.705674@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295453,
+    "wof:geomhash":"38e490fea6bcaa5c7507387b02a21348",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878709,
+            "region_id":85688563,
+            "venue_id":873637853
+        }
+    ],
+    "wof:id":873637853,
+    "wof:lastmodified":1464295453,
+    "wof:name":"Prairie Bowman Archery Club",
+    "wof:parent_id":85878709,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "archery",
+        "range"
+    ]
+},
+  "bbox": [
+    -96.705674,
+    40.749135,
+    -96.705674,
+    40.749135
+],
+  "geometry": {"coordinates":[-96.705674,40.749135],"type":"Point"}
+}

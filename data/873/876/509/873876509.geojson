@@ -1,0 +1,75 @@
+{
+  "id": 873876509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.683548,40.831452,-96.683548,40.831452",
+    "geom:latitude":40.831452,
+    "geom:longitude":-96.683548,
+    "iso:country":"US",
+    "sg:address":"1723 N 26th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 742 0027",
+    "sg:postcode":"68503",
+    "sg:province":"NE",
+    "sg:tags":[
+        "programming"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878691,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6rXva64ssYj06YbapibmCA_40.831452_-96.683548@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299362,
+    "wof:geomhash":"82d96a7629eb9f0cb0caf83e8012b772",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878691,
+            "region_id":85688563,
+            "venue_id":873876509
+        }
+    ],
+    "wof:id":873876509,
+    "wof:lastmodified":1464299362,
+    "wof:name":"Global Application Development",
+    "wof:parent_id":85878691,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "programming"
+    ]
+},
+  "bbox": [
+    -96.683548,
+    40.831452,
+    -96.683548,
+    40.831452
+],
+  "geometry": {"coordinates":[-96.683548,40.831452],"type":"Point"}
+}

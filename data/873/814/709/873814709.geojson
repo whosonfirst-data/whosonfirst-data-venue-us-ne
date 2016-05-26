@@ -1,0 +1,75 @@
+{
+  "id": 873814709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.004756,41.245368,-96.004756,41.245368",
+    "geom:latitude":41.245368,
+    "geom:longitude":-96.004756,
+    "iso:country":"US",
+    "sg:address":"1512 S 60th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 391 2101",
+    "sg:postcode":"68106",
+    "sg:province":"NE",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867059,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5OzEiGO1ZpJZ7s9D78wh5T_41.245368_-96.004756@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298009,
+    "wof:geomhash":"d259099c295411daf529e9903b372767",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85867059,
+            "region_id":85688563,
+            "venue_id":873814709
+        }
+    ],
+    "wof:id":873814709,
+    "wof:lastmodified":1464298009,
+    "wof:name":"Christopher Vaughan DDS",
+    "wof:parent_id":85867059,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -96.004756,
+    41.245368,
+    -96.004756,
+    41.245368
+],
+  "geometry": {"coordinates":[-96.004756,41.245368],"type":"Point"}
+}

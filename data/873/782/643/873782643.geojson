@@ -1,0 +1,75 @@
+{
+  "id": 873782643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.636367,40.798131,-96.636367,40.798131",
+    "geom:latitude":40.798131,
+    "geom:longitude":-96.636367,
+    "iso:country":"US",
+    "sg:address":"1400 Crestline Dr",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Lumber",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 488 5689",
+    "sg:postcode":"68506",
+    "sg:province":"NE",
+    "sg:tags":[
+        "mill"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878703,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3VEX51K1AJHh9aS53Szl5b_40.798131_-96.636367@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297526,
+    "wof:geomhash":"cd875c05fbc67bd0e46a33db27a47d43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878703,
+            "region_id":85688563,
+            "venue_id":873782643
+        }
+    ],
+    "wof:id":873782643,
+    "wof:lastmodified":1464297526,
+    "wof:name":"Kenneth Curtis Sawmill",
+    "wof:parent_id":85878703,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mill"
+    ]
+},
+  "bbox": [
+    -96.636367,
+    40.798131,
+    -96.636367,
+    40.798131
+],
+  "geometry": {"coordinates":[-96.63636700000001,40.798131],"type":"Point"}
+}

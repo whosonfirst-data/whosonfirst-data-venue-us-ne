@@ -1,0 +1,75 @@
+{
+  "id": 873724369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.923792,41.165375,-95.923792,41.165375",
+    "geom:latitude":41.165375,
+    "geom:longitude":-95.923792,
+    "iso:country":"US",
+    "sg:address":"438 Galvin Rd N",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 734 1470",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "coin",
+        "dealer",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85804025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1UXJUIXuNAgO7ttWeqSy9i_41.165375_-95.923792@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296704,
+    "wof:geomhash":"5150b25cf2e75c02b801a75d1c1928b3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85804025,
+            "region_id":85688563,
+            "venue_id":873724369
+        }
+    ],
+    "wof:id":873724369,
+    "wof:lastmodified":1464296704,
+    "wof:name":"Ed's Coins",
+    "wof:parent_id":85804025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "coin",
+        "dealer",
+        "supply"
+    ]
+},
+  "bbox": [
+    -95.923792,
+    41.165375,
+    -95.923792,
+    41.165375
+],
+  "geometry": {"coordinates":[-95.92379200000001,41.165375],"type":"Point"}
+}

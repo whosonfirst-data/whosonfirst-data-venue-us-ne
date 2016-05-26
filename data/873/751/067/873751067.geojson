@@ -1,0 +1,79 @@
+{
+  "id": 873751067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.605676,40.854501,-96.605676,40.854501",
+    "geom:latitude":40.854501,
+    "geom:longitude":-96.605676,
+    "iso:country":"US",
+    "sg:address":"4100 N 84th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Campground",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Arena",
+            "subcategory":"Sports Club",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 441 6545",
+    "sg:postcode":"68507",
+    "sg:province":"NE",
+    "sg:tags":[
+        "business",
+        "association"
+    ],
+    "sg:website":"www.lancastereventcenter.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85824241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4zvanVbWl8DmrLfbJvUbJI_40.854501_-96.605676@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297088,
+    "wof:geomhash":"a7de0250760b85e40f1680b763ba4da9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85824241,
+            "region_id":85688563,
+            "venue_id":873751067
+        }
+    ],
+    "wof:id":873751067,
+    "wof:lastmodified":1464297088,
+    "wof:name":"Lancaster Event Center",
+    "wof:parent_id":85824241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "business",
+        "association"
+    ]
+},
+  "bbox": [
+    -96.605676,
+    40.854501,
+    -96.605676,
+    40.854501
+],
+  "geometry": {"coordinates":[-96.605676,40.854501],"type":"Point"}
+}

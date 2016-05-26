@@ -1,0 +1,75 @@
+{
+  "id": 873562297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.682327,40.833265,-96.682327,40.833265",
+    "geom:latitude":40.833265,
+    "geom:longitude":-96.682327,
+    "iso:country":"US",
+    "sg:address":"2021 N 27th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 441 7571",
+    "sg:postcode":"68503",
+    "sg:province":"NE",
+    "sg:tags":[
+        "management"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878691,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_691qBYTWgP7HX4VtSZUwf9_40.833265_-96.682327@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294523,
+    "wof:geomhash":"b5f77e2d9c3dc659492adfb8748254bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878691,
+            "region_id":85688563,
+            "venue_id":873562297
+        }
+    ],
+    "wof:id":873562297,
+    "wof:lastmodified":1464294523,
+    "wof:name":"Lincoln Water Systems",
+    "wof:parent_id":85878691,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "management"
+    ]
+},
+  "bbox": [
+    -96.682327,
+    40.833265,
+    -96.682327,
+    40.833265
+],
+  "geometry": {"coordinates":[-96.682327,40.833265],"type":"Point"}
+}

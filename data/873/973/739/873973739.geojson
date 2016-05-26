@@ -1,0 +1,72 @@
+{
+  "id": 873973739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.144147,41.151784,-96.144147,41.151784",
+    "geom:latitude":41.151784,
+    "geom:longitude":-96.144147,
+    "iso:country":"US",
+    "sg:address":"14711 Custer Rd",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 895 4604",
+    "sg:postcode":"68138",
+    "sg:province":"NE",
+    "sg:tags":[
+        "contractor",
+        "mason"
+    ],
+    "sg:website":"http://www.seedorff.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85834285,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_69oj2h6s7zhnwx6aGjoZzA_41.152022_-96.143786@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464302146,
+    "wof:geomhash":"5be041840c97886a92ca601a29739be8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85834285,
+            "region_id":85688563,
+            "venue_id":873973739
+        }
+    ],
+    "wof:id":873973739,
+    "wof:lastmodified":1464302146,
+    "wof:name":"Smi",
+    "wof:parent_id":85834285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor",
+        "mason"
+    ]
+},
+  "bbox": [
+    -96.144147,
+    41.151784,
+    -96.144147,
+    41.151784
+],
+  "geometry": {"coordinates":[-96.144147,41.151784],"type":"Point"}
+}

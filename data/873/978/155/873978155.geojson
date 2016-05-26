@@ -1,0 +1,74 @@
+{
+  "id": 873978155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.635104,40.857038,-96.635104,40.857038",
+    "geom:latitude":40.857038,
+    "geom:longitude":-96.635104,
+    "iso:country":"US",
+    "sg:address":"6235 Havelock Ave",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ne/lincoln/244700-mistys-steakhouse/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 466 8424",
+    "sg:postcode":"68507",
+    "sg:province":"NE",
+    "sg:tags":[
+        "american",
+        "steakhouse"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85824241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_13VadtGwedrOpvY4vVCPg6_40.856962_-96.634784@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464302302,
+    "wof:geomhash":"6e5e8f76400dad3c2853fdd8cf2f8079",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85824241,
+            "region_id":85688563,
+            "venue_id":873978155
+        }
+    ],
+    "wof:id":873978155,
+    "wof:lastmodified":1464302302,
+    "wof:name":"Misty's Steakhouse",
+    "wof:parent_id":85824241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "steakhouse"
+    ]
+},
+  "bbox": [
+    -96.635104,
+    40.857038,
+    -96.635104,
+    40.857038
+],
+  "geometry": {"coordinates":[-96.635104,40.857038],"type":"Point"}
+}

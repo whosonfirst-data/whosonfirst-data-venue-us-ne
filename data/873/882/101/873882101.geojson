@@ -1,0 +1,75 @@
+{
+  "id": 873882101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.693008,40.753365,-96.693008,40.753365",
+    "geom:latitude":40.753365,
+    "geom:longitude":-96.693008,
+    "iso:country":"US",
+    "sg:address":"5930 Rolling Hills Blvd",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 661 644 2086",
+    "sg:postcode":"68512",
+    "sg:province":"NE",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420525805,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2JCvVpwAbIqJfHwCHt3Hp2_40.753365_-96.693008@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299472,
+    "wof:geomhash":"ce36052d6a42c12c55266b5ab54a4d1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":420525805,
+            "region_id":85688563,
+            "venue_id":873882101
+        }
+    ],
+    "wof:id":873882101,
+    "wof:lastmodified":1464299472,
+    "wof:name":"Behr Home",
+    "wof:parent_id":420525805,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -96.693008,
+    40.753365,
+    -96.693008,
+    40.753365
+],
+  "geometry": {"coordinates":[-96.69300800000001,40.753365],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 873816325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.663208,40.785435,-96.663208,40.785435",
+    "geom:latitude":40.785435,
+    "geom:longitude":-96.663208,
+    "iso:country":"US",
+    "sg:address":"2712 S 40th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 489 1915",
+    "sg:postcode":"68506",
+    "sg:province":"NE",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892213,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_007cUE6XaJEj8O7CgClpyn_40.785435_-96.663208@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298040,
+    "wof:geomhash":"40b2afc910ddc38ac6c2f3e5a29d14c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85892213,
+            "region_id":85688563,
+            "venue_id":873816325
+        }
+    ],
+    "wof:id":873816325,
+    "wof:lastmodified":1464298040,
+    "wof:name":"Louisville Lakeside Concession",
+    "wof:parent_id":85892213,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -96.663208,
+    40.785435,
+    -96.663208,
+    40.785435
+],
+  "geometry": {"coordinates":[-96.663208,40.785435],"type":"Point"}
+}

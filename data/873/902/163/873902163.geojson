@@ -1,0 +1,75 @@
+{
+  "id": 873902163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.083736,41.265671,-96.083736,41.265671",
+    "geom:latitude":41.265671,
+    "geom:longitude":-96.083736,
+    "iso:country":"US",
+    "sg:address":"701 N 108th Cir",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 498 0440",
+    "sg:postcode":"68154",
+    "sg:province":"NE",
+    "sg:tags":[
+        "bottler"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872503,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_24fVRI3PGBLMA9loxqPXlY_41.265671_-96.083736@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299859,
+    "wof:geomhash":"e6e0d41b28d42865d828f3bf25cfd35a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872503,
+            "region_id":85688563,
+            "venue_id":873902163
+        }
+    ],
+    "wof:id":873902163,
+    "wof:lastmodified":1464299859,
+    "wof:name":"Dr Pepper Seven-Up Bottling Co",
+    "wof:parent_id":85872503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bottler"
+    ]
+},
+  "bbox": [
+    -96.083736,
+    41.265671,
+    -96.083736,
+    41.265671
+],
+  "geometry": {"coordinates":[-96.083736,41.265671],"type":"Point"}
+}

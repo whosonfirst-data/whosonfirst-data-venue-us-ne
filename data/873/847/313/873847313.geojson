@@ -1,0 +1,73 @@
+{
+  "id": 873847313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.662605,40.697432,-96.662605,40.697432",
+    "geom:latitude":40.697432,
+    "geom:longitude":-96.662605,
+    "iso:country":"US",
+    "sg:address":"4200 Saltillo Rd",
+    "sg:city":"Roca",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 423 4728",
+    "sg:postcode":"68430",
+    "sg:province":"NE",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1vc3BlNQ6EDNAH9ExWjEtA_40.697432_-96.662605@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298744,
+    "wof:geomhash":"2e1c4e7183ce1f284479160dba9753c1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878733,
+            "region_id":85688563,
+            "venue_id":873847313
+        }
+    ],
+    "wof:id":873847313,
+    "wof:lastmodified":1464298744,
+    "wof:name":"Sampson Properties LLC",
+    "wof:parent_id":85878733,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -96.662605,
+    40.697432,
+    -96.662605,
+    40.697432
+],
+  "geometry": {"coordinates":[-96.662605,40.697432],"type":"Point"}
+}

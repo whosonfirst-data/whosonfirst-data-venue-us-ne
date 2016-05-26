@@ -1,0 +1,77 @@
+{
+  "id": 873939283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-98.339705,40.925337,-98.339705,40.925337",
+    "geom:latitude":40.925337,
+    "geom:longitude":-98.339705,
+    "iso:country":"US",
+    "sg:address":"208 N Pine St",
+    "sg:city":"Grand Island",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 308 385 6123",
+    "sg:postcode":"68801",
+    "sg:province":"NE",
+    "sg:tags":[
+        "county",
+        "resource"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85840711,
+        102191575,
+        404518499,
+        85633793,
+        85973941,
+        102083477,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1kF97eewo3hNI6Xg151qi7_40.925337_-98.339705@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300653,
+    "wof:geomhash":"f041f799cb3ddd401cae5b040949bf48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083477,
+            "localadmin_id":404518499,
+            "locality_id":85973941,
+            "neighbourhood_id":85840711,
+            "region_id":85688563,
+            "venue_id":873939283
+        }
+    ],
+    "wof:id":873939283,
+    "wof:lastmodified":1464300653,
+    "wof:name":"Hall County Child Protective",
+    "wof:parent_id":85840711,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "county",
+        "resource"
+    ]
+},
+  "bbox": [
+    -98.339705,
+    40.925337,
+    -98.339705,
+    40.925337
+],
+  "geometry": {"coordinates":[-98.339705,40.925337],"type":"Point"}
+}

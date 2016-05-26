@@ -1,0 +1,73 @@
+{
+  "id": 873975113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.796512,40.855126,-96.796512,40.855126",
+    "geom:latitude":40.855126,
+    "geom:longitude":-96.796512,
+    "iso:country":"US",
+    "sg:address":"4140 NW 57th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 470 2215",
+    "sg:postcode":"68524",
+    "sg:province":"NE",
+    "sg:tags":[
+        "window",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85826663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7EUychgdmC5Sd3guUDs1ev_40.854839_-96.796416@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464302194,
+    "wof:geomhash":"0366fc6948a6c1fe01ca6d5d35bb4838",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85826663,
+            "region_id":85688563,
+            "venue_id":873975113
+        }
+    ],
+    "wof:id":873975113,
+    "wof:lastmodified":1464302194,
+    "wof:name":"Herbs Window Service",
+    "wof:parent_id":85826663,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "window",
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -96.796512,
+    40.855126,
+    -96.796512,
+    40.855126
+],
+  "geometry": {"coordinates":[-96.79651200000001,40.855126],"type":"Point"}
+}

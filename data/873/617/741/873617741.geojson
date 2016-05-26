@@ -1,0 +1,75 @@
+{
+  "id": 873617741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.719476,40.798783,-96.719476,40.798783",
+    "geom:latitude":40.798783,
+    "geom:longitude":-96.719476,
+    "iso:country":"US",
+    "sg:address":"1551 S 2nd St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 475 7523",
+    "sg:postcode":"68502",
+    "sg:province":"NE",
+    "sg:tags":[
+        "typewriter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878737,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_76GkT8pgf1q8ZOtsw1rBos_40.798783_-96.719476@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295222,
+    "wof:geomhash":"6796d13e3377e98372aee012b746ac01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878737,
+            "region_id":85688563,
+            "venue_id":873617741
+        }
+    ],
+    "wof:id":873617741,
+    "wof:lastmodified":1464295222,
+    "wof:name":"Central Office Equipment Co",
+    "wof:parent_id":85878737,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "typewriter"
+    ]
+},
+  "bbox": [
+    -96.719476,
+    40.798783,
+    -96.719476,
+    40.798783
+],
+  "geometry": {"coordinates":[-96.719476,40.798783],"type":"Point"}
+}

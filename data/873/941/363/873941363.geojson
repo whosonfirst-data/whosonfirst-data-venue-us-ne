@@ -1,0 +1,75 @@
+{
+  "id": 873941363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.932415,41.072888,-95.932415,41.072888",
+    "geom:latitude":41.072888,
+    "geom:longitude":-95.932415,
+    "iso:country":"US",
+    "sg:address":"16511 Iske Dr",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 291 1219",
+    "sg:postcode":"68123",
+    "sg:province":"NE",
+    "sg:tags":[
+        "shop",
+        "collision",
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974747,
+        102082777,
+        85820061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6OxvY3800QbUF004wx3v9w_41.072888_-95.932415@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300744,
+    "wof:geomhash":"cb7eefca4f23df3802bc987ef93a9486",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974747,
+            "neighbourhood_id":85820061,
+            "region_id":85688563,
+            "venue_id":873941363
+        }
+    ],
+    "wof:id":873941363,
+    "wof:lastmodified":1464300744,
+    "wof:name":"Red Roadster Inc",
+    "wof:parent_id":85820061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "collision",
+        "automotive"
+    ]
+},
+  "bbox": [
+    -95.932415,
+    41.072888,
+    -95.932415,
+    41.072888
+],
+  "geometry": {"coordinates":[-95.93241500000001,41.072888],"type":"Point"}
+}

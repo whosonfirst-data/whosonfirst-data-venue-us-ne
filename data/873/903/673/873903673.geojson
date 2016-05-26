@@ -1,0 +1,71 @@
+{
+  "id": 873903673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.700831,40.901501,-96.700831,40.901501",
+    "geom:latitude":40.901501,
+    "geom:longitude":-96.700831,
+    "iso:country":"US",
+    "sg:address":"9084 N 14th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 475 8360",
+    "sg:postcode":"68531",
+    "sg:province":"NE",
+    "sg:tags":[
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5QIvFvXe8YpVrNHOKO9nin_40.901501_-96.700831@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299890,
+    "wof:geomhash":"58080ea08f336e753136dcaf1896cd95",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878687,
+            "region_id":85688563,
+            "venue_id":873903673
+        }
+    ],
+    "wof:id":873903673,
+    "wof:lastmodified":1464299890,
+    "wof:name":"1st Choice Rolloffs LLC",
+    "wof:parent_id":85878687,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "system"
+    ]
+},
+  "bbox": [
+    -96.700831,
+    40.901501,
+    -96.700831,
+    40.901501
+],
+  "geometry": {"coordinates":[-96.70083099999999,40.901501],"type":"Point"}
+}

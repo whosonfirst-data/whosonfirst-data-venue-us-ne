@@ -1,0 +1,71 @@
+{
+  "id": 873893669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.653936,40.741768,-96.653936,40.741768",
+    "geom:latitude":40.741768,
+    "geom:longitude":-96.653936,
+    "iso:country":"US",
+    "sg:address":"6931 Crooked Creek Ct",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 421 7202",
+    "sg:postcode":"68516",
+    "sg:province":"NE",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2B3d7Ce42ROqws3m2W5Xow_40.741768_-96.653936@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299699,
+    "wof:geomhash":"3902746a1c54876bf93ef1ce256ff407",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878733,
+            "region_id":85688563,
+            "venue_id":873893669
+        }
+    ],
+    "wof:id":873893669,
+    "wof:lastmodified":1464299699,
+    "wof:name":"Jenkins Janice Day Care",
+    "wof:parent_id":85878733,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -96.653936,
+    40.741768,
+    -96.653936,
+    40.741768
+],
+  "geometry": {"coordinates":[-96.653936,40.741768],"type":"Point"}
+}

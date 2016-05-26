@@ -1,0 +1,71 @@
+{
+  "id": 873927203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.727346,40.859794,-96.727346,40.859794",
+    "geom:latitude":40.859794,
+    "geom:longitude":-96.727346,
+    "iso:country":"US",
+    "sg:address":"601 W Jennifer Dr",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Advertising",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 477 2881",
+    "sg:postcode":"68521",
+    "sg:province":"NE",
+    "sg:tags":[
+        "agency"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1P8PPsAFPHF4hpKNFtRCqj_40.859794_-96.727346@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300349,
+    "wof:geomhash":"805712212c07b0bc163fbd264a25e42e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878717,
+            "region_id":85688563,
+            "venue_id":873927203
+        }
+    ],
+    "wof:id":873927203,
+    "wof:lastmodified":1464300349,
+    "wof:name":"Holly D Kaiser",
+    "wof:parent_id":85878717,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency"
+    ]
+},
+  "bbox": [
+    -96.727346,
+    40.859794,
+    -96.727346,
+    40.859794
+],
+  "geometry": {"coordinates":[-96.727346,40.859794],"type":"Point"}
+}

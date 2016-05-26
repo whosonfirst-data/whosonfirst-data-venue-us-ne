@@ -1,0 +1,69 @@
+{
+  "id": 873664239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.135892,41.305891,-96.135892,41.305891",
+    "geom:latitude":41.305891,
+    "geom:longitude":-96.135892,
+    "iso:country":"US",
+    "sg:address":"14009 Camden Ave",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 496 6336",
+    "sg:postcode":"68164",
+    "sg:province":"NE",
+    "sg:tags":[
+        "drinking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85872505,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_418iofrmFUPXHEAE4EqwMb_41.305891_-96.135892@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295742,
+    "wof:geomhash":"4f02ad12c0b3e2d06d55cca9b2fff05b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":873664239
+        }
+    ],
+    "wof:id":873664239,
+    "wof:lastmodified":1464295742,
+    "wof:name":"14 24 Inc",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drinking"
+    ]
+},
+  "bbox": [
+    -96.135892,
+    41.305891,
+    -96.135892,
+    41.305891
+],
+  "geometry": {"coordinates":[-96.135892,41.305891],"type":"Point"}
+}

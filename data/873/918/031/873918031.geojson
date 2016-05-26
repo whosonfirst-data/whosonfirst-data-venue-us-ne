@@ -1,0 +1,71 @@
+{
+  "id": 873918031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.187902,41.182942,-96.187902,41.182942",
+    "geom:latitude":41.182942,
+    "geom:longitude":-96.187902,
+    "iso:country":"US",
+    "sg:address":"17410 Storage Rd",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 896 3232",
+    "sg:postcode":"68136",
+    "sg:province":"NE",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85834285,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_76g82UCPVgpy07p8IXpt0m_41.182942_-96.187902@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300177,
+    "wof:geomhash":"53f1db7c917cc6e94ba4bfb3849efd56",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85834285,
+            "region_id":85688563,
+            "venue_id":873918031
+        }
+    ],
+    "wof:id":873918031,
+    "wof:lastmodified":1464300177,
+    "wof:name":"KDS Auto Sales",
+    "wof:parent_id":85834285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -96.187902,
+    41.182942,
+    -96.187902,
+    41.182942
+],
+  "geometry": {"coordinates":[-96.18790199999999,41.182942],"type":"Point"}
+}

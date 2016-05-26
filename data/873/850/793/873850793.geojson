@@ -1,0 +1,78 @@
+{
+  "id": 873850793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.036513,41.261541,-96.036513,41.261541",
+    "geom:latitude":41.261541,
+    "geom:longitude":-96.036513,
+    "iso:country":"US",
+    "sg:address":"349 N 78th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 390 2525",
+    "sg:postcode":"68114",
+    "sg:province":"NE",
+    "sg:tags":[
+        "shop",
+        "consignment"
+    ],
+    "sg:website":"www.estreetauctions.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872509,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_26JqZVhs7atOzv2yD63HQG_41.261541_-96.036513@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298828,
+    "wof:geomhash":"206dd7bbffdcb3180a85a601b4623ce6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872509,
+            "region_id":85688563,
+            "venue_id":873850793
+        }
+    ],
+    "wof:id":873850793,
+    "wof:lastmodified":1464298828,
+    "wof:name":"E Street Auctions",
+    "wof:parent_id":85872509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "consignment"
+    ]
+},
+  "bbox": [
+    -96.036513,
+    41.261541,
+    -96.036513,
+    41.261541
+],
+  "geometry": {"coordinates":[-96.036513,41.261541],"type":"Point"}
+}

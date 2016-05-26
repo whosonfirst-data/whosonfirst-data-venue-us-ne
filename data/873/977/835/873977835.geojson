@@ -1,0 +1,74 @@
+{
+  "id": 873977835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.969788,41.140869,-95.969788,41.140869",
+    "geom:latitude":41.140869,
+    "geom:longitude":-95.969788,
+    "iso:country":"US",
+    "sg:address":"3809 Twin Creek Dr",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ne/bellevue-second-ii/109400-village-inn/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 292 4300",
+    "sg:postcode":"68123",
+    "sg:province":"NE",
+    "sg:tags":[
+        "new",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85821583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0BP1kmlW8MLZtCr5Sb2jBp_41.140783_-95.969462@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464302291,
+    "wof:geomhash":"195581026440aaf96729a7da9376f41c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85821583,
+            "region_id":85688563,
+            "venue_id":873977835
+        }
+    ],
+    "wof:id":873977835,
+    "wof:lastmodified":1464302291,
+    "wof:name":"Village Inn",
+    "wof:parent_id":85821583,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "new",
+        "american"
+    ]
+},
+  "bbox": [
+    -95.969788,
+    41.140869,
+    -95.969788,
+    41.140869
+],
+  "geometry": {"coordinates":[-95.96978799999999,41.140869],"type":"Point"}
+}

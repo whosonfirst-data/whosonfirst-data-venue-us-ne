@@ -1,0 +1,77 @@
+{
+  "id": 873947175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.004527,41.252284,-96.004527,41.252284",
+    "geom:latitude":41.252284,
+    "geom:longitude":-96.004527,
+    "iso:country":"US",
+    "sg:address":"5923 Leavenworth St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 391 0014",
+    "sg:postcode":"68106",
+    "sg:province":"NE",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867059,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_29pEcRWyAlQmxV8t8igR23_41.252284_-96.004527@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464301014,
+    "wof:geomhash":"6fbe7aca280c52da40fb415df4a0449d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85867059,
+            "region_id":85688563,
+            "venue_id":873947175
+        }
+    ],
+    "wof:id":873947175,
+    "wof:lastmodified":1464301014,
+    "wof:name":"Advanced Clutch & Transmission",
+    "wof:parent_id":85867059,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -96.004527,
+    41.252284,
+    -96.004527,
+    41.252284
+],
+  "geometry": {"coordinates":[-96.004527,41.252284],"type":"Point"}
+}

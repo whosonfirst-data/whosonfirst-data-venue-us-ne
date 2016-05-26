@@ -1,0 +1,69 @@
+{
+  "id": 873549977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.646016,40.734364,-96.646016,40.734364",
+    "geom:latitude":40.734364,
+    "geom:longitude":-96.646016,
+    "iso:country":"US",
+    "sg:address":"5550 Union Hill Rd",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 434 2622",
+    "sg:postcode":"68516",
+    "sg:province":"NE",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85878745,
+        102083503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0KI99bWrNo5vxw2K1laZTJ_40.734364_-96.646016@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294378,
+    "wof:geomhash":"e3cc76af7992338eb34751e625e182f4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "neighbourhood_id":85878745,
+            "region_id":85688563,
+            "venue_id":873549977
+        }
+    ],
+    "wof:id":873549977,
+    "wof:lastmodified":1464294378,
+    "wof:name":"Summer Hill Apt & Townhomes",
+    "wof:parent_id":85878745,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -96.646016,
+    40.734364,
+    -96.646016,
+    40.734364
+],
+  "geometry": {"coordinates":[-96.646016,40.734364],"type":"Point"}
+}

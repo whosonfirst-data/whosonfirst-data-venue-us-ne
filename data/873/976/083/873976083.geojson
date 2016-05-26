@@ -1,0 +1,74 @@
+{
+  "id": 873976083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.942599,41.159053,-95.942599,41.159053",
+    "geom:latitude":41.159053,
+    "geom:longitude":-95.942599,
+    "iso:country":"US",
+    "sg:address":"10201 S 21st St",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ne/bellevue/194408-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 292 4575",
+    "sg:postcode":"68123",
+    "sg:province":"NE",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85821583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Jc1B2YHWO8EjqKeEIFVEW_41.159053_-95.942599@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464302226,
+    "wof:geomhash":"641c2a7a14128a0e6758f7dfb433cd5f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85821583,
+            "region_id":85688563,
+            "venue_id":873976083
+        }
+    ],
+    "wof:id":873976083,
+    "wof:lastmodified":1464302226,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85821583,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -95.942599,
+    41.159053,
+    -95.942599,
+    41.159053
+],
+  "geometry": {"coordinates":[-95.942599,41.159053],"type":"Point"}
+}

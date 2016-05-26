@@ -1,0 +1,88 @@
+{
+  "id": 873946075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.961747,41.278018,-95.961747,41.278018",
+    "geom:latitude":41.278018,
+    "geom:longitude":-95.961747,
+    "iso:country":"US",
+    "sg:address":"2107 N 33rd Ave",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Hobbies, Toys, & Games",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 932 0643",
+    "sg:postcode":"68111",
+    "sg:province":"NE",
+    "sg:tags":[
+        "model",
+        "general",
+        "merchandise",
+        "business",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872525,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5hlBq1gmK11VU0ubBzOM3l_41.278018_-95.961747@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300937,
+    "wof:geomhash":"2291023192c44d2f6e75f860cb2f0c75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872525,
+            "region_id":85688563,
+            "venue_id":873946075
+        }
+    ],
+    "wof:id":873946075,
+    "wof:lastmodified":1464300937,
+    "wof:name":"Collector's Paradise",
+    "wof:parent_id":85872525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "model",
+        "general",
+        "merchandise",
+        "business",
+        "supply"
+    ]
+},
+  "bbox": [
+    -95.961747,
+    41.278018,
+    -95.961747,
+    41.278018
+],
+  "geometry": {"coordinates":[-95.961747,41.278018],"type":"Point"}
+}

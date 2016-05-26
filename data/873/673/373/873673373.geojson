@@ -1,0 +1,88 @@
+{
+  "id": 873673373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.683546,40.823198,-96.683546,40.823198",
+    "geom:latitude":40.823198,
+    "geom:longitude":-96.683546,
+    "iso:country":"US",
+    "sg:address":"939 N 26th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 476 6329",
+    "sg:postcode":"68503",
+    "sg:province":"NE",
+    "sg:tags":[
+        "wood",
+        "cabinet",
+        "maker",
+        "kitchen",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878723,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Ph3eQrL4Fm1mDPrqosqYH_40.823198_-96.683546@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295834,
+    "wof:geomhash":"b6335060a6441ada86c27c1e7a40ece4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878723,
+            "region_id":85688563,
+            "venue_id":873673373
+        }
+    ],
+    "wof:id":873673373,
+    "wof:lastmodified":1464295834,
+    "wof:name":"Eno Cabinet Works Inc",
+    "wof:parent_id":85878723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wood",
+        "cabinet",
+        "maker",
+        "kitchen",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -96.683546,
+    40.823198,
+    -96.683546,
+    40.823198
+],
+  "geometry": {"coordinates":[-96.68354600000001,40.823198],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873812299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.904139,41.137659,-95.904139,41.137659",
+    "geom:latitude":41.137659,
+    "geom:longitude":-95.904139,
+    "iso:country":"US",
+    "sg:address":"2019 Calhoun St",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 650 8410",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974747,
+        102082777,
+        85820061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1TndmF1jq46l1YMTh5uwXF_41.137659_-95.904139@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297966,
+    "wof:geomhash":"92334751fe82d29c080d97924a1d4295",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974747,
+            "neighbourhood_id":85820061,
+            "region_id":85688563,
+            "venue_id":873812299
+        }
+    ],
+    "wof:id":873812299,
+    "wof:lastmodified":1464297966,
+    "wof:name":"Adler's Concrete Contractors",
+    "wof:parent_id":85820061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -95.904139,
+    41.137659,
+    -95.904139,
+    41.137659
+],
+  "geometry": {"coordinates":[-95.904139,41.137659],"type":"Point"}
+}

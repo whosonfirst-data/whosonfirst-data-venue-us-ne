@@ -1,0 +1,72 @@
+{
+  "id": 873943181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.637363,40.864629,-96.637363,40.864629",
+    "geom:latitude":40.864629,
+    "geom:longitude":-96.637363,
+    "iso:country":"US",
+    "sg:address":"6255 Cornhusker Hwy",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 466 8388",
+    "sg:postcode":"68507",
+    "sg:province":"NE",
+    "sg:tags":[
+        "truck"
+    ],
+    "sg:website":"www.michaelstrucksales.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85824241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2EZSC6IabQy1bH0GE7y9ix_40.864629_-96.637363@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300813,
+    "wof:geomhash":"f869893dfd1dcbd2e46f0c7b6066eb51",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85824241,
+            "region_id":85688563,
+            "venue_id":873943181
+        }
+    ],
+    "wof:id":873943181,
+    "wof:lastmodified":1464300813,
+    "wof:name":"Michael's Truck Sales Inc",
+    "wof:parent_id":85824241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [
+    -96.637363,
+    40.864629,
+    -96.637363,
+    40.864629
+],
+  "geometry": {"coordinates":[-96.63736299999999,40.864629],"type":"Point"}
+}

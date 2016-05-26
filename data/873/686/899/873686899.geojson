@@ -1,0 +1,89 @@
+{
+  "id": 873686899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.08156,41.214472,-96.08156,41.214472",
+    "geom:latitude":41.214472,
+    "geom:longitude":-96.08156,
+    "iso:country":"US",
+    "sg:address":"4412 S 108th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Computers",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 592 8999",
+    "sg:postcode":"68137",
+    "sg:province":"NE",
+    "sg:tags":[
+        "hardware",
+        "equipment",
+        "software",
+        "system",
+        "dealer"
+    ],
+    "sg:website":"www.wrksystems.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872531,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_29N6mMbXMV9XJPQDAImqs5_41.214472_-96.081560@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296190,
+    "wof:geomhash":"c3e0aa615e86ce973d45364c361502a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872531,
+            "region_id":85688563,
+            "venue_id":873686899
+        }
+    ],
+    "wof:id":873686899,
+    "wof:lastmodified":1464296190,
+    "wof:name":"W R K Systems Inc",
+    "wof:parent_id":85872531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hardware",
+        "equipment",
+        "software",
+        "system",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -96.08156,
+    41.214472,
+    -96.08156,
+    41.214472
+],
+  "geometry": {"coordinates":[-96.08156,41.214472],"type":"Point"}
+}

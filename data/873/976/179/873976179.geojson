@@ -1,0 +1,72 @@
+{
+  "id": 873976179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.023728,41.176204,-96.023728,41.176204",
+    "geom:latitude":41.176204,
+    "geom:longitude":-96.023728,
+    "iso:country":"US",
+    "sg:address":"7202 Giles Rd",
+    "sg:city":"La Vista",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ne/la-vista/223283-gambinos-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 932 6777",
+    "sg:postcode":"68128",
+    "sg:province":"NE",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85843697,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_05XieOFJU2rbbyI8susAeR_41.176204_-96.023728@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464302229,
+    "wof:geomhash":"98972c1c9f0e677fb0d98ea067da9d8e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85843697,
+            "region_id":85688563,
+            "venue_id":873976179
+        }
+    ],
+    "wof:id":873976179,
+    "wof:lastmodified":1464302229,
+    "wof:name":"Gambino's Pizza",
+    "wof:parent_id":85843697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -96.023728,
+    41.176204,
+    -96.023728,
+    41.176204
+],
+  "geometry": {"coordinates":[-96.02372800000001,41.176204],"type":"Point"}
+}

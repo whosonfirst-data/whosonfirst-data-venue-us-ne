@@ -1,0 +1,71 @@
+{
+  "id": 873760629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.037572,41.174167,-96.037572,41.174167",
+    "geom:latitude":41.174167,
+    "geom:longitude":-96.037572,
+    "iso:country":"US",
+    "sg:address":"1226 Edgewood Blvd",
+    "sg:city":"Papillion",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 933 2673",
+    "sg:postcode":"68046",
+    "sg:province":"NE",
+    "sg:tags":[
+        "hanging",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85843697,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7MB2fwPc666FrCv5PCZaSo_41.174167_-96.037572@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297215,
+    "wof:geomhash":"e18e99533f67243ae348780b649ca05e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85843697,
+            "region_id":85688563,
+            "venue_id":873760629
+        }
+    ],
+    "wof:id":873760629,
+    "wof:lastmodified":1464297215,
+    "wof:name":"McNally Painting",
+    "wof:parent_id":85843697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.037572,
+    41.174167,
+    -96.037572,
+    41.174167
+],
+  "geometry": {"coordinates":[-96.037572,41.174167],"type":"Point"}
+}

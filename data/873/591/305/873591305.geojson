@@ -1,0 +1,73 @@
+{
+  "id": 873591305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.615415,40.798484,-96.615415,40.798484",
+    "geom:latitude":40.798484,
+    "geom:longitude":-96.615415,
+    "iso:country":"US",
+    "sg:address":"1610 S 77th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 489 1304",
+    "sg:postcode":"68506",
+    "sg:province":"NE",
+    "sg:tags":[
+        "farm",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0fUrS0cIkiBH4nWeQszDN3_40.798484_-96.615415@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294847,
+    "wof:geomhash":"f9092ec31431054afd898ee97bfde243",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878697,
+            "region_id":85688563,
+            "venue_id":873591305
+        }
+    ],
+    "wof:id":873591305,
+    "wof:lastmodified":1464294847,
+    "wof:name":"Tiemann Farms",
+    "wof:parent_id":85878697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "farm",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -96.615415,
+    40.798484,
+    -96.615415,
+    40.798484
+],
+  "geometry": {"coordinates":[-96.615415,40.798484],"type":"Point"}
+}

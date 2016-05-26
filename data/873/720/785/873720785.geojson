@@ -1,0 +1,72 @@
+{
+  "id": 873720785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.072844,41.312195,-96.072844,41.312195",
+    "geom:latitude":41.312195,
+    "geom:longitude":-96.072844,
+    "iso:country":"US",
+    "sg:address":"10203 Crown Point Ave",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 493 9566",
+    "sg:postcode":"68134",
+    "sg:province":"NE",
+    "sg:tags":[
+        "cookie",
+        "cracker"
+    ],
+    "sg:website":"www.kellogg.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85872505,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_707Fy2DsOVilScNSLkNZjJ_41.312195_-96.072844@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296660,
+    "wof:geomhash":"395057f708b8676e9b30b2fac8b1b26d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":873720785
+        }
+    ],
+    "wof:id":873720785,
+    "wof:lastmodified":1464296660,
+    "wof:name":"Kellogg's Snacks",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cookie",
+        "cracker"
+    ]
+},
+  "bbox": [
+    -96.072844,
+    41.312195,
+    -96.072844,
+    41.312195
+],
+  "geometry": {"coordinates":[-96.072844,41.312195],"type":"Point"}
+}

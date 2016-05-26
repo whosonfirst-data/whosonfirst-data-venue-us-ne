@@ -1,0 +1,75 @@
+{
+  "id": 873828163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.676503,40.826269,-96.676503,40.826269",
+    "geom:latitude":40.826269,
+    "geom:longitude":-96.676503,
+    "iso:country":"US",
+    "sg:address":"3138 Dudley St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 476 9548",
+    "sg:postcode":"68503",
+    "sg:province":"NE",
+    "sg:tags":[
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878701,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1gq8kYh0nyGLdvpSk5jcVx_40.826269_-96.676503@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298297,
+    "wof:geomhash":"21ebbdcceb0d9214695be10fbed6eb43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878701,
+            "region_id":85688563,
+            "venue_id":873828163
+        }
+    ],
+    "wof:id":873828163,
+    "wof:lastmodified":1464298297,
+    "wof:name":"Ds Construction",
+    "wof:parent_id":85878701,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential"
+    ]
+},
+  "bbox": [
+    -96.676503,
+    40.826269,
+    -96.676503,
+    40.826269
+],
+  "geometry": {"coordinates":[-96.676503,40.826269],"type":"Point"}
+}

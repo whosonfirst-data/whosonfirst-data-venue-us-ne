@@ -1,0 +1,65 @@
+{
+  "id": 873759063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.042244,41.190613,-96.042244,41.190613",
+    "geom:latitude":41.190613,
+    "geom:longitude":-96.042244,
+    "iso:country":"US",
+    "sg:address":"8380 Harrison St",
+    "sg:city":"La Vista",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 592 7970",
+    "sg:postcode":"68128",
+    "sg:province":"NE",
+    "sg:website":"www.walgreens.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85843697,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_71Kvwejnv790jZLyR2VvGT_41.190613_-96.042244@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297195,
+    "wof:geomhash":"1e883ec2a9207e915867d83497113941",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85843697,
+            "region_id":85688563,
+            "venue_id":873759063
+        }
+    ],
+    "wof:id":873759063,
+    "wof:lastmodified":1464297195,
+    "wof:name":"Walgreens",
+    "wof:parent_id":85843697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.042244,
+    41.190613,
+    -96.042244,
+    41.190613
+],
+  "geometry": {"coordinates":[-96.042244,41.190613],"type":"Point"}
+}

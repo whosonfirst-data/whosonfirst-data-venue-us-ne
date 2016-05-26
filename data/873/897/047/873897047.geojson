@@ -1,0 +1,79 @@
+{
+  "id": 873897047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.65775,40.798349,-96.65775,40.798349",
+    "geom:latitude":40.798349,
+    "geom:longitude":-96.65775,
+    "iso:country":"US",
+    "sg:address":"4410 Washington St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 483 7745",
+    "sg:postcode":"68506",
+    "sg:province":"NE",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878683,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5HEe6KE75nlqINjHyw70Mx_40.798349_-96.657750@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299764,
+    "wof:geomhash":"44f005b8c515cc2a42ca3cb677030932",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878683,
+            "region_id":85688563,
+            "venue_id":873897047
+        }
+    ],
+    "wof:id":873897047,
+    "wof:lastmodified":1464299764,
+    "wof:name":"Advantage Moving",
+    "wof:parent_id":85878683,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -96.65775,
+    40.798349,
+    -96.65775,
+    40.798349
+],
+  "geometry": {"coordinates":[-96.65774999999999,40.798349],"type":"Point"}
+}

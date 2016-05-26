@@ -1,0 +1,71 @@
+{
+  "id": 873646933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.160885,41.118101,-96.160885,41.118101",
+    "geom:latitude":41.118101,
+    "geom:longitude":-96.160885,
+    "iso:country":"US",
+    "sg:address":"16116 Capehart Rd",
+    "sg:city":"Gretna",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 253 8432",
+    "sg:postcode":"68028",
+    "sg:province":"NE",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85834285,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0cSWpNLAfsgkJXJm1zkh4D_41.118101_-96.160885@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295555,
+    "wof:geomhash":"155e4a94f665c6852424743f5b126c8d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85834285,
+            "region_id":85688563,
+            "venue_id":873646933
+        }
+    ],
+    "wof:id":873646933,
+    "wof:lastmodified":1464295555,
+    "wof:name":"Knott Brothers Trucking LLC",
+    "wof:parent_id":85834285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -96.160885,
+    41.118101,
+    -96.160885,
+    41.118101
+],
+  "geometry": {"coordinates":[-96.16088499999999,41.118101],"type":"Point"}
+}

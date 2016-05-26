@@ -1,0 +1,75 @@
+{
+  "id": 873919723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.925432,41.171893,-95.925432,41.171893",
+    "geom:latitude":41.171893,
+    "geom:longitude":-95.925432,
+    "iso:country":"US",
+    "sg:address":"709 Fort Crook Rd N",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 292 2466",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "car",
+        "used",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85804025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_33WCxTnviAiFpclypD1b60_41.171893_-95.925432@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300207,
+    "wof:geomhash":"f783298a6ea2d15e3765850aadf466e3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85804025,
+            "region_id":85688563,
+            "venue_id":873919723
+        }
+    ],
+    "wof:id":873919723,
+    "wof:lastmodified":1464300207,
+    "wof:name":"Mel's Auto Sales",
+    "wof:parent_id":85804025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "used",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -95.925432,
+    41.171893,
+    -95.925432,
+    41.171893
+],
+  "geometry": {"coordinates":[-95.925432,41.171893],"type":"Point"}
+}

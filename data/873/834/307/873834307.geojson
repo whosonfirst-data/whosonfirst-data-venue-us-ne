@@ -1,0 +1,75 @@
+{
+  "id": 873834307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.71347,40.812451,-96.71347,40.812451",
+    "geom:latitude":40.812451,
+    "geom:longitude":-96.71347,
+    "iso:country":"US",
+    "sg:address":"525 N St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Scrap",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 476 3306",
+    "sg:postcode":"68510",
+    "sg:province":"NE",
+    "sg:tags":[
+        "metal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878699,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1qCq8H508PZ0tZEEsrdqhZ_40.812451_-96.713470@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298430,
+    "wof:geomhash":"0262c36dd8fff2d605a53eeff0cb57af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878699,
+            "region_id":85688563,
+            "venue_id":873834307
+        }
+    ],
+    "wof:id":873834307,
+    "wof:lastmodified":1464298430,
+    "wof:name":"Alter Scrap Processing",
+    "wof:parent_id":85878699,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "metal"
+    ]
+},
+  "bbox": [
+    -96.71347,
+    40.812451,
+    -96.71347,
+    40.812451
+],
+  "geometry": {"coordinates":[-96.71347,40.812451],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 873840801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.052545,41.26694,-96.052545,41.26694",
+    "geom:latitude":41.26694,
+    "geom:longitude":-96.052545,
+    "iso:country":"US",
+    "sg:address":"900 N 90th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 393 2113",
+    "sg:postcode":"68114",
+    "sg:province":"NE",
+    "sg:tags":[
+        "residential",
+        "care"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867061,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6UYDXoxEs6GEcYOLQWaz7O_41.266940_-96.052545@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298571,
+    "wof:geomhash":"ed4591042af2946dd5715c7cbcc7f4c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85867061,
+            "region_id":85688563,
+            "venue_id":873840801
+        }
+    ],
+    "wof:id":873840801,
+    "wof:lastmodified":1464298571,
+    "wof:name":"New Castle Retirement Ctr Inc",
+    "wof:parent_id":85867061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential",
+        "care"
+    ]
+},
+  "bbox": [
+    -96.052545,
+    41.26694,
+    -96.052545,
+    41.26694
+],
+  "geometry": {"coordinates":[-96.05254499999999,41.26694],"type":"Point"}
+}

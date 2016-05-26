@@ -1,0 +1,80 @@
+{
+  "id": 873834313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.984844,41.268977,-95.984844,41.268977",
+    "geom:latitude":41.268977,
+    "geom:longitude":-95.984844,
+    "iso:country":"US",
+    "sg:address":"4601 Izard St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 556 1879",
+    "sg:postcode":"68132",
+    "sg:province":"NE",
+    "sg:tags":[
+        "information",
+        "alcoholism",
+        "treatment"
+    ],
+    "sg:website":"www.aa.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867055,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Q6hT7wT2cx7JsmoHgdDGP_41.268977_-95.984844@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298430,
+    "wof:geomhash":"850efaa2f6c819ff0f28fdde33c2f1b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85867055,
+            "region_id":85688563,
+            "venue_id":873834313
+        }
+    ],
+    "wof:id":873834313,
+    "wof:lastmodified":1464298430,
+    "wof:name":"Alcoholics Anonymous",
+    "wof:parent_id":85867055,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "information",
+        "alcoholism",
+        "treatment"
+    ]
+},
+  "bbox": [
+    -95.984844,
+    41.268977,
+    -95.984844,
+    41.268977
+],
+  "geometry": {"coordinates":[-95.984844,41.268977],"type":"Point"}
+}

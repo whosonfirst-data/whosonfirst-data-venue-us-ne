@@ -1,0 +1,75 @@
+{
+  "id": 873882455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.154306,41.274296,-96.154306,41.274296",
+    "geom:latitude":41.274296,
+    "geom:longitude":-96.154306,
+    "iso:country":"US",
+    "sg:address":"15433 Seward St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Bowling",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 496 6189",
+    "sg:postcode":"68154",
+    "sg:province":"NE",
+    "sg:tags":[
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85806957,
+        102191575,
+        404519987,
+        85633793,
+        85973479,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4JlBe6GqhvAYfeeIoPHgUi_41.274296_-96.154306@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299478,
+    "wof:geomhash":"ecfffe2682796377e4e368ddcbf743cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404519987,
+            "locality_id":85973479,
+            "neighbourhood_id":85806957,
+            "region_id":85688563,
+            "venue_id":873882455
+        }
+    ],
+    "wof:id":873882455,
+    "wof:lastmodified":1464299478,
+    "wof:name":"Country Lanes",
+    "wof:parent_id":85806957,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "center"
+    ]
+},
+  "bbox": [
+    -96.154306,
+    41.274296,
+    -96.154306,
+    41.274296
+],
+  "geometry": {"coordinates":[-96.15430600000001,41.274296],"type":"Point"}
+}

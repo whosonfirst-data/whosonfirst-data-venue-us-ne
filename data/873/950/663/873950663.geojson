@@ -1,0 +1,79 @@
+{
+  "id": 873950663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.725084,40.813559,-96.725084,40.813559",
+    "geom:latitude":40.813559,
+    "geom:longitude":-96.725084,
+    "iso:country":"US",
+    "sg:address":"500 W O St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 441 8985",
+    "sg:postcode":"68528",
+    "sg:province":"NE",
+    "sg:tags":[
+        "county",
+        "govt",
+        "program"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878743,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3YcGJc6d7fO6cNtHUNirAL_40.813559_-96.725084@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464301173,
+    "wof:geomhash":"8770a0728740141e2fa1b1efe9ddf069",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878743,
+            "region_id":85688563,
+            "venue_id":873950663
+        }
+    ],
+    "wof:id":873950663,
+    "wof:lastmodified":1464301173,
+    "wof:name":"Lancaster Cnty Driver License",
+    "wof:parent_id":85878743,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "county",
+        "govt",
+        "program"
+    ]
+},
+  "bbox": [
+    -96.725084,
+    40.813559,
+    -96.725084,
+    40.813559
+],
+  "geometry": {"coordinates":[-96.725084,40.813559],"type":"Point"}
+}

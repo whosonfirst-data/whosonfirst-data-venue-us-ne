@@ -1,0 +1,75 @@
+{
+  "id": 873890041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.119439,41.238247,-96.119439,41.238247",
+    "geom:latitude":41.238247,
+    "geom:longitude":-96.119439,
+    "iso:country":"US",
+    "sg:address":"2255 S 132nd St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 391 3700",
+    "sg:postcode":"68144",
+    "sg:province":"NE",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872531,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_12734kLpDtHz5EF9iZ2ElX_41.238247_-96.119439@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299632,
+    "wof:geomhash":"7932badbc4780a4ac92f7b9e2784cf0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872531,
+            "region_id":85688563,
+            "venue_id":873890041
+        }
+    ],
+    "wof:id":873890041,
+    "wof:lastmodified":1464299632,
+    "wof:name":"William D Murphy MD PC",
+    "wof:parent_id":85872531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -96.119439,
+    41.238247,
+    -96.119439,
+    41.238247
+],
+  "geometry": {"coordinates":[-96.119439,41.238247],"type":"Point"}
+}

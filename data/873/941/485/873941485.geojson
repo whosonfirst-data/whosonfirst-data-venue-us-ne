@@ -1,0 +1,75 @@
+{
+  "id": 873941485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.735862,40.867683,-96.735862,40.867683",
+    "geom:latitude":40.867683,
+    "geom:longitude":-96.735862,
+    "iso:country":"US",
+    "sg:address":"5615 NW 11th Cir",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 438 1922",
+    "sg:postcode":"68521",
+    "sg:province":"NE",
+    "sg:tags":[
+        "repairing",
+        "remodeling",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2RhLJ2XFEOE5Y9pZUpdn9n_40.867683_-96.735862@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300752,
+    "wof:geomhash":"1816d3672b022ba6f30c728605f81a2f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878717,
+            "region_id":85688563,
+            "venue_id":873941485
+        }
+    ],
+    "wof:id":873941485,
+    "wof:lastmodified":1464300752,
+    "wof:name":"Claus Painting",
+    "wof:parent_id":85878717,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "remodeling",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.735862,
+    40.867683,
+    -96.735862,
+    40.867683
+],
+  "geometry": {"coordinates":[-96.735862,40.867683],"type":"Point"}
+}

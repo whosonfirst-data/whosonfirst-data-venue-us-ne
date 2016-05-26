@@ -1,0 +1,75 @@
+{
+  "id": 873808787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.081467,41.372511,-96.081467,41.372511",
+    "geom:latitude":41.372511,
+    "geom:longitude":-96.081467,
+    "iso:country":"US",
+    "sg:address":"12404 N 108th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 572 5300",
+    "sg:postcode":"68142",
+    "sg:province":"NE",
+    "sg:tags":[
+        "doing",
+        "concrete",
+        "subcontractor",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85872505,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3xNHyTLeuULmkhLYUlsnNu_41.372511_-96.081467@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297905,
+    "wof:geomhash":"e81cb02dcb0a094de742c95767c9f640",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":873808787
+        }
+    ],
+    "wof:id":873808787,
+    "wof:lastmodified":1464297905,
+    "wof:name":"M L Concrete Construction Inc",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "doing",
+        "concrete",
+        "subcontractor",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.081467,
+    41.372511,
+    -96.081467,
+    41.372511
+],
+  "geometry": {"coordinates":[-96.081467,41.372511],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 873574935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.909496,41.141557,-95.909496,41.141557",
+    "geom:latitude":41.141557,
+    "geom:longitude":-95.909496,
+    "iso:country":"US",
+    "sg:address":"1802 Galvin Rd S",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 291 8404",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974747,
+        102082777,
+        85820061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4xYWgpm664qFx3GNriwiqy_41.141557_-95.909496@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294663,
+    "wof:geomhash":"98c03efea5705c998e3f0f876d1bcd55",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974747,
+            "neighbourhood_id":85820061,
+            "region_id":85688563,
+            "venue_id":873574935
+        }
+    ],
+    "wof:id":873574935,
+    "wof:lastmodified":1464294663,
+    "wof:name":"Walgreens",
+    "wof:parent_id":85820061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -95.909496,
+    41.141557,
+    -95.909496,
+    41.141557
+],
+  "geometry": {"coordinates":[-95.909496,41.141557],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873857721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.357891,41.430322,-97.357891,41.430322",
+    "geom:latitude":41.430322,
+    "geom:longitude":-97.357891,
+    "iso:country":"US",
+    "sg:address":"2424 14th St",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 562 4264",
+    "sg:postcode":"68601",
+    "sg:province":"NE",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974401,
+        102084277,
+        85854093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_08h3VE1ks5mjGptFbWEpNR_41.430322_-97.357891@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298967,
+    "wof:geomhash":"f8a2184bbb84d55bd7ad0b6693cfe57f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084277,
+            "locality_id":85974401,
+            "neighbourhood_id":85854093,
+            "region_id":85688563,
+            "venue_id":873857721
+        }
+    ],
+    "wof:id":873857721,
+    "wof:lastmodified":1464298967,
+    "wof:name":"Columbus Bldg Elec Inspection",
+    "wof:parent_id":85854093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -97.357891,
+    41.430322,
+    -97.357891,
+    41.430322
+],
+  "geometry": {"coordinates":[-97.357891,41.430322],"type":"Point"}
+}

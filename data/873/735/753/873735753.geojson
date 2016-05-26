@@ -1,0 +1,77 @@
+{
+  "id": 873735753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.653456,40.858715,-96.653456,40.858715",
+    "geom:latitude":40.858715,
+    "geom:longitude":-96.653456,
+    "iso:country":"US",
+    "sg:address":"4500 N 48th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 466 5931",
+    "sg:postcode":"68504",
+    "sg:province":"NE",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878741,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6pdlH29Kt1MfWfmDNVPuLB_40.858715_-96.653456@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296867,
+    "wof:geomhash":"7494671a642fa3bfdb05c413e664a8cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878741,
+            "region_id":85688563,
+            "venue_id":873735753
+        }
+    ],
+    "wof:id":873735753,
+    "wof:lastmodified":1464296867,
+    "wof:name":"Superior Automotive",
+    "wof:parent_id":85878741,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -96.653456,
+    40.858715,
+    -96.653456,
+    40.858715
+],
+  "geometry": {"coordinates":[-96.65345600000001,40.858715],"type":"Point"}
+}

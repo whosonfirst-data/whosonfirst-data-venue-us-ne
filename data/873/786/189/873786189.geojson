@@ -1,0 +1,70 @@
+{
+  "id": 873786189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.121361,41.215494,-96.121361,41.215494",
+    "geom:latitude":41.215494,
+    "geom:longitude":-96.121361,
+    "iso:country":"US",
+    "sg:address":"4561 S 133rd St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 000 1111",
+    "sg:postcode":"68137",
+    "sg:province":"NE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872531,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2JteOLQhq8rmKJk1cbhC5u_41.215494_-96.121361@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297573,
+    "wof:geomhash":"5adedba51d01cda2d0f7fed7b8b7e48e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872531,
+            "region_id":85688563,
+            "venue_id":873786189
+        }
+    ],
+    "wof:id":873786189,
+    "wof:lastmodified":1464297573,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85872531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.121361,
+    41.215494,
+    -96.121361,
+    41.215494
+],
+  "geometry": {"coordinates":[-96.12136099999999,41.215494],"type":"Point"}
+}

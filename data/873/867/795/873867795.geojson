@@ -1,0 +1,71 @@
+{
+  "id": 873867795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.734807,40.86276,-96.734807,40.86276",
+    "geom:latitude":40.86276,
+    "geom:longitude":-96.734807,
+    "iso:country":"US",
+    "sg:address":"5360 W Katleman Dr",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 477 5373",
+    "sg:postcode":"68521",
+    "sg:province":"NE",
+    "sg:tags":[
+        "refrigeration"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1D2CtRQR7LIFIiVvB3kxcW_40.862760_-96.734807@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299187,
+    "wof:geomhash":"137235c94d856ef055346bb1b1db053c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878717,
+            "region_id":85688563,
+            "venue_id":873867795
+        }
+    ],
+    "wof:id":873867795,
+    "wof:lastmodified":1464299187,
+    "wof:name":"S Larkins Inc",
+    "wof:parent_id":85878717,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "refrigeration"
+    ]
+},
+  "bbox": [
+    -96.734807,
+    40.86276,
+    -96.734807,
+    40.86276
+],
+  "geometry": {"coordinates":[-96.734807,40.86276],"type":"Point"}
+}

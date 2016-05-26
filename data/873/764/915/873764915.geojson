@@ -1,0 +1,70 @@
+{
+  "id": 873764915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.027271,41.332579,-96.027271,41.332579",
+    "geom:latitude":41.332579,
+    "geom:longitude":-96.027271,
+    "iso:country":"US",
+    "sg:address":"7250 Reynolds St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Paper Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 571 1800",
+    "sg:postcode":"68122",
+    "sg:province":"NE",
+    "sg:tags":[
+        "label"
+    ],
+    "sg:website":"www.medibadge.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85872505,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4LHDsLizqIy8SxFIoIG7vo_41.332579_-96.027271@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297294,
+    "wof:geomhash":"1a82ad8b7ba40b1aac07afc7c989c4dc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":873764915
+        }
+    ],
+    "wof:id":873764915,
+    "wof:lastmodified":1464297294,
+    "wof:name":"Medi Badge",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "label"
+    ]
+},
+  "bbox": [
+    -96.027271,
+    41.332579,
+    -96.027271,
+    41.332579
+],
+  "geometry": {"coordinates":[-96.027271,41.332579],"type":"Point"}
+}

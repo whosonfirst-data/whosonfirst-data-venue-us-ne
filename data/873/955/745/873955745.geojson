@@ -1,0 +1,75 @@
+{
+  "id": 873955745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.03209,41.253169,-96.03209,41.253169",
+    "geom:latitude":41.253169,
+    "geom:longitude":-96.03209,
+    "iso:country":"US",
+    "sg:address":"7722 Howard St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 393 1668",
+    "sg:postcode":"68114",
+    "sg:province":"NE",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872509,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7EGIxwufXCU2TmxONDcqYL_41.253169_-96.032090@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464301363,
+    "wof:geomhash":"f881d477e145b7dd4ab08e3519295002",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872509,
+            "region_id":85688563,
+            "venue_id":873955745
+        }
+    ],
+    "wof:id":873955745,
+    "wof:lastmodified":1464301363,
+    "wof:name":"Villa Vinee Apartments",
+    "wof:parent_id":85872509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -96.03209,
+    41.253169,
+    -96.03209,
+    41.253169
+],
+  "geometry": {"coordinates":[-96.03209,41.253169],"type":"Point"}
+}

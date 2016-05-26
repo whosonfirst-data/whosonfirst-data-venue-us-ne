@@ -1,0 +1,77 @@
+{
+  "id": 873735209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.101968,41.237165,-96.101968,41.237165",
+    "geom:latitude":41.237165,
+    "geom:longitude":-96.101968,
+    "iso:country":"US",
+    "sg:address":"2312 Village Ct",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 333 1221",
+    "sg:postcode":"68144",
+    "sg:province":"NE",
+    "sg:tags":[
+        "consultant",
+        "business"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872531,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2f4t4ywc3QdaBgcoDJLSa6_41.237165_-96.101968@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296852,
+    "wof:geomhash":"594644ce763ee44c09c49b1e17c7adda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872531,
+            "region_id":85688563,
+            "venue_id":873735209
+        }
+    ],
+    "wof:id":873735209,
+    "wof:lastmodified":1464296852,
+    "wof:name":"Single Source",
+    "wof:parent_id":85872531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "business"
+    ]
+},
+  "bbox": [
+    -96.101968,
+    41.237165,
+    -96.101968,
+    41.237165
+],
+  "geometry": {"coordinates":[-96.101968,41.237165],"type":"Point"}
+}

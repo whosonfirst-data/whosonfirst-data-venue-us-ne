@@ -1,0 +1,71 @@
+{
+  "id": 873786611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.051621,41.236735,-96.051621,41.236735",
+    "geom:latitude":41.236735,
+    "geom:longitude":-96.051621,
+    "iso:country":"US",
+    "sg:address":"8820 Arbor St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 554 8049",
+    "sg:postcode":"68124",
+    "sg:province":"NE",
+    "sg:website":"www.tieronebank.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872533,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3fFs56517oiOLErmHKwmY9_41.236735_-96.051621@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297584,
+    "wof:geomhash":"6b84328ae01f30c77485f4acf67f14d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872533,
+            "region_id":85688563,
+            "venue_id":873786611
+        }
+    ],
+    "wof:id":873786611,
+    "wof:lastmodified":1464297584,
+    "wof:name":"Tier One Bank",
+    "wof:parent_id":85872533,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.051621,
+    41.236735,
+    -96.051621,
+    41.236735
+],
+  "geometry": {"coordinates":[-96.051621,41.236735],"type":"Point"}
+}

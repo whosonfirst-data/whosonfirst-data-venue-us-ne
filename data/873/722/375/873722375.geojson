@@ -1,0 +1,71 @@
+{
+  "id": 873722375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.890093,41.15577,-95.890093,41.15577",
+    "geom:latitude":41.15577,
+    "geom:longitude":-95.890093,
+    "iso:country":"US",
+    "sg:address":"301 Brooks Pl",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 614 3104",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85804025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1BhdxrMHRAg4nTPStuGO89_41.155770_-95.890093@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296680,
+    "wof:geomhash":"22fe832f428d5604c672e124a5aabc53",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85804025,
+            "region_id":85688563,
+            "venue_id":873722375
+        }
+    ],
+    "wof:id":873722375,
+    "wof:lastmodified":1464296680,
+    "wof:name":"Trophy Construction Inc",
+    "wof:parent_id":85804025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -95.890093,
+    41.15577,
+    -95.890093,
+    41.15577
+],
+  "geometry": {"coordinates":[-95.89009299999999,41.15577],"type":"Point"}
+}

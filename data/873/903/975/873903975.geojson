@@ -1,0 +1,71 @@
+{
+  "id": 873903975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.902899,41.136586,-95.902899,41.136586",
+    "geom:latitude":41.136586,
+    "geom:longitude":-95.902899,
+    "iso:country":"US",
+    "sg:address":"702 W Mission Ave",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 291 1340",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974747,
+        102082777,
+        85820061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_74IMxL2U4aosqUXeVOtgcF_41.136586_-95.902899@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299899,
+    "wof:geomhash":"4e298f73cd59f3e076bca9f6d4fa4258",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974747,
+            "neighbourhood_id":85820061,
+            "region_id":85688563,
+            "venue_id":873903975
+        }
+    ],
+    "wof:id":873903975,
+    "wof:lastmodified":1464299899,
+    "wof:name":"Kathy L Deford DDS",
+    "wof:parent_id":85820061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -95.902899,
+    41.136586,
+    -95.902899,
+    41.136586
+],
+  "geometry": {"coordinates":[-95.90289900000001,41.136586],"type":"Point"}
+}

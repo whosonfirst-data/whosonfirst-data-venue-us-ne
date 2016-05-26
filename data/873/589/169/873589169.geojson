@@ -1,0 +1,71 @@
+{
+  "id": 873589169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.063534,41.146026,-96.063534,41.146026",
+    "geom:latitude":41.146026,
+    "geom:longitude":-96.063534,
+    "iso:country":"US",
+    "sg:address":"1010 Mesa Cir",
+    "sg:city":"Papillion",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 384 1700",
+    "sg:postcode":"68046",
+    "sg:province":"NE",
+    "sg:tags":[
+        "fund",
+        "raising"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85843697,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3dkngE7SUR9YqihzYfcFWK_41.146026_-96.063534@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294819,
+    "wof:geomhash":"4865376496db2100f597b9fb8df652a5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85843697,
+            "region_id":85688563,
+            "venue_id":873589169
+        }
+    ],
+    "wof:id":873589169,
+    "wof:lastmodified":1464294819,
+    "wof:name":"Heartland Campaign Management",
+    "wof:parent_id":85843697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fund",
+        "raising"
+    ]
+},
+  "bbox": [
+    -96.063534,
+    41.146026,
+    -96.063534,
+    41.146026
+],
+  "geometry": {"coordinates":[-96.063534,41.146026],"type":"Point"}
+}

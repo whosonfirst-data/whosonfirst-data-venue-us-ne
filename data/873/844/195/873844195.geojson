@@ -1,0 +1,71 @@
+{
+  "id": 873844195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.140615,41.312579,-96.140615,41.312579",
+    "geom:latitude":41.312579,
+    "geom:longitude":-96.140615,
+    "iso:country":"US",
+    "sg:address":"6011 N 145th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Theater",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 573 1339",
+    "sg:postcode":"68116",
+    "sg:province":"NE",
+    "sg:tags":[
+        "live",
+        "music"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85872505,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2KJDevMYFdIXThi5bm597V_41.312579_-96.140615@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298660,
+    "wof:geomhash":"aa94e3da5dad833da67212ef2fa5b6a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":873844195
+        }
+    ],
+    "wof:id":873844195,
+    "wof:lastmodified":1464298660,
+    "wof:name":"Palladlum Brass Quintet",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "live",
+        "music"
+    ]
+},
+  "bbox": [
+    -96.140615,
+    41.312579,
+    -96.140615,
+    41.312579
+],
+  "geometry": {"coordinates":[-96.140615,41.312579],"type":"Point"}
+}

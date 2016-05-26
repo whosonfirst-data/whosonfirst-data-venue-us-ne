@@ -1,0 +1,71 @@
+{
+  "id": 873956585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.659134,40.738045,-96.659134,40.738045",
+    "geom:latitude":40.738045,
+    "geom:longitude":-96.659134,
+    "iso:country":"US",
+    "sg:address":"4524 Eagle Ridge Rd",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 420 1024",
+    "sg:postcode":"68516",
+    "sg:province":"NE",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4XnBz4XXY5UIIGB0g2wEeY_40.738045_-96.659134@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464301392,
+    "wof:geomhash":"c12375124a4d8674989284cf9609d800",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878733,
+            "region_id":85688563,
+            "venue_id":873956585
+        }
+    ],
+    "wof:id":873956585,
+    "wof:lastmodified":1464301392,
+    "wof:name":"Delicious Choices Inc",
+    "wof:parent_id":85878733,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -96.659134,
+    40.738045,
+    -96.659134,
+    40.738045
+],
+  "geometry": {"coordinates":[-96.65913399999999,40.738045],"type":"Point"}
+}

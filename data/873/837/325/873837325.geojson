@@ -1,0 +1,75 @@
+{
+  "id": 873837325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.092502,41.29676,-96.092502,41.29676",
+    "geom:latitude":41.29676,
+    "geom:longitude":-96.092502,
+    "iso:country":"US",
+    "sg:address":"11531 Sahler St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 431 8449",
+    "sg:postcode":"68164",
+    "sg:province":"NE",
+    "sg:tags":[
+        "caterer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872503,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1im2r5r2GorbZ3WfUckiUy_41.296760_-96.092502@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298493,
+    "wof:geomhash":"c1092b2ba5c280fb6ea30f84243bca5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872503,
+            "region_id":85688563,
+            "venue_id":873837325
+        }
+    ],
+    "wof:id":873837325,
+    "wof:lastmodified":1464298493,
+    "wof:name":"Dora's Homemade Mexican",
+    "wof:parent_id":85872503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caterer"
+    ]
+},
+  "bbox": [
+    -96.092502,
+    41.29676,
+    -96.092502,
+    41.29676
+],
+  "geometry": {"coordinates":[-96.092502,41.29676],"type":"Point"}
+}

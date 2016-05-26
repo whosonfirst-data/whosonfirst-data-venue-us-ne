@@ -1,0 +1,75 @@
+{
+  "id": 873932201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.027855,41.250179,-96.027855,41.250179",
+    "geom:latitude":41.250179,
+    "geom:longitude":-96.027855,
+    "iso:country":"US",
+    "sg:address":"900 S 74th Plz",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 397 1127",
+    "sg:postcode":"68114",
+    "sg:province":"NE",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872509,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Y8vYrbqVXzcDcWkiWj7l2_41.250179_-96.027855@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300450,
+    "wof:geomhash":"e4184ada53d4d3a3fbf72bfcd33beeb5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872509,
+            "region_id":85688563,
+            "venue_id":873932201
+        }
+    ],
+    "wof:id":873932201,
+    "wof:lastmodified":1464300450,
+    "wof:name":"Oral Health Assoc",
+    "wof:parent_id":85872509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -96.027855,
+    41.250179,
+    -96.027855,
+    41.250179
+],
+  "geometry": {"coordinates":[-96.027855,41.250179],"type":"Point"}
+}

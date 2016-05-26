@@ -1,0 +1,75 @@
+{
+  "id": 873954059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.772041,40.855318,-96.772041,40.855318",
+    "geom:latitude":40.855318,
+    "geom:longitude":-96.772041,
+    "iso:country":"US",
+    "sg:address":"4020 NW 36th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 470 3454",
+    "sg:postcode":"68524",
+    "sg:province":"NE",
+    "sg:tags":[
+        "automotive",
+        "stampings",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0HwVTVqX5iOFxPB0I4OIOI_40.855318_-96.772041@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464301305,
+    "wof:geomhash":"a5ca25b2a40fde65637525b911c54d5c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878717,
+            "region_id":85688563,
+            "venue_id":873954059
+        }
+    ],
+    "wof:id":873954059,
+    "wof:lastmodified":1464301305,
+    "wof:name":"Lincoln Stamping Plant",
+    "wof:parent_id":85878717,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "stampings",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -96.772041,
+    40.855318,
+    -96.772041,
+    40.855318
+],
+  "geometry": {"coordinates":[-96.772041,40.855318],"type":"Point"}
+}

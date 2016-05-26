@@ -1,0 +1,69 @@
+{
+  "id": 873865165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.136918,41.171854,-96.136918,41.171854",
+    "geom:latitude":41.171854,
+    "geom:longitude":-96.136918,
+    "iso:country":"US",
+    "sg:address":"8807 S 143rd St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 891 6523",
+    "sg:postcode":"68138",
+    "sg:province":"NE",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85834285,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Yhcw4uhX8PD3pImpvr75K_41.171854_-96.136918@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299141,
+    "wof:geomhash":"b45aca4a9c009c71c70c438fb3e2e907",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85834285,
+            "region_id":85688563,
+            "venue_id":873865165
+        }
+    ],
+    "wof:id":873865165,
+    "wof:lastmodified":1464299141,
+    "wof:name":"Jane Ciummo At My Salon",
+    "wof:parent_id":85834285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -96.136918,
+    41.171854,
+    -96.136918,
+    41.171854
+],
+  "geometry": {"coordinates":[-96.13691799999999,41.171854],"type":"Point"}
+}

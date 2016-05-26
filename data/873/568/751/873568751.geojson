@@ -1,0 +1,71 @@
+{
+  "id": 873568751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.63984,40.849569,-96.63984,40.849569",
+    "geom:latitude":40.849569,
+    "geom:longitude":-96.63984,
+    "iso:country":"US",
+    "sg:address":"3610 Touzalin Ave",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Building Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 464 2765",
+    "sg:postcode":"68507",
+    "sg:province":"NE",
+    "sg:tags":[
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85824241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_12TIgA4zXmSgbQIN6vxjeL_40.849569_-96.639840@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294593,
+    "wof:geomhash":"c8c31c99f8666a33b9ba2f1ec4346485",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85824241,
+            "region_id":85688563,
+            "venue_id":873568751
+        }
+    ],
+    "wof:id":873568751,
+    "wof:lastmodified":1464294593,
+    "wof:name":"Jrj Enterprises",
+    "wof:parent_id":85824241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg"
+    ]
+},
+  "bbox": [
+    -96.63984,
+    40.849569,
+    -96.63984,
+    40.849569
+],
+  "geometry": {"coordinates":[-96.63984000000001,40.849569],"type":"Point"}
+}

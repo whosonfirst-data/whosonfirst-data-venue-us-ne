@@ -1,0 +1,71 @@
+{
+  "id": 873851537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.926617,41.177201,-95.926617,41.177201",
+    "geom:latitude":41.177201,
+    "geom:longitude":-95.926617,
+    "iso:country":"US",
+    "sg:address":"1001 Fort Crook Rd N",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 731 8022",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "fast"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85804025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1UnhGBXZHdYZweHUsfNGMZ_41.177201_-95.926617@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298842,
+    "wof:geomhash":"60eb2fc814fe4c4c4f5e41cc01f2db13",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85804025,
+            "region_id":85688563,
+            "venue_id":873851537
+        }
+    ],
+    "wof:id":873851537,
+    "wof:lastmodified":1464298842,
+    "wof:name":"John's Grecian Delight",
+    "wof:parent_id":85804025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fast"
+    ]
+},
+  "bbox": [
+    -95.926617,
+    41.177201,
+    -95.926617,
+    41.177201
+],
+  "geometry": {"coordinates":[-95.92661699999999,41.177201],"type":"Point"}
+}

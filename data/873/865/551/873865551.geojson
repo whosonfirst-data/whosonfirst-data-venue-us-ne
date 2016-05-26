@@ -1,0 +1,71 @@
+{
+  "id": 873865551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.917949,41.152388,-95.917949,41.152388",
+    "geom:latitude":41.152388,
+    "geom:longitude":-95.917949,
+    "iso:country":"US",
+    "sg:address":"919 Galvin Rd S",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 293 8868",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "internet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85821583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4QnEijBhJ8CNu7AapeRMA7_41.152388_-95.917949@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299148,
+    "wof:geomhash":"20dc1a0bd4d347f926fb7ad5ae9cef64",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85821583,
+            "region_id":85688563,
+            "venue_id":873865551
+        }
+    ],
+    "wof:id":873865551,
+    "wof:lastmodified":1464299148,
+    "wof:name":"Bellevue Data Communications",
+    "wof:parent_id":85821583,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "internet"
+    ]
+},
+  "bbox": [
+    -95.917949,
+    41.152388,
+    -95.917949,
+    41.152388
+],
+  "geometry": {"coordinates":[-95.91794899999999,41.152388],"type":"Point"}
+}

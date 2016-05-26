@@ -1,0 +1,80 @@
+{
+  "id": 873927719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.141318,41.183628,-96.141318,41.183628",
+    "geom:latitude":41.183628,
+    "geom:longitude":-96.141318,
+    "iso:country":"US",
+    "sg:address":"14610 Chandler Rd",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Farm Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 895 4060",
+    "sg:postcode":"68138",
+    "sg:province":"NE",
+    "sg:tags":[
+        "product",
+        "grain",
+        "bean",
+        "elevator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85834285,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_28ONn3b87yPHw5n5jLzSxx_41.183628_-96.141318@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300359,
+    "wof:geomhash":"32dab4e665be54f0c5ee538bd768a370",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85834285,
+            "region_id":85688563,
+            "venue_id":873927719
+        }
+    ],
+    "wof:id":873927719,
+    "wof:lastmodified":1464300359,
+    "wof:name":"Mackey Elevator Inc",
+    "wof:parent_id":85834285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "grain",
+        "bean",
+        "elevator"
+    ]
+},
+  "bbox": [
+    -96.141318,
+    41.183628,
+    -96.141318,
+    41.183628
+],
+  "geometry": {"coordinates":[-96.141318,41.183628],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 873542671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.237177,41.145987,-96.237177,41.145987",
+    "geom:latitude":41.145987,
+    "geom:longitude":-96.237177,
+    "iso:country":"US",
+    "sg:address":"216 Enterprise Dr",
+    "sg:city":"Gretna",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Self-service Laundry",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 894 9838",
+    "sg:postcode":"68028",
+    "sg:province":"NE",
+    "sg:tags":[
+        "coin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85834285,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Ghkpzo4JAAjGVl5bXc0L7_41.145987_-96.237177@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294288,
+    "wof:geomhash":"7a65a3ce44c27cf0588e9e7b23c54b22",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85834285,
+            "region_id":85688563,
+            "venue_id":873542671
+        }
+    ],
+    "wof:id":873542671,
+    "wof:lastmodified":1464294288,
+    "wof:name":"Diana Alderson",
+    "wof:parent_id":85834285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "coin"
+    ]
+},
+  "bbox": [
+    -96.237177,
+    41.145987,
+    -96.237177,
+    41.145987
+],
+  "geometry": {"coordinates":[-96.237177,41.145987],"type":"Point"}
+}

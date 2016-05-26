@@ -1,0 +1,78 @@
+{
+  "id": 873977919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.98073,41.266345,-95.98073,41.266345",
+    "geom:latitude":41.266345,
+    "geom:longitude":-95.98073,
+    "iso:country":"US",
+    "sg:address":"715 N Saddle Creek Rd",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ne/omaha/11048-mamas-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 553 9270",
+    "sg:postcode":"68132",
+    "sg:province":"NE",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867055,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2wXpVTX8SkxxmrqVseaUmw_41.266311_-95.980620@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464302294,
+    "wof:geomhash":"3140c1041d75fe4ee7d0ed5cf519719d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85867055,
+            "region_id":85688563,
+            "venue_id":873977919
+        }
+    ],
+    "wof:id":873977919,
+    "wof:lastmodified":1464302294,
+    "wof:name":"Mama's Pizza",
+    "wof:parent_id":85867055,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -95.98073,
+    41.266345,
+    -95.98073,
+    41.266345
+],
+  "geometry": {"coordinates":[-95.98072999999999,41.266345],"type":"Point"}
+}

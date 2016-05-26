@@ -1,0 +1,75 @@
+{
+  "id": 873842865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.669453,40.840225,-96.669453,40.840225",
+    "geom:latitude":40.840225,
+    "geom:longitude":-96.669453,
+    "iso:country":"US",
+    "sg:address":"3519 Madison Ave",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 499 4974",
+    "sg:postcode":"68504",
+    "sg:province":"NE",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878741,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_74Nz6yUUI96oYXf20kGeea_40.840225_-96.669453@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298629,
+    "wof:geomhash":"04afaa854341befb44ec90eac158d62f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878741,
+            "region_id":85688563,
+            "venue_id":873842865
+        }
+    ],
+    "wof:id":873842865,
+    "wof:lastmodified":1464298629,
+    "wof:name":"Interior Dreams",
+    "wof:parent_id":85878741,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -96.669453,
+    40.840225,
+    -96.669453,
+    40.840225
+],
+  "geometry": {"coordinates":[-96.669453,40.840225],"type":"Point"}
+}

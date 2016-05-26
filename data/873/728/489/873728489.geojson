@@ -1,0 +1,71 @@
+{
+  "id": 873728489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.13416,41.188491,-96.13416,41.188491",
+    "geom:latitude":41.188491,
+    "geom:longitude":-96.13416,
+    "iso:country":"US",
+    "sg:address":"7201 S 140th Ave",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 895 4538",
+    "sg:postcode":"68138",
+    "sg:province":"NE",
+    "sg:tags":[
+        "repair",
+        "radio"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85834285,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1TmlxcDmuX43wP4oKKUIUg_41.188491_-96.134160@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296760,
+    "wof:geomhash":"de5fbb4d3537202817b11e9f41bf02f8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85834285,
+            "region_id":85688563,
+            "venue_id":873728489
+        }
+    ],
+    "wof:id":873728489,
+    "wof:lastmodified":1464296760,
+    "wof:name":"Inland Radio Service",
+    "wof:parent_id":85834285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "radio"
+    ]
+},
+  "bbox": [
+    -96.13416,
+    41.188491,
+    -96.13416,
+    41.188491
+],
+  "geometry": {"coordinates":[-96.13415999999999,41.188491],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873764557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.052514,41.31398,-96.052514,41.31398",
+    "geom:latitude":41.31398,
+    "geom:longitude":-96.052514,
+    "iso:country":"US",
+    "sg:address":"6099 Irvington Rd",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 572 7676",
+    "sg:postcode":"68134",
+    "sg:province":"NE",
+    "sg:tags":[
+        "commercial",
+        "storage",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85872505,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6qB69h09LYzw7MA9xWXKCB_41.313980_-96.052514@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297287,
+    "wof:geomhash":"3b266d2d107c71951d03f282ad6aa4bf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":873764557
+        }
+    ],
+    "wof:id":873764557,
+    "wof:lastmodified":1464297287,
+    "wof:name":"Corner Stone Storage",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage",
+        "general"
+    ]
+},
+  "bbox": [
+    -96.052514,
+    41.31398,
+    -96.052514,
+    41.31398
+],
+  "geometry": {"coordinates":[-96.052514,41.31398],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873585235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.647099,40.857658,-96.647099,40.857658",
+    "geom:latitude":40.857658,
+    "geom:longitude":-96.647099,
+    "iso:country":"US",
+    "sg:address":"5501 Superior St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 464 5155",
+    "sg:postcode":"68504",
+    "sg:province":"NE",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85824241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_49HLzaV4sGdOz8jOEViGwZ_40.857658_-96.647099@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294776,
+    "wof:geomhash":"94ad9239cf412a0f03ccb801c64cf3ff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85824241,
+            "region_id":85688563,
+            "venue_id":873585235
+        }
+    ],
+    "wof:id":873585235,
+    "wof:lastmodified":1464294776,
+    "wof:name":"Fast Fuel",
+    "wof:parent_id":85824241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -96.647099,
+    40.857658,
+    -96.647099,
+    40.857658
+],
+  "geometry": {"coordinates":[-96.647099,40.857658],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 873731173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.081055,41.216316,-96.081055,41.216316",
+    "geom:latitude":41.216316,
+    "geom:longitude":-96.081055,
+    "iso:country":"US",
+    "sg:address":"10330 I St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 891 5809",
+    "sg:postcode":"68127",
+    "sg:province":"NE",
+    "sg:tags":[
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872511,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4u1m7SMMbQKZlvfUUcRyjS_41.216316_-96.081055@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296794,
+    "wof:geomhash":"a2853fb1815d358dcc4816e91b7b4cf3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872511,
+            "region_id":85688563,
+            "venue_id":873731173
+        }
+    ],
+    "wof:id":873731173,
+    "wof:lastmodified":1464296794,
+    "wof:name":"Tramel Leasing",
+    "wof:parent_id":85872511,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing"
+    ]
+},
+  "bbox": [
+    -96.081055,
+    41.216316,
+    -96.081055,
+    41.216316
+],
+  "geometry": {"coordinates":[-96.08105500000001,41.216316],"type":"Point"}
+}

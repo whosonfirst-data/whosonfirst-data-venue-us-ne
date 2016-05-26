@@ -1,0 +1,71 @@
+{
+  "id": 873800747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.231983,41.139275,-96.231983,41.139275",
+    "geom:latitude":41.139275,
+    "geom:longitude":-96.231983,
+    "iso:country":"US",
+    "sg:address":"450 Brentwood Dr",
+    "sg:city":"Gretna",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 332 5555",
+    "sg:postcode":"68028",
+    "sg:province":"NE",
+    "sg:tags":[
+        "dry wall",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85834285,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0p0LiNy7HQdb9YPVUoPN4T_41.139275_-96.231983@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297782,
+    "wof:geomhash":"8628f4858f94676d1a2c7fb08e464027",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85834285,
+            "region_id":85688563,
+            "venue_id":873800747
+        }
+    ],
+    "wof:id":873800747,
+    "wof:lastmodified":1464297782,
+    "wof:name":"Chuck Johnson Drywall",
+    "wof:parent_id":85834285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dry wall",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.231983,
+    41.139275,
+    -96.231983,
+    41.139275
+],
+  "geometry": {"coordinates":[-96.231983,41.139275],"type":"Point"}
+}

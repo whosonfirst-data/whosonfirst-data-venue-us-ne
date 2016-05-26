@@ -1,0 +1,84 @@
+{
+  "id": 873943773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.119548,41.26607,-96.119548,41.26607",
+    "geom:latitude":41.26607,
+    "geom:longitude":-96.119548,
+    "iso:country":"US",
+    "sg:address":"705 N 132nd St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 493 3893",
+    "sg:postcode":"68154",
+    "sg:province":"NE",
+    "sg:tags":[
+        "picture",
+        "custom",
+        "art",
+        "gallery",
+        "framing"
+    ],
+    "sg:website":"www.fastframe.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85806957,
+        102191575,
+        404519987,
+        85633793,
+        85973479,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6CUkFQgF8YVey4QRjnVU2d_41.266070_-96.119548@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300839,
+    "wof:geomhash":"3f37e738d69422a7f7c2c2822ca13aad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404519987,
+            "locality_id":85973479,
+            "neighbourhood_id":85806957,
+            "region_id":85688563,
+            "venue_id":873943773
+        }
+    ],
+    "wof:id":873943773,
+    "wof:lastmodified":1464300839,
+    "wof:name":"Fastframe",
+    "wof:parent_id":85806957,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "picture",
+        "custom",
+        "art",
+        "gallery",
+        "framing"
+    ]
+},
+  "bbox": [
+    -96.119548,
+    41.26607,
+    -96.119548,
+    41.26607
+],
+  "geometry": {"coordinates":[-96.11954799999999,41.26607],"type":"Point"}
+}

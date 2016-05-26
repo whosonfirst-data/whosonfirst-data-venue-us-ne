@@ -1,0 +1,76 @@
+{
+  "id": 873976839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.710312,40.815124,-96.710312,40.815124",
+    "geom:latitude":40.815124,
+    "geom:longitude":-96.710312,
+    "iso:country":"US",
+    "sg:address":"201 N 8th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ne/lincoln/236667-brewskys-food--spirits/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 328 2739",
+    "sg:postcode":"68508",
+    "sg:province":"NE",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878699,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3QNFTuQmpRxsfBtpcqSXX8_40.815124_-96.710312@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464302251,
+    "wof:geomhash":"e589992d2b9a07541005bcbaa09eb443",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878699,
+            "region_id":85688563,
+            "venue_id":873976839
+        }
+    ],
+    "wof:id":873976839,
+    "wof:lastmodified":1464302251,
+    "wof:name":"Brewsky's Food & Spirits",
+    "wof:parent_id":85878699,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -96.710312,
+    40.815124,
+    -96.710312,
+    40.815124
+],
+  "geometry": {"coordinates":[-96.710312,40.815124],"type":"Point"}
+}

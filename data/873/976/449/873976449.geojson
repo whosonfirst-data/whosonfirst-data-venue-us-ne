@@ -1,0 +1,76 @@
+{
+  "id": 873976449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.0841,41.232989,-96.0841,41.232989",
+    "geom:latitude":41.232989,
+    "geom:longitude":-96.0841,
+    "iso:country":"US",
+    "sg:address":"11027 Prairie Brook Rd",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ne/omaha/9963-pasta-amore/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 111 111 1111",
+    "sg:postcode":"68144",
+    "sg:province":"NE",
+    "sg:tags":[
+        "italian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872531,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_07yHQVcmvUWVzWF3b6n62o_41.232989_-96.084100@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464302238,
+    "wof:geomhash":"e27414372bd3dac2011f59bc4a040dac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872531,
+            "region_id":85688563,
+            "venue_id":873976449
+        }
+    ],
+    "wof:id":873976449,
+    "wof:lastmodified":1464302238,
+    "wof:name":"Pasta Amore",
+    "wof:parent_id":85872531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "italian"
+    ]
+},
+  "bbox": [
+    -96.0841,
+    41.232989,
+    -96.0841,
+    41.232989
+],
+  "geometry": {"coordinates":[-96.08410000000001,41.232989],"type":"Point"}
+}

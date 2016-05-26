@@ -1,0 +1,66 @@
+{
+  "id": 873753771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.907319,41.134477,-95.907319,41.134477",
+    "geom:latitude":41.134477,
+    "geom:longitude":-95.907319,
+    "iso:country":"US",
+    "sg:address":"2303 Lincoln Rd",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 291 9941",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974747,
+        102082777,
+        85820061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Ws9JPFQwkxSVoNALbj4Bf_41.134477_-95.907319@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297130,
+    "wof:geomhash":"bf999c3087d721accbc56d61f58e0a99",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974747,
+            "neighbourhood_id":85820061,
+            "region_id":85688563,
+            "venue_id":873753771
+        }
+    ],
+    "wof:id":873753771,
+    "wof:lastmodified":1464297130,
+    "wof:name":"Ham's Bellevue Bar",
+    "wof:parent_id":85820061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -95.907319,
+    41.134477,
+    -95.907319,
+    41.134477
+],
+  "geometry": {"coordinates":[-95.907319,41.134477],"type":"Point"}
+}

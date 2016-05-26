@@ -1,0 +1,75 @@
+{
+  "id": 873721009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.161409,41.280339,-96.161409,41.280339",
+    "geom:latitude":41.280339,
+    "geom:longitude":-96.161409,
+    "iso:country":"US",
+    "sg:address":"15650 Grant Cir",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 551 4272",
+    "sg:postcode":"68116",
+    "sg:province":"NE",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85806957,
+        102191575,
+        404519987,
+        85633793,
+        85973479,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_64vgCHw4ODmSynS8ghCudA_41.280339_-96.161409@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296663,
+    "wof:geomhash":"a6b2bc0f4a830dcb6a238efdd80dd5be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404519987,
+            "locality_id":85973479,
+            "neighbourhood_id":85806957,
+            "region_id":85688563,
+            "venue_id":873721009
+        }
+    ],
+    "wof:id":873721009,
+    "wof:lastmodified":1464296663,
+    "wof:name":"Luke Custom Homes LLC",
+    "wof:parent_id":85806957,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -96.161409,
+    41.280339,
+    -96.161409,
+    41.280339
+],
+  "geometry": {"coordinates":[-96.16140900000001,41.280339],"type":"Point"}
+}

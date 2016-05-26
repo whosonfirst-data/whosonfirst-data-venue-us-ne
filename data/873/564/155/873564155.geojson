@@ -1,0 +1,70 @@
+{
+  "id": 873564155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.975771,41.257248,-95.975771,41.257248",
+    "geom:latitude":41.257248,
+    "geom:longitude":-95.975771,
+    "iso:country":"US",
+    "sg:address":"600 S 42nd St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Library",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 559 4006",
+    "sg:postcode":"68105",
+    "sg:province":"NE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872523,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6QOvHtY6oBgNiBTiZGbMlR_41.257248_-95.975771@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294545,
+    "wof:geomhash":"ffe4a4f5b346540f4cb0d348067c2848",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872523,
+            "region_id":85688563,
+            "venue_id":873564155
+        }
+    ],
+    "wof:id":873564155,
+    "wof:lastmodified":1464294545,
+    "wof:name":"Mc Googan Library Of Medicine",
+    "wof:parent_id":85872523,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -95.975771,
+    41.257248,
+    -95.975771,
+    41.257248
+],
+  "geometry": {"coordinates":[-95.97577099999999,41.257248],"type":"Point"}
+}

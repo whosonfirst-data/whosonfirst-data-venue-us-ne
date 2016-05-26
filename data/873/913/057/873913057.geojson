@@ -1,0 +1,77 @@
+{
+  "id": 873913057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.991393,41.177301,-95.991393,41.177301",
+    "geom:latitude":41.177301,
+    "geom:longitude":-95.991393,
+    "iso:country":"US",
+    "sg:address":"5020 Copper Creek Rd",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 733 3889",
+    "sg:postcode":"68157",
+    "sg:province":"NE",
+    "sg:tags":[
+        "home",
+        "builder"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85849923,
+        102191575,
+        404519143,
+        85633793,
+        85974545,
+        102082777,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1EcmUYE6JYFFeNTbd9o4Ob_41.177301_-95.991393@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300070,
+    "wof:geomhash":"1f74822ad2e8c0feb523085b13c3392b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082777,
+            "localadmin_id":404519143,
+            "locality_id":85974545,
+            "neighbourhood_id":85849923,
+            "region_id":85688563,
+            "venue_id":873913057
+        }
+    ],
+    "wof:id":873913057,
+    "wof:lastmodified":1464300070,
+    "wof:name":"Martin Luther Home Residence",
+    "wof:parent_id":85849923,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "builder"
+    ]
+},
+  "bbox": [
+    -95.991393,
+    41.177301,
+    -95.991393,
+    41.177301
+],
+  "geometry": {"coordinates":[-95.991393,41.177301],"type":"Point"}
+}

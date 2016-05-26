@@ -1,0 +1,79 @@
+{
+  "id": 873655129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.137152,41.176345,-96.137152,41.176345",
+    "geom:latitude":41.176345,
+    "geom:longitude":-96.137152,
+    "iso:country":"US",
+    "sg:address":"14306 Giles Rd",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Glass & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 896 0900",
+    "sg:postcode":"68138",
+    "sg:province":"NE",
+    "sg:tags":[
+        "building",
+        "mfg",
+        "concrete",
+        "brick",
+        "block",
+        "structural"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85834285,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6VfuQtkPxWHPbbXEF03iEs_41.176345_-96.137152@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295647,
+    "wof:geomhash":"748ad4f37c3b18e2cad0763513f7dceb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85834285,
+            "region_id":85688563,
+            "venue_id":873655129
+        }
+    ],
+    "wof:id":873655129,
+    "wof:lastmodified":1464295647,
+    "wof:name":"Watkins Concrete Block Company",
+    "wof:parent_id":85834285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "mfg",
+        "concrete",
+        "brick",
+        "block",
+        "structural"
+    ]
+},
+  "bbox": [
+    -96.137152,
+    41.176345,
+    -96.137152,
+    41.176345
+],
+  "geometry": {"coordinates":[-96.137152,41.176345],"type":"Point"}
+}

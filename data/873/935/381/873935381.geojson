@@ -1,0 +1,91 @@
+{
+  "id": 873935381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.971858,41.257872,-95.971858,41.257872",
+    "geom:latitude":41.257872,
+    "geom:longitude":-95.971858,
+    "iso:country":"US",
+    "sg:address":"3852 Farnam St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 553 1178",
+    "sg:postcode":"68131",
+    "sg:province":"NE",
+    "sg:tags":[
+        "outdoor",
+        "specialty",
+        "contractor",
+        "lighting",
+        "hanging",
+        "merchandise"
+    ],
+    "sg:website":"www.briteidea.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872525,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5PdkkEGMuMgItX5e1raWrV_41.257872_-95.971858@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300507,
+    "wof:geomhash":"7ca8be53806c9123ff1a01c410607e67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872525,
+            "region_id":85688563,
+            "venue_id":873935381
+        }
+    ],
+    "wof:id":873935381,
+    "wof:lastmodified":1464300507,
+    "wof:name":"Brite Ideas Decorating Inc",
+    "wof:parent_id":85872525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "outdoor",
+        "specialty",
+        "contractor",
+        "lighting",
+        "hanging",
+        "merchandise"
+    ]
+},
+  "bbox": [
+    -95.971858,
+    41.257872,
+    -95.971858,
+    41.257872
+],
+  "geometry": {"coordinates":[-95.971858,41.257872],"type":"Point"}
+}

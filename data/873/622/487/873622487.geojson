@@ -1,0 +1,73 @@
+{
+  "id": 873622487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.695362,40.752092,-96.695362,40.752092",
+    "geom:latitude":40.752092,
+    "geom:longitude":-96.695362,
+    "iso:country":"US",
+    "sg:address":"5917 Branford Pl",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Chemicals & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 423 9062",
+    "sg:postcode":"68512",
+    "sg:province":"NE",
+    "sg:tags":[
+        "cleaning",
+        "compound"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_354AYJTcoLRUlfNgNWDqlU_40.752092_-96.695362@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295276,
+    "wof:geomhash":"a910dd7db61f79172fc34546b945badd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878709,
+            "region_id":85688563,
+            "venue_id":873622487
+        }
+    ],
+    "wof:id":873622487,
+    "wof:lastmodified":1464295276,
+    "wof:name":"Amway Distributors",
+    "wof:parent_id":85878709,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaning",
+        "compound"
+    ]
+},
+  "bbox": [
+    -96.695362,
+    40.752092,
+    -96.695362,
+    40.752092
+],
+  "geometry": {"coordinates":[-96.695362,40.752092],"type":"Point"}
+}

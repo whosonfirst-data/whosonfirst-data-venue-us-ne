@@ -1,0 +1,72 @@
+{
+  "id": 873960793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.1262,41.176077,-96.1262,41.176077",
+    "geom:latitude":41.176077,
+    "geom:longitude":-96.1262,
+    "iso:country":"US",
+    "sg:address":"13595 Giles Rd",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 932 5663",
+    "sg:postcode":"68136",
+    "sg:province":"NE",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "sg:website":"www.handelectric.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85834285,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_20jR6ZmX5hcjiHgIiLsTut_41.176077_-96.126200@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464301567,
+    "wof:geomhash":"3c450664118d5ac06b2cc899f47d7a7c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85834285,
+            "region_id":85688563,
+            "venue_id":873960793
+        }
+    ],
+    "wof:id":873960793,
+    "wof:lastmodified":1464301567,
+    "wof:name":"Hand Electric",
+    "wof:parent_id":85834285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.1262,
+    41.176077,
+    -96.1262,
+    41.176077
+],
+  "geometry": {"coordinates":[-96.1262,41.176077],"type":"Point"}
+}

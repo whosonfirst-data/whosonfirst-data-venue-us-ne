@@ -1,0 +1,71 @@
+{
+  "id": 873751201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.037254,41.161084,-96.037254,41.161084",
+    "geom:latitude":41.161084,
+    "geom:longitude":-96.037254,
+    "iso:country":"US",
+    "sg:address":"504 N Grandview Ave",
+    "sg:city":"Papillion",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 339 5802",
+    "sg:postcode":"68046",
+    "sg:province":"NE",
+    "sg:tags":[
+        "roofing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85843697,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6hBXpB6xwVTC4kLoKnxgsP_41.161084_-96.037254@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297091,
+    "wof:geomhash":"c21281d5f347a2ca554066fe76a4aa35",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85843697,
+            "region_id":85688563,
+            "venue_id":873751201
+        }
+    ],
+    "wof:id":873751201,
+    "wof:lastmodified":1464297091,
+    "wof:name":"Dillon Roofing",
+    "wof:parent_id":85843697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "roofing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.037254,
+    41.161084,
+    -96.037254,
+    41.161084
+],
+  "geometry": {"coordinates":[-96.037254,41.161084],"type":"Point"}
+}

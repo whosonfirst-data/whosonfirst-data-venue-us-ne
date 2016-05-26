@@ -1,0 +1,75 @@
+{
+  "id": 873887289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.630558,40.835098,-96.630558,40.835098",
+    "geom:latitude":40.835098,
+    "geom:longitude":-96.630558,
+    "iso:country":"US",
+    "sg:address":"2211 N Cotner Blvd",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 601 8955",
+    "sg:postcode":"68505",
+    "sg:province":"NE",
+    "sg:tags":[
+        "appliance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878725,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1bGX6gP34SqZEZK65DlwDy_40.835098_-96.630558@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299579,
+    "wof:geomhash":"4f442949d58bc752af398fe7851180a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878725,
+            "region_id":85688563,
+            "venue_id":873887289
+        }
+    ],
+    "wof:id":873887289,
+    "wof:lastmodified":1464299579,
+    "wof:name":"Action Appliance Svc",
+    "wof:parent_id":85878725,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appliance"
+    ]
+},
+  "bbox": [
+    -96.630558,
+    40.835098,
+    -96.630558,
+    40.835098
+],
+  "geometry": {"coordinates":[-96.63055799999999,40.835098],"type":"Point"}
+}

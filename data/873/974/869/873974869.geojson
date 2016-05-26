@@ -1,0 +1,70 @@
+{
+  "id": 873974869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.239641,41.145879,-96.239641,41.145879",
+    "geom:latitude":41.145879,
+    "geom:longitude":-96.239641,
+    "iso:country":"US",
+    "sg:address":"806 Village Sq",
+    "sg:city":"Gretna",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 916 9898",
+    "sg:postcode":"68028",
+    "sg:province":"NE",
+    "sg:tags":[
+        "pizza"
+    ],
+    "sg:website":"http://www.godfatherspizza.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85834285,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_76iwDkMSoZAtw2xw6guN8R_41.145842_-96.239574@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464302186,
+    "wof:geomhash":"4c4f7c05bae7c3f5d3bcb30003e1580d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85834285,
+            "region_id":85688563,
+            "venue_id":873974869
+        }
+    ],
+    "wof:id":873974869,
+    "wof:lastmodified":1464302186,
+    "wof:name":"Godfather's Pizza",
+    "wof:parent_id":85834285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pizza"
+    ]
+},
+  "bbox": [
+    -96.239641,
+    41.145879,
+    -96.239641,
+    41.145879
+],
+  "geometry": {"coordinates":[-96.23964100000001,41.145879],"type":"Point"}
+}

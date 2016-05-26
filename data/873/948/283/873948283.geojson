@@ -1,0 +1,71 @@
+{
+  "id": 873948283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.138866,41.152307,-96.138866,41.152307",
+    "geom:latitude":41.152307,
+    "geom:longitude":-96.138866,
+    "iso:country":"US",
+    "sg:address":"10809 S 144th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 895 3164",
+    "sg:postcode":"68138",
+    "sg:province":"NE",
+    "sg:tags":[
+        "crop",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85834285,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2X5WacRhAzTh3pwVLV7jgu_41.152307_-96.138866@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464301069,
+    "wof:geomhash":"fd6f23da98834e183ba457bba7cbd17c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85834285,
+            "region_id":85688563,
+            "venue_id":873948283
+        }
+    ],
+    "wof:id":873948283,
+    "wof:lastmodified":1464301069,
+    "wof:name":"Marvin Leaders",
+    "wof:parent_id":85834285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crop",
+        "general"
+    ]
+},
+  "bbox": [
+    -96.138866,
+    41.152307,
+    -96.138866,
+    41.152307
+],
+  "geometry": {"coordinates":[-96.13886599999999,41.152307],"type":"Point"}
+}

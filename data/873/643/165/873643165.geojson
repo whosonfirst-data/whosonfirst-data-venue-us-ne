@@ -1,0 +1,70 @@
+{
+  "id": 873643165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.055807,41.284992,-96.055807,41.284992",
+    "geom:latitude":41.284992,
+    "geom:longitude":-96.055807,
+    "iso:country":"US",
+    "sg:address":"9009 Maple St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 399 5222",
+    "sg:postcode":"68134",
+    "sg:province":"NE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867061,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3YYKWUGLVPCftFTWwQ3NFY_41.284992_-96.055807@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295514,
+    "wof:geomhash":"bdfdc891f5894aa11ee806a47076aa48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85867061,
+            "region_id":85688563,
+            "venue_id":873643165
+        }
+    ],
+    "wof:id":873643165,
+    "wof:lastmodified":1464295514,
+    "wof:name":"American National Bank",
+    "wof:parent_id":85867061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.055807,
+    41.284992,
+    -96.055807,
+    41.284992
+],
+  "geometry": {"coordinates":[-96.055807,41.284992],"type":"Point"}
+}

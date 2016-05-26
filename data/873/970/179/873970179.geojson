@@ -1,0 +1,84 @@
+{
+  "id": 873970179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.044231,41.277831,-96.044231,41.277831",
+    "geom:latitude":41.277831,
+    "geom:longitude":-96.044231,
+    "iso:country":"US",
+    "sg:address":"8415 Blondo St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 397 3100",
+    "sg:postcode":"68134",
+    "sg:province":"NE",
+    "sg:tags":[
+        "plate",
+        "glass-auto",
+        "glazing",
+        "window",
+        "contractor"
+    ],
+    "sg:website":"http://www.huskerglass.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867061,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_31tqANFFr7dJTkxvFCPMXm_41.277734_-96.044398@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464301989,
+    "wof:geomhash":"569b5405c056c7ddeafdc3c77e64761f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85867061,
+            "region_id":85688563,
+            "venue_id":873970179
+        }
+    ],
+    "wof:id":873970179,
+    "wof:lastmodified":1464301989,
+    "wof:name":"Husker Glass Inc",
+    "wof:parent_id":85867061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plate",
+        "glass-auto",
+        "glazing",
+        "window",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.044231,
+    41.277831,
+    -96.044231,
+    41.277831
+],
+  "geometry": {"coordinates":[-96.044231,41.277831],"type":"Point"}
+}

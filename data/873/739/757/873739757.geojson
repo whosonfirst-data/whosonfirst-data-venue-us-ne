@@ -1,0 +1,73 @@
+{
+  "id": 873739757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.901559,41.137491,-95.901559,41.137491",
+    "geom:latitude":41.137491,
+    "geom:longitude":-95.901559,
+    "iso:country":"US",
+    "sg:address":"607 W 22nd Ave",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 293 8819",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974747,
+        102082777,
+        85820061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2beEvKB5u23BI2o2wyHjjR_41.137491_-95.901559@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296916,
+    "wof:geomhash":"d554892274f417c2716e78364e7037e3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974747,
+            "neighbourhood_id":85820061,
+            "region_id":85688563,
+            "venue_id":873739757
+        }
+    ],
+    "wof:id":873739757,
+    "wof:lastmodified":1464296916,
+    "wof:name":"Francois Construction Inc",
+    "wof:parent_id":85820061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -95.901559,
+    41.137491,
+    -95.901559,
+    41.137491
+],
+  "geometry": {"coordinates":[-95.90155900000001,41.137491],"type":"Point"}
+}

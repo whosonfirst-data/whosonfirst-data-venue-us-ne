@@ -1,0 +1,78 @@
+{
+  "id": 873729239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.098473,41.283414,-96.098473,41.283414",
+    "geom:latitude":41.283414,
+    "geom:longitude":-96.098473,
+    "iso:country":"US",
+    "sg:address":"2810 N 118th Cir",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"College",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 682 5200",
+    "sg:postcode":"68164",
+    "sg:province":"NE",
+    "sg:tags":[
+        "academic",
+        "school"
+    ],
+    "sg:website":"www.bellevue.edu",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872503,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ERsQ9RCCyEKXY5wg7EmVb_41.283414_-96.098473@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296770,
+    "wof:geomhash":"cbe72b3bc5a410f53ccce75de2d41c8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872503,
+            "region_id":85688563,
+            "venue_id":873729239
+        }
+    ],
+    "wof:id":873729239,
+    "wof:lastmodified":1464296770,
+    "wof:name":"Bellevue University",
+    "wof:parent_id":85872503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "academic",
+        "school"
+    ]
+},
+  "bbox": [
+    -96.098473,
+    41.283414,
+    -96.098473,
+    41.283414
+],
+  "geometry": {"coordinates":[-96.098473,41.283414],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873863737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.253508,41.165579,-96.253508,41.165579",
+    "geom:latitude":41.165579,
+    "geom:longitude":-96.253508,
+    "iso:country":"US",
+    "sg:address":"9510 S 216th St",
+    "sg:city":"Gretna",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 332 3448",
+    "sg:postcode":"68028",
+    "sg:province":"NE",
+    "sg:tags":[
+        "distance",
+        "long",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85834285,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2doZERkkT88TOJBS4rlqJn_41.165579_-96.253508@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299109,
+    "wof:geomhash":"5b68f617e61ac5671295a28bfe3c44f7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85834285,
+            "region_id":85688563,
+            "venue_id":873863737
+        }
+    ],
+    "wof:id":873863737,
+    "wof:lastmodified":1464299109,
+    "wof:name":"True Trucking",
+    "wof:parent_id":85834285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "distance",
+        "long",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -96.253508,
+    41.165579,
+    -96.253508,
+    41.165579
+],
+  "geometry": {"coordinates":[-96.253508,41.165579],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 873959195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.052696,41.306012,-96.052696,41.306012",
+    "geom:latitude":41.306012,
+    "geom:longitude":-96.052696,
+    "iso:country":"US",
+    "sg:address":"5152 N 90th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Podiatrist",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 571 3531",
+    "sg:postcode":"68134",
+    "sg:province":"NE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867061,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5bUyncx3RxiEwdEJToketR_41.306012_-96.052696@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464301494,
+    "wof:geomhash":"dc74e7a8cb070d734570667c3b3fc500",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85867061,
+            "region_id":85688563,
+            "venue_id":873959195
+        }
+    ],
+    "wof:id":873959195,
+    "wof:lastmodified":1464301494,
+    "wof:name":"Ambulatory Foot Center",
+    "wof:parent_id":85867061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.052696,
+    41.306012,
+    -96.052696,
+    41.306012
+],
+  "geometry": {"coordinates":[-96.052696,41.306012],"type":"Point"}
+}

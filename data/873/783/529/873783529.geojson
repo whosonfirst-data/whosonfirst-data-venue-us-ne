@@ -1,0 +1,71 @@
+{
+  "id": 873783529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.072895,41.304023,-96.072895,41.304023",
+    "geom:latitude":41.304023,
+    "geom:longitude":-96.072895,
+    "iso:country":"US",
+    "sg:address":"10294 Saratoga St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 493 3093",
+    "sg:postcode":"68134",
+    "sg:province":"NE",
+    "sg:tags":[
+        "cosmetic",
+        "perfume"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85872505,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ia9Mj6vC6k50DTQXbZg3v_41.304023_-96.072895@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297537,
+    "wof:geomhash":"723fc378b0b1f54d2c0053a2bb5dc465",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":873783529
+        }
+    ],
+    "wof:id":873783529,
+    "wof:lastmodified":1464297537,
+    "wof:name":"Woodard Cosmetics",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cosmetic",
+        "perfume"
+    ]
+},
+  "bbox": [
+    -96.072895,
+    41.304023,
+    -96.072895,
+    41.304023
+],
+  "geometry": {"coordinates":[-96.072895,41.304023],"type":"Point"}
+}

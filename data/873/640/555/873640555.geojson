@@ -1,0 +1,70 @@
+{
+  "id": 873640555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.075052,41.308988,-96.075052,41.308988",
+    "geom:latitude":41.308988,
+    "geom:longitude":-96.075052,
+    "iso:country":"US",
+    "sg:address":"5305 N 103rd St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 493 0514",
+    "sg:postcode":"68134",
+    "sg:province":"NE",
+    "sg:tags":[
+        "oil"
+    ],
+    "sg:website":"www.sinclairoil.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85872505,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2fvqICb5VqNydJmljAJHVr_41.308988_-96.075052@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295483,
+    "wof:geomhash":"cd8cb7ed2fa1771ae42eb8c7c4da2fe6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":873640555
+        }
+    ],
+    "wof:id":873640555,
+    "wof:lastmodified":1464295483,
+    "wof:name":"Sinclair Oil Corp",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil"
+    ]
+},
+  "bbox": [
+    -96.075052,
+    41.308988,
+    -96.075052,
+    41.308988
+],
+  "geometry": {"coordinates":[-96.075052,41.308988],"type":"Point"}
+}

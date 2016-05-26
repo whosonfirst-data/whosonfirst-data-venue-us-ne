@@ -1,0 +1,71 @@
+{
+  "id": 873629041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.624925,40.784919,-96.624925,40.784919",
+    "geom:latitude":40.784919,
+    "geom:longitude":-96.624925,
+    "iso:country":"US",
+    "sg:address":"2710 S 70th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 483 7000",
+    "sg:postcode":"68506",
+    "sg:province":"NE",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0BJ08YKqhwMQ14ftD03BqM_40.784919_-96.624925@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295350,
+    "wof:geomhash":"71f6626c1026784ad8a0e84c05df4406",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878697,
+            "region_id":85688563,
+            "venue_id":873629041
+        }
+    ],
+    "wof:id":873629041,
+    "wof:lastmodified":1464295350,
+    "wof:name":"Family Dentistry",
+    "wof:parent_id":85878697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -96.624925,
+    40.784919,
+    -96.624925,
+    40.784919
+],
+  "geometry": {"coordinates":[-96.624925,40.784919],"type":"Point"}
+}

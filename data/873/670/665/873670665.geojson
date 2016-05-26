@@ -1,0 +1,80 @@
+{
+  "id": 873670665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.00655,41.285826,-96.00655,41.285826",
+    "geom:latitude":41.285826,
+    "geom:longitude":-96.00655,
+    "iso:country":"US",
+    "sg:address":"6035 Binney St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        },
+        {
+            "category":"Farming",
+            "subcategory":"Farm & Veterinary Services",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 556 2070",
+    "sg:postcode":"68104",
+    "sg:province":"NE",
+    "sg:tags":[
+        "business"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872535,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_61jVPFVmcdHcA8fqNhLWeO_41.285826_-96.006550@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295808,
+    "wof:geomhash":"08f85fee32b6d7904392830ef7417fe7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872535,
+            "region_id":85688563,
+            "venue_id":873670665
+        }
+    ],
+    "wof:id":873670665,
+    "wof:lastmodified":1464295808,
+    "wof:name":"Agricultural Management",
+    "wof:parent_id":85872535,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "business"
+    ]
+},
+  "bbox": [
+    -96.00655,
+    41.285826,
+    -96.00655,
+    41.285826
+],
+  "geometry": {"coordinates":[-96.00655,41.285826],"type":"Point"}
+}

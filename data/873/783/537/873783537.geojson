@@ -1,0 +1,78 @@
+{
+  "id": 873783537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.02398,41.289091,-96.02398,41.289091",
+    "geom:latitude":41.289091,
+    "geom:longitude":-96.02398,
+    "iso:country":"US",
+    "sg:address":"3330 N 72nd St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 571 4100",
+    "sg:postcode":"68134",
+    "sg:province":"NE",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "sg:website":"www.aamco.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872515,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6CHFUd9CZXjJQjD2oJE2U0_41.289091_-96.023980@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297537,
+    "wof:geomhash":"5f171ddddd57df8284333d54e9eec108",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872515,
+            "region_id":85688563,
+            "venue_id":873783537
+        }
+    ],
+    "wof:id":873783537,
+    "wof:lastmodified":1464297537,
+    "wof:name":"AAMCO Transmissions",
+    "wof:parent_id":85872515,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -96.02398,
+    41.289091,
+    -96.02398,
+    41.289091
+],
+  "geometry": {"coordinates":[-96.02397999999999,41.289091],"type":"Point"}
+}

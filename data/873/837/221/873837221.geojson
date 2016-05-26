@@ -1,0 +1,75 @@
+{
+  "id": 873837221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.650035,40.804381,-96.650035,40.804381",
+    "geom:latitude":40.804381,
+    "geom:longitude":-96.650035,
+    "iso:country":"US",
+    "sg:address":"850 S 51st St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 489 7528",
+    "sg:postcode":"68510",
+    "sg:province":"NE",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878703,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3rIpYk9sBT2S2XIJini06Q_40.804381_-96.650035@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298489,
+    "wof:geomhash":"87e43ae94af8b6203789b34d6db9a596",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878703,
+            "region_id":85688563,
+            "venue_id":873837221
+        }
+    ],
+    "wof:id":873837221,
+    "wof:lastmodified":1464298489,
+    "wof:name":"Holle Home Improvement",
+    "wof:parent_id":85878703,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -96.650035,
+    40.804381,
+    -96.650035,
+    40.804381
+],
+  "geometry": {"coordinates":[-96.650035,40.804381],"type":"Point"}
+}

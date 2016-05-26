@@ -1,0 +1,69 @@
+{
+  "id": 873909145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.143768,41.153121,-96.143768,41.153121",
+    "geom:latitude":41.153121,
+    "geom:longitude":-96.143768,
+    "iso:country":"US",
+    "sg:address":"10611 S 147th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 895 5788",
+    "sg:postcode":"68138",
+    "sg:province":"NE",
+    "sg:tags":[
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85834285,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5whoktxMju8qoc5qOGbUfm_41.153121_-96.143768@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299996,
+    "wof:geomhash":"744759644fa30f4c249be7b46c0acffe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85834285,
+            "region_id":85688563,
+            "venue_id":873909145
+        }
+    ],
+    "wof:id":873909145,
+    "wof:lastmodified":1464299996,
+    "wof:name":"Wicks Sterling Body Shop",
+    "wof:parent_id":85834285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [
+    -96.143768,
+    41.153121,
+    -96.143768,
+    41.153121
+],
+  "geometry": {"coordinates":[-96.14376799999999,41.153121],"type":"Point"}
+}

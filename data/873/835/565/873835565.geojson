@@ -1,0 +1,71 @@
+{
+  "id": 873835565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.053459,41.317795,-96.053459,41.317795",
+    "geom:latitude":41.317795,
+    "geom:longitude":-96.053459,
+    "iso:country":"US",
+    "sg:address":"6612 Irvington Rd",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 572 8905",
+    "sg:postcode":"68122",
+    "sg:province":"NE",
+    "sg:tags":[
+        "band",
+        "radio"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85872505,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6cKhCazCH5fkyZEOjN8KDU_41.317795_-96.053459@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298456,
+    "wof:geomhash":"6697ae30819b39bf415fdae7fa7cd5cd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":873835565
+        }
+    ],
+    "wof:id":873835565,
+    "wof:lastmodified":1464298456,
+    "wof:name":"Randy's CB Svc & Sales",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "band",
+        "radio"
+    ]
+},
+  "bbox": [
+    -96.053459,
+    41.317795,
+    -96.053459,
+    41.317795
+],
+  "geometry": {"coordinates":[-96.053459,41.317795],"type":"Point"}
+}

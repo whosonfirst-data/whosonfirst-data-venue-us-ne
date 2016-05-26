@@ -1,0 +1,75 @@
+{
+  "id": 873841909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.001313,41.284932,-96.001313,41.284932",
+    "geom:latitude":41.284932,
+    "geom:longitude":-96.001313,
+    "iso:country":"US",
+    "sg:address":"5709 NW Radial Hwy",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 551 8352",
+    "sg:postcode":"68104",
+    "sg:province":"NE",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872535,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5NUkJnWXTF0Rw9zHxWPMQ8_41.284932_-96.001313@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298599,
+    "wof:geomhash":"80d67b90c8356951af3e6bc6f2847f33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872535,
+            "region_id":85688563,
+            "venue_id":873841909
+        }
+    ],
+    "wof:id":873841909,
+    "wof:lastmodified":1464298599,
+    "wof:name":"Custom Dental Lab",
+    "wof:parent_id":85872535,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -96.001313,
+    41.284932,
+    -96.001313,
+    41.284932
+],
+  "geometry": {"coordinates":[-96.001313,41.284932],"type":"Point"}
+}

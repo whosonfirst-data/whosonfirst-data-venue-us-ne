@@ -1,0 +1,69 @@
+{
+  "id": 873580661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.233654,41.149625,-96.233654,41.149625",
+    "geom:latitude":41.149625,
+    "geom:longitude":-96.233654,
+    "iso:country":"US",
+    "sg:address":"20379 Patton St",
+    "sg:city":"Gretna",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 332 0088",
+    "sg:postcode":"68028",
+    "sg:province":"NE",
+    "sg:tags":[
+        "arrangement"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85834285,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_52Xw0mI9fybzYeBOw060Uw_41.149625_-96.233654@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294728,
+    "wof:geomhash":"b7b6c5cfbfb40cbe5ea055cb28dc1e01",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85834285,
+            "region_id":85688563,
+            "venue_id":873580661
+        }
+    ],
+    "wof:id":873580661,
+    "wof:lastmodified":1464294728,
+    "wof:name":"Distribution Services",
+    "wof:parent_id":85834285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "arrangement"
+    ]
+},
+  "bbox": [
+    -96.233654,
+    41.149625,
+    -96.233654,
+    41.149625
+],
+  "geometry": {"coordinates":[-96.233654,41.149625],"type":"Point"}
+}

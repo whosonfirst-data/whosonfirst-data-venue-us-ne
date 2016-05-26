@@ -1,0 +1,71 @@
+{
+  "id": 873957801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.908029,41.150577,-95.908029,41.150577",
+    "geom:latitude":41.150577,
+    "geom:longitude":-95.908029,
+    "iso:country":"US",
+    "sg:address":"1004 Lincoln Rd",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 681 7345",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85804025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2XWyALn6Qt0v0qa50THp9q_41.150577_-95.908029@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464301433,
+    "wof:geomhash":"b7bec1dbbef11b7014732337ccd460b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85804025,
+            "region_id":85688563,
+            "venue_id":873957801
+        }
+    ],
+    "wof:id":873957801,
+    "wof:lastmodified":1464301433,
+    "wof:name":"Painting Co",
+    "wof:parent_id":85804025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -95.908029,
+    41.150577,
+    -95.908029,
+    41.150577
+],
+  "geometry": {"coordinates":[-95.908029,41.150577],"type":"Point"}
+}

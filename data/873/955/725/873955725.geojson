@@ -1,0 +1,77 @@
+{
+  "id": 873955725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.690334,40.847632,-96.690334,40.847632",
+    "geom:latitude":40.847632,
+    "geom:longitude":-96.690334,
+    "iso:country":"US",
+    "sg:address":"2401 Fairfield St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 477 4426",
+    "sg:postcode":"68521",
+    "sg:province":"NE",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878721,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5mJNOfYJEZk5w3YO3IJKGy_40.847632_-96.690334@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464301363,
+    "wof:geomhash":"cff1672725b11da9e2cffc4a63efd950",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878721,
+            "region_id":85688563,
+            "venue_id":873955725
+        }
+    ],
+    "wof:id":873955725,
+    "wof:lastmodified":1464301363,
+    "wof:name":"Mid America Motors",
+    "wof:parent_id":85878721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -96.690334,
+    40.847632,
+    -96.690334,
+    40.847632
+],
+  "geometry": {"coordinates":[-96.69033399999999,40.847632],"type":"Point"}
+}

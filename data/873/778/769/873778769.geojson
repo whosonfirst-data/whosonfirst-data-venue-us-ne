@@ -1,0 +1,71 @@
+{
+  "id": 873778769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.366842,41.438794,-97.366842,41.438794",
+    "geom:latitude":41.438794,
+    "geom:longitude":-97.366842,
+    "iso:country":"US",
+    "sg:address":"2476 32nd Ave",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Shoe Repair & Shine",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 564 9939",
+    "sg:postcode":"68601",
+    "sg:province":"NE",
+    "sg:tags":[
+        "sh"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974401,
+        102084277,
+        85854093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0w4LWr5utQOTzAUHXO5s65_41.438794_-97.366842@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297473,
+    "wof:geomhash":"c0a20453411fb9044aaf052076d1fd3e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084277,
+            "locality_id":85974401,
+            "neighbourhood_id":85854093,
+            "region_id":85688563,
+            "venue_id":873778769
+        }
+    ],
+    "wof:id":873778769,
+    "wof:lastmodified":1464297473,
+    "wof:name":"Village Cobbler",
+    "wof:parent_id":85854093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sh"
+    ]
+},
+  "bbox": [
+    -97.366842,
+    41.438794,
+    -97.366842,
+    41.438794
+],
+  "geometry": {"coordinates":[-97.36684200000001,41.438794],"type":"Point"}
+}

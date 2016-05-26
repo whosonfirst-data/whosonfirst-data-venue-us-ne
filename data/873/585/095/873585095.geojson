@@ -1,0 +1,73 @@
+{
+  "id": 873585095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.559077,40.70323,-96.559077,40.70323",
+    "geom:latitude":40.70323,
+    "geom:longitude":-96.559077,
+    "iso:country":"US",
+    "sg:address":"10800 S 120th St",
+    "sg:city":"Bennet",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 782 8035",
+    "sg:postcode":"68317",
+    "sg:province":"NE",
+    "sg:tags":[
+        "retaining",
+        "wall"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6VlUDOG3fPWF0kZRxaelOg_40.703230_-96.559077@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294774,
+    "wof:geomhash":"b2b1bcc745fbbf23b720ac661b8ba06b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878685,
+            "region_id":85688563,
+            "venue_id":873585095
+        }
+    ],
+    "wof:id":873585095,
+    "wof:lastmodified":1464294774,
+    "wof:name":"AAA Contractors",
+    "wof:parent_id":85878685,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "retaining",
+        "wall"
+    ]
+},
+  "bbox": [
+    -96.559077,
+    40.70323,
+    -96.559077,
+    40.70323
+],
+  "geometry": {"coordinates":[-96.559077,40.70323],"type":"Point"}
+}

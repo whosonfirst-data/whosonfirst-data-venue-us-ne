@@ -1,0 +1,71 @@
+{
+  "id": 873950079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.060411,41.310658,-96.060411,41.310658",
+    "geom:latitude":41.310658,
+    "geom:longitude":-96.060411,
+    "iso:country":"US",
+    "sg:address":"5618 N Oaks Blvd",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Dance Studio",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 691 8155",
+    "sg:postcode":"68134",
+    "sg:province":"NE",
+    "sg:tags":[
+        "square",
+        "caller"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85872505,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4TZw5vLZckEJVGSpORyUba_41.310658_-96.060411@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464301152,
+    "wof:geomhash":"2a01945301c193925e00f7dc69523e9b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":873950079
+        }
+    ],
+    "wof:id":873950079,
+    "wof:lastmodified":1464301152,
+    "wof:name":"Omaha Area Counsel Sq Dance",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "square",
+        "caller"
+    ]
+},
+  "bbox": [
+    -96.060411,
+    41.310658,
+    -96.060411,
+    41.310658
+],
+  "geometry": {"coordinates":[-96.060411,41.310658],"type":"Point"}
+}

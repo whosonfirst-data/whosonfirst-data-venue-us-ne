@@ -1,0 +1,77 @@
+{
+  "id": 873611471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.705968,40.814837,-96.705968,40.814837",
+    "geom:latitude":40.814837,
+    "geom:longitude":-96.705968,
+    "iso:country":"US",
+    "sg:address":"1040 P St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 474 1111",
+    "sg:postcode":"68508",
+    "sg:province":"NE",
+    "sg:tags":[
+        "operation",
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878699,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2sdNFet4g2br6vVosn73ki_40.814837_-96.705968@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295159,
+    "wof:geomhash":"c1b44286564e59d304dee1f3fd025076",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878699,
+            "region_id":85688563,
+            "venue_id":873611471
+        }
+    ],
+    "wof:id":873611471,
+    "wof:lastmodified":1464295159,
+    "wof:name":"Embassy Suites",
+    "wof:parent_id":85878699,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operation",
+        "eating"
+    ]
+},
+  "bbox": [
+    -96.705968,
+    40.814837,
+    -96.705968,
+    40.814837
+],
+  "geometry": {"coordinates":[-96.705968,40.814837],"type":"Point"}
+}

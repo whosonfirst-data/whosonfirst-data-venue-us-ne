@@ -1,0 +1,77 @@
+{
+  "id": 873538799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.718304,40.796004,-96.718304,40.796004",
+    "geom:latitude":40.796004,
+    "geom:longitude":-96.718304,
+    "iso:country":"US",
+    "sg:address":"1635 S 3rd St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 474 7761",
+    "sg:postcode":"68502",
+    "sg:province":"NE",
+    "sg:tags":[
+        "mechanical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878737,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4gfrljyumjOK8bktkdFpFZ_40.796004_-96.718304@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294247,
+    "wof:geomhash":"04e2a133e78f749bff8d5655f63b33dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878737,
+            "region_id":85688563,
+            "venue_id":873538799
+        }
+    ],
+    "wof:id":873538799,
+    "wof:lastmodified":1464294247,
+    "wof:name":"Mechanical Western Of Lincoln",
+    "wof:parent_id":85878737,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mechanical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.718304,
+    40.796004,
+    -96.718304,
+    40.796004
+],
+  "geometry": {"coordinates":[-96.718304,40.796004],"type":"Point"}
+}

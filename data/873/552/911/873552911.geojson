@@ -1,0 +1,79 @@
+{
+  "id": 873552911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.702996,40.793783,-96.702996,40.793783",
+    "geom:latitude":40.793783,
+    "geom:longitude":-96.702996,
+    "iso:country":"US",
+    "sg:address":"1220 Peach St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 525 6345",
+    "sg:postcode":"68502",
+    "sg:province":"NE",
+    "sg:tags":[
+        "water",
+        "restoration",
+        "damage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878705,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_61lU5fMgxKrzRIWTuqivk8_40.793783_-96.702996@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294411,
+    "wof:geomhash":"80d711a9f57bfdb5f81a402375dfa9bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878705,
+            "region_id":85688563,
+            "venue_id":873552911
+        }
+    ],
+    "wof:id":873552911,
+    "wof:lastmodified":1464294411,
+    "wof:name":"Disaster Restoration Systems",
+    "wof:parent_id":85878705,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "water",
+        "restoration",
+        "damage"
+    ]
+},
+  "bbox": [
+    -96.702996,
+    40.793783,
+    -96.702996,
+    40.793783
+],
+  "geometry": {"coordinates":[-96.702996,40.793783],"type":"Point"}
+}

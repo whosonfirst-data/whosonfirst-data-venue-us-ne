@@ -1,0 +1,71 @@
+{
+  "id": 873636727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.618704,40.783766,-96.618704,40.783766",
+    "geom:latitude":40.783766,
+    "geom:longitude":-96.618704,
+    "iso:country":"US",
+    "sg:address":"7410 Wren Cir",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 483 7777",
+    "sg:postcode":"68506",
+    "sg:province":"NE",
+    "sg:tags":[
+        "developer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2F2UBseu2aAnhAw6gbnbgj_40.783766_-96.618704@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295441,
+    "wof:geomhash":"5a8732874ce3bba14c6a5ec29dec40f5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878697,
+            "region_id":85688563,
+            "venue_id":873636727
+        }
+    ],
+    "wof:id":873636727,
+    "wof:lastmodified":1464295441,
+    "wof:name":"Laura Pastore Office",
+    "wof:parent_id":85878697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "developer"
+    ]
+},
+  "bbox": [
+    -96.618704,
+    40.783766,
+    -96.618704,
+    40.783766
+],
+  "geometry": {"coordinates":[-96.61870399999999,40.783766],"type":"Point"}
+}

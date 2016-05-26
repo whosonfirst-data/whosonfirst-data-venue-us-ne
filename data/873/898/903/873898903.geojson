@@ -1,0 +1,73 @@
+{
+  "id": 873898903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.110878,41.310029,-96.110878,41.310029",
+    "geom:latitude":41.310029,
+    "geom:longitude":-96.110878,
+    "iso:country":"US",
+    "sg:address":"5915 N 126th Ave",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 498 9621",
+    "sg:postcode":"68164",
+    "sg:province":"NE",
+    "sg:tags":[
+        "repairing",
+        "remodeling",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85872505,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_47wf40mX3142LxppU9KgqT_41.310029_-96.110878@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299797,
+    "wof:geomhash":"971fe805ae8ec08eb1203dc906b0098c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":873898903
+        }
+    ],
+    "wof:id":873898903,
+    "wof:lastmodified":1464299797,
+    "wof:name":"R D Bower Construction Inc",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "remodeling",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.110878,
+    41.310029,
+    -96.110878,
+    41.310029
+],
+  "geometry": {"coordinates":[-96.110878,41.310029],"type":"Point"}
+}

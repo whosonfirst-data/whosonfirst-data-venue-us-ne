@@ -1,0 +1,69 @@
+{
+  "id": 873681545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.158392,41.346727,-96.158392,41.346727",
+    "geom:latitude":41.346727,
+    "geom:longitude":-96.158392,
+    "iso:country":"US",
+    "sg:address":"9609 N 156th St",
+    "sg:city":"Bennington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 238 3247",
+    "sg:postcode":"68007",
+    "sg:province":"NE",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85872505,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6oJGlTKTfJslxE3Gy7Vrkb_41.346727_-96.158392@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296039,
+    "wof:geomhash":"5f39c69a549853541ae6cb3f4b0a7468",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":873681545
+        }
+    ],
+    "wof:id":873681545,
+    "wof:lastmodified":1464296039,
+    "wof:name":"Tom Nick",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -96.158392,
+    41.346727,
+    -96.158392,
+    41.346727
+],
+  "geometry": {"coordinates":[-96.15839200000001,41.346727],"type":"Point"}
+}

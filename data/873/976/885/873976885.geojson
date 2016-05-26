@@ -1,0 +1,78 @@
+{
+  "id": 873976885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.680042,40.813088,-96.680042,40.813088",
+    "geom:latitude":40.813088,
+    "geom:longitude":-96.680042,
+    "iso:country":"US",
+    "sg:address":"111 S 29th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ne/lincoln/109385-village-inn/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 476 6525",
+    "sg:postcode":"68510",
+    "sg:province":"NE",
+    "sg:tags":[
+        "new",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878723,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7CUyiwzlbylWPYREGfcioJ_40.813088_-96.680042@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464302257,
+    "wof:geomhash":"53ae7852dd84d336669f71d343f6f7bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878723,
+            "region_id":85688563,
+            "venue_id":873976885
+        }
+    ],
+    "wof:id":873976885,
+    "wof:lastmodified":1464302257,
+    "wof:name":"Village Inn",
+    "wof:parent_id":85878723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "new",
+        "american"
+    ]
+},
+  "bbox": [
+    -96.680042,
+    40.813088,
+    -96.680042,
+    40.813088
+],
+  "geometry": {"coordinates":[-96.680042,40.813088],"type":"Point"}
+}

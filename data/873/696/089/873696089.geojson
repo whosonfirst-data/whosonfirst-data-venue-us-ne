@@ -1,0 +1,73 @@
+{
+  "id": 873696089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.040388,41.156492,-96.040388,41.156492",
+    "geom:latitude":41.156492,
+    "geom:longitude":-96.040388,
+    "iso:country":"US",
+    "sg:address":"212 E 1st St",
+    "sg:city":"Papillion",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 614 3131",
+    "sg:postcode":"68046",
+    "sg:province":"NE",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85843697,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1KvQVPZxZkwxJog5SaV94i_41.156492_-96.040388@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296367,
+    "wof:geomhash":"a0da71236e07c1d28e7c2ed3097a897b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85843697,
+            "region_id":85688563,
+            "venue_id":873696089
+        }
+    ],
+    "wof:id":873696089,
+    "wof:lastmodified":1464296367,
+    "wof:name":"M D Body & Specialty LLC",
+    "wof:parent_id":85843697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -96.040388,
+    41.156492,
+    -96.040388,
+    41.156492
+],
+  "geometry": {"coordinates":[-96.04038799999999,41.156492],"type":"Point"}
+}

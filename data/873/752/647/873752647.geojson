@@ -1,0 +1,78 @@
+{
+  "id": 873752647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.023817,41.258065,-96.023817,41.258065",
+    "geom:latitude":41.258065,
+    "geom:longitude":-96.023817,
+    "iso:country":"US",
+    "sg:address":"209 S 72nd St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Mobile Phone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 391 1046",
+    "sg:postcode":"68114",
+    "sg:province":"NE",
+    "sg:tags":[
+        "telephone",
+        "cellular"
+    ],
+    "sg:website":"www.sprintpcs.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872507,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3NBS1GmAtBCCA9rkOQQCzB_41.258065_-96.023817@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297113,
+    "wof:geomhash":"ac4ed27fd3896e29f019f6dcd82040c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872507,
+            "region_id":85688563,
+            "venue_id":873752647
+        }
+    ],
+    "wof:id":873752647,
+    "wof:lastmodified":1464297113,
+    "wof:name":"Sprint PCS",
+    "wof:parent_id":85872507,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "telephone",
+        "cellular"
+    ]
+},
+  "bbox": [
+    -96.023817,
+    41.258065,
+    -96.023817,
+    41.258065
+],
+  "geometry": {"coordinates":[-96.02381699999999,41.258065],"type":"Point"}
+}

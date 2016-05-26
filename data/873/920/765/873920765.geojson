@@ -1,0 +1,73 @@
+{
+  "id": 873920765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.115072,41.309153,-96.115072,41.309153",
+    "geom:latitude":41.309153,
+    "geom:longitude":-96.115072,
+    "iso:country":"US",
+    "sg:address":"5417 N 129th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 212 2217",
+    "sg:postcode":"68164",
+    "sg:province":"NE",
+    "sg:tags":[
+        "builder",
+        "patio",
+        "deck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85872505,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Q2iU3iocK4PMZP6wAIzxv_41.309153_-96.115072@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300224,
+    "wof:geomhash":"0b27b49768c63cab8d2a23af32d4d468",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":873920765
+        }
+    ],
+    "wof:id":873920765,
+    "wof:lastmodified":1464300224,
+    "wof:name":"Deckstyle",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "builder",
+        "patio",
+        "deck"
+    ]
+},
+  "bbox": [
+    -96.115072,
+    41.309153,
+    -96.115072,
+    41.309153
+],
+  "geometry": {"coordinates":[-96.115072,41.309153],"type":"Point"}
+}

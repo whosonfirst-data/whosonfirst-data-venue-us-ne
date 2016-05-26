@@ -1,0 +1,72 @@
+{
+  "id": 873977037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.604234,40.736686,-96.604234,40.736686",
+    "geom:latitude":40.736686,
+    "geom:longitude":-96.604234,
+    "iso:country":"US",
+    "sg:address":"8500 Andermatt Dr",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ne/lincoln/91972-back-yard-burgers/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 489 4300",
+    "sg:postcode":"68526",
+    "sg:province":"NE",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1eFUKSEABw5LYsP8aBURnN_40.736686_-96.604234@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464302262,
+    "wof:geomhash":"5449852dad87820a69e85562dbe9193a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878685,
+            "region_id":85688563,
+            "venue_id":873977037
+        }
+    ],
+    "wof:id":873977037,
+    "wof:lastmodified":1464302262,
+    "wof:name":"Back Yard Burgers",
+    "wof:parent_id":85878685,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -96.604234,
+    40.736686,
+    -96.604234,
+    40.736686
+],
+  "geometry": {"coordinates":[-96.60423400000001,40.736686],"type":"Point"}
+}

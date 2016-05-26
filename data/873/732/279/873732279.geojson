@@ -1,0 +1,75 @@
+{
+  "id": 873732279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.158004,41.278992,-96.158004,41.278992",
+    "geom:latitude":41.278992,
+    "geom:longitude":-96.158004,
+    "iso:country":"US",
+    "sg:address":"2059 N 156th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 965 9100",
+    "sg:postcode":"68116",
+    "sg:province":"NE",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85806957,
+        102191575,
+        404519987,
+        85633793,
+        85973479,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6wwBioy4qhfwHqJOYEzpN9_41.278992_-96.158004@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296807,
+    "wof:geomhash":"87e103167a267a9da01967fd3906ad9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404519987,
+            "locality_id":85973479,
+            "neighbourhood_id":85806957,
+            "region_id":85688563,
+            "venue_id":873732279
+        }
+    ],
+    "wof:id":873732279,
+    "wof:lastmodified":1464296807,
+    "wof:name":"Midwest Neurolgy Center",
+    "wof:parent_id":85806957,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -96.158004,
+    41.278992,
+    -96.158004,
+    41.278992
+],
+  "geometry": {"coordinates":[-96.15800400000001,41.278992],"type":"Point"}
+}

@@ -1,0 +1,87 @@
+{
+  "id": 873977963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.121987,41.206194,-96.121987,41.206194",
+    "geom:latitude":41.206194,
+    "geom:longitude":-96.121987,
+    "iso:country":"US",
+    "sg:address":"5071 S 136th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ne/omaha/167747-dairy-queen/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 895 4877",
+    "sg:postcode":"68137",
+    "sg:province":"NE",
+    "sg:tags":[
+        "burger",
+        "american",
+        "ice",
+        "cream"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872531,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3RduVdnDNE4EWqtTBkuATe_41.206019_-96.122130@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464302296,
+    "wof:geomhash":"cac452e512d91c4eccec7ba4a3a08218",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872531,
+            "region_id":85688563,
+            "venue_id":873977963
+        }
+    ],
+    "wof:id":873977963,
+    "wof:lastmodified":1464302296,
+    "wof:name":"Dairy Queen",
+    "wof:parent_id":85872531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "ice",
+        "cream"
+    ]
+},
+  "bbox": [
+    -96.121987,
+    41.206194,
+    -96.121987,
+    41.206194
+],
+  "geometry": {"coordinates":[-96.121987,41.206194],"type":"Point"}
+}

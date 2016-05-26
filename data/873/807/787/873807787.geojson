@@ -1,0 +1,75 @@
+{
+  "id": 873807787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.586872,40.784623,-96.586872,40.784623",
+    "geom:latitude":40.784623,
+    "geom:longitude":-96.586872,
+    "iso:country":"US",
+    "sg:address":"1800 S 98th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 488 8404",
+    "sg:postcode":"68520",
+    "sg:province":"NE",
+    "sg:tags":[
+        "consulting",
+        "management",
+        "investor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3PRt7v4ttP8mOQ4WuQ7L5M_40.784623_-96.586872@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297885,
+    "wof:geomhash":"2cd9e814623818f06a7ff1c81ddc7bf4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878697,
+            "region_id":85688563,
+            "venue_id":873807787
+        }
+    ],
+    "wof:id":873807787,
+    "wof:lastmodified":1464297885,
+    "wof:name":"Financial Centers",
+    "wof:parent_id":85878697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consulting",
+        "management",
+        "investor"
+    ]
+},
+  "bbox": [
+    -96.586872,
+    40.784623,
+    -96.586872,
+    40.784623
+],
+  "geometry": {"coordinates":[-96.586872,40.784623],"type":"Point"}
+}

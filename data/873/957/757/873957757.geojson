@@ -1,0 +1,73 @@
+{
+  "id": 873957757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.628042,40.785026,-96.628042,40.785026",
+    "geom:latitude":40.785026,
+    "geom:longitude":-96.628042,
+    "iso:country":"US",
+    "sg:address":"2731 Katy Cir",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 489 4371",
+    "sg:postcode":"68506",
+    "sg:province":"NE",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5AyqqotndA4LnOSsskSy7T_40.785026_-96.628042@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464301431,
+    "wof:geomhash":"dd953ae7dbb463ff2ee789b27b0e0c03",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878697,
+            "region_id":85688563,
+            "venue_id":873957757
+        }
+    ],
+    "wof:id":873957757,
+    "wof:lastmodified":1464301431,
+    "wof:name":"George L Mc Lean MD",
+    "wof:parent_id":85878697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -96.628042,
+    40.785026,
+    -96.628042,
+    40.785026
+],
+  "geometry": {"coordinates":[-96.62804199999999,40.785026],"type":"Point"}
+}

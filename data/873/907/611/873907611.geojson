@@ -1,0 +1,76 @@
+{
+  "id": 873907611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.630383,40.835201,-96.630383,40.835201",
+    "geom:latitude":40.835201,
+    "geom:longitude":-96.630383,
+    "iso:country":"US",
+    "sg:address":"2200 N Cotner Blvd",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Arena",
+            "subcategory":"Sports Club",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 464 5425",
+    "sg:postcode":"68505",
+    "sg:province":"NE",
+    "sg:tags":[
+        "soccer"
+    ],
+    "sg:website":"www.capitalsoccer.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878725,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_03Nd9tlBG8pkrL6Ss0SQ00_40.835201_-96.630383@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299969,
+    "wof:geomhash":"fa0bc846565834165f62ebd377eb389b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878725,
+            "region_id":85688563,
+            "venue_id":873907611
+        }
+    ],
+    "wof:id":873907611,
+    "wof:lastmodified":1464299969,
+    "wof:name":"Capital Soccer Assn",
+    "wof:parent_id":85878725,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "soccer"
+    ]
+},
+  "bbox": [
+    -96.630383,
+    40.835201,
+    -96.630383,
+    40.835201
+],
+  "geometry": {"coordinates":[-96.63038299999999,40.835201],"type":"Point"}
+}

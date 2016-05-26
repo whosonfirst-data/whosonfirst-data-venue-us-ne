@@ -1,0 +1,71 @@
+{
+  "id": 873546913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.124179,41.176204,-96.124179,41.176204",
+    "geom:latitude":41.176204,
+    "geom:longitude":-96.124179,
+    "iso:country":"US",
+    "sg:address":"13502 Giles Rd",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 895 0162",
+    "sg:postcode":"68138",
+    "sg:province":"NE",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85834285,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5y5hg7KnA2sdLtDxIBUDg9_41.176204_-96.124179@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294338,
+    "wof:geomhash":"214fe5954bff7a289e26b76111671e0b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85834285,
+            "region_id":85688563,
+            "venue_id":873546913
+        }
+    ],
+    "wof:id":873546913,
+    "wof:lastmodified":1464294338,
+    "wof:name":"Transmissions Plus",
+    "wof:parent_id":85834285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -96.124179,
+    41.176204,
+    -96.124179,
+    41.176204
+],
+  "geometry": {"coordinates":[-96.124179,41.176204],"type":"Point"}
+}

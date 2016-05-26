@@ -1,0 +1,78 @@
+{
+  "id": 873978117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.68239,40.817945,-96.68239,40.817945",
+    "geom:latitude":40.817945,
+    "geom:longitude":-96.68239,
+    "iso:country":"US",
+    "sg:address":"505 N 27th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ne/lincoln/18324-wing-zone/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 474 9464",
+    "sg:postcode":"68503",
+    "sg:province":"NE",
+    "sg:tags":[
+        "american",
+        "wing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878723,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Pm3OxPrWUvXVApWm1mQTH_40.818046_-96.682461@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464302301,
+    "wof:geomhash":"9d46146a24589ec5b169caa34c3ffe6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878723,
+            "region_id":85688563,
+            "venue_id":873978117
+        }
+    ],
+    "wof:id":873978117,
+    "wof:lastmodified":1464302301,
+    "wof:name":"Wing Zone",
+    "wof:parent_id":85878723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "wing"
+    ]
+},
+  "bbox": [
+    -96.68239,
+    40.817945,
+    -96.68239,
+    40.817945
+],
+  "geometry": {"coordinates":[-96.68239,40.817945],"type":"Point"}
+}

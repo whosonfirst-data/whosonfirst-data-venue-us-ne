@@ -1,0 +1,77 @@
+{
+  "id": 873848019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.119552,41.263199,-96.119552,41.263199",
+    "geom:latitude":41.263199,
+    "geom:longitude":-96.119552,
+    "iso:country":"US",
+    "sg:address":"13004 W Dodge Rd",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 498 9066",
+    "sg:postcode":"68154",
+    "sg:province":"NE",
+    "sg:tags":[
+        "automobile",
+        "lubrication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85806957,
+        102191575,
+        404519987,
+        85633793,
+        85973479,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4AbOZC46RGyrDigNVrPJua_41.263199_-96.119552@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298771,
+    "wof:geomhash":"c1f78706a0b2746593fb247f0dbb4392",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404519987,
+            "locality_id":85973479,
+            "neighbourhood_id":85806957,
+            "region_id":85688563,
+            "venue_id":873848019
+        }
+    ],
+    "wof:id":873848019,
+    "wof:lastmodified":1464298771,
+    "wof:name":"Insta-Lube Inc",
+    "wof:parent_id":85806957,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "lubrication"
+    ]
+},
+  "bbox": [
+    -96.119552,
+    41.263199,
+    -96.119552,
+    41.263199
+],
+  "geometry": {"coordinates":[-96.119552,41.263199],"type":"Point"}
+}

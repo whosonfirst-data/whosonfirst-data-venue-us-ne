@@ -1,0 +1,75 @@
+{
+  "id": 873737175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.230965,41.286622,-96.230965,41.286622",
+    "geom:latitude":41.286622,
+    "geom:longitude":-96.230965,
+    "iso:country":"US",
+    "sg:address":"215 E Douglas St",
+    "sg:city":"Elkhorn",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 289 3522",
+    "sg:postcode":"68022",
+    "sg:province":"NE",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85868921,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5LuCU0yv84aQt0hnRHtccI_41.286622_-96.230965@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296884,
+    "wof:geomhash":"b12b5f029a5dfa529b79f30e3d1f7f62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85868921,
+            "region_id":85688563,
+            "venue_id":873737175
+        }
+    ],
+    "wof:id":873737175,
+    "wof:lastmodified":1464296884,
+    "wof:name":"Paul W Wortman DDS",
+    "wof:parent_id":85868921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -96.230965,
+    41.286622,
+    -96.230965,
+    41.286622
+],
+  "geometry": {"coordinates":[-96.230965,41.286622],"type":"Point"}
+}

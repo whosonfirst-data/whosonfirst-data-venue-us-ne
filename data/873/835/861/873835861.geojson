@@ -1,0 +1,73 @@
+{
+  "id": 873835861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.134119,41.171231,-96.134119,41.171231",
+    "geom:latitude":41.171231,
+    "geom:longitude":-96.134119,
+    "iso:country":"US",
+    "sg:address":"9855 S 140th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 891 1784",
+    "sg:postcode":"68138",
+    "sg:province":"NE",
+    "sg:tags":[
+        "repair",
+        "truck",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85834285,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5FZYCxss7UoSci6DUED8Cc_41.171231_-96.134119@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298461,
+    "wof:geomhash":"3cea4cff1037a01e1101286f5095c941",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85834285,
+            "region_id":85688563,
+            "venue_id":873835861
+        }
+    ],
+    "wof:id":873835861,
+    "wof:lastmodified":1464298461,
+    "wof:name":"Linn Star Transfer Inc",
+    "wof:parent_id":85834285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "truck",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -96.134119,
+    41.171231,
+    -96.134119,
+    41.171231
+],
+  "geometry": {"coordinates":[-96.134119,41.171231],"type":"Point"}
+}

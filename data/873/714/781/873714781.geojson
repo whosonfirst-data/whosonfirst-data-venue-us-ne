@@ -1,0 +1,75 @@
+{
+  "id": 873714781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.638592,40.862823,-96.638592,40.862823",
+    "geom:latitude":40.862823,
+    "geom:longitude":-96.638592,
+    "iso:country":"US",
+    "sg:address":"6101 Cornhusker Hwy",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 464 8829",
+    "sg:postcode":"68507",
+    "sg:province":"NE",
+    "sg:tags":[
+        "renting",
+        "leasing",
+        "trailer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85824241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5j5z4RibMFSVD7h8JtlHQ5_40.862823_-96.638592@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296579,
+    "wof:geomhash":"61675397b9c09a3b2912204746cf8af8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85824241,
+            "region_id":85688563,
+            "venue_id":873714781
+        }
+    ],
+    "wof:id":873714781,
+    "wof:lastmodified":1464296579,
+    "wof:name":"Budget Mobile Storage",
+    "wof:parent_id":85824241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "leasing",
+        "trailer"
+    ]
+},
+  "bbox": [
+    -96.638592,
+    40.862823,
+    -96.638592,
+    40.862823
+],
+  "geometry": {"coordinates":[-96.638592,40.862823],"type":"Point"}
+}

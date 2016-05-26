@@ -1,0 +1,71 @@
+{
+  "id": 873862673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.632841,40.711893,-96.632841,40.711893",
+    "geom:latitude":40.711893,
+    "geom:longitude":-96.632841,
+    "iso:country":"US",
+    "sg:address":"5900 Rokeby Rd",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 489 3582",
+    "sg:postcode":"68516",
+    "sg:province":"NE",
+    "sg:tags":[
+        "training",
+        "dog"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85878745,
+        102083503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0B0giNrhLQztpZ8O2eUZ64_40.711893_-96.632841@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299089,
+    "wof:geomhash":"65d3956caf3190c4a11022994b773d73",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "neighbourhood_id":85878745,
+            "region_id":85688563,
+            "venue_id":873862673
+        }
+    ],
+    "wof:id":873862673,
+    "wof:lastmodified":1464299089,
+    "wof:name":"Ak Animal Services",
+    "wof:parent_id":85878745,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "training",
+        "dog"
+    ]
+},
+  "bbox": [
+    -96.632841,
+    40.711893,
+    -96.632841,
+    40.711893
+],
+  "geometry": {"coordinates":[-96.632841,40.711893],"type":"Point"}
+}

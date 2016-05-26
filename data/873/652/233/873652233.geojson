@@ -1,0 +1,71 @@
+{
+  "id": 873652233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.61928,40.783625,-96.61928,40.783625",
+    "geom:latitude":40.783625,
+    "geom:longitude":-96.61928,
+    "iso:country":"US",
+    "sg:address":"2911 S 74th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Jewelry",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 488 8120",
+    "sg:postcode":"68506",
+    "sg:province":"NE",
+    "sg:tags":[
+        "stone"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3IszKEnrU821A8m2VWW5ap_40.783625_-96.619280@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295616,
+    "wof:geomhash":"e67efebfaaeb2f0d08568a70fcc9883a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878697,
+            "region_id":85688563,
+            "venue_id":873652233
+        }
+    ],
+    "wof:id":873652233,
+    "wof:lastmodified":1464295616,
+    "wof:name":"Bead Appeal",
+    "wof:parent_id":85878697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "stone"
+    ]
+},
+  "bbox": [
+    -96.61928,
+    40.783625,
+    -96.61928,
+    40.783625
+],
+  "geometry": {"coordinates":[-96.61928,40.783625],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873963325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.054916,41.319913,-96.054916,41.319913",
+    "geom:latitude":41.319913,
+    "geom:longitude":-96.054916,
+    "iso:country":"US",
+    "sg:address":"6715 N 92nd St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 571 0202",
+    "sg:postcode":"68122",
+    "sg:province":"NE",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85872505,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7XLUaW6Cw1fFaeGwEzEWVh_41.319913_-96.054916@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464301707,
+    "wof:geomhash":"a17352eef7d14a90b503fd47b7d5b5eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":873963325
+        }
+    ],
+    "wof:id":873963325,
+    "wof:lastmodified":1464301707,
+    "wof:name":"Century Electric Inc",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.054916,
+    41.319913,
+    -96.054916,
+    41.319913
+],
+  "geometry": {"coordinates":[-96.05491600000001,41.319913],"type":"Point"}
+}

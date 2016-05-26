@@ -1,0 +1,78 @@
+{
+  "id": 873971769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.004402,41.237801,-96.004402,41.237801",
+    "geom:latitude":41.237801,
+    "geom:longitude":-96.004402,
+    "iso:country":"US",
+    "sg:address":"5923 Center St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 558 3385",
+    "sg:postcode":"68106",
+    "sg:province":"NE",
+    "sg:tags":[
+        "tea",
+        "coffee"
+    ],
+    "sg:website":"www.cranecoffeeomaha.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872513,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Hu7EPUcObNMuPBYe6X8T5_41.237795_-96.004557@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464302056,
+    "wof:geomhash":"aced320e3319d953fd006f8f38b52f03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872513,
+            "region_id":85688563,
+            "venue_id":873971769
+        }
+    ],
+    "wof:id":873971769,
+    "wof:lastmodified":1464302056,
+    "wof:name":"Crane Coffee & Bakery",
+    "wof:parent_id":85872513,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tea",
+        "coffee"
+    ]
+},
+  "bbox": [
+    -96.004402,
+    41.237801,
+    -96.004402,
+    41.237801
+],
+  "geometry": {"coordinates":[-96.004402,41.237801],"type":"Point"}
+}

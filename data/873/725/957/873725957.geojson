@@ -1,0 +1,77 @@
+{
+  "id": 873725957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.660714,40.853841,-96.660714,40.853841",
+    "geom:latitude":40.853841,
+    "geom:longitude":-96.660714,
+    "iso:country":"US",
+    "sg:address":"4121 N 42nd Street Cir",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 467 2822",
+    "sg:postcode":"68504",
+    "sg:province":"NE",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878741,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_48f2DaHShNv13Pu2nbymms_40.853841_-96.660714@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296724,
+    "wof:geomhash":"e2a0df4c2b38bc9706c7f6033a67d587",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878741,
+            "region_id":85688563,
+            "venue_id":873725957
+        }
+    ],
+    "wof:id":873725957,
+    "wof:lastmodified":1464296724,
+    "wof:name":"Subsurface Utility Engineering",
+    "wof:parent_id":85878741,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.660714,
+    40.853841,
+    -96.660714,
+    40.853841
+],
+  "geometry": {"coordinates":[-96.660714,40.853841],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873963825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.890903,41.126105,-95.890903,41.126105",
+    "geom:latitude":41.126105,
+    "geom:longitude":-95.890903,
+    "iso:country":"US",
+    "sg:address":"312 Industrial Dr",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Scrap",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 291 0232",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "recycling",
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974747,
+        102082777,
+        85820061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5KqnPDqCMKgywBsrwAPRVK_41.126105_-95.890903@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464301727,
+    "wof:geomhash":"b96a60f42d9671301f8eceb31f19b651",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974747,
+            "neighbourhood_id":85820061,
+            "region_id":85688563,
+            "venue_id":873963825
+        }
+    ],
+    "wof:id":873963825,
+    "wof:lastmodified":1464301727,
+    "wof:name":"Can Pac Recycling Inc",
+    "wof:parent_id":85820061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "recycling",
+        "center"
+    ]
+},
+  "bbox": [
+    -95.890903,
+    41.126105,
+    -95.890903,
+    41.126105
+],
+  "geometry": {"coordinates":[-95.89090299999999,41.126105],"type":"Point"}
+}

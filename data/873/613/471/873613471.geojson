@@ -1,0 +1,77 @@
+{
+  "id": 873613471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.696697,40.795218,-96.696697,40.795218",
+    "geom:latitude":40.795218,
+    "geom:longitude":-96.696697,
+    "iso:country":"US",
+    "sg:address":"1700 S 17th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 438 1109",
+    "sg:postcode":"68502",
+    "sg:province":"NE",
+    "sg:tags":[
+        "shop",
+        "thrift"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878719,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7j79X2e9EgPZenV96tQSjC_40.795218_-96.696697@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295180,
+    "wof:geomhash":"8f8e20bcc3ce1909c6e8ad1a9df38856",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878719,
+            "region_id":85688563,
+            "venue_id":873613471
+        }
+    ],
+    "wof:id":873613471,
+    "wof:lastmodified":1464295180,
+    "wof:name":"Goodwill Industries",
+    "wof:parent_id":85878719,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "thrift"
+    ]
+},
+  "bbox": [
+    -96.696697,
+    40.795218,
+    -96.696697,
+    40.795218
+],
+  "geometry": {"coordinates":[-96.696697,40.795218],"type":"Point"}
+}

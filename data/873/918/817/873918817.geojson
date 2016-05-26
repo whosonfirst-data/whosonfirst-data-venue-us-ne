@@ -1,0 +1,71 @@
+{
+  "id": 873918817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.597059,40.74126,-96.597059,40.74126",
+    "geom:latitude":40.74126,
+    "geom:longitude":-96.597059,
+    "iso:country":"US",
+    "sg:address":"8901 Venice Ln",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 601 3103",
+    "sg:postcode":"68526",
+    "sg:province":"NE",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_49Ww9cB43yLOvGP45Q10PF_40.741260_-96.597059@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300192,
+    "wof:geomhash":"5243846c3c64110d234cbf3e536aee99",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878685,
+            "region_id":85688563,
+            "venue_id":873918817
+        }
+    ],
+    "wof:id":873918817,
+    "wof:lastmodified":1464300192,
+    "wof:name":"Blue Professional Cleaning Svc",
+    "wof:parent_id":85878685,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -96.597059,
+    40.74126,
+    -96.597059,
+    40.74126
+],
+  "geometry": {"coordinates":[-96.597059,40.74126],"type":"Point"}
+}

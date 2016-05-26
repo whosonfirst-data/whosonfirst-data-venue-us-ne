@@ -1,0 +1,73 @@
+{
+  "id": 873860477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.644359,40.713996,-96.644359,40.713996",
+    "geom:latitude":40.713996,
+    "geom:longitude":-96.644359,
+    "iso:country":"US",
+    "sg:address":"9800 S 56th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 423 4438",
+    "sg:postcode":"68516",
+    "sg:province":"NE",
+    "sg:tags":[
+        "residential",
+        "remodeling",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85878745,
+        102083503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2W1KZaMJOxL4UFg1XeQrFj_40.713996_-96.644359@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299048,
+    "wof:geomhash":"2a9364e5a7b5cd70434ea00c28c89ea6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "neighbourhood_id":85878745,
+            "region_id":85688563,
+            "venue_id":873860477
+        }
+    ],
+    "wof:id":873860477,
+    "wof:lastmodified":1464299048,
+    "wof:name":"Kearns Construction",
+    "wof:parent_id":85878745,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential",
+        "remodeling",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.644359,
+    40.713996,
+    -96.644359,
+    40.713996
+],
+  "geometry": {"coordinates":[-96.64435899999999,40.713996],"type":"Point"}
+}

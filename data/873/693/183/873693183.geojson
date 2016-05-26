@@ -1,0 +1,70 @@
+{
+  "id": 873693183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.040947,41.141982,-96.040947,41.141982",
+    "geom:latitude":41.141982,
+    "geom:longitude":-96.040947,
+    "iso:country":"US",
+    "sg:address":"1243 Golden Gate Dr",
+    "sg:city":"Papillion",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 537 4910",
+    "sg:postcode":"68046",
+    "sg:province":"NE",
+    "sg:tags":[
+        "security"
+    ],
+    "sg:website":"www.securitiesamerica.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85843697,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3t4qMbIRakwgSmp2xDzGm6_41.141982_-96.040947@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296329,
+    "wof:geomhash":"063aeb942771fef60423f9dcdb878406",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85843697,
+            "region_id":85688563,
+            "venue_id":873693183
+        }
+    ],
+    "wof:id":873693183,
+    "wof:lastmodified":1464296329,
+    "wof:name":"Securities America Inc",
+    "wof:parent_id":85843697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "security"
+    ]
+},
+  "bbox": [
+    -96.040947,
+    41.141982,
+    -96.040947,
+    41.141982
+],
+  "geometry": {"coordinates":[-96.040947,41.141982],"type":"Point"}
+}

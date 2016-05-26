@@ -1,0 +1,71 @@
+{
+  "id": 873959205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.043813,41.157485,-96.043813,41.157485",
+    "geom:latitude":41.157485,
+    "geom:longitude":-96.043813,
+    "iso:country":"US",
+    "sg:address":"146 W 2nd St",
+    "sg:city":"Papillion",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 339 0465",
+    "sg:postcode":"68046",
+    "sg:province":"NE",
+    "sg:tags":[
+        "tackle",
+        "fishing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85843697,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4fQ7eBG7T6zAZVaghbpjbr_41.157485_-96.043813@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464301494,
+    "wof:geomhash":"54c9414729c704494868fee0a83b6b29",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85843697,
+            "region_id":85688563,
+            "venue_id":873959205
+        }
+    ],
+    "wof:id":873959205,
+    "wof:lastmodified":1464301494,
+    "wof:name":"Sportsmen's Supply",
+    "wof:parent_id":85843697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tackle",
+        "fishing"
+    ]
+},
+  "bbox": [
+    -96.043813,
+    41.157485,
+    -96.043813,
+    41.157485
+],
+  "geometry": {"coordinates":[-96.043813,41.157485],"type":"Point"}
+}

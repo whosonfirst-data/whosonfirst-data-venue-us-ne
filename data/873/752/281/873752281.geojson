@@ -1,0 +1,77 @@
+{
+  "id": 873752281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.997887,41.185133,-95.997887,41.185133",
+    "geom:latitude":41.185133,
+    "geom:longitude":-95.997887,
+    "iso:country":"US",
+    "sg:address":"7800 S 53rd St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 733 9651",
+    "sg:postcode":"68157",
+    "sg:province":"NE",
+    "sg:tags":[
+        "pool",
+        "swimming"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85849923,
+        102191575,
+        404519143,
+        85633793,
+        85974545,
+        102082777,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4LoGJw5k6kJPFL9pnXvlEk_41.185133_-95.997887@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297104,
+    "wof:geomhash":"d23373c59f5fd54ea9156e71d2a5c378",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082777,
+            "localadmin_id":404519143,
+            "locality_id":85974545,
+            "neighbourhood_id":85849923,
+            "region_id":85688563,
+            "venue_id":873752281
+        }
+    ],
+    "wof:id":873752281,
+    "wof:lastmodified":1464297104,
+    "wof:name":"Sun Valley Pool",
+    "wof:parent_id":85849923,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pool",
+        "swimming"
+    ]
+},
+  "bbox": [
+    -95.997887,
+    41.185133,
+    -95.997887,
+    41.185133
+],
+  "geometry": {"coordinates":[-95.99788700000001,41.185133],"type":"Point"}
+}

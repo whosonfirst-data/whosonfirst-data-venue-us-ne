@@ -1,0 +1,79 @@
+{
+  "id": 873834029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.586915,40.830705,-96.586915,40.830705",
+    "geom:latitude":40.830705,
+    "geom:longitude":-96.586915,
+    "iso:country":"US",
+    "sg:address":"2001 N 98th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 486 0166",
+    "sg:postcode":"68505",
+    "sg:province":"NE",
+    "sg:tags":[
+        "garbage",
+        "collection",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878725,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_60vxng88q3rtMvuzLByAX3_40.830705_-96.586915@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298425,
+    "wof:geomhash":"f6d7a2308ed7671538c707a76fe64921",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878725,
+            "region_id":85688563,
+            "venue_id":873834029
+        }
+    ],
+    "wof:id":873834029,
+    "wof:lastmodified":1464298425,
+    "wof:name":"Erickson Refuse Inc",
+    "wof:parent_id":85878725,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection",
+        "system"
+    ]
+},
+  "bbox": [
+    -96.586915,
+    40.830705,
+    -96.586915,
+    40.830705
+],
+  "geometry": {"coordinates":[-96.586915,40.830705],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 873974027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.004799,41.244999,-96.004799,41.244999",
+    "geom:latitude":41.244999,
+    "geom:longitude":-96.004799,
+    "iso:country":"US",
+    "sg:address":"1512 S 60th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 553 7888",
+    "sg:postcode":"68106",
+    "sg:province":"NE",
+    "sg:tags":[
+        "dentist",
+        "dental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872513,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6H7lvD7iMQgMToY1qAABcV_41.245368_-96.004756@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464302158,
+    "wof:geomhash":"1199c7055ab9e7a2056e31410d44afc0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872513,
+            "region_id":85688563,
+            "venue_id":873974027
+        }
+    ],
+    "wof:id":873974027,
+    "wof:lastmodified":1464302158,
+    "wof:name":"Elmwood Family Dentistry",
+    "wof:parent_id":85872513,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist",
+        "dental"
+    ]
+},
+  "bbox": [
+    -96.004799,
+    41.244999,
+    -96.004799,
+    41.244999
+],
+  "geometry": {"coordinates":[-96.00479900000001,41.244999],"type":"Point"}
+}

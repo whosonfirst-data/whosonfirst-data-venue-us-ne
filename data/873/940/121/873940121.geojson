@@ -1,0 +1,71 @@
+{
+  "id": 873940121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.083141,41.184528,-96.083141,41.184528",
+    "geom:latitude":41.184528,
+    "geom:longitude":-96.083141,
+    "iso:country":"US",
+    "sg:address":"10913 Olive St",
+    "sg:city":"La Vista",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 593 5015",
+    "sg:postcode":"68128",
+    "sg:province":"NE",
+    "sg:tags":[
+        "occupational",
+        "safety"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85843697,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7HCHkouBOkopYzxdM3dmfR_41.184528_-96.083141@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300698,
+    "wof:geomhash":"40e636baaa96c84ec127a564561a7d79",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85843697,
+            "region_id":85688563,
+            "venue_id":873940121
+        }
+    ],
+    "wof:id":873940121,
+    "wof:lastmodified":1464300698,
+    "wof:name":"Occuvax",
+    "wof:parent_id":85843697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "occupational",
+        "safety"
+    ]
+},
+  "bbox": [
+    -96.083141,
+    41.184528,
+    -96.083141,
+    41.184528
+],
+  "geometry": {"coordinates":[-96.083141,41.184528],"type":"Point"}
+}

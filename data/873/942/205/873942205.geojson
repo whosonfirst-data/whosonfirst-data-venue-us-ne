@@ -1,0 +1,71 @@
+{
+  "id": 873942205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.075988,41.300419,-96.075988,41.300419",
+    "geom:latitude":41.300419,
+    "geom:longitude":-96.075988,
+    "iso:country":"US",
+    "sg:address":"4427 Ridgeway Rd",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 496 1370",
+    "sg:postcode":"68134",
+    "sg:province":"NE",
+    "sg:tags":[
+        "computer",
+        "software"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85872505,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_25vEZTUELTRtbGzxUYNjeJ_41.300419_-96.075988@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300775,
+    "wof:geomhash":"de39e5488745fb7e5325fe2c03da5e5e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":873942205
+        }
+    ],
+    "wof:id":873942205,
+    "wof:lastmodified":1464300775,
+    "wof:name":"Cyber Advances",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "computer",
+        "software"
+    ]
+},
+  "bbox": [
+    -96.075988,
+    41.300419,
+    -96.075988,
+    41.300419
+],
+  "geometry": {"coordinates":[-96.075988,41.300419],"type":"Point"}
+}

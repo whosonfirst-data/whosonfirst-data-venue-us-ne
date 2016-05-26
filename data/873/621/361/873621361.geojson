@@ -1,0 +1,71 @@
+{
+  "id": 873621361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.118909,41.300657,-96.118909,41.300657",
+    "geom:latitude":41.300657,
+    "geom:longitude":-96.118909,
+    "iso:country":"US",
+    "sg:address":"13018 Fowler Cir",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 618 2958",
+    "sg:postcode":"68164",
+    "sg:province":"NE",
+    "sg:tags":[
+        "retaining",
+        "wall"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85872505,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4BvDmWMalcU6IAQEVTMVdc_41.300657_-96.118909@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295265,
+    "wof:geomhash":"597dcb5db98aa93cfff5ddc7e3ac683e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":873621361
+        }
+    ],
+    "wof:id":873621361,
+    "wof:lastmodified":1464295265,
+    "wof:name":"Plantz Construction",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "retaining",
+        "wall"
+    ]
+},
+  "bbox": [
+    -96.118909,
+    41.300657,
+    -96.118909,
+    41.300657
+],
+  "geometry": {"coordinates":[-96.118909,41.300657],"type":"Point"}
+}

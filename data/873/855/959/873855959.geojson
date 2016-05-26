@@ -1,0 +1,84 @@
+{
+  "id": 873855959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.606033,40.74367,-96.606033,40.74367",
+    "geom:latitude":40.74367,
+    "geom:longitude":-96.606033,
+    "iso:country":"US",
+    "sg:address":"6610 S 84th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Buildings",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 483 4055",
+    "sg:postcode":"68516",
+    "sg:province":"NE",
+    "sg:tags":[
+        "garage",
+        "builder",
+        "prefabricated",
+        "wood",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1JXr7CgCc4JoM7bFeJB6QW_40.743670_-96.606033@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298933,
+    "wof:geomhash":"743b75783ee8bf5f9104a3dfeac872d5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878685,
+            "region_id":85688563,
+            "venue_id":873855959
+        }
+    ],
+    "wof:id":873855959,
+    "wof:lastmodified":1464298933,
+    "wof:name":"Russ Manufacturing Co",
+    "wof:parent_id":85878685,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garage",
+        "builder",
+        "prefabricated",
+        "wood",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -96.606033,
+    40.74367,
+    -96.606033,
+    40.74367
+],
+  "geometry": {"coordinates":[-96.606033,40.74367],"type":"Point"}
+}

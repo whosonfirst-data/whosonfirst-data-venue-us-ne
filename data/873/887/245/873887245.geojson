@@ -1,0 +1,70 @@
+{
+  "id": 873887245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.143877,41.154548,-96.143877,41.154548",
+    "geom:latitude":41.154548,
+    "geom:longitude":-96.143877,
+    "iso:country":"US",
+    "sg:address":"10580 S 147th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 895 5555",
+    "sg:postcode":"68138",
+    "sg:province":"NE",
+    "sg:tags":[
+        "trailer"
+    ],
+    "sg:website":"www.wickstt.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85834285,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0CFTYt19YZ3xDLcvFYeSbz_41.154548_-96.143877@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299577,
+    "wof:geomhash":"3cdfab3e0631b437cad2b49fac3e9c90",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85834285,
+            "region_id":85688563,
+            "venue_id":873887245
+        }
+    ],
+    "wof:id":873887245,
+    "wof:lastmodified":1464299577,
+    "wof:name":"Wicks Truck Trailers Inc",
+    "wof:parent_id":85834285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trailer"
+    ]
+},
+  "bbox": [
+    -96.143877,
+    41.154548,
+    -96.143877,
+    41.154548
+],
+  "geometry": {"coordinates":[-96.143877,41.154548],"type":"Point"}
+}

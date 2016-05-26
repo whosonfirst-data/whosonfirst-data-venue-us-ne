@@ -1,0 +1,77 @@
+{
+  "id": 873681555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.708544,40.815572,-96.708544,40.815572",
+    "geom:latitude":40.815572,
+    "geom:longitude":-96.708544,
+    "iso:country":"US",
+    "sg:address":"227 N 9th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 475 8463",
+    "sg:postcode":"68508",
+    "sg:province":"NE",
+    "sg:tags":[
+        "club",
+        "night"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878699,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0aQkjr3yvVIgHF2buiBFc5_40.815572_-96.708544@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296039,
+    "wof:geomhash":"01073daefc802e17f95fc59b9845e5f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878699,
+            "region_id":85688563,
+            "venue_id":873681555
+        }
+    ],
+    "wof:id":873681555,
+    "wof:lastmodified":1464296039,
+    "wof:name":"Club Internationale",
+    "wof:parent_id":85878699,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club",
+        "night"
+    ]
+},
+  "bbox": [
+    -96.708544,
+    40.815572,
+    -96.708544,
+    40.815572
+],
+  "geometry": {"coordinates":[-96.708544,40.815572],"type":"Point"}
+}

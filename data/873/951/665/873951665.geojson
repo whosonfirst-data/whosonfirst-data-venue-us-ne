@@ -1,0 +1,72 @@
+{
+  "id": 873951665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.080049,41.340182,-96.080049,41.340182",
+    "geom:latitude":41.340182,
+    "geom:longitude":-96.080049,
+    "iso:country":"US",
+    "sg:address":"8829 Irvington Rd",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 571 4504",
+    "sg:postcode":"68122",
+    "sg:province":"NE",
+    "sg:tags":[
+        "automobile",
+        "rebuilt"
+    ],
+    "sg:website":"www.smimportauto.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85872505,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2WLsKIlCL1oDgQpsrzvA5s_41.340182_-96.080049@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464301204,
+    "wof:geomhash":"b1b0b553af49d7fed42977ebc0bdf321",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":873951665
+        }
+    ],
+    "wof:id":873951665,
+    "wof:lastmodified":1464301204,
+    "wof:name":"S & M Import Auto",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "rebuilt"
+    ]
+},
+  "bbox": [
+    -96.080049,
+    41.340182,
+    -96.080049,
+    41.340182
+],
+  "geometry": {"coordinates":[-96.080049,41.340182],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 873710337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.650197,40.857096,-96.650197,40.857096",
+    "geom:latitude":40.857096,
+    "geom:longitude":-96.650197,
+    "iso:country":"US",
+    "sg:address":"4801 Superior St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 464 3163",
+    "sg:postcode":"68504",
+    "sg:province":"NE",
+    "sg:tags":[
+        "drink",
+        "soft",
+        "bottler"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85824241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4YVJHbwdsHPp4z54ScE1Lk_40.857096_-96.650197@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296525,
+    "wof:geomhash":"54cab68d76fa0be0b1cfa7a8e5e2d452",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85824241,
+            "region_id":85688563,
+            "venue_id":873710337
+        }
+    ],
+    "wof:id":873710337,
+    "wof:lastmodified":1464296525,
+    "wof:name":"American Bottling Co",
+    "wof:parent_id":85824241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drink",
+        "soft",
+        "bottler"
+    ]
+},
+  "bbox": [
+    -96.650197,
+    40.857096,
+    -96.650197,
+    40.857096
+],
+  "geometry": {"coordinates":[-96.65019700000001,40.857096],"type":"Point"}
+}

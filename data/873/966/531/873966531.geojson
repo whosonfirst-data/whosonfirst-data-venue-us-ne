@@ -1,0 +1,75 @@
+{
+  "id": 873966531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.775259,40.862375,-96.775259,40.862375",
+    "geom:latitude":40.862375,
+    "geom:longitude":-96.775259,
+    "iso:country":"US",
+    "sg:address":"5220 NW 38th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 470 2636",
+    "sg:postcode":"68524",
+    "sg:province":"NE",
+    "sg:tags":[
+        "body",
+        "automotive",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4HVXPsoWOTpETzhyFQKHbb_40.862375_-96.775259@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464301859,
+    "wof:geomhash":"8564bb707817dead00acdfd730816284",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878717,
+            "region_id":85688563,
+            "venue_id":873966531
+        }
+    ],
+    "wof:id":873966531,
+    "wof:lastmodified":1464301859,
+    "wof:name":"Hesshimerss Bev Trck Trlr Repr",
+    "wof:parent_id":85878717,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automotive",
+        "general"
+    ]
+},
+  "bbox": [
+    -96.775259,
+    40.862375,
+    -96.775259,
+    40.862375
+],
+  "geometry": {"coordinates":[-96.77525900000001,40.862375],"type":"Point"}
+}

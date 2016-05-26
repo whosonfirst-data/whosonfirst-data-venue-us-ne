@@ -1,0 +1,71 @@
+{
+  "id": 873710111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.132805,41.30459,-96.132805,41.30459",
+    "geom:latitude":41.30459,
+    "geom:longitude":-96.132805,
+    "iso:country":"US",
+    "sg:address":"5015 N 139th Ave",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 496 0097",
+    "sg:postcode":"68164",
+    "sg:province":"NE",
+    "sg:tags":[
+        "health",
+        "diet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85872505,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Tw9oRMPIiZe0s2Jk33KY9_41.304590_-96.132805@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296522,
+    "wof:geomhash":"31815bf43ed891091b8e55eb06e8005f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":873710111
+        }
+    ],
+    "wof:id":873710111,
+    "wof:lastmodified":1464296522,
+    "wof:name":"B L Enterprises",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "health",
+        "diet"
+    ]
+},
+  "bbox": [
+    -96.132805,
+    41.30459,
+    -96.132805,
+    41.30459
+],
+  "geometry": {"coordinates":[-96.132805,41.30459],"type":"Point"}
+}

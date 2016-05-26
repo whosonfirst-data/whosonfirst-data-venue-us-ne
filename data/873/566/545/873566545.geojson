@@ -1,0 +1,71 @@
+{
+  "id": 873566545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.919161,41.089883,-95.919161,41.089883",
+    "geom:latitude":41.089883,
+    "geom:longitude":-95.919161,
+    "iso:country":"US",
+    "sg:address":"15117 Marseille Ave",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 731 8036",
+    "sg:postcode":"68123",
+    "sg:province":"NE",
+    "sg:tags":[
+        "appraiser"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974747,
+        102082777,
+        85820061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5LEGre3Kn2JcEBQTkiGLp4_41.089883_-95.919161@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294571,
+    "wof:geomhash":"76a1a1f206c18c4a8daa9b6a1c16f073",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974747,
+            "neighbourhood_id":85820061,
+            "region_id":85688563,
+            "venue_id":873566545
+        }
+    ],
+    "wof:id":873566545,
+    "wof:lastmodified":1464294571,
+    "wof:name":"Residential Appraisal Svc",
+    "wof:parent_id":85820061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appraiser"
+    ]
+},
+  "bbox": [
+    -95.919161,
+    41.089883,
+    -95.919161,
+    41.089883
+],
+  "geometry": {"coordinates":[-95.919161,41.089883],"type":"Point"}
+}

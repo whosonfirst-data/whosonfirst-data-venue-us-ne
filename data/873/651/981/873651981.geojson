@@ -1,0 +1,82 @@
+{
+  "id": 873651981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.666907,40.842622,-96.666907,40.842622",
+    "geom:latitude":40.842622,
+    "geom:longitude":-96.666907,
+    "iso:country":"US",
+    "sg:address":"3700 Adams St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 466 4114",
+    "sg:postcode":"68504",
+    "sg:province":"NE",
+    "sg:tags":[
+        "horse",
+        "furnishing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878741,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2rTdEwdR59LYy4uvqdHIZY_40.842622_-96.666907@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295613,
+    "wof:geomhash":"7ce18564adc8f3fa7ca37f64b5870e63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878741,
+            "region_id":85688563,
+            "venue_id":873651981
+        }
+    ],
+    "wof:id":873651981,
+    "wof:lastmodified":1464295613,
+    "wof:name":"Tack & Togs",
+    "wof:parent_id":85878741,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "horse",
+        "furnishing"
+    ]
+},
+  "bbox": [
+    -96.666907,
+    40.842622,
+    -96.666907,
+    40.842622
+],
+  "geometry": {"coordinates":[-96.66690699999999,40.842622],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 873944245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.925059,41.167342,-95.925059,41.167342",
+    "geom:latitude":41.167342,
+    "geom:longitude":-95.925059,
+    "iso:country":"US",
+    "sg:address":"511 Fort Crook Rd N",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 733 1646",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85804025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1piPg8sMMc5vPJzwkTx47c_41.167342_-95.925059@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300854,
+    "wof:geomhash":"c66b16eb42a5f0cff4e172b6486d442e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85804025,
+            "region_id":85688563,
+            "venue_id":873944245
+        }
+    ],
+    "wof:id":873944245,
+    "wof:lastmodified":1464300854,
+    "wof:name":"Lums Restaurant",
+    "wof:parent_id":85804025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -95.925059,
+    41.167342,
+    -95.925059,
+    41.167342
+],
+  "geometry": {"coordinates":[-95.925059,41.167342],"type":"Point"}
+}

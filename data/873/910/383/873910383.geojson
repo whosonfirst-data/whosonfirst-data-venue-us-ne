@@ -1,0 +1,73 @@
+{
+  "id": 873910383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.927487,41.148558,-95.927487,41.148558",
+    "geom:latitude":41.148558,
+    "geom:longitude":-95.927487,
+    "iso:country":"US",
+    "sg:address":"1220 Fort Crook Rd S",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 291 0894",
+    "sg:postcode":"68123",
+    "sg:province":"NE",
+    "sg:tags":[
+        "skating",
+        "rink"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85821583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2yrRgI4mHFDm0IOZdlHACF_41.148558_-95.927487@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300020,
+    "wof:geomhash":"a40574bb83cff5f03ff6c4240495f599",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85821583,
+            "region_id":85688563,
+            "venue_id":873910383
+        }
+    ],
+    "wof:id":873910383,
+    "wof:lastmodified":1464300020,
+    "wof:name":"Skate City",
+    "wof:parent_id":85821583,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "skating",
+        "rink"
+    ]
+},
+  "bbox": [
+    -95.927487,
+    41.148558,
+    -95.927487,
+    41.148558
+],
+  "geometry": {"coordinates":[-95.927487,41.148558],"type":"Point"}
+}

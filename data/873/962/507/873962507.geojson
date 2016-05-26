@@ -1,0 +1,73 @@
+{
+  "id": 873962507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.044497,41.15357,-96.044497,41.15357",
+    "geom:latitude":41.15357,
+    "geom:longitude":-96.044497,
+    "iso:country":"US",
+    "sg:address":"242 W Grant St",
+    "sg:city":"Papillion",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 391 7550",
+    "sg:postcode":"68046",
+    "sg:province":"NE",
+    "sg:tags":[
+        "ventilating",
+        "heating",
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85843697,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7KKxy9CTPxoAMsTZCe69Hc_41.153570_-96.044497@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464301672,
+    "wof:geomhash":"4dc443948fb398abba852e2feabc71be",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85843697,
+            "region_id":85688563,
+            "venue_id":873962507
+        }
+    ],
+    "wof:id":873962507,
+    "wof:lastmodified":1464301672,
+    "wof:name":"Specialized Products",
+    "wof:parent_id":85843697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ventilating",
+        "heating",
+        "engineer"
+    ]
+},
+  "bbox": [
+    -96.044497,
+    41.15357,
+    -96.044497,
+    41.15357
+],
+  "geometry": {"coordinates":[-96.04449700000001,41.15357],"type":"Point"}
+}

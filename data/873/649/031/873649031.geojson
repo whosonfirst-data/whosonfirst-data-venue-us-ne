@@ -1,0 +1,75 @@
+{
+  "id": 873649031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.013324,41.314348,-96.013324,41.314348",
+    "geom:latitude":41.314348,
+    "geom:longitude":-96.013324,
+    "iso:country":"US",
+    "sg:address":"6106 N 66th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Vending Machines",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 571 5408",
+    "sg:postcode":"68104",
+    "sg:province":"NE",
+    "sg:tags":[
+        "operator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85805755,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2fJVHGym5ZAvXOzg88ZXPe_41.314348_-96.013324@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295577,
+    "wof:geomhash":"575cdced5702abf063e378226baccea6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85805755,
+            "region_id":85688563,
+            "venue_id":873649031
+        }
+    ],
+    "wof:id":873649031,
+    "wof:lastmodified":1464295577,
+    "wof:name":"M&S Vending",
+    "wof:parent_id":85805755,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator"
+    ]
+},
+  "bbox": [
+    -96.013324,
+    41.314348,
+    -96.013324,
+    41.314348
+],
+  "geometry": {"coordinates":[-96.013324,41.314348],"type":"Point"}
+}

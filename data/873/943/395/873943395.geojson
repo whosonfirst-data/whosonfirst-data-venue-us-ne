@@ -1,0 +1,82 @@
+{
+  "id": 873943395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.708492,40.800698,-96.708492,40.800698",
+    "geom:latitude":40.800698,
+    "geom:longitude":-96.708492,
+    "iso:country":"US",
+    "sg:address":"1234 S 9th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 435 5489",
+    "sg:postcode":"68502",
+    "sg:province":"NE",
+    "sg:tags":[
+        "compressor",
+        "air"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878705,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_48gKZVa36EPLSEzghmd98r_40.800698_-96.708492@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300827,
+    "wof:geomhash":"70e1cf8d27315bf640bbdd0f7980f85c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878705,
+            "region_id":85688563,
+            "venue_id":873943395
+        }
+    ],
+    "wof:id":873943395,
+    "wof:lastmodified":1464300827,
+    "wof:name":"Robidoux Inc",
+    "wof:parent_id":85878705,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "compressor",
+        "air"
+    ]
+},
+  "bbox": [
+    -96.708492,
+    40.800698,
+    -96.708492,
+    40.800698
+],
+  "geometry": {"coordinates":[-96.70849200000001,40.800698],"type":"Point"}
+}

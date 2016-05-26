@@ -1,0 +1,71 @@
+{
+  "id": 873829673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.702636,40.732174,-96.702636,40.732174",
+    "geom:latitude":40.732174,
+    "geom:longitude":-96.702636,
+    "iso:country":"US",
+    "sg:address":"1233 Infinity Ct",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 420 2950",
+    "sg:postcode":"68512",
+    "sg:province":"NE",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4vGyqAivobH16woFhZOnPj_40.732174_-96.702636@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298326,
+    "wof:geomhash":"cf54e07e758e3cb9f3bc9a9b5a963b4f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878709,
+            "region_id":85688563,
+            "venue_id":873829673
+        }
+    ],
+    "wof:id":873829673,
+    "wof:lastmodified":1464298326,
+    "wof:name":"Fowler Custom Homes",
+    "wof:parent_id":85878709,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [
+    -96.702636,
+    40.732174,
+    -96.702636,
+    40.732174
+],
+  "geometry": {"coordinates":[-96.702636,40.732174],"type":"Point"}
+}

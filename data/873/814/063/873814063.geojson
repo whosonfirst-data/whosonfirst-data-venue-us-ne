@@ -1,0 +1,71 @@
+{
+  "id": 873814063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.736536,40.86206,-96.736536,40.86206",
+    "geom:latitude":40.86206,
+    "geom:longitude":-96.736536,
+    "iso:country":"US",
+    "sg:address":"5301 NW Fairway Dr",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 438 9452",
+    "sg:postcode":"68521",
+    "sg:province":"NE",
+    "sg:tags":[
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6XGdPKicuwqcyAsXpMjH3s_40.862060_-96.736536@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297997,
+    "wof:geomhash":"ab98f4fa53dadd85198f33d5d929e4da",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878717,
+            "region_id":85688563,
+            "venue_id":873814063
+        }
+    ],
+    "wof:id":873814063,
+    "wof:lastmodified":1464297997,
+    "wof:name":"3t Framing",
+    "wof:parent_id":85878717,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential"
+    ]
+},
+  "bbox": [
+    -96.736536,
+    40.86206,
+    -96.736536,
+    40.86206
+],
+  "geometry": {"coordinates":[-96.736536,40.86206],"type":"Point"}
+}

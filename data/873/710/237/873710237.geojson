@@ -1,0 +1,77 @@
+{
+  "id": 873710237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.693933,40.805883,-96.693933,40.805883",
+    "geom:latitude":40.805883,
+    "geom:longitude":-96.693933,
+    "iso:country":"US",
+    "sg:address":"1820 G St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 435 0698",
+    "sg:postcode":"68508",
+    "sg:province":"NE",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878699,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1uUsz5DymcCkc3LWeyvOKz_40.805883_-96.693933@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296524,
+    "wof:geomhash":"62f59f04ca880a4092802a85618b775a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878699,
+            "region_id":85688563,
+            "venue_id":873710237
+        }
+    ],
+    "wof:id":873710237,
+    "wof:lastmodified":1464296524,
+    "wof:name":"Built Last Concrete",
+    "wof:parent_id":85878699,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.693933,
+    40.805883,
+    -96.693933,
+    40.805883
+],
+  "geometry": {"coordinates":[-96.693933,40.805883],"type":"Point"}
+}

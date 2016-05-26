@@ -1,0 +1,77 @@
+{
+  "id": 873751395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.653624,40.807476,-96.653624,40.807476",
+    "geom:latitude":40.807476,
+    "geom:longitude":-96.653624,
+    "iso:country":"US",
+    "sg:address":"740 S 48th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Petroleum",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 488 5827",
+    "sg:postcode":"68510",
+    "sg:province":"NE",
+    "sg:tags":[
+        "bulk",
+        "station"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878703,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7BE6oxGo17tl0SUT7PiJK1_40.807476_-96.653624@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297093,
+    "wof:geomhash":"43c5d7622977049cdbe62c39ef55e6e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878703,
+            "region_id":85688563,
+            "venue_id":873751395
+        }
+    ],
+    "wof:id":873751395,
+    "wof:lastmodified":1464297093,
+    "wof:name":"Sinclair Marketing",
+    "wof:parent_id":85878703,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bulk",
+        "station"
+    ]
+},
+  "bbox": [
+    -96.653624,
+    40.807476,
+    -96.653624,
+    40.807476
+],
+  "geometry": {"coordinates":[-96.65362399999999,40.807476],"type":"Point"}
+}

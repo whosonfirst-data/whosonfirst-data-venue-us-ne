@@ -1,0 +1,79 @@
+{
+  "id": 873931511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.658874,40.848755,-96.658874,40.848755",
+    "geom:latitude":40.848755,
+    "geom:longitude":-96.658874,
+    "iso:country":"US",
+    "sg:address":"4815 Cornhusker Hwy",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 465 0555",
+    "sg:postcode":"68504",
+    "sg:province":"NE",
+    "sg:tags":[
+        "car",
+        "used",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85853163,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1IuS9hcEj3dvhmOK3Uvstd_40.848755_-96.658874@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300438,
+    "wof:geomhash":"292026ec1d32db661be1c2493df588b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85853163,
+            "region_id":85688563,
+            "venue_id":873931511
+        }
+    ],
+    "wof:id":873931511,
+    "wof:lastmodified":1464300438,
+    "wof:name":"I Deal Wheels Inc",
+    "wof:parent_id":85853163,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "used",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -96.658874,
+    40.848755,
+    -96.658874,
+    40.848755
+],
+  "geometry": {"coordinates":[-96.658874,40.848755],"type":"Point"}
+}

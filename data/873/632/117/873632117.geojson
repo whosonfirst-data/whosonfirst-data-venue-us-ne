@@ -1,0 +1,73 @@
+{
+  "id": 873632117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.918663,41.138005,-95.918663,41.138005",
+    "geom:latitude":41.138005,
+    "geom:longitude":-95.918663,
+    "iso:country":"US",
+    "sg:address":"116 Cedar St",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 291 5400",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974747,
+        102082777,
+        85820061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2jKtrgNftb1z85qzHrOkJz_41.138005_-95.918663@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295386,
+    "wof:geomhash":"5d14de1dec0ec3fad47544e511fcd4b6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974747,
+            "neighbourhood_id":85820061,
+            "region_id":85688563,
+            "venue_id":873632117
+        }
+    ],
+    "wof:id":873632117,
+    "wof:lastmodified":1464295386,
+    "wof:name":"Belleview Pediatric Denistry",
+    "wof:parent_id":85820061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -95.918663,
+    41.138005,
+    -95.918663,
+    41.138005
+],
+  "geometry": {"coordinates":[-95.918663,41.138005],"type":"Point"}
+}

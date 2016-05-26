@@ -1,0 +1,74 @@
+{
+  "id": 873971845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.891828,41.126063,-95.891828,41.126063",
+    "geom:latitude":41.126063,
+    "geom:longitude":-95.891828,
+    "iso:country":"US",
+    "sg:address":"206 Industrial Dr",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 293 3125",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "park",
+        "cemetery"
+    ],
+    "sg:website":"www.bellevue.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974747,
+        102082777,
+        85820061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4JVRaVslNL6RH1zjcDgk0X_41.126103_-95.891928@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464302059,
+    "wof:geomhash":"2c1f6b33f53b071fae2257777752633d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974747,
+            "neighbourhood_id":85820061,
+            "region_id":85688563,
+            "venue_id":873971845
+        }
+    ],
+    "wof:id":873971845,
+    "wof:lastmodified":1464302059,
+    "wof:name":"City of Bellevue Park",
+    "wof:parent_id":85820061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "park",
+        "cemetery"
+    ]
+},
+  "bbox": [
+    -95.891828,
+    41.126063,
+    -95.891828,
+    41.126063
+],
+  "geometry": {"coordinates":[-95.891828,41.126063],"type":"Point"}
+}

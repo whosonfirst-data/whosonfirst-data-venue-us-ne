@@ -1,0 +1,71 @@
+{
+  "id": 873606385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.673846,40.859676,-96.673846,40.859676",
+    "geom:latitude":40.859676,
+    "geom:longitude":-96.673846,
+    "iso:country":"US",
+    "sg:address":"4923 N 32nd St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 467 1008",
+    "sg:postcode":"68504",
+    "sg:province":"NE",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_50swuQnBKBG1wBv0uvVRnc_40.859676_-96.673846@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295064,
+    "wof:geomhash":"b05b284bc3ae3402632ddb8a718bc937",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878687,
+            "region_id":85688563,
+            "venue_id":873606385
+        }
+    ],
+    "wof:id":873606385,
+    "wof:lastmodified":1464295064,
+    "wof:name":"Blackstone Apartments",
+    "wof:parent_id":85878687,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -96.673846,
+    40.859676,
+    -96.673846,
+    40.859676
+],
+  "geometry": {"coordinates":[-96.673846,40.859676],"type":"Point"}
+}

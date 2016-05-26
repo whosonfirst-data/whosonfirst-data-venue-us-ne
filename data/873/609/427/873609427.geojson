@@ -1,0 +1,71 @@
+{
+  "id": 873609427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.925575,41.171805,-95.925575,41.171805",
+    "geom:latitude":41.171805,
+    "geom:longitude":-95.925575,
+    "iso:country":"US",
+    "sg:address":"712 Fort Crook Rd N",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 778 4698",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85804025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_11BHoPO4kHBllsFbIuJg5p_41.171805_-95.925575@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295132,
+    "wof:geomhash":"3d748bcef904c6a9ca968baff8766854",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85804025,
+            "region_id":85688563,
+            "venue_id":873609427
+        }
+    ],
+    "wof:id":873609427,
+    "wof:lastmodified":1464295132,
+    "wof:name":"Chadwell Family Dentistry",
+    "wof:parent_id":85804025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -95.925575,
+    41.171805,
+    -95.925575,
+    41.171805
+],
+  "geometry": {"coordinates":[-95.92557499999999,41.171805],"type":"Point"}
+}

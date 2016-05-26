@@ -1,0 +1,70 @@
+{
+  "id": 873765761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.988933,41.284006,-95.988933,41.284006",
+    "geom:latitude":41.284006,
+    "geom:longitude":-95.988933,
+    "iso:country":"US",
+    "sg:address":"2715 N 49th Ave",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Pest Control",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 740 5261",
+    "sg:postcode":"68104",
+    "sg:province":"NE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872535,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_34JooTXppYX8ZtOcEgmOiJ_41.284006_-95.988933@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297309,
+    "wof:geomhash":"ec37e875e2f62d58ece167dca2bfa7ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872535,
+            "region_id":85688563,
+            "venue_id":873765761
+        }
+    ],
+    "wof:id":873765761,
+    "wof:lastmodified":1464297309,
+    "wof:name":"Smith Pest Control",
+    "wof:parent_id":85872535,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -95.988933,
+    41.284006,
+    -95.988933,
+    41.284006
+],
+  "geometry": {"coordinates":[-95.988933,41.284006],"type":"Point"}
+}

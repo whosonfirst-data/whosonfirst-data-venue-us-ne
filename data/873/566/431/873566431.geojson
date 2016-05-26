@@ -1,0 +1,78 @@
+{
+  "id": 873566431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.038908,41.231744,-96.038908,41.231744",
+    "geom:latitude":41.231744,
+    "geom:longitude":-96.038908,
+    "iso:country":"US",
+    "sg:address":"2808 S 80th Ave",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 391 1800",
+    "sg:postcode":"68124",
+    "sg:province":"NE",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "sg:website":"www.allergyasthmaimm.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872511,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6pwJEh35TocTXyzOMeEl5v_41.231744_-96.038908@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294570,
+    "wof:geomhash":"7a0fdfbe08b82cf1f99628977f5aa829",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872511,
+            "region_id":85688563,
+            "venue_id":873566431
+        }
+    ],
+    "wof:id":873566431,
+    "wof:lastmodified":1464294570,
+    "wof:name":"Allergy Asthma & Immunology",
+    "wof:parent_id":85872511,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -96.038908,
+    41.231744,
+    -96.038908,
+    41.231744
+],
+  "geometry": {"coordinates":[-96.03890800000001,41.231744],"type":"Point"}
+}

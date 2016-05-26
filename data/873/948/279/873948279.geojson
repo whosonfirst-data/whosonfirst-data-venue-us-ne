@@ -1,0 +1,73 @@
+{
+  "id": 873948279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.065504,41.310688,-96.065504,41.310688",
+    "geom:latitude":41.310688,
+    "geom:longitude":-96.065504,
+    "iso:country":"US",
+    "sg:address":"9823 Laurel Ave",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 571 4789",
+    "sg:postcode":"68134",
+    "sg:province":"NE",
+    "sg:tags":[
+        "tile",
+        "house",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85872505,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5gMOnwRw5xyryacJh20uuk_41.310688_-96.065504@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464301069,
+    "wof:geomhash":"227121ec029f190455291a7439ad8dc8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":873948279
+        }
+    ],
+    "wof:id":873948279,
+    "wof:lastmodified":1464301069,
+    "wof:name":"Bob's Ceramic Tile Co",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tile",
+        "house",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -96.065504,
+    41.310688,
+    -96.065504,
+    41.310688
+],
+  "geometry": {"coordinates":[-96.065504,41.310688],"type":"Point"}
+}

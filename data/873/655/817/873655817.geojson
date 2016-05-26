@@ -1,0 +1,77 @@
+{
+  "id": 873655817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.052688,41.277779,-96.052688,41.277779",
+    "geom:latitude":41.277779,
+    "geom:longitude":-96.052688,
+    "iso:country":"US",
+    "sg:address":"1902 N 90th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 393 1908",
+    "sg:postcode":"68114",
+    "sg:province":"NE",
+    "sg:tags":[
+        "bakery",
+        "retail"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867061,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0dzvGrWNKayPr88cqf5cn9_41.277779_-96.052688@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295654,
+    "wof:geomhash":"e6e97d87c0d2b4f98b7ef9579e20fdda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85867061,
+            "region_id":85688563,
+            "venue_id":873655817
+        }
+    ],
+    "wof:id":873655817,
+    "wof:lastmodified":1464295654,
+    "wof:name":"Dolly Madison Bakery",
+    "wof:parent_id":85867061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bakery",
+        "retail"
+    ]
+},
+  "bbox": [
+    -96.052688,
+    41.277779,
+    -96.052688,
+    41.277779
+],
+  "geometry": {"coordinates":[-96.052688,41.277779],"type":"Point"}
+}

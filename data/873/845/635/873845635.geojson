@@ -1,0 +1,71 @@
+{
+  "id": 873845635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.10075,41.297801,-96.10075,41.297801",
+    "geom:latitude":41.297801,
+    "geom:longitude":-96.10075,
+    "iso:country":"US",
+    "sg:address":"4714 N 120th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 496 3000",
+    "sg:postcode":"68164",
+    "sg:province":"NE",
+    "sg:tags":[
+        "banquet",
+        "catering"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85872505,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2vV6xPYrLLSu1EFnDix9Z8_41.297801_-96.100750@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298696,
+    "wof:geomhash":"b780e6f9b52ffb4802035ae62c349a6b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":873845635
+        }
+    ],
+    "wof:id":873845635,
+    "wof:lastmodified":1464298696,
+    "wof:name":"Erin Court Convention Center",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banquet",
+        "catering"
+    ]
+},
+  "bbox": [
+    -96.10075,
+    41.297801,
+    -96.10075,
+    41.297801
+],
+  "geometry": {"coordinates":[-96.10075000000001,41.297801],"type":"Point"}
+}

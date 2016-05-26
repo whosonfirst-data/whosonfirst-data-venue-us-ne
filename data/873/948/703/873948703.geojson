@@ -1,0 +1,84 @@
+{
+  "id": 873948703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.052706,41.288359,-96.052706,41.288359",
+    "geom:latitude":41.288359,
+    "geom:longitude":-96.052706,
+    "iso:country":"US",
+    "sg:address":"3024 N 90th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Construction Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Hobbies, Toys, & Games",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 571 3345",
+    "sg:postcode":"68134",
+    "sg:province":"NE",
+    "sg:tags":[
+        "equipment",
+        "ceramic",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867061,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7AO61pgCHDWioqL4PAbPGp_41.288359_-96.052706@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464301093,
+    "wof:geomhash":"ba859909fbc3f892f60a89996c687a98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85867061,
+            "region_id":85688563,
+            "venue_id":873948703
+        }
+    ],
+    "wof:id":873948703,
+    "wof:lastmodified":1464301093,
+    "wof:name":"Dorothy's Ceramics",
+    "wof:parent_id":85867061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "ceramic",
+        "supply"
+    ]
+},
+  "bbox": [
+    -96.052706,
+    41.288359,
+    -96.052706,
+    41.288359
+],
+  "geometry": {"coordinates":[-96.052706,41.288359],"type":"Point"}
+}

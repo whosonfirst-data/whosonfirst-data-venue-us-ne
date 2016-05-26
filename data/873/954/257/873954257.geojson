@@ -1,0 +1,73 @@
+{
+  "id": 873954257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.894981,41.136939,-95.894981,41.136939",
+    "geom:latitude":41.136939,
+    "geom:longitude":-95.894981,
+    "iso:country":"US",
+    "sg:address":"2245 Jefferson St",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 293 8707",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "roofing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974747,
+        102082777,
+        85820061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Kjq0TtJev4uMLkl5NQSJL_41.136939_-95.894981@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464301315,
+    "wof:geomhash":"a32fb5ec0bb98de9f0a7850bd0320930",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974747,
+            "neighbourhood_id":85820061,
+            "region_id":85688563,
+            "venue_id":873954257
+        }
+    ],
+    "wof:id":873954257,
+    "wof:lastmodified":1464301315,
+    "wof:name":"Ciaccio Roofing Corp",
+    "wof:parent_id":85820061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "roofing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -95.894981,
+    41.136939,
+    -95.894981,
+    41.136939
+],
+  "geometry": {"coordinates":[-95.894981,41.136939],"type":"Point"}
+}

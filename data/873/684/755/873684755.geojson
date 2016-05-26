@@ -1,0 +1,75 @@
+{
+  "id": 873684755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.64655,40.764445,-96.64655,40.764445",
+    "geom:latitude":40.764445,
+    "geom:longitude":-96.64655,
+    "iso:country":"US",
+    "sg:address":"4820 S 54th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 423 7570",
+    "sg:postcode":"68516",
+    "sg:province":"NE",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878695,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1j4fe5QVEIe7GfLtqd8MPl_40.764445_-96.646550@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296131,
+    "wof:geomhash":"65bee5d51957d71101645934e97ac2c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878695,
+            "region_id":85688563,
+            "venue_id":873684755
+        }
+    ],
+    "wof:id":873684755,
+    "wof:lastmodified":1464296131,
+    "wof:name":"Fischer Cleaning Svc",
+    "wof:parent_id":85878695,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -96.64655,
+    40.764445,
+    -96.64655,
+    40.764445
+],
+  "geometry": {"coordinates":[-96.64655,40.764445],"type":"Point"}
+}

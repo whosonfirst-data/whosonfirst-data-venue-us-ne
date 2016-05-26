@@ -1,0 +1,66 @@
+{
+  "id": 873676925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.919081,41.175611,-95.919081,41.175611",
+    "geom:latitude":41.175611,
+    "geom:longitude":-95.919081,
+    "iso:country":"US",
+    "sg:address":"801 Bellevue Blvd N",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 339 5988",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85804025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Q55Nh8qDUg5gEwH6Ree8P_41.175611_-95.919081@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295911,
+    "wof:geomhash":"952025fa7ee58c2da0345f811794a070",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85804025,
+            "region_id":85688563,
+            "venue_id":873676925
+        }
+    ],
+    "wof:id":873676925,
+    "wof:lastmodified":1464295911,
+    "wof:name":"Country At Heart",
+    "wof:parent_id":85804025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -95.919081,
+    41.175611,
+    -95.919081,
+    41.175611
+],
+  "geometry": {"coordinates":[-95.91908100000001,41.175611],"type":"Point"}
+}

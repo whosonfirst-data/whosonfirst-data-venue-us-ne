@@ -1,0 +1,73 @@
+{
+  "id": 873945289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.651162,40.738123,-96.651162,40.738123",
+    "geom:latitude":40.738123,
+    "geom:longitude":-96.651162,
+    "iso:country":"US",
+    "sg:address":"7232 Carmen Dr",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 423 6784",
+    "sg:postcode":"68516",
+    "sg:province":"NE",
+    "sg:tags":[
+        "grain",
+        "cash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3jm1HP6hO3biSw59KrRjPt_40.738123_-96.651162@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300892,
+    "wof:geomhash":"f6f8ba4c81c84302d4a1b649b18b7bc5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878733,
+            "region_id":85688563,
+            "venue_id":873945289
+        }
+    ],
+    "wof:id":873945289,
+    "wof:lastmodified":1464300892,
+    "wof:name":"Roehrs Werner Inc",
+    "wof:parent_id":85878733,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grain",
+        "cash"
+    ]
+},
+  "bbox": [
+    -96.651162,
+    40.738123,
+    -96.651162,
+    40.738123
+],
+  "geometry": {"coordinates":[-96.651162,40.738123],"type":"Point"}
+}

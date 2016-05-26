@@ -1,0 +1,75 @@
+{
+  "id": 873642903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.129761,41.242101,-96.129761,41.242101",
+    "geom:latitude":41.242101,
+    "geom:longitude":-96.129761,
+    "iso:country":"US",
+    "sg:address":"1716 S 139th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Vending Machines",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 679 1014",
+    "sg:postcode":"68144",
+    "sg:province":"NE",
+    "sg:tags":[
+        "operator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85806957,
+        102191575,
+        404519987,
+        85633793,
+        85973479,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6rkh45c1FaEBotDIR6fy4s_41.242101_-96.129761@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295510,
+    "wof:geomhash":"ccd77bebc6283394cddd1081f80edef0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404519987,
+            "locality_id":85973479,
+            "neighbourhood_id":85806957,
+            "region_id":85688563,
+            "venue_id":873642903
+        }
+    ],
+    "wof:id":873642903,
+    "wof:lastmodified":1464295510,
+    "wof:name":"Electronic Vending Inc",
+    "wof:parent_id":85806957,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator"
+    ]
+},
+  "bbox": [
+    -96.129761,
+    41.242101,
+    -96.129761,
+    41.242101
+],
+  "geometry": {"coordinates":[-96.129761,41.242101],"type":"Point"}
+}

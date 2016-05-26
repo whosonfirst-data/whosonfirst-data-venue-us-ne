@@ -1,0 +1,73 @@
+{
+  "id": 873861943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.621488,40.784351,-96.621488,40.784351",
+    "geom:latitude":40.784351,
+    "geom:longitude":-96.621488,
+    "iso:country":"US",
+    "sg:address":"7208 Van Dorn St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 486 0011",
+    "sg:postcode":"68506",
+    "sg:province":"NE",
+    "sg:tags":[
+        "home",
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6pHGsBKfOygW4tee42PVN7_40.784351_-96.621488@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299076,
+    "wof:geomhash":"eb501e934a64a2f2f4099ec29c8e416f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878697,
+            "region_id":85688563,
+            "venue_id":873861943
+        }
+    ],
+    "wof:id":873861943,
+    "wof:lastmodified":1464299076,
+    "wof:name":"Silvercrest Assisted Living",
+    "wof:parent_id":85878697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "residential"
+    ]
+},
+  "bbox": [
+    -96.621488,
+    40.784351,
+    -96.621488,
+    40.784351
+],
+  "geometry": {"coordinates":[-96.621488,40.784351],"type":"Point"}
+}

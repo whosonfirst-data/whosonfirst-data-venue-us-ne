@@ -1,0 +1,75 @@
+{
+  "id": 873884523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.123497,41.23266,-96.123497,41.23266",
+    "geom:latitude":41.23266,
+    "geom:longitude":-96.123497,
+    "iso:country":"US",
+    "sg:address":"2715 S 134th Ave",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 333 0249",
+    "sg:postcode":"68144",
+    "sg:province":"NE",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872531,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4jRu1h0YdFiLTnPf7ZeV2e_41.232660_-96.123497@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299530,
+    "wof:geomhash":"b1ce863baee8462eb1324c2a269db24e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872531,
+            "region_id":85688563,
+            "venue_id":873884523
+        }
+    ],
+    "wof:id":873884523,
+    "wof:lastmodified":1464299530,
+    "wof:name":"Feather Dusters",
+    "wof:parent_id":85872531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -96.123497,
+    41.23266,
+    -96.123497,
+    41.23266
+],
+  "geometry": {"coordinates":[-96.123497,41.23266],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 873807253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.123882,41.22727,-96.123882,41.22727",
+    "geom:latitude":41.22727,
+    "geom:longitude":-96.123882,
+    "iso:country":"US",
+    "sg:address":"13506 Westwood Ln",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 334 5001",
+    "sg:postcode":"68144",
+    "sg:province":"NE",
+    "sg:tags":[
+        "sharpening"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872531,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5nY9Ti1tAshR7p9WydMbEc_41.227270_-96.123882@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297876,
+    "wof:geomhash":"33c2902febcff8944ff594682a79629e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872531,
+            "region_id":85688563,
+            "venue_id":873807253
+        }
+    ],
+    "wof:id":873807253,
+    "wof:lastmodified":1464297876,
+    "wof:name":"Al's Sharpening",
+    "wof:parent_id":85872531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sharpening"
+    ]
+},
+  "bbox": [
+    -96.123882,
+    41.22727,
+    -96.123882,
+    41.22727
+],
+  "geometry": {"coordinates":[-96.12388199999999,41.22727],"type":"Point"}
+}

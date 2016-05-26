@@ -1,0 +1,71 @@
+{
+  "id": 873822619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.142851,41.164219,-96.142851,41.164219",
+    "geom:latitude":41.164219,
+    "geom:longitude":-96.142851,
+    "iso:country":"US",
+    "sg:address":"9751 S 147th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 861 9699",
+    "sg:postcode":"68138",
+    "sg:province":"NE",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85834285,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1JpK60YoXjtbZpZowYbiT3_41.164219_-96.142851@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298180,
+    "wof:geomhash":"7c656f91fafbba0e5a64326f89e4ffd0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85834285,
+            "region_id":85688563,
+            "venue_id":873822619
+        }
+    ],
+    "wof:id":873822619,
+    "wof:lastmodified":1464298180,
+    "wof:name":"SUBB Contractors Inc",
+    "wof:parent_id":85834285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.142851,
+    41.164219,
+    -96.142851,
+    41.164219
+],
+  "geometry": {"coordinates":[-96.14285099999999,41.164219],"type":"Point"}
+}

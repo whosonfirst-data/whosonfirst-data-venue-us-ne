@@ -1,0 +1,75 @@
+{
+  "id": 873930181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.890635,41.148197,-95.890635,41.148197",
+    "geom:latitude":41.148197,
+    "geom:longitude":-95.890635,
+    "iso:country":"US",
+    "sg:address":"1209 Main St",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 291 9200",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974747,
+        102082777,
+        85820061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6nLSh6zAyr1bco1n8YB79r_41.148197_-95.890635@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300413,
+    "wof:geomhash":"5c18c638403885862be1c95bc7eb833f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974747,
+            "neighbourhood_id":85820061,
+            "region_id":85688563,
+            "venue_id":873930181
+        }
+    ],
+    "wof:id":873930181,
+    "wof:lastmodified":1464300413,
+    "wof:name":"Sterrett Brothers Sanitation",
+    "wof:parent_id":85820061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -95.890635,
+    41.148197,
+    -95.890635,
+    41.148197
+],
+  "geometry": {"coordinates":[-95.890635,41.148197],"type":"Point"}
+}

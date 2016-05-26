@@ -1,0 +1,71 @@
+{
+  "id": 873952721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.91956,41.090676,-95.91956,41.090676",
+    "geom:latitude":41.090676,
+    "geom:longitude":-95.91956,
+    "iso:country":"US",
+    "sg:address":"805 Bordeaux Ave",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 291 6002",
+    "sg:postcode":"68123",
+    "sg:province":"NE",
+    "sg:tags":[
+        "clergy"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974747,
+        102082777,
+        85820061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4hGtJ9P9k9yXk0QqXdIXhz_41.090676_-95.919560@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464301258,
+    "wof:geomhash":"d921a99253f1806638158dd91fbb9acc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974747,
+            "neighbourhood_id":85820061,
+            "region_id":85688563,
+            "venue_id":873952721
+        }
+    ],
+    "wof:id":873952721,
+    "wof:lastmodified":1464301258,
+    "wof:name":"Melvin Yeich",
+    "wof:parent_id":85820061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clergy"
+    ]
+},
+  "bbox": [
+    -95.91956,
+    41.090676,
+    -95.91956,
+    41.090676
+],
+  "geometry": {"coordinates":[-95.91956,41.090676],"type":"Point"}
+}

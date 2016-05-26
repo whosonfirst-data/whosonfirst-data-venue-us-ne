@@ -1,0 +1,83 @@
+{
+  "id": 873566043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.078099,41.33936,-96.078099,41.33936",
+    "geom:latitude":41.33936,
+    "geom:longitude":-96.078099,
+    "iso:country":"US",
+    "sg:address":"10634 Bondesson Cir",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 572 6929",
+    "sg:postcode":"68122",
+    "sg:province":"NE",
+    "sg:tags":[
+        "steel",
+        "food",
+        "processing",
+        "stainless",
+        "mfg"
+    ],
+    "sg:website":"www.prewel.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85872505,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1j2D7EEJxd3iWBzgxUwPkh_41.339360_-96.078099@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294566,
+    "wof:geomhash":"222a688f536000327475fae92787959e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":873566043
+        }
+    ],
+    "wof:id":873566043,
+    "wof:lastmodified":1464294566,
+    "wof:name":"Pre-Wel Mfg Corp",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "steel",
+        "food",
+        "processing",
+        "stainless",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -96.078099,
+    41.33936,
+    -96.078099,
+    41.33936
+],
+  "geometry": {"coordinates":[-96.07809899999999,41.33936],"type":"Point"}
+}

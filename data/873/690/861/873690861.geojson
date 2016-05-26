@@ -1,0 +1,71 @@
+{
+  "id": 873690861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.976203,41.14043,-95.976203,41.14043",
+    "geom:latitude":41.14043,
+    "geom:longitude":-95.976203,
+    "iso:country":"US",
+    "sg:address":"11511 S 42nd St",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 291 5400",
+    "sg:postcode":"68123",
+    "sg:province":"NE",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85821583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_587vzj4JkDrZMfNkD7dQrs_41.140430_-95.976203@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296296,
+    "wof:geomhash":"2290bae95b40b02e22d36e34a4e88d8c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85821583,
+            "region_id":85688563,
+            "venue_id":873690861
+        }
+    ],
+    "wof:id":873690861,
+    "wof:lastmodified":1464296296,
+    "wof:name":"Belleview Pediatric Dentistry",
+    "wof:parent_id":85821583,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -95.976203,
+    41.14043,
+    -95.976203,
+    41.14043
+],
+  "geometry": {"coordinates":[-95.976203,41.14043],"type":"Point"}
+}

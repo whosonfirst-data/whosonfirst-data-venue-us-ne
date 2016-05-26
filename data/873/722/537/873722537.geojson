@@ -1,0 +1,75 @@
+{
+  "id": 873722537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.685777,40.717818,-96.685777,40.717818",
+    "geom:latitude":40.717818,
+    "geom:longitude":-96.685777,
+    "iso:country":"US",
+    "sg:address":"9333 Whispering Wind Rd",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 328 0789",
+    "sg:postcode":"68512",
+    "sg:province":"NE",
+    "sg:tags":[
+        "beef",
+        "feedlot",
+        "cattle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_72y9UeE7LYwgDFxd9oLvIv_40.717818_-96.685777@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296681,
+    "wof:geomhash":"7d96759f1cb078b766fcc2200628f966",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878733,
+            "region_id":85688563,
+            "venue_id":873722537
+        }
+    ],
+    "wof:id":873722537,
+    "wof:lastmodified":1464296681,
+    "wof:name":"Richard Herink",
+    "wof:parent_id":85878733,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beef",
+        "feedlot",
+        "cattle"
+    ]
+},
+  "bbox": [
+    -96.685777,
+    40.717818,
+    -96.685777,
+    40.717818
+],
+  "geometry": {"coordinates":[-96.685777,40.717818],"type":"Point"}
+}

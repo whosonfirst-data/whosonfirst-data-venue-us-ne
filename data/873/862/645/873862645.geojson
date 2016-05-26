@@ -1,0 +1,70 @@
+{
+  "id": 873862645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.960405,41.323459,-95.960405,41.323459",
+    "geom:latitude":41.323459,
+    "geom:longitude":-95.960405,
+    "iso:country":"US",
+    "sg:address":"3054 Martin Ave",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 453 4780",
+    "sg:postcode":"68112",
+    "sg:province":"NE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85805287,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_31j59CrvPjPkHSTEiDvBx8_41.323459_-95.960405@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299089,
+    "wof:geomhash":"275ff7c1c3bd1c7da82d5bfc9cd622ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85805287,
+            "region_id":85688563,
+            "venue_id":873862645
+        }
+    ],
+    "wof:id":873862645,
+    "wof:lastmodified":1464299089,
+    "wof:name":"Scott D Oliver",
+    "wof:parent_id":85805287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -95.960405,
+    41.323459,
+    -95.960405,
+    41.323459
+],
+  "geometry": {"coordinates":[-95.96040499999999,41.323459],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 873795191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.111404,41.255512,-96.111404,41.255512",
+    "geom:latitude":41.255512,
+    "geom:longitude":-96.111404,
+    "iso:country":"US",
+    "sg:address":"12816 Harney St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 334 8530",
+    "sg:postcode":"68154",
+    "sg:province":"NE",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85806957,
+        102191575,
+        404519987,
+        85633793,
+        85973479,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_08zL8EO4Nck10eTWewTfC3_41.255512_-96.111404@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297717,
+    "wof:geomhash":"221c220925a90e71ee1c6451218ffa5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404519987,
+            "locality_id":85973479,
+            "neighbourhood_id":85806957,
+            "region_id":85688563,
+            "venue_id":873795191
+        }
+    ],
+    "wof:id":873795191,
+    "wof:lastmodified":1464297717,
+    "wof:name":"James Phalen MD",
+    "wof:parent_id":85806957,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -96.111404,
+    41.255512,
+    -96.111404,
+    41.255512
+],
+  "geometry": {"coordinates":[-96.11140399999999,41.255512],"type":"Point"}
+}

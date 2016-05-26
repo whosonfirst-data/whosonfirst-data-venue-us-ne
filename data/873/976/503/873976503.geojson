@@ -1,0 +1,78 @@
+{
+  "id": 873976503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.091065,41.264378,-96.091065,41.264378",
+    "geom:latitude":41.264378,
+    "geom:longitude":-96.091065,
+    "iso:country":"US",
+    "sg:address":"630 N 114th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ne/omaha/129549-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 496 7827",
+    "sg:postcode":"68154",
+    "sg:province":"NE",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872503,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Q3wfEqbcvGI4psjg8wmwW_41.264378_-96.091065@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464302240,
+    "wof:geomhash":"0151f9a8dbf196aa8c9dcadeb4db2be4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872503,
+            "region_id":85688563,
+            "venue_id":873976503
+        }
+    ],
+    "wof:id":873976503,
+    "wof:lastmodified":1464302240,
+    "wof:name":"Subway",
+    "wof:parent_id":85872503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -96.091065,
+    41.264378,
+    -96.091065,
+    41.264378
+],
+  "geometry": {"coordinates":[-96.091065,41.264378],"type":"Point"}
+}

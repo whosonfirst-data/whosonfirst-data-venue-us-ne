@@ -1,0 +1,77 @@
+{
+  "id": 873846607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.722919,40.803743,-96.722919,40.803743",
+    "geom:latitude":40.803743,
+    "geom:longitude":-96.722919,
+    "iso:country":"US",
+    "sg:address":"925 SW 2nd St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 432 3514",
+    "sg:postcode":"68508",
+    "sg:province":"NE",
+    "sg:tags":[
+        "masonry",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878737,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5dJ9zQ7vqIuyHmvohH6Vl8_40.803743_-96.722919@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298715,
+    "wof:geomhash":"92c9b5785b762f74e0378465cc65248c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878737,
+            "region_id":85688563,
+            "venue_id":873846607
+        }
+    ],
+    "wof:id":873846607,
+    "wof:lastmodified":1464298715,
+    "wof:name":"Shields Masonry",
+    "wof:parent_id":85878737,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "masonry",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.722919,
+    40.803743,
+    -96.722919,
+    40.803743
+],
+  "geometry": {"coordinates":[-96.722919,40.803743],"type":"Point"}
+}

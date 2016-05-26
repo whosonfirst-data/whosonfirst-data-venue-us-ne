@@ -1,0 +1,73 @@
+{
+  "id": 873660127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.128051,41.304079,-96.128051,41.304079",
+    "geom:latitude":41.304079,
+    "geom:longitude":-96.128051,
+    "iso:country":"US",
+    "sg:address":"5111 N 137th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 614 5830",
+    "sg:postcode":"68164",
+    "sg:province":"NE",
+    "sg:tags":[
+        "equipment",
+        "golf",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85872505,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4xcTbCHznoXuRoDaWLXh9T_41.304079_-96.128051@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295699,
+    "wof:geomhash":"00b7d54faed329e5641c1481d6333cd4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":873660127
+        }
+    ],
+    "wof:id":873660127,
+    "wof:lastmodified":1464295699,
+    "wof:name":"E-Z-Go",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "golf",
+        "supply"
+    ]
+},
+  "bbox": [
+    -96.128051,
+    41.304079,
+    -96.128051,
+    41.304079
+],
+  "geometry": {"coordinates":[-96.128051,41.304079],"type":"Point"}
+}

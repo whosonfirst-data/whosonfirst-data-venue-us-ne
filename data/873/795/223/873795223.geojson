@@ -1,0 +1,71 @@
+{
+  "id": 873795223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.91482,41.147991,-95.91482,41.147991",
+    "geom:latitude":41.147991,
+    "geom:longitude":-95.91482,
+    "iso:country":"US",
+    "sg:address":"1309 Galvin Rd S",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 292 2862",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "communications"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85821583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_218Tw08E6M5Q7S5GjahNpB_41.147991_-95.914820@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297717,
+    "wof:geomhash":"0d7b850c8b9bd7ae9692de79d9b7e6ed",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85821583,
+            "region_id":85688563,
+            "venue_id":873795223
+        }
+    ],
+    "wof:id":873795223,
+    "wof:lastmodified":1464297717,
+    "wof:name":"AT&T",
+    "wof:parent_id":85821583,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "communications"
+    ]
+},
+  "bbox": [
+    -95.91482,
+    41.147991,
+    -95.91482,
+    41.147991
+],
+  "geometry": {"coordinates":[-95.91482000000001,41.147991],"type":"Point"}
+}

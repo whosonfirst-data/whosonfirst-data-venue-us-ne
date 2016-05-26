@@ -1,0 +1,73 @@
+{
+  "id": 873883921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.725725,40.864185,-96.725725,40.864185",
+    "geom:latitude":40.864185,
+    "geom:longitude":-96.725725,
+    "iso:country":"US",
+    "sg:address":"151 Chancery Ct",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 438 3718",
+    "sg:postcode":"68521",
+    "sg:province":"NE",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0uNEt7AggMH9dm5fyuh5HM_40.864185_-96.725725@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299514,
+    "wof:geomhash":"396f239dc524032b3fcc865ffe1db002",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878717,
+            "region_id":85688563,
+            "venue_id":873883921
+        }
+    ],
+    "wof:id":873883921,
+    "wof:lastmodified":1464299514,
+    "wof:name":"Tam Properties LLC",
+    "wof:parent_id":85878717,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -96.725725,
+    40.864185,
+    -96.725725,
+    40.864185
+],
+  "geometry": {"coordinates":[-96.725725,40.864185],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 873816695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-98.347056,40.910228,-98.347056,40.910228",
+    "geom:latitude":40.910228,
+    "geom:longitude":-98.347056,
+    "iso:country":"US",
+    "sg:address":"1124 S Adams St",
+    "sg:city":"Grand Island",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 308 382 5454",
+    "sg:postcode":"68801",
+    "sg:province":"NE",
+    "sg:tags":[
+        "grain",
+        "elevator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85840711,
+        102191575,
+        404518499,
+        85633793,
+        85973941,
+        102083477,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5i9RXfVjPdy5Y4qUfHWUkJ_40.910228_-98.347056@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298047,
+    "wof:geomhash":"d52ebb4b692cef42f39e06d8e4988ea1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083477,
+            "localadmin_id":404518499,
+            "locality_id":85973941,
+            "neighbourhood_id":85840711,
+            "region_id":85688563,
+            "venue_id":873816695
+        }
+    ],
+    "wof:id":873816695,
+    "wof:lastmodified":1464298047,
+    "wof:name":"Preventive Maintenance Inc",
+    "wof:parent_id":85840711,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grain",
+        "elevator"
+    ]
+},
+  "bbox": [
+    -98.347056,
+    40.910228,
+    -98.347056,
+    40.910228
+],
+  "geometry": {"coordinates":[-98.34705599999999,40.910228],"type":"Point"}
+}

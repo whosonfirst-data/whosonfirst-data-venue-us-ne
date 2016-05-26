@@ -1,0 +1,73 @@
+{
+  "id": 873633133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.165167,41.190168,-96.165167,41.190168",
+    "geom:latitude":41.190168,
+    "geom:longitude":-96.165167,
+    "iso:country":"US",
+    "sg:address":"16022 Audrey St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 679 8707",
+    "sg:postcode":"68136",
+    "sg:province":"NE",
+    "sg:tags":[
+        "cleaners",
+        "rug",
+        "carpet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85834285,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7BiMAhjfKPGYAYKn4rO0ip_41.190168_-96.165167@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295401,
+    "wof:geomhash":"2ae0ba0b9bf4bf406872580db0f80571",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85834285,
+            "region_id":85688563,
+            "venue_id":873633133
+        }
+    ],
+    "wof:id":873633133,
+    "wof:lastmodified":1464295401,
+    "wof:name":"Rick's Knockout Carpet",
+    "wof:parent_id":85834285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners",
+        "rug",
+        "carpet"
+    ]
+},
+  "bbox": [
+    -96.165167,
+    41.190168,
+    -96.165167,
+    41.190168
+],
+  "geometry": {"coordinates":[-96.165167,41.190168],"type":"Point"}
+}

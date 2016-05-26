@@ -1,0 +1,75 @@
+{
+  "id": 873604457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.64125,40.788528,-96.64125,40.788528",
+    "geom:latitude":40.788528,
+    "geom:longitude":-96.64125,
+    "iso:country":"US",
+    "sg:address":"2345 S 58th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 488 8155",
+    "sg:postcode":"68506",
+    "sg:province":"NE",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85811821,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2P1puvV66Ol5BsUHFqI1Tp_40.788528_-96.641250@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295034,
+    "wof:geomhash":"c9d3975ace86c05a44518f8d8953d4ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85811821,
+            "region_id":85688563,
+            "venue_id":873604457
+        }
+    ],
+    "wof:id":873604457,
+    "wof:lastmodified":1464295034,
+    "wof:name":"Pebble Tech Inc",
+    "wof:parent_id":85811821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.64125,
+    40.788528,
+    -96.64125,
+    40.788528
+],
+  "geometry": {"coordinates":[-96.64125,40.788528],"type":"Point"}
+}

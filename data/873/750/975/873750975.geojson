@@ -1,0 +1,71 @@
+{
+  "id": 873750975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.61144,40.792739,-96.61144,40.792739",
+    "geom:latitude":40.792739,
+    "geom:longitude":-96.61144,
+    "iso:country":"US",
+    "sg:address":"1812 Devoe Dr",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 488 1663",
+    "sg:postcode":"68506",
+    "sg:province":"NE",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3o9dD9qvaFsrZoKiaVSUaw_40.792739_-96.611440@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297087,
+    "wof:geomhash":"51a23897d09fb48a038fa8623a4a1830",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878697,
+            "region_id":85688563,
+            "venue_id":873750975
+        }
+    ],
+    "wof:id":873750975,
+    "wof:lastmodified":1464297087,
+    "wof:name":"Clean Management Svc",
+    "wof:parent_id":85878697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -96.61144,
+    40.792739,
+    -96.61144,
+    40.792739
+],
+  "geometry": {"coordinates":[-96.61144,40.792739],"type":"Point"}
+}

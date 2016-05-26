@@ -1,0 +1,73 @@
+{
+  "id": 873823565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.634549,40.857109,-96.634549,40.857109",
+    "geom:latitude":40.857109,
+    "geom:longitude":-96.634549,
+    "iso:country":"US",
+    "sg:address":"6212 Havelock Ave",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 466 8863",
+    "sg:postcode":"68507",
+    "sg:province":"NE",
+    "sg:tags":[
+        "beer",
+        "ale"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85824241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4L82nA85FHvSW6td3HGExu_40.857109_-96.634549@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298200,
+    "wof:geomhash":"1de811246c0a1373b7cb9b3e2cae7e6f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85824241,
+            "region_id":85688563,
+            "venue_id":873823565
+        }
+    ],
+    "wof:id":873823565,
+    "wof:lastmodified":1464298200,
+    "wof:name":"Bob's Tavern",
+    "wof:parent_id":85824241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beer",
+        "ale"
+    ]
+},
+  "bbox": [
+    -96.634549,
+    40.857109,
+    -96.634549,
+    40.857109
+],
+  "geometry": {"coordinates":[-96.63454900000001,40.857109],"type":"Point"}
+}

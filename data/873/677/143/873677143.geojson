@@ -1,0 +1,71 @@
+{
+  "id": 873677143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.725942,40.865111,-96.725942,40.865111",
+    "geom:latitude":40.865111,
+    "geom:longitude":-96.725942,
+    "iso:country":"US",
+    "sg:address":"5440 W Brixton Dr",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 435 7208",
+    "sg:postcode":"68521",
+    "sg:province":"NE",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2KdWUHCMIQ9Jj9FYCC9tSJ_40.865111_-96.725942@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295916,
+    "wof:geomhash":"b0c85a350d78ec5a51ccedcc070029ad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878717,
+            "region_id":85688563,
+            "venue_id":873677143
+        }
+    ],
+    "wof:id":873677143,
+    "wof:lastmodified":1464295916,
+    "wof:name":"Choutka Inc",
+    "wof:parent_id":85878717,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.725942,
+    40.865111,
+    -96.725942,
+    40.865111
+],
+  "geometry": {"coordinates":[-96.725942,40.865111],"type":"Point"}
+}

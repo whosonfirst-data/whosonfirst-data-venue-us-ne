@@ -1,0 +1,76 @@
+{
+  "id": 873563111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.071649,41.219488,-96.071649,41.219488",
+    "geom:latitude":41.219488,
+    "geom:longitude":-96.071649,
+    "iso:country":"US",
+    "sg:address":"9601 F St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Pet Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 331 7717",
+    "sg:postcode":"68127",
+    "sg:province":"NE",
+    "sg:tags":[
+        "cereal"
+    ],
+    "sg:website":"www.kellogg.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872511,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_35spqgJr4evkLo9Nte80HS_41.219488_-96.071649@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294532,
+    "wof:geomhash":"47f5c7579a5900fc1ae7c39bb56f4982",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872511,
+            "region_id":85688563,
+            "venue_id":873563111
+        }
+    ],
+    "wof:id":873563111,
+    "wof:lastmodified":1464294532,
+    "wof:name":"Kellogg Co",
+    "wof:parent_id":85872511,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cereal"
+    ]
+},
+  "bbox": [
+    -96.071649,
+    41.219488,
+    -96.071649,
+    41.219488
+],
+  "geometry": {"coordinates":[-96.07164899999999,41.219488],"type":"Point"}
+}

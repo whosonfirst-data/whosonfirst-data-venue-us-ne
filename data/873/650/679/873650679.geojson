@@ -1,0 +1,70 @@
+{
+  "id": 873650679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.098579,41.205526,-96.098579,41.205526",
+    "geom:latitude":41.205526,
+    "geom:longitude":-96.098579,
+    "iso:country":"US",
+    "sg:address":"5120 S 118th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 895 2410",
+    "sg:postcode":"68137",
+    "sg:province":"NE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872531,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_63EXBbkF9sfDNxTlBTFGCo_41.205526_-96.098579@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295595,
+    "wof:geomhash":"ca3763c7e554f36b5272b2ac1d7b53d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872531,
+            "region_id":85688563,
+            "venue_id":873650679
+        }
+    ],
+    "wof:id":873650679,
+    "wof:lastmodified":1464295595,
+    "wof:name":"Cenex Convenience Store",
+    "wof:parent_id":85872531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.098579,
+    41.205526,
+    -96.098579,
+    41.205526
+],
+  "geometry": {"coordinates":[-96.098579,41.205526],"type":"Point"}
+}

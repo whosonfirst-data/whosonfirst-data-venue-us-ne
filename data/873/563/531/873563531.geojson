@@ -1,0 +1,73 @@
+{
+  "id": 873563531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.932229,41.117131,-95.932229,41.117131",
+    "geom:latitude":41.117131,
+    "geom:longitude":-95.932229,
+    "iso:country":"US",
+    "sg:address":"13033 S 13th St",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 292 8443",
+    "sg:postcode":"68123",
+    "sg:province":"NE",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974747,
+        102082777,
+        85820061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4J5DkWd0zA4QPebXhwGwav_41.117131_-95.932229@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294537,
+    "wof:geomhash":"62f250773ff4f638aeeab764517af8a5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974747,
+            "neighbourhood_id":85820061,
+            "region_id":85688563,
+            "venue_id":873563531
+        }
+    ],
+    "wof:id":873563531,
+    "wof:lastmodified":1464294537,
+    "wof:name":"Dean Taylor & Son Inc",
+    "wof:parent_id":85820061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -95.932229,
+    41.117131,
+    -95.932229,
+    41.117131
+],
+  "geometry": {"coordinates":[-95.93222900000001,41.117131],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 873977851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.945985,41.159397,-95.945985,41.159397",
+    "geom:latitude":41.159397,
+    "geom:longitude":-95.945985,
+    "iso:country":"US",
+    "sg:address":"2340 Cornhusker Rd",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ne/highland-ii/129496-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 292 3845",
+    "sg:postcode":"68123",
+    "sg:province":"NE",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85821583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3okwy8WpvM3ugZUil1aoMc_41.159343_-95.945161@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464302291,
+    "wof:geomhash":"1d9f88d421be2adb743ace51e958d59f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85821583,
+            "region_id":85688563,
+            "venue_id":873977851
+        }
+    ],
+    "wof:id":873977851,
+    "wof:lastmodified":1464302291,
+    "wof:name":"Subway",
+    "wof:parent_id":85821583,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -95.945985,
+    41.159397,
+    -95.945985,
+    41.159397
+],
+  "geometry": {"coordinates":[-95.94598499999999,41.159397],"type":"Point"}
+}

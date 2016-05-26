@@ -1,0 +1,72 @@
+{
+  "id": 873632451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.143774,41.153357,-96.143774,41.153357",
+    "geom:latitude":41.153357,
+    "geom:longitude":-96.143774,
+    "iso:country":"US",
+    "sg:address":"10705 S 147th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Scrap",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 894 0003",
+    "sg:postcode":"68138",
+    "sg:province":"NE",
+    "sg:tags":[
+        "recycling",
+        "center"
+    ],
+    "sg:website":"www.firstarfiber.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85834285,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1gu0EKb2Q8z5eXQHGBXEug_41.153357_-96.143774@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295391,
+    "wof:geomhash":"7f8de302249dc830cdb953cb938e6224",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85834285,
+            "region_id":85688563,
+            "venue_id":873632451
+        }
+    ],
+    "wof:id":873632451,
+    "wof:lastmodified":1464295391,
+    "wof:name":"Firstar Fiber Recycling",
+    "wof:parent_id":85834285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "recycling",
+        "center"
+    ]
+},
+  "bbox": [
+    -96.143774,
+    41.153357,
+    -96.143774,
+    41.153357
+],
+  "geometry": {"coordinates":[-96.14377399999999,41.153357],"type":"Point"}
+}

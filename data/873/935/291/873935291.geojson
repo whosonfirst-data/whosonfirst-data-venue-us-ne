@@ -1,0 +1,71 @@
+{
+  "id": 873935291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.077597,41.305064,-96.077597,41.305064",
+    "geom:latitude":41.305064,
+    "geom:longitude":-96.077597,
+    "iso:country":"US",
+    "sg:address":"4911 N 105th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 493 9156",
+    "sg:postcode":"68134",
+    "sg:province":"NE",
+    "sg:tags":[
+        "consultant",
+        "business"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85872505,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3vcWUjhEcWz06UfqdZNNar_41.305064_-96.077597@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300506,
+    "wof:geomhash":"dddf6d3a0cb3f83cf705032c57ec77c6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":873935291
+        }
+    ],
+    "wof:id":873935291,
+    "wof:lastmodified":1464300506,
+    "wof:name":"Bell Agency Inc",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "business"
+    ]
+},
+  "bbox": [
+    -96.077597,
+    41.305064,
+    -96.077597,
+    41.305064
+],
+  "geometry": {"coordinates":[-96.077597,41.305064],"type":"Point"}
+}

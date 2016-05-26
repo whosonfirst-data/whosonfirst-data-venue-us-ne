@@ -1,0 +1,78 @@
+{
+  "id": 873722139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.98125,41.161683,-95.98125,41.161683",
+    "geom:latitude":41.161683,
+    "geom:longitude":-95.98125,
+    "iso:country":"US",
+    "sg:address":"3803 Cornhusker Rd",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 291 9374",
+    "sg:postcode":"68123",
+    "sg:province":"NE",
+    "sg:tags":[
+        "nurseryman",
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85821583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4x0wIzEcTZYCA38axhrKkk_41.161683_-95.981250@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296676,
+    "wof:geomhash":"94c3c9a7a5551d9b13ef8387b23b9269",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85821583,
+            "region_id":85688563,
+            "venue_id":873722139
+        }
+    ],
+    "wof:id":873722139,
+    "wof:lastmodified":1464296676,
+    "wof:name":"Trees Shrubs & More Inc",
+    "wof:parent_id":85821583,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nurseryman",
+        "center"
+    ]
+},
+  "bbox": [
+    -95.98125,
+    41.161683,
+    -95.98125,
+    41.161683
+],
+  "geometry": {"coordinates":[-95.98125,41.161683],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 873914167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.048082,41.219817,-96.048082,41.219817",
+    "geom:latitude":41.219817,
+    "geom:longitude":-96.048082,
+    "iso:country":"US",
+    "sg:address":"8800 F St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 339 2400",
+    "sg:postcode":"68127",
+    "sg:province":"NE",
+    "sg:tags":[
+        "shop"
+    ],
+    "sg:website":"www.pamida.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872511,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2XmWW3pEjP4SdkujDLGpfx_41.219817_-96.048082@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300091,
+    "wof:geomhash":"8b89a11111be862a55c78535d79b44e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872511,
+            "region_id":85688563,
+            "venue_id":873914167
+        }
+    ],
+    "wof:id":873914167,
+    "wof:lastmodified":1464300091,
+    "wof:name":"Pamida Inc",
+    "wof:parent_id":85872511,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -96.048082,
+    41.219817,
+    -96.048082,
+    41.219817
+],
+  "geometry": {"coordinates":[-96.04808199999999,41.219817],"type":"Point"}
+}

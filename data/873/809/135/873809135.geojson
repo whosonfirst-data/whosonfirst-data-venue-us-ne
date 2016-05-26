@@ -1,0 +1,73 @@
+{
+  "id": 873809135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.35934,41.429556,-97.35934,41.429556",
+    "geom:latitude":41.429556,
+    "geom:longitude":-97.35934,
+    "iso:country":"US",
+    "sg:address":"1371 26th Ave",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 563 3550",
+    "sg:postcode":"68601",
+    "sg:province":"NE",
+    "sg:tags":[
+        "company",
+        "holding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974401,
+        102084277,
+        85854093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6yzMSC2BvIICM2K8vBJLxs_41.429556_-97.359340@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297911,
+    "wof:geomhash":"9798dab303e821e8aebe75f0d4824511",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084277,
+            "locality_id":85974401,
+            "neighbourhood_id":85854093,
+            "region_id":85688563,
+            "venue_id":873809135
+        }
+    ],
+    "wof:id":873809135,
+    "wof:lastmodified":1464297911,
+    "wof:name":"North Central Bancorp",
+    "wof:parent_id":85854093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "holding"
+    ]
+},
+  "bbox": [
+    -97.35934,
+    41.429556,
+    -97.35934,
+    41.429556
+],
+  "geometry": {"coordinates":[-97.35934,41.429556],"type":"Point"}
+}

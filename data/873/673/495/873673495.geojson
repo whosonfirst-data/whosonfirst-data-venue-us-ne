@@ -1,0 +1,71 @@
+{
+  "id": 873673495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.938992,41.064269,-95.938992,41.064269",
+    "geom:latitude":41.064269,
+    "geom:longitude":-95.938992,
+    "iso:country":"US",
+    "sg:address":"17208 Buttons Dr",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 496 8890",
+    "sg:postcode":"68123",
+    "sg:province":"NE",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974747,
+        102082777,
+        85820061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2lglaxePd6bcNCFL0R4Ej8_41.064269_-95.938992@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295835,
+    "wof:geomhash":"01693ee6cf05f6ef8ef76c7d984c9be8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974747,
+            "neighbourhood_id":85820061,
+            "region_id":85688563,
+            "venue_id":873673495
+        }
+    ],
+    "wof:id":873673495,
+    "wof:lastmodified":1464295835,
+    "wof:name":"Darn Dependable Svc",
+    "wof:parent_id":85820061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -95.938992,
+    41.064269,
+    -95.938992,
+    41.064269
+],
+  "geometry": {"coordinates":[-95.938992,41.064269],"type":"Point"}
+}

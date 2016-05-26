@@ -1,0 +1,73 @@
+{
+  "id": 873944629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.889918,41.086488,-95.889918,41.086488",
+    "geom:latitude":41.086488,
+    "geom:longitude":-95.889918,
+    "iso:country":"US",
+    "sg:address":"15704 Harlan Lewis Rd",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 444 3920",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "plant",
+        "treatment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974747,
+        102082777,
+        85820061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0QNMfNya4J5RxyVE30qRtc_41.086488_-95.889918@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300867,
+    "wof:geomhash":"83149cbaa9cccc88af73727b2087ff91",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974747,
+            "neighbourhood_id":85820061,
+            "region_id":85688563,
+            "venue_id":873944629
+        }
+    ],
+    "wof:id":873944629,
+    "wof:lastmodified":1464300867,
+    "wof:name":"Papillon Waste Treatment",
+    "wof:parent_id":85820061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plant",
+        "treatment"
+    ]
+},
+  "bbox": [
+    -95.889918,
+    41.086488,
+    -95.889918,
+    41.086488
+],
+  "geometry": {"coordinates":[-95.88991799999999,41.086488],"type":"Point"}
+}

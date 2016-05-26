@@ -1,0 +1,76 @@
+{
+  "id": 873888913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.052583,41.248723,-96.052583,41.248723",
+    "geom:latitude":41.248723,
+    "geom:longitude":-96.052583,
+    "iso:country":"US",
+    "sg:address":"8787 Pacific St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 391 0350",
+    "sg:postcode":"68114",
+    "sg:province":"NE",
+    "sg:tags":[
+        "church"
+    ],
+    "sg:website":"www.countrysideucc.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872533,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0sbhJnMU1DXoEDBxSc4G06_41.248723_-96.052583@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299607,
+    "wof:geomhash":"2f7c8359cee28ba346486a6651f658db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872533,
+            "region_id":85688563,
+            "venue_id":873888913
+        }
+    ],
+    "wof:id":873888913,
+    "wof:lastmodified":1464299607,
+    "wof:name":"Countryside Community Church",
+    "wof:parent_id":85872533,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -96.052583,
+    41.248723,
+    -96.052583,
+    41.248723
+],
+  "geometry": {"coordinates":[-96.052583,41.248723],"type":"Point"}
+}

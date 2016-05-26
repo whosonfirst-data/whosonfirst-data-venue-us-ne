@@ -1,0 +1,71 @@
+{
+  "id": 873765133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.68574,40.862176,-96.68574,40.862176",
+    "geom:latitude":40.862176,
+    "geom:longitude":-96.68574,
+    "iso:country":"US",
+    "sg:address":"4830 Bunker Hill Rd",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Wood Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 476 3365",
+    "sg:postcode":"68521",
+    "sg:province":"NE",
+    "sg:tags":[
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1UjG6sBCGi1fDovcN5cPw8_40.862176_-96.685740@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297298,
+    "wof:geomhash":"f43c35c16bd754460896991126fd972e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878687,
+            "region_id":85688563,
+            "venue_id":873765133
+        }
+    ],
+    "wof:id":873765133,
+    "wof:lastmodified":1464297298,
+    "wof:name":"J&K Wood Crafts",
+    "wof:parent_id":85878687,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg"
+    ]
+},
+  "bbox": [
+    -96.68574,
+    40.862176,
+    -96.68574,
+    40.862176
+],
+  "geometry": {"coordinates":[-96.68574,40.862176],"type":"Point"}
+}

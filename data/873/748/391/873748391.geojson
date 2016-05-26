@@ -1,0 +1,79 @@
+{
+  "id": 873748391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.983825,41.254504,-95.983825,41.254504",
+    "geom:latitude":41.254504,
+    "geom:longitude":-95.983825,
+    "iso:country":"US",
+    "sg:address":"600 S Saddle Creek Rd",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 681 9098",
+    "sg:postcode":"68106",
+    "sg:province":"NE",
+    "sg:tags":[
+        "sell",
+        "equipment",
+        "buy"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872523,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1mm2h61c2icm1xbmclZqIC_41.254504_-95.983825@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297054,
+    "wof:geomhash":"5fcc9e2418cf3ac29d685b909ad699f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872523,
+            "region_id":85688563,
+            "venue_id":873748391
+        }
+    ],
+    "wof:id":873748391,
+    "wof:lastmodified":1464297054,
+    "wof:name":"Omaha Bakery Supply",
+    "wof:parent_id":85872523,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sell",
+        "equipment",
+        "buy"
+    ]
+},
+  "bbox": [
+    -95.983825,
+    41.254504,
+    -95.983825,
+    41.254504
+],
+  "geometry": {"coordinates":[-95.983825,41.254504],"type":"Point"}
+}

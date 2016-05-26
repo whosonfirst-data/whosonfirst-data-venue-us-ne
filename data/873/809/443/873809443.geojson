@@ -1,0 +1,69 @@
+{
+  "id": 873809443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.158412,41.190408,-96.158412,41.190408",
+    "geom:latitude":41.190408,
+    "geom:longitude":-96.158412,
+    "iso:country":"US",
+    "sg:address":"6911 S 156th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 891 1238",
+    "sg:postcode":"68136",
+    "sg:province":"NE",
+    "sg:tags":[
+        "telecommunication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85834285,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0jmD2NI5brXuRMesa6WuaL_41.190408_-96.158412@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297918,
+    "wof:geomhash":"ecf74b32c5a50dd615f15e29bbc019d5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85834285,
+            "region_id":85688563,
+            "venue_id":873809443
+        }
+    ],
+    "wof:id":873809443,
+    "wof:lastmodified":1464297918,
+    "wof:name":"Qwest Solutions Ctr",
+    "wof:parent_id":85834285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "telecommunication"
+    ]
+},
+  "bbox": [
+    -96.158412,
+    41.190408,
+    -96.158412,
+    41.190408
+],
+  "geometry": {"coordinates":[-96.158412,41.190408],"type":"Point"}
+}

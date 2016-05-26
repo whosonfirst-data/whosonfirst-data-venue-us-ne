@@ -1,0 +1,75 @@
+{
+  "id": 873635869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.066522,41.350088,-96.066522,41.350088",
+    "geom:latitude":41.350088,
+    "geom:longitude":-96.066522,
+    "iso:country":"US",
+    "sg:address":"10273 Rainwood Rd",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 558 4690",
+    "sg:postcode":"68122",
+    "sg:province":"NE",
+    "sg:tags":[
+        "conditioning",
+        "air",
+        "system",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85872505,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ROJ2EZUsHrNgJmYGECMIl_41.350088_-96.066522@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295431,
+    "wof:geomhash":"c86c68e703448e22bc1d125fdb9fd933",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":873635869
+        }
+    ],
+    "wof:id":873635869,
+    "wof:lastmodified":1464295431,
+    "wof:name":"Furnace Shop",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "conditioning",
+        "air",
+        "system",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.066522,
+    41.350088,
+    -96.066522,
+    41.350088
+],
+  "geometry": {"coordinates":[-96.06652200000001,41.350088],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873593933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.611474,40.777422,-96.611474,40.777422",
+    "geom:latitude":40.777422,
+    "geom:longitude":-96.611474,
+    "iso:country":"US",
+    "sg:address":"8001 Eastwood Ct",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 489 4904",
+    "sg:postcode":"68506",
+    "sg:province":"NE",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6fssjMcOmI9ARRSQA7nZe2_40.777422_-96.611474@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294882,
+    "wof:geomhash":"58a8b3a2ef86b993a3c9335c7a4e36ec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878697,
+            "region_id":85688563,
+            "venue_id":873593933
+        }
+    ],
+    "wof:id":873593933,
+    "wof:lastmodified":1464294882,
+    "wof:name":"Pauley Properties Inc",
+    "wof:parent_id":85878697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -96.611474,
+    40.777422,
+    -96.611474,
+    40.777422
+],
+  "geometry": {"coordinates":[-96.611474,40.777422],"type":"Point"}
+}

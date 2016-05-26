@@ -1,0 +1,76 @@
+{
+  "id": 873920077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.054145,41.284992,-96.054145,41.284992",
+    "geom:latitude":41.284992,
+    "geom:longitude":-96.054145,
+    "iso:country":"US",
+    "sg:address":"9211 Maple St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 391 9299",
+    "sg:postcode":"68134",
+    "sg:province":"NE",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "sg:website":"www.maxiwalker.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867061,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1mufQOsLpn0HYkkTPealvc_41.284992_-96.054145@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300213,
+    "wof:geomhash":"ec6b5469a5355a24cb2215c71f1ae47b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85867061,
+            "region_id":85688563,
+            "venue_id":873920077
+        }
+    ],
+    "wof:id":873920077,
+    "wof:lastmodified":1464300213,
+    "wof:name":"Max I Walker",
+    "wof:parent_id":85867061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -96.054145,
+    41.284992,
+    -96.054145,
+    41.284992
+],
+  "geometry": {"coordinates":[-96.05414500000001,41.284992],"type":"Point"}
+}

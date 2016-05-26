@@ -1,0 +1,72 @@
+{
+  "id": 873790981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.124814,41.181644,-96.124814,41.181644",
+    "geom:latitude":41.181644,
+    "geom:longitude":-96.124814,
+    "iso:country":"US",
+    "sg:address":"7735 S 134th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 861 8840",
+    "sg:postcode":"68138",
+    "sg:province":"NE",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "sg:website":"www.pssd.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85834285,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2nLAKQ2emATYj2VzizLSjD_41.181644_-96.124814@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297653,
+    "wof:geomhash":"de70941a1468f1ce47d4f7585849fefb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85834285,
+            "region_id":85688563,
+            "venue_id":873790981
+        }
+    ],
+    "wof:id":873790981,
+    "wof:lastmodified":1464297653,
+    "wof:name":"Gulf South Medical Supply Inc",
+    "wof:parent_id":85834285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -96.124814,
+    41.181644,
+    -96.124814,
+    41.181644
+],
+  "geometry": {"coordinates":[-96.124814,41.181644],"type":"Point"}
+}

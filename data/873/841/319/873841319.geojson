@@ -1,0 +1,80 @@
+{
+  "id": 873841319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.097322,41.173154,-96.097322,41.173154",
+    "geom:latitude":41.173154,
+    "geom:longitude":-96.097322,
+    "iso:country":"US",
+    "sg:address":"11746 Portal Rd",
+    "sg:city":"La Vista",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 556 3800",
+    "sg:postcode":"68128",
+    "sg:province":"NE",
+    "sg:tags":[
+        "conditioning",
+        "air",
+        "system",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85843697,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_15XviUBsyJOTGEsvibsN9J_41.173154_-96.097322@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298583,
+    "wof:geomhash":"d8cbe0c4dc759a59654166c24fcb9542",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85843697,
+            "region_id":85688563,
+            "venue_id":873841319
+        }
+    ],
+    "wof:id":873841319,
+    "wof:lastmodified":1464298583,
+    "wof:name":"Standard Heating & Air Cond",
+    "wof:parent_id":85843697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "conditioning",
+        "air",
+        "system",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.097322,
+    41.173154,
+    -96.097322,
+    41.173154
+],
+  "geometry": {"coordinates":[-96.09732200000001,41.173154],"type":"Point"}
+}

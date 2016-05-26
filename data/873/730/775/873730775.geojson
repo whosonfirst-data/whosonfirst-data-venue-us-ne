@@ -1,0 +1,71 @@
+{
+  "id": 873730775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.358146,41.429315,-97.358146,41.429315",
+    "geom:latitude":41.429315,
+    "geom:longitude":-97.358146,
+    "iso:country":"US",
+    "sg:address":"2402 13th St",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 563 4596",
+    "sg:postcode":"68601",
+    "sg:province":"NE",
+    "sg:tags":[
+        "antique"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974401,
+        102084277,
+        85854093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ZJPGQjmZFoEeWmRnbMBJd_41.429315_-97.358146@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296788,
+    "wof:geomhash":"0bca8488d7f06793a1b068fb0f500e3e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084277,
+            "locality_id":85974401,
+            "neighbourhood_id":85854093,
+            "region_id":85688563,
+            "venue_id":873730775
+        }
+    ],
+    "wof:id":873730775,
+    "wof:lastmodified":1464296788,
+    "wof:name":"Karrie Me Back Antiques",
+    "wof:parent_id":85854093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "antique"
+    ]
+},
+  "bbox": [
+    -97.358146,
+    41.429315,
+    -97.358146,
+    41.429315
+],
+  "geometry": {"coordinates":[-97.358146,41.429315],"type":"Point"}
+}

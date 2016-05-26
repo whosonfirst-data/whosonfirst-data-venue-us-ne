@@ -1,0 +1,73 @@
+{
+  "id": 873631205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.908483,41.142809,-95.908483,41.142809",
+    "geom:latitude":41.142809,
+    "geom:longitude":-95.908483,
+    "iso:country":"US",
+    "sg:address":"1812 Pelton Ave",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Employment Agencies",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 292 5283",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "gate",
+        "attendant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974747,
+        102082777,
+        85820061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2hyxMQTk4UJWZDLfKswI3z_41.142809_-95.908483@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295376,
+    "wof:geomhash":"fef98e2d614248512fd6f322d7603ef5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974747,
+            "neighbourhood_id":85820061,
+            "region_id":85688563,
+            "venue_id":873631205
+        }
+    ],
+    "wof:id":873631205,
+    "wof:lastmodified":1464295376,
+    "wof:name":"Terry E Klein",
+    "wof:parent_id":85820061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "gate",
+        "attendant"
+    ]
+},
+  "bbox": [
+    -95.908483,
+    41.142809,
+    -95.908483,
+    41.142809
+],
+  "geometry": {"coordinates":[-95.908483,41.142809],"type":"Point"}
+}

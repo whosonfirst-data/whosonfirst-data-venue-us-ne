@@ -1,0 +1,77 @@
+{
+  "id": 873574455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.686672,40.847562,-96.686672,40.847562",
+    "geom:latitude":40.847562,
+    "geom:longitude":-96.686672,
+    "iso:country":"US",
+    "sg:address":"2615 Fairfield St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 435 6600",
+    "sg:postcode":"68521",
+    "sg:province":"NE",
+    "sg:tags":[
+        "automobile",
+        "lubrication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878721,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5x2jw8UpW9LLFa9Kf4Jx3D_40.847562_-96.686672@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294657,
+    "wof:geomhash":"cc147f059fd1507b4d424645ec74f517",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878721,
+            "region_id":85688563,
+            "venue_id":873574455
+        }
+    ],
+    "wof:id":873574455,
+    "wof:lastmodified":1464294657,
+    "wof:name":"Texaco Xpress Lube",
+    "wof:parent_id":85878721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "lubrication"
+    ]
+},
+  "bbox": [
+    -96.686672,
+    40.847562,
+    -96.686672,
+    40.847562
+],
+  "geometry": {"coordinates":[-96.686672,40.847562],"type":"Point"}
+}

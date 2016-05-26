@@ -1,0 +1,77 @@
+{
+  "id": 873693193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.661549,40.842522,-96.661549,40.842522",
+    "geom:latitude":40.842522,
+    "geom:longitude":-96.661549,
+    "iso:country":"US",
+    "sg:address":"2907 N 42nd St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 467 2968",
+    "sg:postcode":"68504",
+    "sg:province":"NE",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878741,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5MFZm64dOaV4fs88Cr4Kfl_40.842522_-96.661549@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296329,
+    "wof:geomhash":"516655ac235ffeda50f1ff992bf80762",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878741,
+            "region_id":85688563,
+            "venue_id":873693193
+        }
+    ],
+    "wof:id":873693193,
+    "wof:lastmodified":1464296329,
+    "wof:name":"Gies Trucking",
+    "wof:parent_id":85878741,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -96.661549,
+    40.842522,
+    -96.661549,
+    40.842522
+],
+  "geometry": {"coordinates":[-96.66154899999999,40.842522],"type":"Point"}
+}

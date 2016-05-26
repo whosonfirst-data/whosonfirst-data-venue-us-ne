@@ -1,0 +1,73 @@
+{
+  "id": 873695951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.07898,41.339263,-96.07898,41.339263",
+    "geom:latitude":41.339263,
+    "geom:longitude":-96.07898,
+    "iso:country":"US",
+    "sg:address":"10544 Bondesson Cir",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 572 8395",
+    "sg:postcode":"68122",
+    "sg:province":"NE",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85872505,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3zlfIfw02dmKsr8WuCiUGZ_41.339263_-96.078980@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296365,
+    "wof:geomhash":"65f183f8793a88957e83f7245ab7ad44",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":873695951
+        }
+    ],
+    "wof:id":873695951,
+    "wof:lastmodified":1464296365,
+    "wof:name":"Hofer's Auto Repair",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -96.07898,
+    41.339263,
+    -96.07898,
+    41.339263
+],
+  "geometry": {"coordinates":[-96.07898,41.339263],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 873804869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.743164,40.842994,-96.743164,40.842994",
+    "geom:latitude":40.842994,
+    "geom:longitude":-96.743164,
+    "iso:country":"US",
+    "sg:address":"2400 W Adams St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 473 1450",
+    "sg:postcode":"68524",
+    "sg:province":"NE",
+    "sg:tags":[
+        "federal",
+        "security"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102529023,
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ENUbZEbhwrYoUbsbDOkQI_40.842994_-96.743164@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297833,
+    "wof:geomhash":"e50fad67ad2f472672a74a2a71d9bb1f",
+    "wof:hierarchy":[
+        {
+            "campus_id":102529023,
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878717,
+            "region_id":85688563,
+            "venue_id":873804869
+        }
+    ],
+    "wof:id":873804869,
+    "wof:lastmodified":1464297833,
+    "wof:name":"US Army National Guard",
+    "wof:parent_id":102529023,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "federal",
+        "security"
+    ]
+},
+  "bbox": [
+    -96.743164,
+    40.842994,
+    -96.743164,
+    40.842994
+],
+  "geometry": {"coordinates":[-96.74316399999999,40.842994],"type":"Point"}
+}

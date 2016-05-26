@@ -1,0 +1,77 @@
+{
+  "id": 873821341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.047043,41.268822,-96.047043,41.268822",
+    "geom:latitude":41.268822,
+    "geom:longitude":-96.047043,
+    "iso:country":"US",
+    "sg:address":"8624 Izard St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 677 5765",
+    "sg:postcode":"68114",
+    "sg:province":"NE",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872509,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1uglluXTwPVDhlcpxFVLQZ_41.268822_-96.047043@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298144,
+    "wof:geomhash":"71ad091c8f0d4420c1aa38ef51e9bca4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872509,
+            "region_id":85688563,
+            "venue_id":873821341
+        }
+    ],
+    "wof:id":873821341,
+    "wof:lastmodified":1464298144,
+    "wof:name":"Absolute Drains",
+    "wof:parent_id":85872509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.047043,
+    41.268822,
+    -96.047043,
+    41.268822
+],
+  "geometry": {"coordinates":[-96.047043,41.268822],"type":"Point"}
+}

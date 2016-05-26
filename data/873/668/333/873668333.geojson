@@ -1,0 +1,84 @@
+{
+  "id": 873668333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.689444,40.812427,-96.689444,40.812427",
+    "geom:latitude":40.812427,
+    "geom:longitude":-96.689444,
+    "iso:country":"US",
+    "sg:address":"2231 N St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 437 1216",
+    "sg:postcode":"68510",
+    "sg:province":"NE",
+    "sg:tags":[
+        "car",
+        "parts",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878723,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_75eAbRMOKfh6MrtTAW2Sz8_40.812427_-96.689444@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295784,
+    "wof:geomhash":"ce748562f4f254affdae15aa9e970180",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878723,
+            "region_id":85688563,
+            "venue_id":873668333
+        }
+    ],
+    "wof:id":873668333,
+    "wof:lastmodified":1464295784,
+    "wof:name":"Williamson Honda Parts",
+    "wof:parent_id":85878723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "parts",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -96.689444,
+    40.812427,
+    -96.689444,
+    40.812427
+],
+  "geometry": {"coordinates":[-96.68944399999999,40.812427],"type":"Point"}
+}

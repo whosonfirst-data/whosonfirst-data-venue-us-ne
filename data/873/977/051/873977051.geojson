@@ -1,0 +1,74 @@
+{
+  "id": 873977051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.599334,40.735829,-96.599334,40.735829",
+    "geom:latitude":40.735829,
+    "geom:longitude":-96.599334,
+    "iso:country":"US",
+    "sg:address":"8700 Andermatt Dr",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ne/lincoln/194737-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 488 2480",
+    "sg:postcode":"68526",
+    "sg:province":"NE",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ASaqcnqccW4juR0KNbAI8_40.735829_-96.599334@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464302262,
+    "wof:geomhash":"9e6bd1401961cec36ad089c894291059",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878685,
+            "region_id":85688563,
+            "venue_id":873977051
+        }
+    ],
+    "wof:id":873977051,
+    "wof:lastmodified":1464302262,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85878685,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -96.599334,
+    40.735829,
+    -96.599334,
+    40.735829
+],
+  "geometry": {"coordinates":[-96.599334,40.735829],"type":"Point"}
+}

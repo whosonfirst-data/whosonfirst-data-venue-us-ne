@@ -1,0 +1,75 @@
+{
+  "id": 873919381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.104455,41.290783,-96.104455,41.290783",
+    "geom:latitude":41.290783,
+    "geom:longitude":-96.104455,
+    "iso:country":"US",
+    "sg:address":"12105 Emmet St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 496 3396",
+    "sg:postcode":"68164",
+    "sg:province":"NE",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872503,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2CsUsDgUPX8ENIUUgAs7KV_41.290783_-96.104455@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300201,
+    "wof:geomhash":"133ea97618f90e22adf81d8a9086888c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872503,
+            "region_id":85688563,
+            "venue_id":873919381
+        }
+    ],
+    "wof:id":873919381,
+    "wof:lastmodified":1464300201,
+    "wof:name":"Aesthetic Dental Care",
+    "wof:parent_id":85872503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -96.104455,
+    41.290783,
+    -96.104455,
+    41.290783
+],
+  "geometry": {"coordinates":[-96.104455,41.290783],"type":"Point"}
+}

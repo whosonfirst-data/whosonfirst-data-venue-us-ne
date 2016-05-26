@@ -1,0 +1,74 @@
+{
+  "id": 873739095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.039657,41.139532,-96.039657,41.139532",
+    "geom:latitude":41.139532,
+    "geom:longitude":-96.039657,
+    "iso:country":"US",
+    "sg:address":"501 Olson Dr",
+    "sg:city":"Papillion",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 331 1818",
+    "sg:postcode":"68046",
+    "sg:province":"NE",
+    "sg:tags":[
+        "lounge"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85843697,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4FUl96ecGFYtN0r6Ybq7Zw_41.139532_-96.039657@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296909,
+    "wof:geomhash":"5be21f6dad213de5dc4d2b56975f1fff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85843697,
+            "region_id":85688563,
+            "venue_id":873739095
+        }
+    ],
+    "wof:id":873739095,
+    "wof:lastmodified":1464296909,
+    "wof:name":"Bull Feathers",
+    "wof:parent_id":85843697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lounge"
+    ]
+},
+  "bbox": [
+    -96.039657,
+    41.139532,
+    -96.039657,
+    41.139532
+],
+  "geometry": {"coordinates":[-96.03965700000001,41.139532],"type":"Point"}
+}

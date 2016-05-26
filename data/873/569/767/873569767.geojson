@@ -1,0 +1,76 @@
+{
+  "id": 873569767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.055587,41.18851,-96.055587,41.18851",
+    "geom:latitude":41.18851,
+    "geom:longitude":-96.055587,
+    "iso:country":"US",
+    "sg:address":"7124 Plum Dale Rd",
+    "sg:city":"La Vista",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 397 2330",
+    "sg:postcode":"68128",
+    "sg:province":"NE",
+    "sg:tags":[
+        "home",
+        "inspection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85843697,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1PjeVuFq6SOE5uFvhw4G5j_41.188510_-96.055587@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294607,
+    "wof:geomhash":"b1c174c2df15fe024c8f22b5faa49e2f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85843697,
+            "region_id":85688563,
+            "venue_id":873569767
+        }
+    ],
+    "wof:id":873569767,
+    "wof:lastmodified":1464294607,
+    "wof:name":"Quality Home Inspections Inc",
+    "wof:parent_id":85843697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "inspection"
+    ]
+},
+  "bbox": [
+    -96.055587,
+    41.18851,
+    -96.055587,
+    41.18851
+],
+  "geometry": {"coordinates":[-96.055587,41.18851],"type":"Point"}
+}

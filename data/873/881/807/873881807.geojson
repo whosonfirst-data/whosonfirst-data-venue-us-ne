@@ -1,0 +1,73 @@
+{
+  "id": 873881807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.964852,41.121009,-95.964852,41.121009",
+    "geom:latitude":41.121009,
+    "geom:longitude":-95.964852,
+    "iso:country":"US",
+    "sg:address":"3437 Albert Raines Ave",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 977 4400",
+    "sg:postcode":"68123",
+    "sg:province":"NE",
+    "sg:tags":[
+        "army",
+        "reserve"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85821583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4pU2RrUCctQm02YvL8zbYw_41.121009_-95.964852@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299466,
+    "wof:geomhash":"6d3d2eb3b262f6822e8991fc3ed493a5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85821583,
+            "region_id":85688563,
+            "venue_id":873881807
+        }
+    ],
+    "wof:id":873881807,
+    "wof:lastmodified":1464299466,
+    "wof:name":"Army Reserve",
+    "wof:parent_id":85821583,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "army",
+        "reserve"
+    ]
+},
+  "bbox": [
+    -95.964852,
+    41.121009,
+    -95.964852,
+    41.121009
+],
+  "geometry": {"coordinates":[-95.96485199999999,41.121009],"type":"Point"}
+}

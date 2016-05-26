@@ -1,0 +1,75 @@
+{
+  "id": 873969071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.006302,41.299599,-96.006302,41.299599",
+    "geom:latitude":41.299599,
+    "geom:longitude":-96.006302,
+    "iso:country":"US",
+    "sg:address":"6052 Ames Ave",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 455 4688",
+    "sg:postcode":"68104",
+    "sg:province":"NE",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85805755,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_22psGsgBFai5PBnaKJFnTF_41.299575_-96.007040@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464301953,
+    "wof:geomhash":"d1ce9890c4b5b2ce4a67b01ca8d66b85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85805755,
+            "region_id":85688563,
+            "venue_id":873969071
+        }
+    ],
+    "wof:id":873969071,
+    "wof:lastmodified":1464301953,
+    "wof:name":"Red Hot Barber Shop",
+    "wof:parent_id":85805755,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -96.006302,
+    41.299599,
+    -96.006302,
+    41.299599
+],
+  "geometry": {"coordinates":[-96.00630200000001,41.299599],"type":"Point"}
+}

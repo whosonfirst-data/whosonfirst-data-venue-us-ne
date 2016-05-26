@@ -1,0 +1,71 @@
+{
+  "id": 873553641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.794634,40.836808,-96.794634,40.836808",
+    "geom:latitude":40.836808,
+    "geom:longitude":-96.794634,
+    "iso:country":"US",
+    "sg:address":"5414 W Aurora St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 470 3042",
+    "sg:postcode":"68524",
+    "sg:province":"NE",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Fa9dQFu6bQOZgV3ByjA4b_40.836808_-96.794634@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294418,
+    "wof:geomhash":"993e811aaeeff92a8cfb3dc42f01369e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878717,
+            "region_id":85688563,
+            "venue_id":873553641
+        }
+    ],
+    "wof:id":873553641,
+    "wof:lastmodified":1464294418,
+    "wof:name":"Monica Craig",
+    "wof:parent_id":85878717,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -96.794634,
+    40.836808,
+    -96.794634,
+    40.836808
+],
+  "geometry": {"coordinates":[-96.794634,40.836808],"type":"Point"}
+}

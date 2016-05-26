@@ -1,0 +1,77 @@
+{
+  "id": 873693067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.983241,41.270972,-95.983241,41.270972",
+    "geom:latitude":41.270972,
+    "geom:longitude":-95.983241,
+    "iso:country":"US",
+    "sg:address":"1110 NW Radial Hwy",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 330 8348",
+    "sg:postcode":"68132",
+    "sg:province":"NE",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867055,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6eBAOO5m7RrXDS37A8AeC8_41.270972_-95.983241@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296328,
+    "wof:geomhash":"e7bbcd934c9a57a24323612527b6dc25",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85867055,
+            "region_id":85688563,
+            "venue_id":873693067
+        }
+    ],
+    "wof:id":873693067,
+    "wof:lastmodified":1464296328,
+    "wof:name":"Park Plaza Storage Ctr",
+    "wof:parent_id":85867055,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -95.983241,
+    41.270972,
+    -95.983241,
+    41.270972
+],
+  "geometry": {"coordinates":[-95.98324100000001,41.270972],"type":"Point"}
+}

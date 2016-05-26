@@ -1,0 +1,72 @@
+{
+  "id": 873944475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.787427,40.842405,-96.787427,40.842405",
+    "geom:latitude":40.842405,
+    "geom:longitude":-96.787427,
+    "iso:country":"US",
+    "sg:address":"2941 NW 48th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 470 3060",
+    "sg:postcode":"68524",
+    "sg:province":"NE",
+    "sg:tags":[
+        "oil"
+    ],
+    "sg:website":"www.sinclairoil.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4dbDe7naXWesbSiTgV6sar_40.842405_-96.787427@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300862,
+    "wof:geomhash":"a5d0e06cd051c018ce10a2b0888a93f8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878717,
+            "region_id":85688563,
+            "venue_id":873944475
+        }
+    ],
+    "wof:id":873944475,
+    "wof:lastmodified":1464300862,
+    "wof:name":"Sinclair Oil Corp",
+    "wof:parent_id":85878717,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil"
+    ]
+},
+  "bbox": [
+    -96.787427,
+    40.842405,
+    -96.787427,
+    40.842405
+],
+  "geometry": {"coordinates":[-96.78742699999999,40.842405],"type":"Point"}
+}

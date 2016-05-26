@@ -1,0 +1,71 @@
+{
+  "id": 873815947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.072722,41.257749,-96.072722,41.257749",
+    "geom:latitude":41.257749,
+    "geom:longitude":-96.072722,
+    "iso:country":"US",
+    "sg:address":"120 Regency Pkwy",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 391 2333",
+    "sg:postcode":"68114",
+    "sg:province":"NE",
+    "sg:website":"www.garbossalon.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867061,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6NQ3AJgB3maq8G3G8qbDcv_41.257749_-96.072722@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298032,
+    "wof:geomhash":"1d6439a65c76bb193a0407992cab3a0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85867061,
+            "region_id":85688563,
+            "venue_id":873815947
+        }
+    ],
+    "wof:id":873815947,
+    "wof:lastmodified":1464298032,
+    "wof:name":"Garbo's Salons",
+    "wof:parent_id":85867061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.072722,
+    41.257749,
+    -96.072722,
+    41.257749
+],
+  "geometry": {"coordinates":[-96.072722,41.257749],"type":"Point"}
+}

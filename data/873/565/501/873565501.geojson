@@ -1,0 +1,82 @@
+{
+  "id": 873565501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.701083,40.814453,-96.701083,40.814453",
+    "geom:latitude":40.814453,
+    "geom:longitude":-96.701083,
+    "iso:country":"US",
+    "sg:address":"126 N 14th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Music",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 434 2500",
+    "sg:postcode":"68508",
+    "sg:province":"NE",
+    "sg:tags":[
+        "compact",
+        "record",
+        "disc",
+        "tape"
+    ],
+    "sg:website":"www.homersmusic.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878699,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2lzoC2H5Qo4WmxiGddnlBH_40.814453_-96.701083@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294561,
+    "wof:geomhash":"fd3b1ebbfd7d1660cda073bfc90f1d78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878699,
+            "region_id":85688563,
+            "venue_id":873565501
+        }
+    ],
+    "wof:id":873565501,
+    "wof:lastmodified":1464294561,
+    "wof:name":"Homer's Records Tapes & Discs",
+    "wof:parent_id":85878699,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "compact",
+        "record",
+        "disc",
+        "tape"
+    ]
+},
+  "bbox": [
+    -96.701083,
+    40.814453,
+    -96.701083,
+    40.814453
+],
+  "geometry": {"coordinates":[-96.701083,40.814453],"type":"Point"}
+}

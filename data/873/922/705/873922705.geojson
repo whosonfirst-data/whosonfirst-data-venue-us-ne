@@ -1,0 +1,71 @@
+{
+  "id": 873922705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.794045,40.839936,-96.794045,40.839936",
+    "geom:latitude":40.839936,
+    "geom:longitude":-96.794045,
+    "iso:country":"US",
+    "sg:address":"5409 W Saint Paul Ave",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 470 3880",
+    "sg:postcode":"68524",
+    "sg:province":"NE",
+    "sg:tags":[
+        "taxidermist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4qGsoNLpjd2TtGAPEbJYL5_40.839936_-96.794045@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300266,
+    "wof:geomhash":"be054e9215b84949cfbc9d493473cb3e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878717,
+            "region_id":85688563,
+            "venue_id":873922705
+        }
+    ],
+    "wof:id":873922705,
+    "wof:lastmodified":1464300266,
+    "wof:name":"Sportsman's Choice Taxidermy",
+    "wof:parent_id":85878717,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxidermist"
+    ]
+},
+  "bbox": [
+    -96.794045,
+    40.839936,
+    -96.794045,
+    40.839936
+],
+  "geometry": {"coordinates":[-96.794045,40.839936],"type":"Point"}
+}

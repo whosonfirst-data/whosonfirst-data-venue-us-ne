@@ -1,0 +1,73 @@
+{
+  "id": 873544819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.043065,41.177017,-96.043065,41.177017",
+    "geom:latitude":41.177017,
+    "geom:longitude":-96.043065,
+    "iso:country":"US",
+    "sg:address":"8066 S 84th St",
+    "sg:city":"La Vista",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 331 2655",
+    "sg:postcode":"68128",
+    "sg:province":"NE",
+    "sg:tags":[
+        "cleaners",
+        "plant",
+        "drycleaning"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85843697,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0WTPznXXfD3R8WvEl2nUkF_41.177017_-96.043065@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294315,
+    "wof:geomhash":"54424080b4bd63b1d80cc0b098e5f223",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85843697,
+            "region_id":85688563,
+            "venue_id":873544819
+        }
+    ],
+    "wof:id":873544819,
+    "wof:lastmodified":1464294315,
+    "wof:name":"Courtesy Cleaners Inc",
+    "wof:parent_id":85843697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners",
+        "plant",
+        "drycleaning"
+    ]
+},
+  "bbox": [
+    -96.043065,
+    41.177017,
+    -96.043065,
+    41.177017
+],
+  "geometry": {"coordinates":[-96.043065,41.177017],"type":"Point"}
+}

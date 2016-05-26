@@ -1,0 +1,82 @@
+{
+  "id": 873978647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.903956,41.132948,-95.903956,41.132948",
+    "geom:latitude":41.132948,
+    "geom:longitude":-95.903956,
+    "iso:country":"US",
+    "sg:address":"PO Box 1600",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 218 2110",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "saas",
+        "software-as-a-service",
+        "php",
+        "mysql",
+        "web-applications",
+        "invoicing"
+    ],
+    "sg:website":"http://beckerwebsolutions.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974747,
+        102082777,
+        85820061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2tUUf6s9r8ktAiVUiwHvQP_41.132948_-95.903956@1308186501"
+    },
+    "wof:country":"US",
+    "wof:created":1464302326,
+    "wof:geomhash":"5097a69cbff52c6d16247b2ca797937e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974747,
+            "neighbourhood_id":85820061,
+            "region_id":85688563,
+            "venue_id":873978647
+        }
+    ],
+    "wof:id":873978647,
+    "wof:lastmodified":1464302326,
+    "wof:name":"Becker Web Solutions",
+    "wof:parent_id":85820061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "saas",
+        "software-as-a-service",
+        "php",
+        "mysql",
+        "web-applications",
+        "invoicing"
+    ]
+},
+  "bbox": [
+    -95.903956,
+    41.132948,
+    -95.903956,
+    41.132948
+],
+  "geometry": {"coordinates":[-95.90395599999999,41.132948],"type":"Point"}
+}

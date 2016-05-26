@@ -1,0 +1,75 @@
+{
+  "id": 873946265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.91625,41.133395,-95.91625,41.133395",
+    "geom:latitude":41.133395,
+    "geom:longitude":-95.91625,
+    "iso:country":"US",
+    "sg:address":"110 Airman Cir",
+    "sg:city":"Offutt Afb",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 294 5125",
+    "sg:postcode":"68113",
+    "sg:province":"NE",
+    "sg:tags":[
+        "federal",
+        "security"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102529985,
+        85688563,
+        85633793,
+        85974747,
+        102082777,
+        85820061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6N5CcQMBYhKL9PQy0FSFKj_41.133395_-95.916250@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300955,
+    "wof:geomhash":"0c7b8139b33eecb616a0e2a675fb6031",
+    "wof:hierarchy":[
+        {
+            "campus_id":102529985,
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974747,
+            "neighbourhood_id":85820061,
+            "region_id":85688563,
+            "venue_id":873946265
+        }
+    ],
+    "wof:id":873946265,
+    "wof:lastmodified":1464300955,
+    "wof:name":"Us Air Force Base Locator",
+    "wof:parent_id":102529985,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "federal",
+        "security"
+    ]
+},
+  "bbox": [
+    -95.91625,
+    41.133395,
+    -95.91625,
+    41.133395
+],
+  "geometry": {"coordinates":[-95.91625000000001,41.133395],"type":"Point"}
+}

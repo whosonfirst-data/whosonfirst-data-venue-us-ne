@@ -1,0 +1,71 @@
+{
+  "id": 873944355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.042898,41.180175,-96.042898,41.180175",
+    "geom:latitude":41.180175,
+    "geom:longitude":-96.042898,
+    "iso:country":"US",
+    "sg:address":"7865 S 84th St",
+    "sg:city":"La Vista",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 592 8800",
+    "sg:postcode":"68128",
+    "sg:province":"NE",
+    "sg:tags":[
+        "drinking",
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85843697,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6214ijl8FPEqSWwMH2TWfW_41.180175_-96.042898@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300858,
+    "wof:geomhash":"0783af99d398b719dcfb0d7150da6408",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85843697,
+            "region_id":85688563,
+            "venue_id":873944355
+        }
+    ],
+    "wof:id":873944355,
+    "wof:lastmodified":1464300858,
+    "wof:name":"Chilis",
+    "wof:parent_id":85843697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drinking",
+        "eating"
+    ]
+},
+  "bbox": [
+    -96.042898,
+    41.180175,
+    -96.042898,
+    41.180175
+],
+  "geometry": {"coordinates":[-96.04289799999999,41.180175],"type":"Point"}
+}

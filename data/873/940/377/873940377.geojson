@@ -1,0 +1,73 @@
+{
+  "id": 873940377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.620936,40.856983,-96.620936,40.856983",
+    "geom:latitude":40.856983,
+    "geom:longitude":-96.620936,
+    "iso:country":"US",
+    "sg:address":"4301 N 73rd St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 466 8180",
+    "sg:postcode":"68507",
+    "sg:province":"NE",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85824241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0bpZHJ2QtNTwhY5d6D1d9a_40.856983_-96.620936@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300709,
+    "wof:geomhash":"3f700a9e3d9ac7c66dbb4ce93aae9865",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85824241,
+            "region_id":85688563,
+            "venue_id":873940377
+        }
+    ],
+    "wof:id":873940377,
+    "wof:lastmodified":1464300709,
+    "wof:name":"Future Electric",
+    "wof:parent_id":85824241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.620936,
+    40.856983,
+    -96.620936,
+    40.856983
+],
+  "geometry": {"coordinates":[-96.620936,40.856983],"type":"Point"}
+}

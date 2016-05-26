@@ -1,0 +1,78 @@
+{
+  "id": 873811695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.08378,41.210047,-96.08378,41.210047",
+    "geom:latitude":41.210047,
+    "geom:longitude":-96.08378,
+    "iso:country":"US",
+    "sg:address":"11117 John Galt Blvd",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 339 6755",
+    "sg:postcode":"68137",
+    "sg:province":"NE",
+    "sg:tags":[
+        "federal",
+        "state"
+    ],
+    "sg:website":"www.bakersfcu.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872531,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7i0XERAwIIRSo1iCXSkUcs_41.210047_-96.083780@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297956,
+    "wof:geomhash":"86267d98ed039fdf8699b719eef0dfa2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872531,
+            "region_id":85688563,
+            "venue_id":873811695
+        }
+    ],
+    "wof:id":873811695,
+    "wof:lastmodified":1464297956,
+    "wof:name":"Bakers Federal Credit Union",
+    "wof:parent_id":85872531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "federal",
+        "state"
+    ]
+},
+  "bbox": [
+    -96.08378,
+    41.210047,
+    -96.08378,
+    41.210047
+],
+  "geometry": {"coordinates":[-96.08378,41.210047],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 873976071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.934875,41.10438,-95.934875,41.10438",
+    "geom:latitude":41.10438,
+    "geom:longitude":-95.934875,
+    "iso:country":"US",
+    "sg:address":"13905 Williamsburg Dr",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ne/bellevue-second-iii/115868-quiznos-sub/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 291 1374",
+    "sg:postcode":"68123",
+    "sg:province":"NE",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974747,
+        102082777,
+        85820061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Nq200UhY1hza3YTi4wwIg_41.104380_-95.934875@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464302226,
+    "wof:geomhash":"ca21dcb90d5a62bcf8dbef49db919b55",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974747,
+            "neighbourhood_id":85820061,
+            "region_id":85688563,
+            "venue_id":873976071
+        }
+    ],
+    "wof:id":873976071,
+    "wof:lastmodified":1464302226,
+    "wof:name":"Quiznos Sub",
+    "wof:parent_id":85820061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -95.934875,
+    41.10438,
+    -95.934875,
+    41.10438
+],
+  "geometry": {"coordinates":[-95.93487500000001,41.10438],"type":"Point"}
+}

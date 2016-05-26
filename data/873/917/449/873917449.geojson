@@ -1,0 +1,77 @@
+{
+  "id": 873917449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.086399,41.205406,-96.086399,41.205406",
+    "geom:latitude":41.205406,
+    "geom:longitude":-96.086399,
+    "iso:country":"US",
+    "sg:address":"11140 Q St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 614 2510",
+    "sg:postcode":"68137",
+    "sg:province":"NE",
+    "sg:tags":[
+        "loan",
+        "real estate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872531,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4rHAIKYQ8WGsyUmltWmGxN_41.205406_-96.086399@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300166,
+    "wof:geomhash":"735f7c7cf332481bb9b177d9a856c754",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872531,
+            "region_id":85688563,
+            "venue_id":873917449
+        }
+    ],
+    "wof:id":873917449,
+    "wof:lastmodified":1464300166,
+    "wof:name":"Primary Residential Mortgage",
+    "wof:parent_id":85872531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan",
+        "real estate"
+    ]
+},
+  "bbox": [
+    -96.086399,
+    41.205406,
+    -96.086399,
+    41.205406
+],
+  "geometry": {"coordinates":[-96.086399,41.205406],"type":"Point"}
+}

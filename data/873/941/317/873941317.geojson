@@ -1,0 +1,71 @@
+{
+  "id": 873941317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.902869,41.156679,-95.902869,41.156679",
+    "geom:latitude":41.156679,
+    "geom:longitude":-95.902869,
+    "iso:country":"US",
+    "sg:address":"310 Douglas Dr",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 933 1190",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "marketing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85804025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6NSLQtQN3ntbWxRrPmlJz9_41.156679_-95.902869@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300742,
+    "wof:geomhash":"1062ea92152953cf413496f01d9836b9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85804025,
+            "region_id":85688563,
+            "venue_id":873941317
+        }
+    ],
+    "wof:id":873941317,
+    "wof:lastmodified":1464300742,
+    "wof:name":"Scanalyze Inc",
+    "wof:parent_id":85804025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "marketing"
+    ]
+},
+  "bbox": [
+    -95.902869,
+    41.156679,
+    -95.902869,
+    41.156679
+],
+  "geometry": {"coordinates":[-95.902869,41.156679],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873760767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.078916,41.185188,-96.078916,41.185188",
+    "geom:latitude":41.185188,
+    "geom:longitude":-96.078916,
+    "iso:country":"US",
+    "sg:address":"10602 Olive St",
+    "sg:city":"La Vista",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 331 8010",
+    "sg:postcode":"68128",
+    "sg:province":"NE",
+    "sg:tags":[
+        "company",
+        "holding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85843697,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5i2Nui0EwuuXuN17rqio3G_41.185188_-96.078916@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297217,
+    "wof:geomhash":"1efaee13ebd7e2b7891e5630f972deb4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85843697,
+            "region_id":85688563,
+            "venue_id":873760767
+        }
+    ],
+    "wof:id":873760767,
+    "wof:lastmodified":1464297217,
+    "wof:name":"Millard Holding Corp",
+    "wof:parent_id":85843697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "holding"
+    ]
+},
+  "bbox": [
+    -96.078916,
+    41.185188,
+    -96.078916,
+    41.185188
+],
+  "geometry": {"coordinates":[-96.07891600000001,41.185188],"type":"Point"}
+}

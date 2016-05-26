@@ -1,0 +1,75 @@
+{
+  "id": 873775213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.676263,40.795797,-96.676263,40.795797",
+    "geom:latitude":40.795797,
+    "geom:longitude":-96.676263,
+    "iso:country":"US",
+    "sg:address":"1650 Memorial Dr",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 441 7877",
+    "sg:postcode":"68502",
+    "sg:province":"NE",
+    "sg:tags":[
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892213,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Q5dZl1olCLZXXJqQQdemT_40.795797_-96.676263@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297428,
+    "wof:geomhash":"95dab53089a6d951f8f5d52e85c78635",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85892213,
+            "region_id":85688563,
+            "venue_id":873775213
+        }
+    ],
+    "wof:id":873775213,
+    "wof:lastmodified":1464297428,
+    "wof:name":"Lincoln Recreation Ctr",
+    "wof:parent_id":85892213,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "center"
+    ]
+},
+  "bbox": [
+    -96.676263,
+    40.795797,
+    -96.676263,
+    40.795797
+],
+  "geometry": {"coordinates":[-96.67626300000001,40.795797],"type":"Point"}
+}

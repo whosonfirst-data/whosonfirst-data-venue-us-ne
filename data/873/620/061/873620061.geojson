@@ -1,0 +1,75 @@
+{
+  "id": 873620061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.643019,40.843634,-96.643019,40.843634",
+    "geom:latitude":40.843634,
+    "geom:longitude":-96.643019,
+    "iso:country":"US",
+    "sg:address":"5620 Greenwood St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 464 0909",
+    "sg:postcode":"68507",
+    "sg:province":"NE",
+    "sg:tags":[
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85853163,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_16WTEbloDUabZnbyZ5ySno_40.843634_-96.643019@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295251,
+    "wof:geomhash":"7a48eb0c48d3a88d45ec9b09f0129cb6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85853163,
+            "region_id":85688563,
+            "venue_id":873620061
+        }
+    ],
+    "wof:id":873620061,
+    "wof:lastmodified":1464295251,
+    "wof:name":"Kiers Health Centre",
+    "wof:parent_id":85853163,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential"
+    ]
+},
+  "bbox": [
+    -96.643019,
+    40.843634,
+    -96.643019,
+    40.843634
+],
+  "geometry": {"coordinates":[-96.643019,40.843634],"type":"Point"}
+}

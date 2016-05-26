@@ -1,0 +1,67 @@
+{
+  "id": 873952473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.935292,41.15866,-95.935292,41.15866",
+    "geom:latitude":41.15866,
+    "geom:longitude":-95.935292,
+    "iso:country":"US",
+    "sg:address":"10525 S 15th St",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 991 9464",
+    "sg:postcode":"68123",
+    "sg:province":"NE",
+    "sg:website":"www.buffalowildwings.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85821583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1tseDloy64mUdtbfwBoZJP_41.158660_-95.935292@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464301245,
+    "wof:geomhash":"9f1c16c47cd61c902225dca3c5ffe7a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85821583,
+            "region_id":85688563,
+            "venue_id":873952473
+        }
+    ],
+    "wof:id":873952473,
+    "wof:lastmodified":1464301245,
+    "wof:name":"Buffalo Wild Wings Grill & Bar",
+    "wof:parent_id":85821583,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -95.935292,
+    41.15866,
+    -95.935292,
+    41.15866
+],
+  "geometry": {"coordinates":[-95.935292,41.15866],"type":"Point"}
+}

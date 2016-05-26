@@ -1,0 +1,73 @@
+{
+  "id": 873823459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.633415,40.851686,-96.633415,40.851686",
+    "geom:latitude":40.851686,
+    "geom:longitude":-96.633415,
+    "iso:country":"US",
+    "sg:address":"6335 Seward Ave",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 483 7992",
+    "sg:postcode":"68507",
+    "sg:province":"NE",
+    "sg:tags":[
+        "fireplace",
+        "chimney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85824241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5qDm2Isi8kxAyW7s1VeCBh_40.851686_-96.633415@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298198,
+    "wof:geomhash":"67ecf6e4a8f96eeb740afa3146527cde",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85824241,
+            "region_id":85688563,
+            "venue_id":873823459
+        }
+    ],
+    "wof:id":873823459,
+    "wof:lastmodified":1464298198,
+    "wof:name":"Mr Amoto Town Chimney Sweep",
+    "wof:parent_id":85824241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fireplace",
+        "chimney"
+    ]
+},
+  "bbox": [
+    -96.633415,
+    40.851686,
+    -96.633415,
+    40.851686
+],
+  "geometry": {"coordinates":[-96.633415,40.851686],"type":"Point"}
+}

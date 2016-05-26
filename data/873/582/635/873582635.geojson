@@ -1,0 +1,71 @@
+{
+  "id": 873582635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.658528,40.734924,-96.658528,40.734924",
+    "geom:latitude":40.734924,
+    "geom:longitude":-96.658528,
+    "iso:country":"US",
+    "sg:address":"7500 San Mateo Ln",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 420 9339",
+    "sg:postcode":"68516",
+    "sg:province":"NE",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2iBJFQ0VVCTKhH8RxCKXVW_40.734924_-96.658528@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294748,
+    "wof:geomhash":"15b3b0e071e6201f0392984863ac0461",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878733,
+            "region_id":85688563,
+            "venue_id":873582635
+        }
+    ],
+    "wof:id":873582635,
+    "wof:lastmodified":1464294748,
+    "wof:name":"Premier Builders",
+    "wof:parent_id":85878733,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.658528,
+    40.734924,
+    -96.658528,
+    40.734924
+],
+  "geometry": {"coordinates":[-96.658528,40.734924],"type":"Point"}
+}

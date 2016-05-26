@@ -1,0 +1,73 @@
+{
+  "id": 873762369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.612695,40.795666,-96.612695,40.795666",
+    "geom:latitude":40.795666,
+    "geom:longitude":-96.612695,
+    "iso:country":"US",
+    "sg:address":"1631 Devoe Dr",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 488 3710",
+    "sg:postcode":"68506",
+    "sg:province":"NE",
+    "sg:tags":[
+        "miscellaneous",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_20sOZ0kSM5Hw0kwcyLs8Vt_40.795666_-96.612695@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297246,
+    "wof:geomhash":"1841d582e6ab85be6a9659e1f4dad463",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878697,
+            "region_id":85688563,
+            "venue_id":873762369
+        }
+    ],
+    "wof:id":873762369,
+    "wof:lastmodified":1464297246,
+    "wof:name":"Shaka Shave Ice",
+    "wof:parent_id":85878697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "miscellaneous",
+        "store"
+    ]
+},
+  "bbox": [
+    -96.612695,
+    40.795666,
+    -96.612695,
+    40.795666
+],
+  "geometry": {"coordinates":[-96.612695,40.795666],"type":"Point"}
+}

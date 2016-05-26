@@ -1,0 +1,73 @@
+{
+  "id": 873599669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.926686,41.183852,-95.926686,41.183852",
+    "geom:latitude":41.183852,
+    "geom:longitude":-95.926686,
+    "iso:country":"US",
+    "sg:address":"2407 Chandler Rd E",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 731 5932",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "baptist",
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85804025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7EryP7XsuPJE3a4j6B8nyI_41.183852_-95.926686@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294984,
+    "wof:geomhash":"562f19e7ca63ab887a4af580ccf011a1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85804025,
+            "region_id":85688563,
+            "venue_id":873599669
+        }
+    ],
+    "wof:id":873599669,
+    "wof:lastmodified":1464294984,
+    "wof:name":"Midlands Bible Baptist Church",
+    "wof:parent_id":85804025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baptist",
+        "church"
+    ]
+},
+  "bbox": [
+    -95.926686,
+    41.183852,
+    -95.926686,
+    41.183852
+],
+  "geometry": {"coordinates":[-95.926686,41.183852],"type":"Point"}
+}

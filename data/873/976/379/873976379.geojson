@@ -1,0 +1,76 @@
+{
+  "id": 873976379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.133659,41.21515,-96.133659,41.21515",
+    "geom:latitude":41.21515,
+    "geom:longitude":-96.133659,
+    "iso:country":"US",
+    "sg:address":"4428 S 140th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ne/omaha/241802-the-digz/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 896 3663",
+    "sg:postcode":"68137",
+    "sg:province":"NE",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872531,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Hs3h3RfLfjZ89QK2KGaUd_41.215150_-96.133659@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464302236,
+    "wof:geomhash":"976bf9580b8213c086f37517279403e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872531,
+            "region_id":85688563,
+            "venue_id":873976379
+        }
+    ],
+    "wof:id":873976379,
+    "wof:lastmodified":1464302236,
+    "wof:name":"The Digz",
+    "wof:parent_id":85872531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -96.133659,
+    41.21515,
+    -96.133659,
+    41.21515
+],
+  "geometry": {"coordinates":[-96.13365899999999,41.21515],"type":"Point"}
+}

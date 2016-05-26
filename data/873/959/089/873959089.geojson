@@ -1,0 +1,77 @@
+{
+  "id": 873959089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.064623,41.248779,-96.064623,41.248779",
+    "geom:latitude":41.248779,
+    "geom:longitude":-96.064623,
+    "iso:country":"US",
+    "sg:address":"10009 Pacific St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 391 2475",
+    "sg:postcode":"68114",
+    "sg:province":"NE",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872533,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_25V5OXknnAikFaUPWC7DY5_41.248779_-96.064623@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464301489,
+    "wof:geomhash":"886596ca0f9eebd6baebcee89ec17c79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872533,
+            "region_id":85688563,
+            "venue_id":873959089
+        }
+    ],
+    "wof:id":873959089,
+    "wof:lastmodified":1464301489,
+    "wof:name":"Hemingway Enterprises Inc",
+    "wof:parent_id":85872533,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -96.064623,
+    41.248779,
+    -96.064623,
+    41.248779
+],
+  "geometry": {"coordinates":[-96.064623,41.248779],"type":"Point"}
+}

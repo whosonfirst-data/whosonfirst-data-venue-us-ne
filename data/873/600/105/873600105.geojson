@@ -1,0 +1,73 @@
+{
+  "id": 873600105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.586562,40.870982,-96.586562,40.870982",
+    "geom:latitude":40.870982,
+    "geom:longitude":-96.586562,
+    "iso:country":"US",
+    "sg:address":"9800 Fletcher Ave",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 464 8100",
+    "sg:postcode":"68527",
+    "sg:province":"NE",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85824241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4p71TYp3WZdFmGkfeC2hYw_40.870982_-96.586562@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294988,
+    "wof:geomhash":"a6e2f8e70cab8e4cf70b4373b377c448",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85824241,
+            "region_id":85688563,
+            "venue_id":873600105
+        }
+    ],
+    "wof:id":873600105,
+    "wof:lastmodified":1464294988,
+    "wof:name":"Dennis Hansen Plumbing",
+    "wof:parent_id":85824241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.586562,
+    40.870982,
+    -96.586562,
+    40.870982
+],
+  "geometry": {"coordinates":[-96.586562,40.870982],"type":"Point"}
+}

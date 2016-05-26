@@ -1,0 +1,75 @@
+{
+  "id": 873608037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.014227,41.317612,-96.014227,41.317612",
+    "geom:latitude":41.317612,
+    "geom:longitude":-96.014227,
+    "iso:country":"US",
+    "sg:address":"6520 Sorensen Pkwy",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 572 3200",
+    "sg:postcode":"68152",
+    "sg:province":"NE",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85805755,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_68OhUyfpwk8CkNecf0Ng1A_41.317612_-96.014227@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295099,
+    "wof:geomhash":"470635e456171c72dd533e0411fe5eb1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85805755,
+            "region_id":85688563,
+            "venue_id":873608037
+        }
+    ],
+    "wof:id":873608037,
+    "wof:lastmodified":1464295099,
+    "wof:name":"Robert E Underriner MD",
+    "wof:parent_id":85805755,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -96.014227,
+    41.317612,
+    -96.014227,
+    41.317612
+],
+  "geometry": {"coordinates":[-96.01422700000001,41.317612],"type":"Point"}
+}

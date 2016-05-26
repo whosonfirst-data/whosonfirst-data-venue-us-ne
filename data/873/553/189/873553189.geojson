@@ -1,0 +1,71 @@
+{
+  "id": 873553189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.047385,41.179962,-96.047385,41.179962",
+    "geom:latitude":41.179962,
+    "geom:longitude":-96.047385,
+    "iso:country":"US",
+    "sg:address":"7915 Chinawood Ave",
+    "sg:city":"La Vista",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 592 2311",
+    "sg:postcode":"68128",
+    "sg:province":"NE",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85843697,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5MwbEnfkPJDct0NyVSdfuD_41.179962_-96.047385@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294413,
+    "wof:geomhash":"c9105ce0e70fbd8656045843a98ed997",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85843697,
+            "region_id":85688563,
+            "venue_id":873553189
+        }
+    ],
+    "wof:id":873553189,
+    "wof:lastmodified":1464294413,
+    "wof:name":"Westfield Apartments",
+    "wof:parent_id":85843697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -96.047385,
+    41.179962,
+    -96.047385,
+    41.179962
+],
+  "geometry": {"coordinates":[-96.04738500000001,41.179962],"type":"Point"}
+}

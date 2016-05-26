@@ -1,0 +1,71 @@
+{
+  "id": 873961811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.678326,40.739004,-96.678326,40.739004",
+    "geom:latitude":40.739004,
+    "geom:longitude":-96.678326,
+    "iso:country":"US",
+    "sg:address":"7160 S 29th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 420 5555",
+    "sg:postcode":"68516",
+    "sg:province":"NE",
+    "sg:tags":[
+        "security"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6QE24XRZIM6SJML40yWNh3_40.739004_-96.678326@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464301639,
+    "wof:geomhash":"e9d0cba6a236e99da4919b7bdc3ba1b2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878733,
+            "region_id":85688563,
+            "venue_id":873961811
+        }
+    ],
+    "wof:id":873961811,
+    "wof:lastmodified":1464301639,
+    "wof:name":"Jensen Money Management",
+    "wof:parent_id":85878733,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "security"
+    ]
+},
+  "bbox": [
+    -96.678326,
+    40.739004,
+    -96.678326,
+    40.739004
+],
+  "geometry": {"coordinates":[-96.678326,40.739004],"type":"Point"}
+}

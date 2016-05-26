@@ -1,0 +1,82 @@
+{
+  "id": 873946087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.69509,40.762368,-96.69509,40.762368",
+    "geom:latitude":40.762368,
+    "geom:longitude":-96.69509,
+    "iso:country":"US",
+    "sg:address":"1631 Cushman Dr",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 434 2950",
+    "sg:postcode":"68512",
+    "sg:province":"NE",
+    "sg:tags":[
+        "hospital",
+        "merchandise"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420525805,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3nybjtHql645GOiOWnohkV_40.762368_-96.695090@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300937,
+    "wof:geomhash":"8a83738c299eab685af68e2865acef8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":420525805,
+            "region_id":85688563,
+            "venue_id":873946087
+        }
+    ],
+    "wof:id":873946087,
+    "wof:lastmodified":1464300937,
+    "wof:name":"Apria Healthcare Inc",
+    "wof:parent_id":420525805,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospital",
+        "merchandise"
+    ]
+},
+  "bbox": [
+    -96.69509,
+    40.762368,
+    -96.69509,
+    40.762368
+],
+  "geometry": {"coordinates":[-96.69508999999999,40.762368],"type":"Point"}
+}

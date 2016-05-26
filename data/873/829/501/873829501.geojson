@@ -1,0 +1,71 @@
+{
+  "id": 873829501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.918957,41.139221,-95.918957,41.139221",
+    "geom:latitude":41.139221,
+    "geom:longitude":-95.918957,
+    "iso:country":"US",
+    "sg:address":"112 Westridge Ave",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 292 7454",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "micro"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974747,
+        102082777,
+        85820061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0R2lyAye1xW6ldXF4ABO5t_41.139221_-95.918957@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298322,
+    "wof:geomhash":"47bdbbc4273591626ca3ebcc87476a42",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974747,
+            "neighbourhood_id":85820061,
+            "region_id":85688563,
+            "venue_id":873829501
+        }
+    ],
+    "wof:id":873829501,
+    "wof:lastmodified":1464298322,
+    "wof:name":"Automotive Computer Solutions",
+    "wof:parent_id":85820061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "micro"
+    ]
+},
+  "bbox": [
+    -95.918957,
+    41.139221,
+    -95.918957,
+    41.139221
+],
+  "geometry": {"coordinates":[-95.91895700000001,41.139221],"type":"Point"}
+}

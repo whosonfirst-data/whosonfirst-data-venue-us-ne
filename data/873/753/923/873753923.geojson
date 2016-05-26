@@ -1,0 +1,73 @@
+{
+  "id": 873753923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.918508,41.146814,-95.918508,41.146814",
+    "geom:latitude":41.146814,
+    "geom:longitude":-95.918508,
+    "iso:country":"US",
+    "sg:address":"1821 Wilshire Dr",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 292 2895",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85821583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ljbv77aPi9bztKaB76FEY_41.146814_-95.918508@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297132,
+    "wof:geomhash":"d4a8dfe6b2ca813d0cd73819e4c5c494",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85821583,
+            "region_id":85688563,
+            "venue_id":873753923
+        }
+    ],
+    "wof:id":873753923,
+    "wof:lastmodified":1464297132,
+    "wof:name":"Oakview Construction",
+    "wof:parent_id":85821583,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -95.918508,
+    41.146814,
+    -95.918508,
+    41.146814
+],
+  "geometry": {"coordinates":[-95.918508,41.146814],"type":"Point"}
+}

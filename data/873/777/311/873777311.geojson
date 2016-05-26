@@ -1,0 +1,71 @@
+{
+  "id": 873777311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.921296,41.161346,-95.921296,41.161346",
+    "geom:latitude":41.161346,
+    "geom:longitude":-95.921296,
+    "iso:country":"US",
+    "sg:address":"207 Galvin Rd N",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 991 4820",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85804025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6gSQU8fN20iwzHavWKdRVM_41.161346_-95.921296@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297454,
+    "wof:geomhash":"f0b8dbdd719bc8a111a8d684318a259c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85804025,
+            "region_id":85688563,
+            "venue_id":873777311
+        }
+    ],
+    "wof:id":873777311,
+    "wof:lastmodified":1464297454,
+    "wof:name":"Farmers Insurance Group",
+    "wof:parent_id":85804025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "broker"
+    ]
+},
+  "bbox": [
+    -95.921296,
+    41.161346,
+    -95.921296,
+    41.161346
+],
+  "geometry": {"coordinates":[-95.921296,41.161346],"type":"Point"}
+}

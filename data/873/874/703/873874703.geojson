@@ -1,0 +1,75 @@
+{
+  "id": 873874703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.961422,41.276315,-95.961422,41.276315",
+    "geom:latitude":41.276315,
+    "geom:longitude":-95.961422,
+    "iso:country":"US",
+    "sg:address":"1817 N 33rd St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 556 2221",
+    "sg:postcode":"68111",
+    "sg:province":"NE",
+    "sg:tags":[
+        "military"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872525,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4LKkTsTpcdDTAf3RAoCiKf_41.276315_-95.961422@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299331,
+    "wof:geomhash":"64e6690a0eda5cf2f7554cdbf5dac79d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872525,
+            "region_id":85688563,
+            "venue_id":873874703
+        }
+    ],
+    "wof:id":873874703,
+    "wof:lastmodified":1464299331,
+    "wof:name":"American Legion",
+    "wof:parent_id":85872525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "military"
+    ]
+},
+  "bbox": [
+    -95.961422,
+    41.276315,
+    -95.961422,
+    41.276315
+],
+  "geometry": {"coordinates":[-95.961422,41.276315],"type":"Point"}
+}

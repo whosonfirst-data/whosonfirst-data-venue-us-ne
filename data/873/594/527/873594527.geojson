@@ -1,0 +1,71 @@
+{
+  "id": 873594527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.905788,41.126273,-95.905788,41.126273",
+    "geom:latitude":41.126273,
+    "geom:longitude":-95.905788,
+    "iso:country":"US",
+    "sg:address":"1006 W 32nd Ave",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 291 9091",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "tree"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974747,
+        102082777,
+        85820061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5GnLAB6hBqpgGWpCdq4bPh_41.126273_-95.905788@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294894,
+    "wof:geomhash":"66b601349bbcfb8f7a88df2630391cc4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974747,
+            "neighbourhood_id":85820061,
+            "region_id":85688563,
+            "venue_id":873594527
+        }
+    ],
+    "wof:id":873594527,
+    "wof:lastmodified":1464294894,
+    "wof:name":"Bellevue Tree Svc",
+    "wof:parent_id":85820061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tree"
+    ]
+},
+  "bbox": [
+    -95.905788,
+    41.126273,
+    -95.905788,
+    41.126273
+],
+  "geometry": {"coordinates":[-95.905788,41.126273],"type":"Point"}
+}

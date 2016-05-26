@@ -1,0 +1,81 @@
+{
+  "id": 873824403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.002084,41.290131,-96.002084,41.290131",
+    "geom:latitude":41.290131,
+    "geom:longitude":-96.002084,
+    "iso:country":"US",
+    "sg:address":"3140 N 58th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 551 7165",
+    "sg:postcode":"68104",
+    "sg:province":"NE",
+    "sg:tags":[
+        "nonresidential",
+        "house",
+        "dry wall",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872535,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6xcXaJFNCVjFev25DOuZc7_41.290131_-96.002084@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298222,
+    "wof:geomhash":"9661d75dabf2a4da8964b00260d9f290",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872535,
+            "region_id":85688563,
+            "venue_id":873824403
+        }
+    ],
+    "wof:id":873824403,
+    "wof:lastmodified":1464298222,
+    "wof:name":"Owen Contracting & Drywall Co",
+    "wof:parent_id":85872535,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nonresidential",
+        "house",
+        "dry wall",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.002084,
+    41.290131,
+    -96.002084,
+    41.290131
+],
+  "geometry": {"coordinates":[-96.002084,41.290131],"type":"Point"}
+}

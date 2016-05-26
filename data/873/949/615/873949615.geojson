@@ -1,0 +1,82 @@
+{
+  "id": 873949615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.124014,41.209035,-96.124014,41.209035",
+    "geom:latitude":41.209035,
+    "geom:longitude":-96.124014,
+    "iso:country":"US",
+    "sg:address":"4924 S 135th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 895 3030",
+    "sg:postcode":"68137",
+    "sg:province":"NE",
+    "sg:tags":[
+        "conditioning",
+        "air",
+        "system",
+        "contractor"
+    ],
+    "sg:website":"www.fredsheatingandair.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872531,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2xygkguyBIgdKUCqUvCngD_41.209035_-96.124014@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464301132,
+    "wof:geomhash":"291a281a1da5e39bdb9df1e1aef8870d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872531,
+            "region_id":85688563,
+            "venue_id":873949615
+        }
+    ],
+    "wof:id":873949615,
+    "wof:lastmodified":1464301132,
+    "wof:name":"Fred's Heating & Air Cond",
+    "wof:parent_id":85872531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "conditioning",
+        "air",
+        "system",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.124014,
+    41.209035,
+    -96.124014,
+    41.209035
+],
+  "geometry": {"coordinates":[-96.124014,41.209035],"type":"Point"}
+}

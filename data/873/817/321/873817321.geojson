@@ -1,0 +1,71 @@
+{
+  "id": 873817321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.617467,40.733768,-96.617467,40.733768",
+    "geom:latitude":40.733768,
+    "geom:longitude":-96.617467,
+    "iso:country":"US",
+    "sg:address":"7541 Boone Trl",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 421 7541",
+    "sg:postcode":"68516",
+    "sg:province":"NE",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3YbsgVTVDUH7qRfXNpitzY_40.733768_-96.617467@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298066,
+    "wof:geomhash":"36a92e36cbe1208d2fd027b245045fb6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878685,
+            "region_id":85688563,
+            "venue_id":873817321
+        }
+    ],
+    "wof:id":873817321,
+    "wof:lastmodified":1464298066,
+    "wof:name":"C S Construction",
+    "wof:parent_id":85878685,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.617467,
+    40.733768,
+    -96.617467,
+    40.733768
+],
+  "geometry": {"coordinates":[-96.617467,40.733768],"type":"Point"}
+}

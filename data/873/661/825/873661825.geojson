@@ -1,0 +1,72 @@
+{
+  "id": 873661825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.623527,40.779112,-96.623527,40.779112",
+    "geom:latitude":40.779112,
+    "geom:longitude":-96.623527,
+    "iso:country":"US",
+    "sg:address":"7100 Holmes Park Rd",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 486 3636",
+    "sg:postcode":"68506",
+    "sg:province":"NE",
+    "sg:tags":[
+        "apartment"
+    ],
+    "sg:website":"www.broadmoor.cc",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0SYzUpeI8ZiB12dzEd9q20_40.779112_-96.623527@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295717,
+    "wof:geomhash":"d986849b59f016b84038ba52521d41ee",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878697,
+            "region_id":85688563,
+            "venue_id":873661825
+        }
+    ],
+    "wof:id":873661825,
+    "wof:lastmodified":1464295717,
+    "wof:name":"Holmes Lake Apartments",
+    "wof:parent_id":85878697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -96.623527,
+    40.779112,
+    -96.623527,
+    40.779112
+],
+  "geometry": {"coordinates":[-96.623527,40.779112],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 873953985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.687627,40.722881,-96.687627,40.722881",
+    "geom:latitude":40.722881,
+    "geom:longitude":-96.687627,
+    "iso:country":"US",
+    "sg:address":"2119 Wilderness Ridge Dr",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 423 3333",
+    "sg:postcode":"68512",
+    "sg:province":"NE",
+    "sg:tags":[
+        "home",
+        "builder"
+    ],
+    "sg:website":"www.braschhomes.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0MEdyTo1ObPu7zBKmuJyzk_40.722881_-96.687627@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464301301,
+    "wof:geomhash":"ff197329b3df35b6b1325075d773afdb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878733,
+            "region_id":85688563,
+            "venue_id":873953985
+        }
+    ],
+    "wof:id":873953985,
+    "wof:lastmodified":1464301301,
+    "wof:name":"Brasch Homes Inc",
+    "wof:parent_id":85878733,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "builder"
+    ]
+},
+  "bbox": [
+    -96.687627,
+    40.722881,
+    -96.687627,
+    40.722881
+],
+  "geometry": {"coordinates":[-96.68762700000001,40.722881],"type":"Point"}
+}

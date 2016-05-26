@@ -1,0 +1,71 @@
+{
+  "id": 873962293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.678501,40.740478,-96.678501,40.740478",
+    "geom:latitude":40.740478,
+    "geom:longitude":-96.678501,
+    "iso:country":"US",
+    "sg:address":"2935 Pine Lake Rd",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Stationery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 423 2026",
+    "sg:postcode":"68516",
+    "sg:province":"NE",
+    "sg:tags":[
+        "form"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0S52yfbF2UYrq4bYAv0c63_40.740478_-96.678501@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464301664,
+    "wof:geomhash":"9b1c09835d712b433edec87d32a8ddc0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878733,
+            "region_id":85688563,
+            "venue_id":873962293
+        }
+    ],
+    "wof:id":873962293,
+    "wof:lastmodified":1464301664,
+    "wof:name":"Mail Data Inc",
+    "wof:parent_id":85878733,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "form"
+    ]
+},
+  "bbox": [
+    -96.678501,
+    40.740478,
+    -96.678501,
+    40.740478
+],
+  "geometry": {"coordinates":[-96.678501,40.740478],"type":"Point"}
+}

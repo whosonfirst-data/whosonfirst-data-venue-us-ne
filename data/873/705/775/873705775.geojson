@@ -1,0 +1,75 @@
+{
+  "id": 873705775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.999817,41.295801,-95.999817,41.295801",
+    "geom:latitude":41.295801,
+    "geom:longitude":-95.999817,
+    "iso:country":"US",
+    "sg:address":"3955 N 56th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 451 3310",
+    "sg:postcode":"68104",
+    "sg:province":"NE",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85805755,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6q88QzLQTSx5uYSAMtl3TQ_41.295801_-95.999817@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296467,
+    "wof:geomhash":"a5b5fcfa840a172e87e5fafd7a245d71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85805755,
+            "region_id":85688563,
+            "venue_id":873705775
+        }
+    ],
+    "wof:id":873705775,
+    "wof:lastmodified":1464296467,
+    "wof:name":"Hopkins Heating & AC",
+    "wof:parent_id":85805755,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -95.999817,
+    41.295801,
+    -95.999817,
+    41.295801
+],
+  "geometry": {"coordinates":[-95.99981699999999,41.295801],"type":"Point"}
+}

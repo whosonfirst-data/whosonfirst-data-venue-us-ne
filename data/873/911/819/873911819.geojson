@@ -1,0 +1,77 @@
+{
+  "id": 873911819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.09746,41.225513,-96.09746,41.225513",
+    "geom:latitude":41.225513,
+    "geom:longitude":-96.09746,
+    "iso:country":"US",
+    "sg:address":"3507 S 117th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 496 4597",
+    "sg:postcode":"68144",
+    "sg:province":"NE",
+    "sg:tags":[
+        "crop",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872531,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2dl4XdlWdnsYtOsV7XdzHN_41.225513_-96.097460@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300046,
+    "wof:geomhash":"59df36411e8bf3573695e1cc49a1ee77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872531,
+            "region_id":85688563,
+            "venue_id":873911819
+        }
+    ],
+    "wof:id":873911819,
+    "wof:lastmodified":1464300046,
+    "wof:name":"Nelson Farms",
+    "wof:parent_id":85872531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crop",
+        "general"
+    ]
+},
+  "bbox": [
+    -96.09746,
+    41.225513,
+    -96.09746,
+    41.225513
+],
+  "geometry": {"coordinates":[-96.09746,41.225513],"type":"Point"}
+}

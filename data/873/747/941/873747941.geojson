@@ -1,0 +1,71 @@
+{
+  "id": 873747941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.673418,40.874022,-96.673418,40.874022",
+    "geom:latitude":40.874022,
+    "geom:longitude":-96.673418,
+    "iso:country":"US",
+    "sg:address":"6010 Meridian Dr",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 436 3495",
+    "sg:postcode":"68504",
+    "sg:province":"NE",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6HdF8eQ7xTUPHAj5m0Asp8_40.874022_-96.673418@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297049,
+    "wof:geomhash":"7c4c5467d99cfddb7298a455849ae80c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878687,
+            "region_id":85688563,
+            "venue_id":873747941
+        }
+    ],
+    "wof:id":873747941,
+    "wof:lastmodified":1464297049,
+    "wof:name":"Cascade Pines",
+    "wof:parent_id":85878687,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -96.673418,
+    40.874022,
+    -96.673418,
+    40.874022
+],
+  "geometry": {"coordinates":[-96.673418,40.874022],"type":"Point"}
+}

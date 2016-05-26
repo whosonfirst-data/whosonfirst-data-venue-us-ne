@@ -1,0 +1,69 @@
+{
+  "id": 873898951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.05928,41.321106,-96.05928,41.321106",
+    "geom:latitude":41.321106,
+    "geom:longitude":-96.05928,
+    "iso:country":"US",
+    "sg:address":"9625 Ida St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 571 1719",
+    "sg:postcode":"68122",
+    "sg:province":"NE",
+    "sg:tags":[
+        "telecommunication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85872505,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4cuKTFdrNNUyJIAzUeRo14_41.321106_-96.059280@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299798,
+    "wof:geomhash":"d8d1ae6a12fba330e51e4e2bbb005d3b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":873898951
+        }
+    ],
+    "wof:id":873898951,
+    "wof:lastmodified":1464299798,
+    "wof:name":"Morse Communications",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "telecommunication"
+    ]
+},
+  "bbox": [
+    -96.05928,
+    41.321106,
+    -96.05928,
+    41.321106
+],
+  "geometry": {"coordinates":[-96.05928,41.321106],"type":"Point"}
+}

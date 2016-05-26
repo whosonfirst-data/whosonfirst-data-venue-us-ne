@@ -1,0 +1,71 @@
+{
+  "id": 873949983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.070732,41.330248,-96.070732,41.330248",
+    "geom:latitude":41.330248,
+    "geom:longitude":-96.070732,
+    "iso:country":"US",
+    "sg:address":"10033 Kings Plz",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 571 7040",
+    "sg:postcode":"68122",
+    "sg:province":"NE",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85872505,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_60WaMZMcghkGGZXQJEaTm2_41.330248_-96.070732@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464301149,
+    "wof:geomhash":"bb9c65f25da93d9c8b70fa399d6cdfa4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":873949983
+        }
+    ],
+    "wof:id":873949983,
+    "wof:lastmodified":1464301149,
+    "wof:name":"Paul D Auto Sales",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -96.070732,
+    41.330248,
+    -96.070732,
+    41.330248
+],
+  "geometry": {"coordinates":[-96.07073200000001,41.330248],"type":"Point"}
+}

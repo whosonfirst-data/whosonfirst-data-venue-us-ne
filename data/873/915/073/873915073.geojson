@@ -1,0 +1,75 @@
+{
+  "id": 873915073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.026991,41.279536,-96.026991,41.279536",
+    "geom:latitude":41.279536,
+    "geom:longitude":-96.026991,
+    "iso:country":"US",
+    "sg:address":"7349 Grant St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 393 3219",
+    "sg:postcode":"68134",
+    "sg:province":"NE",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872507,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Bw3xpYL2ZStducc6oOsRT_41.279536_-96.026991@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300108,
+    "wof:geomhash":"225c6ec9ffa5fe83313cea76dfdf1508",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872507,
+            "region_id":85688563,
+            "venue_id":873915073
+        }
+    ],
+    "wof:id":873915073,
+    "wof:lastmodified":1464300108,
+    "wof:name":"Apartment Co",
+    "wof:parent_id":85872507,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -96.026991,
+    41.279536,
+    -96.026991,
+    41.279536
+],
+  "geometry": {"coordinates":[-96.026991,41.279536],"type":"Point"}
+}

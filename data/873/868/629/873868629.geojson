@@ -1,0 +1,79 @@
+{
+  "id": 873868629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.691548,40.844689,-96.691548,40.844689",
+    "geom:latitude":40.844689,
+    "geom:longitude":-96.691548,
+    "iso:country":"US",
+    "sg:address":"3260 N 20th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 477 3368",
+    "sg:postcode":"68521",
+    "sg:province":"NE",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878721,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6OuuL375rSItqC9wt9zItf_40.844689_-96.691548@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299201,
+    "wof:geomhash":"6e496bebcaef7f3d2498cbc42dd78918",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878721,
+            "region_id":85688563,
+            "venue_id":873868629
+        }
+    ],
+    "wof:id":873868629,
+    "wof:lastmodified":1464299201,
+    "wof:name":"Husker Dent",
+    "wof:parent_id":85878721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -96.691548,
+    40.844689,
+    -96.691548,
+    40.844689
+],
+  "geometry": {"coordinates":[-96.691548,40.844689],"type":"Point"}
+}

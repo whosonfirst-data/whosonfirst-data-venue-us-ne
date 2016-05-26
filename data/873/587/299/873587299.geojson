@@ -1,0 +1,75 @@
+{
+  "id": 873587299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.632922,40.824644,-96.632922,40.824644",
+    "geom:latitude":40.824644,
+    "geom:longitude":-96.632922,
+    "iso:country":"US",
+    "sg:address":"1124 N Cotner Blvd",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 467 3569",
+    "sg:postcode":"68505",
+    "sg:province":"NE",
+    "sg:tags":[
+        "photographer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878725,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5MgGOAC6f6Nbndtd4tzMIq_40.824644_-96.632922@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294800,
+    "wof:geomhash":"f8ee5a2e102b3e5d479e3152c39e023b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878725,
+            "region_id":85688563,
+            "venue_id":873587299
+        }
+    ],
+    "wof:id":873587299,
+    "wof:lastmodified":1464294800,
+    "wof:name":"Evans Studio",
+    "wof:parent_id":85878725,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photographer"
+    ]
+},
+  "bbox": [
+    -96.632922,
+    40.824644,
+    -96.632922,
+    40.824644
+],
+  "geometry": {"coordinates":[-96.63292199999999,40.824644],"type":"Point"}
+}

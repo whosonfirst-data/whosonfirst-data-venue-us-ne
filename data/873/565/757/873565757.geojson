@@ -1,0 +1,73 @@
+{
+  "id": 873565757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.629115,40.85176,-96.629115,40.85176",
+    "geom:latitude":40.85176,
+    "geom:longitude":-96.629115,
+    "iso:country":"US",
+    "sg:address":"6700 Seward Ave",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 466 6606",
+    "sg:postcode":"68507",
+    "sg:province":"NE",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85824241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6EsqOAMvyjluqvtuUFZy07_40.851760_-96.629115@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294564,
+    "wof:geomhash":"b5964f8f8ba6f9498b66b2165eb5a9fc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85824241,
+            "region_id":85688563,
+            "venue_id":873565757
+        }
+    ],
+    "wof:id":873565757,
+    "wof:lastmodified":1464294564,
+    "wof:name":"Hy-Electric",
+    "wof:parent_id":85824241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.629115,
+    40.85176,
+    -96.629115,
+    40.85176
+],
+  "geometry": {"coordinates":[-96.629115,40.85176],"type":"Point"}
+}

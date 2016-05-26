@@ -1,0 +1,71 @@
+{
+  "id": 873752217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.933451,41.17459,-95.933451,41.17459",
+    "geom:latitude":41.17459,
+    "geom:longitude":-95.933451,
+    "iso:country":"US",
+    "sg:address":"1007 Virginia St",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 490 9306",
+    "sg:postcode":"68147",
+    "sg:province":"NE",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85804025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_54nOaZi3C0lljThawjOpm9_41.174590_-95.933451@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297103,
+    "wof:geomhash":"0eb76fa1b648e3307a0ba4815c722912",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85804025,
+            "region_id":85688563,
+            "venue_id":873752217
+        }
+    ],
+    "wof:id":873752217,
+    "wof:lastmodified":1464297103,
+    "wof:name":"Babb Roofing",
+    "wof:parent_id":85804025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -95.933451,
+    41.17459,
+    -95.933451,
+    41.17459
+],
+  "geometry": {"coordinates":[-95.93345100000001,41.17459],"type":"Point"}
+}

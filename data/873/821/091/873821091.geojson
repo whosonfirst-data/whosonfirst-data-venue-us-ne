@@ -1,0 +1,72 @@
+{
+  "id": 873821091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.638319,40.863587,-96.638319,40.863587",
+    "geom:latitude":40.863587,
+    "geom:longitude":-96.638319,
+    "iso:country":"US",
+    "sg:address":"5930 Cornhusker Hwy",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 466 3122",
+    "sg:postcode":"68507",
+    "sg:province":"NE",
+    "sg:tags":[
+        "battery"
+    ],
+    "sg:website":"www.bkenergyproducts.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85824241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1G3LDaZtC4E115hH66SZ87_40.863587_-96.638319@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298140,
+    "wof:geomhash":"d7cc314661916b882b35a720465f866e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85824241,
+            "region_id":85688563,
+            "venue_id":873821091
+        }
+    ],
+    "wof:id":873821091,
+    "wof:lastmodified":1464298140,
+    "wof:name":"B K Energy Products",
+    "wof:parent_id":85824241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "battery"
+    ]
+},
+  "bbox": [
+    -96.638319,
+    40.863587,
+    -96.638319,
+    40.863587
+],
+  "geometry": {"coordinates":[-96.638319,40.863587],"type":"Point"}
+}

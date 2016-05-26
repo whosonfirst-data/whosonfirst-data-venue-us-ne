@@ -1,0 +1,66 @@
+{
+  "id": 873640183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.969456,41.140933,-95.969456,41.140933",
+    "geom:latitude":41.140933,
+    "geom:longitude":-95.969456,
+    "iso:country":"US",
+    "sg:address":"3808 Twin Creek Dr",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 291 6747",
+    "sg:postcode":"68123",
+    "sg:province":"NE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85821583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4iC8tfe4JFxqim7ZNqKJGL_41.140933_-95.969456@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295474,
+    "wof:geomhash":"e183230a06c15f9294bce446626b5012",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85821583,
+            "region_id":85688563,
+            "venue_id":873640183
+        }
+    ],
+    "wof:id":873640183,
+    "wof:lastmodified":1464295474,
+    "wof:name":"Target",
+    "wof:parent_id":85821583,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -95.969456,
+    41.140933,
+    -95.969456,
+    41.140933
+],
+  "geometry": {"coordinates":[-95.96945599999999,41.140933],"type":"Point"}
+}

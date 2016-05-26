@@ -1,0 +1,74 @@
+{
+  "id": 873949547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.787046,40.875172,-96.787046,40.875172",
+    "geom:latitude":40.875172,
+    "geom:longitude":-96.787046,
+    "iso:country":"US",
+    "sg:address":"6625 NW 48th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 470 2450",
+    "sg:postcode":"68524",
+    "sg:province":"NE",
+    "sg:tags":[
+        "hay",
+        "ride"
+    ],
+    "sg:website":"www.grandpajohns.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85826663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1F00KUNFqPwZpT76s5ym3p_40.875172_-96.787046@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464301130,
+    "wof:geomhash":"0016a942e5baad08ac23a99f6d15d6f7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85826663,
+            "region_id":85688563,
+            "venue_id":873949547
+        }
+    ],
+    "wof:id":873949547,
+    "wof:lastmodified":1464301130,
+    "wof:name":"Grandpa John's Farm",
+    "wof:parent_id":85826663,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hay",
+        "ride"
+    ]
+},
+  "bbox": [
+    -96.787046,
+    40.875172,
+    -96.787046,
+    40.875172
+],
+  "geometry": {"coordinates":[-96.787046,40.875172],"type":"Point"}
+}

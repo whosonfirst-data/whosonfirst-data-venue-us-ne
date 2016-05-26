@@ -1,0 +1,81 @@
+{
+  "id": 873766201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.651515,40.822744,-96.651515,40.822744",
+    "geom:latitude":40.822744,
+    "geom:longitude":-96.651515,
+    "iso:country":"US",
+    "sg:address":"5020 Wilshire Blvd",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Art Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 466 5381",
+    "sg:postcode":"68504",
+    "sg:province":"NE",
+    "sg:tags":[
+        "arts",
+        "graphic",
+        "commercial",
+        "designer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878701,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0tLPMrDkoYeyCqkdKqvHrp_40.822744_-96.651515@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297314,
+    "wof:geomhash":"349c12386c1fa2bf106a5668596dd694",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878701,
+            "region_id":85688563,
+            "venue_id":873766201
+        }
+    ],
+    "wof:id":873766201,
+    "wof:lastmodified":1464297314,
+    "wof:name":"Robert Greuter & Associates",
+    "wof:parent_id":85878701,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "arts",
+        "graphic",
+        "commercial",
+        "designer"
+    ]
+},
+  "bbox": [
+    -96.651515,
+    40.822744,
+    -96.651515,
+    40.822744
+],
+  "geometry": {"coordinates":[-96.651515,40.822744],"type":"Point"}
+}

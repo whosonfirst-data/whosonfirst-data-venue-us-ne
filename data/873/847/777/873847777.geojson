@@ -1,0 +1,71 @@
+{
+  "id": 873847777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.04171,41.156865,-96.04171,41.156865",
+    "geom:latitude":41.156865,
+    "geom:longitude":-96.04171,
+    "iso:country":"US",
+    "sg:address":"136 N Jefferson St",
+    "sg:city":"Papillion",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 593 9809",
+    "sg:postcode":"68046",
+    "sg:province":"NE",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85843697,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1qx0XPjkgJGULRwbDM24JL_41.156865_-96.041710@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298761,
+    "wof:geomhash":"0f80dde916d62ece976f7c509d013670",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85843697,
+            "region_id":85688563,
+            "venue_id":873847777
+        }
+    ],
+    "wof:id":873847777,
+    "wof:lastmodified":1464298761,
+    "wof:name":"Rons Automotive Repair",
+    "wof:parent_id":85843697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -96.04171,
+    41.156865,
+    -96.04171,
+    41.156865
+],
+  "geometry": {"coordinates":[-96.04170999999999,41.156865],"type":"Point"}
+}

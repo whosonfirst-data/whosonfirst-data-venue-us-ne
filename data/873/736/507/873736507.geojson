@@ -1,0 +1,73 @@
+{
+  "id": 873736507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.591353,40.689617,-96.591353,40.689617",
+    "geom:latitude":40.689617,
+    "geom:longitude":-96.591353,
+    "iso:country":"US",
+    "sg:address":"12905 S 96th St",
+    "sg:city":"Roca",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 423 3944",
+    "sg:postcode":"68430",
+    "sg:province":"NE",
+    "sg:tags":[
+        "framing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2tOLKQdNyx7iSngQQ8elYO_40.689617_-96.591353@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296876,
+    "wof:geomhash":"e823744af127038a4126869e349cdbda",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878685,
+            "region_id":85688563,
+            "venue_id":873736507
+        }
+    ],
+    "wof:id":873736507,
+    "wof:lastmodified":1464296876,
+    "wof:name":"Crawford & Holthus Cnstr",
+    "wof:parent_id":85878685,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "framing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.591353,
+    40.689617,
+    -96.591353,
+    40.689617
+],
+  "geometry": {"coordinates":[-96.591353,40.689617],"type":"Point"}
+}

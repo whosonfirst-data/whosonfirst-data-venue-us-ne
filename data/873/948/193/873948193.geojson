@@ -1,0 +1,71 @@
+{
+  "id": 873948193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.908424,41.144767,-95.908424,41.144767",
+    "geom:latitude":41.144767,
+    "geom:longitude":-95.908424,
+    "iso:country":"US",
+    "sg:address":"1407 Kay Lynn Dr",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 292 1586",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974747,
+        102082777,
+        85820061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2x5MS5Oow0BIiTcRgIfioX_41.144767_-95.908424@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464301065,
+    "wof:geomhash":"f434ac5d0efead6a3949be3dc222fdee",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974747,
+            "neighbourhood_id":85820061,
+            "region_id":85688563,
+            "venue_id":873948193
+        }
+    ],
+    "wof:id":873948193,
+    "wof:lastmodified":1464301065,
+    "wof:name":"Bayer Construction",
+    "wof:parent_id":85820061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -95.908424,
+    41.144767,
+    -95.908424,
+    41.144767
+],
+  "geometry": {"coordinates":[-95.908424,41.144767],"type":"Point"}
+}

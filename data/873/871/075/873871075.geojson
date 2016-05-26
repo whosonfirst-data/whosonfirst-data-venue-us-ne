@@ -1,0 +1,72 @@
+{
+  "id": 873871075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.624957,40.780191,-96.624957,40.780191",
+    "geom:latitude":40.780191,
+    "geom:longitude":-96.624957,
+    "iso:country":"US",
+    "sg:address":"2900 S 70th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 464 8351",
+    "sg:postcode":"68506",
+    "sg:province":"NE",
+    "sg:tags":[
+        "apartment"
+    ],
+    "sg:website":"www.chateaudev.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5aSrsDCT92ZTG2lAxIGVdB_40.780191_-96.624957@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299257,
+    "wof:geomhash":"609423868053bd97fc04e9e11fd2a881",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878697,
+            "region_id":85688563,
+            "venue_id":873871075
+        }
+    ],
+    "wof:id":873871075,
+    "wof:lastmodified":1464299257,
+    "wof:name":"Chateau Development LLC",
+    "wof:parent_id":85878697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -96.624957,
+    40.780191,
+    -96.624957,
+    40.780191
+],
+  "geometry": {"coordinates":[-96.62495699999999,40.780191],"type":"Point"}
+}

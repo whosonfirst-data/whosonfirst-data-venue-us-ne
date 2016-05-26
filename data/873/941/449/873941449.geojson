@@ -1,0 +1,78 @@
+{
+  "id": 873941449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.368148,41.44082,-97.368148,41.44082",
+    "geom:latitude":41.44082,
+    "geom:longitude":-97.368148,
+    "iso:country":"US",
+    "sg:address":"2457 33rd Ave",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 562 6330",
+    "sg:postcode":"68601",
+    "sg:province":"NE",
+    "sg:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ],
+    "sg:website":"www.moviegallery.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974401,
+        102084277,
+        85854093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0FXDxjWpB77Yj9C4vbH7Ga_41.440820_-97.368148@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300751,
+    "wof:geomhash":"2bb49c21e36271ffed33b8a5c2b47524",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084277,
+            "locality_id":85974401,
+            "neighbourhood_id":85854093,
+            "region_id":85688563,
+            "venue_id":873941449
+        }
+    ],
+    "wof:id":873941449,
+    "wof:lastmodified":1464300751,
+    "wof:name":"Movie Gallery",
+    "wof:parent_id":85854093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ]
+},
+  "bbox": [
+    -97.368148,
+    41.44082,
+    -97.368148,
+    41.44082
+],
+  "geometry": {"coordinates":[-97.36814800000001,41.44082],"type":"Point"}
+}

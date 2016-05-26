@@ -1,0 +1,69 @@
+{
+  "id": 873882481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.081053,41.32029,-96.081053,41.32029",
+    "geom:latitude":41.32029,
+    "geom:longitude":-96.081053,
+    "iso:country":"US",
+    "sg:address":"6602 N 107th Plz",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 932 3339",
+    "sg:postcode":"68122",
+    "sg:province":"NE",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85872505,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_08UqDJE8u2BAIBmydDmB0O_41.320290_-96.081053@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299478,
+    "wof:geomhash":"366f12382d2893540a837fcffe0882b3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":873882481
+        }
+    ],
+    "wof:id":873882481,
+    "wof:lastmodified":1464299478,
+    "wof:name":"Complete Painting & Drywall",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.081053,
+    41.32029,
+    -96.081053,
+    41.32029
+],
+  "geometry": {"coordinates":[-96.081053,41.32029],"type":"Point"}
+}

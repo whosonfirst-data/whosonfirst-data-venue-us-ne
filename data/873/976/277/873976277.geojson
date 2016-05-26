@@ -1,0 +1,78 @@
+{
+  "id": 873976277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.98015,41.267919,-95.98015,41.267919",
+    "geom:latitude":41.267919,
+    "geom:longitude":-95.98015,
+    "iso:country":"US",
+    "sg:address":"4565 Cuming St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ne/omaha/199713-sonic/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 827 1333",
+    "sg:postcode":"68132",
+    "sg:province":"NE",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867055,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3x22qxg926EjqxrRdrsd4Q_41.267919_-95.980150@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464302232,
+    "wof:geomhash":"51ecf136da6e69b6ccc402f6a8b21096",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85867055,
+            "region_id":85688563,
+            "venue_id":873976277
+        }
+    ],
+    "wof:id":873976277,
+    "wof:lastmodified":1464302232,
+    "wof:name":"Sonic",
+    "wof:parent_id":85867055,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -95.98015,
+    41.267919,
+    -95.98015,
+    41.267919
+],
+  "geometry": {"coordinates":[-95.98014999999999,41.267919],"type":"Point"}
+}

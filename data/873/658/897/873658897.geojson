@@ -1,0 +1,71 @@
+{
+  "id": 873658897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.893763,41.137251,-95.893763,41.137251",
+    "geom:latitude":41.137251,
+    "geom:longitude":-95.893763,
+    "iso:country":"US",
+    "sg:address":"2210 Franklin St",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 292 9958",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "drinking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974747,
+        102082777,
+        85820061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_53vW9zttio4lKKcSvUHJS1_41.137251_-95.893763@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295687,
+    "wof:geomhash":"0b26ca4fff0c3baf2a43e2006b319a64",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974747,
+            "neighbourhood_id":85820061,
+            "region_id":85688563,
+            "venue_id":873658897
+        }
+    ],
+    "wof:id":873658897,
+    "wof:lastmodified":1464295687,
+    "wof:name":"Bears Bar",
+    "wof:parent_id":85820061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drinking"
+    ]
+},
+  "bbox": [
+    -95.893763,
+    41.137251,
+    -95.893763,
+    41.137251
+],
+  "geometry": {"coordinates":[-95.89376300000001,41.137251],"type":"Point"}
+}

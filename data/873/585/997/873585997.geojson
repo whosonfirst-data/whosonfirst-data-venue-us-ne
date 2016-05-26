@@ -1,0 +1,77 @@
+{
+  "id": 873585997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.113038,41.230681,-96.113038,41.230681",
+    "geom:latitude":41.230681,
+    "geom:longitude":-96.113038,
+    "iso:country":"US",
+    "sg:address":"12808 Augusta Ave",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 330 5690",
+    "sg:postcode":"68144",
+    "sg:province":"NE",
+    "sg:tags":[
+        "clinic",
+        "pediatrician"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872531,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2mbyFsewr0E22bm9ffAtEF_41.230681_-96.113038@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294784,
+    "wof:geomhash":"ce6df27eed77598ae1d8160e8ed21ea9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872531,
+            "region_id":85688563,
+            "venue_id":873585997
+        }
+    ],
+    "wof:id":873585997,
+    "wof:lastmodified":1464294784,
+    "wof:name":"Omaha Children's Clinic",
+    "wof:parent_id":85872531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic",
+        "pediatrician"
+    ]
+},
+  "bbox": [
+    -96.113038,
+    41.230681,
+    -96.113038,
+    41.230681
+],
+  "geometry": {"coordinates":[-96.113038,41.230681],"type":"Point"}
+}

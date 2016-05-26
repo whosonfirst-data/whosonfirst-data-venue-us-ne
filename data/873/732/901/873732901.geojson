@@ -1,0 +1,66 @@
+{
+  "id": 873732901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.643041,40.781293,-96.643041,40.781293",
+    "geom:latitude":40.781293,
+    "geom:longitude":-96.643041,
+    "iso:country":"US",
+    "sg:address":"3020 S 57th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 488 5852",
+    "sg:postcode":"68506",
+    "sg:province":"NE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6DsqxR0Y6wjxB202Tr9wso_40.781293_-96.643041@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296814,
+    "wof:geomhash":"d64e77069a33df6ee73c9ffb3b0b6ec4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878697,
+            "region_id":85688563,
+            "venue_id":873732901
+        }
+    ],
+    "wof:id":873732901,
+    "wof:lastmodified":1464296814,
+    "wof:name":"The Cake & Icing Shoppe",
+    "wof:parent_id":85878697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.643041,
+    40.781293,
+    -96.643041,
+    40.781293
+],
+  "geometry": {"coordinates":[-96.643041,40.781293],"type":"Point"}
+}

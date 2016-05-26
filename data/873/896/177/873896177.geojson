@@ -1,0 +1,73 @@
+{
+  "id": 873896177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.734721,40.861605,-96.734721,40.861605",
+    "geom:latitude":40.861605,
+    "geom:longitude":-96.734721,
+    "iso:country":"US",
+    "sg:address":"1101 Isaac Dr",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 476 7373",
+    "sg:postcode":"68521",
+    "sg:province":"NE",
+    "sg:tags":[
+        "catholic",
+        "school"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2oWA7BKQWfbiHf4PwRitAF_40.861605_-96.734721@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299749,
+    "wof:geomhash":"aa0cb1375cd62321229aa1887d051918",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878717,
+            "region_id":85688563,
+            "venue_id":873896177
+        }
+    ],
+    "wof:id":873896177,
+    "wof:lastmodified":1464299749,
+    "wof:name":"North Amrcn Mrtyrs Cthlic Schl",
+    "wof:parent_id":85878717,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "catholic",
+        "school"
+    ]
+},
+  "bbox": [
+    -96.734721,
+    40.861605,
+    -96.734721,
+    40.861605
+],
+  "geometry": {"coordinates":[-96.73472099999999,40.861605],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 873844655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.021464,41.284972,-96.021464,41.284972",
+    "geom:latitude":41.284972,
+    "geom:longitude":-96.021464,
+    "iso:country":"US",
+    "sg:address":"7005 Maple St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 556 8811",
+    "sg:postcode":"68104",
+    "sg:province":"NE",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872507,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_51kAPpQZbes1naw6xJINb8_41.284972_-96.021464@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298676,
+    "wof:geomhash":"7410c8fb5cc3b449074c11e8d7b094cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872507,
+            "region_id":85688563,
+            "venue_id":873844655
+        }
+    ],
+    "wof:id":873844655,
+    "wof:lastmodified":1464298676,
+    "wof:name":"Don's TBA Svc",
+    "wof:parent_id":85872507,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -96.021464,
+    41.284972,
+    -96.021464,
+    41.284972
+],
+  "geometry": {"coordinates":[-96.02146399999999,41.284972],"type":"Point"}
+}

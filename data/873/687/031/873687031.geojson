@@ -1,0 +1,71 @@
+{
+  "id": 873687031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.065043,41.168292,-96.065043,41.168292",
+    "geom:latitude":41.168292,
+    "geom:longitude":-96.065043,
+    "iso:country":"US",
+    "sg:address":"9806 Hupp Rd",
+    "sg:city":"La Vista",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 339 7117",
+    "sg:postcode":"68128",
+    "sg:province":"NE",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85843697,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0TXnROFk6OpZilTjLCepDX_41.168292_-96.065043@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296193,
+    "wof:geomhash":"540610304c0f4b6a45a460688e66f922",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85843697,
+            "region_id":85688563,
+            "venue_id":873687031
+        }
+    ],
+    "wof:id":873687031,
+    "wof:lastmodified":1464296193,
+    "wof:name":"Warner Auto Care Ctr",
+    "wof:parent_id":85843697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -96.065043,
+    41.168292,
+    -96.065043,
+    41.168292
+],
+  "geometry": {"coordinates":[-96.065043,41.168292],"type":"Point"}
+}

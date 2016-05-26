@@ -1,0 +1,74 @@
+{
+  "id": 873975707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.924879,41.164719,-95.924879,41.164719",
+    "geom:latitude":41.164719,
+    "geom:longitude":-95.924879,
+    "iso:country":"US",
+    "sg:address":"299 Fort Crook Rd N",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ne/bellevue/109383-village-inn/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 293 1010",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "new",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85804025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0MBGfgGSXhsp6Muk1nq2Y4_41.164719_-95.924879@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464302213,
+    "wof:geomhash":"a4f8bc5e08a643d84867a13a72673f7f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85804025,
+            "region_id":85688563,
+            "venue_id":873975707
+        }
+    ],
+    "wof:id":873975707,
+    "wof:lastmodified":1464302213,
+    "wof:name":"Village Inn",
+    "wof:parent_id":85804025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "new",
+        "american"
+    ]
+},
+  "bbox": [
+    -95.924879,
+    41.164719,
+    -95.924879,
+    41.164719
+],
+  "geometry": {"coordinates":[-95.924879,41.164719],"type":"Point"}
+}

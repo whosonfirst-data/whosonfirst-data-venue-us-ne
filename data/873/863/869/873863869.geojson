@@ -1,0 +1,71 @@
+{
+  "id": 873863869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.641435,40.814253,-96.641435,40.814253",
+    "geom:latitude":40.814253,
+    "geom:longitude":-96.641435,
+    "iso:country":"US",
+    "sg:address":"226 Gateway Mall",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 466 1212",
+    "sg:postcode":"68505",
+    "sg:province":"NE",
+    "sg:website":"www.debshops.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878703,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0CAIBe0fWD36rgRmmnKgnH_40.814253_-96.641435@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299111,
+    "wof:geomhash":"9fd79d05aaf03f1c8898c7854f53ca36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878703,
+            "region_id":85688563,
+            "venue_id":873863869
+        }
+    ],
+    "wof:id":873863869,
+    "wof:lastmodified":1464299111,
+    "wof:name":"Deb Shops",
+    "wof:parent_id":85878703,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.641435,
+    40.814253,
+    -96.641435,
+    40.814253
+],
+  "geometry": {"coordinates":[-96.641435,40.814253],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 873878947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.733013,40.835654,-96.733013,40.835654",
+    "geom:latitude":40.835654,
+    "geom:longitude":-96.733013,
+    "iso:country":"US",
+    "sg:address":"736 W Cornhusker Hwy",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 479 9935",
+    "sg:postcode":"68521",
+    "sg:province":"NE",
+    "sg:tags":[
+        "beer",
+        "ale"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85855865,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3k2hbrSWWKWtgpLLuma2MG_40.835654_-96.733013@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299413,
+    "wof:geomhash":"fe84a8179c70017ebd68b5c67d50e449",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85855865,
+            "region_id":85688563,
+            "venue_id":873878947
+        }
+    ],
+    "wof:id":873878947,
+    "wof:lastmodified":1464299413,
+    "wof:name":"Top Hat Tavern",
+    "wof:parent_id":85855865,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beer",
+        "ale"
+    ]
+},
+  "bbox": [
+    -96.733013,
+    40.835654,
+    -96.733013,
+    40.835654
+],
+  "geometry": {"coordinates":[-96.733013,40.835654],"type":"Point"}
+}

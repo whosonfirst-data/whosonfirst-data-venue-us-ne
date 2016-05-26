@@ -1,0 +1,73 @@
+{
+  "id": 873940443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.678431,40.739155,-96.678431,40.739155",
+    "geom:latitude":40.739155,
+    "geom:longitude":-96.678431,
+    "iso:country":"US",
+    "sg:address":"7140 S 29th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 421 2100",
+    "sg:postcode":"68516",
+    "sg:province":"NE",
+    "sg:tags":[
+        "therapy",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_28GPtD4mU0xyFDqeK7KnBC_40.739155_-96.678431@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300711,
+    "wof:geomhash":"1feb6f822e84bc149639a08cbb8ea0e5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878733,
+            "region_id":85688563,
+            "venue_id":873940443
+        }
+    ],
+    "wof:id":873940443,
+    "wof:lastmodified":1464300711,
+    "wof:name":"Advance Physical Therapy",
+    "wof:parent_id":85878733,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapy",
+        "physical"
+    ]
+},
+  "bbox": [
+    -96.678431,
+    40.739155,
+    -96.678431,
+    40.739155
+],
+  "geometry": {"coordinates":[-96.678431,40.739155],"type":"Point"}
+}

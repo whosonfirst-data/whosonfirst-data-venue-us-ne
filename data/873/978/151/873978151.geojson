@@ -1,0 +1,87 @@
+{
+  "id": 873978151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.622538,40.771851,-96.622538,40.771851",
+    "geom:latitude":40.771851,
+    "geom:longitude":-96.622538,
+    "iso:country":"US",
+    "sg:address":"4121 Pioneer Woods Dr",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ne/lincoln/182882-culvers/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 488 4121",
+    "sg:postcode":"68506",
+    "sg:province":"NE",
+    "sg:tags":[
+        "burger",
+        "american",
+        "ice",
+        "cream"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878695,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3DYPfrciLOqpgoAaxuxMRg_40.771473_-96.622349@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464302302,
+    "wof:geomhash":"a33312fb57bd5ebde00d55bc8a2dee23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878695,
+            "region_id":85688563,
+            "venue_id":873978151
+        }
+    ],
+    "wof:id":873978151,
+    "wof:lastmodified":1464302302,
+    "wof:name":"Culver's",
+    "wof:parent_id":85878695,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "ice",
+        "cream"
+    ]
+},
+  "bbox": [
+    -96.622538,
+    40.771851,
+    -96.622538,
+    40.771851
+],
+  "geometry": {"coordinates":[-96.62253800000001,40.771851],"type":"Point"}
+}

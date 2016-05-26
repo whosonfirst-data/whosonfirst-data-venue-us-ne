@@ -1,0 +1,74 @@
+{
+  "id": 873601563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.620655,40.784273,-96.620655,40.784273",
+    "geom:latitude":40.784273,
+    "geom:longitude":-96.620655,
+    "iso:country":"US",
+    "sg:address":"7100 Van Dorn St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 488 0400",
+    "sg:postcode":"68506",
+    "sg:province":"NE",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "sg:website":"www.fmarealty.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7C1SuJoaMMdGSqo0tTMr1x_40.784273_-96.620655@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295004,
+    "wof:geomhash":"554e27b343fe319240149b3941f44791",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878697,
+            "region_id":85688563,
+            "venue_id":873601563
+        }
+    ],
+    "wof:id":873601563,
+    "wof:lastmodified":1464295004,
+    "wof:name":"Georgetown Apartments",
+    "wof:parent_id":85878697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -96.620655,
+    40.784273,
+    -96.620655,
+    40.784273
+],
+  "geometry": {"coordinates":[-96.620655,40.784273],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873703163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.912505,41.147727,-95.912505,41.147727",
+    "geom:latitude":41.147727,
+    "geom:longitude":-95.912505,
+    "iso:country":"US",
+    "sg:address":"1411 Fairfax Rd",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 880 4851",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "technology"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85821583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0YkBcRepmlD1bXyY3uONXI_41.147727_-95.912505@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296437,
+    "wof:geomhash":"12b84dfe5b9cfed772005afb792ec962",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85821583,
+            "region_id":85688563,
+            "venue_id":873703163
+        }
+    ],
+    "wof:id":873703163,
+    "wof:lastmodified":1464296437,
+    "wof:name":"Ampltek GTS",
+    "wof:parent_id":85821583,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "technology"
+    ]
+},
+  "bbox": [
+    -95.912505,
+    41.147727,
+    -95.912505,
+    41.147727
+],
+  "geometry": {"coordinates":[-95.912505,41.147727],"type":"Point"}
+}

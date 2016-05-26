@@ -1,0 +1,73 @@
+{
+  "id": 873611525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.062232,41.334569,-96.062232,41.334569",
+    "geom:latitude":41.334569,
+    "geom:longitude":-96.062232,
+    "iso:country":"US",
+    "sg:address":"7620 N 96th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 573 8984",
+    "sg:postcode":"68122",
+    "sg:province":"NE",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85872505,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5BpXft5OaYNAF8YVJf5LMH_41.334569_-96.062232@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295161,
+    "wof:geomhash":"f58b90994515a0d06cca6691f907418e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":873611525
+        }
+    ],
+    "wof:id":873611525,
+    "wof:lastmodified":1464295161,
+    "wof:name":"Willard Auto Machining",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -96.062232,
+    41.334569,
+    -96.062232,
+    41.334569
+],
+  "geometry": {"coordinates":[-96.06223199999999,41.334569],"type":"Point"}
+}

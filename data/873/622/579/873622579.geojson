@@ -1,0 +1,75 @@
+{
+  "id": 873622579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.701191,40.80808,-96.701191,40.80808",
+    "geom:latitude":40.80808,
+    "geom:longitude":-96.701191,
+    "iso:country":"US",
+    "sg:address":"501 S 14th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 471 2065",
+    "sg:postcode":"68508",
+    "sg:province":"NE",
+    "sg:tags":[
+        "state"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878699,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0BwG2BM1FTkxfPv5aQOJct_40.808080_-96.701191@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295277,
+    "wof:geomhash":"1260df12b73051b9c403f465495f88d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878699,
+            "region_id":85688563,
+            "venue_id":873622579
+        }
+    ],
+    "wof:id":873622579,
+    "wof:lastmodified":1464295277,
+    "wof:name":"Information Management Svc",
+    "wof:parent_id":85878699,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state"
+    ]
+},
+  "bbox": [
+    -96.701191,
+    40.80808,
+    -96.701191,
+    40.80808
+],
+  "geometry": {"coordinates":[-96.70119099999999,40.80808],"type":"Point"}
+}

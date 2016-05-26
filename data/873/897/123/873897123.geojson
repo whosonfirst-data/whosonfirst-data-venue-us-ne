@@ -1,0 +1,71 @@
+{
+  "id": 873897123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.000952,41.146534,-96.000952,41.146534",
+    "geom:latitude":41.146534,
+    "geom:longitude":-96.000952,
+    "iso:country":"US",
+    "sg:address":"5614 Highland Dr",
+    "sg:city":"Papillion",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 339 7495",
+    "sg:postcode":"68133",
+    "sg:province":"NE",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85821583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3mgQoLpQwV85Qq19F6dwEj_41.146534_-96.000952@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299767,
+    "wof:geomhash":"3d6be4cabe0300c20b5aa1d9fb54be90",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85821583,
+            "region_id":85688563,
+            "venue_id":873897123
+        }
+    ],
+    "wof:id":873897123,
+    "wof:lastmodified":1464299767,
+    "wof:name":"Barrett Masonry Contracting",
+    "wof:parent_id":85821583,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.000952,
+    41.146534,
+    -96.000952,
+    41.146534
+],
+  "geometry": {"coordinates":[-96.000952,41.146534],"type":"Point"}
+}

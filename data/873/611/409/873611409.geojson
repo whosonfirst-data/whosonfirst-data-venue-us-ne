@@ -1,0 +1,71 @@
+{
+  "id": 873611409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.89562,41.137475,-95.89562,41.137475",
+    "geom:latitude":41.137475,
+    "geom:longitude":-95.89562,
+    "iso:country":"US",
+    "sg:address":"211 W 22nd Ave",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 293 3154",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974747,
+        102082777,
+        85820061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Vdu9uxxukI3NFPODWUTx5_41.137475_-95.895620@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295158,
+    "wof:geomhash":"70d52f7298649c7b8e0d2068b45cfd62",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974747,
+            "neighbourhood_id":85820061,
+            "region_id":85688563,
+            "venue_id":873611409
+        }
+    ],
+    "wof:id":873611409,
+    "wof:lastmodified":1464295158,
+    "wof:name":"Bellevue Fire Marshal",
+    "wof:parent_id":85820061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -95.89562,
+    41.137475,
+    -95.89562,
+    41.137475
+],
+  "geometry": {"coordinates":[-95.89561999999999,41.137475],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873568945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.146581,41.160706,-96.146581,41.160706",
+    "geom:latitude":41.160706,
+    "geom:longitude":-96.146581,
+    "iso:country":"US",
+    "sg:address":"10006 S 148th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 861 9566",
+    "sg:postcode":"68138",
+    "sg:province":"NE",
+    "sg:tags":[
+        "dry",
+        "bulk",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85834285,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5U2IcgUVvhD9xr2SXeP2lw_41.160706_-96.146581@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294595,
+    "wof:geomhash":"6a8e087354f785dd78fae6550fb396df",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85834285,
+            "region_id":85688563,
+            "venue_id":873568945
+        }
+    ],
+    "wof:id":873568945,
+    "wof:lastmodified":1464294595,
+    "wof:name":"Dokter Trucking Corp",
+    "wof:parent_id":85834285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dry",
+        "bulk",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -96.146581,
+    41.160706,
+    -96.146581,
+    41.160706
+],
+  "geometry": {"coordinates":[-96.146581,41.160706],"type":"Point"}
+}

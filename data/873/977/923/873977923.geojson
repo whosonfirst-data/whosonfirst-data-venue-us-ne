@@ -1,0 +1,85 @@
+{
+  "id": 873977923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.051763,41.298743,-96.051763,41.298743",
+    "geom:latitude":41.298743,
+    "geom:longitude":-96.051763,
+    "iso:country":"US",
+    "sg:address":"8990 Boyd St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ne/omaha/100131-golden-corral/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 573 9643",
+    "sg:postcode":"68134",
+    "sg:province":"NE",
+    "sg:tags":[
+        "american",
+        "bakery",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872515,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6StxqyJT0BJOEiG2nmafEn_41.298243_-96.051354@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464302294,
+    "wof:geomhash":"99528ca410ab5c3e7c922bd8bd737e73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872515,
+            "region_id":85688563,
+            "venue_id":873977923
+        }
+    ],
+    "wof:id":873977923,
+    "wof:lastmodified":1464302294,
+    "wof:name":"Golden Corral",
+    "wof:parent_id":85872515,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "bakery",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -96.051763,
+    41.298743,
+    -96.051763,
+    41.298743
+],
+  "geometry": {"coordinates":[-96.05176299999999,41.298743],"type":"Point"}
+}

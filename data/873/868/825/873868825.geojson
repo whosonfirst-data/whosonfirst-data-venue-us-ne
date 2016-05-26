@@ -1,0 +1,79 @@
+{
+  "id": 873868825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.23313,41.275265,-96.23313,41.275265",
+    "geom:latitude":41.275265,
+    "geom:longitude":-96.23313,
+    "iso:country":"US",
+    "sg:address":"1725 Binfield St",
+    "sg:city":"Elkhorn",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 289 4500",
+    "sg:postcode":"68022",
+    "sg:province":"NE",
+    "sg:tags":[
+        "lawn",
+        "installation",
+        "sprinkler"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85868921,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0q02gmho3EH4ceAgj8iwJt_41.275265_-96.233130@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299205,
+    "wof:geomhash":"827383dfdd583eccf70e0ef7e93b0f16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85868921,
+            "region_id":85688563,
+            "venue_id":873868825
+        }
+    ],
+    "wof:id":873868825,
+    "wof:lastmodified":1464299205,
+    "wof:name":"Uleman Irrigation",
+    "wof:parent_id":85868921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lawn",
+        "installation",
+        "sprinkler"
+    ]
+},
+  "bbox": [
+    -96.23313,
+    41.275265,
+    -96.23313,
+    41.275265
+],
+  "geometry": {"coordinates":[-96.23313,41.275265],"type":"Point"}
+}

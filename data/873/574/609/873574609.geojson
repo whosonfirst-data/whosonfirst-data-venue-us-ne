@@ -1,0 +1,73 @@
+{
+  "id": 873574609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.895073,41.143776,-95.895073,41.143776",
+    "geom:latitude":41.143776,
+    "geom:longitude":-95.895073,
+    "iso:country":"US",
+    "sg:address":"1504 Jefferson St",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 291 6126",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "hanging",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974747,
+        102082777,
+        85820061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6NoZXXvUx6gQS2YbeeFTkb_41.143776_-95.895073@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294659,
+    "wof:geomhash":"9a3e2d844b550374e178b07cbd42140f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974747,
+            "neighbourhood_id":85820061,
+            "region_id":85688563,
+            "venue_id":873574609
+        }
+    ],
+    "wof:id":873574609,
+    "wof:lastmodified":1464294659,
+    "wof:name":"EBY Painting & Decorating",
+    "wof:parent_id":85820061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -95.895073,
+    41.143776,
+    -95.895073,
+    41.143776
+],
+  "geometry": {"coordinates":[-95.895073,41.143776],"type":"Point"}
+}

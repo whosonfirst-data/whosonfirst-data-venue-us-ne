@@ -1,0 +1,77 @@
+{
+  "id": 873956803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.964213,41.236336,-95.964213,41.236336",
+    "geom:latitude":41.236336,
+    "geom:longitude":-95.964213,
+    "iso:country":"US",
+    "sg:address":"2353 S 35th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 345 7053",
+    "sg:postcode":"68105",
+    "sg:province":"NE",
+    "sg:tags":[
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872527,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_66LHQXaGCqJZIOSbmAveGm_41.236336_-95.964213@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464301399,
+    "wof:geomhash":"1815cc0ee3871e58778e5d05b2c81f11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872527,
+            "region_id":85688563,
+            "venue_id":873956803
+        }
+    ],
+    "wof:id":873956803,
+    "wof:lastmodified":1464301399,
+    "wof:name":"J Renner Inc",
+    "wof:parent_id":85872527,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -95.964213,
+    41.236336,
+    -95.964213,
+    41.236336
+],
+  "geometry": {"coordinates":[-95.964213,41.236336],"type":"Point"}
+}

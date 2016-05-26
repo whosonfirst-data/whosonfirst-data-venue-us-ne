@@ -1,0 +1,69 @@
+{
+  "id": 873750111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.243271,41.144484,-96.243271,41.144484",
+    "geom:latitude":41.144484,
+    "geom:longitude":-96.243271,
+    "iso:country":"US",
+    "sg:address":"612 Pawnee Dr",
+    "sg:city":"Gretna",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 332 3360",
+    "sg:postcode":"68028",
+    "sg:province":"NE",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85834285,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5rEQRsql06tYsfMgCQU89Y_41.144484_-96.243271@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297076,
+    "wof:geomhash":"7808a56ad13462fb876ec2b94e6907f4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85834285,
+            "region_id":85688563,
+            "venue_id":873750111
+        }
+    ],
+    "wof:id":873750111,
+    "wof:lastmodified":1464297076,
+    "wof:name":"Casino Plumbing",
+    "wof:parent_id":85834285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.243271,
+    41.144484,
+    -96.243271,
+    41.144484
+],
+  "geometry": {"coordinates":[-96.24327099999999,41.144484],"type":"Point"}
+}

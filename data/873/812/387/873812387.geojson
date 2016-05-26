@@ -1,0 +1,71 @@
+{
+  "id": 873812387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.133357,41.190305,-96.133357,41.190305",
+    "geom:latitude":41.190305,
+    "geom:longitude":-96.133357,
+    "iso:country":"US",
+    "sg:address":"14052 Emiline St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 861 9180",
+    "sg:postcode":"68138",
+    "sg:province":"NE",
+    "sg:tags":[
+        "website",
+        "design"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85834285,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1nXerjhJAvgEk23c20VQDj_41.190305_-96.133357@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297968,
+    "wof:geomhash":"e48313ade98f5faab0942094b888144b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85834285,
+            "region_id":85688563,
+            "venue_id":873812387
+        }
+    ],
+    "wof:id":873812387,
+    "wof:lastmodified":1464297968,
+    "wof:name":"ISI Technologies",
+    "wof:parent_id":85834285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "website",
+        "design"
+    ]
+},
+  "bbox": [
+    -96.133357,
+    41.190305,
+    -96.133357,
+    41.190305
+],
+  "geometry": {"coordinates":[-96.133357,41.190305],"type":"Point"}
+}

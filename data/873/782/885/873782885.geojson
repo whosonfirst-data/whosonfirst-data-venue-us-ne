@@ -1,0 +1,71 @@
+{
+  "id": 873782885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.083968,41.350229,-96.083968,41.350229",
+    "geom:latitude":41.350229,
+    "geom:longitude":-96.083968,
+    "iso:country":"US",
+    "sg:address":"11220 Rainwood Rd",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 571 2820",
+    "sg:postcode":"68142",
+    "sg:province":"NE",
+    "sg:tags":[
+        "crop",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85872505,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2kyENmo8nVoO9gNfnfABxY_41.350229_-96.083968@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297529,
+    "wof:geomhash":"ff2c6f5bd24014d8e463771a10be25c6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":873782885
+        }
+    ],
+    "wof:id":873782885,
+    "wof:lastmodified":1464297529,
+    "wof:name":"Frost Curt Farm",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crop",
+        "general"
+    ]
+},
+  "bbox": [
+    -96.083968,
+    41.350229,
+    -96.083968,
+    41.350229
+],
+  "geometry": {"coordinates":[-96.083968,41.350229],"type":"Point"}
+}

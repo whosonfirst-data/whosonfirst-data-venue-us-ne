@@ -1,0 +1,73 @@
+{
+  "id": 873620087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.942459,41.06332,-95.942459,41.06332",
+    "geom:latitude":41.06332,
+    "geom:longitude":-95.942459,
+    "iso:country":"US",
+    "sg:address":"17325 Ivy Cir",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 292 4037",
+    "sg:postcode":"68123",
+    "sg:province":"NE",
+    "sg:tags":[
+        "excavation",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974747,
+        102082777,
+        85820061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ApKYBRQwqUgIKkFZyf55D_41.063320_-95.942459@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295251,
+    "wof:geomhash":"c2ebad0ff596a2d28a478ff522781485",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974747,
+            "neighbourhood_id":85820061,
+            "region_id":85688563,
+            "venue_id":873620087
+        }
+    ],
+    "wof:id":873620087,
+    "wof:lastmodified":1464295251,
+    "wof:name":"Turn Key Construction",
+    "wof:parent_id":85820061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -95.942459,
+    41.06332,
+    -95.942459,
+    41.06332
+],
+  "geometry": {"coordinates":[-95.942459,41.06332],"type":"Point"}
+}

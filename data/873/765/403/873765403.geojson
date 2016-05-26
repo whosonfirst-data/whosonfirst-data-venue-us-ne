@@ -1,0 +1,71 @@
+{
+  "id": 873765403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.620195,40.861702,-96.620195,40.861702",
+    "geom:latitude":40.861702,
+    "geom:longitude":-96.620195,
+    "iso:country":"US",
+    "sg:address":"7331 Thurston St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 466 3890",
+    "sg:postcode":"68507",
+    "sg:province":"NE",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85824241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_75vPOO9tBGApIAbEv13kf5_40.861702_-96.620195@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297303,
+    "wof:geomhash":"3818ba7bddb203b10a2d6a6fedd8d520",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85824241,
+            "region_id":85688563,
+            "venue_id":873765403
+        }
+    ],
+    "wof:id":873765403,
+    "wof:lastmodified":1464297303,
+    "wof:name":"Simply Tb Day Care",
+    "wof:parent_id":85824241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -96.620195,
+    40.861702,
+    -96.620195,
+    40.861702
+],
+  "geometry": {"coordinates":[-96.620195,40.861702],"type":"Point"}
+}

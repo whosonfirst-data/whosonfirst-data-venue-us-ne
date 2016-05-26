@@ -1,0 +1,66 @@
+{
+  "id": 873938615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.918466,41.153579,-95.918466,41.153579",
+    "geom:latitude":41.153579,
+    "geom:longitude":-95.918466,
+    "iso:country":"US",
+    "sg:address":"601 Galvin Rd S",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Shoes",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 682 9553",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85821583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0VI1H4Xsnh8w8baWid2h1M_41.153579_-95.918466@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300632,
+    "wof:geomhash":"771cec9a002ed5b8f8bb197e7e618635",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85821583,
+            "region_id":85688563,
+            "venue_id":873938615
+        }
+    ],
+    "wof:id":873938615,
+    "wof:lastmodified":1464300632,
+    "wof:name":"Payless Shoe Source",
+    "wof:parent_id":85821583,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -95.918466,
+    41.153579,
+    -95.918466,
+    41.153579
+],
+  "geometry": {"coordinates":[-95.918466,41.153579],"type":"Point"}
+}

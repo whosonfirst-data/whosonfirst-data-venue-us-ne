@@ -1,0 +1,85 @@
+{
+  "id": 873793763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.145525,41.229026,-96.145525,41.229026",
+    "geom:latitude":41.229026,
+    "geom:longitude":-96.145525,
+    "iso:country":"US",
+    "sg:address":"14621 Industrial Rd",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Carpets & Floor Coverings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 334 3169",
+    "sg:postcode":"68144",
+    "sg:province":"NE",
+    "sg:tags":[
+        "material",
+        "laying",
+        "contractor"
+    ],
+    "sg:website":"www.heartlandwoodfloors.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872531,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4vqfrY1ulMPmPoYEaQrlVy_41.229026_-96.145525@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297700,
+    "wof:geomhash":"a38a717a5d8c375bed55dd08e9a16c96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872531,
+            "region_id":85688563,
+            "venue_id":873793763
+        }
+    ],
+    "wof:id":873793763,
+    "wof:lastmodified":1464297700,
+    "wof:name":"Heartland Wood Floors Company",
+    "wof:parent_id":85872531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "material",
+        "laying",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.145525,
+    41.229026,
+    -96.145525,
+    41.229026
+],
+  "geometry": {"coordinates":[-96.14552500000001,41.229026],"type":"Point"}
+}

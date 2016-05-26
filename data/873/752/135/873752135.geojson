@@ -1,0 +1,77 @@
+{
+  "id": 873752135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.704022,40.815849,-96.704022,40.815849",
+    "geom:latitude":40.815849,
+    "geom:longitude":-96.704022,
+    "iso:country":"US",
+    "sg:address":"201 N 12th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Theater",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 477 1234",
+    "sg:postcode":"68508",
+    "sg:province":"NE",
+    "sg:tags":[
+        "motion",
+        "picture"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878699,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6OEZXjD30DXhcETGWwraHL_40.815849_-96.704022@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297102,
+    "wof:geomhash":"f8d7a10b411a4dec84e4b8d85423a383",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878699,
+            "region_id":85688563,
+            "venue_id":873752135
+        }
+    ],
+    "wof:id":873752135,
+    "wof:lastmodified":1464297102,
+    "wof:name":"Douglas Theatre Co",
+    "wof:parent_id":85878699,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "motion",
+        "picture"
+    ]
+},
+  "bbox": [
+    -96.704022,
+    40.815849,
+    -96.704022,
+    40.815849
+],
+  "geometry": {"coordinates":[-96.70402199999999,40.815849],"type":"Point"}
+}

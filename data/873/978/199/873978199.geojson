@@ -1,0 +1,76 @@
+{
+  "id": 873978199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.682455,40.743368,-96.682455,40.743368",
+    "geom:latitude":40.743368,
+    "geom:longitude":-96.682455,
+    "iso:country":"US",
+    "sg:address":"6700 S 27th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ne/lincoln/204901-taco-bell/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 328 9949",
+    "sg:postcode":"68512",
+    "sg:province":"NE",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878739,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3PsB9BU2GxhImEpzlIB150_40.743865_-96.682450@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464302303,
+    "wof:geomhash":"6cef5dc70db367ca35874075b8a8cad5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878739,
+            "region_id":85688563,
+            "venue_id":873978199
+        }
+    ],
+    "wof:id":873978199,
+    "wof:lastmodified":1464302303,
+    "wof:name":"Taco Bell",
+    "wof:parent_id":85878739,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -96.682455,
+    40.743368,
+    -96.682455,
+    40.743368
+],
+  "geometry": {"coordinates":[-96.682455,40.743368],"type":"Point"}
+}

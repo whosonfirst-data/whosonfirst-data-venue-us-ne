@@ -1,0 +1,76 @@
+{
+  "id": 873976865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.707016,40.811061,-96.707016,40.811061",
+    "geom:latitude":40.811061,
+    "geom:longitude":-96.707016,
+    "iso:country":"US",
+    "sg:address":"330 S 10th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Cafe",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ne/lincoln/243918-green-gateau-cafe/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 477 0330",
+    "sg:postcode":"68508",
+    "sg:province":"NE",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878699,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_63J8nhs3d1HgpMghyGaawa_40.811061_-96.707016@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464302256,
+    "wof:geomhash":"6b50cd28fe601325ecc047f7075f8b7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878699,
+            "region_id":85688563,
+            "venue_id":873976865
+        }
+    ],
+    "wof:id":873976865,
+    "wof:lastmodified":1464302256,
+    "wof:name":"Green Gateau Cafe",
+    "wof:parent_id":85878699,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -96.707016,
+    40.811061,
+    -96.707016,
+    40.811061
+],
+  "geometry": {"coordinates":[-96.707016,40.811061],"type":"Point"}
+}

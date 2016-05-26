@@ -1,0 +1,75 @@
+{
+  "id": 873905829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.707575,40.802464,-96.707575,40.802464",
+    "geom:latitude":40.802464,
+    "geom:longitude":-96.707575,
+    "iso:country":"US",
+    "sg:address":"945 D St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 474 1837",
+    "sg:postcode":"68502",
+    "sg:province":"NE",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878705,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6fIek2WKQqs2VRNnTDCSDl_40.802464_-96.707575@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299937,
+    "wof:geomhash":"89ebc5ed8289d86dbecbfac101b67864",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878705,
+            "region_id":85688563,
+            "venue_id":873905829
+        }
+    ],
+    "wof:id":873905829,
+    "wof:lastmodified":1464299937,
+    "wof:name":"Sundance Apartments",
+    "wof:parent_id":85878705,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -96.707575,
+    40.802464,
+    -96.707575,
+    40.802464
+],
+  "geometry": {"coordinates":[-96.70757500000001,40.802464],"type":"Point"}
+}

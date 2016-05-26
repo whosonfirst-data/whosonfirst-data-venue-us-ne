@@ -1,0 +1,75 @@
+{
+  "id": 873614473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.652277,40.829033,-96.652277,40.829033",
+    "geom:latitude":40.829033,
+    "geom:longitude":-96.652277,
+    "iso:country":"US",
+    "sg:address":"1550 N 49th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 466 9353",
+    "sg:postcode":"68504",
+    "sg:province":"NE",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878701,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7VoAuDG07DtQAl5t8WfplM_40.829033_-96.652277@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295190,
+    "wof:geomhash":"c6b4ed0bb21a3ebf359a72bfe87d078f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878701,
+            "region_id":85688563,
+            "venue_id":873614473
+        }
+    ],
+    "wof:id":873614473,
+    "wof:lastmodified":1464295190,
+    "wof:name":"Brinkman's Paint Co",
+    "wof:parent_id":85878701,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -96.652277,
+    40.829033,
+    -96.652277,
+    40.829033
+],
+  "geometry": {"coordinates":[-96.652277,40.829033],"type":"Point"}
+}

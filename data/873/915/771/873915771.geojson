@@ -1,0 +1,73 @@
+{
+  "id": 873915771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.919896,41.140059,-95.919896,41.140059",
+    "geom:latitude":41.140059,
+    "geom:longitude":-95.919896,
+    "iso:country":"US",
+    "sg:address":"2013 Harlan Dr",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 293 9390",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974747,
+        102082777,
+        85820061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_26mVJUNbTdgiVHjoWLkdKz_41.140059_-95.919896@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300136,
+    "wof:geomhash":"4a1bf9149d3284af60704dd0797f5bfd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974747,
+            "neighbourhood_id":85820061,
+            "region_id":85688563,
+            "venue_id":873915771
+        }
+    ],
+    "wof:id":873915771,
+    "wof:lastmodified":1464300136,
+    "wof:name":"Haley's Court Apartments",
+    "wof:parent_id":85820061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -95.919896,
+    41.140059,
+    -95.919896,
+    41.140059
+],
+  "geometry": {"coordinates":[-95.91989599999999,41.140059],"type":"Point"}
+}

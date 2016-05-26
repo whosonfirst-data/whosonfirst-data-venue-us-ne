@@ -1,0 +1,71 @@
+{
+  "id": 873821023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.020997,41.32019,-96.020997,41.32019",
+    "geom:latitude":41.32019,
+    "geom:longitude":-96.020997,
+    "iso:country":"US",
+    "sg:address":"7101 Newport Ave",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 572 3030",
+    "sg:postcode":"68152",
+    "sg:province":"NE",
+    "sg:tags":[
+        "agency",
+        "health"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85872505,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_42DvhE39YeRo2WOdlyUK9V_41.320190_-96.020997@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298138,
+    "wof:geomhash":"17b331593b4616e1eb8e4cfb954e8a03",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":873821023
+        }
+    ],
+    "wof:id":873821023,
+    "wof:lastmodified":1464298138,
+    "wof:name":"American Lung Association Neb",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency",
+        "health"
+    ]
+},
+  "bbox": [
+    -96.020997,
+    41.32019,
+    -96.020997,
+    41.32019
+],
+  "geometry": {"coordinates":[-96.02099699999999,41.32019],"type":"Point"}
+}

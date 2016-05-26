@@ -1,0 +1,78 @@
+{
+  "id": 873789735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.699801,40.815914,-96.699801,40.815914",
+    "geom:latitude":40.815914,
+    "geom:longitude":-96.699801,
+    "iso:country":"US",
+    "sg:address":"1410 Q St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"College",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 472 7211",
+    "sg:postcode":"68508",
+    "sg:province":"NE",
+    "sg:tags":[
+        "academic",
+        "school"
+    ],
+    "sg:website":"www.unl.edu",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878699,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6r3xK9pqnwm0QnWnzlCbfL_40.815914_-96.699801@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297637,
+    "wof:geomhash":"c9c7087c62a25408a76072b03e39b38c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878699,
+            "region_id":85688563,
+            "venue_id":873789735
+        }
+    ],
+    "wof:id":873789735,
+    "wof:lastmodified":1464297637,
+    "wof:name":"University Of Nebraska-Lincoln",
+    "wof:parent_id":85878699,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "academic",
+        "school"
+    ]
+},
+  "bbox": [
+    -96.699801,
+    40.815914,
+    -96.699801,
+    40.815914
+],
+  "geometry": {"coordinates":[-96.69980099999999,40.815914],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873858473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.596199,40.77716,-96.596199,40.77716",
+    "geom:latitude":40.77716,
+    "geom:longitude":-96.596199,
+    "iso:country":"US",
+    "sg:address":"3500 S 91st St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 484 6900",
+    "sg:postcode":"68520",
+    "sg:province":"NE",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3eUygrksUPoOljI7uHGJjL_40.777160_-96.596199@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298982,
+    "wof:geomhash":"6a83cc60829222b462625caab892c779",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878697,
+            "region_id":85688563,
+            "venue_id":873858473
+        }
+    ],
+    "wof:id":873858473,
+    "wof:lastmodified":1464298982,
+    "wof:name":"Reginald Burton MD & Snyder",
+    "wof:parent_id":85878697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -96.596199,
+    40.77716,
+    -96.596199,
+    40.77716
+],
+  "geometry": {"coordinates":[-96.596199,40.77716],"type":"Point"}
+}

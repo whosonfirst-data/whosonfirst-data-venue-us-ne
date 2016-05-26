@@ -1,0 +1,73 @@
+{
+  "id": 873954613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.636073,40.856973,-96.636073,40.856973",
+    "geom:latitude":40.856973,
+    "geom:longitude":-96.636073,
+    "iso:country":"US",
+    "sg:address":"6127 Havelock Ave",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 466 7676",
+    "sg:postcode":"68507",
+    "sg:province":"NE",
+    "sg:tags":[
+        "stock",
+        "bond"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85824241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2IQwm0gi0poeh7SLdZD5TW_40.856973_-96.636073@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464301327,
+    "wof:geomhash":"70562d61971584cc422a319db387fff1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85824241,
+            "region_id":85688563,
+            "venue_id":873954613
+        }
+    ],
+    "wof:id":873954613,
+    "wof:lastmodified":1464301327,
+    "wof:name":"Edward Jones Co",
+    "wof:parent_id":85824241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "stock",
+        "bond"
+    ]
+},
+  "bbox": [
+    -96.636073,
+    40.856973,
+    -96.636073,
+    40.856973
+],
+  "geometry": {"coordinates":[-96.636073,40.856973],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 873659509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.122341,41.222281,-96.122341,41.222281",
+    "geom:latitude":41.222281,
+    "geom:longitude":-96.122341,
+    "iso:country":"US",
+    "sg:address":"13715 C St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 330 7777",
+    "sg:postcode":"68144",
+    "sg:province":"NE",
+    "sg:tags":[
+        "air",
+        "conditioning",
+        "contractor",
+        "system",
+        "heating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872531,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7EAoBGU5CEjDGze7ETsqLs_41.222281_-96.122341@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295693,
+    "wof:geomhash":"4fc9fec75c3e53e058751cb93339bd7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872531,
+            "region_id":85688563,
+            "venue_id":873659509
+        }
+    ],
+    "wof:id":873659509,
+    "wof:lastmodified":1464295693,
+    "wof:name":"Piccolo's Heating & Cooling",
+    "wof:parent_id":85872531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "air",
+        "conditioning",
+        "contractor",
+        "system",
+        "heating"
+    ]
+},
+  "bbox": [
+    -96.122341,
+    41.222281,
+    -96.122341,
+    41.222281
+],
+  "geometry": {"coordinates":[-96.12234100000001,41.222281],"type":"Point"}
+}

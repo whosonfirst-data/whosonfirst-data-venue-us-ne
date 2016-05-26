@@ -1,0 +1,76 @@
+{
+  "id": 873976549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.137529,41.28301,-96.137529,41.28301",
+    "geom:latitude":41.28301,
+    "geom:longitude":-96.137529,
+    "iso:country":"US",
+    "sg:address":"2523 N 143rd Ave",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ne/omaha/10974-prima-140/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 697 7840",
+    "sg:postcode":"68164",
+    "sg:province":"NE",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872503,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7UjJGeHZPkrwL7Q4CsS6Tg_41.283010_-96.137529@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464302241,
+    "wof:geomhash":"8a38ba0fcc72c153c49f4cfc6da870bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872503,
+            "region_id":85688563,
+            "venue_id":873976549
+        }
+    ],
+    "wof:id":873976549,
+    "wof:lastmodified":1464302241,
+    "wof:name":"Prima 140",
+    "wof:parent_id":85872503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -96.137529,
+    41.28301,
+    -96.137529,
+    41.28301
+],
+  "geometry": {"coordinates":[-96.137529,41.28301],"type":"Point"}
+}

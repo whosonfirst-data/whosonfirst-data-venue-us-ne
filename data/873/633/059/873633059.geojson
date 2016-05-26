@@ -1,0 +1,70 @@
+{
+  "id": 873633059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.123815,41.208805,-96.123815,41.208805",
+    "geom:latitude":41.208805,
+    "geom:longitude":-96.123815,
+    "iso:country":"US",
+    "sg:address":"4910 S 135th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 895 5300",
+    "sg:postcode":"68137",
+    "sg:province":"NE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872531,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4itHcGjMyBeIFlCeByppU2_41.208805_-96.123815@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295400,
+    "wof:geomhash":"e91a7e163d5f609adc5d768dd7733d2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872531,
+            "region_id":85688563,
+            "venue_id":873633059
+        }
+    ],
+    "wof:id":873633059,
+    "wof:lastmodified":1464295400,
+    "wof:name":"Olympia Cycle",
+    "wof:parent_id":85872531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.123815,
+    41.208805,
+    -96.123815,
+    41.208805
+],
+  "geometry": {"coordinates":[-96.12381499999999,41.208805],"type":"Point"}
+}

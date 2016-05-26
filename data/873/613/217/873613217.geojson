@@ -1,0 +1,71 @@
+{
+  "id": 873613217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.043047,41.153898,-96.043047,41.153898",
+    "geom:latitude":41.153898,
+    "geom:longitude":-96.043047,
+    "iso:country":"US",
+    "sg:address":"344 S Washington St",
+    "sg:city":"Papillion",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 596 1111",
+    "sg:postcode":"68046",
+    "sg:province":"NE",
+    "sg:tags":[
+        "shop",
+        "coffee"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85843697,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_41zmntPgsgSMQDszgYHI7d_41.153898_-96.043047@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295178,
+    "wof:geomhash":"3b9df55e7ba115abe91dd9c2a1739f68",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85843697,
+            "region_id":85688563,
+            "venue_id":873613217
+        }
+    ],
+    "wof:id":873613217,
+    "wof:lastmodified":1464295178,
+    "wof:name":"Barista's Daily Grind",
+    "wof:parent_id":85843697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "coffee"
+    ]
+},
+  "bbox": [
+    -96.043047,
+    41.153898,
+    -96.043047,
+    41.153898
+],
+  "geometry": {"coordinates":[-96.043047,41.153898],"type":"Point"}
+}

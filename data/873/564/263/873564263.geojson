@@ -1,0 +1,80 @@
+{
+  "id": 873564263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.637642,40.851687,-96.637642,40.851687",
+    "geom:latitude":40.851687,
+    "geom:longitude":-96.637642,
+    "iso:country":"US",
+    "sg:address":"6045 Seward Ave",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Motor Vehicles & Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 464 3119",
+    "sg:postcode":"68507",
+    "sg:province":"NE",
+    "sg:tags":[
+        "body",
+        "conversion",
+        "van"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85824241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_26T2RCDrrSAshbEGBGQOVK_40.851687_-96.637642@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294547,
+    "wof:geomhash":"1bf8cb040f08554e51028e84b6dd6a14",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85824241,
+            "region_id":85688563,
+            "venue_id":873564263
+        }
+    ],
+    "wof:id":873564263,
+    "wof:lastmodified":1464294547,
+    "wof:name":"Bouwens Buggies Inc",
+    "wof:parent_id":85824241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "conversion",
+        "van"
+    ]
+},
+  "bbox": [
+    -96.637642,
+    40.851687,
+    -96.637642,
+    40.851687
+],
+  "geometry": {"coordinates":[-96.637642,40.851687],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 873541311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.005889,41.312275,-96.005889,41.312275",
+    "geom:latitude":41.312275,
+    "geom:longitude":-96.005889,
+    "iso:country":"US",
+    "sg:address":"6250 Ville de Sante Dr",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 341 1019",
+    "sg:postcode":"68104",
+    "sg:province":"NE",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85805755,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0IImYQcrthEwQyRBEfyXgD_41.312275_-96.005889@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294273,
+    "wof:geomhash":"5290f1c72e2f429e3f8836e0c0a9d5b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85805755,
+            "region_id":85688563,
+            "venue_id":873541311
+        }
+    ],
+    "wof:id":873541311,
+    "wof:lastmodified":1464294273,
+    "wof:name":"El Diglo De Oro Apartments",
+    "wof:parent_id":85805755,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -96.005889,
+    41.312275,
+    -96.005889,
+    41.312275
+],
+  "geometry": {"coordinates":[-96.005889,41.312275],"type":"Point"}
+}

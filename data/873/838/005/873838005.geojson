@@ -1,0 +1,73 @@
+{
+  "id": 873838005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.176521,41.189939,-96.176521,41.189939",
+    "geom:latitude":41.189939,
+    "geom:longitude":-96.176521,
+    "iso:country":"US",
+    "sg:address":"16715 Audrey St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 895 4402",
+    "sg:postcode":"68136",
+    "sg:province":"NE",
+    "sg:tags":[
+        "lecture",
+        "bureau",
+        "seminar"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85834285,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5WD7rP5LbiEW3xs07aVYPw_41.189939_-96.176521@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298505,
+    "wof:geomhash":"c05a17a95b028545655c4557e958ab98",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85834285,
+            "region_id":85688563,
+            "venue_id":873838005
+        }
+    ],
+    "wof:id":873838005,
+    "wof:lastmodified":1464298505,
+    "wof:name":"National Electrical Seminars",
+    "wof:parent_id":85834285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lecture",
+        "bureau",
+        "seminar"
+    ]
+},
+  "bbox": [
+    -96.176521,
+    41.189939,
+    -96.176521,
+    41.189939
+],
+  "geometry": {"coordinates":[-96.17652099999999,41.189939],"type":"Point"}
+}

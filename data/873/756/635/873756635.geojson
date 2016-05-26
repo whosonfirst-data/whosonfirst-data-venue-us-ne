@@ -1,0 +1,75 @@
+{
+  "id": 873756635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.8929,41.123088,-95.8929,41.123088",
+    "geom:latitude":41.123088,
+    "geom:longitude":-95.8929,
+    "iso:country":"US",
+    "sg:address":"203 E 35th Ave",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 292 4102",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974747,
+        102082777,
+        85820061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1LnYN4VHq6jM3pnzAbiJ4p_41.123088_-95.892900@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297164,
+    "wof:geomhash":"51a8f674fa6dd0e298ce4c4bc7668215",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974747,
+            "neighbourhood_id":85820061,
+            "region_id":85688563,
+            "venue_id":873756635
+        }
+    ],
+    "wof:id":873756635,
+    "wof:lastmodified":1464297164,
+    "wof:name":"Heartland Automotive Repair",
+    "wof:parent_id":85820061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -95.8929,
+    41.123088,
+    -95.8929,
+    41.123088
+],
+  "geometry": {"coordinates":[-95.8929,41.123088],"type":"Point"}
+}

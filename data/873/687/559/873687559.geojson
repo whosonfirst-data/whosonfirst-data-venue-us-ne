@@ -1,0 +1,71 @@
+{
+  "id": 873687559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.906759,41.136606,-95.906759,41.136606",
+    "geom:latitude":41.136606,
+    "geom:longitude":-95.906759,
+    "iso:country":"US",
+    "sg:address":"1002 W Mission Ave",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 292 2822",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "stable"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974747,
+        102082777,
+        85820061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4pLds1GwqFVPPCmngGbaR7_41.136606_-95.906759@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296207,
+    "wof:geomhash":"9977739e817a44507a630aa6d506eed5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974747,
+            "neighbourhood_id":85820061,
+            "region_id":85688563,
+            "venue_id":873687559
+        }
+    ],
+    "wof:id":873687559,
+    "wof:lastmodified":1464296207,
+    "wof:name":"Phoenix Stables",
+    "wof:parent_id":85820061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "stable"
+    ]
+},
+  "bbox": [
+    -95.906759,
+    41.136606,
+    -95.906759,
+    41.136606
+],
+  "geometry": {"coordinates":[-95.90675899999999,41.136606],"type":"Point"}
+}

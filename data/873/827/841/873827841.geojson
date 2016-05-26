@@ -1,0 +1,69 @@
+{
+  "id": 873827841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.04179,41.142891,-96.04179,41.142891",
+    "geom:latitude":41.142891,
+    "geom:longitude":-96.04179,
+    "iso:country":"US",
+    "sg:address":"1205 Golden Gate Dr",
+    "sg:city":"Papillion",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 934 1654",
+    "sg:postcode":"68046",
+    "sg:province":"NE",
+    "sg:tags":[
+        "software"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85843697,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4NVefH7Hl4zMDbfJXHUoRo_41.142891_-96.041790@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298292,
+    "wof:geomhash":"0da412161becc7a47bc4cb2f0ea5c499",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85843697,
+            "region_id":85688563,
+            "venue_id":873827841
+        }
+    ],
+    "wof:id":873827841,
+    "wof:lastmodified":1464298292,
+    "wof:name":"Liquid Code Design",
+    "wof:parent_id":85843697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "software"
+    ]
+},
+  "bbox": [
+    -96.04179,
+    41.142891,
+    -96.04179,
+    41.142891
+],
+  "geometry": {"coordinates":[-96.04179000000001,41.142891],"type":"Point"}
+}

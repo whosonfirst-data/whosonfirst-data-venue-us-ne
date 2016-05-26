@@ -1,0 +1,73 @@
+{
+  "id": 873772721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.626628,40.784363,-96.626628,40.784363",
+    "geom:latitude":40.784363,
+    "geom:longitude":-96.626628,
+    "iso:country":"US",
+    "sg:address":"6900 Van Dorn St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 489 3200",
+    "sg:postcode":"68506",
+    "sg:province":"NE",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3WOxDy73dOmmt0kO6y135m_40.784363_-96.626628@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297398,
+    "wof:geomhash":"713a81233d7f6599971eed592e0d2dff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878697,
+            "region_id":85688563,
+            "venue_id":873772721
+        }
+    ],
+    "wof:id":873772721,
+    "wof:lastmodified":1464297398,
+    "wof:name":"Holmes Lake Family Health Ctr",
+    "wof:parent_id":85878697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -96.626628,
+    40.784363,
+    -96.626628,
+    40.784363
+],
+  "geometry": {"coordinates":[-96.626628,40.784363],"type":"Point"}
+}

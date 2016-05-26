@@ -1,0 +1,78 @@
+{
+  "id": 873928283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.701622,40.816859,-96.701622,40.816859",
+    "geom:latitude":40.816859,
+    "geom:longitude":-96.701622,
+    "iso:country":"US",
+    "sg:address":"1345 R St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 436 7127",
+    "sg:postcode":"68508",
+    "sg:province":"NE",
+    "sg:tags":[
+        "sorority",
+        "fraternity"
+    ],
+    "sg:website":"www.lca.edu",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878699,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0MRMgmbJkko53pkt73nZWd_40.816859_-96.701622@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300369,
+    "wof:geomhash":"12ed55bc7b38a128eb202d548117e16b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878699,
+            "region_id":85688563,
+            "venue_id":873928283
+        }
+    ],
+    "wof:id":873928283,
+    "wof:lastmodified":1464300369,
+    "wof:name":"Lambda Chi Alpha",
+    "wof:parent_id":85878699,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sorority",
+        "fraternity"
+    ]
+},
+  "bbox": [
+    -96.701622,
+    40.816859,
+    -96.701622,
+    40.816859
+],
+  "geometry": {"coordinates":[-96.701622,40.816859],"type":"Point"}
+}

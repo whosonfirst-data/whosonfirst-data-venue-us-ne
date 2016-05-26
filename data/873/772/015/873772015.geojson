@@ -1,0 +1,71 @@
+{
+  "id": 873772015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.181992,41.160567,-96.181992,41.160567",
+    "geom:latitude":41.160567,
+    "geom:longitude":-96.181992,
+    "iso:country":"US",
+    "sg:address":"10062 S 172nd Cir",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 891 1181",
+    "sg:postcode":"68136",
+    "sg:province":"NE",
+    "sg:tags":[
+        "excavation",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85834285,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2JXT5HEDRCjR5GjzcNPqG5_41.160567_-96.181992@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297389,
+    "wof:geomhash":"0908e48d70504e7d803fb9a653b8fa7c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85834285,
+            "region_id":85688563,
+            "venue_id":873772015
+        }
+    ],
+    "wof:id":873772015,
+    "wof:lastmodified":1464297389,
+    "wof:name":"Meisenheimr Fmly Fndtn In",
+    "wof:parent_id":85834285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.181992,
+    41.160567,
+    -96.181992,
+    41.160567
+],
+  "geometry": {"coordinates":[-96.18199199999999,41.160567],"type":"Point"}
+}

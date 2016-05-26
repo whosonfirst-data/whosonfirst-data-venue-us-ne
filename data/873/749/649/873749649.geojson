@@ -1,0 +1,71 @@
+{
+  "id": 873749649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.891758,41.13966,-95.891758,41.13966",
+    "geom:latitude":41.13966,
+    "geom:longitude":-95.891758,
+    "iso:country":"US",
+    "sg:address":"212 E 20th Ave",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 292 0090",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "appliance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974747,
+        102082777,
+        85820061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7hN3R3xonS0ykbDX5KupIa_41.139660_-95.891758@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297070,
+    "wof:geomhash":"12b6c9c19937ededbf6919a6ca5682b3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974747,
+            "neighbourhood_id":85820061,
+            "region_id":85688563,
+            "venue_id":873749649
+        }
+    ],
+    "wof:id":873749649,
+    "wof:lastmodified":1464297070,
+    "wof:name":"John's Major Appliance Svc",
+    "wof:parent_id":85820061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appliance"
+    ]
+},
+  "bbox": [
+    -95.891758,
+    41.13966,
+    -95.891758,
+    41.13966
+],
+  "geometry": {"coordinates":[-95.891758,41.13966],"type":"Point"}
+}

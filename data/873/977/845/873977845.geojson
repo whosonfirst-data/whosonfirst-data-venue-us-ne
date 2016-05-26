@@ -1,0 +1,74 @@
+{
+  "id": 873977845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.935452,41.15932,-95.935452,41.15932",
+    "geom:latitude":41.15932,
+    "geom:longitude":-95.935452,
+    "iso:country":"US",
+    "sg:address":"10408 S 15th St",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ne/bellevue/97545-outback-steakhouse/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 991 9275",
+    "sg:postcode":"68123",
+    "sg:province":"NE",
+    "sg:tags":[
+        "american",
+        "steakhouse"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85821583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1FY3oQJezWo7qAgFjWi2Md_41.158689_-95.935441@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464302291,
+    "wof:geomhash":"872eff285d1d10e8638560a455aee6ea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85821583,
+            "region_id":85688563,
+            "venue_id":873977845
+        }
+    ],
+    "wof:id":873977845,
+    "wof:lastmodified":1464302291,
+    "wof:name":"Outback Steakhouse",
+    "wof:parent_id":85821583,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "steakhouse"
+    ]
+},
+  "bbox": [
+    -95.935452,
+    41.15932,
+    -95.935452,
+    41.15932
+],
+  "geometry": {"coordinates":[-95.935452,41.15932],"type":"Point"}
+}

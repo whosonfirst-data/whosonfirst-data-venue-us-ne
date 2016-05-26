@@ -1,0 +1,71 @@
+{
+  "id": 873656915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.720607,40.731171,-96.720607,40.731171",
+    "geom:latitude":40.731171,
+    "geom:longitude":-96.720607,
+    "iso:country":"US",
+    "sg:address":"8111 S 1st St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 423 7500",
+    "sg:postcode":"68512",
+    "sg:province":"NE",
+    "sg:tags":[
+        "accountant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_63bclFzTlBeBx1G64meWFO_40.731171_-96.720607@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295666,
+    "wof:geomhash":"7e3c3fd09aa13a5513700d77bdf2ae17",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878709,
+            "region_id":85688563,
+            "venue_id":873656915
+        }
+    ],
+    "wof:id":873656915,
+    "wof:lastmodified":1464295666,
+    "wof:name":"Walther Business Svc",
+    "wof:parent_id":85878709,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "accountant"
+    ]
+},
+  "bbox": [
+    -96.720607,
+    40.731171,
+    -96.720607,
+    40.731171
+],
+  "geometry": {"coordinates":[-96.720607,40.731171],"type":"Point"}
+}

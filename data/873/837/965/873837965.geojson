@@ -1,0 +1,77 @@
+{
+  "id": 873837965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.048558,41.232705,-96.048558,41.232705",
+    "geom:latitude":41.232705,
+    "geom:longitude":-96.048558,
+    "iso:country":"US",
+    "sg:address":"2802 S 87th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 391 7595",
+    "sg:postcode":"68124",
+    "sg:province":"NE",
+    "sg:tags":[
+        "center",
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872533,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3F1sEWEqNa6MBtglWX1Hp6_41.232705_-96.048558@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298505,
+    "wof:geomhash":"b4799bf80d341d747ee174e3d2d54c0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872533,
+            "region_id":85688563,
+            "venue_id":873837965
+        }
+    ],
+    "wof:id":873837965,
+    "wof:lastmodified":1464298505,
+    "wof:name":"Children Express Child Care",
+    "wof:parent_id":85872533,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "center",
+        "day"
+    ]
+},
+  "bbox": [
+    -96.048558,
+    41.232705,
+    -96.048558,
+    41.232705
+],
+  "geometry": {"coordinates":[-96.048558,41.232705],"type":"Point"}
+}

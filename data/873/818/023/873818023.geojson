@@ -1,0 +1,75 @@
+{
+  "id": 873818023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.629063,40.859173,-96.629063,40.859173",
+    "geom:latitude":40.859173,
+    "geom:longitude":-96.629063,
+    "iso:country":"US",
+    "sg:address":"6600 Burlington Ave",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 467 5545",
+    "sg:postcode":"68507",
+    "sg:province":"NE",
+    "sg:tags":[
+        "railroad",
+        "industry",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85824241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Wndf9CU3K0q2m9ZmFnXtJ_40.859173_-96.629063@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298080,
+    "wof:geomhash":"3741de5172f53c6ed10d2869be1c533d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85824241,
+            "region_id":85688563,
+            "venue_id":873818023
+        }
+    ],
+    "wof:id":873818023,
+    "wof:lastmodified":1464298080,
+    "wof:name":"Railroad Outfitters",
+    "wof:parent_id":85824241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "railroad",
+        "industry",
+        "supply"
+    ]
+},
+  "bbox": [
+    -96.629063,
+    40.859173,
+    -96.629063,
+    40.859173
+],
+  "geometry": {"coordinates":[-96.629063,40.859173],"type":"Point"}
+}

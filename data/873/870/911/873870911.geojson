@@ -1,0 +1,75 @@
+{
+  "id": 873870911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.990236,41.259746,-95.990236,41.259746",
+    "geom:latitude":41.259746,
+    "geom:longitude":-95.990236,
+    "iso:country":"US",
+    "sg:address":"4952 Dodge St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 342 1701",
+    "sg:postcode":"68132",
+    "sg:province":"NE",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867055,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_484B7DKBL3xSsuWo9bYEZD_41.259746_-95.990236@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299250,
+    "wof:geomhash":"376ae229a5be0e7c9417497d8c1f63bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85867055,
+            "region_id":85688563,
+            "venue_id":873870911
+        }
+    ],
+    "wof:id":873870911,
+    "wof:lastmodified":1464299250,
+    "wof:name":"Core Community Church",
+    "wof:parent_id":85867055,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -95.990236,
+    41.259746,
+    -95.990236,
+    41.259746
+],
+  "geometry": {"coordinates":[-95.990236,41.259746],"type":"Point"}
+}

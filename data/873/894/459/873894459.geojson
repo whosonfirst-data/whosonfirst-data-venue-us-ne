@@ -1,0 +1,69 @@
+{
+  "id": 873894459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.816527,40.813745,-96.816527,40.813745",
+    "geom:latitude":40.813745,
+    "geom:longitude":-96.816527,
+    "iso:country":"US",
+    "sg:address":"6450 US Hwy 6",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 467 1884",
+    "sg:postcode":"68528",
+    "sg:province":"NE",
+    "sg:tags":[
+        "watch"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85813295,
+        102083503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4EUx88SoxVjcNUotx8GxLR_40.813745_-96.816527@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299713,
+    "wof:geomhash":"920bc9c64a8ff13a0900ab2e8c13f543",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "neighbourhood_id":85813295,
+            "region_id":85688563,
+            "venue_id":873894459
+        }
+    ],
+    "wof:id":873894459,
+    "wof:lastmodified":1464299713,
+    "wof:name":"Time Shoppe",
+    "wof:parent_id":85813295,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "watch"
+    ]
+},
+  "bbox": [
+    -96.816527,
+    40.813745,
+    -96.816527,
+    40.813745
+],
+  "geometry": {"coordinates":[-96.81652699999999,40.813745],"type":"Point"}
+}

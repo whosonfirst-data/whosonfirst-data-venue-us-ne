@@ -1,0 +1,70 @@
+{
+  "id": 873946109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.140258,41.168119,-96.140258,41.168119",
+    "geom:latitude":41.168119,
+    "geom:longitude":-96.140258,
+    "iso:country":"US",
+    "sg:address":"9003 S 145th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 891 0003",
+    "sg:postcode":"68138",
+    "sg:province":"NE",
+    "sg:tags":[
+        "state"
+    ],
+    "sg:website":"www.cenbankomaha.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85834285,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3H0A8LlJULJnMIeVY9MZga_41.168119_-96.140258@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300938,
+    "wof:geomhash":"a54a827c5a1fa9977725c605454c45a9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85834285,
+            "region_id":85688563,
+            "venue_id":873946109
+        }
+    ],
+    "wof:id":873946109,
+    "wof:lastmodified":1464300938,
+    "wof:name":"Centennial Bank",
+    "wof:parent_id":85834285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state"
+    ]
+},
+  "bbox": [
+    -96.140258,
+    41.168119,
+    -96.140258,
+    41.168119
+],
+  "geometry": {"coordinates":[-96.140258,41.168119],"type":"Point"}
+}

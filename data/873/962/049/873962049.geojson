@@ -1,0 +1,68 @@
+{
+  "id": 873962049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.738139,40.846686,-96.738139,40.846686",
+    "geom:latitude":40.846686,
+    "geom:longitude":-96.738139,
+    "iso:country":"US",
+    "sg:address":"3200 NW 12th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 475 9541",
+    "sg:postcode":"68521",
+    "sg:province":"NE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102529023,
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0GSWY6kHzTtjIbHrM13qYR_40.846686_-96.738139@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464301655,
+    "wof:geomhash":"33fbd3caac75bfe25eb139d123c5e1e8",
+    "wof:hierarchy":[
+        {
+            "campus_id":102529023,
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878717,
+            "region_id":85688563,
+            "venue_id":873962049
+        }
+    ],
+    "wof:id":873962049,
+    "wof:lastmodified":1464301655,
+    "wof:name":"Colorado Hospitality Services",
+    "wof:parent_id":102529023,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.738139,
+    40.846686,
+    -96.738139,
+    40.846686
+],
+  "geometry": {"coordinates":[-96.738139,40.846686],"type":"Point"}
+}

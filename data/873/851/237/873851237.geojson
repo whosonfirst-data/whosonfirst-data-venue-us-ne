@@ -1,0 +1,71 @@
+{
+  "id": 873851237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.924523,41.165072,-95.924523,41.165072",
+    "geom:latitude":41.165072,
+    "geom:longitude":-95.924523,
+    "iso:country":"US",
+    "sg:address":"2208 Avery Rd E",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 734 9341",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85804025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2DIfnUzu1lTbPnVrILBW1f_41.165072_-95.924523@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298837,
+    "wof:geomhash":"993474c0f6e229715f8588613f84fc82",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85804025,
+            "region_id":85688563,
+            "venue_id":873851237
+        }
+    ],
+    "wof:id":873851237,
+    "wof:lastmodified":1464298837,
+    "wof:name":"James E Case Law Office",
+    "wof:parent_id":85804025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -95.924523,
+    41.165072,
+    -95.924523,
+    41.165072
+],
+  "geometry": {"coordinates":[-95.92452299999999,41.165072],"type":"Point"}
+}

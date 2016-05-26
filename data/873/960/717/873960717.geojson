@@ -1,0 +1,77 @@
+{
+  "id": 873960717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.902288,41.301031,-95.902288,41.301031",
+    "geom:latitude":41.301031,
+    "geom:longitude":-95.902288,
+    "iso:country":"US",
+    "sg:address":"4701 Abbott Dr",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 342 9158",
+    "sg:postcode":"68110",
+    "sg:province":"NE",
+    "sg:tags":[
+        "renting",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102524739,
+        85688563,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6B4Bojk4BylYTBFoq4uDFc_41.301031_-95.902288@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464301563,
+    "wof:geomhash":"d49df454b4832194b20f854387ff88ee",
+    "wof:hierarchy":[
+        {
+            "campus_id":102524739,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "region_id":85688563,
+            "venue_id":873960717
+        }
+    ],
+    "wof:id":873960717,
+    "wof:lastmodified":1464301563,
+    "wof:name":"Hertz Rent A Car",
+    "wof:parent_id":102524739,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -95.902288,
+    41.301031,
+    -95.902288,
+    41.301031
+],
+  "geometry": {"coordinates":[-95.902288,41.301031],"type":"Point"}
+}

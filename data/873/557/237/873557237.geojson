@@ -1,0 +1,71 @@
+{
+  "id": 873557237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.700606,40.735695,-96.700606,40.735695",
+    "geom:latitude":40.735695,
+    "geom:longitude":-96.700606,
+    "iso:country":"US",
+    "sg:address":"1400 Garret Ln",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 328 9693",
+    "sg:postcode":"68512",
+    "sg:province":"NE",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5JNAqhdEHqmnF8DcTmcdUu_40.735695_-96.700606@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294463,
+    "wof:geomhash":"4607855081da687dd7eeb750acec764e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878709,
+            "region_id":85688563,
+            "venue_id":873557237
+        }
+    ],
+    "wof:id":873557237,
+    "wof:lastmodified":1464294463,
+    "wof:name":"Chantacleer Residences",
+    "wof:parent_id":85878709,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -96.700606,
+    40.735695,
+    -96.700606,
+    40.735695
+],
+  "geometry": {"coordinates":[-96.70060599999999,40.735695],"type":"Point"}
+}

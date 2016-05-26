@@ -1,0 +1,73 @@
+{
+  "id": 873848113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.769138,40.795878,-96.769138,40.795878",
+    "geom:latitude":40.795878,
+    "geom:longitude":-96.769138,
+    "iso:country":"US",
+    "sg:address":"1717 SW 33rd St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Jail",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 416 5503",
+    "sg:postcode":"68522",
+    "sg:province":"NE",
+    "sg:tags":[
+        "prisoner",
+        "transportation",
+        "custody"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85813295,
+        102083503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_72CUyzPk0lU5IV9dC7GAwP_40.795878_-96.769138@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298773,
+    "wof:geomhash":"d65920543c4d31e04e07ffb51a9647a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "neighbourhood_id":85813295,
+            "region_id":85688563,
+            "venue_id":873848113
+        }
+    ],
+    "wof:id":873848113,
+    "wof:lastmodified":1464298773,
+    "wof:name":"Todd Kelley",
+    "wof:parent_id":85813295,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "prisoner",
+        "transportation",
+        "custody"
+    ]
+},
+  "bbox": [
+    -96.769138,
+    40.795878,
+    -96.769138,
+    40.795878
+],
+  "geometry": {"coordinates":[-96.769138,40.795878],"type":"Point"}
+}

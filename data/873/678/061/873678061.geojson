@@ -1,0 +1,71 @@
+{
+  "id": 873678061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.051817,41.161806,-96.051817,41.161806",
+    "geom:latitude":41.161806,
+    "geom:longitude":-96.051817,
+    "iso:country":"US",
+    "sg:address":"1305 W 6th St",
+    "sg:city":"Papillion",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 331 4442",
+    "sg:postcode":"68046",
+    "sg:province":"NE",
+    "sg:tags":[
+        "association",
+        "softball"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85843697,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_30CRjYtx2p5rV6hSCdSAzw_41.161806_-96.051817@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295939,
+    "wof:geomhash":"013ad78beb86cfce10de1e6b36396d02",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85843697,
+            "region_id":85688563,
+            "venue_id":873678061
+        }
+    ],
+    "wof:id":873678061,
+    "wof:lastmodified":1464295939,
+    "wof:name":"River City Sports Complex",
+    "wof:parent_id":85843697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "association",
+        "softball"
+    ]
+},
+  "bbox": [
+    -96.051817,
+    41.161806,
+    -96.051817,
+    41.161806
+],
+  "geometry": {"coordinates":[-96.051817,41.161806],"type":"Point"}
+}

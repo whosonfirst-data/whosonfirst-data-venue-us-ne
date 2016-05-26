@@ -1,0 +1,75 @@
+{
+  "id": 873822659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.082509,41.233168,-96.082509,41.233168",
+    "geom:latitude":41.233168,
+    "geom:longitude":-96.082509,
+    "iso:country":"US",
+    "sg:address":"10819 Prairie Brook Rd",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 391 9994",
+    "sg:postcode":"68144",
+    "sg:province":"NE",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872533,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_75F81eN5d0ja7CNINXb1Jv_41.233168_-96.082509@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298181,
+    "wof:geomhash":"a618c4eb5b0bbac6b8bf1323fc150058",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872533,
+            "region_id":85688563,
+            "venue_id":873822659
+        }
+    ],
+    "wof:id":873822659,
+    "wof:lastmodified":1464298181,
+    "wof:name":"Rock Brook Barber Shop",
+    "wof:parent_id":85872533,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -96.082509,
+    41.233168,
+    -96.082509,
+    41.233168
+],
+  "geometry": {"coordinates":[-96.082509,41.233168],"type":"Point"}
+}

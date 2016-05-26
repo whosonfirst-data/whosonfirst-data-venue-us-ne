@@ -1,0 +1,69 @@
+{
+  "id": 873937405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.066474,41.350088,-96.066474,41.350088",
+    "geom:latitude":41.350088,
+    "geom:longitude":-96.066474,
+    "iso:country":"US",
+    "sg:address":"10277 Rainwood Rd",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 571 8989",
+    "sg:postcode":"68122",
+    "sg:province":"NE",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85872505,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2y1nfuvfTZCWAWyF433JlC_41.350088_-96.066474@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300588,
+    "wof:geomhash":"2c4ac1208c3c9856eed3e1d6cb2adc40",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":873937405
+        }
+    ],
+    "wof:id":873937405,
+    "wof:lastmodified":1464300588,
+    "wof:name":"Cure Plumbing Inc",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.066474,
+    41.350088,
+    -96.066474,
+    41.350088
+],
+  "geometry": {"coordinates":[-96.066474,41.350088],"type":"Point"}
+}

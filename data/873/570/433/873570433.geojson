@@ -1,0 +1,78 @@
+{
+  "id": 873570433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.641507,40.814101,-96.641507,40.814101",
+    "geom:latitude":40.814101,
+    "geom:longitude":-96.641507,
+    "iso:country":"US",
+    "sg:address":"335 Gateway Mall",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 466 5599",
+    "sg:postcode":"68505",
+    "sg:province":"NE",
+    "sg:tags":[
+        "infant",
+        "wear"
+    ],
+    "sg:website":"www.limitedtoo.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878703,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6u4hU4wJ2yyqEoAF3S9vh0_40.814101_-96.641507@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294615,
+    "wof:geomhash":"41a0f659af88f1b8648d6959d43211c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878703,
+            "region_id":85688563,
+            "venue_id":873570433
+        }
+    ],
+    "wof:id":873570433,
+    "wof:lastmodified":1464294615,
+    "wof:name":"Limited Too",
+    "wof:parent_id":85878703,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "infant",
+        "wear"
+    ]
+},
+  "bbox": [
+    -96.641507,
+    40.814101,
+    -96.641507,
+    40.814101
+],
+  "geometry": {"coordinates":[-96.641507,40.814101],"type":"Point"}
+}

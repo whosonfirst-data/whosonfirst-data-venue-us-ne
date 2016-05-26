@@ -1,0 +1,75 @@
+{
+  "id": 873832913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.142188,41.154557,-96.142188,41.154557",
+    "geom:latitude":41.154557,
+    "geom:longitude":-96.142188,
+    "iso:country":"US",
+    "sg:address":"14609 Prairie Corners Rd",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 896 6093",
+    "sg:postcode":"68138",
+    "sg:province":"NE",
+    "sg:tags":[
+        "distributor",
+        "product",
+        "voice",
+        "datum"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85834285,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1BUn4GT9tKqfsmAl9EMCiN_41.154557_-96.142188@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298398,
+    "wof:geomhash":"2edd35e63de474c10c2a84c47145a813",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85834285,
+            "region_id":85688563,
+            "venue_id":873832913
+        }
+    ],
+    "wof:id":873832913,
+    "wof:lastmodified":1464298398,
+    "wof:name":"Net-Tech Distributing Inc",
+    "wof:parent_id":85834285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "distributor",
+        "product",
+        "voice",
+        "datum"
+    ]
+},
+  "bbox": [
+    -96.142188,
+    41.154557,
+    -96.142188,
+    41.154557
+],
+  "geometry": {"coordinates":[-96.142188,41.154557],"type":"Point"}
+}

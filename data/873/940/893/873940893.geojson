@@ -1,0 +1,71 @@
+{
+  "id": 873940893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.915377,41.159181,-95.915377,41.159181",
+    "geom:latitude":41.159181,
+    "geom:longitude":-95.915377,
+    "iso:country":"US",
+    "sg:address":"105 Kayleen Dr",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 292 7175",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "photo"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85804025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_68fmt9WW4jEbXsisZdQzFF_41.159181_-95.915377@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300728,
+    "wof:geomhash":"a4dcb93ea74b27cb1887c59de903221b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85804025,
+            "region_id":85688563,
+            "venue_id":873940893
+        }
+    ],
+    "wof:id":873940893,
+    "wof:lastmodified":1464300728,
+    "wof:name":"Knudson Photography",
+    "wof:parent_id":85804025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photo"
+    ]
+},
+  "bbox": [
+    -95.915377,
+    41.159181,
+    -95.915377,
+    41.159181
+],
+  "geometry": {"coordinates":[-95.91537700000001,41.159181],"type":"Point"}
+}

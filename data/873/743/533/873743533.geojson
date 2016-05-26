@@ -1,0 +1,79 @@
+{
+  "id": 873743533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.648629,40.834214,-96.648629,40.834214",
+    "geom:latitude":40.834214,
+    "geom:longitude":-96.648629,
+    "iso:country":"US",
+    "sg:address":"5119 Garland St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 464 3137",
+    "sg:postcode":"68504",
+    "sg:province":"NE",
+    "sg:tags":[
+        "floor",
+        "laying",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85853163,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6EFe6LvrlC3Hweoo2pZ346_40.834214_-96.648629@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296980,
+    "wof:geomhash":"f8622c23e4fdb6d54d0dbbb230ced251",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85853163,
+            "region_id":85688563,
+            "venue_id":873743533
+        }
+    ],
+    "wof:id":873743533,
+    "wof:lastmodified":1464296980,
+    "wof:name":"Floor Crew",
+    "wof:parent_id":85853163,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "floor",
+        "laying",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.648629,
+    40.834214,
+    -96.648629,
+    40.834214
+],
+  "geometry": {"coordinates":[-96.648629,40.834214],"type":"Point"}
+}

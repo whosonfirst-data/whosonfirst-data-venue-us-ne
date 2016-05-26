@@ -1,0 +1,71 @@
+{
+  "id": 873831107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.953981,41.115768,-95.953981,41.115768",
+    "geom:latitude":41.115768,
+    "geom:longitude":-95.953981,
+    "iso:country":"US",
+    "sg:address":"2905 Daniell Cir",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 510 5707",
+    "sg:postcode":"68123",
+    "sg:province":"NE",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974747,
+        102082777,
+        85820061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0CuOErbVhGD2nKHICjvuLp_41.115768_-95.953981@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298352,
+    "wof:geomhash":"841fa4337cf6ab46f0db5918462ff5ae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974747,
+            "neighbourhood_id":85820061,
+            "region_id":85688563,
+            "venue_id":873831107
+        }
+    ],
+    "wof:id":873831107,
+    "wof:lastmodified":1464298352,
+    "wof:name":"Millers Custom Trim Inc",
+    "wof:parent_id":85820061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [
+    -95.953981,
+    41.115768,
+    -95.953981,
+    41.115768
+],
+  "geometry": {"coordinates":[-95.953981,41.115768],"type":"Point"}
+}

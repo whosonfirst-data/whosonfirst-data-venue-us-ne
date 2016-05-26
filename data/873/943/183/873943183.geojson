@@ -1,0 +1,71 @@
+{
+  "id": 873943183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.910947,41.174721,-95.910947,41.174721",
+    "geom:latitude":41.174721,
+    "geom:longitude":-95.910947,
+    "iso:country":"US",
+    "sg:address":"1321 Camp Gifford Rd",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 731 3410",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85804025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5GzCnShjq7R0wE0gyHynYP_41.174721_-95.910947@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300813,
+    "wof:geomhash":"a590f5562629019e03f525eeeb8018b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85804025,
+            "region_id":85688563,
+            "venue_id":873943183
+        }
+    ],
+    "wof:id":873943183,
+    "wof:lastmodified":1464300813,
+    "wof:name":"D & D Home Repair",
+    "wof:parent_id":85804025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -95.910947,
+    41.174721,
+    -95.910947,
+    41.174721
+],
+  "geometry": {"coordinates":[-95.91094699999999,41.174721],"type":"Point"}
+}

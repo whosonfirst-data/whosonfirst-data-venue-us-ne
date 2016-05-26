@@ -1,0 +1,71 @@
+{
+  "id": 873823893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.791415,40.856623,-96.791415,40.856623",
+    "geom:latitude":40.856623,
+    "geom:longitude":-96.791415,
+    "iso:country":"US",
+    "sg:address":"5021 W Loring St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 470 6017",
+    "sg:postcode":"68524",
+    "sg:province":"NE",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85826663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0smv5vvSYbUvjx6sKvepPQ_40.856623_-96.791415@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298210,
+    "wof:geomhash":"8cf2a8750979e98516d02882f8af19b5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85826663,
+            "region_id":85688563,
+            "venue_id":873823893
+        }
+    ],
+    "wof:id":873823893,
+    "wof:lastmodified":1464298210,
+    "wof:name":"Dan Kress",
+    "wof:parent_id":85826663,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.791415,
+    40.856623,
+    -96.791415,
+    40.856623
+],
+  "geometry": {"coordinates":[-96.791415,40.856623],"type":"Point"}
+}

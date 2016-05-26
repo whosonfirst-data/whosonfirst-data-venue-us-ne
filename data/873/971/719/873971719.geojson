@@ -1,0 +1,80 @@
+{
+  "id": 873971719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.976814,41.241259,-95.976814,41.241259",
+    "geom:latitude":41.241259,
+    "geom:longitude":-95.976814,
+    "iso:country":"US",
+    "sg:address":"4223 Center St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 444 6654",
+    "sg:postcode":"68105",
+    "sg:province":"NE",
+    "sg:tags":[
+        "print",
+        "newspaper",
+        "medium"
+    ],
+    "sg:website":"www.enoa.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872523,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4gR2MW9Lue77edWp3cbQoK_41.241439_-95.976817@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464302055,
+    "wof:geomhash":"a76eb12abacbd8f84cf3dc21b469cb57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872523,
+            "region_id":85688563,
+            "venue_id":873971719
+        }
+    ],
+    "wof:id":873971719,
+    "wof:lastmodified":1464302055,
+    "wof:name":"New Horizons Newspaper",
+    "wof:parent_id":85872523,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "print",
+        "newspaper",
+        "medium"
+    ]
+},
+  "bbox": [
+    -95.976814,
+    41.241259,
+    -95.976814,
+    41.241259
+],
+  "geometry": {"coordinates":[-95.976814,41.241259],"type":"Point"}
+}

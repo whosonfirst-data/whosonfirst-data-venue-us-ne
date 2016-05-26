@@ -1,0 +1,78 @@
+{
+  "id": 873974451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.891846,41.126063,-95.891846,41.126063",
+    "geom:latitude":41.126063,
+    "geom:longitude":-95.891846,
+    "iso:country":"US",
+    "sg:address":"205 Industrial Dr",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 291 6887",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "facility",
+        "banquet",
+        "reception",
+        "hall"
+    ],
+    "sg:website":"http://www.kofc.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974747,
+        102082777,
+        85820061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6RXqnyIH7niaiI2FelcWkc_41.125953_-95.891942@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464302171,
+    "wof:geomhash":"76892b557f8764eb2393bf6862e525a9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974747,
+            "neighbourhood_id":85820061,
+            "region_id":85688563,
+            "venue_id":873974451
+        }
+    ],
+    "wof:id":873974451,
+    "wof:lastmodified":1464302171,
+    "wof:name":"Knights Of Columbus",
+    "wof:parent_id":85820061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "facility",
+        "banquet",
+        "reception",
+        "hall"
+    ]
+},
+  "bbox": [
+    -95.891846,
+    41.126063,
+    -95.891846,
+    41.126063
+],
+  "geometry": {"coordinates":[-95.891846,41.126063],"type":"Point"}
+}

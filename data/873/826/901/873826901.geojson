@@ -1,0 +1,71 @@
+{
+  "id": 873826901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.902879,41.136586,-95.902879,41.136586",
+    "geom:latitude":41.136586,
+    "geom:longitude":-95.902879,
+    "iso:country":"US",
+    "sg:address":"704 W Mission Ave",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Advertising",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 293 0200",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "agency"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974747,
+        102082777,
+        85820061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ZSOEAcavuasXHkcrtRH5b_41.136586_-95.902879@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298274,
+    "wof:geomhash":"3d28839d65d4e8065fb17ea0faffca2d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974747,
+            "neighbourhood_id":85820061,
+            "region_id":85688563,
+            "venue_id":873826901
+        }
+    ],
+    "wof:id":873826901,
+    "wof:lastmodified":1464298274,
+    "wof:name":"Heartland Mktg Communications",
+    "wof:parent_id":85820061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency"
+    ]
+},
+  "bbox": [
+    -95.902879,
+    41.136586,
+    -95.902879,
+    41.136586
+],
+  "geometry": {"coordinates":[-95.902879,41.136586],"type":"Point"}
+}

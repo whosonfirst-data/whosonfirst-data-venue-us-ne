@@ -1,0 +1,77 @@
+{
+  "id": 873939561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.154885,41.257243,-96.154885,41.257243",
+    "geom:latitude":41.257243,
+    "geom:longitude":-96.154885,
+    "iso:country":"US",
+    "sg:address":"15432 Farnam Cir",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 778 9552",
+    "sg:postcode":"68154",
+    "sg:province":"NE",
+    "sg:tags":[
+        "dry wall",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85806957,
+        102191575,
+        404519987,
+        85633793,
+        85973479,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6UB1bd1ay3VoFQ891CUJ1k_41.257243_-96.154885@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300663,
+    "wof:geomhash":"270521ec9d1251bb47f0f18fbca8e772",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404519987,
+            "locality_id":85973479,
+            "neighbourhood_id":85806957,
+            "region_id":85688563,
+            "venue_id":873939561
+        }
+    ],
+    "wof:id":873939561,
+    "wof:lastmodified":1464300663,
+    "wof:name":"Nebraska Wall System",
+    "wof:parent_id":85806957,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dry wall",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.154885,
+    41.257243,
+    -96.154885,
+    41.257243
+],
+  "geometry": {"coordinates":[-96.15488499999999,41.257243],"type":"Point"}
+}

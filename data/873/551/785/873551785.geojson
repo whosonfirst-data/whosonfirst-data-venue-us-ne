@@ -1,0 +1,71 @@
+{
+  "id": 873551785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.729393,40.861941,-96.729393,40.861941",
+    "geom:latitude":40.861941,
+    "geom:longitude":-96.729393,
+    "iso:country":"US",
+    "sg:address":"400 W Chadderton Dr",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 476 6571",
+    "sg:postcode":"68521",
+    "sg:province":"NE",
+    "sg:tags":[
+        "photographer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6kPyU5DfWrpnE4dNJ93x6w_40.861941_-96.729393@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294398,
+    "wof:geomhash":"efc5fc992d5107568bd8755a796a3bb0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878717,
+            "region_id":85688563,
+            "venue_id":873551785
+        }
+    ],
+    "wof:id":873551785,
+    "wof:lastmodified":1464294398,
+    "wof:name":"Dingwell Photography & Framing",
+    "wof:parent_id":85878717,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photographer"
+    ]
+},
+  "bbox": [
+    -96.729393,
+    40.861941,
+    -96.729393,
+    40.861941
+],
+  "geometry": {"coordinates":[-96.729393,40.861941],"type":"Point"}
+}

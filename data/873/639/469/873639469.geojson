@@ -1,0 +1,73 @@
+{
+  "id": 873639469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.925577,41.158399,-95.925577,41.158399",
+    "geom:latitude":41.158399,
+    "geom:longitude":-95.925577,
+    "iso:country":"US",
+    "sg:address":"209 S Fort Crook Rd",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 504 4100",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85804025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2bEp0nG4lDCtl34iD7ybuU_41.158399_-95.925577@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295468,
+    "wof:geomhash":"93feb8bc0601d1abaafc1e21c766fa7e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85804025,
+            "region_id":85688563,
+            "venue_id":873639469
+        }
+    ],
+    "wof:id":873639469,
+    "wof:lastmodified":1464295468,
+    "wof:name":"King Auto Sales",
+    "wof:parent_id":85804025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -95.925577,
+    41.158399,
+    -95.925577,
+    41.158399
+],
+  "geometry": {"coordinates":[-95.925577,41.158399],"type":"Point"}
+}

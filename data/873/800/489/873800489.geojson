@@ -1,0 +1,71 @@
+{
+  "id": 873800489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.944545,41.113516,-95.944545,41.113516",
+    "geom:latitude":41.113516,
+    "geom:longitude":-95.944545,
+    "iso:country":"US",
+    "sg:address":"2304 Coventry Dr",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 292 7489",
+    "sg:postcode":"68123",
+    "sg:province":"NE",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974747,
+        102082777,
+        85820061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6AnCNZdstGJjdaiKRJhE32_41.113516_-95.944545@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297779,
+    "wof:geomhash":"88cbcf690062fc5cac5b0fabe1604a1b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974747,
+            "neighbourhood_id":85820061,
+            "region_id":85688563,
+            "venue_id":873800489
+        }
+    ],
+    "wof:id":873800489,
+    "wof:lastmodified":1464297779,
+    "wof:name":"T & I Treats Inc",
+    "wof:parent_id":85820061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -95.944545,
+    41.113516,
+    -95.944545,
+    41.113516
+],
+  "geometry": {"coordinates":[-95.94454500000001,41.113516],"type":"Point"}
+}

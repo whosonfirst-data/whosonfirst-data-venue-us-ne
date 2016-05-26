@@ -1,0 +1,75 @@
+{
+  "id": 873844141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.952772,41.179247,-95.952772,41.179247",
+    "geom:latitude":41.179247,
+    "geom:longitude":-95.952772,
+    "iso:country":"US",
+    "sg:address":"8300 Cedar Island Rd",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Natural Gas",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 633 4201",
+    "sg:postcode":"68147",
+    "sg:province":"NE",
+    "sg:tags":[
+        "company"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85849923,
+        102191575,
+        404519143,
+        85633793,
+        85974545,
+        102082777,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2IdOaQxRkobvJo26Q2gy88_41.179247_-95.952772@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298658,
+    "wof:geomhash":"03fcd12619e15f93199db97e2b2c7365",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082777,
+            "localadmin_id":404519143,
+            "locality_id":85974545,
+            "neighbourhood_id":85849923,
+            "region_id":85688563,
+            "venue_id":873844141
+        }
+    ],
+    "wof:id":873844141,
+    "wof:lastmodified":1464298658,
+    "wof:name":"Northern Natural Gas Co",
+    "wof:parent_id":85849923,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company"
+    ]
+},
+  "bbox": [
+    -95.952772,
+    41.179247,
+    -95.952772,
+    41.179247
+],
+  "geometry": {"coordinates":[-95.952772,41.179247],"type":"Point"}
+}

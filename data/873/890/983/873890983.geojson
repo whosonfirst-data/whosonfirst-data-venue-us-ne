@@ -1,0 +1,73 @@
+{
+  "id": 873890983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.695017,40.748696,-96.695017,40.748696",
+    "geom:latitude":40.748696,
+    "geom:longitude":-96.695017,
+    "iso:country":"US",
+    "sg:address":"1810 Davenport Cir",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Secretarial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 433 4557",
+    "sg:postcode":"68512",
+    "sg:province":"NE",
+    "sg:tags":[
+        "court",
+        "reporter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_02ZfsSQtDUShbT2s5sKNCr_40.748696_-96.695017@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299648,
+    "wof:geomhash":"7afe2702c8483462c73e2cdaeaa43c8a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878709,
+            "region_id":85688563,
+            "venue_id":873890983
+        }
+    ],
+    "wof:id":873890983,
+    "wof:lastmodified":1464299648,
+    "wof:name":"Sharon R Harshman",
+    "wof:parent_id":85878709,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "court",
+        "reporter"
+    ]
+},
+  "bbox": [
+    -96.695017,
+    40.748696,
+    -96.695017,
+    40.748696
+],
+  "geometry": {"coordinates":[-96.69501700000001,40.748696],"type":"Point"}
+}

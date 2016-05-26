@@ -1,0 +1,69 @@
+{
+  "id": 873548435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.067092,41.307514,-96.067092,41.307514",
+    "geom:latitude":41.307514,
+    "geom:longitude":-96.067092,
+    "iso:country":"US",
+    "sg:address":"5310 N 99th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 571 6224",
+    "sg:postcode":"68134",
+    "sg:province":"NE",
+    "sg:tags":[
+        "adjuster"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85872505,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7N5ARsxPTMA5c2iqwqEl9e_41.307514_-96.067092@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294361,
+    "wof:geomhash":"96ab4922e7fdfdfed619e491d7ea633d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":873548435
+        }
+    ],
+    "wof:id":873548435,
+    "wof:lastmodified":1464294361,
+    "wof:name":"Mid-American Insurance Group",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "adjuster"
+    ]
+},
+  "bbox": [
+    -96.067092,
+    41.307514,
+    -96.067092,
+    41.307514
+],
+  "geometry": {"coordinates":[-96.067092,41.307514],"type":"Point"}
+}

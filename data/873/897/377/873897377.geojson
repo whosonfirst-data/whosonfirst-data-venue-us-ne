@@ -1,0 +1,75 @@
+{
+  "id": 873897377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.67552,40.802658,-96.67552,40.802658",
+    "geom:latitude":40.802658,
+    "geom:longitude":-96.67552,
+    "iso:country":"US",
+    "sg:address":"3130 D St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 435 5533",
+    "sg:postcode":"68510",
+    "sg:province":"NE",
+    "sg:tags":[
+        "home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878727,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5DO8KIyITCKU2RzdKGq10F_40.802658_-96.675520@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299772,
+    "wof:geomhash":"c431aac8aeadf536446c001f5d9ff682",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878727,
+            "region_id":85688563,
+            "venue_id":873897377
+        }
+    ],
+    "wof:id":873897377,
+    "wof:lastmodified":1464299772,
+    "wof:name":"Arcadia Health Care",
+    "wof:parent_id":85878727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home"
+    ]
+},
+  "bbox": [
+    -96.67552,
+    40.802658,
+    -96.67552,
+    40.802658
+],
+  "geometry": {"coordinates":[-96.67552000000001,40.802658],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873853685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.637014,40.78796,-96.637014,40.78796",
+    "geom:latitude":40.78796,
+    "geom:longitude":-96.637014,
+    "iso:country":"US",
+    "sg:address":"6001 Normal Blvd",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 486 4847",
+    "sg:postcode":"68506",
+    "sg:province":"NE",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0MbGhzaEsIwQoCnqdt0ZJU_40.787960_-96.637014@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298891,
+    "wof:geomhash":"ad1fc90a0932aee882c968f72f1c196d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878697,
+            "region_id":85688563,
+            "venue_id":873853685
+        }
+    ],
+    "wof:id":873853685,
+    "wof:lastmodified":1464298891,
+    "wof:name":"Krayon Campus Inc",
+    "wof:parent_id":85878697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -96.637014,
+    40.78796,
+    -96.637014,
+    40.78796
+],
+  "geometry": {"coordinates":[-96.63701399999999,40.78796],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 873920315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.935433,41.160009,-95.935433,41.160009",
+    "geom:latitude":41.160009,
+    "geom:longitude":-95.935433,
+    "iso:country":"US",
+    "sg:address":"10110 S 15th St",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 291 9266",
+    "sg:postcode":"68123",
+    "sg:province":"NE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85821583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6yV3P8syXCut9QwGMBooGP_41.160009_-95.935433@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300216,
+    "wof:geomhash":"960f98e0b330f3fae5e4c8143e97608a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85821583,
+            "region_id":85688563,
+            "venue_id":873920315
+        }
+    ],
+    "wof:id":873920315,
+    "wof:lastmodified":1464300216,
+    "wof:name":"Fantasy's Cornhusker",
+    "wof:parent_id":85821583,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -95.935433,
+    41.160009,
+    -95.935433,
+    41.160009
+],
+  "geometry": {"coordinates":[-95.935433,41.160009],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 873753447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.109467,41.272359,-96.109467,41.272359",
+    "geom:latitude":41.272359,
+    "geom:longitude":-96.109467,
+    "iso:country":"US",
+    "sg:address":"12323 Lafayette Ave",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 496 2323",
+    "sg:postcode":"68154",
+    "sg:province":"NE",
+    "sg:tags":[
+        "printer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872503,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3XD6XSRlcLgPTM4aGIyDNj_41.272359_-96.109467@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297126,
+    "wof:geomhash":"3ec0af7ab5cf4c91abccbd7a9b6fb3ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872503,
+            "region_id":85688563,
+            "venue_id":873753447
+        }
+    ],
+    "wof:id":873753447,
+    "wof:lastmodified":1464297126,
+    "wof:name":"John Hendriks Advertising Co",
+    "wof:parent_id":85872503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "printer"
+    ]
+},
+  "bbox": [
+    -96.109467,
+    41.272359,
+    -96.109467,
+    41.272359
+],
+  "geometry": {"coordinates":[-96.109467,41.272359],"type":"Point"}
+}

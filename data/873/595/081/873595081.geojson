@@ -1,0 +1,73 @@
+{
+  "id": 873595081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.731658,40.865067,-96.731658,40.865067",
+    "geom:latitude":40.865067,
+    "geom:longitude":-96.731658,
+    "iso:country":"US",
+    "sg:address":"322 W Chanceler Dr",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 477 1240",
+    "sg:postcode":"68521",
+    "sg:province":"NE",
+    "sg:tags":[
+        "hanging",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6CepW7wBlJ7jMulo2PYCxU_40.865067_-96.731658@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294905,
+    "wof:geomhash":"865579bed6da83e1df075572aed5489b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878717,
+            "region_id":85688563,
+            "venue_id":873595081
+        }
+    ],
+    "wof:id":873595081,
+    "wof:lastmodified":1464294905,
+    "wof:name":"Vals Decorating",
+    "wof:parent_id":85878717,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.731658,
+    40.865067,
+    -96.731658,
+    40.865067
+],
+  "geometry": {"coordinates":[-96.731658,40.865067],"type":"Point"}
+}

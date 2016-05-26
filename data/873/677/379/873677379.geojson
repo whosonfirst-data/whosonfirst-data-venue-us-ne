@@ -1,0 +1,71 @@
+{
+  "id": 873677379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.920018,41.158423,-95.920018,41.158423",
+    "geom:latitude":41.158423,
+    "geom:longitude":-95.920018,
+    "iso:country":"US",
+    "sg:address":"510 Galvin Rd S",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Self-service Laundry",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 293 7990",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "coin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85804025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_12xgC8Q3fkyMNJGOQb3CHG_41.158423_-95.920018@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295921,
+    "wof:geomhash":"0ed8aada573ef03f16fe8bb2ba920d79",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85804025,
+            "region_id":85688563,
+            "venue_id":873677379
+        }
+    ],
+    "wof:id":873677379,
+    "wof:lastmodified":1464295921,
+    "wof:name":"Chateau Laundry Center",
+    "wof:parent_id":85804025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "coin"
+    ]
+},
+  "bbox": [
+    -95.920018,
+    41.158423,
+    -95.920018,
+    41.158423
+],
+  "geometry": {"coordinates":[-95.920018,41.158423],"type":"Point"}
+}

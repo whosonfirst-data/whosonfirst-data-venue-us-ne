@@ -1,0 +1,71 @@
+{
+  "id": 873633211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.901095,41.15598,-95.901095,41.15598",
+    "geom:latitude":41.15598,
+    "geom:longitude":-95.901095,
+    "iso:country":"US",
+    "sg:address":"509 Bellevue Blvd S",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 291 1723",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85804025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0BbEGhGPIticSNfinBlmko_41.155980_-95.901095@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295403,
+    "wof:geomhash":"bd02acbff2e991e7f75691ba1882ba4b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85804025,
+            "region_id":85688563,
+            "venue_id":873633211
+        }
+    ],
+    "wof:id":873633211,
+    "wof:lastmodified":1464295403,
+    "wof:name":"Pendley Construction",
+    "wof:parent_id":85804025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -95.901095,
+    41.15598,
+    -95.901095,
+    41.15598
+],
+  "geometry": {"coordinates":[-95.901095,41.15598],"type":"Point"}
+}

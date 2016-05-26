@@ -1,0 +1,79 @@
+{
+  "id": 873544683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.705593,40.78809,-96.705593,40.78809",
+    "geom:latitude":40.78809,
+    "geom:longitude":-96.705593,
+    "iso:country":"US",
+    "sg:address":"2400 S 11th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 441 7157",
+    "sg:postcode":"68502",
+    "sg:province":"NE",
+    "sg:tags":[
+        "organization",
+        "senior",
+        "citizen"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878719,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Lgun3rHWv605oFIt85YWO_40.788090_-96.705593@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294313,
+    "wof:geomhash":"6af3bc668f8719274ae19ee228b3e690",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878719,
+            "region_id":85688563,
+            "venue_id":873544683
+        }
+    ],
+    "wof:id":873544683,
+    "wof:lastmodified":1464294313,
+    "wof:name":"Lake Street Senior Ctr",
+    "wof:parent_id":85878719,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "senior",
+        "citizen"
+    ]
+},
+  "bbox": [
+    -96.705593,
+    40.78809,
+    -96.705593,
+    40.78809
+],
+  "geometry": {"coordinates":[-96.70559299999999,40.78809],"type":"Point"}
+}

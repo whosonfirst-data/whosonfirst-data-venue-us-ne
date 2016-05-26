@@ -1,0 +1,71 @@
+{
+  "id": 873802209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.734834,40.865491,-96.734834,40.865491",
+    "geom:latitude":40.865491,
+    "geom:longitude":-96.734834,
+    "iso:country":"US",
+    "sg:address":"5630 NW Fairway Dr",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 477 6032",
+    "sg:postcode":"68521",
+    "sg:province":"NE",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5EamI6YJdpFlROEi3EG0Mg_40.865491_-96.734834@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297800,
+    "wof:geomhash":"77fb21cf5bb6e8c70d04779895f4f636",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878717,
+            "region_id":85688563,
+            "venue_id":873802209
+        }
+    ],
+    "wof:id":873802209,
+    "wof:lastmodified":1464297800,
+    "wof:name":"Nannen Nancy Day Care",
+    "wof:parent_id":85878717,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -96.734834,
+    40.865491,
+    -96.734834,
+    40.865491
+],
+  "geometry": {"coordinates":[-96.73483400000001,40.865491],"type":"Point"}
+}

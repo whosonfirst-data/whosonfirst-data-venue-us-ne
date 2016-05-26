@@ -1,0 +1,79 @@
+{
+  "id": 873859847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.696154,40.773663,-96.696154,40.773663",
+    "geom:latitude":40.773663,
+    "geom:longitude":-96.696154,
+    "iso:country":"US",
+    "sg:address":"1755 Burnham St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 423 2687",
+    "sg:postcode":"68502",
+    "sg:province":"NE",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878719,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6TOFftJvRZkjNqyciB6hDK_40.773663_-96.696154@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299014,
+    "wof:geomhash":"12be6672fd5c99c7b99c86b08908b01c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878719,
+            "region_id":85688563,
+            "venue_id":873859847
+        }
+    ],
+    "wof:id":873859847,
+    "wof:lastmodified":1464299014,
+    "wof:name":"Mundt Trucking Inc",
+    "wof:parent_id":85878719,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -96.696154,
+    40.773663,
+    -96.696154,
+    40.773663
+],
+  "geometry": {"coordinates":[-96.69615400000001,40.773663],"type":"Point"}
+}

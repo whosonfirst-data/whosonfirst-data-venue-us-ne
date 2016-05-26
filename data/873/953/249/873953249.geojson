@@ -1,0 +1,77 @@
+{
+  "id": 873953249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.974567,41.257804,-95.974567,41.257804",
+    "geom:latitude":41.257804,
+    "geom:longitude":-95.974567,
+    "iso:country":"US",
+    "sg:address":"4001 Farnam St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Photofinishing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 344 8758",
+    "sg:postcode":"68131",
+    "sg:province":"NE",
+    "sg:tags":[
+        "photo",
+        "finishing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872523,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1BDvEpyhF8VPb4ZrvEMp5z_41.257804_-95.974567@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464301275,
+    "wof:geomhash":"06fc87674d38b460e2e760a286fecbcd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872523,
+            "region_id":85688563,
+            "venue_id":873953249
+        }
+    ],
+    "wof:id":873953249,
+    "wof:lastmodified":1464301275,
+    "wof:name":"Photo-Graphics",
+    "wof:parent_id":85872523,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photo",
+        "finishing"
+    ]
+},
+  "bbox": [
+    -95.974567,
+    41.257804,
+    -95.974567,
+    41.257804
+],
+  "geometry": {"coordinates":[-95.97456699999999,41.257804],"type":"Point"}
+}

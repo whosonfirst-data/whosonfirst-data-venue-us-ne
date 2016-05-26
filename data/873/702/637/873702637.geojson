@@ -1,0 +1,73 @@
+{
+  "id": 873702637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.621632,40.792119,-96.621632,40.792119",
+    "geom:latitude":40.792119,
+    "geom:longitude":-96.621632,
+    "iso:country":"US",
+    "sg:address":"7145 S Hampton Rd",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 488 4000",
+    "sg:postcode":"68506",
+    "sg:province":"NE",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3q9zmhkgUgcwu9GMQDLnPM_40.792119_-96.621632@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296432,
+    "wof:geomhash":"1401cbe9d7114c3a6385bf6160a99391",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878697,
+            "region_id":85688563,
+            "venue_id":873702637
+        }
+    ],
+    "wof:id":873702637,
+    "wof:lastmodified":1464296432,
+    "wof:name":"Bair Development",
+    "wof:parent_id":85878697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -96.621632,
+    40.792119,
+    -96.621632,
+    40.792119
+],
+  "geometry": {"coordinates":[-96.62163200000001,40.792119],"type":"Point"}
+}

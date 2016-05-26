@@ -1,0 +1,77 @@
+{
+  "id": 873833521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.69155,40.844313,-96.69155,40.844313",
+    "geom:latitude":40.844313,
+    "geom:longitude":-96.69155,
+    "iso:country":"US",
+    "sg:address":"3300 N 20th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 476 0386",
+    "sg:postcode":"68521",
+    "sg:province":"NE",
+    "sg:tags":[
+        "car",
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878721,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Q8F0NkRTHcTYO4yOx6pLy_40.844313_-96.691550@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298416,
+    "wof:geomhash":"f7442f3c229377d57a2218308f636f2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878721,
+            "region_id":85688563,
+            "venue_id":873833521
+        }
+    ],
+    "wof:id":873833521,
+    "wof:lastmodified":1464298416,
+    "wof:name":"H & H Transmissions Inc",
+    "wof:parent_id":85878721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "truck"
+    ]
+},
+  "bbox": [
+    -96.69155,
+    40.844313,
+    -96.69155,
+    40.844313
+],
+  "geometry": {"coordinates":[-96.69155000000001,40.844313],"type":"Point"}
+}

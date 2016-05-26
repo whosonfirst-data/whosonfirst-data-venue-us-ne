@@ -1,0 +1,71 @@
+{
+  "id": 873774687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.736535,40.85881,-96.736535,40.85881",
+    "geom:latitude":40.85881,
+    "geom:longitude":-96.736535,
+    "iso:country":"US",
+    "sg:address":"4908 NW Fairway Dr",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 416 0639",
+    "sg:postcode":"68521",
+    "sg:province":"NE",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0wudRdCQ9HL2FZ8NQatqLp_40.858810_-96.736535@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297422,
+    "wof:geomhash":"2b75e34ff98b1c8e323c321f27c0480c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878717,
+            "region_id":85688563,
+            "venue_id":873774687
+        }
+    ],
+    "wof:id":873774687,
+    "wof:lastmodified":1464297422,
+    "wof:name":"Will Haul Towing & Transport",
+    "wof:parent_id":85878717,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -96.736535,
+    40.85881,
+    -96.736535,
+    40.85881
+],
+  "geometry": {"coordinates":[-96.736535,40.85881],"type":"Point"}
+}

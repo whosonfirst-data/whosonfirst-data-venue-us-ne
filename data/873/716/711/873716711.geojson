@@ -1,0 +1,73 @@
+{
+  "id": 873716711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.602737,40.735644,-96.602737,40.735644",
+    "geom:latitude":40.735644,
+    "geom:longitude":-96.602737,
+    "iso:country":"US",
+    "sg:address":"8600 Andermatt Dr",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 488 2622",
+    "sg:postcode":"68526",
+    "sg:province":"NE",
+    "sg:tags":[
+        "game",
+        "video"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3HKFvqyzRqnwS2IlE407fv_40.735644_-96.602737@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296602,
+    "wof:geomhash":"c2170803841099ee9328142c2f5dcb81",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878685,
+            "region_id":85688563,
+            "venue_id":873716711
+        }
+    ],
+    "wof:id":873716711,
+    "wof:lastmodified":1464296602,
+    "wof:name":"Gamestop",
+    "wof:parent_id":85878685,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "game",
+        "video"
+    ]
+},
+  "bbox": [
+    -96.602737,
+    40.735644,
+    -96.602737,
+    40.735644
+],
+  "geometry": {"coordinates":[-96.602737,40.735644],"type":"Point"}
+}

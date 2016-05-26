@@ -1,0 +1,71 @@
+{
+  "id": 873833663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.952783,41.063446,-95.952783,41.063446",
+    "geom:latitude":41.063446,
+    "geom:longitude":-95.952783,
+    "iso:country":"US",
+    "sg:address":"17308 Beach Cir",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm & Veterinary Services",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 292 6561",
+    "sg:postcode":"68123",
+    "sg:province":"NE",
+    "sg:tags":[
+        "corn"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974747,
+        102082777,
+        85820061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_71SHDb9iWIVd2AlntHQK26_41.063446_-95.952783@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298418,
+    "wof:geomhash":"013a8f50a001a7eb21d2e7be68d03966",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974747,
+            "neighbourhood_id":85820061,
+            "region_id":85688563,
+            "venue_id":873833663
+        }
+    ],
+    "wof:id":873833663,
+    "wof:lastmodified":1464298418,
+    "wof:name":"United Detasseling Service",
+    "wof:parent_id":85820061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "corn"
+    ]
+},
+  "bbox": [
+    -95.952783,
+    41.063446,
+    -95.952783,
+    41.063446
+],
+  "geometry": {"coordinates":[-95.952783,41.063446],"type":"Point"}
+}

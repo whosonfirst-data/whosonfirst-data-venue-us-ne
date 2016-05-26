@@ -1,0 +1,74 @@
+{
+  "id": 873977683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.912193,41.144774,-95.912193,41.144774",
+    "geom:latitude":41.144774,
+    "geom:longitude":-95.912193,
+    "iso:country":"US",
+    "sg:address":"1502 Galvin Rd S",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ne/bellevue/129472-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 291 8818",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85804025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7aXc1hZ4SkxRn479aSaw8a_41.144551_-95.912113@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464302286,
+    "wof:geomhash":"71460ece901d3f364def9adc66e50094",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85804025,
+            "region_id":85688563,
+            "venue_id":873977683
+        }
+    ],
+    "wof:id":873977683,
+    "wof:lastmodified":1464302286,
+    "wof:name":"Subway",
+    "wof:parent_id":85804025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -95.912193,
+    41.144774,
+    -95.912193,
+    41.144774
+],
+  "geometry": {"coordinates":[-95.912193,41.144774],"type":"Point"}
+}

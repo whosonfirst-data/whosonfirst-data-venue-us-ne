@@ -1,0 +1,77 @@
+{
+  "id": 873868445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.980762,41.265068,-95.980762,41.265068",
+    "geom:latitude":41.265068,
+    "geom:longitude":-95.980762,
+    "iso:country":"US",
+    "sg:address":"820 N Saddle Creek Rd",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Mobile Phone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 551 4443",
+    "sg:postcode":"68132",
+    "sg:province":"NE",
+    "sg:tags":[
+        "telephone",
+        "cellular"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867055,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1kUbH0q0UyDOgM8G9qbAvp_41.265068_-95.980762@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299199,
+    "wof:geomhash":"3b58d5d85f0d48695b324fc996765688",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85867055,
+            "region_id":85688563,
+            "venue_id":873868445
+        }
+    ],
+    "wof:id":873868445,
+    "wof:lastmodified":1464299199,
+    "wof:name":"Us Cellular",
+    "wof:parent_id":85867055,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "telephone",
+        "cellular"
+    ]
+},
+  "bbox": [
+    -95.980762,
+    41.265068,
+    -95.980762,
+    41.265068
+],
+  "geometry": {"coordinates":[-95.980762,41.265068],"type":"Point"}
+}

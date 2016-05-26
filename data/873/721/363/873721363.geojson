@@ -1,0 +1,72 @@
+{
+  "id": 873721363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.966037,41.141906,-95.966037,41.141906",
+    "geom:latitude":41.141906,
+    "geom:longitude":-95.966037,
+    "iso:country":"US",
+    "sg:address":"3604 Twin Creek Dr",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 291 1011",
+    "sg:postcode":"68123",
+    "sg:province":"NE",
+    "sg:tags":[
+        "shop"
+    ],
+    "sg:website":"www.greatclips.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85821583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_59dMezw2sL96Q8B4vDsnXs_41.141906_-95.966037@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296667,
+    "wof:geomhash":"4ed79905538bd10f6a1aae2247c4b83c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85821583,
+            "region_id":85688563,
+            "venue_id":873721363
+        }
+    ],
+    "wof:id":873721363,
+    "wof:lastmodified":1464296667,
+    "wof:name":"Great Clips",
+    "wof:parent_id":85821583,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -95.966037,
+    41.141906,
+    -95.966037,
+    41.141906
+],
+  "geometry": {"coordinates":[-95.966037,41.141906],"type":"Point"}
+}

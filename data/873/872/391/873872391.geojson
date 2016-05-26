@@ -1,0 +1,75 @@
+{
+  "id": 873872391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.955923,41.254831,-95.955923,41.254831",
+    "geom:latitude":41.254831,
+    "geom:longitude":-95.955923,
+    "iso:country":"US",
+    "sg:address":"534 Park Ave",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 505 7589",
+    "sg:postcode":"68105",
+    "sg:province":"NE",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872525,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6djzVJQRIywojnvPY9sX7o_41.254831_-95.955923@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299283,
+    "wof:geomhash":"a01a14802042bf575f15eb13465248ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872525,
+            "region_id":85688563,
+            "venue_id":873872391
+        }
+    ],
+    "wof:id":873872391,
+    "wof:lastmodified":1464299283,
+    "wof:name":"Park Avenue Plaza Apt I & II",
+    "wof:parent_id":85872525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -95.955923,
+    41.254831,
+    -95.955923,
+    41.254831
+],
+  "geometry": {"coordinates":[-95.955923,41.254831],"type":"Point"}
+}

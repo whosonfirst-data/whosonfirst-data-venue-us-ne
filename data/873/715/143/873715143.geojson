@@ -1,0 +1,72 @@
+{
+  "id": 873715143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.622408,40.792734,-96.622408,40.792734",
+    "geom:latitude":40.792734,
+    "geom:longitude":-96.622408,
+    "iso:country":"US",
+    "sg:address":"7205 S Hampton Rd",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 477 8300",
+    "sg:postcode":"68506",
+    "sg:province":"NE",
+    "sg:tags":[
+        "software"
+    ],
+    "sg:website":"www.infoanalytic.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0gX5JKSYP7vUMtLr1GIFbV_40.792734_-96.622408@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296583,
+    "wof:geomhash":"ec12537504f2034b3edd0d558383fc4b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878697,
+            "region_id":85688563,
+            "venue_id":873715143
+        }
+    ],
+    "wof:id":873715143,
+    "wof:lastmodified":1464296583,
+    "wof:name":"Information Analytics Inc",
+    "wof:parent_id":85878697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "software"
+    ]
+},
+  "bbox": [
+    -96.622408,
+    40.792734,
+    -96.622408,
+    40.792734
+],
+  "geometry": {"coordinates":[-96.62240799999999,40.792734],"type":"Point"}
+}

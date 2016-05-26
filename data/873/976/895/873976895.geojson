@@ -1,0 +1,76 @@
+{
+  "id": 873976895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.68896,40.813392,-96.68896,40.813392",
+    "geom:latitude":40.813392,
+    "geom:longitude":-96.68896,
+    "iso:country":"US",
+    "sg:address":"2241 O St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ne/lincoln/104416-old-country-buffet/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 435 2727",
+    "sg:postcode":"68510",
+    "sg:province":"NE",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878723,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ft9eNDdGeapCOc4oPJo8V_40.813392_-96.688960@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464302257,
+    "wof:geomhash":"c00326e47775d0f20f5add309511e087",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878723,
+            "region_id":85688563,
+            "venue_id":873976895
+        }
+    ],
+    "wof:id":873976895,
+    "wof:lastmodified":1464302257,
+    "wof:name":"Old Country Buffet",
+    "wof:parent_id":85878723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -96.68896,
+    40.813392,
+    -96.68896,
+    40.813392
+],
+  "geometry": {"coordinates":[-96.68895999999999,40.813392],"type":"Point"}
+}

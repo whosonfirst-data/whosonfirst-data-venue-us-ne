@@ -1,0 +1,81 @@
+{
+  "id": 873856843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.119432,41.237122,-96.119432,41.237122",
+    "geom:latitude":41.237122,
+    "geom:longitude":-96.119432,
+    "iso:country":"US",
+    "sg:address":"2449 S 132nd St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Gym",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 991 8663",
+    "sg:postcode":"68144",
+    "sg:province":"NE",
+    "sg:tags":[
+        "club",
+        "health",
+        "studio",
+        "gymnasium"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872531,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2pE9RmdsuGYLm0cT0cGMgb_41.237122_-96.119432@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298950,
+    "wof:geomhash":"0877daafd6ade5140a69705bea3a8e8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872531,
+            "region_id":85688563,
+            "venue_id":873856843
+        }
+    ],
+    "wof:id":873856843,
+    "wof:lastmodified":1464298950,
+    "wof:name":"Shape Express",
+    "wof:parent_id":85872531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club",
+        "health",
+        "studio",
+        "gymnasium"
+    ]
+},
+  "bbox": [
+    -96.119432,
+    41.237122,
+    -96.119432,
+    41.237122
+],
+  "geometry": {"coordinates":[-96.119432,41.237122],"type":"Point"}
+}

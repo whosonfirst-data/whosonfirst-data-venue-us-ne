@@ -1,0 +1,82 @@
+{
+  "id": 873852063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.645396,40.782626,-96.645396,40.782626",
+    "geom:latitude":40.782626,
+    "geom:longitude":-96.645396,
+    "iso:country":"US",
+    "sg:address":"5411 Otoe St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 450 5655",
+    "sg:postcode":"68506",
+    "sg:province":"NE",
+    "sg:tags":[
+        "merchandise",
+        "auctioneer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85811821,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2QZApYsRgRxcjIVGvFy72E_40.782626_-96.645396@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298852,
+    "wof:geomhash":"08aa4f0d69298e830e27e15d81b2d5f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85811821,
+            "region_id":85688563,
+            "venue_id":873852063
+        }
+    ],
+    "wof:id":873852063,
+    "wof:lastmodified":1464298852,
+    "wof:name":"Antelope Creek Auctions",
+    "wof:parent_id":85811821,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "merchandise",
+        "auctioneer"
+    ]
+},
+  "bbox": [
+    -96.645396,
+    40.782626,
+    -96.645396,
+    40.782626
+],
+  "geometry": {"coordinates":[-96.64539600000001,40.782626],"type":"Point"}
+}

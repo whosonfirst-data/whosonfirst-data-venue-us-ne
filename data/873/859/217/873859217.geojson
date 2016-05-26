@@ -1,0 +1,73 @@
+{
+  "id": 873859217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.948543,41.16345,-95.948543,41.16345",
+    "geom:latitude":41.16345,
+    "geom:longitude":-95.948543,
+    "iso:country":"US",
+    "sg:address":"9403 S 25th Ave",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 289 3226",
+    "sg:postcode":"68147",
+    "sg:province":"NE",
+    "sg:tags":[
+        "programing",
+        "custom"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85821583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5y6wOPXEQhdAHKSYRR3DZl_41.163450_-95.948543@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299001,
+    "wof:geomhash":"ec87db925dce7da3f6b8c2d0dad1305c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85821583,
+            "region_id":85688563,
+            "venue_id":873859217
+        }
+    ],
+    "wof:id":873859217,
+    "wof:lastmodified":1464299001,
+    "wof:name":"Comtech Inc",
+    "wof:parent_id":85821583,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "programing",
+        "custom"
+    ]
+},
+  "bbox": [
+    -95.948543,
+    41.16345,
+    -95.948543,
+    41.16345
+],
+  "geometry": {"coordinates":[-95.948543,41.16345],"type":"Point"}
+}

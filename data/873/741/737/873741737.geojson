@@ -1,0 +1,71 @@
+{
+  "id": 873741737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.056534,41.319013,-96.056534,41.319013",
+    "geom:latitude":41.319013,
+    "geom:longitude":-96.056534,
+    "iso:country":"US",
+    "sg:address":"6400 N 91st Plz",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 572 1185",
+    "sg:postcode":"68134",
+    "sg:province":"NE",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85872505,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3jbg5qNObQKrLH2X357jRs_41.319013_-96.056534@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296950,
+    "wof:geomhash":"4896b2efef83cc264780547ca3bb85e9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":873741737
+        }
+    ],
+    "wof:id":873741737,
+    "wof:lastmodified":1464296950,
+    "wof:name":"Irvington Mini-Storage",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -96.056534,
+    41.319013,
+    -96.056534,
+    41.319013
+],
+  "geometry": {"coordinates":[-96.056534,41.319013],"type":"Point"}
+}

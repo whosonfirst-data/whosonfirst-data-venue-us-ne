@@ -1,0 +1,73 @@
+{
+  "id": 873835451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.090147,41.315553,-96.090147,41.315553",
+    "geom:latitude":41.315553,
+    "geom:longitude":-96.090147,
+    "iso:country":"US",
+    "sg:address":"6314 N 115th Ave Cir",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 498 8737",
+    "sg:postcode":"68164",
+    "sg:province":"NE",
+    "sg:tags":[
+        "retail",
+        "direct",
+        "sales"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85872505,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Gi8w30v9tY15hqxWhLyFi_41.315553_-96.090147@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298454,
+    "wof:geomhash":"abb3e983dfc7f1b2dab07f226ac3db5e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":873835451
+        }
+    ],
+    "wof:id":873835451,
+    "wof:lastmodified":1464298454,
+    "wof:name":"Mary Kay Cosmetics",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "retail",
+        "direct",
+        "sales"
+    ]
+},
+  "bbox": [
+    -96.090147,
+    41.315553,
+    -96.090147,
+    41.315553
+],
+  "geometry": {"coordinates":[-96.090147,41.315553],"type":"Point"}
+}

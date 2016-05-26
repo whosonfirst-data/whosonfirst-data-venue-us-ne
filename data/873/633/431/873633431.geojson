@@ -1,0 +1,71 @@
+{
+  "id": 873633431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.914945,41.147909,-95.914945,41.147909",
+    "geom:latitude":41.147909,
+    "geom:longitude":-95.914945,
+    "iso:country":"US",
+    "sg:address":"1308 Galvin Rd S",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 292 7700",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85821583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Ycwxt04VXS4ahP0B40HZe_41.147909_-95.914945@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295405,
+    "wof:geomhash":"025aab653a143c55566ecd49629f2ee0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85821583,
+            "region_id":85688563,
+            "venue_id":873633431
+        }
+    ],
+    "wof:id":873633431,
+    "wof:lastmodified":1464295405,
+    "wof:name":"Steffi A Swanson",
+    "wof:parent_id":85821583,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -95.914945,
+    41.147909,
+    -95.914945,
+    41.147909
+],
+  "geometry": {"coordinates":[-95.914945,41.147909],"type":"Point"}
+}

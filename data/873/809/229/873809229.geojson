@@ -1,0 +1,79 @@
+{
+  "id": 873809229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.975732,41.279736,-95.975732,41.279736",
+    "geom:latitude":41.279736,
+    "geom:longitude":-95.975732,
+    "iso:country":"US",
+    "sg:address":"4000 Grant St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 553 6531",
+    "sg:postcode":"68111",
+    "sg:province":"NE",
+    "sg:tags":[
+        "cell",
+        "tower",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872525,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_14P7hAHwmBzFyTKs5gUg1K_41.279736_-95.975732@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297914,
+    "wof:geomhash":"c0d3db0864cd9a0a0e90ac56c6c8ab37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872525,
+            "region_id":85688563,
+            "venue_id":873809229
+        }
+    ],
+    "wof:id":873809229,
+    "wof:lastmodified":1464297914,
+    "wof:name":"Whitney Construction Inc",
+    "wof:parent_id":85872525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cell",
+        "tower",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -95.975732,
+    41.279736,
+    -95.975732,
+    41.279736
+],
+  "geometry": {"coordinates":[-95.97573199999999,41.279736],"type":"Point"}
+}

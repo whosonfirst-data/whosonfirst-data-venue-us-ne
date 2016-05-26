@@ -1,0 +1,76 @@
+{
+  "id": 873616177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.053453,41.317777,-96.053453,41.317777",
+    "geom:latitude":41.317777,
+    "geom:longitude":-96.053453,
+    "iso:country":"US",
+    "sg:address":"6614 Irvington Rd",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 571 9454",
+    "sg:postcode":"68122",
+    "sg:province":"NE",
+    "sg:tags":[
+        "control",
+        "temperature",
+        "install",
+        "system"
+    ],
+    "sg:website":"www.cmiomaha.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85872505,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4UQjFoUxfHV8AkTGLmeJjZ_41.317777_-96.053453@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295207,
+    "wof:geomhash":"d434994e730a44f8287ac94bf5c07c39",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":873616177
+        }
+    ],
+    "wof:id":873616177,
+    "wof:lastmodified":1464295207,
+    "wof:name":"Control Management Inc",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "control",
+        "temperature",
+        "install",
+        "system"
+    ]
+},
+  "bbox": [
+    -96.053453,
+    41.317777,
+    -96.053453,
+    41.317777
+],
+  "geometry": {"coordinates":[-96.053453,41.317777],"type":"Point"}
+}

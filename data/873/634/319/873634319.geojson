@@ -1,0 +1,80 @@
+{
+  "id": 873634319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.684571,40.790169,-96.684571,40.790169",
+    "geom:latitude":40.790169,
+    "geom:longitude":-96.684571,
+    "iso:country":"US",
+    "sg:address":"2230 Sheridan Blvd",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 476 5620",
+    "sg:postcode":"68502",
+    "sg:province":"NE",
+    "sg:tags":[
+        "inspection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878727,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4KgyoyDyb2ZDC1n8qAJ97c_40.790169_-96.684571@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295416,
+    "wof:geomhash":"0f9abbf366fc8a6f1c2a688497bec479",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878727,
+            "region_id":85688563,
+            "venue_id":873634319
+        }
+    ],
+    "wof:id":873634319,
+    "wof:lastmodified":1464295416,
+    "wof:name":"James Edstrom Prof Inspections",
+    "wof:parent_id":85878727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "inspection"
+    ]
+},
+  "bbox": [
+    -96.684571,
+    40.790169,
+    -96.684571,
+    40.790169
+],
+  "geometry": {"coordinates":[-96.68457100000001,40.790169],"type":"Point"}
+}

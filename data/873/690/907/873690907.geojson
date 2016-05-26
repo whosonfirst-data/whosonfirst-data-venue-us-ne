@@ -1,0 +1,77 @@
+{
+  "id": 873690907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.695783,40.814795,-96.695783,40.814795",
+    "geom:latitude":40.814795,
+    "geom:longitude":-96.695783,
+    "iso:country":"US",
+    "sg:address":"1744 P St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 476 1616",
+    "sg:postcode":"68508",
+    "sg:province":"NE",
+    "sg:tags":[
+        "automotive",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878699,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_20cC865YcVJxFwIN98P63u_40.814795_-96.695783@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296297,
+    "wof:geomhash":"c1e7ad0509c72750fe9650885c9ea59b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878699,
+            "region_id":85688563,
+            "venue_id":873690907
+        }
+    ],
+    "wof:id":873690907,
+    "wof:lastmodified":1464296297,
+    "wof:name":"Pickering Automotive",
+    "wof:parent_id":85878699,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "general"
+    ]
+},
+  "bbox": [
+    -96.695783,
+    40.814795,
+    -96.695783,
+    40.814795
+],
+  "geometry": {"coordinates":[-96.69578300000001,40.814795],"type":"Point"}
+}

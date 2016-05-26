@@ -1,0 +1,69 @@
+{
+  "id": 873889417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.121534,41.302926,-96.121534,41.302926",
+    "geom:latitude":41.302926,
+    "geom:longitude":-96.121534,
+    "iso:country":"US",
+    "sg:address":"13302 Larimore Ave",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 991 6611",
+    "sg:postcode":"68164",
+    "sg:province":"NE",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85872505,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6j6TpNWAMd2oM6KU650vXT_41.302926_-96.121534@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299616,
+    "wof:geomhash":"d338e0d064df07b5a969eedb9c5a8061",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":873889417
+        }
+    ],
+    "wof:id":873889417,
+    "wof:lastmodified":1464299616,
+    "wof:name":"Larimore Apartments",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -96.121534,
+    41.302926,
+    -96.121534,
+    41.302926
+],
+  "geometry": {"coordinates":[-96.121534,41.302926],"type":"Point"}
+}

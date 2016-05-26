@@ -1,0 +1,77 @@
+{
+  "id": 873793543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.040111,41.263748,-96.040111,41.263748",
+    "geom:latitude":41.263748,
+    "geom:longitude":-96.040111,
+    "iso:country":"US",
+    "sg:address":"1005 N 83rd St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 399 8011",
+    "sg:postcode":"68114",
+    "sg:province":"NE",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872509,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5YaQbuhKLeL0RwNQFA1Mzx_41.263748_-96.040111@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297697,
+    "wof:geomhash":"b0068a3aff3ff65b89cf7ddaa7891f5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872509,
+            "region_id":85688563,
+            "venue_id":873793543
+        }
+    ],
+    "wof:id":873793543,
+    "wof:lastmodified":1464297697,
+    "wof:name":"Hinkel Concrete Removal",
+    "wof:parent_id":85872509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.040111,
+    41.263748,
+    -96.040111,
+    41.263748
+],
+  "geometry": {"coordinates":[-96.040111,41.263748],"type":"Point"}
+}

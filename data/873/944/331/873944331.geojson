@@ -1,0 +1,69 @@
+{
+  "id": 873944331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.111041,41.311887,-96.111041,41.311887",
+    "geom:latitude":41.311887,
+    "geom:longitude":-96.111041,
+    "iso:country":"US",
+    "sg:address":"6017 N 126th Ave",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 498 9206",
+    "sg:postcode":"68164",
+    "sg:province":"NE",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85872505,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ef7hJnEds0KG7xU9fqvfu_41.311887_-96.111041@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300857,
+    "wof:geomhash":"44afe969ca07364b81cbed19facb2ab4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":873944331
+        }
+    ],
+    "wof:id":873944331,
+    "wof:lastmodified":1464300857,
+    "wof:name":"Zupfer Bryan Smith & Stev",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.111041,
+    41.311887,
+    -96.111041,
+    41.311887
+],
+  "geometry": {"coordinates":[-96.111041,41.311887],"type":"Point"}
+}

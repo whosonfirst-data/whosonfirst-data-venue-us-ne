@@ -1,0 +1,71 @@
+{
+  "id": 873794309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.918017,41.158298,-95.918017,41.158298",
+    "geom:latitude":41.158298,
+    "geom:longitude":-95.918017,
+    "iso:country":"US",
+    "sg:address":"202 Kings Dr",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Life Insurance",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 291 1613",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "carrier"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85804025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0LNyXDl45LHDR3WZWel3e2_41.158298_-95.918017@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297707,
+    "wof:geomhash":"a19084a80fcdb95bb474f4d4d7461b39",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85804025,
+            "region_id":85688563,
+            "venue_id":873794309
+        }
+    ],
+    "wof:id":873794309,
+    "wof:lastmodified":1464297707,
+    "wof:name":"Artice M Peterson Insuran",
+    "wof:parent_id":85804025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carrier"
+    ]
+},
+  "bbox": [
+    -95.918017,
+    41.158298,
+    -95.918017,
+    41.158298
+],
+  "geometry": {"coordinates":[-95.91801700000001,41.158298],"type":"Point"}
+}

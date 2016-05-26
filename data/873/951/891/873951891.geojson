@@ -1,0 +1,75 @@
+{
+  "id": 873951891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.778966,40.857305,-96.778966,40.857305",
+    "geom:latitude":40.857305,
+    "geom:longitude":-96.778966,
+    "iso:country":"US",
+    "sg:address":"4420 NW 41st St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Jail",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 441 7133",
+    "sg:postcode":"68524",
+    "sg:province":"NE",
+    "sg:tags":[
+        "county",
+        "govt",
+        "institution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5hwySzsNBxZFUZKLafMtHW_40.857305_-96.778966@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464301212,
+    "wof:geomhash":"fcc819c35a6a59094ce1fe8f75cb766a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878717,
+            "region_id":85688563,
+            "venue_id":873951891
+        }
+    ],
+    "wof:id":873951891,
+    "wof:lastmodified":1464301212,
+    "wof:name":"Lancaster Correctional Fclty",
+    "wof:parent_id":85878717,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "county",
+        "govt",
+        "institution"
+    ]
+},
+  "bbox": [
+    -96.778966,
+    40.857305,
+    -96.778966,
+    40.857305
+],
+  "geometry": {"coordinates":[-96.778966,40.857305],"type":"Point"}
+}

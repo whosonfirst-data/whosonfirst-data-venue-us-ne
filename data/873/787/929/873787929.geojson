@@ -1,0 +1,69 @@
+{
+  "id": 873787929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.075945,41.308283,-96.075945,41.308283",
+    "geom:latitude":41.308283,
+    "geom:longitude":-96.075945,
+    "iso:country":"US",
+    "sg:address":"10318 Ellison Cir",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 964 7494",
+    "sg:postcode":"68134",
+    "sg:province":"NE",
+    "sg:tags":[
+        "drinking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85872505,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7OKWAfpvajzjBt9cwV3eS5_41.308283_-96.075945@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297612,
+    "wof:geomhash":"acae1c6b14e668a4f5d4a9fd93474e8a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":873787929
+        }
+    ],
+    "wof:id":873787929,
+    "wof:lastmodified":1464297612,
+    "wof:name":"Goldeez",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drinking"
+    ]
+},
+  "bbox": [
+    -96.075945,
+    41.308283,
+    -96.075945,
+    41.308283
+],
+  "geometry": {"coordinates":[-96.075945,41.308283],"type":"Point"}
+}

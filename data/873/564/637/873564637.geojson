@@ -1,0 +1,75 @@
+{
+  "id": 873564637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.025817,41.226779,-96.025817,41.226779",
+    "geom:latitude":41.226779,
+    "geom:longitude":-96.025817,
+    "iso:country":"US",
+    "sg:address":"7325 Ontario St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 614 2580",
+    "sg:postcode":"68124",
+    "sg:province":"NE",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867059,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_75vKK2pjUk2pQLjZWIqeuM_41.226779_-96.025817@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294551,
+    "wof:geomhash":"6b236db450a147dab5677902ac450190",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85867059,
+            "region_id":85688563,
+            "venue_id":873564637
+        }
+    ],
+    "wof:id":873564637,
+    "wof:lastmodified":1464294551,
+    "wof:name":"Ontario Place Apartments",
+    "wof:parent_id":85867059,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -96.025817,
+    41.226779,
+    -96.025817,
+    41.226779
+],
+  "geometry": {"coordinates":[-96.025817,41.226779],"type":"Point"}
+}

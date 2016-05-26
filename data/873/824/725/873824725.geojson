@@ -1,0 +1,86 @@
+{
+  "id": 873824725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.081324,41.201049,-96.081324,41.201049",
+    "geom:latitude":41.201049,
+    "geom:longitude":-96.081324,
+    "iso:country":"US",
+    "sg:address":"5701 S 108th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Art Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 331 9514",
+    "sg:postcode":"68137",
+    "sg:province":"NE",
+    "sg:tags":[
+        "photo",
+        "photography",
+        "commercial",
+        "photographer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872531,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0eifmSRqwRzn6hrM8lzArw_41.201049_-96.081324@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298227,
+    "wof:geomhash":"46eafc4520aed3e406f293f4ade19f80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872531,
+            "region_id":85688563,
+            "venue_id":873824725
+        }
+    ],
+    "wof:id":873824725,
+    "wof:lastmodified":1464298227,
+    "wof:name":"Deyo's Photography",
+    "wof:parent_id":85872531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photo",
+        "photography",
+        "commercial",
+        "photographer"
+    ]
+},
+  "bbox": [
+    -96.081324,
+    41.201049,
+    -96.081324,
+    41.201049
+],
+  "geometry": {"coordinates":[-96.081324,41.201049],"type":"Point"}
+}

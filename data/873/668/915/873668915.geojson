@@ -1,0 +1,79 @@
+{
+  "id": 873668915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-98.337188,40.916644,-98.337188,40.916644",
+    "geom:latitude":40.916644,
+    "geom:longitude":-98.337188,
+    "iso:country":"US",
+    "sg:address":"204 E Bismark Rd",
+    "sg:city":"Grand Island",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 308 382 7950",
+    "sg:postcode":"68801",
+    "sg:province":"NE",
+    "sg:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85840711,
+        102191575,
+        404518499,
+        85633793,
+        85973941,
+        102083477,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4bmLOSwRIB0GSyILGDz44o_40.916644_-98.337188@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295789,
+    "wof:geomhash":"190a08453fd6cddf18c4872b30eaaaf5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083477,
+            "localadmin_id":404518499,
+            "locality_id":85973941,
+            "neighbourhood_id":85840711,
+            "region_id":85688563,
+            "venue_id":873668915
+        }
+    ],
+    "wof:id":873668915,
+    "wof:lastmodified":1464295789,
+    "wof:name":"Land Of Paws",
+    "wof:parent_id":85840711,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ]
+},
+  "bbox": [
+    -98.337188,
+    40.916644,
+    -98.337188,
+    40.916644
+],
+  "geometry": {"coordinates":[-98.337188,40.916644],"type":"Point"}
+}

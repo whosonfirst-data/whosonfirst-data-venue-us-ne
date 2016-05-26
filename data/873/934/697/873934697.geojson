@@ -1,0 +1,71 @@
+{
+  "id": 873934697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.175667,41.152286,-96.175667,41.152286",
+    "geom:latitude":41.152286,
+    "geom:longitude":-96.175667,
+    "iso:country":"US",
+    "sg:address":"16439 Summit Dr",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 896 6060",
+    "sg:postcode":"68136",
+    "sg:province":"NE",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85834285,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4UEjCXEmZ7kU6aT9XuOn2d_41.152286_-96.175667@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300492,
+    "wof:geomhash":"9ca0df6981bbae030718ef67eea451bf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85834285,
+            "region_id":85688563,
+            "venue_id":873934697
+        }
+    ],
+    "wof:id":873934697,
+    "wof:lastmodified":1464300492,
+    "wof:name":"Ak-Sar-Ben Electric",
+    "wof:parent_id":85834285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.175667,
+    41.152286,
+    -96.175667,
+    41.152286
+],
+  "geometry": {"coordinates":[-96.175667,41.152286],"type":"Point"}
+}

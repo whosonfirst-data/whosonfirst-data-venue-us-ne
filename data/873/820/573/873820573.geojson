@@ -1,0 +1,73 @@
+{
+  "id": 873820573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.612476,40.78893,-96.612476,40.78893",
+    "geom:latitude":40.78893,
+    "geom:longitude":-96.612476,
+    "iso:country":"US",
+    "sg:address":"7801 Lake St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Research",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 560 2988",
+    "sg:postcode":"68506",
+    "sg:province":"NE",
+    "sg:tags":[
+        "management",
+        "lake"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_60vdFJXrloNWOXiPsnuYNs_40.788930_-96.612476@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298130,
+    "wof:geomhash":"5b046e19410e01e0da0f5b4199507fef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878697,
+            "region_id":85688563,
+            "venue_id":873820573
+        }
+    ],
+    "wof:id":873820573,
+    "wof:lastmodified":1464298130,
+    "wof:name":"M D Aquatics",
+    "wof:parent_id":85878697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "management",
+        "lake"
+    ]
+},
+  "bbox": [
+    -96.612476,
+    40.78893,
+    -96.612476,
+    40.78893
+],
+  "geometry": {"coordinates":[-96.612476,40.78893],"type":"Point"}
+}

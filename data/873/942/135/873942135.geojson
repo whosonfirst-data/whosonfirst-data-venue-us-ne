@@ -1,0 +1,86 @@
+{
+  "id": 873942135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.045273,41.219813,-96.045273,41.219813",
+    "geom:latitude":41.219813,
+    "geom:longitude":-96.045273,
+    "iso:country":"US",
+    "sg:address":"8646 F St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 331 5472",
+    "sg:postcode":"68127",
+    "sg:province":"NE",
+    "sg:tags":[
+        "a",
+        "home",
+        "hospital",
+        "rental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872511,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3G7AzslPicD0E8lvmig1i7_41.219813_-96.045273@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300773,
+    "wof:geomhash":"978e556912d5e53b678dd769a5846e67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872511,
+            "region_id":85688563,
+            "venue_id":873942135
+        }
+    ],
+    "wof:id":873942135,
+    "wof:lastmodified":1464300773,
+    "wof:name":"P S I Health Care Inc",
+    "wof:parent_id":85872511,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "a",
+        "home",
+        "hospital",
+        "rental"
+    ]
+},
+  "bbox": [
+    -96.045273,
+    41.219813,
+    -96.045273,
+    41.219813
+],
+  "geometry": {"coordinates":[-96.04527299999999,41.219813],"type":"Point"}
+}

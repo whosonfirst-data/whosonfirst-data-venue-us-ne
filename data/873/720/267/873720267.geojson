@@ -1,0 +1,71 @@
+{
+  "id": 873720267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.116701,41.313409,-96.116701,41.313409",
+    "geom:latitude":41.313409,
+    "geom:longitude":-96.116701,
+    "iso:country":"US",
+    "sg:address":"13011 Crown Point Ave",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 898 7108",
+    "sg:postcode":"68164",
+    "sg:province":"NE",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85872505,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4IvcMOi4MQfTnfwWTa3krh_41.313409_-96.116701@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296655,
+    "wof:geomhash":"c99528aeb4857e9f23d212bddef0b01d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":873720267
+        }
+    ],
+    "wof:id":873720267,
+    "wof:lastmodified":1464296655,
+    "wof:name":"Valley Boys",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.116701,
+    41.313409,
+    -96.116701,
+    41.313409
+],
+  "geometry": {"coordinates":[-96.11670100000001,41.313409],"type":"Point"}
+}

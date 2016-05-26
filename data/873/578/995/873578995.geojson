@@ -1,0 +1,82 @@
+{
+  "id": 873578995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.72038,40.801738,-96.72038,40.801738",
+    "geom:latitude":40.801738,
+    "geom:longitude":-96.72038,
+    "iso:country":"US",
+    "sg:address":"1125 S 1st St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Wood Products",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 438 0402",
+    "sg:postcode":"68502",
+    "sg:province":"NE",
+    "sg:tags":[
+        "mfg",
+        "woodworker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878737,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Ek9r1l8IdKBb66lEGkBYP_40.801738_-96.720380@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294705,
+    "wof:geomhash":"552a6ffe934463a522c27417e9b61713",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878737,
+            "region_id":85688563,
+            "venue_id":873578995
+        }
+    ],
+    "wof:id":873578995,
+    "wof:lastmodified":1464294705,
+    "wof:name":"Alexander's Specialty Werks",
+    "wof:parent_id":85878737,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg",
+        "woodworker"
+    ]
+},
+  "bbox": [
+    -96.72038,
+    40.801738,
+    -96.72038,
+    40.801738
+],
+  "geometry": {"coordinates":[-96.72038000000001,40.801738],"type":"Point"}
+}

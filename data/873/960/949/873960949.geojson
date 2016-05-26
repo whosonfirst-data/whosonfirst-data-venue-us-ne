@@ -1,0 +1,71 @@
+{
+  "id": 873960949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.955026,41.109621,-95.955026,41.109621",
+    "geom:latitude":41.109621,
+    "geom:longitude":-95.955026,
+    "iso:country":"US",
+    "sg:address":"2902 Blackhawk Dr",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 292 5420",
+    "sg:postcode":"68123",
+    "sg:province":"NE",
+    "sg:tags":[
+        "drinking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974747,
+        102082777,
+        85820061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_77x5ppKtQsassUAjUWJDcl_41.109621_-95.955026@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464301574,
+    "wof:geomhash":"312f8bce052ddb9f3b830486bd2520ff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974747,
+            "neighbourhood_id":85820061,
+            "region_id":85688563,
+            "venue_id":873960949
+        }
+    ],
+    "wof:id":873960949,
+    "wof:lastmodified":1464301574,
+    "wof:name":"Rf Phantom Inc",
+    "wof:parent_id":85820061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drinking"
+    ]
+},
+  "bbox": [
+    -95.955026,
+    41.109621,
+    -95.955026,
+    41.109621
+],
+  "geometry": {"coordinates":[-95.955026,41.109621],"type":"Point"}
+}

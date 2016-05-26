@@ -1,0 +1,77 @@
+{
+  "id": 873743501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.231015,41.27155,-96.231015,41.27155",
+    "geom:latitude":41.27155,
+    "geom:longitude":-96.231015,
+    "iso:country":"US",
+    "sg:address":"20129 Gate Dancer St",
+    "sg:city":"Elkhorn",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 289 2117",
+    "sg:postcode":"68022",
+    "sg:province":"NE",
+    "sg:tags":[
+        "recreational",
+        "vehicle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85868921,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6PDq75JMKGrS6SK4X2pTD9_41.271550_-96.231015@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296979,
+    "wof:geomhash":"a427ab5e5cee0fc77a75712c637317c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85868921,
+            "region_id":85688563,
+            "venue_id":873743501
+        }
+    ],
+    "wof:id":873743501,
+    "wof:lastmodified":1464296979,
+    "wof:name":"Petersen RV Svc",
+    "wof:parent_id":85868921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "recreational",
+        "vehicle"
+    ]
+},
+  "bbox": [
+    -96.231015,
+    41.27155,
+    -96.231015,
+    41.27155
+],
+  "geometry": {"coordinates":[-96.231015,41.27155],"type":"Point"}
+}

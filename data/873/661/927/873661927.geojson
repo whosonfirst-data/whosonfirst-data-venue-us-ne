@@ -1,0 +1,69 @@
+{
+  "id": 873661927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.834758,40.791282,-96.834758,40.791282",
+    "geom:latitude":40.791282,
+    "geom:longitude":-96.834758,
+    "iso:country":"US",
+    "sg:address":"1750 SW 84th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 476 5544",
+    "sg:postcode":"68532",
+    "sg:province":"NE",
+    "sg:tags":[
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85813295,
+        102083503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_53IJIOIsFX3gNWWfuBad5N_40.791282_-96.834758@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295718,
+    "wof:geomhash":"cc6e7f976797f930b931df7dd1291318",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "neighbourhood_id":85813295,
+            "region_id":85688563,
+            "venue_id":873661927
+        }
+    ],
+    "wof:id":873661927,
+    "wof:lastmodified":1464295718,
+    "wof:name":"Performance Truck Sales Inc",
+    "wof:parent_id":85813295,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [
+    -96.834758,
+    40.791282,
+    -96.834758,
+    40.791282
+],
+  "geometry": {"coordinates":[-96.83475799999999,40.791282],"type":"Point"}
+}

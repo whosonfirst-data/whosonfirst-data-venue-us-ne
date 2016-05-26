@@ -1,0 +1,71 @@
+{
+  "id": 873685811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.156508,41.150238,-96.156508,41.150238",
+    "geom:latitude":41.150238,
+    "geom:longitude":-96.156508,
+    "iso:country":"US",
+    "sg:address":"11109 Sapp Brothers Dr",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 332 2842",
+    "sg:postcode":"68138",
+    "sg:province":"NE",
+    "sg:tags":[
+        "recreational",
+        "vehicle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85834285,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5A42kZrXZTJHNWn8Ywk95y_41.150238_-96.156508@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296160,
+    "wof:geomhash":"85d04edbbb2ca88f11bb87e9f307e543",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85834285,
+            "region_id":85688563,
+            "venue_id":873685811
+        }
+    ],
+    "wof:id":873685811,
+    "wof:lastmodified":1464296160,
+    "wof:name":"Preferred Rv",
+    "wof:parent_id":85834285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "recreational",
+        "vehicle"
+    ]
+},
+  "bbox": [
+    -96.156508,
+    41.150238,
+    -96.156508,
+    41.150238
+],
+  "geometry": {"coordinates":[-96.156508,41.150238],"type":"Point"}
+}

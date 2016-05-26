@@ -1,0 +1,71 @@
+{
+  "id": 873898921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.14664,41.161563,-96.14664,41.161563",
+    "geom:latitude":41.161563,
+    "geom:longitude":-96.14664,
+    "iso:country":"US",
+    "sg:address":"9918 S 148th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 895 0922",
+    "sg:postcode":"68138",
+    "sg:province":"NE",
+    "sg:tags":[
+        "painting",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85834285,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4UKMoifHcKgvvTLX1pG5sF_41.161563_-96.146640@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299798,
+    "wof:geomhash":"8260973aa1baa6ee37f29a64aeccc563",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85834285,
+            "region_id":85688563,
+            "venue_id":873898921
+        }
+    ],
+    "wof:id":873898921,
+    "wof:lastmodified":1464299798,
+    "wof:name":"Interior Finishes Inc",
+    "wof:parent_id":85834285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painting",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.14664,
+    41.161563,
+    -96.14664,
+    41.161563
+],
+  "geometry": {"coordinates":[-96.14664,41.161563],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 873967893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.963501,41.254299,-95.963501,41.254299",
+    "geom:latitude":41.254299,
+    "geom:longitude":-95.963501,
+    "iso:country":"US",
+    "sg:address":"3424 Jackson St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 342 3020",
+    "sg:postcode":"68105",
+    "sg:province":"NE",
+    "sg:tags":[
+        "shop",
+        "music",
+        "dvd's",
+        "tobacco"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872525,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_10zCw9CICBreq7GUc1smCi_41.254281_-95.963534@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464301911,
+    "wof:geomhash":"189520f68c903340b87521e77672662d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872525,
+            "region_id":85688563,
+            "venue_id":873967893
+        }
+    ],
+    "wof:id":873967893,
+    "wof:lastmodified":1464301911,
+    "wof:name":"Cool Stuff",
+    "wof:parent_id":85872525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "music",
+        "dvd's",
+        "tobacco"
+    ]
+},
+  "bbox": [
+    -95.963501,
+    41.254299,
+    -95.963501,
+    41.254299
+],
+  "geometry": {"coordinates":[-95.96350099999999,41.254299],"type":"Point"}
+}

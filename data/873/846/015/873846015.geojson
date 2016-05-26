@@ -1,0 +1,71 @@
+{
+  "id": 873846015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.92559,41.171997,-95.92559,41.171997",
+    "geom:latitude":41.171997,
+    "geom:longitude":-95.92559,
+    "iso:country":"US",
+    "sg:address":"702 Fort Crook Rd N",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 291 9800",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "intermediate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85804025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_64AbTyMk6cx1kojf1AlA11_41.171997_-95.925590@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298703,
+    "wof:geomhash":"beb7e5b0dde4b959c63a20fefa1005b7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85804025,
+            "region_id":85688563,
+            "venue_id":873846015
+        }
+    ],
+    "wof:id":873846015,
+    "wof:lastmodified":1464298703,
+    "wof:name":"Richmont Village Ind Living",
+    "wof:parent_id":85804025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "intermediate"
+    ]
+},
+  "bbox": [
+    -95.92559,
+    41.171997,
+    -95.92559,
+    41.171997
+],
+  "geometry": {"coordinates":[-95.92559,41.171997],"type":"Point"}
+}

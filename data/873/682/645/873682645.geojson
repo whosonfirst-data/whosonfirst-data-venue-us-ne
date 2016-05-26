@@ -1,0 +1,77 @@
+{
+  "id": 873682645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.967516,41.255226,-95.967516,41.255226",
+    "geom:latitude":41.255226,
+    "geom:longitude":-95.967516,
+    "iso:country":"US",
+    "sg:address":"535 S 37th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 346 7757",
+    "sg:postcode":"68105",
+    "sg:province":"NE",
+    "sg:tags":[
+        "repairing",
+        "organs"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872525,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2X8c4ejFfgzIWysjuY1fVc_41.255226_-95.967516@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296071,
+    "wof:geomhash":"c7497591fc3d425098a2b2d2e4dafd44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872525,
+            "region_id":85688563,
+            "venue_id":873682645
+        }
+    ],
+    "wof:id":873682645,
+    "wof:lastmodified":1464296071,
+    "wof:name":"Conn Organ Svc",
+    "wof:parent_id":85872525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "organs"
+    ]
+},
+  "bbox": [
+    -95.967516,
+    41.255226,
+    -95.967516,
+    41.255226
+],
+  "geometry": {"coordinates":[-95.967516,41.255226],"type":"Point"}
+}

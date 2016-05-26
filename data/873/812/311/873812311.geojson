@@ -1,0 +1,73 @@
+{
+  "id": 873812311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.594163,40.724595,-96.594163,40.724595",
+    "geom:latitude":40.724595,
+    "geom:longitude":-96.594163,
+    "iso:country":"US",
+    "sg:address":"8610 Smith St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 423 2884",
+    "sg:postcode":"68526",
+    "sg:province":"NE",
+    "sg:tags":[
+        "prepackaged",
+        "software"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3h53boaK1EPkpUHJt5VNJy_40.724595_-96.594163@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297966,
+    "wof:geomhash":"74a7b2196976f3bf8f0d5360cd5274ae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878685,
+            "region_id":85688563,
+            "venue_id":873812311
+        }
+    ],
+    "wof:id":873812311,
+    "wof:lastmodified":1464297966,
+    "wof:name":"Ebytz LLC",
+    "wof:parent_id":85878685,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "prepackaged",
+        "software"
+    ]
+},
+  "bbox": [
+    -96.594163,
+    40.724595,
+    -96.594163,
+    40.724595
+],
+  "geometry": {"coordinates":[-96.59416299999999,40.724595],"type":"Point"}
+}

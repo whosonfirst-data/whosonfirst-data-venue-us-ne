@@ -1,0 +1,74 @@
+{
+  "id": 873808089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.063198,41.320918,-96.063198,41.320918",
+    "geom:latitude":41.320918,
+    "geom:longitude":-96.063198,
+    "iso:country":"US",
+    "sg:address":"9303 Ida St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 571 6740",
+    "sg:postcode":"68122",
+    "sg:province":"NE",
+    "sg:tags":[
+        "plaza",
+        "truck",
+        "stops"
+    ],
+    "sg:website":"www.sappbrosts.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85872505,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_12RSzxuqj238Dkcjx3bNje_41.320918_-96.063198@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297893,
+    "wof:geomhash":"22b5b7978d0540ed16221974b5b510f3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":873808089
+        }
+    ],
+    "wof:id":873808089,
+    "wof:lastmodified":1464297893,
+    "wof:name":"Sapp Bros Truck Stops",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plaza",
+        "truck",
+        "stops"
+    ]
+},
+  "bbox": [
+    -96.063198,
+    41.320918,
+    -96.063198,
+    41.320918
+],
+  "geometry": {"coordinates":[-96.063198,41.320918],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 873960257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.630457,40.826921,-96.630457,40.826921",
+    "geom:latitude":40.826921,
+    "geom:longitude":-96.630457,
+    "iso:country":"US",
+    "sg:address":"1300 N 66th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 466 1771",
+    "sg:postcode":"68505",
+    "sg:province":"NE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878725,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4v2FS31yWGU9yEaN6W64LZ_40.826921_-96.630457@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464301536,
+    "wof:geomhash":"914148f5bf36ae7c612a1a0562af550f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878725,
+            "region_id":85688563,
+            "venue_id":873960257
+        }
+    ],
+    "wof:id":873960257,
+    "wof:lastmodified":1464301536,
+    "wof:name":"Cook's Cafe",
+    "wof:parent_id":85878725,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.630457,
+    40.826921,
+    -96.630457,
+    40.826921
+],
+  "geometry": {"coordinates":[-96.63045700000001,40.826921],"type":"Point"}
+}

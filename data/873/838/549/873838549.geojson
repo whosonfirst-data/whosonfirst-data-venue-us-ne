@@ -1,0 +1,71 @@
+{
+  "id": 873838549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.633049,40.857022,-96.633049,40.857022",
+    "geom:latitude":40.857022,
+    "geom:longitude":-96.633049,
+    "iso:country":"US",
+    "sg:address":"6300 Havelock Ave",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 464 5804",
+    "sg:postcode":"68507",
+    "sg:province":"NE",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85824241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5t59zJuAFk6rcbLhwYvBN7_40.857022_-96.633049@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298515,
+    "wof:geomhash":"88a07b79147cea9af9235ebf84bdaecd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85824241,
+            "region_id":85688563,
+            "venue_id":873838549
+        }
+    ],
+    "wof:id":873838549,
+    "wof:lastmodified":1464298515,
+    "wof:name":"Russ's Market",
+    "wof:parent_id":85824241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -96.633049,
+    40.857022,
+    -96.633049,
+    40.857022
+],
+  "geometry": {"coordinates":[-96.633049,40.857022],"type":"Point"}
+}

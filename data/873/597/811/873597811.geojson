@@ -1,0 +1,75 @@
+{
+  "id": 873597811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.102124,41.248709,-96.102124,41.248709",
+    "geom:latitude":41.248709,
+    "geom:longitude":-96.102124,
+    "iso:country":"US",
+    "sg:address":"12131 Pacific St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 333 1430",
+    "sg:postcode":"68154",
+    "sg:province":"NE",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872503,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_76iuNwiXEz11hm5XMNKwZd_41.248709_-96.102124@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294957,
+    "wof:geomhash":"549181ef025fc5ac7d50fac933879cca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872503,
+            "region_id":85688563,
+            "venue_id":873597811
+        }
+    ],
+    "wof:id":873597811,
+    "wof:lastmodified":1464294957,
+    "wof:name":"Camelot Cleaners",
+    "wof:parent_id":85872503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -96.102124,
+    41.248709,
+    -96.102124,
+    41.248709
+],
+  "geometry": {"coordinates":[-96.102124,41.248709],"type":"Point"}
+}

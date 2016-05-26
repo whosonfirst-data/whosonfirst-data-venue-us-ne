@@ -1,0 +1,75 @@
+{
+  "id": 873779167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.368051,41.424091,-97.368051,41.424091",
+    "geom:latitude":41.424091,
+    "geom:longitude":-97.368051,
+    "iso:country":"US",
+    "sg:address":"771 33rd Ave",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 564 0612",
+    "sg:postcode":"68601",
+    "sg:province":"NE",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974401,
+        102084277,
+        85854093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3qw5BPnzPaKLFgtcHxALyz_41.424091_-97.368051@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297478,
+    "wof:geomhash":"632b176d4c52bf6ebe5b353b74060fc9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084277,
+            "locality_id":85974401,
+            "neighbourhood_id":85854093,
+            "region_id":85688563,
+            "venue_id":873779167
+        }
+    ],
+    "wof:id":873779167,
+    "wof:lastmodified":1464297478,
+    "wof:name":"Wojcik's Automotive & Towing",
+    "wof:parent_id":85854093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -97.368051,
+    41.424091,
+    -97.368051,
+    41.424091
+],
+  "geometry": {"coordinates":[-97.36805099999999,41.424091],"type":"Point"}
+}

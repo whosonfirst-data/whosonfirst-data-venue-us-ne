@@ -1,0 +1,76 @@
+{
+  "id": 873962539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.699674,40.816936,-96.699674,40.816936",
+    "geom:latitude":40.816936,
+    "geom:longitude":-96.699674,
+    "iso:country":"US",
+    "sg:address":"1400 R St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 472 2588",
+    "sg:postcode":"68503",
+    "sg:province":"NE",
+    "sg:tags":[
+        "newspaper"
+    ],
+    "sg:website":"www.dailynebraskan.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878699,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_794JZs1XJPfADGD3SARhFt_40.816936_-96.699674@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464301673,
+    "wof:geomhash":"af6004c5e18bd4372bd2e594c47511ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878699,
+            "region_id":85688563,
+            "venue_id":873962539
+        }
+    ],
+    "wof:id":873962539,
+    "wof:lastmodified":1464301673,
+    "wof:name":"Daily Nebraskan",
+    "wof:parent_id":85878699,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "newspaper"
+    ]
+},
+  "bbox": [
+    -96.699674,
+    40.816936,
+    -96.699674,
+    40.816936
+],
+  "geometry": {"coordinates":[-96.699674,40.816936],"type":"Point"}
+}

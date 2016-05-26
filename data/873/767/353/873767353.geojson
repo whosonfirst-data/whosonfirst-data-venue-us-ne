@@ -1,0 +1,73 @@
+{
+  "id": 873767353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.91255,41.142651,-95.91255,41.142651",
+    "geom:latitude":41.142651,
+    "geom:longitude":-95.91255,
+    "iso:country":"US",
+    "sg:address":"1510 Wall St",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 291 0580",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "industry",
+        "aerospace"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85821583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_13zfLD3Ab8XxzNQ5t7m91Y_41.142651_-95.912550@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297329,
+    "wof:geomhash":"18a979f0f45afed6ea1a63b95e75f71c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85821583,
+            "region_id":85688563,
+            "venue_id":873767353
+        }
+    ],
+    "wof:id":873767353,
+    "wof:lastmodified":1464297329,
+    "wof:name":"Lockheed Martin Corp",
+    "wof:parent_id":85821583,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industry",
+        "aerospace"
+    ]
+},
+  "bbox": [
+    -95.91255,
+    41.142651,
+    -95.91255,
+    41.142651
+],
+  "geometry": {"coordinates":[-95.91255,41.142651],"type":"Point"}
+}

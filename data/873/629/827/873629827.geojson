@@ -1,0 +1,79 @@
+{
+  "id": 873629827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.090251,41.277818,-96.090251,41.277818",
+    "geom:latitude":41.277818,
+    "geom:longitude":-96.090251,
+    "iso:country":"US",
+    "sg:address":"11340 Blondo St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 498 5000",
+    "sg:postcode":"68164",
+    "sg:province":"NE",
+    "sg:tags":[
+        "reservation",
+        "motel",
+        "hotel"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872503,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4i6toGnKvgOoplHasCY3s1_41.277818_-96.090251@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295364,
+    "wof:geomhash":"0da2020a605d698e66c7d41fb044c868",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872503,
+            "region_id":85688563,
+            "venue_id":873629827
+        }
+    ],
+    "wof:id":873629827,
+    "wof:lastmodified":1464295364,
+    "wof:name":"Radisson Reservations Ctr",
+    "wof:parent_id":85872503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "reservation",
+        "motel",
+        "hotel"
+    ]
+},
+  "bbox": [
+    -96.090251,
+    41.277818,
+    -96.090251,
+    41.277818
+],
+  "geometry": {"coordinates":[-96.09025099999999,41.277818],"type":"Point"}
+}

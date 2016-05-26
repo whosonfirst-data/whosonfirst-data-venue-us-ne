@@ -1,0 +1,71 @@
+{
+  "id": 873921179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.061562,41.147409,-96.061562,41.147409",
+    "geom:latitude":41.147409,
+    "geom:longitude":-96.061562,
+    "iso:country":"US",
+    "sg:address":"910 Fort St",
+    "sg:city":"Papillion",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 657 7242",
+    "sg:postcode":"68046",
+    "sg:province":"NE",
+    "sg:tags":[
+        "dry wall",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85843697,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_48sD3lOduidYwbic5mtHQP_41.147409_-96.061562@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300230,
+    "wof:geomhash":"c2278a215f0cf6aab8e41922ee1f1d24",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85843697,
+            "region_id":85688563,
+            "venue_id":873921179
+        }
+    ],
+    "wof:id":873921179,
+    "wof:lastmodified":1464300230,
+    "wof:name":"Clark Drywall Inc",
+    "wof:parent_id":85843697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dry wall",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.061562,
+    41.147409,
+    -96.061562,
+    41.147409
+],
+  "geometry": {"coordinates":[-96.061562,41.147409],"type":"Point"}
+}

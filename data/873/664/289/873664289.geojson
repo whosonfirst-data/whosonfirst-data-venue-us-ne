@@ -1,0 +1,73 @@
+{
+  "id": 873664289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.622114,40.777176,-96.622114,40.777176",
+    "geom:latitude":40.777176,
+    "geom:longitude":-96.622114,
+    "iso:country":"US",
+    "sg:address":"3600 Holmes Park Rd",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Golf",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 488 9153",
+    "sg:postcode":"68506",
+    "sg:province":"NE",
+    "sg:tags":[
+        "course",
+        "public"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0JUbdL5BH4lzyiLgcOwext_40.777176_-96.622114@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295743,
+    "wof:geomhash":"0da02074a60e2a1f8b1515caacb6e6e3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878697,
+            "region_id":85688563,
+            "venue_id":873664289
+        }
+    ],
+    "wof:id":873664289,
+    "wof:lastmodified":1464295743,
+    "wof:name":"John O Craw",
+    "wof:parent_id":85878697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "course",
+        "public"
+    ]
+},
+  "bbox": [
+    -96.622114,
+    40.777176,
+    -96.622114,
+    40.777176
+],
+  "geometry": {"coordinates":[-96.622114,40.777176],"type":"Point"}
+}

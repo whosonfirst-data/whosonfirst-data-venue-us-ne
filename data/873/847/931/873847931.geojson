@@ -1,0 +1,77 @@
+{
+  "id": 873847931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.718904,40.812617,-96.718904,40.812617",
+    "geom:latitude":40.812617,
+    "geom:longitude":-96.718904,
+    "iso:country":"US",
+    "sg:address":"110 N St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 475 2274",
+    "sg:postcode":"68508",
+    "sg:province":"NE",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878737,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5uqJEjpVvkqDb4A59W39JI_40.812617_-96.718904@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298768,
+    "wof:geomhash":"273f017c2ae1a06aa6964e678beb2960",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878737,
+            "region_id":85688563,
+            "venue_id":873847931
+        }
+    ],
+    "wof:id":873847931,
+    "wof:lastmodified":1464298768,
+    "wof:name":"Auto Buyers",
+    "wof:parent_id":85878737,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -96.718904,
+    40.812617,
+    -96.718904,
+    40.812617
+],
+  "geometry": {"coordinates":[-96.71890399999999,40.812617],"type":"Point"}
+}

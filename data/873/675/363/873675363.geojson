@@ -1,0 +1,79 @@
+{
+  "id": 873675363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.018352,41.308203,-96.018352,41.308203",
+    "geom:latitude":41.308203,
+    "geom:longitude":-96.018352,
+    "iso:country":"US",
+    "sg:address":"5519 N 69th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 571 6082",
+    "sg:postcode":"68104",
+    "sg:province":"NE",
+    "sg:tags":[
+        "lawn",
+        "snow",
+        "removal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85805755,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6UPyJlseQxNLVgvIjUGokh_41.308203_-96.018352@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295876,
+    "wof:geomhash":"c2bde952f3aad78baf2f32f9b1fe36d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85805755,
+            "region_id":85688563,
+            "venue_id":873675363
+        }
+    ],
+    "wof:id":873675363,
+    "wof:lastmodified":1464295876,
+    "wof:name":"Douglas Harding Lawn Service",
+    "wof:parent_id":85805755,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lawn",
+        "snow",
+        "removal"
+    ]
+},
+  "bbox": [
+    -96.018352,
+    41.308203,
+    -96.018352,
+    41.308203
+],
+  "geometry": {"coordinates":[-96.01835199999999,41.308203],"type":"Point"}
+}

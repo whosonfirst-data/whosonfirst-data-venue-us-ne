@@ -1,0 +1,79 @@
+{
+  "id": 873611249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.693705,40.842824,-96.693705,40.842824",
+    "geom:latitude":40.842824,
+    "geom:longitude":-96.693705,
+    "iso:country":"US",
+    "sg:address":"1820 Cornhusker Hwy",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 435 2081",
+    "sg:postcode":"68521",
+    "sg:province":"NE",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85868917,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5uAfbZ341TNfhzMtOORw9I_40.842824_-96.693705@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295156,
+    "wof:geomhash":"ea0c66cc17ea03858a5de5d0c62592c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85868917,
+            "region_id":85688563,
+            "venue_id":873611249
+        }
+    ],
+    "wof:id":873611249,
+    "wof:lastmodified":1464295156,
+    "wof:name":"MAACO Auto Painting & Bodywork",
+    "wof:parent_id":85868917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -96.693705,
+    40.842824,
+    -96.693705,
+    40.842824
+],
+  "geometry": {"coordinates":[-96.69370499999999,40.842824],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 873714235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.71008,40.805375,-96.71008,40.805375",
+    "geom:latitude":40.805375,
+    "geom:longitude":-96.71008,
+    "iso:country":"US",
+    "sg:address":"855 S 8th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 436 1212",
+    "sg:postcode":"68508",
+    "sg:province":"NE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878705,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6LZXlzpADJgSnPTjZtZyeq_40.805375_-96.710080@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296572,
+    "wof:geomhash":"14ec47da50f82224fe6a8ace7e9a2561",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878705,
+            "region_id":85688563,
+            "venue_id":873714235
+        }
+    ],
+    "wof:id":873714235,
+    "wof:lastmodified":1464296572,
+    "wof:name":"Park Middle School",
+    "wof:parent_id":85878705,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.71008,
+    40.805375,
+    -96.71008,
+    40.805375
+],
+  "geometry": {"coordinates":[-96.71008,40.805375],"type":"Point"}
+}

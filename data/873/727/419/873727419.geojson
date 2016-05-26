@@ -1,0 +1,77 @@
+{
+  "id": 873727419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.707111,40.807111,-96.707111,40.807111",
+    "geom:latitude":40.807111,
+    "geom:longitude":-96.707111,
+    "iso:country":"US",
+    "sg:address":"575 S 10th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Court House",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 441 7321",
+    "sg:postcode":"68508",
+    "sg:province":"NE",
+    "sg:tags":[
+        "county",
+        "counsel"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878699,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0obtRKSRPMCNogiBxyZXYc_40.807111_-96.707111@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296746,
+    "wof:geomhash":"6976e4520f2d29f904606bb81d096f37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878699,
+            "region_id":85688563,
+            "venue_id":873727419
+        }
+    ],
+    "wof:id":873727419,
+    "wof:lastmodified":1464296746,
+    "wof:name":"Lancaster County Attorney",
+    "wof:parent_id":85878699,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "county",
+        "counsel"
+    ]
+},
+  "bbox": [
+    -96.707111,
+    40.807111,
+    -96.707111,
+    40.807111
+],
+  "geometry": {"coordinates":[-96.707111,40.807111],"type":"Point"}
+}

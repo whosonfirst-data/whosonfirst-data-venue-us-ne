@@ -1,0 +1,70 @@
+{
+  "id": 873611499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.983068,41.305699,-95.983068,41.305699",
+    "geom:latitude":41.305699,
+    "geom:longitude":-95.983068,
+    "iso:country":"US",
+    "sg:address":"5116 N 46th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 453 4007",
+    "sg:postcode":"68104",
+    "sg:province":"NE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85805755,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7NfsLca7Blsn9Fzo5qeZIr_41.305699_-95.983068@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295160,
+    "wof:geomhash":"37ba1f282d04ed2636974299a0a5947d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85805755,
+            "region_id":85688563,
+            "venue_id":873611499
+        }
+    ],
+    "wof:id":873611499,
+    "wof:lastmodified":1464295160,
+    "wof:name":"Unique Visions Salon",
+    "wof:parent_id":85805755,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -95.983068,
+    41.305699,
+    -95.983068,
+    41.305699
+],
+  "geometry": {"coordinates":[-95.983068,41.305699],"type":"Point"}
+}

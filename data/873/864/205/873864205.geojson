@@ -1,0 +1,75 @@
+{
+  "id": 873864205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.009332,41.294008,-96.009332,41.294008",
+    "geom:latitude":41.294008,
+    "geom:longitude":-96.009332,
+    "iso:country":"US",
+    "sg:address":"6121 Spaulding St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 451 2573",
+    "sg:postcode":"68104",
+    "sg:province":"NE",
+    "sg:tags":[
+        "inspection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85805755,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0fwxFNxetK2SW7H077YBQf_41.294008_-96.009332@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299123,
+    "wof:geomhash":"cdd9110ac9d7a8e5feaddf7ff6f81acc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85805755,
+            "region_id":85688563,
+            "venue_id":873864205
+        }
+    ],
+    "wof:id":873864205,
+    "wof:lastmodified":1464299123,
+    "wof:name":"Independent Building",
+    "wof:parent_id":85805755,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "inspection"
+    ]
+},
+  "bbox": [
+    -96.009332,
+    41.294008,
+    -96.009332,
+    41.294008
+],
+  "geometry": {"coordinates":[-96.009332,41.294008],"type":"Point"}
+}

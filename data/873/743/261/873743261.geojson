@@ -1,0 +1,71 @@
+{
+  "id": 873743261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.63643,40.706312,-96.63643,40.706312",
+    "geom:latitude":40.706312,
+    "geom:longitude":-96.63643,
+    "iso:country":"US",
+    "sg:address":"10520 Weeks Dr",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 423 2459",
+    "sg:postcode":"68516",
+    "sg:province":"NE",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85878745,
+        102083503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6H3XNui71IaCV42S7CGfpV_40.706312_-96.636430@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296975,
+    "wof:geomhash":"ddea1e91e313c31b2b03cadbe76d7c5b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "neighbourhood_id":85878745,
+            "region_id":85688563,
+            "venue_id":873743261
+        }
+    ],
+    "wof:id":873743261,
+    "wof:lastmodified":1464296975,
+    "wof:name":"WGA Concrete Construction",
+    "wof:parent_id":85878745,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.63643,
+    40.706312,
+    -96.63643,
+    40.706312
+],
+  "geometry": {"coordinates":[-96.63643,40.706312],"type":"Point"}
+}

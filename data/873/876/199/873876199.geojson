@@ -1,0 +1,66 @@
+{
+  "id": 873876199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.784384,40.836904,-96.784384,40.836904",
+    "geom:latitude":40.836904,
+    "geom:longitude":-96.784384,
+    "iso:country":"US",
+    "sg:address":"2401 NW 46th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 525 1580",
+    "sg:postcode":"68524",
+    "sg:province":"NE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3quRdTpk2aYBdqkvRVdt2R_40.836904_-96.784384@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299356,
+    "wof:geomhash":"05728d901ab5cbbf160f068a82e137dc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878717,
+            "region_id":85688563,
+            "venue_id":873876199
+        }
+    ],
+    "wof:id":873876199,
+    "wof:lastmodified":1464299356,
+    "wof:name":"Steam A Way of Lincoln",
+    "wof:parent_id":85878717,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.784384,
+    40.836904,
+    -96.784384,
+    40.836904
+],
+  "geometry": {"coordinates":[-96.784384,40.836904],"type":"Point"}
+}

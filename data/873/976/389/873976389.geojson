@@ -1,0 +1,78 @@
+{
+  "id": 873976389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.081394,41.20338,-96.081394,41.20338",
+    "geom:latitude":41.20338,
+    "geom:longitude":-96.081394,
+    "iso:country":"US",
+    "sg:address":"5402 S 108th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ne/omaha/199715-sonic/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 331 3950",
+    "sg:postcode":"68137",
+    "sg:province":"NE",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872531,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_54HTIOzk44xd4LGr3dRcpp_41.203380_-96.081394@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464302236,
+    "wof:geomhash":"b9e047dd02b0644ff8c402bfe9f2a702",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872531,
+            "region_id":85688563,
+            "venue_id":873976389
+        }
+    ],
+    "wof:id":873976389,
+    "wof:lastmodified":1464302236,
+    "wof:name":"Sonic",
+    "wof:parent_id":85872531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -96.081394,
+    41.20338,
+    -96.081394,
+    41.20338
+],
+  "geometry": {"coordinates":[-96.081394,41.20338],"type":"Point"}
+}

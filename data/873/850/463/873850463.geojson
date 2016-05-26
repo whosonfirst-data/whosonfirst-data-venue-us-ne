@@ -1,0 +1,71 @@
+{
+  "id": 873850463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.082199,41.324413,-96.082199,41.324413",
+    "geom:latitude":41.324413,
+    "geom:longitude":-96.082199,
+    "iso:country":"US",
+    "sg:address":"10874 Iowa Plz",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 850 4332",
+    "sg:postcode":"68142",
+    "sg:province":"NE",
+    "sg:tags":[
+        "roofing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85872505,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ZT6nIp4HbZvifViYuue57_41.324413_-96.082199@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298821,
+    "wof:geomhash":"d683dade5fee647a1a42b87a401e774a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":873850463
+        }
+    ],
+    "wof:id":873850463,
+    "wof:lastmodified":1464298821,
+    "wof:name":"Skylight Roofing",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "roofing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.082199,
+    41.324413,
+    -96.082199,
+    41.324413
+],
+  "geometry": {"coordinates":[-96.082199,41.324413],"type":"Point"}
+}

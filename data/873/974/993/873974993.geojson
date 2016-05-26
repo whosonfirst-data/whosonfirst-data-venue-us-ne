@@ -1,0 +1,76 @@
+{
+  "id": 873974993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.989502,41.299801,-95.989502,41.299801",
+    "geom:latitude":41.299801,
+    "geom:longitude":-95.989502,
+    "iso:country":"US",
+    "sg:address":"4932 Ames Ave",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Funeral Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 453 5600",
+    "sg:postcode":"68104",
+    "sg:province":"NE",
+    "sg:tags":[
+        "cemetery"
+    ],
+    "sg:website":"www.roedermortuary.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85805755,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7BEhhTm6CQOuPPiLhZy8ur_41.299668_-95.989952@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464302191,
+    "wof:geomhash":"6600c8807b4d0dfb6f17fc0e6367c478",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85805755,
+            "region_id":85688563,
+            "venue_id":873974993
+        }
+    ],
+    "wof:id":873974993,
+    "wof:lastmodified":1464302191,
+    "wof:name":"Roeder Mortuary Inc",
+    "wof:parent_id":85805755,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cemetery"
+    ]
+},
+  "bbox": [
+    -95.989502,
+    41.299801,
+    -95.989502,
+    41.299801
+],
+  "geometry": {"coordinates":[-95.989502,41.299801],"type":"Point"}
+}

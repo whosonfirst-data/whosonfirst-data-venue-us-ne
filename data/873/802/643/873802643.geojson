@@ -1,0 +1,76 @@
+{
+  "id": 873802643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.704104,40.837841,-96.704104,40.837841",
+    "geom:latitude":40.837841,
+    "geom:longitude":-96.704104,
+    "iso:country":"US",
+    "sg:address":"1101 Cornhusker Hwy",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 434 9331",
+    "sg:postcode":"68521",
+    "sg:province":"NE",
+    "sg:tags":[
+        "security"
+    ],
+    "sg:website":"www.securitiesamerica.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85868917,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2BEwwyeqP5qM2Gzh5aouXO_40.837841_-96.704104@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297806,
+    "wof:geomhash":"2375c2abb9f08f5c5820a59bb987e99f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85868917,
+            "region_id":85688563,
+            "venue_id":873802643
+        }
+    ],
+    "wof:id":873802643,
+    "wof:lastmodified":1464297806,
+    "wof:name":"Securities America Inc",
+    "wof:parent_id":85868917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "security"
+    ]
+},
+  "bbox": [
+    -96.704104,
+    40.837841,
+    -96.704104,
+    40.837841
+],
+  "geometry": {"coordinates":[-96.704104,40.837841],"type":"Point"}
+}

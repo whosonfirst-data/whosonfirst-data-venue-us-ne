@@ -1,0 +1,77 @@
+{
+  "id": 873700363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.955815,41.243279,-95.955815,41.243279",
+    "geom:latitude":41.243279,
+    "geom:longitude":-95.955815,
+    "iso:country":"US",
+    "sg:address":"1501 Park Ave",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 444 3740",
+    "sg:postcode":"68105",
+    "sg:province":"NE",
+    "sg:tags":[
+        "authorities",
+        "housing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872527,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6CgliJHfUWNNJag9M6T1wX_41.243279_-95.955815@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296410,
+    "wof:geomhash":"451243f0c5ed71cb4d440e82ea2c5bea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872527,
+            "region_id":85688563,
+            "venue_id":873700363
+        }
+    ],
+    "wof:id":873700363,
+    "wof:lastmodified":1464296410,
+    "wof:name":"Omaha Housing Auth Park Towers",
+    "wof:parent_id":85872527,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "authorities",
+        "housing"
+    ]
+},
+  "bbox": [
+    -95.955815,
+    41.243279,
+    -95.955815,
+    41.243279
+],
+  "geometry": {"coordinates":[-95.955815,41.243279],"type":"Point"}
+}

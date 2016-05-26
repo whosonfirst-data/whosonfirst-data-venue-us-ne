@@ -1,0 +1,82 @@
+{
+  "id": 873673503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.921277,41.1613,-95.921277,41.1613",
+    "geom:latitude":41.1613,
+    "geom:longitude":-95.921277,
+    "iso:country":"US",
+    "sg:address":"205 Galvin Rd N",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 292 7712",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "individual",
+        "counselor",
+        "marriage",
+        "family"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85804025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3DzvyyxXkZ163t53Lcof2Z_41.161300_-95.921277@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295835,
+    "wof:geomhash":"61e826c73b71b13035c00fd151126b42",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85804025,
+            "region_id":85688563,
+            "venue_id":873673503
+        }
+    ],
+    "wof:id":873673503,
+    "wof:lastmodified":1464295835,
+    "wof:name":"Great Plains Counseling Ctr PC",
+    "wof:parent_id":85804025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "individual",
+        "counselor",
+        "marriage",
+        "family"
+    ]
+},
+  "bbox": [
+    -95.921277,
+    41.1613,
+    -95.921277,
+    41.1613
+],
+  "geometry": {"coordinates":[-95.921277,41.1613],"type":"Point"}
+}

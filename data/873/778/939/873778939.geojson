@@ -1,0 +1,71 @@
+{
+  "id": 873778939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.143744,41.18954,-96.143744,41.18954",
+    "geom:latitude":41.18954,
+    "geom:longitude":-96.143744,
+    "iso:country":"US",
+    "sg:address":"14719 Gertrude St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 672 2877",
+    "sg:postcode":"68138",
+    "sg:province":"NE",
+    "sg:tags":[
+        "hanging",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85834285,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4R3X8jZzerPKi5W71euFNn_41.189540_-96.143744@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297475,
+    "wof:geomhash":"2597d318714f4de2248aac9442cdf67c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85834285,
+            "region_id":85688563,
+            "venue_id":873778939
+        }
+    ],
+    "wof:id":873778939,
+    "wof:lastmodified":1464297475,
+    "wof:name":"Caniglia Painting",
+    "wof:parent_id":85834285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.143744,
+    41.18954,
+    -96.143744,
+    41.18954
+],
+  "geometry": {"coordinates":[-96.143744,41.18954],"type":"Point"}
+}

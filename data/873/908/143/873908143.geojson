@@ -1,0 +1,71 @@
+{
+  "id": 873908143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.379123,41.438648,-97.379123,41.438648",
+    "geom:latitude":41.438648,
+    "geom:longitude":-97.379123,
+    "iso:country":"US",
+    "sg:address":"4215 23rd St",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 564 2204",
+    "sg:postcode":"68601",
+    "sg:province":"NE",
+    "sg:tags":[
+        "car"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974401,
+        102084277,
+        85854093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_055zCMurXxIHfCj2nhhJJV_41.438648_-97.379123@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299978,
+    "wof:geomhash":"0bd0b5c5ba45f36c147f7164537fa328",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084277,
+            "locality_id":85974401,
+            "neighbourhood_id":85854093,
+            "region_id":85688563,
+            "venue_id":873908143
+        }
+    ],
+    "wof:id":873908143,
+    "wof:lastmodified":1464299978,
+    "wof:name":"Dd Auto Sales",
+    "wof:parent_id":85854093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car"
+    ]
+},
+  "bbox": [
+    -97.379123,
+    41.438648,
+    -97.379123,
+    41.438648
+],
+  "geometry": {"coordinates":[-97.37912300000001,41.438648],"type":"Point"}
+}

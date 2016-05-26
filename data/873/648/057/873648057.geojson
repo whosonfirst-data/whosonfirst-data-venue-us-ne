@@ -1,0 +1,71 @@
+{
+  "id": 873648057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.923926,41.165901,-95.923926,41.165901",
+    "geom:latitude":41.165901,
+    "geom:longitude":-95.923926,
+    "iso:country":"US",
+    "sg:address":"405 Galvin Rd N",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 292 2028",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85804025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_50YX99A3ZU0mijY7nNq4Pe_41.165901_-95.923926@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295567,
+    "wof:geomhash":"d22b708591666ffa9cfedca3b7fe7f3b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85804025,
+            "region_id":85688563,
+            "venue_id":873648057
+        }
+    ],
+    "wof:id":873648057,
+    "wof:lastmodified":1464295567,
+    "wof:name":"Romeos Mexican Food and Pizza",
+    "wof:parent_id":85804025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -95.923926,
+    41.165901,
+    -95.923926,
+    41.165901
+],
+  "geometry": {"coordinates":[-95.92392599999999,41.165901],"type":"Point"}
+}

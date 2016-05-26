@@ -1,0 +1,72 @@
+{
+  "id": 873977681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.912159,41.144735,-95.912159,41.144735",
+    "geom:latitude":41.144735,
+    "geom:longitude":-95.912159,
+    "iso:country":"US",
+    "sg:address":"1506 Galvin Rd S",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ne/bellevue/204890-taco-bell/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 292 6333",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85804025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1vNQcGYRnD3WldmE9U1XbC_41.144630_-95.912163@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464302286,
+    "wof:geomhash":"cf78c4b5cfe5278555b73eb7732f64e3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85804025,
+            "region_id":85688563,
+            "venue_id":873977681
+        }
+    ],
+    "wof:id":873977681,
+    "wof:lastmodified":1464302286,
+    "wof:name":"Taco Bell",
+    "wof:parent_id":85804025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -95.912159,
+    41.144735,
+    -95.912159,
+    41.144735
+],
+  "geometry": {"coordinates":[-95.912159,41.144735],"type":"Point"}
+}

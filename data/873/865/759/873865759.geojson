@@ -1,0 +1,66 @@
+{
+  "id": 873865759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.900248,41.148722,-95.900248,41.148722",
+    "geom:latitude":41.148722,
+    "geom:longitude":-95.900248,
+    "iso:country":"US",
+    "sg:address":"1101 Bellevue Blvd S",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 291 2344",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85804025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ENAPChYlmLmX0RzS2JVYQ_41.148722_-95.900248@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299151,
+    "wof:geomhash":"7d56cda638b7db1d7ffcaec3f347ded0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85804025,
+            "region_id":85688563,
+            "venue_id":873865759
+        }
+    ],
+    "wof:id":873865759,
+    "wof:lastmodified":1464299151,
+    "wof:name":"Mary L Rains Broker",
+    "wof:parent_id":85804025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -95.900248,
+    41.148722,
+    -95.900248,
+    41.148722
+],
+  "geometry": {"coordinates":[-95.900248,41.148722],"type":"Point"}
+}

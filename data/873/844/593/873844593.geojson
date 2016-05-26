@@ -1,0 +1,71 @@
+{
+  "id": 873844593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.037075,41.176154,-96.037075,41.176154",
+    "geom:latitude":41.176154,
+    "geom:longitude":-96.037075,
+    "iso:country":"US",
+    "sg:address":"8023 Giles Rd",
+    "sg:city":"La Vista",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 597 1600",
+    "sg:postcode":"68128",
+    "sg:province":"NE",
+    "sg:tags":[
+        "game",
+        "video"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85843697,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_148OnvRAOxG45mhbp9ozgI_41.176154_-96.037075@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298674,
+    "wof:geomhash":"3513e0cbe851c1eadd910e10f7d683d0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85843697,
+            "region_id":85688563,
+            "venue_id":873844593
+        }
+    ],
+    "wof:id":873844593,
+    "wof:lastmodified":1464298674,
+    "wof:name":"Gamers",
+    "wof:parent_id":85843697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "game",
+        "video"
+    ]
+},
+  "bbox": [
+    -96.037075,
+    41.176154,
+    -96.037075,
+    41.176154
+],
+  "geometry": {"coordinates":[-96.037075,41.176154],"type":"Point"}
+}

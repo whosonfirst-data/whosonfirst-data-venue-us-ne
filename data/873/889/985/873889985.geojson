@@ -1,0 +1,73 @@
+{
+  "id": 873889985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.164508,41.189604,-96.164508,41.189604",
+    "geom:latitude":41.189604,
+    "geom:longitude":-96.164508,
+    "iso:country":"US",
+    "sg:address":"6935 S 159th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 895 8629",
+    "sg:postcode":"68136",
+    "sg:province":"NE",
+    "sg:tags":[
+        "farm",
+        "product",
+        "warehousing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85834285,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0QIzMA7UYmtLPOg09Nf6gj_41.189604_-96.164508@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299631,
+    "wof:geomhash":"10320f07306d0f36a617d50ec410668a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85834285,
+            "region_id":85688563,
+            "venue_id":873889985
+        }
+    ],
+    "wof:id":873889985,
+    "wof:lastmodified":1464299631,
+    "wof:name":"Bunge Foods",
+    "wof:parent_id":85834285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "farm",
+        "product",
+        "warehousing"
+    ]
+},
+  "bbox": [
+    -96.164508,
+    41.189604,
+    -96.164508,
+    41.189604
+],
+  "geometry": {"coordinates":[-96.164508,41.189604],"type":"Point"}
+}

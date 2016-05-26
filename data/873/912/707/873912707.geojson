@@ -1,0 +1,75 @@
+{
+  "id": 873912707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.959183,41.105612,-95.959183,41.105612",
+    "geom:latitude":41.105612,
+    "geom:longitude":-95.959183,
+    "iso:country":"US",
+    "sg:address":"3010 Birchwood Dr",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 291 4415",
+    "sg:postcode":"68123",
+    "sg:province":"NE",
+    "sg:tags":[
+        "glass",
+        "window",
+        "plate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974747,
+        102082777,
+        85820061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3mBFQwdSrf063z0BBTIelC_41.105612_-95.959183@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300063,
+    "wof:geomhash":"0de0f49a91a6da341e0e541d2ba00a7e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974747,
+            "neighbourhood_id":85820061,
+            "region_id":85688563,
+            "venue_id":873912707
+        }
+    ],
+    "wof:id":873912707,
+    "wof:lastmodified":1464300063,
+    "wof:name":"Daley's Glass Svc",
+    "wof:parent_id":85820061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass",
+        "window",
+        "plate"
+    ]
+},
+  "bbox": [
+    -95.959183,
+    41.105612,
+    -95.959183,
+    41.105612
+],
+  "geometry": {"coordinates":[-95.959183,41.105612],"type":"Point"}
+}

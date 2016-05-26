@@ -1,0 +1,77 @@
+{
+  "id": 873904453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.981516,41.176177,-95.981516,41.176177",
+    "geom:latitude":41.176177,
+    "geom:longitude":-95.981516,
+    "iso:country":"US",
+    "sg:address":"4405 Giles Rd",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 733 8040",
+    "sg:postcode":"68147",
+    "sg:province":"NE",
+    "sg:tags":[
+        "grading",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85849923,
+        102191575,
+        404519143,
+        85633793,
+        85974545,
+        102082777,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0AgkF18M7f0kUq4GD2yKxV_41.176177_-95.981516@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299907,
+    "wof:geomhash":"0142d245fa4e4281010d045d7d71dc6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082777,
+            "localadmin_id":404519143,
+            "locality_id":85974545,
+            "neighbourhood_id":85849923,
+            "region_id":85688563,
+            "venue_id":873904453
+        }
+    ],
+    "wof:id":873904453,
+    "wof:lastmodified":1464299907,
+    "wof:name":"Giles Shop",
+    "wof:parent_id":85849923,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grading",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -95.981516,
+    41.176177,
+    -95.981516,
+    41.176177
+],
+  "geometry": {"coordinates":[-95.981516,41.176177],"type":"Point"}
+}

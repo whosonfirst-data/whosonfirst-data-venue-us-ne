@@ -1,0 +1,75 @@
+{
+  "id": 873656187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.908262,41.157545,-95.908262,41.157545",
+    "geom:latitude":41.157545,
+    "geom:longitude":-95.908262,
+    "iso:country":"US",
+    "sg:address":"209 Sandi Ct",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 292 2950",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "machine",
+        "copying",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85804025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6RBn9OVCBa0hyIcYTfZlmu_41.157545_-95.908262@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295658,
+    "wof:geomhash":"2648669e84fa8fd81f0a69e020b6488d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85804025,
+            "region_id":85688563,
+            "venue_id":873656187
+        }
+    ],
+    "wof:id":873656187,
+    "wof:lastmodified":1464295658,
+    "wof:name":"Laser Toner Svc",
+    "wof:parent_id":85804025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "copying",
+        "supply"
+    ]
+},
+  "bbox": [
+    -95.908262,
+    41.157545,
+    -95.908262,
+    41.157545
+],
+  "geometry": {"coordinates":[-95.90826199999999,41.157545],"type":"Point"}
+}

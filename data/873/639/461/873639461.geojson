@@ -1,0 +1,70 @@
+{
+  "id": 873639461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.698596,40.750461,-96.698596,40.750461",
+    "geom:latitude":40.750461,
+    "geom:longitude":-96.698596,
+    "iso:country":"US",
+    "sg:address":"5930 Berkeley Dr",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Hardware",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 328 9919",
+    "sg:postcode":"68512",
+    "sg:province":"NE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420525805,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_26Uy07a2TC6icMKIcDreXu_40.750461_-96.698596@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295468,
+    "wof:geomhash":"226e04c024409a4c4fadb0ce61872255",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":420525805,
+            "region_id":85688563,
+            "venue_id":873639461
+        }
+    ],
+    "wof:id":873639461,
+    "wof:lastmodified":1464295468,
+    "wof:name":"Ace Hardware",
+    "wof:parent_id":420525805,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.698596,
+    40.750461,
+    -96.698596,
+    40.750461
+],
+  "geometry": {"coordinates":[-96.69859599999999,40.750461],"type":"Point"}
+}

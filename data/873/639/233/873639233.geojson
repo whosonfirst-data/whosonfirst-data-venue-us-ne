@@ -1,0 +1,77 @@
+{
+  "id": 873639233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.69106,40.823601,-96.69106,40.823601",
+    "geom:latitude":40.823601,
+    "geom:longitude":-96.69106,
+    "iso:country":"US",
+    "sg:address":"900 N 21st St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"College",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 472 2176",
+    "sg:postcode":"68503",
+    "sg:province":"NE",
+    "sg:tags":[
+        "academic",
+        "school"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878723,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6kPPBK1FMaU2lh1Tc7CL3e_40.823601_-96.691060@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295466,
+    "wof:geomhash":"4aefdc56bd048cf5a3ad515f61809c7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878723,
+            "region_id":85688563,
+            "venue_id":873639233
+        }
+    ],
+    "wof:id":873639233,
+    "wof:lastmodified":1464295466,
+    "wof:name":"University Of Nebraska Lincoln",
+    "wof:parent_id":85878723,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "academic",
+        "school"
+    ]
+},
+  "bbox": [
+    -96.69106,
+    40.823601,
+    -96.69106,
+    40.823601
+],
+  "geometry": {"coordinates":[-96.69105999999999,40.823601],"type":"Point"}
+}

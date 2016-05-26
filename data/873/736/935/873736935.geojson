@@ -1,0 +1,69 @@
+{
+  "id": 873736935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.124491,41.188483,-96.124491,41.188483",
+    "geom:latitude":41.188483,
+    "geom:longitude":-96.124491,
+    "iso:country":"US",
+    "sg:address":"13513 Gertrude St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 895 1349",
+    "sg:postcode":"68138",
+    "sg:province":"NE",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85834285,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7jv1pGPF43afn5I8UBMH8E_41.188483_-96.124491@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296881,
+    "wof:geomhash":"2f4137541f78cbcc4fbd42a55533ceba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85834285,
+            "region_id":85688563,
+            "venue_id":873736935
+        }
+    ],
+    "wof:id":873736935,
+    "wof:lastmodified":1464296881,
+    "wof:name":"Doug Faller Construction",
+    "wof:parent_id":85834285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -96.124491,
+    41.188483,
+    -96.124491,
+    41.188483
+],
+  "geometry": {"coordinates":[-96.12449100000001,41.188483],"type":"Point"}
+}

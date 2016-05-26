@@ -1,0 +1,75 @@
+{
+  "id": 873831721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.704038,40.747849,-96.704038,40.747849",
+    "geom:latitude":40.747849,
+    "geom:longitude":-96.704038,
+    "iso:country":"US",
+    "sg:address":"1041 High Plains Rd",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 421 7074",
+    "sg:postcode":"68512",
+    "sg:province":"NE",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4qzaWFyJeCJsd5UXr3jvYR_40.747849_-96.704038@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298368,
+    "wof:geomhash":"4f17f88f9bb89d1cfbbac8a6b2a6ddc9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878709,
+            "region_id":85688563,
+            "venue_id":873831721
+        }
+    ],
+    "wof:id":873831721,
+    "wof:lastmodified":1464298368,
+    "wof:name":"Walker Bros Trucking",
+    "wof:parent_id":85878709,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -96.704038,
+    40.747849,
+    -96.704038,
+    40.747849
+],
+  "geometry": {"coordinates":[-96.704038,40.747849],"type":"Point"}
+}

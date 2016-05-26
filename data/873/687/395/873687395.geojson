@@ -1,0 +1,71 @@
+{
+  "id": 873687395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.949687,41.134317,-95.949687,41.134317",
+    "geom:latitude":41.134317,
+    "geom:longitude":-95.949687,
+    "iso:country":"US",
+    "sg:address":"11711 S 26th St",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 291 6696",
+    "sg:postcode":"68123",
+    "sg:province":"NE",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85821583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4lj37YDNfHeBuLRHZmO8GM_41.134317_-95.949687@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296203,
+    "wof:geomhash":"1ee6b90e083c3240a7f307a1d9623482",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85821583,
+            "region_id":85688563,
+            "venue_id":873687395
+        }
+    ],
+    "wof:id":873687395,
+    "wof:lastmodified":1464296203,
+    "wof:name":"Bellevue Custom Construction",
+    "wof:parent_id":85821583,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -95.949687,
+    41.134317,
+    -95.949687,
+    41.134317
+],
+  "geometry": {"coordinates":[-95.949687,41.134317],"type":"Point"}
+}

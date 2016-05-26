@@ -1,0 +1,81 @@
+{
+  "id": 873623659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.679677,40.853783,-96.679677,40.853783",
+    "geom:latitude":40.853783,
+    "geom:longitude":-96.679677,
+    "iso:country":"US",
+    "sg:address":"2700 Dan Ave",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 464 0440",
+    "sg:postcode":"68504",
+    "sg:province":"NE",
+    "sg:tags":[
+        "carwash",
+        "automobile",
+        "detail",
+        "clean"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878721,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3MNPQ6DnOSEfac6FzI7yjN_40.853783_-96.679677@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295294,
+    "wof:geomhash":"670ce5e6efe484f51c736a31f76b641d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878721,
+            "region_id":85688563,
+            "venue_id":873623659
+        }
+    ],
+    "wof:id":873623659,
+    "wof:lastmodified":1464295294,
+    "wof:name":"VIP Car Wash & Detail Center",
+    "wof:parent_id":85878721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash",
+        "automobile",
+        "detail",
+        "clean"
+    ]
+},
+  "bbox": [
+    -96.679677,
+    40.853783,
+    -96.679677,
+    40.853783
+],
+  "geometry": {"coordinates":[-96.679677,40.853783],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873627101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.134627,41.308035,-96.134627,41.308035",
+    "geom:latitude":41.308035,
+    "geom:longitude":-96.134627,
+    "iso:country":"US",
+    "sg:address":"13951 Jaynes St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 431 0275",
+    "sg:postcode":"68164",
+    "sg:province":"NE",
+    "sg:tags":[
+        "restoration",
+        "preservation",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85872505,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_33UkIBQ6pc2FpM6hloV723_41.308035_-96.134627@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295331,
+    "wof:geomhash":"a8926faf299faf17a05fc99eb71923a2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":873627101
+        }
+    ],
+    "wof:id":873627101,
+    "wof:lastmodified":1464295331,
+    "wof:name":"Mid-West Waterproofing & Build",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "restoration",
+        "preservation",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.134627,
+    41.308035,
+    -96.134627,
+    41.308035
+],
+  "geometry": {"coordinates":[-96.13462699999999,41.308035],"type":"Point"}
+}

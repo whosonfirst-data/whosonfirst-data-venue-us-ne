@@ -1,0 +1,79 @@
+{
+  "id": 873955185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.02808,41.259738,-96.02808,41.259738",
+    "geom:latitude":41.259738,
+    "geom:longitude":-96.02808,
+    "iso:country":"US",
+    "sg:address":"7520 Dodge St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 399 9601",
+    "sg:postcode":"68114",
+    "sg:province":"NE",
+    "sg:tags":[
+        "equipment",
+        "electronic",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872509,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3p8UhHJfMcieLSk7PVxoge_41.259738_-96.028080@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464301346,
+    "wof:geomhash":"2cf90b47d17b908d0329052f36f2ed46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872509,
+            "region_id":85688563,
+            "venue_id":873955185
+        }
+    ],
+    "wof:id":873955185,
+    "wof:lastmodified":1464301346,
+    "wof:name":"Best Buy",
+    "wof:parent_id":85872509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "electronic",
+        "supply"
+    ]
+},
+  "bbox": [
+    -96.02808,
+    41.259738,
+    -96.02808,
+    41.259738
+],
+  "geometry": {"coordinates":[-96.02808,41.259738],"type":"Point"}
+}

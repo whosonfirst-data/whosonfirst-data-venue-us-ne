@@ -1,0 +1,71 @@
+{
+  "id": 873655229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.802495,40.784593,-96.802495,40.784593",
+    "geom:latitude":40.784593,
+    "geom:longitude":-96.802495,
+    "iso:country":"US",
+    "sg:address":"5911 W Van Dorn St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 465 5600",
+    "sg:postcode":"68532",
+    "sg:province":"NE",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85813295,
+        102083503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4JkYKN29ALk6xvDNDrxr3Z_40.784593_-96.802495@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295648,
+    "wof:geomhash":"34eb0a0986503c6dce8345008271ac1e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "neighbourhood_id":85813295,
+            "region_id":85688563,
+            "venue_id":873655229
+        }
+    ],
+    "wof:id":873655229,
+    "wof:lastmodified":1464295648,
+    "wof:name":"Lincoln Pediatric Assoc",
+    "wof:parent_id":85813295,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -96.802495,
+    40.784593,
+    -96.802495,
+    40.784593
+],
+  "geometry": {"coordinates":[-96.80249499999999,40.784593],"type":"Point"}
+}

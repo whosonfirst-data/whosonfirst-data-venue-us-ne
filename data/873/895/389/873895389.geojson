@@ -1,0 +1,73 @@
+{
+  "id": 873895389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.967946,41.141146,-95.967946,41.141146",
+    "geom:latitude":41.141146,
+    "geom:longitude":-95.967946,
+    "iso:country":"US",
+    "sg:address":"3608 Twin Creek Dr",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 292 8922",
+    "sg:postcode":"68123",
+    "sg:province":"NE",
+    "sg:tags":[
+        "bookstore",
+        "christian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85821583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_248JDmHGfgERWiHQ0nHUK9_41.141146_-95.967946@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299728,
+    "wof:geomhash":"bfe40e863a23e7da6f7413cc651e6ab6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85821583,
+            "region_id":85688563,
+            "venue_id":873895389
+        }
+    ],
+    "wof:id":873895389,
+    "wof:lastmodified":1464299728,
+    "wof:name":"Pathways",
+    "wof:parent_id":85821583,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bookstore",
+        "christian"
+    ]
+},
+  "bbox": [
+    -95.967946,
+    41.141146,
+    -95.967946,
+    41.141146
+],
+  "geometry": {"coordinates":[-95.967946,41.141146],"type":"Point"}
+}

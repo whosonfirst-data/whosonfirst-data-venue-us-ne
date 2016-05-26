@@ -1,0 +1,69 @@
+{
+  "id": 873934545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.148518,41.146999,-96.148518,41.146999",
+    "geom:latitude":41.146999,
+    "geom:longitude":-96.148518,
+    "iso:country":"US",
+    "sg:address":"11202 S 150th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 896 6900",
+    "sg:postcode":"68138",
+    "sg:province":"NE",
+    "sg:tags":[
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85834285,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6PsKb7HTVAJZi1kVPuDAED_41.146999_-96.148518@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300490,
+    "wof:geomhash":"3d85d1be077a9db8d510ab5493c30c61",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85834285,
+            "region_id":85688563,
+            "venue_id":873934545
+        }
+    ],
+    "wof:id":873934545,
+    "wof:lastmodified":1464300490,
+    "wof:name":"Volvo Trucks Of Omaha Inc",
+    "wof:parent_id":85834285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [
+    -96.148518,
+    41.146999,
+    -96.148518,
+    41.146999
+],
+  "geometry": {"coordinates":[-96.148518,41.146999],"type":"Point"}
+}

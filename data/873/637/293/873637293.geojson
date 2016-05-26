@@ -1,0 +1,71 @@
+{
+  "id": 873637293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.70722,40.751748,-96.70722,40.751748",
+    "geom:latitude":40.751748,
+    "geom:longitude":-96.70722,
+    "iso:country":"US",
+    "sg:address":"1001 Norwood Dr",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 423 5243",
+    "sg:postcode":"68512",
+    "sg:province":"NE",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_17zlyOVkMDmvAxhBomkuYp_40.751748_-96.707220@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295448,
+    "wof:geomhash":"40212b619c71e6788ef6d8347b0b38cd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878709,
+            "region_id":85688563,
+            "venue_id":873637293
+        }
+    ],
+    "wof:id":873637293,
+    "wof:lastmodified":1464295448,
+    "wof:name":"Ruskin Place",
+    "wof:parent_id":85878709,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -96.70722,
+    40.751748,
+    -96.70722,
+    40.751748
+],
+  "geometry": {"coordinates":[-96.70722000000001,40.751748],"type":"Point"}
+}

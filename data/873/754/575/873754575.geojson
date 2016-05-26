@@ -1,0 +1,77 @@
+{
+  "id": 873754575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.159565,41.25256,-96.159565,41.25256",
+    "geom:latitude":41.25256,
+    "geom:longitude":-96.159565,
+    "iso:country":"US",
+    "sg:address":"15685 Leavenworth St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 334 0982",
+    "sg:postcode":"68118",
+    "sg:province":"NE",
+    "sg:tags":[
+        "loan",
+        "real estate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85806957,
+        102191575,
+        404519987,
+        85633793,
+        85973479,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6eZg9kWUh2pDZD8fVNqqvA_41.252560_-96.159565@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297140,
+    "wof:geomhash":"5eaf3d5045c583101cccde2718b17ac5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404519987,
+            "locality_id":85973479,
+            "neighbourhood_id":85806957,
+            "region_id":85688563,
+            "venue_id":873754575
+        }
+    ],
+    "wof:id":873754575,
+    "wof:lastmodified":1464297140,
+    "wof:name":"Wells Fargo Home Mortgage Inc",
+    "wof:parent_id":85806957,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan",
+        "real estate"
+    ]
+},
+  "bbox": [
+    -96.159565,
+    41.25256,
+    -96.159565,
+    41.25256
+],
+  "geometry": {"coordinates":[-96.159565,41.25256],"type":"Point"}
+}

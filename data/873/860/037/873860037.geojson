@@ -1,0 +1,81 @@
+{
+  "id": 873860037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.282168,41.262404,-96.282168,41.262404",
+    "geom:latitude":41.262404,
+    "geom:longitude":-96.282168,
+    "iso:country":"US",
+    "sg:address":"425 S 234th St",
+    "sg:city":"Waterloo",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 779 4172",
+    "sg:postcode":"68069",
+    "sg:province":"NE",
+    "sg:tags":[
+        "pet",
+        "boarding",
+        "grooming",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85868921,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0nipuy7NcYXHOux6mZ918I_41.262404_-96.282168@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299020,
+    "wof:geomhash":"3878864e0f1ebf8cfd13f143393d241c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85868921,
+            "region_id":85688563,
+            "venue_id":873860037
+        }
+    ],
+    "wof:id":873860037,
+    "wof:lastmodified":1464299020,
+    "wof:name":"Riverside Meadows Pet Mtl Inc",
+    "wof:parent_id":85868921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "boarding",
+        "grooming",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -96.282168,
+    41.262404,
+    -96.282168,
+    41.262404
+],
+  "geometry": {"coordinates":[-96.282168,41.262404],"type":"Point"}
+}

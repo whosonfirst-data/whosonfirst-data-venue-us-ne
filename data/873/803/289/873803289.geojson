@@ -1,0 +1,73 @@
+{
+  "id": 873803289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.669359,40.874677,-96.669359,40.874677",
+    "geom:latitude":40.874677,
+    "geom:longitude":-96.669359,
+    "iso:country":"US",
+    "sg:address":"6312 Cornflower Dr",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 435 5156",
+    "sg:postcode":"68504",
+    "sg:province":"NE",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0iIviPWmaA70GiRASV9nTn_40.874677_-96.669359@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297813,
+    "wof:geomhash":"42395fca2a232095fd96cc756ad41e08",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878687,
+            "region_id":85688563,
+            "venue_id":873803289
+        }
+    ],
+    "wof:id":873803289,
+    "wof:lastmodified":1464297813,
+    "wof:name":"Boys & Girl's Hm Of Nebraska",
+    "wof:parent_id":85878687,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -96.669359,
+    40.874677,
+    -96.669359,
+    40.874677
+],
+  "geometry": {"coordinates":[-96.669359,40.874677],"type":"Point"}
+}

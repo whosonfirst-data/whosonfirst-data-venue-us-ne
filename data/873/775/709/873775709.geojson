@@ -1,0 +1,73 @@
+{
+  "id": 873775709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.151355,41.325317,-96.151355,41.325317",
+    "geom:latitude":41.325317,
+    "geom:longitude":-96.151355,
+    "iso:country":"US",
+    "sg:address":"7311 N 152nd St",
+    "sg:city":"Bennington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 598 4448",
+    "sg:postcode":"68007",
+    "sg:province":"NE",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85872505,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0yfsnDwaaq2qe2NIkka0PX_41.325317_-96.151355@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297434,
+    "wof:geomhash":"124d9231b070943ef20dc559c91cb32b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":873775709
+        }
+    ],
+    "wof:id":873775709,
+    "wof:lastmodified":1464297434,
+    "wof:name":"Dentech",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -96.151355,
+    41.325317,
+    -96.151355,
+    41.325317
+],
+  "geometry": {"coordinates":[-96.151355,41.325317],"type":"Point"}
+}

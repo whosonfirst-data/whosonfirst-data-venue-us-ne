@@ -1,0 +1,71 @@
+{
+  "id": 873840849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.073805,41.310971,-96.073805,41.310971",
+    "geom:latitude":41.310971,
+    "geom:longitude":-96.073805,
+    "iso:country":"US",
+    "sg:address":"10235 Wiesman Dr",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Dance Studio",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 493 3177",
+    "sg:postcode":"68134",
+    "sg:province":"NE",
+    "sg:tags":[
+        "instruction",
+        "dancing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85872505,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2mlXbpQvlQ35g87d1gULII_41.310971_-96.073805@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298573,
+    "wof:geomhash":"e318f2621eeba8e3178d3e943d818ee0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":873840849
+        }
+    ],
+    "wof:id":873840849,
+    "wof:lastmodified":1464298573,
+    "wof:name":"Dance Inspiration",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "dancing"
+    ]
+},
+  "bbox": [
+    -96.073805,
+    41.310971,
+    -96.073805,
+    41.310971
+],
+  "geometry": {"coordinates":[-96.07380499999999,41.310971],"type":"Point"}
+}

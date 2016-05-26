@@ -1,0 +1,71 @@
+{
+  "id": 873618731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.040817,41.145669,-96.040817,41.145669",
+    "geom:latitude":41.145669,
+    "geom:longitude":-96.040817,
+    "iso:country":"US",
+    "sg:address":"1105 Delmar St",
+    "sg:city":"Papillion",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 339 3382",
+    "sg:postcode":"68046",
+    "sg:province":"NE",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85843697,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3eQONan95ApElPXfSo1d5u_41.145669_-96.040817@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295238,
+    "wof:geomhash":"487d052a526d83f871d975f97b05706c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85843697,
+            "region_id":85688563,
+            "venue_id":873618731
+        }
+    ],
+    "wof:id":873618731,
+    "wof:lastmodified":1464295238,
+    "wof:name":"Al Thurman & Son Well Co",
+    "wof:parent_id":85843697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -96.040817,
+    41.145669,
+    -96.040817,
+    41.145669
+],
+  "geometry": {"coordinates":[-96.040817,41.145669],"type":"Point"}
+}

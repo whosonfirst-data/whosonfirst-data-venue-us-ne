@@ -1,0 +1,72 @@
+{
+  "id": 873976161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.04185,41.187821,-96.04185,41.187821",
+    "geom:latitude":41.187821,
+    "geom:longitude":-96.04185,
+    "iso:country":"US",
+    "sg:address":"7899 S 83rd St",
+    "sg:city":"La Vista",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ne/la-vista/129559-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 597 3414",
+    "sg:postcode":"68128",
+    "sg:province":"NE",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85843697,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7L0ITbfS8C7sCmtv19AYkC_41.187821_-96.041850@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464302228,
+    "wof:geomhash":"5850a568643c17a3b3cf0df0d07bec30",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85843697,
+            "region_id":85688563,
+            "venue_id":873976161
+        }
+    ],
+    "wof:id":873976161,
+    "wof:lastmodified":1464302228,
+    "wof:name":"Subway",
+    "wof:parent_id":85843697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -96.04185,
+    41.187821,
+    -96.04185,
+    41.187821
+],
+  "geometry": {"coordinates":[-96.04185,41.187821],"type":"Point"}
+}

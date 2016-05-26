@@ -1,0 +1,73 @@
+{
+  "id": 873660545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.368148,41.4408,-97.368148,41.4408",
+    "geom:latitude":41.4408,
+    "geom:longitude":-97.368148,
+    "iso:country":"US",
+    "sg:address":"2463 33rd Ave",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 562 9059",
+    "sg:postcode":"68601",
+    "sg:province":"NE",
+    "sg:tags":[
+        "instruction",
+        "music"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974401,
+        102084277,
+        85854093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Di1480XXfLTgahOzZyNZX_41.440800_-97.368148@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295704,
+    "wof:geomhash":"484f74be674aae9d946d1279dd77746f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084277,
+            "locality_id":85974401,
+            "neighbourhood_id":85854093,
+            "region_id":85688563,
+            "venue_id":873660545
+        }
+    ],
+    "wof:id":873660545,
+    "wof:lastmodified":1464295704,
+    "wof:name":"Mike Casey's Music Room",
+    "wof:parent_id":85854093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "music"
+    ]
+},
+  "bbox": [
+    -97.368148,
+    41.4408,
+    -97.368148,
+    41.4408
+],
+  "geometry": {"coordinates":[-97.36814800000001,41.4408],"type":"Point"}
+}

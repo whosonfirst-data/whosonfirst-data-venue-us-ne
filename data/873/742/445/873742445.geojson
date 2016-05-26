@@ -1,0 +1,73 @@
+{
+  "id": 873742445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.893619,41.136881,-95.893619,41.136881",
+    "geom:latitude":41.136881,
+    "geom:longitude":-95.893619,
+    "iso:country":"US",
+    "sg:address":"2243 Franklin St",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Household Appliances",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 292 2820",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "cleaners",
+        "vacuum"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974747,
+        102082777,
+        85820061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6lOr9cHWDCZHwsw8jX9V7q_41.136881_-95.893619@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296966,
+    "wof:geomhash":"ef07449d070994c73985bafd769229b1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974747,
+            "neighbourhood_id":85820061,
+            "region_id":85688563,
+            "venue_id":873742445
+        }
+    ],
+    "wof:id":873742445,
+    "wof:lastmodified":1464296966,
+    "wof:name":"Bellevue Vacuums",
+    "wof:parent_id":85820061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners",
+        "vacuum"
+    ]
+},
+  "bbox": [
+    -95.893619,
+    41.136881,
+    -95.893619,
+    41.136881
+],
+  "geometry": {"coordinates":[-95.893619,41.136881],"type":"Point"}
+}

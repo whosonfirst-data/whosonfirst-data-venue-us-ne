@@ -1,0 +1,73 @@
+{
+  "id": 873657149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.918816,41.155005,-95.918816,41.155005",
+    "geom:latitude":41.155005,
+    "geom:longitude":-95.918816,
+    "iso:country":"US",
+    "sg:address":"701 Galvin Rd S",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 291 1459",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "cashing",
+        "check"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85804025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5mTHixE5hQOqB8p1755NtW_41.155005_-95.918816@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295669,
+    "wof:geomhash":"a2a959c79d41e36da3acbdf42280b1e7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85804025,
+            "region_id":85688563,
+            "venue_id":873657149
+        }
+    ],
+    "wof:id":873657149,
+    "wof:lastmodified":1464295669,
+    "wof:name":"Ace Cash Express",
+    "wof:parent_id":85804025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cashing",
+        "check"
+    ]
+},
+  "bbox": [
+    -95.918816,
+    41.155005,
+    -95.918816,
+    41.155005
+],
+  "geometry": {"coordinates":[-95.91881600000001,41.155005],"type":"Point"}
+}

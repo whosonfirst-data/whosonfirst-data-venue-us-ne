@@ -1,0 +1,75 @@
+{
+  "id": 873554757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.213534,41.277949,-96.213534,41.277949",
+    "geom:latitude":41.277949,
+    "geom:longitude":-96.213534,
+    "iso:country":"US",
+    "sg:address":"19005 Benton Blvd",
+    "sg:city":"Elkhorn",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 289 4538",
+    "sg:postcode":"68022",
+    "sg:province":"NE",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85868921,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Vb0vbbcBrUVtLZDZAietH_41.277949_-96.213534@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294432,
+    "wof:geomhash":"90ab71e8403d65645ddae7798439748a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85868921,
+            "region_id":85688563,
+            "venue_id":873554757
+        }
+    ],
+    "wof:id":873554757,
+    "wof:lastmodified":1464294432,
+    "wof:name":"Clean Building Service",
+    "wof:parent_id":85868921,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -96.213534,
+    41.277949,
+    -96.213534,
+    41.277949
+],
+  "geometry": {"coordinates":[-96.213534,41.277949],"type":"Point"}
+}

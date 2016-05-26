@@ -1,0 +1,76 @@
+{
+  "id": 873789977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.057394,41.264609,-96.057394,41.264609",
+    "geom:latitude":41.264609,
+    "geom:longitude":-96.057394,
+    "iso:country":"US",
+    "sg:address":"510 N 93rd St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 391 1144",
+    "sg:postcode":"68114",
+    "sg:province":"NE",
+    "sg:tags":[
+        "church"
+    ],
+    "sg:website":"www.st-timothys.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867061,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7RNSKLkovzsvBV28mKc3qB_41.264609_-96.057394@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297640,
+    "wof:geomhash":"33ce89e6587eb1699c26cd0793028517",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85867061,
+            "region_id":85688563,
+            "venue_id":873789977
+        }
+    ],
+    "wof:id":873789977,
+    "wof:lastmodified":1464297640,
+    "wof:name":"St Timothy's Lutheran Church",
+    "wof:parent_id":85867061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -96.057394,
+    41.264609,
+    -96.057394,
+    41.264609
+],
+  "geometry": {"coordinates":[-96.057394,41.264609],"type":"Point"}
+}

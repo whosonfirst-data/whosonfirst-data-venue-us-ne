@@ -1,0 +1,71 @@
+{
+  "id": 873807137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.61993,40.7777,-96.61993,40.7777",
+    "geom:latitude":40.7777,
+    "geom:longitude":-96.61993,
+    "iso:country":"US",
+    "sg:address":"3441 Fox Hollow Cir",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 327 9232",
+    "sg:postcode":"68506",
+    "sg:province":"NE",
+    "sg:tags":[
+        "skilled"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3tOwKhxh10oypKVARqWWXx_40.777700_-96.619930@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297874,
+    "wof:geomhash":"8429ae9c2ef656267fe124db3e8e28c6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878697,
+            "region_id":85688563,
+            "venue_id":873807137
+        }
+    ],
+    "wof:id":873807137,
+    "wof:lastmodified":1464297874,
+    "wof:name":"Foremost Nursing Inc",
+    "wof:parent_id":85878697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "skilled"
+    ]
+},
+  "bbox": [
+    -96.61993,
+    40.7777,
+    -96.61993,
+    40.7777
+],
+  "geometry": {"coordinates":[-96.61993,40.7777],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873624115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.004839,41.285725,-96.004839,41.285725",
+    "geom:latitude":41.285725,
+    "geom:longitude":-96.004839,
+    "iso:country":"US",
+    "sg:address":"2918 N 60th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Library",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 444 4846",
+    "sg:postcode":"68104",
+    "sg:province":"NE",
+    "sg:website":"www.omahapubliclibrary.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872535,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6zlkBo6wAwgP5P9z5nTlt6_41.285725_-96.004839@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295300,
+    "wof:geomhash":"87b5ce365183a9b368e8039dde609ccf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872535,
+            "region_id":85688563,
+            "venue_id":873624115
+        }
+    ],
+    "wof:id":873624115,
+    "wof:lastmodified":1464295300,
+    "wof:name":"Benson Branch Library",
+    "wof:parent_id":85872535,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.004839,
+    41.285725,
+    -96.004839,
+    41.285725
+],
+  "geometry": {"coordinates":[-96.004839,41.285725],"type":"Point"}
+}

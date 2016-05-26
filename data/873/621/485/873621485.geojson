@@ -1,0 +1,67 @@
+{
+  "id": 873621485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.924628,41.167257,-95.924628,41.167257",
+    "geom:latitude":41.167257,
+    "geom:longitude":-95.924628,
+    "iso:country":"US",
+    "sg:address":"505 Galvin Rd N",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 554 9425",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:website":"www.comfedbank.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85804025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4SQY4WOT0qGBX8SK4Fv2sh_41.167257_-95.924628@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295266,
+    "wof:geomhash":"3cb519099812fef8df08029246f30fb6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85804025,
+            "region_id":85688563,
+            "venue_id":873621485
+        }
+    ],
+    "wof:id":873621485,
+    "wof:lastmodified":1464295266,
+    "wof:name":"Bank Of The West",
+    "wof:parent_id":85804025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -95.924628,
+    41.167257,
+    -95.924628,
+    41.167257
+],
+  "geometry": {"coordinates":[-95.924628,41.167257],"type":"Point"}
+}

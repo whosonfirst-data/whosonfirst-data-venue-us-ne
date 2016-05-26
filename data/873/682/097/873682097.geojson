@@ -1,0 +1,75 @@
+{
+  "id": 873682097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.089158,41.310641,-96.089158,41.310641",
+    "geom:latitude":41.310641,
+    "geom:longitude":-96.089158,
+    "iso:country":"US",
+    "sg:address":"11661 Hartman Ave",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 933 7750",
+    "sg:postcode":"68164",
+    "sg:province":"NE",
+    "sg:tags":[
+        "repairing",
+        "house",
+        "remodeling",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85872505,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2edXsdGFAdJD2G8pONOj7M_41.310641_-96.089158@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296056,
+    "wof:geomhash":"624a8560aa5f0c84c2dd62004fa5559d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":873682097
+        }
+    ],
+    "wof:id":873682097,
+    "wof:lastmodified":1464296056,
+    "wof:name":"J & J Builders Handyman",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "house",
+        "remodeling",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.089158,
+    41.310641,
+    -96.089158,
+    41.310641
+],
+  "geometry": {"coordinates":[-96.089158,41.310641],"type":"Point"}
+}

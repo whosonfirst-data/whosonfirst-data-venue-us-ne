@@ -1,0 +1,71 @@
+{
+  "id": 873948311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.054809,41.317395,-96.054809,41.317395",
+    "geom:latitude":41.317395,
+    "geom:longitude":-96.054809,
+    "iso:country":"US",
+    "sg:address":"6504 N 91st Plz",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 571 6800",
+    "sg:postcode":"68134",
+    "sg:province":"NE",
+    "sg:tags":[
+        "roofing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85872505,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0swOkBbx1UFcvKx8uvnnYR_41.317395_-96.054809@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464301073,
+    "wof:geomhash":"d9cc059cf7e26b4b89bded61c470e87e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":873948311
+        }
+    ],
+    "wof:id":873948311,
+    "wof:lastmodified":1464301073,
+    "wof:name":"Jerry's Roofing Inc",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "roofing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.054809,
+    41.317395,
+    -96.054809,
+    41.317395
+],
+  "geometry": {"coordinates":[-96.05480900000001,41.317395],"type":"Point"}
+}

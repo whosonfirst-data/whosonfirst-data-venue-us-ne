@@ -1,0 +1,71 @@
+{
+  "id": 873929719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.138788,41.187893,-96.138788,41.187893",
+    "geom:latitude":41.187893,
+    "geom:longitude":-96.138788,
+    "iso:country":"US",
+    "sg:address":"7021 S 144th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 933 7500",
+    "sg:postcode":"68138",
+    "sg:province":"NE",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85834285,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6VnIbePgkibgrAcbCAMRUA_41.187893_-96.138788@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300403,
+    "wof:geomhash":"b9b1c0ae112fa44e39bd0a7d35c94c58",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85834285,
+            "region_id":85688563,
+            "venue_id":873929719
+        }
+    ],
+    "wof:id":873929719,
+    "wof:lastmodified":1464300403,
+    "wof:name":"Walker Tire",
+    "wof:parent_id":85834285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -96.138788,
+    41.187893,
+    -96.138788,
+    41.187893
+],
+  "geometry": {"coordinates":[-96.13878800000001,41.187893],"type":"Point"}
+}

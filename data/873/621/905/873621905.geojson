@@ -1,0 +1,75 @@
+{
+  "id": 873621905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.619225,40.806236,-96.619225,40.806236",
+    "geom:latitude":40.806236,
+    "geom:longitude":-96.619225,
+    "iso:country":"US",
+    "sg:address":"7260 S Wedgewood Dr",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 488 9478",
+    "sg:postcode":"68510",
+    "sg:province":"NE",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878725,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_31u99CBfWYlJ4w18xh1arY_40.806236_-96.619225@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295269,
+    "wof:geomhash":"3e0de25e8a4faf9f8fb4ec37747cc0ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878725,
+            "region_id":85688563,
+            "venue_id":873621905
+        }
+    ],
+    "wof:id":873621905,
+    "wof:lastmodified":1464295269,
+    "wof:name":"Pete Martinez Plumbing & Htg",
+    "wof:parent_id":85878725,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.619225,
+    40.806236,
+    -96.619225,
+    40.806236
+],
+  "geometry": {"coordinates":[-96.619225,40.806236],"type":"Point"}
+}

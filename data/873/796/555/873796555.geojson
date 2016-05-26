@@ -1,0 +1,73 @@
+{
+  "id": 873796555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.772092,40.848288,-96.772092,40.848288",
+    "geom:latitude":40.848288,
+    "geom:longitude":-96.772092,
+    "iso:country":"US",
+    "sg:address":"3510 NW 36th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 471 2521",
+    "sg:postcode":"68524",
+    "sg:province":"NE",
+    "sg:tags":[
+        "state"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102529023,
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3tmwBFo2HRQlh8tJ1eK4YV_40.848288_-96.772092@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297732,
+    "wof:geomhash":"ff679491a1b5c0223ae74437b066432f",
+    "wof:hierarchy":[
+        {
+            "campus_id":102529023,
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878717,
+            "region_id":85688563,
+            "venue_id":873796555
+        }
+    ],
+    "wof:id":873796555,
+    "wof:lastmodified":1464297732,
+    "wof:name":"Nebraska State Patrol Training",
+    "wof:parent_id":102529023,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state"
+    ]
+},
+  "bbox": [
+    -96.772092,
+    40.848288,
+    -96.772092,
+    40.848288
+],
+  "geometry": {"coordinates":[-96.772092,40.848288],"type":"Point"}
+}

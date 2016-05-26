@@ -1,0 +1,84 @@
+{
+  "id": 873799901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.077188,41.224651,-96.077188,41.224651",
+    "geom:latitude":41.224651,
+    "geom:longitude":-96.077188,
+    "iso:country":"US",
+    "sg:address":"3517 S 105th Ave",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 397 1198",
+    "sg:postcode":"68124",
+    "sg:province":"NE",
+    "sg:tags":[
+        "company",
+        "electronic",
+        "business"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872533,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ZmISuT6xRGUhMfHsT7FGP_41.224651_-96.077188@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297772,
+    "wof:geomhash":"cc5cc9fb3aac15bee1db73a27ef5ac88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872533,
+            "region_id":85688563,
+            "venue_id":873799901
+        }
+    ],
+    "wof:id":873799901,
+    "wof:lastmodified":1464297772,
+    "wof:name":"A A T Communications Corp",
+    "wof:parent_id":85872533,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "electronic",
+        "business"
+    ]
+},
+  "bbox": [
+    -96.077188,
+    41.224651,
+    -96.077188,
+    41.224651
+],
+  "geometry": {"coordinates":[-96.07718800000001,41.224651],"type":"Point"}
+}

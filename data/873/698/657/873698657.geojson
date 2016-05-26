@@ -1,0 +1,71 @@
+{
+  "id": 873698657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.648701,40.735891,-96.648701,40.735891",
+    "geom:latitude":40.735891,
+    "geom:longitude":-96.648701,
+    "iso:country":"US",
+    "sg:address":"5121 Country Hill Rd",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 420 0030",
+    "sg:postcode":"68516",
+    "sg:province":"NE",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85878745,
+        102083503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1QkqrvEHSkRY0sjjbjBAtg_40.735891_-96.648701@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296390,
+    "wof:geomhash":"e89e967d9e73157a9794e946fade7f97",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "neighbourhood_id":85878745,
+            "region_id":85688563,
+            "venue_id":873698657
+        }
+    ],
+    "wof:id":873698657,
+    "wof:lastmodified":1464296390,
+    "wof:name":"William J Nunez PHD",
+    "wof:parent_id":85878745,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -96.648701,
+    40.735891,
+    -96.648701,
+    40.735891
+],
+  "geometry": {"coordinates":[-96.648701,40.735891],"type":"Point"}
+}

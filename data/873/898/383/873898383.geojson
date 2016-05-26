@@ -1,0 +1,71 @@
+{
+  "id": 873898383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.039509,41.141799,-96.039509,41.141799",
+    "geom:latitude":41.141799,
+    "geom:longitude":-96.039509,
+    "iso:country":"US",
+    "sg:address":"1261 Golden Gate Dr",
+    "sg:city":"Papillion",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 595 2600",
+    "sg:postcode":"68046",
+    "sg:province":"NE",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85843697,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_56A38Ztm4e3CqbKXky6WE0_41.141799_-96.039509@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299788,
+    "wof:geomhash":"e2e8c39c221d8779030d56c78ddee804",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85843697,
+            "region_id":85688563,
+            "venue_id":873898383
+        }
+    ],
+    "wof:id":873898383,
+    "wof:lastmodified":1464299788,
+    "wof:name":"Nebraska Health & Human Svc",
+    "wof:parent_id":85843697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -96.039509,
+    41.141799,
+    -96.039509,
+    41.141799
+],
+  "geometry": {"coordinates":[-96.039509,41.141799],"type":"Point"}
+}

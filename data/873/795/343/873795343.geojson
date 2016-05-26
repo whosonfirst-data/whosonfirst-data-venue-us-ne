@@ -1,0 +1,73 @@
+{
+  "id": 873795343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.641503,40.858959,-96.641503,40.858959",
+    "geom:latitude":40.858959,
+    "geom:longitude":-96.641503,
+    "iso:country":"US",
+    "sg:address":"5600 Cornhusker Hwy",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 464 8707",
+    "sg:postcode":"68507",
+    "sg:province":"NE",
+    "sg:tags":[
+        "web",
+        "hosting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85824241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ArtrJZUtLuzeKoslY2IeP_40.858959_-96.641503@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297719,
+    "wof:geomhash":"1d275198ab4072e56e6b0d0d1b04dc4a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85824241,
+            "region_id":85688563,
+            "venue_id":873795343
+        }
+    ],
+    "wof:id":873795343,
+    "wof:lastmodified":1464297719,
+    "wof:name":"D2vnet",
+    "wof:parent_id":85824241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "web",
+        "hosting"
+    ]
+},
+  "bbox": [
+    -96.641503,
+    40.858959,
+    -96.641503,
+    40.858959
+],
+  "geometry": {"coordinates":[-96.641503,40.858959],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873885935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.04453,41.154804,-96.04453,41.154804",
+    "geom:latitude":41.154804,
+    "geom:longitude":-96.04453,
+    "iso:country":"US",
+    "sg:address":"211 N Jackson St",
+    "sg:city":"Papillion",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 740 0800",
+    "sg:postcode":"68046",
+    "sg:province":"NE",
+    "sg:tags":[
+        "roofing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85843697,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3EATg1w7TsLwEpefBJO8iL_41.154804_-96.044530@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299555,
+    "wof:geomhash":"51603c55cef9eb3f1e1d39e2ff9a46cf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85843697,
+            "region_id":85688563,
+            "venue_id":873885935
+        }
+    ],
+    "wof:id":873885935,
+    "wof:lastmodified":1464299555,
+    "wof:name":"A & P Construction Inc",
+    "wof:parent_id":85843697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "roofing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.04453,
+    41.154804,
+    -96.04453,
+    41.154804
+],
+  "geometry": {"coordinates":[-96.04452999999999,41.154804],"type":"Point"}
+}

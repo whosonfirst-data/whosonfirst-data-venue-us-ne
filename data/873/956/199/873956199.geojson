@@ -1,0 +1,81 @@
+{
+  "id": 873956199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.665484,40.792399,-96.665484,40.792399",
+    "geom:latitude":40.792399,
+    "geom:longitude":-96.665484,
+    "iso:country":"US",
+    "sg:address":"3806 Normal Blvd",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 489 9400",
+    "sg:postcode":"68506",
+    "sg:province":"NE",
+    "sg:tags":[
+        "physician",
+        "surgeon",
+        "administrative",
+        "billing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85892213,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_42nPKlGjoShbisL5iD8kFJ_40.792399_-96.665484@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464301380,
+    "wof:geomhash":"8935f759c0a9965f9b22630c3c513658",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85892213,
+            "region_id":85688563,
+            "venue_id":873956199
+        }
+    ],
+    "wof:id":873956199,
+    "wof:lastmodified":1464301380,
+    "wof:name":"Lincoln Radiology Group P C",
+    "wof:parent_id":85892213,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon",
+        "administrative",
+        "billing"
+    ]
+},
+  "bbox": [
+    -96.665484,
+    40.792399,
+    -96.665484,
+    40.792399
+],
+  "geometry": {"coordinates":[-96.66548400000001,40.792399],"type":"Point"}
+}

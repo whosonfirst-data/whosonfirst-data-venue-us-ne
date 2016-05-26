@@ -1,0 +1,77 @@
+{
+  "id": 873753855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.081345,41.237002,-96.081345,41.237002",
+    "geom:latitude":41.237002,
+    "geom:longitude":-96.081345,
+    "iso:country":"US",
+    "sg:address":"10612 Castelar St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 397 3503",
+    "sg:postcode":"68124",
+    "sg:province":"NE",
+    "sg:tags":[
+        "crop",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872533,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3LdNrcZAGQb5Iws72sAR7z_41.237002_-96.081345@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297131,
+    "wof:geomhash":"ddf9feb6cf82f2477c88397c3af1bc20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872533,
+            "region_id":85688563,
+            "venue_id":873753855
+        }
+    ],
+    "wof:id":873753855,
+    "wof:lastmodified":1464297131,
+    "wof:name":"West Farm Company",
+    "wof:parent_id":85872533,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crop",
+        "general"
+    ]
+},
+  "bbox": [
+    -96.081345,
+    41.237002,
+    -96.081345,
+    41.237002
+],
+  "geometry": {"coordinates":[-96.081345,41.237002],"type":"Point"}
+}

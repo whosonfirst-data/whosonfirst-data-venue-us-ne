@@ -1,0 +1,71 @@
+{
+  "id": 873806435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.187902,41.182942,-96.187902,41.182942",
+    "geom:latitude":41.182942,
+    "geom:longitude":-96.187902,
+    "iso:country":"US",
+    "sg:address":"17410 Storage Rd",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 896 2922",
+    "sg:postcode":"68136",
+    "sg:province":"NE",
+    "sg:tags":[
+        "cookie",
+        "cracker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85834285,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4tmC9ZTG5AvRn9JV8wtpap_41.182942_-96.187902@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297858,
+    "wof:geomhash":"53f1db7c917cc6e94ba4bfb3849efd56",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85834285,
+            "region_id":85688563,
+            "venue_id":873806435
+        }
+    ],
+    "wof:id":873806435,
+    "wof:lastmodified":1464297858,
+    "wof:name":"Cookie Advantage",
+    "wof:parent_id":85834285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cookie",
+        "cracker"
+    ]
+},
+  "bbox": [
+    -96.187902,
+    41.182942,
+    -96.187902,
+    41.182942
+],
+  "geometry": {"coordinates":[-96.18790199999999,41.182942],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 873904721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.114828,41.203521,-96.114828,41.203521",
+    "geom:latitude":41.203521,
+    "geom:longitude":-96.114828,
+    "iso:country":"US",
+    "sg:address":"12749 Woodcrest Plz",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 896 8874",
+    "sg:postcode":"68137",
+    "sg:province":"NE",
+    "sg:tags":[
+        "builder",
+        "patio",
+        "deck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872531,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4nTAiHbCP0OkvZJPmXi90u_41.203521_-96.114828@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299913,
+    "wof:geomhash":"797a912d4e1fdfae4539b154b5892576",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872531,
+            "region_id":85688563,
+            "venue_id":873904721
+        }
+    ],
+    "wof:id":873904721,
+    "wof:lastmodified":1464299913,
+    "wof:name":"Decks Plus",
+    "wof:parent_id":85872531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "builder",
+        "patio",
+        "deck"
+    ]
+},
+  "bbox": [
+    -96.114828,
+    41.203521,
+    -96.114828,
+    41.203521
+],
+  "geometry": {"coordinates":[-96.114828,41.203521],"type":"Point"}
+}

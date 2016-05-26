@@ -1,0 +1,75 @@
+{
+  "id": 873553857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.640393,40.809869,-96.640393,40.809869",
+    "geom:latitude":40.809869,
+    "geom:longitude":-96.640393,
+    "iso:country":"US",
+    "sg:address":"5730 L St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 488 8843",
+    "sg:postcode":"68510",
+    "sg:province":"NE",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878703,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_51Nm5wwz4p0xezfZIg2jYa_40.809869_-96.640393@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294420,
+    "wof:geomhash":"761c03e91374c7ec546a90ba4c67f23e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878703,
+            "region_id":85688563,
+            "venue_id":873553857
+        }
+    ],
+    "wof:id":873553857,
+    "wof:lastmodified":1464294420,
+    "wof:name":"Shear Magic Barber Shop",
+    "wof:parent_id":85878703,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -96.640393,
+    40.809869,
+    -96.640393,
+    40.809869
+],
+  "geometry": {"coordinates":[-96.640393,40.809869],"type":"Point"}
+}

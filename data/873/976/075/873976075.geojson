@@ -1,0 +1,74 @@
+{
+  "id": 873976075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.94732,41.132392,-95.94732,41.132392",
+    "geom:latitude":41.132392,
+    "geom:longitude":-95.94732,
+    "iso:country":"US",
+    "sg:address":"11816 S 25th St",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ne/bellevue-second-iv/87120-little-caesars-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 292 8845",
+    "sg:postcode":"68123",
+    "sg:province":"NE",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85821583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3sUvdrMeZ8gtC6tvnQOQ2M_41.132392_-95.947320@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464302226,
+    "wof:geomhash":"b379f2870c41941087511c2623441338",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85821583,
+            "region_id":85688563,
+            "venue_id":873976075
+        }
+    ],
+    "wof:id":873976075,
+    "wof:lastmodified":1464302226,
+    "wof:name":"Little Caesar's Pizza",
+    "wof:parent_id":85821583,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -95.94732,
+    41.132392,
+    -95.94732,
+    41.132392
+],
+  "geometry": {"coordinates":[-95.94732,41.132392],"type":"Point"}
+}

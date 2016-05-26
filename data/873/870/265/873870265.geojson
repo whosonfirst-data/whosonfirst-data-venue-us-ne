@@ -1,0 +1,71 @@
+{
+  "id": 873870265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.623184,40.845239,-96.623184,40.845239",
+    "geom:latitude":40.845239,
+    "geom:longitude":-96.623184,
+    "iso:country":"US",
+    "sg:address":"3330 N 72nd St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 467 3081",
+    "sg:postcode":"68507",
+    "sg:province":"NE",
+    "sg:tags":[
+        "used"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85824241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_03hEKcdsP7fvd9c0WA7UkO_40.845239_-96.623184@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299229,
+    "wof:geomhash":"b3a141c3ff15f48d6df56b42f9eabb5b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85824241,
+            "region_id":85688563,
+            "venue_id":873870265
+        }
+    ],
+    "wof:id":873870265,
+    "wof:lastmodified":1464299229,
+    "wof:name":"Eds Auto Sales",
+    "wof:parent_id":85824241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "used"
+    ]
+},
+  "bbox": [
+    -96.623184,
+    40.845239,
+    -96.623184,
+    40.845239
+],
+  "geometry": {"coordinates":[-96.62318399999999,40.845239],"type":"Point"}
+}

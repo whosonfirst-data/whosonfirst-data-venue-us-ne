@@ -1,0 +1,71 @@
+{
+  "id": 873686113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.102321,41.248709,-96.102321,41.248709",
+    "geom:latitude":41.248709,
+    "geom:longitude":-96.102321,
+    "iso:country":"US",
+    "sg:address":"12112 Pacific St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 697 4159",
+    "sg:postcode":"68154",
+    "sg:province":"NE",
+    "sg:website":"www.cbshome.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872503,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_28PHn1xVMCFdx3H8mJEujf_41.248709_-96.102321@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296168,
+    "wof:geomhash":"cf14e640be8d0a2ddd1beb2be08f79cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872503,
+            "region_id":85688563,
+            "venue_id":873686113
+        }
+    ],
+    "wof:id":873686113,
+    "wof:lastmodified":1464296168,
+    "wof:name":"Cbs Home Real Estate",
+    "wof:parent_id":85872503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.102321,
+    41.248709,
+    -96.102321,
+    41.248709
+],
+  "geometry": {"coordinates":[-96.102321,41.248709],"type":"Point"}
+}

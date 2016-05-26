@@ -1,0 +1,71 @@
+{
+  "id": 873904863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.949725,41.132435,-95.949725,41.132435",
+    "geom:latitude":41.132435,
+    "geom:longitude":-95.949725,
+    "iso:country":"US",
+    "sg:address":"2604 Jack Pine St",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 291 4048",
+    "sg:postcode":"68123",
+    "sg:province":"NE",
+    "sg:tags":[
+        "postal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85821583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1fuXvQu9ZaqW1QsQLdx3Ce_41.132435_-95.949725@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299916,
+    "wof:geomhash":"a2cf719a91c2b644002d4e1e5c306b4e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85821583,
+            "region_id":85688563,
+            "venue_id":873904863
+        }
+    ],
+    "wof:id":873904863,
+    "wof:lastmodified":1464299916,
+    "wof:name":"Pos Postal Service Operations",
+    "wof:parent_id":85821583,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "postal"
+    ]
+},
+  "bbox": [
+    -95.949725,
+    41.132435,
+    -95.949725,
+    41.132435
+],
+  "geometry": {"coordinates":[-95.949725,41.132435],"type":"Point"}
+}

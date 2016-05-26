@@ -1,0 +1,71 @@
+{
+  "id": 873580713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.023833,41.320732,-96.023833,41.320732",
+    "geom:latitude":41.320732,
+    "geom:longitude":-96.023833,
+    "iso:country":"US",
+    "sg:address":"6901 N 72nd St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 572 2290",
+    "sg:postcode":"68122",
+    "sg:province":"NE",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85872505,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0aLqxPwOqZmjnVoW8VLqU3_41.320732_-96.023833@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294729,
+    "wof:geomhash":"0e43fe9dbfe9c203ae599c9b2185ed4b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":873580713
+        }
+    ],
+    "wof:id":873580713,
+    "wof:lastmodified":1464294729,
+    "wof:name":"Department Of Pathology",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -96.023833,
+    41.320732,
+    -96.023833,
+    41.320732
+],
+  "geometry": {"coordinates":[-96.023833,41.320732],"type":"Point"}
+}

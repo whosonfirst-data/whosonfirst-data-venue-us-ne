@@ -1,0 +1,71 @@
+{
+  "id": 873535821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.147313,41.151984,-96.147313,41.151984",
+    "geom:latitude":41.151984,
+    "geom:longitude":-96.147313,
+    "iso:country":"US",
+    "sg:address":"10704 S 149th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Home Furnishings",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 408 0594",
+    "sg:postcode":"68138",
+    "sg:province":"NE",
+    "sg:tags":[
+        "item",
+        "consumer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85834285,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6sMXqJY3VaxGMGkO7fxFUp_41.151984_-96.147313@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294213,
+    "wof:geomhash":"0b4e5d4ec9903fb7e2b95bbf42bbc196",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85834285,
+            "region_id":85688563,
+            "venue_id":873535821
+        }
+    ],
+    "wof:id":873535821,
+    "wof:lastmodified":1464294213,
+    "wof:name":"Custom Dollar Systems LLC",
+    "wof:parent_id":85834285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "item",
+        "consumer"
+    ]
+},
+  "bbox": [
+    -96.147313,
+    41.151984,
+    -96.147313,
+    41.151984
+],
+  "geometry": {"coordinates":[-96.147313,41.151984],"type":"Point"}
+}

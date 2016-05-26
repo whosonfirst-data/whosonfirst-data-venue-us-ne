@@ -1,0 +1,69 @@
+{
+  "id": 873677119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.135369,41.309224,-96.135369,41.309224",
+    "geom:latitude":41.309224,
+    "geom:longitude":-96.135369,
+    "iso:country":"US",
+    "sg:address":"5621 N 141st Cir",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 493 9449",
+    "sg:postcode":"68164",
+    "sg:province":"NE",
+    "sg:tags":[
+        "appraiser"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85872505,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_526nTEKCGeI5Lv1Z3cMo3u_41.309224_-96.135369@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295915,
+    "wof:geomhash":"c4953f6b6426284388059f9b0f959609",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":873677119
+        }
+    ],
+    "wof:id":873677119,
+    "wof:lastmodified":1464295915,
+    "wof:name":"Coder Appraisal Svc",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appraiser"
+    ]
+},
+  "bbox": [
+    -96.135369,
+    41.309224,
+    -96.135369,
+    41.309224
+],
+  "geometry": {"coordinates":[-96.135369,41.309224],"type":"Point"}
+}

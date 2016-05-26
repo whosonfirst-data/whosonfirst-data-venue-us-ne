@@ -1,0 +1,71 @@
+{
+  "id": 873823103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.158413,41.186051,-96.158413,41.186051",
+    "geom:latitude":41.186051,
+    "geom:longitude":-96.158413,
+    "iso:country":"US",
+    "sg:address":"7505 S 156th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 896 2900",
+    "sg:postcode":"68136",
+    "sg:province":"NE",
+    "sg:tags":[
+        "recreational",
+        "vehicle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85834285,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2fQqNfouRiuvezVMDl6g7C_41.186051_-96.158413@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298192,
+    "wof:geomhash":"1cade681a82b17cf3cf0ec30f3c1715c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85834285,
+            "region_id":85688563,
+            "venue_id":873823103
+        }
+    ],
+    "wof:id":873823103,
+    "wof:lastmodified":1464298192,
+    "wof:name":"KMT Storage",
+    "wof:parent_id":85834285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "recreational",
+        "vehicle"
+    ]
+},
+  "bbox": [
+    -96.158413,
+    41.186051,
+    -96.158413,
+    41.186051
+],
+  "geometry": {"coordinates":[-96.158413,41.186051],"type":"Point"}
+}

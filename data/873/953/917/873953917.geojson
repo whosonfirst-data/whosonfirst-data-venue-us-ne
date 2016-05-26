@@ -1,0 +1,77 @@
+{
+  "id": 873953917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.724495,40.820353,-96.724495,40.820353",
+    "geom:latitude":40.820353,
+    "geom:longitude":-96.724495,
+    "iso:country":"US",
+    "sg:address":"621 Westgate Blvd",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 475 2939",
+    "sg:postcode":"68528",
+    "sg:province":"NE",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878689,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5MXOJ0bwtFzF7UX5DDHGwU_40.820353_-96.724495@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464301298,
+    "wof:geomhash":"3678591e8b7257432ce62ffa43372bcc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878689,
+            "region_id":85688563,
+            "venue_id":873953917
+        }
+    ],
+    "wof:id":873953917,
+    "wof:lastmodified":1464301298,
+    "wof:name":"Denny's Auto Sales",
+    "wof:parent_id":85878689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -96.724495,
+    40.820353,
+    -96.724495,
+    40.820353
+],
+  "geometry": {"coordinates":[-96.724495,40.820353],"type":"Point"}
+}

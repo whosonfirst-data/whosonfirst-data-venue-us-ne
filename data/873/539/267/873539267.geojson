@@ -1,0 +1,73 @@
+{
+  "id": 873539267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.675825,40.859337,-96.675825,40.859337",
+    "geom:latitude":40.859337,
+    "geom:longitude":-96.675825,
+    "iso:country":"US",
+    "sg:address":"4700 Bair Ave",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 434 1945",
+    "sg:postcode":"68504",
+    "sg:province":"NE",
+    "sg:tags":[
+        "lottery",
+        "agent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4JcUFjxkixbjFLGQ8TlITE_40.859337_-96.675825@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294252,
+    "wof:geomhash":"c2eab40d3a74ec0104264a7b87c6f8dc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878687,
+            "region_id":85688563,
+            "venue_id":873539267
+        }
+    ],
+    "wof:id":873539267,
+    "wof:lastmodified":1464294252,
+    "wof:name":"Gtech",
+    "wof:parent_id":85878687,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lottery",
+        "agent"
+    ]
+},
+  "bbox": [
+    -96.675825,
+    40.859337,
+    -96.675825,
+    40.859337
+],
+  "geometry": {"coordinates":[-96.675825,40.859337],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 873943987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.671804,40.777119,-96.671804,40.777119",
+    "geom:latitude":40.777119,
+    "geom:longitude":-96.671804,
+    "iso:country":"US",
+    "sg:address":"3300 Calvert St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 730 3411",
+    "sg:postcode":"68506",
+    "sg:province":"NE",
+    "sg:tags":[
+        "pet",
+        "food",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878713,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_58HVk7KSPy0fAt32Lrj3My_40.777119_-96.671804@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300846,
+    "wof:geomhash":"ec4cb4eb16ac95f9b73f3238d06b7289",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878713,
+            "region_id":85688563,
+            "venue_id":873943987
+        }
+    ],
+    "wof:id":873943987,
+    "wof:lastmodified":1464300846,
+    "wof:name":"Jeneration Pets",
+    "wof:parent_id":85878713,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "food",
+        "supply"
+    ]
+},
+  "bbox": [
+    -96.671804,
+    40.777119,
+    -96.671804,
+    40.777119
+],
+  "geometry": {"coordinates":[-96.67180399999999,40.777119],"type":"Point"}
+}

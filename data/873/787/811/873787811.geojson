@@ -1,0 +1,66 @@
+{
+  "id": 873787811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.684299,40.86202,-96.684299,40.86202",
+    "geom:latitude":40.86202,
+    "geom:longitude":-96.684299,
+    "iso:country":"US",
+    "sg:address":"2555 Kensington Dr",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 435 4800",
+    "sg:postcode":"68521",
+    "sg:province":"NE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5LmYbkF66lacOjRGHslxj2_40.862020_-96.684299@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297608,
+    "wof:geomhash":"ff1eaba5e17e5966825fe5c6389b04e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878687,
+            "region_id":85688563,
+            "venue_id":873787811
+        }
+    ],
+    "wof:id":873787811,
+    "wof:lastmodified":1464297608,
+    "wof:name":"Medicap Pharmacy",
+    "wof:parent_id":85878687,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.684299,
+    40.86202,
+    -96.684299,
+    40.86202
+],
+  "geometry": {"coordinates":[-96.684299,40.86202],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873538397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.146105,41.329854,-96.146105,41.329854",
+    "geom:latitude":41.329854,
+    "geom:longitude":-96.146105,
+    "iso:country":"US",
+    "sg:address":"15220 Military Rd",
+    "sg:city":"Bennington",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 238 0100",
+    "sg:postcode":"68007",
+    "sg:province":"NE",
+    "sg:tags":[
+        "broker",
+        "customs"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85872505,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6QKoZxi9X6QZ7TZ4zl1kZx_41.329854_-96.146105@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294243,
+    "wof:geomhash":"060ae395b32b1769914e16ffbcc50690",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":873538397
+        }
+    ],
+    "wof:id":873538397,
+    "wof:lastmodified":1464294243,
+    "wof:name":"New Venture Brokers Inc",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "broker",
+        "customs"
+    ]
+},
+  "bbox": [
+    -96.146105,
+    41.329854,
+    -96.146105,
+    41.329854
+],
+  "geometry": {"coordinates":[-96.14610500000001,41.329854],"type":"Point"}
+}

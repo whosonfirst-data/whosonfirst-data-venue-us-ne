@@ -1,0 +1,79 @@
+{
+  "id": 873748535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.67099,40.840388,-96.67099,40.840388",
+    "geom:latitude":40.840388,
+    "geom:longitude":-96.67099,
+    "iso:country":"US",
+    "sg:address":"3316 Madison Ave",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 432 3368",
+    "sg:postcode":"68504",
+    "sg:province":"NE",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878741,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_56a4UrAovtAASFstVmRFKu_40.840388_-96.670990@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297056,
+    "wof:geomhash":"2b9cbbc7d80d8bbd7a3c026eefe92e55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878741,
+            "region_id":85688563,
+            "venue_id":873748535
+        }
+    ],
+    "wof:id":873748535,
+    "wof:lastmodified":1464297056,
+    "wof:name":"Dent Tendent",
+    "wof:parent_id":85878741,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -96.67099,
+    40.840388,
+    -96.67099,
+    40.840388
+],
+  "geometry": {"coordinates":[-96.67099,40.840388],"type":"Point"}
+}

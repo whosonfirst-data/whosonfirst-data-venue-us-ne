@@ -1,0 +1,71 @@
+{
+  "id": 873961415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.051784,41.150765,-96.051784,41.150765",
+    "geom:latitude":41.150765,
+    "geom:longitude":-96.051784,
+    "iso:country":"US",
+    "sg:address":"503 Fillmore St",
+    "sg:city":"Papillion",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 597 0871",
+    "sg:postcode":"68046",
+    "sg:province":"NE",
+    "sg:tags":[
+        "crop",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85843697,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3PMMjIEca1Mbr87D4GtEGk_41.150765_-96.051784@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464301611,
+    "wof:geomhash":"c42bcade4b37717ec059bae65369f403",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85843697,
+            "region_id":85688563,
+            "venue_id":873961415
+        }
+    ],
+    "wof:id":873961415,
+    "wof:lastmodified":1464301611,
+    "wof:name":"Legacy Farms LLC",
+    "wof:parent_id":85843697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crop",
+        "general"
+    ]
+},
+  "bbox": [
+    -96.051784,
+    41.150765,
+    -96.051784,
+    41.150765
+],
+  "geometry": {"coordinates":[-96.051784,41.150765],"type":"Point"}
+}

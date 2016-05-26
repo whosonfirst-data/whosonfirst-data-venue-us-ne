@@ -1,0 +1,77 @@
+{
+  "id": 873762439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-98.33971,40.907457,-98.33971,40.907457",
+    "geom:latitude":40.907457,
+    "geom:longitude":-98.33971,
+    "iso:country":"US",
+    "sg:address":"1403 S Locust St",
+    "sg:city":"Grand Island",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 308 398 2886",
+    "sg:postcode":"68801",
+    "sg:province":"NE",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85840711,
+        102191575,
+        404518499,
+        85633793,
+        85973941,
+        102083477,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4mAPRmloks16HHOYSptYSY_40.907457_-98.339710@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297248,
+    "wof:geomhash":"ab79f13a441898e16f108b4dd78cdb95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083477,
+            "localadmin_id":404518499,
+            "locality_id":85973941,
+            "neighbourhood_id":85840711,
+            "region_id":85688563,
+            "venue_id":873762439
+        }
+    ],
+    "wof:id":873762439,
+    "wof:lastmodified":1464297248,
+    "wof:name":"Auto Fleet",
+    "wof:parent_id":85840711,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -98.33971,
+    40.907457,
+    -98.33971,
+    40.907457
+],
+  "geometry": {"coordinates":[-98.33971,40.907457],"type":"Point"}
+}

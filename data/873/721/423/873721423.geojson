@@ -1,0 +1,82 @@
+{
+  "id": 873721423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.059382,41.345971,-96.059382,41.345971",
+    "geom:latitude":41.345971,
+    "geom:longitude":-96.059382,
+    "iso:country":"US",
+    "sg:address":"9408 Woodney Cir",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm & Veterinary Services",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 573 0071",
+    "sg:postcode":"68122",
+    "sg:province":"NE",
+    "sg:tags":[
+        "preparation",
+        "soil",
+        "lawn",
+        "maintenance",
+        "grounds"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85872505,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7YecHdTvSzrnCuAOioxu1U_41.345971_-96.059382@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296668,
+    "wof:geomhash":"572e38bbc951dbc26ada5c7110c98c69",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":873721423
+        }
+    ],
+    "wof:id":873721423,
+    "wof:lastmodified":1464296668,
+    "wof:name":"Commercial Seeding Contractors",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "preparation",
+        "soil",
+        "lawn",
+        "maintenance",
+        "grounds"
+    ]
+},
+  "bbox": [
+    -96.059382,
+    41.345971,
+    -96.059382,
+    41.345971
+],
+  "geometry": {"coordinates":[-96.059382,41.345971],"type":"Point"}
+}

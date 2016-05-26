@@ -1,0 +1,78 @@
+{
+  "id": 873943211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.75867,40.880565,-96.75867,40.880565",
+    "geom:latitude":40.880565,
+    "geom:longitude":-96.75867,
+    "iso:country":"US",
+    "sg:address":"7000 NW 27th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 470 3678",
+    "sg:postcode":"68524",
+    "sg:province":"NE",
+    "sg:tags":[
+        "breakfast",
+        "operation",
+        "bed",
+        "accommodation"
+    ],
+    "sg:website":"www.westviewbb.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4wGCDl6IgyQ1V6BGY8dCSj_40.880565_-96.758670@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300814,
+    "wof:geomhash":"d9c93473d75512492c76868fa03d8cdd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878717,
+            "region_id":85688563,
+            "venue_id":873943211
+        }
+    ],
+    "wof:id":873943211,
+    "wof:lastmodified":1464300814,
+    "wof:name":"Westview House Bed & Breakfast",
+    "wof:parent_id":85878717,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "breakfast",
+        "operation",
+        "bed",
+        "accommodation"
+    ]
+},
+  "bbox": [
+    -96.75867,
+    40.880565,
+    -96.75867,
+    40.880565
+],
+  "geometry": {"coordinates":[-96.75867,40.880565],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873882289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.630333,40.842558,-96.630333,40.842558",
+    "geom:latitude":40.842558,
+    "geom:longitude":-96.630333,
+    "iso:country":"US",
+    "sg:address":"3164 N Cotner Blvd",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 466 9611",
+    "sg:postcode":"68507",
+    "sg:province":"NE",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85824241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2rpF00tj76dJX3xCxX0A84_40.842558_-96.630333@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299475,
+    "wof:geomhash":"5eac210d04ecfc60d07de9f0cf5b606f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85824241,
+            "region_id":85688563,
+            "venue_id":873882289
+        }
+    ],
+    "wof:id":873882289,
+    "wof:lastmodified":1464299475,
+    "wof:name":"Doin Hair By Yvonne Inc",
+    "wof:parent_id":85824241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -96.630333,
+    40.842558,
+    -96.630333,
+    40.842558
+],
+  "geometry": {"coordinates":[-96.63033299999999,40.842558],"type":"Point"}
+}

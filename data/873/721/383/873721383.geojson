@@ -1,0 +1,71 @@
+{
+  "id": 873721383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.776802,40.85353,-96.776802,40.85353",
+    "geom:latitude":40.85353,
+    "geom:longitude":-96.776802,
+    "iso:country":"US",
+    "sg:address":"3920 W Kearney St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 471 0105",
+    "sg:postcode":"68524",
+    "sg:province":"NE",
+    "sg:tags":[
+        "protection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1vpNmyYEeSu8BkiMpAdAtU_40.853530_-96.776802@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296667,
+    "wof:geomhash":"a6f87f7eb8ad6e57f8a89783751f04c7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878717,
+            "region_id":85688563,
+            "venue_id":873721383
+        }
+    ],
+    "wof:id":873721383,
+    "wof:lastmodified":1464296667,
+    "wof:name":"State Patrol Nebraska",
+    "wof:parent_id":85878717,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "protection"
+    ]
+},
+  "bbox": [
+    -96.776802,
+    40.85353,
+    -96.776802,
+    40.85353
+],
+  "geometry": {"coordinates":[-96.776802,40.85353],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 873847681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.049585,41.232929,-96.049585,41.232929",
+    "geom:latitude":41.232929,
+    "geom:longitude":-96.049585,
+    "iso:country":"US",
+    "sg:address":"2821 S 87th Ave",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Podiatrist",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 391 0960",
+    "sg:postcode":"68124",
+    "sg:province":"NE",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872533,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4eY8XxXBkSZUo2pRZYWmcJ_41.232929_-96.049585@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298757,
+    "wof:geomhash":"6fea9b07600df4ded5b821f6f7d23a1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872533,
+            "region_id":85688563,
+            "venue_id":873847681
+        }
+    ],
+    "wof:id":873847681,
+    "wof:lastmodified":1464298757,
+    "wof:name":"Larson Foot Clinic PC",
+    "wof:parent_id":85872533,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -96.049585,
+    41.232929,
+    -96.049585,
+    41.232929
+],
+  "geometry": {"coordinates":[-96.04958499999999,41.232929],"type":"Point"}
+}

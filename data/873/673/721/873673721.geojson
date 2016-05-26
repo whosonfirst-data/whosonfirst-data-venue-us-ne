@@ -1,0 +1,77 @@
+{
+  "id": 873673721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.021294,41.251978,-96.021294,41.251978",
+    "geom:latitude":41.251978,
+    "geom:longitude":-96.021294,
+    "iso:country":"US",
+    "sg:address":"929 S 70th Plz",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 558 2570",
+    "sg:postcode":"68106",
+    "sg:province":"NE",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867059,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1cTlSK2nuYIvUuwLdURn0E_41.251978_-96.021294@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295838,
+    "wof:geomhash":"6604af94c6c94b45a37e3d6968d49f16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85867059,
+            "region_id":85688563,
+            "venue_id":873673721
+        }
+    ],
+    "wof:id":873673721,
+    "wof:lastmodified":1464295838,
+    "wof:name":"Crosswind APT",
+    "wof:parent_id":85867059,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -96.021294,
+    41.251978,
+    -96.021294,
+    41.251978
+],
+  "geometry": {"coordinates":[-96.021294,41.251978],"type":"Point"}
+}

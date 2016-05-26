@@ -1,0 +1,75 @@
+{
+  "id": 873728845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.012049,41.282788,-96.012049,41.282788",
+    "geom:latitude":41.282788,
+    "geom:longitude":-96.012049,
+    "iso:country":"US",
+    "sg:address":"2546 N 65th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 558 6496",
+    "sg:postcode":"68104",
+    "sg:province":"NE",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872535,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Kft9TSaJGUR33skqvc1Bq_41.282788_-96.012049@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296765,
+    "wof:geomhash":"cbc0c41e1bbf6bf15605782e05e48f8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872535,
+            "region_id":85688563,
+            "venue_id":873728845
+        }
+    ],
+    "wof:id":873728845,
+    "wof:lastmodified":1464296765,
+    "wof:name":"Bob Maintenance Co",
+    "wof:parent_id":85872535,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -96.012049,
+    41.282788,
+    -96.012049,
+    41.282788
+],
+  "geometry": {"coordinates":[-96.012049,41.282788],"type":"Point"}
+}

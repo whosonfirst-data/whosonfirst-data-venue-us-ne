@@ -1,0 +1,67 @@
+{
+  "id": 873779533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.909022,41.153642,-95.909022,41.153642",
+    "geom:latitude":41.153642,
+    "geom:longitude":-95.909022,
+    "iso:country":"US",
+    "sg:address":"700 Lincoln Rd",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 293 4955",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:website":"www.bellevuepublicschools.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85804025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4XwSnyKlU46deCUgNLWci6_41.153642_-95.909022@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297483,
+    "wof:geomhash":"595d4e1102b86a2646de72d35f4920a8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85804025,
+            "region_id":85688563,
+            "venue_id":873779533
+        }
+    ],
+    "wof:id":873779533,
+    "wof:lastmodified":1464297483,
+    "wof:name":"Wake Robin Elementary School",
+    "wof:parent_id":85804025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -95.909022,
+    41.153642,
+    -95.909022,
+    41.153642
+],
+  "geometry": {"coordinates":[-95.90902199999999,41.153642],"type":"Point"}
+}

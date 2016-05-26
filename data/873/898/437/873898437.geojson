@@ -1,0 +1,71 @@
+{
+  "id": 873898437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.9514,41.162344,-95.9514,41.162344",
+    "geom:latitude":41.162344,
+    "geom:longitude":-95.9514,
+    "iso:country":"US",
+    "sg:address":"2613 Morrie Dr",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 682 5454",
+    "sg:postcode":"68123",
+    "sg:province":"NE",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85821583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_01D3YbZvM8xxB9lISUVLzG_41.162344_-95.951400@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299789,
+    "wof:geomhash":"846665712bb0fe22ead3ccf9eedbc03f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85821583,
+            "region_id":85688563,
+            "venue_id":873898437
+        }
+    ],
+    "wof:id":873898437,
+    "wof:lastmodified":1464299789,
+    "wof:name":"Julie Lampman",
+    "wof:parent_id":85821583,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -95.9514,
+    41.162344,
+    -95.9514,
+    41.162344
+],
+  "geometry": {"coordinates":[-95.95140000000001,41.162344],"type":"Point"}
+}

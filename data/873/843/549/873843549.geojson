@@ -1,0 +1,75 @@
+{
+  "id": 873843549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.004627,41.318633,-96.004627,41.318633",
+    "geom:latitude":41.318633,
+    "geom:longitude":-96.004627,
+    "iso:country":"US",
+    "sg:address":"6600 N 60th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 572 0824",
+    "sg:postcode":"68152",
+    "sg:province":"NE",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85805755,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0wJ3whDCaYvcApPeNnMGok_41.318633_-96.004627@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298644,
+    "wof:geomhash":"568d12b0da274be2fef64e176759fc7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85805755,
+            "region_id":85688563,
+            "venue_id":873843549
+        }
+    ],
+    "wof:id":873843549,
+    "wof:lastmodified":1464298644,
+    "wof:name":"Bozarths Garage",
+    "wof:parent_id":85805755,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -96.004627,
+    41.318633,
+    -96.004627,
+    41.318633
+],
+  "geometry": {"coordinates":[-96.004627,41.318633],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 873936893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.075826,41.308717,-96.075826,41.308717",
+    "geom:latitude":41.308717,
+    "geom:longitude":-96.075826,
+    "iso:country":"US",
+    "sg:address":"10352 Ellison Cir",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 491 3600",
+    "sg:postcode":"68134",
+    "sg:province":"NE",
+    "sg:tags":[
+        "printer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85872505,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3NH28kPLMewydyfBvJo3Sv_41.308717_-96.075826@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300570,
+    "wof:geomhash":"879447a5d599b46debaa2295cc0aa07b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":873936893
+        }
+    ],
+    "wof:id":873936893,
+    "wof:lastmodified":1464300570,
+    "wof:name":"Digital Print & Mail Solutions",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "printer"
+    ]
+},
+  "bbox": [
+    -96.075826,
+    41.308717,
+    -96.075826,
+    41.308717
+],
+  "geometry": {"coordinates":[-96.07582600000001,41.308717],"type":"Point"}
+}

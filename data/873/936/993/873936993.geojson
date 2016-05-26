@@ -1,0 +1,69 @@
+{
+  "id": 873936993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.069383,41.313397,-96.069383,41.313397",
+    "geom:latitude":41.313397,
+    "geom:longitude":-96.069383,
+    "iso:country":"US",
+    "sg:address":"6103 N 101st Plz",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 294 2252",
+    "sg:postcode":"68134",
+    "sg:province":"NE",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85872505,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4eUPMjCZ0XNZWof72pMxt4_41.313397_-96.069383@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300575,
+    "wof:geomhash":"4b264560b37e9d28d6a3675b943f8681",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":873936993
+        }
+    ],
+    "wof:id":873936993,
+    "wof:lastmodified":1464300575,
+    "wof:name":"United States Airforce",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -96.069383,
+    41.313397,
+    -96.069383,
+    41.313397
+],
+  "geometry": {"coordinates":[-96.069383,41.313397],"type":"Point"}
+}

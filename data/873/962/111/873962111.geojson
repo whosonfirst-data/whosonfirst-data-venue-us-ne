@@ -1,0 +1,75 @@
+{
+  "id": 873962111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.784777,40.794758,-96.784777,40.794758",
+    "geom:latitude":40.794758,
+    "geom:longitude":-96.784777,
+    "iso:country":"US",
+    "sg:address":"4501 W Peach St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 438 9344",
+    "sg:postcode":"68522",
+    "sg:province":"NE",
+    "sg:tags":[
+        "product",
+        "privacy",
+        "security",
+        "sale"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85813295,
+        102083503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2wrihxsaysaxvHi9hw6g48_40.794758_-96.784777@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464301657,
+    "wof:geomhash":"70cc302b5dc60963e36c62dad26450f6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "neighbourhood_id":85813295,
+            "region_id":85688563,
+            "venue_id":873962111
+        }
+    ],
+    "wof:id":873962111,
+    "wof:lastmodified":1464301657,
+    "wof:name":"Fail Safe Enterprises",
+    "wof:parent_id":85813295,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "privacy",
+        "security",
+        "sale"
+    ]
+},
+  "bbox": [
+    -96.784777,
+    40.794758,
+    -96.784777,
+    40.794758
+],
+  "geometry": {"coordinates":[-96.78477700000001,40.794758],"type":"Point"}
+}

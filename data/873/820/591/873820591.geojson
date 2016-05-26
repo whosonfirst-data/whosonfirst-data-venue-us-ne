@@ -1,0 +1,73 @@
+{
+  "id": 873820591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.727466,40.880655,-96.727466,40.880655",
+    "geom:latitude":40.880655,
+    "geom:longitude":-96.727466,
+    "iso:country":"US",
+    "sg:address":"6701 Stonebrook Pkwy",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 476 3131",
+    "sg:postcode":"68521",
+    "sg:province":"NE",
+    "sg:tags":[
+        "home",
+        "builder"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7BW9Yz4QminxacDG6c69co_40.880655_-96.727466@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298130,
+    "wof:geomhash":"5d3d711a5c2f91d59f0b92221cabea25",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878717,
+            "region_id":85688563,
+            "venue_id":873820591
+        }
+    ],
+    "wof:id":873820591,
+    "wof:lastmodified":1464298130,
+    "wof:name":"Brookhaven Homes",
+    "wof:parent_id":85878717,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "builder"
+    ]
+},
+  "bbox": [
+    -96.727466,
+    40.880655,
+    -96.727466,
+    40.880655
+],
+  "geometry": {"coordinates":[-96.72746600000001,40.880655],"type":"Point"}
+}

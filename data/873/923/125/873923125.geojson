@@ -1,0 +1,82 @@
+{
+  "id": 873923125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.927409,41.15117,-95.927409,41.15117",
+    "geom:latitude":41.15117,
+    "geom:longitude":-95.927409,
+    "iso:country":"US",
+    "sg:address":"908 Fort Crook Rd S",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 291 7665",
+    "sg:postcode":"68123",
+    "sg:province":"NE",
+    "sg:tags":[
+        "sport",
+        "parlor",
+        "billiard",
+        "bar"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85821583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_59fqgjkf2Vevxb26IWGI0X_41.151170_-95.927409@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300273,
+    "wof:geomhash":"f206839ae80ad8325ac789a065f26d7f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85821583,
+            "region_id":85688563,
+            "venue_id":873923125
+        }
+    ],
+    "wof:id":873923125,
+    "wof:lastmodified":1464300273,
+    "wof:name":"Fort Crook Billiards & Darts",
+    "wof:parent_id":85821583,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sport",
+        "parlor",
+        "billiard",
+        "bar"
+    ]
+},
+  "bbox": [
+    -95.927409,
+    41.15117,
+    -95.927409,
+    41.15117
+],
+  "geometry": {"coordinates":[-95.927409,41.15117],"type":"Point"}
+}

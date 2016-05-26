@@ -1,0 +1,75 @@
+{
+  "id": 873939827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.113276,41.238746,-96.113276,41.238746",
+    "geom:latitude":41.238746,
+    "geom:longitude":-96.113276,
+    "iso:country":"US",
+    "sg:address":"12736 Marinda St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 697 0414",
+    "sg:postcode":"68144",
+    "sg:province":"NE",
+    "sg:tags":[
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872531,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_78hbuEMiCiJ5DSp7pxh8VP_41.238746_-96.113276@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300682,
+    "wof:geomhash":"996bca88e84a3e1de4839af6854a7f0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872531,
+            "region_id":85688563,
+            "venue_id":873939827
+        }
+    ],
+    "wof:id":873939827,
+    "wof:lastmodified":1464300682,
+    "wof:name":"George Catlin Elementary Schl",
+    "wof:parent_id":85872531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary"
+    ]
+},
+  "bbox": [
+    -96.113276,
+    41.238746,
+    -96.113276,
+    41.238746
+],
+  "geometry": {"coordinates":[-96.113276,41.238746],"type":"Point"}
+}

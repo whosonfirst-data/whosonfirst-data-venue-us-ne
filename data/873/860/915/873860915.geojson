@@ -1,0 +1,71 @@
+{
+  "id": 873860915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.054275,41.316945,-96.054275,41.316945",
+    "geom:latitude":41.316945,
+    "geom:longitude":-96.054275,
+    "iso:country":"US",
+    "sg:address":"6534 N 91st Plz",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 884 2999",
+    "sg:postcode":"68134",
+    "sg:province":"NE",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85872505,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1o1iPkEO5TtN5c1eOaopsF_41.316945_-96.054275@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299057,
+    "wof:geomhash":"fc445ffa6ccea3c42ec39f42ee1ce7e1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":873860915
+        }
+    ],
+    "wof:id":873860915,
+    "wof:lastmodified":1464299057,
+    "wof:name":"Strategic Electric",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.054275,
+    41.316945,
+    -96.054275,
+    41.316945
+],
+  "geometry": {"coordinates":[-96.054275,41.316945],"type":"Point"}
+}

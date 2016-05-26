@@ -1,0 +1,75 @@
+{
+  "id": 873683393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.651084,40.799267,-96.651084,40.799267",
+    "geom:latitude":40.799267,
+    "geom:longitude":-96.651084,
+    "iso:country":"US",
+    "sg:address":"1345 S Cotner Blvd",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 441 8377",
+    "sg:postcode":"68510",
+    "sg:province":"NE",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878683,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Bm5R4FupGa8vH8aJkpVBm_40.799267_-96.651084@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296091,
+    "wof:geomhash":"86386fe6b80c1a8f0f78921ce4e73c2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878683,
+            "region_id":85688563,
+            "venue_id":873683393
+        }
+    ],
+    "wof:id":873683393,
+    "wof:lastmodified":1464296091,
+    "wof:name":"Lincoln Fire Dept",
+    "wof:parent_id":85878683,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -96.651084,
+    40.799267,
+    -96.651084,
+    40.799267
+],
+  "geometry": {"coordinates":[-96.651084,40.799267],"type":"Point"}
+}

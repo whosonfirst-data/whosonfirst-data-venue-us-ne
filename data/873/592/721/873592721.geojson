@@ -1,0 +1,75 @@
+{
+  "id": 873592721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.96635,41.190777,-95.96635,41.190777",
+    "geom:latitude":41.190777,
+    "geom:longitude":-95.96635,
+    "iso:country":"US",
+    "sg:address":"3505 Harrison St",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 733 6580",
+    "sg:postcode":"68147",
+    "sg:province":"NE",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85849923,
+        102191575,
+        404519143,
+        85633793,
+        85974545,
+        102082777,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0RqTmRLI7AAxHYPqS7AYPC_41.190777_-95.966350@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294866,
+    "wof:geomhash":"14f0813835bdbccba861cabc9b267dcb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082777,
+            "localadmin_id":404519143,
+            "locality_id":85974545,
+            "neighbourhood_id":85849923,
+            "region_id":85688563,
+            "venue_id":873592721
+        }
+    ],
+    "wof:id":873592721,
+    "wof:lastmodified":1464294866,
+    "wof:name":"Harrison Automotive Repair",
+    "wof:parent_id":85849923,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -95.96635,
+    41.190777,
+    -95.96635,
+    41.190777
+],
+  "geometry": {"coordinates":[-95.96635000000001,41.190777],"type":"Point"}
+}

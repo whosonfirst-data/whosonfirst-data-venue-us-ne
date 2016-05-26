@@ -1,0 +1,80 @@
+{
+  "id": 873974237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.014302,41.226759,-96.014302,41.226759",
+    "geom:latitude":41.226759,
+    "geom:longitude":-96.014302,
+    "iso:country":"US",
+    "sg:address":"3455 S 66th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 891 9480",
+    "sg:postcode":"68106",
+    "sg:province":"NE",
+    "sg:tags":[
+        "electrician",
+        "electric",
+        "contractor"
+    ],
+    "sg:website":"www.thompsonelectriccompany.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867059,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6naP0g1WTKdv44uqUPFEsS_41.226357_-96.014259@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464302165,
+    "wof:geomhash":"385d049879e9d974156470da3f4cbf76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85867059,
+            "region_id":85688563,
+            "venue_id":873974237
+        }
+    ],
+    "wof:id":873974237,
+    "wof:lastmodified":1464302165,
+    "wof:name":"Thompson Electric",
+    "wof:parent_id":85867059,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrician",
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.014302,
+    41.226759,
+    -96.014302,
+    41.226759
+],
+  "geometry": {"coordinates":[-96.014302,41.226759],"type":"Point"}
+}

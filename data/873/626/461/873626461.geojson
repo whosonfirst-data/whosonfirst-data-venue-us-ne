@@ -1,0 +1,75 @@
+{
+  "id": 873626461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.664579,40.750612,-96.664579,40.750612",
+    "geom:latitude":40.750612,
+    "geom:longitude":-96.664579,
+    "iso:country":"US",
+    "sg:address":"6120 Village Dr",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 435 8733",
+    "sg:postcode":"68516",
+    "sg:province":"NE",
+    "sg:tags":[
+        "nurseryman"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878739,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4DQoWwd6aq9lCpCZocrSOo_40.750612_-96.664579@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295325,
+    "wof:geomhash":"9498e0a45ec0b031996c06a2204249ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878739,
+            "region_id":85688563,
+            "venue_id":873626461
+        }
+    ],
+    "wof:id":873626461,
+    "wof:lastmodified":1464295325,
+    "wof:name":"Pine Valley Nursery",
+    "wof:parent_id":85878739,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nurseryman"
+    ]
+},
+  "bbox": [
+    -96.664579,
+    40.750612,
+    -96.664579,
+    40.750612
+],
+  "geometry": {"coordinates":[-96.664579,40.750612],"type":"Point"}
+}

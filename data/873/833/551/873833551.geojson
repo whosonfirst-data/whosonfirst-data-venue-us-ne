@@ -1,0 +1,75 @@
+{
+  "id": 873833551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.026735,41.232977,-96.026735,41.232977",
+    "geom:latitude":41.232977,
+    "geom:longitude":-96.026735,
+    "iso:country":"US",
+    "sg:address":"2817 S 74th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 391 6712",
+    "sg:postcode":"68124",
+    "sg:province":"NE",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867059,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0i3AtrNMgHhRZEb4zqSokp_41.232977_-96.026735@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298416,
+    "wof:geomhash":"85d2691e3cec423b885862a945eddccd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85867059,
+            "region_id":85688563,
+            "venue_id":873833551
+        }
+    ],
+    "wof:id":873833551,
+    "wof:lastmodified":1464298416,
+    "wof:name":"Joe W Altic",
+    "wof:parent_id":85867059,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -96.026735,
+    41.232977,
+    -96.026735,
+    41.232977
+],
+  "geometry": {"coordinates":[-96.026735,41.232977],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 873734135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.919228,41.140234,-95.919228,41.140234",
+    "geom:latitude":41.140234,
+    "geom:longitude":-95.919228,
+    "iso:country":"US",
+    "sg:address":"1902 Harlan Dr",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 291 2000",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "loan"
+    ],
+    "sg:website":"www.teambank-na.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85821583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7lLjRNjns7Hr1vVFufzJmN_41.140234_-95.919228@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296834,
+    "wof:geomhash":"62327fc9fcaa717e4634029bc091232c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85821583,
+            "region_id":85688563,
+            "venue_id":873734135
+        }
+    ],
+    "wof:id":873734135,
+    "wof:lastmodified":1464296834,
+    "wof:name":"Team Bank NEBRASKA",
+    "wof:parent_id":85821583,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan"
+    ]
+},
+  "bbox": [
+    -95.919228,
+    41.140234,
+    -95.919228,
+    41.140234
+],
+  "geometry": {"coordinates":[-95.919228,41.140234],"type":"Point"}
+}

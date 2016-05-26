@@ -1,0 +1,75 @@
+{
+  "id": 873943895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.932346,41.117062,-95.932346,41.117062",
+    "geom:latitude":41.117062,
+    "geom:longitude":-95.932346,
+    "iso:country":"US",
+    "sg:address":"13029 S 13th St",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Petroleum",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 292 2824",
+    "sg:postcode":"68123",
+    "sg:province":"NE",
+    "sg:tags":[
+        "pipe",
+        "line",
+        "company"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974747,
+        102082777,
+        85820061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_281xdvTmQNKWPzhgUK2SS4_41.117062_-95.932346@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300843,
+    "wof:geomhash":"4daf31a4736adb87dd5cb82c947587e8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974747,
+            "neighbourhood_id":85820061,
+            "region_id":85688563,
+            "venue_id":873943895
+        }
+    ],
+    "wof:id":873943895,
+    "wof:lastmodified":1464300843,
+    "wof:name":"Williams Pipeline Co",
+    "wof:parent_id":85820061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pipe",
+        "line",
+        "company"
+    ]
+},
+  "bbox": [
+    -95.932346,
+    41.117062,
+    -95.932346,
+    41.117062
+],
+  "geometry": {"coordinates":[-95.932346,41.117062],"type":"Point"}
+}

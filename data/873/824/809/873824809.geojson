@@ -1,0 +1,84 @@
+{
+  "id": 873824809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.600841,40.759335,-96.600841,40.759335",
+    "geom:latitude":40.759335,
+    "geom:longitude":-96.600841,
+    "iso:country":"US",
+    "sg:address":"8625 Oakmont Dr",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 484 5889",
+    "sg:postcode":"68526",
+    "sg:province":"NE",
+    "sg:tags":[
+        "organization",
+        "medical",
+        "surgical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878707,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0nySy1CXpzGkhwCUv9W2JT_40.759335_-96.600841@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298229,
+    "wof:geomhash":"35ed58cfbe8ebf84e2421f1dd01c3714",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878707,
+            "region_id":85688563,
+            "venue_id":873824809
+        }
+    ],
+    "wof:id":873824809,
+    "wof:lastmodified":1464298229,
+    "wof:name":"Midwest Home Management",
+    "wof:parent_id":85878707,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "medical",
+        "surgical"
+    ]
+},
+  "bbox": [
+    -96.600841,
+    40.759335,
+    -96.600841,
+    40.759335
+],
+  "geometry": {"coordinates":[-96.600841,40.759335],"type":"Point"}
+}

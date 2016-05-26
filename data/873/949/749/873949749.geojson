@@ -1,0 +1,81 @@
+{
+  "id": 873949749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.149031,41.251127,-96.149031,41.251127",
+    "geom:latitude":41.251127,
+    "geom:longitude":-96.149031,
+    "iso:country":"US",
+    "sg:address":"954 S 150th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 677 6295",
+    "sg:postcode":"68154",
+    "sg:province":"NE",
+    "sg:tags":[
+        "plumbing",
+        "drain",
+        "cleaning",
+        "sewer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85806957,
+        102191575,
+        404519987,
+        85633793,
+        85973479,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0h8y4QnLi3LF4TWxM4zlcH_41.251127_-96.149031@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464301140,
+    "wof:geomhash":"81019a25e45dc7005fd70d103d123e59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404519987,
+            "locality_id":85973479,
+            "neighbourhood_id":85806957,
+            "region_id":85688563,
+            "venue_id":873949749
+        }
+    ],
+    "wof:id":873949749,
+    "wof:lastmodified":1464301140,
+    "wof:name":"Drain King",
+    "wof:parent_id":85806957,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "drain",
+        "cleaning",
+        "sewer"
+    ]
+},
+  "bbox": [
+    -96.149031,
+    41.251127,
+    -96.149031,
+    41.251127
+],
+  "geometry": {"coordinates":[-96.14903099999999,41.251127],"type":"Point"}
+}

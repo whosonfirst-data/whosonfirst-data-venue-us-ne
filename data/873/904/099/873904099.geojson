@@ -1,0 +1,75 @@
+{
+  "id": 873904099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.973089,41.255959,-95.973089,41.255959",
+    "geom:latitude":41.255959,
+    "geom:longitude":-95.973089,
+    "iso:country":"US",
+    "sg:address":"3925 Dewey Ave",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Optical Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 559 8351",
+    "sg:postcode":"68105",
+    "sg:province":"NE",
+    "sg:tags":[
+        "optician"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872523,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0lYGzbq4Zty6K15fN81TAO_41.255959_-95.973089@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299901,
+    "wof:geomhash":"64da7678f7aa6910065c254d7ca967a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872523,
+            "region_id":85688563,
+            "venue_id":873904099
+        }
+    ],
+    "wof:id":873904099,
+    "wof:lastmodified":1464299901,
+    "wof:name":"University Optical",
+    "wof:parent_id":85872523,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "optician"
+    ]
+},
+  "bbox": [
+    -95.973089,
+    41.255959,
+    -95.973089,
+    41.255959
+],
+  "geometry": {"coordinates":[-95.973089,41.255959],"type":"Point"}
+}

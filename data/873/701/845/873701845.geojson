@@ -1,0 +1,71 @@
+{
+  "id": 873701845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.611075,40.797931,-96.611075,40.797931",
+    "geom:latitude":40.797931,
+    "geom:longitude":-96.611075,
+    "iso:country":"US",
+    "sg:address":"7821 Sycamore Dr",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 430 4260",
+    "sg:postcode":"68506",
+    "sg:province":"NE",
+    "sg:tags":[
+        "calibration"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2STqaAChLBvFGS44G364Dt_40.797931_-96.611075@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296424,
+    "wof:geomhash":"eb1921a2d55aafc22cca44e4812af177",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878697,
+            "region_id":85688563,
+            "venue_id":873701845
+        }
+    ],
+    "wof:id":873701845,
+    "wof:lastmodified":1464296424,
+    "wof:name":"Nebtech Calibration",
+    "wof:parent_id":85878697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "calibration"
+    ]
+},
+  "bbox": [
+    -96.611075,
+    40.797931,
+    -96.611075,
+    40.797931
+],
+  "geometry": {"coordinates":[-96.611075,40.797931],"type":"Point"}
+}

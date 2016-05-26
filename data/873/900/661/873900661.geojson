@@ -1,0 +1,78 @@
+{
+  "id": 873900661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.639672,40.871392,-96.639672,40.871392",
+    "geom:latitude":40.871392,
+    "geom:longitude":-96.639672,
+    "iso:country":"US",
+    "sg:address":"5800 Fletcher Ave",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Electric",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 466 9778",
+    "sg:postcode":"68507",
+    "sg:province":"NE",
+    "sg:tags":[
+        "electricity",
+        "generation",
+        "distribution",
+        "transmission"
+    ],
+    "sg:website":"www.nppd.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85824241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_70EoLAr9RKsm2oJINF72RP_40.871392_-96.639672@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299828,
+    "wof:geomhash":"46d54370db3785de05777369f86d5f90",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85824241,
+            "region_id":85688563,
+            "venue_id":873900661
+        }
+    ],
+    "wof:id":873900661,
+    "wof:lastmodified":1464299828,
+    "wof:name":"Nebraska Public Power District",
+    "wof:parent_id":85824241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electricity",
+        "generation",
+        "distribution",
+        "transmission"
+    ]
+},
+  "bbox": [
+    -96.639672,
+    40.871392,
+    -96.639672,
+    40.871392
+],
+  "geometry": {"coordinates":[-96.639672,40.871392],"type":"Point"}
+}

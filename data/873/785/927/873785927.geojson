@@ -1,0 +1,71 @@
+{
+  "id": 873785927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.789433,40.832812,-96.789433,40.832812",
+    "geom:latitude":40.832812,
+    "geom:longitude":-96.789433,
+    "iso:country":"US",
+    "sg:address":"1928 NW 50th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 470 2870",
+    "sg:postcode":"68528",
+    "sg:province":"NE",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ZALaSyhMsnv9LCBpbVFBX_40.832812_-96.789433@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297567,
+    "wof:geomhash":"db64488625e4e17a653eeb56c4cd021f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878717,
+            "region_id":85688563,
+            "venue_id":873785927
+        }
+    ],
+    "wof:id":873785927,
+    "wof:lastmodified":1464297567,
+    "wof:name":"2-M Cleaning Svc",
+    "wof:parent_id":85878717,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -96.789433,
+    40.832812,
+    -96.789433,
+    40.832812
+],
+  "geometry": {"coordinates":[-96.789433,40.832812],"type":"Point"}
+}

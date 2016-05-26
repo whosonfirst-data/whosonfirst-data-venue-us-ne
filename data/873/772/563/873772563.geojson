@@ -1,0 +1,66 @@
+{
+  "id": 873772563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.636161,40.854815,-96.636161,40.854815",
+    "geom:latitude":40.854815,
+    "geom:longitude":-96.636161,
+    "iso:country":"US",
+    "sg:address":"6135 Morrill Ave",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 466 3669",
+    "sg:postcode":"68507",
+    "sg:province":"NE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85824241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6JSjJ5HHVtqe6DHsOi0OFP_40.854815_-96.636161@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297396,
+    "wof:geomhash":"636c4b36c8ab23463e509354650109aa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85824241,
+            "region_id":85688563,
+            "venue_id":873772563
+        }
+    ],
+    "wof:id":873772563,
+    "wof:lastmodified":1464297396,
+    "wof:name":"L & L Equipment & Truck Repair",
+    "wof:parent_id":85824241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.636161,
+    40.854815,
+    -96.636161,
+    40.854815
+],
+  "geometry": {"coordinates":[-96.636161,40.854815],"type":"Point"}
+}

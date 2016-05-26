@@ -1,0 +1,69 @@
+{
+  "id": 873731985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.116931,41.18895,-96.116931,41.18895",
+    "geom:latitude":41.18895,
+    "geom:longitude":-96.116931,
+    "iso:country":"US",
+    "sg:address":"7004 S 130th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 895 2592",
+    "sg:postcode":"68138",
+    "sg:province":"NE",
+    "sg:tags":[
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85834285,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_54YNqLKC2RaI4QEssx7QUN_41.188950_-96.116931@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296804,
+    "wof:geomhash":"64eb2c706d36d7efc1c33e33e7b7514a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85834285,
+            "region_id":85688563,
+            "venue_id":873731985
+        }
+    ],
+    "wof:id":873731985,
+    "wof:lastmodified":1464296804,
+    "wof:name":"TLC Contracting",
+    "wof:parent_id":85834285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -96.116931,
+    41.18895,
+    -96.116931,
+    41.18895
+],
+  "geometry": {"coordinates":[-96.11693099999999,41.18895],"type":"Point"}
+}

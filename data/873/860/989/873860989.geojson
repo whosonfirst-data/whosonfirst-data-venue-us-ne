@@ -1,0 +1,69 @@
+{
+  "id": 873860989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.235399,41.144279,-96.235399,41.144279",
+    "geom:latitude":41.144279,
+    "geom:longitude":-96.235399,
+    "iso:country":"US",
+    "sg:address":"233 Glendale Cir",
+    "sg:city":"Gretna",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 558 1638",
+    "sg:postcode":"68028",
+    "sg:province":"NE",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85834285,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4uRYSaPWrqM2eU7Uh1mMFL_41.144279_-96.235399@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299059,
+    "wof:geomhash":"f5104f58669db33bb39014e696ce1961",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85834285,
+            "region_id":85688563,
+            "venue_id":873860989
+        }
+    ],
+    "wof:id":873860989,
+    "wof:lastmodified":1464299059,
+    "wof:name":"Schoon Masonry Inc",
+    "wof:parent_id":85834285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.235399,
+    41.144279,
+    -96.235399,
+    41.144279
+],
+  "geometry": {"coordinates":[-96.235399,41.144279],"type":"Point"}
+}

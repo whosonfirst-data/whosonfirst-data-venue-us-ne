@@ -1,0 +1,76 @@
+{
+  "id": 873976073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.967909,41.141992,-95.967909,41.141992",
+    "geom:latitude":41.141992,
+    "geom:longitude":-95.967909,
+    "iso:country":"US",
+    "sg:address":"3604 Twin Creek Dr",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Deli",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ne/bellevue-second-ii/126242-blimpie-subs--sandwiches/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 292 0139",
+    "sg:postcode":"68123",
+    "sg:province":"NE",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85821583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2D61TmYyHMLk2GwnSPTSmW_41.141992_-95.967909@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464302226,
+    "wof:geomhash":"3f0b6fe3e100c612ee62706d401f674e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85821583,
+            "region_id":85688563,
+            "venue_id":873976073
+        }
+    ],
+    "wof:id":873976073,
+    "wof:lastmodified":1464302226,
+    "wof:name":"Blimpie Subs & Sandwiches",
+    "wof:parent_id":85821583,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -95.967909,
+    41.141992,
+    -95.967909,
+    41.141992
+],
+  "geometry": {"coordinates":[-95.96790900000001,41.141992],"type":"Point"}
+}

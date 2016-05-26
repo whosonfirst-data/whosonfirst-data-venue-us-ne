@@ -1,0 +1,70 @@
+{
+  "id": 873849101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.10574,41.233921,-96.10574,41.233921",
+    "geom:latitude":41.233921,
+    "geom:longitude":-96.10574,
+    "iso:country":"US",
+    "sg:address":"2820 S 123rd Ct",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 333 8048",
+    "sg:postcode":"68144",
+    "sg:province":"NE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872531,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0FnhOIGIlUxJIprqUg2rfa_41.233921_-96.105740@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298794,
+    "wof:geomhash":"46ec309949b52cea89972df15ae82ab2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872531,
+            "region_id":85688563,
+            "venue_id":873849101
+        }
+    ],
+    "wof:id":873849101,
+    "wof:lastmodified":1464298794,
+    "wof:name":"LA Fonda's",
+    "wof:parent_id":85872531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.10574,
+    41.233921,
+    -96.10574,
+    41.233921
+],
+  "geometry": {"coordinates":[-96.10574,41.233921],"type":"Point"}
+}

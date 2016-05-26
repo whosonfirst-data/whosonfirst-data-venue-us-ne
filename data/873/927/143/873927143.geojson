@@ -1,0 +1,66 @@
+{
+  "id": 873927143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.896388,41.136557,-95.896388,41.136557",
+    "geom:latitude":41.136557,
+    "geom:longitude":-95.896388,
+    "iso:country":"US",
+    "sg:address":"204 W Mission Ave",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 000 1111",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974747,
+        102082777,
+        85820061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7YvucX6BgvVCzCsGB4BcNq_41.136557_-95.896388@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300348,
+    "wof:geomhash":"3db772608c6d76c51986eccf41ce5888",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974747,
+            "neighbourhood_id":85820061,
+            "region_id":85688563,
+            "venue_id":873927143
+        }
+    ],
+    "wof:id":873927143,
+    "wof:lastmodified":1464300348,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85820061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -95.896388,
+    41.136557,
+    -95.896388,
+    41.136557
+],
+  "geometry": {"coordinates":[-95.896388,41.136557],"type":"Point"}
+}

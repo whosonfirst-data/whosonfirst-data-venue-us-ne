@@ -1,0 +1,76 @@
+{
+  "id": 873534545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.701625,40.80927,-96.701625,40.80927",
+    "geom:latitude":40.80927,
+    "geom:longitude":-96.701625,
+    "iso:country":"US",
+    "sg:address":"1340 K St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 477 4198",
+    "sg:postcode":"68508",
+    "sg:province":"NE",
+    "sg:tags":[
+        "church"
+    ],
+    "sg:website":"www.fbclincoln.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878699,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_63MKm6g6hbKZlUa7ent2Vz_40.809270_-96.701625@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294198,
+    "wof:geomhash":"bab386669db14f5730f64e3ec5cc9fc5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878699,
+            "region_id":85688563,
+            "venue_id":873534545
+        }
+    ],
+    "wof:id":873534545,
+    "wof:lastmodified":1464294198,
+    "wof:name":"First Baptist Church",
+    "wof:parent_id":85878699,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -96.701625,
+    40.80927,
+    -96.701625,
+    40.80927
+],
+  "geometry": {"coordinates":[-96.70162500000001,40.80927],"type":"Point"}
+}

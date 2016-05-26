@@ -1,0 +1,69 @@
+{
+  "id": 873791913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.132732,41.303946,-96.132732,41.303946",
+    "geom:latitude":41.303946,
+    "geom:longitude":-96.132732,
+    "iso:country":"US",
+    "sg:address":"5117 N 139th Ave",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Retail Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 339 1053",
+    "sg:postcode":"68164",
+    "sg:province":"NE",
+    "sg:tags":[
+        "manufacturer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85872505,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1vVAMouo5b3sDKsSq0Yh1y_41.303946_-96.132732@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297675,
+    "wof:geomhash":"4923e30eae91a294e88dcd78723d6bc2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":873791913
+        }
+    ],
+    "wof:id":873791913,
+    "wof:lastmodified":1464297675,
+    "wof:name":"Fan Gear",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -96.132732,
+    41.303946,
+    -96.132732,
+    41.303946
+],
+  "geometry": {"coordinates":[-96.132732,41.303946],"type":"Point"}
+}

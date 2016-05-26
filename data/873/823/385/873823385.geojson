@@ -1,0 +1,67 @@
+{
+  "id": 873823385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.708395,40.697479,-96.708395,40.697479",
+    "geom:latitude":40.697479,
+    "geom:longitude":-96.708395,
+    "iso:country":"US",
+    "sg:address":"1040 Saltillo Rd",
+    "sg:city":"Roca",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Recreational Vehicle Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 423 3218",
+    "sg:postcode":"68430",
+    "sg:province":"NE",
+    "sg:website":"www.apachecamper.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4TAKI7YJ7akR3HLkFH2sGP_40.697479_-96.708395@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298197,
+    "wof:geomhash":"d1d9d6d3e4513f44ade381679921b349",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878709,
+            "region_id":85688563,
+            "venue_id":873823385
+        }
+    ],
+    "wof:id":873823385,
+    "wof:lastmodified":1464298197,
+    "wof:name":"Apache Camper Ctr Inc",
+    "wof:parent_id":85878709,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.708395,
+    40.697479,
+    -96.708395,
+    40.697479
+],
+  "geometry": {"coordinates":[-96.708395,40.697479],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 873710663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.636087,40.740902,-96.636087,40.740902",
+    "geom:latitude":40.740902,
+    "geom:longitude":-96.636087,
+    "iso:country":"US",
+    "sg:address":"6000 Pine Lake Rd",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 423 5705",
+    "sg:postcode":"68516",
+    "sg:province":"NE",
+    "sg:tags":[
+        "garbage",
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878707,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_23eFOb8H0a8m6D8gKKEP4d_40.740902_-96.636087@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296529,
+    "wof:geomhash":"83947da8bd0c8f0af5a983a3298efb55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878707,
+            "region_id":85688563,
+            "venue_id":873710663
+        }
+    ],
+    "wof:id":873710663,
+    "wof:lastmodified":1464296529,
+    "wof:name":"Schaaf Refuse Svc",
+    "wof:parent_id":85878707,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection"
+    ]
+},
+  "bbox": [
+    -96.636087,
+    40.740902,
+    -96.636087,
+    40.740902
+],
+  "geometry": {"coordinates":[-96.636087,40.740902],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 873755465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.045262,41.187633,-96.045262,41.187633",
+    "geom:latitude":41.187633,
+    "geom:longitude":-96.045262,
+    "iso:country":"US",
+    "sg:address":"8609 Park View Blvd",
+    "sg:city":"La Vista",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 331 1110",
+    "sg:postcode":"68128",
+    "sg:province":"NE",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85843697,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Aeoh6uZLZVLWWAC7THXmF_41.187633_-96.045262@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297150,
+    "wof:geomhash":"95818445190c1dbbcb9d1ceed1830810",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85843697,
+            "region_id":85688563,
+            "venue_id":873755465
+        }
+    ],
+    "wof:id":873755465,
+    "wof:lastmodified":1464297150,
+    "wof:name":"Judson Baptist Church",
+    "wof:parent_id":85843697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -96.045262,
+    41.187633,
+    -96.045262,
+    41.187633
+],
+  "geometry": {"coordinates":[-96.04526199999999,41.187633],"type":"Point"}
+}

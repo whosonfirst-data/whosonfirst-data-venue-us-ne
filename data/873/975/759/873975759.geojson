@@ -1,0 +1,72 @@
+{
+  "id": 873975759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.239144,41.143835,-96.239144,41.143835",
+    "geom:latitude":41.143835,
+    "geom:longitude":-96.239144,
+    "iso:country":"US",
+    "sg:address":"623 N Highway 6",
+    "sg:city":"Gretna",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ne/forest-city-no-1/129547-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 332 5077",
+    "sg:postcode":"68028",
+    "sg:province":"NE",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85834285,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6HI2AXfaBuL7tGZJu1gugk_41.143835_-96.239144@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464302215,
+    "wof:geomhash":"36780f6c38d9523c0d389692d3fb2a35",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85834285,
+            "region_id":85688563,
+            "venue_id":873975759
+        }
+    ],
+    "wof:id":873975759,
+    "wof:lastmodified":1464302215,
+    "wof:name":"Subway",
+    "wof:parent_id":85834285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -96.239144,
+    41.143835,
+    -96.239144,
+    41.143835
+],
+  "geometry": {"coordinates":[-96.239144,41.143835],"type":"Point"}
+}

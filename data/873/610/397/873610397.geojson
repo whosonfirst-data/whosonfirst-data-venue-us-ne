@@ -1,0 +1,73 @@
+{
+  "id": 873610397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.919969,41.147639,-95.919969,41.147639",
+    "geom:latitude":41.147639,
+    "geom:longitude":-95.919969,
+    "iso:country":"US",
+    "sg:address":"1114 Kingston Ave",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 960 4236",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "dry wall",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974545,
+        102082777,
+        85821583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4RahdAUR3i66qz41ivQNvX_41.147639_-95.919969@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295148,
+    "wof:geomhash":"3501aac4bc61f45288fdb89b8e785677",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974545,
+            "neighbourhood_id":85821583,
+            "region_id":85688563,
+            "venue_id":873610397
+        }
+    ],
+    "wof:id":873610397,
+    "wof:lastmodified":1464295148,
+    "wof:name":"QDI Drywall",
+    "wof:parent_id":85821583,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dry wall",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -95.919969,
+    41.147639,
+    -95.919969,
+    41.147639
+],
+  "geometry": {"coordinates":[-95.91996899999999,41.147639],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 873922251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.091251,41.310498,-96.091251,41.310498",
+    "geom:latitude":41.310498,
+    "geom:longitude":-96.091251,
+    "iso:country":"US",
+    "sg:address":"5732 N 117th Cir",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 496 2187",
+    "sg:postcode":"68164",
+    "sg:province":"NE",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85872505,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Vc4VK6EKzwWnvmWw3lC2b_41.310498_-96.091251@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300257,
+    "wof:geomhash":"19a51847eb2ddb5c6808227f45f8ab93",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":873922251
+        }
+    ],
+    "wof:id":873922251,
+    "wof:lastmodified":1464300257,
+    "wof:name":"Payless Basement Waterproofing",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.091251,
+    41.310498,
+    -96.091251,
+    41.310498
+],
+  "geometry": {"coordinates":[-96.091251,41.310498],"type":"Point"}
+}

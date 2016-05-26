@@ -1,0 +1,83 @@
+{
+  "id": 873819103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.132009,41.214854,-96.132009,41.214854",
+    "geom:latitude":41.214854,
+    "geom:longitude":-96.132009,
+    "iso:country":"US",
+    "sg:address":"4523 S 139th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 895 7286",
+    "sg:postcode":"68137",
+    "sg:province":"NE",
+    "sg:tags":[
+        "duplication",
+        "software"
+    ],
+    "sg:website":"www.iscnet.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872531,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7eF0llOwxE0jc74SNkmNwc_41.214854_-96.132009@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298103,
+    "wof:geomhash":"41c7a864dadfbe33559ce1162d2f7c9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872531,
+            "region_id":85688563,
+            "venue_id":873819103
+        }
+    ],
+    "wof:id":873819103,
+    "wof:lastmodified":1464298103,
+    "wof:name":"Imaging Services Corporation",
+    "wof:parent_id":85872531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "duplication",
+        "software"
+    ]
+},
+  "bbox": [
+    -96.132009,
+    41.214854,
+    -96.132009,
+    41.214854
+],
+  "geometry": {"coordinates":[-96.132009,41.214854],"type":"Point"}
+}

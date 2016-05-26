@@ -1,0 +1,75 @@
+{
+  "id": 873872769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.71076,40.871727,-96.71076,40.871727",
+    "geom:latitude":40.871727,
+    "geom:longitude":-96.71076,
+    "iso:country":"US",
+    "sg:address":"600 Fletcher Ave",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 476 9300",
+    "sg:postcode":"68521",
+    "sg:province":"NE",
+    "sg:tags":[
+        "marking",
+        "maintenance",
+        "parking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5BeUHMCdcShsBT6pGwocBY_40.871727_-96.710760@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299293,
+    "wof:geomhash":"6c9a4a821e4a0a6f7049c1caa1d9867a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878717,
+            "region_id":85688563,
+            "venue_id":873872769
+        }
+    ],
+    "wof:id":873872769,
+    "wof:lastmodified":1464299293,
+    "wof:name":"Clean Rite Sweeping",
+    "wof:parent_id":85878717,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "marking",
+        "maintenance",
+        "parking"
+    ]
+},
+  "bbox": [
+    -96.71076,
+    40.871727,
+    -96.71076,
+    40.871727
+],
+  "geometry": {"coordinates":[-96.71075999999999,40.871727],"type":"Point"}
+}

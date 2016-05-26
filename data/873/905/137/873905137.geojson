@@ -1,0 +1,86 @@
+{
+  "id": 873905137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.630616,40.828454,-96.630616,40.828454",
+    "geom:latitude":40.828454,
+    "geom:longitude":-96.630616,
+    "iso:country":"US",
+    "sg:address":"1549 N Cotner Blvd",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Sporting Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 464 4897",
+    "sg:postcode":"68505",
+    "sg:province":"NE",
+    "sg:tags":[
+        "equipment",
+        "lane",
+        "center",
+        "bowling"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878725,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7REZOrJUvMQhk8saCagga6_40.828454_-96.630616@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299925,
+    "wof:geomhash":"2c68eb0b9e6043276e9e92c291fb7675",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878725,
+            "region_id":85688563,
+            "venue_id":873905137
+        }
+    ],
+    "wof:id":873905137,
+    "wof:lastmodified":1464299925,
+    "wof:name":"Let's Talk Bowling",
+    "wof:parent_id":85878725,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "lane",
+        "center",
+        "bowling"
+    ]
+},
+  "bbox": [
+    -96.630616,
+    40.828454,
+    -96.630616,
+    40.828454
+],
+  "geometry": {"coordinates":[-96.630616,40.828454],"type":"Point"}
+}

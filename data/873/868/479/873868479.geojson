@@ -1,0 +1,80 @@
+{
+  "id": 873868479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-97.359222,41.429339,-97.359222,41.429339",
+    "geom:latitude":41.429339,
+    "geom:longitude":-97.359222,
+    "iso:country":"US",
+    "sg:address":"2518 13th St",
+    "sg:city":"Columbus",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 562 8337",
+    "sg:postcode":"68601",
+    "sg:province":"NE",
+    "sg:tags":[
+        "lithographic",
+        "commercial",
+        "embroidery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974401,
+        102084277,
+        85854093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2rBQQRSqNMHYInDZPOemxG_41.429339_-97.359222@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299199,
+    "wof:geomhash":"cebed3369f1864d1dbbc8eadb72521c6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084277,
+            "locality_id":85974401,
+            "neighbourhood_id":85854093,
+            "region_id":85688563,
+            "venue_id":873868479
+        }
+    ],
+    "wof:id":873868479,
+    "wof:lastmodified":1464299199,
+    "wof:name":"Dico's 13th Street Printing",
+    "wof:parent_id":85854093,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lithographic",
+        "commercial",
+        "embroidery"
+    ]
+},
+  "bbox": [
+    -97.359222,
+    41.429339,
+    -97.359222,
+    41.429339
+],
+  "geometry": {"coordinates":[-97.359222,41.429339],"type":"Point"}
+}

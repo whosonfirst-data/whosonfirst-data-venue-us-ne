@@ -1,0 +1,79 @@
+{
+  "id": 873758315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.057409,41.27683,-96.057409,41.27683",
+    "geom:latitude":41.27683,
+    "geom:longitude":-96.057409,
+    "iso:country":"US",
+    "sg:address":"1728 N 93rd St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 558 8617",
+    "sg:postcode":"68114",
+    "sg:province":"NE",
+    "sg:tags":[
+        "cleaners",
+        "rug",
+        "carpet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867061,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1mKw72gEQAHaPP03oLXLFc_41.276830_-96.057409@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297186,
+    "wof:geomhash":"fb98dbd58add906654d3339750204fcf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85867061,
+            "region_id":85688563,
+            "venue_id":873758315
+        }
+    ],
+    "wof:id":873758315,
+    "wof:lastmodified":1464297186,
+    "wof:name":"Blue Ribbon Carpet Cleaning",
+    "wof:parent_id":85867061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners",
+        "rug",
+        "carpet"
+    ]
+},
+  "bbox": [
+    -96.057409,
+    41.27683,
+    -96.057409,
+    41.27683
+],
+  "geometry": {"coordinates":[-96.05740900000001,41.27683],"type":"Point"}
+}

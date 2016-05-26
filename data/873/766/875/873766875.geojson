@@ -1,0 +1,73 @@
+{
+  "id": 873766875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.070874,41.330306,-96.070874,41.330306",
+    "geom:latitude":41.330306,
+    "geom:longitude":-96.070874,
+    "iso:country":"US",
+    "sg:address":"10026 Kings Plz",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 551 1581",
+    "sg:postcode":"68122",
+    "sg:province":"NE",
+    "sg:tags":[
+        "lawn",
+        "maintenance",
+        "grounds"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85872505,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6SLaKEGBgkP4su90oSdQGL_41.330306_-96.070874@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297324,
+    "wof:geomhash":"2acbc43a0b7bba8da7d1ab80af7a790d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85872505,
+            "region_id":85688563,
+            "venue_id":873766875
+        }
+    ],
+    "wof:id":873766875,
+    "wof:lastmodified":1464297324,
+    "wof:name":"Custom Design Lawn",
+    "wof:parent_id":85872505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lawn",
+        "maintenance",
+        "grounds"
+    ]
+},
+  "bbox": [
+    -96.070874,
+    41.330306,
+    -96.070874,
+    41.330306
+],
+  "geometry": {"coordinates":[-96.070874,41.330306],"type":"Point"}
+}

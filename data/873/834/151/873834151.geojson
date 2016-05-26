@@ -1,0 +1,79 @@
+{
+  "id": 873834151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.04328,41.264131,-96.04328,41.264131",
+    "geom:latitude":41.264131,
+    "geom:longitude":-96.04328,
+    "iso:country":"US",
+    "sg:address":"508 N 85th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 397 2271",
+    "sg:postcode":"68114",
+    "sg:province":"NE",
+    "sg:tags":[
+        "physician",
+        "surgeon",
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872509,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1fssPJlxqffWtgwprVwP7f_41.264131_-96.043280@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298427,
+    "wof:geomhash":"5eae60a6c6ab6f8555303a11ce930c1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872509,
+            "region_id":85688563,
+            "venue_id":873834151
+        }
+    ],
+    "wof:id":873834151,
+    "wof:lastmodified":1464298427,
+    "wof:name":"George A Young III MD",
+    "wof:parent_id":85872509,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon",
+        "medical"
+    ]
+},
+  "bbox": [
+    -96.04328,
+    41.264131,
+    -96.04328,
+    41.264131
+],
+  "geometry": {"coordinates":[-96.04328,41.264131],"type":"Point"}
+}

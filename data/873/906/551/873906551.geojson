@@ -1,0 +1,77 @@
+{
+  "id": 873906551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.618989,40.808239,-96.618989,40.808239",
+    "geom:latitude":40.808239,
+    "geom:longitude":-96.618989,
+    "iso:country":"US",
+    "sg:address":"420 Wedgewood Dr",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 489 2777",
+    "sg:postcode":"68510",
+    "sg:province":"NE",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878725,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0dBCA4305ZxDgGhSREGWth_40.808239_-96.618989@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299950,
+    "wof:geomhash":"229318c763430341683e6cc8aede7340",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878725,
+            "region_id":85688563,
+            "venue_id":873906551
+        }
+    ],
+    "wof:id":873906551,
+    "wof:lastmodified":1464299950,
+    "wof:name":"All-Pro Landscaping",
+    "wof:parent_id":85878725,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.618989,
+    40.808239,
+    -96.618989,
+    40.808239
+],
+  "geometry": {"coordinates":[-96.618989,40.808239],"type":"Point"}
+}

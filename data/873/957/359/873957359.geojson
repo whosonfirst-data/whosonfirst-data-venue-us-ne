@@ -1,0 +1,75 @@
+{
+  "id": 873957359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.613361,40.775648,-96.613361,40.775648",
+    "geom:latitude":40.775648,
+    "geom:longitude":-96.613361,
+    "iso:country":"US",
+    "sg:address":"3701 S 78th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 486 3017",
+    "sg:postcode":"68506",
+    "sg:province":"NE",
+    "sg:tags":[
+        "fireplace",
+        "chimney",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0GAgZXWfI0qLrXXJNPVgI6_40.775648_-96.613361@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464301417,
+    "wof:geomhash":"4a827befc2e4345da255c189228b6129",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878697,
+            "region_id":85688563,
+            "venue_id":873957359
+        }
+    ],
+    "wof:id":873957359,
+    "wof:lastmodified":1464301417,
+    "wof:name":"Ashes Away By Top Hat Chimney",
+    "wof:parent_id":85878697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fireplace",
+        "chimney",
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -96.613361,
+    40.775648,
+    -96.613361,
+    40.775648
+],
+  "geometry": {"coordinates":[-96.613361,40.775648],"type":"Point"}
+}

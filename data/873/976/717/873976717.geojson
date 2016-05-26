@@ -1,0 +1,80 @@
+{
+  "id": 873976717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.696506,40.791954,-96.696506,40.791954",
+    "geom:latitude":40.791954,
+    "geom:longitude":-96.696506,
+    "iso:country":"US",
+    "sg:address":"1702 South St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ne/lincoln/88463-valentinos/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 434 9040",
+    "sg:postcode":"68502",
+    "sg:province":"NE",
+    "sg:tags":[
+        "american",
+        "italian",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878719,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ddrw5TSyLi8c0QiVUybHm_40.791954_-96.696506@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464302247,
+    "wof:geomhash":"3e0e8603ec36e3693316a9772dbe7544",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878719,
+            "region_id":85688563,
+            "venue_id":873976717
+        }
+    ],
+    "wof:id":873976717,
+    "wof:lastmodified":1464302247,
+    "wof:name":"Valentino's",
+    "wof:parent_id":85878719,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "italian",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -96.696506,
+    40.791954,
+    -96.696506,
+    40.791954
+],
+  "geometry": {"coordinates":[-96.696506,40.791954],"type":"Point"}
+}

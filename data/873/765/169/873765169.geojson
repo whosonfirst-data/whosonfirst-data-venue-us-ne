@@ -1,0 +1,71 @@
+{
+  "id": 873765169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.710739,40.865366,-96.710739,40.865366",
+    "geom:latitude":40.865366,
+    "geom:longitude":-96.710739,
+    "iso:country":"US",
+    "sg:address":"5625 N 7th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 489 8484",
+    "sg:postcode":"68521",
+    "sg:province":"NE",
+    "sg:tags":[
+        "psychotherapist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1pRDZSxQa6T588pYVJJzkR_40.865366_-96.710739@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297298,
+    "wof:geomhash":"90fc0e6f340c758224861960762515f8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878717,
+            "region_id":85688563,
+            "venue_id":873765169
+        }
+    ],
+    "wof:id":873765169,
+    "wof:lastmodified":1464297298,
+    "wof:name":"Cross Roads Psychotherapy Ctr",
+    "wof:parent_id":85878717,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "psychotherapist"
+    ]
+},
+  "bbox": [
+    -96.710739,
+    40.865366,
+    -96.710739,
+    40.865366
+],
+  "geometry": {"coordinates":[-96.710739,40.865366],"type":"Point"}
+}

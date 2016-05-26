@@ -1,0 +1,75 @@
+{
+  "id": 873952573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.718786,40.813628,-96.718786,40.813628",
+    "geom:latitude":40.813628,
+    "geom:longitude":-96.718786,
+    "iso:country":"US",
+    "sg:address":"121 S 2nd St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 441 8373",
+    "sg:postcode":"68508",
+    "sg:province":"NE",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878737,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5sBaYMtkKypJYmYyPXtPmY_40.813628_-96.718786@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464301253,
+    "wof:geomhash":"94b235087b3cc407b33f8683020b3820",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878737,
+            "region_id":85688563,
+            "venue_id":873952573
+        }
+    ],
+    "wof:id":873952573,
+    "wof:lastmodified":1464301253,
+    "wof:name":"Lincoln Fire Dept",
+    "wof:parent_id":85878737,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -96.718786,
+    40.813628,
+    -96.718786,
+    40.813628
+],
+  "geometry": {"coordinates":[-96.71878599999999,40.813628],"type":"Point"}
+}

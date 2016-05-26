@@ -1,0 +1,71 @@
+{
+  "id": 873917863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.042237,41.180103,-96.042237,41.180103",
+    "geom:latitude":41.180103,
+    "geom:longitude":-96.042237,
+    "iso:country":"US",
+    "sg:address":"7897 S 83rd St",
+    "sg:city":"La Vista",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 596 0500",
+    "sg:postcode":"68128",
+    "sg:province":"NE",
+    "sg:tags":[
+        "return",
+        "filing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85843697,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2lpdnLXrKIQvLkr4Jvx04p_41.180103_-96.042237@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300175,
+    "wof:geomhash":"7b4dc933d7e830130c520eb3e53b23c0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85843697,
+            "region_id":85688563,
+            "venue_id":873917863
+        }
+    ],
+    "wof:id":873917863,
+    "wof:lastmodified":1464300175,
+    "wof:name":"Jackson Hewitt Tax Svc",
+    "wof:parent_id":85843697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "return",
+        "filing"
+    ]
+},
+  "bbox": [
+    -96.042237,
+    41.180103,
+    -96.042237,
+    41.180103
+],
+  "geometry": {"coordinates":[-96.042237,41.180103],"type":"Point"}
+}

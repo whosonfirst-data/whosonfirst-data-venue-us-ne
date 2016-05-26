@@ -1,0 +1,73 @@
+{
+  "id": 873744895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.683652,40.881389,-96.683652,40.881389",
+    "geom:latitude":40.881389,
+    "geom:longitude":-96.683652,
+    "iso:country":"US",
+    "sg:address":"2500 Wildcat Dr",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 458 9837",
+    "sg:postcode":"68521",
+    "sg:province":"NE",
+    "sg:tags":[
+        "renting",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1hxOZGcKCGZezYc7xmHSY2_40.881389_-96.683652@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297009,
+    "wof:geomhash":"d46b4212955d0071c81e9ac480dfd96f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878687,
+            "region_id":85688563,
+            "venue_id":873744895
+        }
+    ],
+    "wof:id":873744895,
+    "wof:lastmodified":1464297009,
+    "wof:name":"Dollar Rent A Car",
+    "wof:parent_id":85878687,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -96.683652,
+    40.881389,
+    -96.683652,
+    40.881389
+],
+  "geometry": {"coordinates":[-96.683652,40.881389],"type":"Point"}
+}

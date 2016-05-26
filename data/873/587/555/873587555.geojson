@@ -1,0 +1,69 @@
+{
+  "id": 873587555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.637466,40.707949,-96.637466,40.707949",
+    "geom:latitude":40.707949,
+    "geom:longitude":-96.637466,
+    "iso:country":"US",
+    "sg:address":"6140 Luann Ln",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 423 6967",
+    "sg:postcode":"68516",
+    "sg:province":"NE",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85878745,
+        102083503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2M31LFTbAL9q8ty9v8reBw_40.707949_-96.637466@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294803,
+    "wof:geomhash":"b4379befdcf6d395e53e9b17a4ae6749",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "neighbourhood_id":85878745,
+            "region_id":85688563,
+            "venue_id":873587555
+        }
+    ],
+    "wof:id":873587555,
+    "wof:lastmodified":1464294803,
+    "wof:name":"From Heart",
+    "wof:parent_id":85878745,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -96.637466,
+    40.707949,
+    -96.637466,
+    40.707949
+],
+  "geometry": {"coordinates":[-96.637466,40.707949],"type":"Point"}
+}

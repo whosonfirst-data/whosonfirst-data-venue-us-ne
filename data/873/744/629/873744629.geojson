@@ -1,0 +1,73 @@
+{
+  "id": 873744629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.640189,40.865188,-96.640189,40.865188",
+    "geom:latitude":40.865188,
+    "geom:longitude":-96.640189,
+    "iso:country":"US",
+    "sg:address":"5801 Johanna Rd",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 464 9302",
+    "sg:postcode":"68507",
+    "sg:province":"NE",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85824241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3gHYFKxwkhv4LsDA7h6K06_40.865188_-96.640189@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297005,
+    "wof:geomhash":"e6ce1ac3316dcd67542ccff709f82b6f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85824241,
+            "region_id":85688563,
+            "venue_id":873744629
+        }
+    ],
+    "wof:id":873744629,
+    "wof:lastmodified":1464297005,
+    "wof:name":"Osborn TJ Constr Co Inc Shop",
+    "wof:parent_id":85824241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.640189,
+    40.865188,
+    -96.640189,
+    40.865188
+],
+  "geometry": {"coordinates":[-96.64018900000001,40.865188],"type":"Point"}
+}

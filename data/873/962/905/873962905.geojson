@@ -1,0 +1,75 @@
+{
+  "id": 873962905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.081014,41.212595,-96.081014,41.212595",
+    "geom:latitude":41.212595,
+    "geom:longitude":-96.081014,
+    "iso:country":"US",
+    "sg:address":"10236 L St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 593 1886",
+    "sg:postcode":"68127",
+    "sg:province":"NE",
+    "sg:tags":[
+        "paint"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872531,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1OyfxB8cytMSSZR8euTWDx_41.212595_-96.081014@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464301691,
+    "wof:geomhash":"1cbcf98328b671a1df6e06cdf2056918",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872531,
+            "region_id":85688563,
+            "venue_id":873962905
+        }
+    ],
+    "wof:id":873962905,
+    "wof:lastmodified":1464301691,
+    "wof:name":"Sherwin-Williams Paints",
+    "wof:parent_id":85872531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paint"
+    ]
+},
+  "bbox": [
+    -96.081014,
+    41.212595,
+    -96.081014,
+    41.212595
+],
+  "geometry": {"coordinates":[-96.081014,41.212595],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 873680197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.043531,41.239217,-96.043531,41.239217",
+    "geom:latitude":41.239217,
+    "geom:longitude":-96.043531,
+    "iso:country":"US",
+    "sg:address":"2221 S 84th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 390 9341",
+    "sg:postcode":"68124",
+    "sg:province":"NE",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872533,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1N6gfsD5h65bGmnSX5Zpfr_41.239217_-96.043531@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296001,
+    "wof:geomhash":"0ae06b37cb973bb40efe989e22e5d35c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872533,
+            "region_id":85688563,
+            "venue_id":873680197
+        }
+    ],
+    "wof:id":873680197,
+    "wof:lastmodified":1464296001,
+    "wof:name":"Wexcel Const Inc",
+    "wof:parent_id":85872533,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -96.043531,
+    41.239217,
+    -96.043531,
+    41.239217
+],
+  "geometry": {"coordinates":[-96.043531,41.239217],"type":"Point"}
+}

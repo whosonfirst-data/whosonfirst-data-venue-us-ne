@@ -1,0 +1,73 @@
+{
+  "id": 873623087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.614341,40.870752,-96.614341,40.870752",
+    "geom:latitude":40.870752,
+    "geom:longitude":-96.614341,
+    "iso:country":"US",
+    "sg:address":"7701 Cornhusker Hwy",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 560 4732",
+    "sg:postcode":"68507",
+    "sg:province":"NE",
+    "sg:tags":[
+        "excavating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85824241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_103Nb5FPfnixw5jyTrYwMY_40.870752_-96.614341@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295282,
+    "wof:geomhash":"3b7c98ff21a1a8b41f9fe68945ae9c3b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85824241,
+            "region_id":85688563,
+            "venue_id":873623087
+        }
+    ],
+    "wof:id":873623087,
+    "wof:lastmodified":1464295282,
+    "wof:name":"J-Ton Construction",
+    "wof:parent_id":85824241,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -96.614341,
+    40.870752,
+    -96.614341,
+    40.870752
+],
+  "geometry": {"coordinates":[-96.614341,40.870752],"type":"Point"}
+}

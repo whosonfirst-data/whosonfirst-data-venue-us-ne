@@ -1,0 +1,76 @@
+{
+  "id": 873555473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.906105,41.136918,-95.906105,41.136918",
+    "geom:latitude":41.136918,
+    "geom:longitude":-95.906105,
+    "iso:country":"US",
+    "sg:address":"1010 Bert Murphy Blvd",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 291 2762",
+    "sg:postcode":"68005",
+    "sg:province":"NE",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "sg:website":"www.edsautobody.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974747,
+        102082777,
+        85820061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7XN1Ow8mgxScNYK3mpDyVS_41.136918_-95.906105@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294442,
+    "wof:geomhash":"8c68677b13cf083fc2e67a6f13ac0d08",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974747,
+            "neighbourhood_id":85820061,
+            "region_id":85688563,
+            "venue_id":873555473
+        }
+    ],
+    "wof:id":873555473,
+    "wof:lastmodified":1464294442,
+    "wof:name":"Ed's Auto Body Inc",
+    "wof:parent_id":85820061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -95.906105,
+    41.136918,
+    -95.906105,
+    41.136918
+],
+  "geometry": {"coordinates":[-95.906105,41.136918],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 873937293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.983562,41.179554,-95.983562,41.179554",
+    "geom:latitude":41.179554,
+    "geom:longitude":-95.983562,
+    "iso:country":"US",
+    "sg:address":"4660 Greene Ave",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 933 5798",
+    "sg:postcode":"68157",
+    "sg:province":"NE",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85849923,
+        102191575,
+        404519143,
+        85633793,
+        85974545,
+        102082777,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0tkVGswW1A8kZxMaaglzAm_41.179554_-95.983562@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300585,
+    "wof:geomhash":"c0d3bdc8e01667f335e934815ba73f60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082777,
+            "localadmin_id":404519143,
+            "locality_id":85974545,
+            "neighbourhood_id":85849923,
+            "region_id":85688563,
+            "venue_id":873937293
+        }
+    ],
+    "wof:id":873937293,
+    "wof:lastmodified":1464300585,
+    "wof:name":"Price Construction",
+    "wof:parent_id":85849923,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -95.983562,
+    41.179554,
+    -95.983562,
+    41.179554
+],
+  "geometry": {"coordinates":[-95.98356200000001,41.179554],"type":"Point"}
+}

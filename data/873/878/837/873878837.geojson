@@ -1,0 +1,73 @@
+{
+  "id": 873878837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.609741,40.796734,-96.609741,40.796734",
+    "geom:latitude":40.796734,
+    "geom:longitude":-96.609741,
+    "iso:country":"US",
+    "sg:address":"8035 Talbot Trl",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 476 2019",
+    "sg:postcode":"68506",
+    "sg:province":"NE",
+    "sg:tags":[
+        "repair",
+        "merchandise"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0i4IEXQuCyVSOcKMvFZqAs_40.796734_-96.609741@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299411,
+    "wof:geomhash":"219d12a625704a533edf007dd41b501e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878697,
+            "region_id":85688563,
+            "venue_id":873878837
+        }
+    ],
+    "wof:id":873878837,
+    "wof:lastmodified":1464299411,
+    "wof:name":"Framing Studio",
+    "wof:parent_id":85878697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "merchandise"
+    ]
+},
+  "bbox": [
+    -96.609741,
+    40.796734,
+    -96.609741,
+    40.796734
+],
+  "geometry": {"coordinates":[-96.609741,40.796734],"type":"Point"}
+}

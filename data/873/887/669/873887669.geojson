@@ -1,0 +1,76 @@
+{
+  "id": 873887669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.114687,41.205098,-96.114687,41.205098",
+    "geom:latitude":41.205098,
+    "geom:longitude":-96.114687,
+    "iso:country":"US",
+    "sg:address":"12775 Q St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 895 7788",
+    "sg:postcode":"68137",
+    "sg:province":"NE",
+    "sg:tags":[
+        "eating"
+    ],
+    "sg:website":"www.thaipepperomaha.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872531,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1cF65q9wQNlW0WnNtPfELl_41.205098_-96.114687@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299585,
+    "wof:geomhash":"f84b4f58476ee90f07ff163c1220856e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872531,
+            "region_id":85688563,
+            "venue_id":873887669
+        }
+    ],
+    "wof:id":873887669,
+    "wof:lastmodified":1464299585,
+    "wof:name":"Thai Pepper",
+    "wof:parent_id":85872531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -96.114687,
+    41.205098,
+    -96.114687,
+    41.205098
+],
+  "geometry": {"coordinates":[-96.114687,41.205098],"type":"Point"}
+}

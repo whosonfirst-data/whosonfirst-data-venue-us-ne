@@ -1,0 +1,75 @@
+{
+  "id": 873590361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.05262,41.288847,-96.05262,41.288847",
+    "geom:latitude":41.288847,
+    "geom:longitude":-96.05262,
+    "iso:country":"US",
+    "sg:address":"3433 N 90th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 000 1111",
+    "sg:postcode":"68134",
+    "sg:province":"NE",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867061,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1sYgdvrEjHILoUEaDgEUMJ_41.288847_-96.052620@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464294835,
+    "wof:geomhash":"fb749e5a99ed5835fe01451ee0893864",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85867061,
+            "region_id":85688563,
+            "venue_id":873590361
+        }
+    ],
+    "wof:id":873590361,
+    "wof:lastmodified":1464294835,
+    "wof:name":"Aldi",
+    "wof:parent_id":85867061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -96.05262,
+    41.288847,
+    -96.05262,
+    41.288847
+],
+  "geometry": {"coordinates":[-96.05262,41.288847],"type":"Point"}
+}

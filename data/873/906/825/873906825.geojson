@@ -1,0 +1,75 @@
+{
+  "id": 873906825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.625206,40.814797,-96.625206,40.814797",
+    "geom:latitude":40.814797,
+    "geom:longitude":-96.625206,
+    "iso:country":"US",
+    "sg:address":"211 N 70th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 464 7201",
+    "sg:postcode":"68505",
+    "sg:province":"NE",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878725,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_195PTU53v6N3e8L9Jl6SvP_40.814797_-96.625206@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299955,
+    "wof:geomhash":"eee93d609312562bf7dee3b63346f5b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878725,
+            "region_id":85688563,
+            "venue_id":873906825
+        }
+    ],
+    "wof:id":873906825,
+    "wof:lastmodified":1464299955,
+    "wof:name":"Mazatlan Mexican Restaurant",
+    "wof:parent_id":85878725,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -96.625206,
+    40.814797,
+    -96.625206,
+    40.814797
+],
+  "geometry": {"coordinates":[-96.62520600000001,40.814797],"type":"Point"}
+}

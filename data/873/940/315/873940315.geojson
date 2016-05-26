@@ -1,0 +1,75 @@
+{
+  "id": 873940315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.961389,41.272153,-95.961389,41.272153",
+    "geom:latitude":41.272153,
+    "geom:longitude":-95.961389,
+    "iso:country":"US",
+    "sg:address":"3207 Hamilton St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 556 6417",
+    "sg:postcode":"68131",
+    "sg:province":"NE",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85872525,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6RwEt0KNWb9XfMuFiRTgwo_41.272153_-95.961389@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300707,
+    "wof:geomhash":"16413967e50ca5b1155dca08ba80f2bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85872525,
+            "region_id":85688563,
+            "venue_id":873940315
+        }
+    ],
+    "wof:id":873940315,
+    "wof:lastmodified":1464300707,
+    "wof:name":"Bachelor Cleaning Svc",
+    "wof:parent_id":85872525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -95.961389,
+    41.272153,
+    -95.961389,
+    41.272153
+],
+  "geometry": {"coordinates":[-95.961389,41.272153],"type":"Point"}
+}

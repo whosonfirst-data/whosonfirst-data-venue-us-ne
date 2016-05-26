@@ -1,0 +1,71 @@
+{
+  "id": 873816721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.954024,41.111474,-95.954024,41.111474",
+    "geom:latitude":41.111474,
+    "geom:longitude":-95.954024,
+    "iso:country":"US",
+    "sg:address":"2909 Schuemann Dr",
+    "sg:city":"Bellevue",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 614 9680",
+    "sg:postcode":"68123",
+    "sg:province":"NE",
+    "sg:tags":[
+        "billing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85974747,
+        102082777,
+        85820061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4XpCPvVobxaslmPRfTDynW_41.111474_-95.954024@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464298048,
+    "wof:geomhash":"8c84602f43fc7562f0c737198d6d423f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082777,
+            "locality_id":85974747,
+            "neighbourhood_id":85820061,
+            "region_id":85688563,
+            "venue_id":873816721
+        }
+    ],
+    "wof:id":873816721,
+    "wof:lastmodified":1464298048,
+    "wof:name":"Advanced Medical Billing Inc",
+    "wof:parent_id":85820061,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "billing"
+    ]
+},
+  "bbox": [
+    -95.954024,
+    41.111474,
+    -95.954024,
+    41.111474
+],
+  "geometry": {"coordinates":[-95.954024,41.111474],"type":"Point"}
+}

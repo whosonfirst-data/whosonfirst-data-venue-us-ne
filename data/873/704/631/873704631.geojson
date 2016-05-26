@@ -1,0 +1,77 @@
+{
+  "id": 873704631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-95.990345,41.26035,-95.990345,41.26035",
+    "geom:latitude":41.26035,
+    "geom:longitude":-95.990345,
+    "iso:country":"US",
+    "sg:address":"118 N 50th St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 614 3787",
+    "sg:postcode":"68132",
+    "sg:province":"NE",
+    "sg:tags":[
+        "tea",
+        "coffee"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867055,
+        102191575,
+        404518711,
+        85633793,
+        85973483,
+        102082789,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3U4ps1OICkAkYC5g0PF7SG_41.260350_-95.990345@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296452,
+    "wof:geomhash":"818b78612313ceff054d9cb7173401c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
+            "neighbourhood_id":85867055,
+            "region_id":85688563,
+            "venue_id":873704631
+        }
+    ],
+    "wof:id":873704631,
+    "wof:lastmodified":1464296452,
+    "wof:name":"13th Street Coffee Co",
+    "wof:parent_id":85867055,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tea",
+        "coffee"
+    ]
+},
+  "bbox": [
+    -95.990345,
+    41.26035,
+    -95.990345,
+    41.26035
+],
+  "geometry": {"coordinates":[-95.990345,41.26035],"type":"Point"}
+}

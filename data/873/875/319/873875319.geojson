@@ -1,0 +1,77 @@
+{
+  "id": 873875319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.683004,40.858221,-96.683004,40.858221",
+    "geom:latitude":40.858221,
+    "geom:longitude":-96.683004,
+    "iso:country":"US",
+    "sg:address":"4640 Champlain Dr",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 435 6986",
+    "sg:postcode":"68521",
+    "sg:province":"NE",
+    "sg:tags":[
+        "pet",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878721,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2kF1e7Ed2d5eGNfCy0VKm6_40.858221_-96.683004@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464299341,
+    "wof:geomhash":"927a03157f328a31903ced0f834413ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878721,
+            "region_id":85688563,
+            "venue_id":873875319
+        }
+    ],
+    "wof:id":873875319,
+    "wof:lastmodified":1464299341,
+    "wof:name":"Pet Ark",
+    "wof:parent_id":85878721,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "shop"
+    ]
+},
+  "bbox": [
+    -96.683004,
+    40.858221,
+    -96.683004,
+    40.858221
+],
+  "geometry": {"coordinates":[-96.683004,40.858221],"type":"Point"}
+}

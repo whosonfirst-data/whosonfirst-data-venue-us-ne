@@ -1,0 +1,75 @@
+{
+  "id": 873604973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.649977,40.822283,-96.649977,40.822283",
+    "geom:latitude":40.822283,
+    "geom:longitude":-96.649977,
+    "iso:country":"US",
+    "sg:address":"841 Santa Monica Ave",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 466 0399",
+    "sg:postcode":"68504",
+    "sg:province":"NE",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878701,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Mf41vWyY7qCRhlPRS2j7A_40.822283_-96.649977@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295039,
+    "wof:geomhash":"8e4c17165cf61f9c41cc06fd15ebc326",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878701,
+            "region_id":85688563,
+            "venue_id":873604973
+        }
+    ],
+    "wof:id":873604973,
+    "wof:lastmodified":1464295039,
+    "wof:name":"Choice Commercial Cleaning",
+    "wof:parent_id":85878701,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -96.649977,
+    40.822283,
+    -96.649977,
+    40.822283
+],
+  "geometry": {"coordinates":[-96.64997700000001,40.822283],"type":"Point"}
+}

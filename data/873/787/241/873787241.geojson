@@ -1,0 +1,67 @@
+{
+  "id": 873787241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.625257,40.786854,-96.625257,40.786854",
+    "geom:latitude":40.786854,
+    "geom:longitude":-96.625257,
+    "iso:country":"US",
+    "sg:address":"2601 S 70th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 434 9350",
+    "sg:postcode":"68506",
+    "sg:province":"NE",
+    "sg:website":"www.valentinos.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5PN9wXyKyB5JLCChFWWFxx_40.786854_-96.625257@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464297597,
+    "wof:geomhash":"4a0e8e0fbe20cd1436636cb1877d512b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878697,
+            "region_id":85688563,
+            "venue_id":873787241
+        }
+    ],
+    "wof:id":873787241,
+    "wof:lastmodified":1464297597,
+    "wof:name":"Valentino's Of America Inc",
+    "wof:parent_id":85878697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -96.625257,
+    40.786854,
+    -96.625257,
+    40.786854
+],
+  "geometry": {"coordinates":[-96.625257,40.786854],"type":"Point"}
+}

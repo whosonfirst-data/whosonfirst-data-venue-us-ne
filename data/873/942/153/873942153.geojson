@@ -1,0 +1,69 @@
+{
+  "id": 873942153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.174804,41.188459,-96.174804,41.188459",
+    "geom:latitude":41.188459,
+    "geom:longitude":-96.174804,
+    "iso:country":"US",
+    "sg:address":"16725 Gertrude St",
+    "sg:city":"Omaha",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 895 6691",
+    "sg:postcode":"68136",
+    "sg:province":"NE",
+    "sg:tags":[
+        "landscape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85834285,
+        102082789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1uBZOH9ziJgtUPtfwJTnd1_41.188459_-96.174804@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464300774,
+    "wof:geomhash":"75d9e235de98237e5e9d9270aff014e8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082789,
+            "neighbourhood_id":85834285,
+            "region_id":85688563,
+            "venue_id":873942153
+        }
+    ],
+    "wof:id":873942153,
+    "wof:lastmodified":1464300774,
+    "wof:name":"Elements Inc",
+    "wof:parent_id":85834285,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape"
+    ]
+},
+  "bbox": [
+    -96.174804,
+    41.188459,
+    -96.174804,
+    41.188459
+],
+  "geometry": {"coordinates":[-96.17480399999999,41.188459],"type":"Point"}
+}

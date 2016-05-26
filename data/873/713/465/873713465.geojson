@@ -1,0 +1,71 @@
+{
+  "id": 873713465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.643428,40.895019,-96.643428,40.895019",
+    "geom:latitude":40.895019,
+    "geom:longitude":-96.643428,
+    "iso:country":"US",
+    "sg:address":"8200 N 56th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 466 8200",
+    "sg:postcode":"68514",
+    "sg:province":"NE",
+    "sg:tags":[
+        "modular"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688563,
+        85633793,
+        85973555,
+        102083503,
+        85878687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0MMsivMu5mNekJxi87P6aB_40.895019_-96.643428@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464296562,
+    "wof:geomhash":"55b21dd784c7c04ac53fad6d62801e19",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "locality_id":85973555,
+            "neighbourhood_id":85878687,
+            "region_id":85688563,
+            "venue_id":873713465
+        }
+    ],
+    "wof:id":873713465,
+    "wof:lastmodified":1464296562,
+    "wof:name":"I-80 Homes",
+    "wof:parent_id":85878687,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "modular"
+    ]
+},
+  "bbox": [
+    -96.643428,
+    40.895019,
+    -96.643428,
+    40.895019
+],
+  "geometry": {"coordinates":[-96.643428,40.895019],"type":"Point"}
+}

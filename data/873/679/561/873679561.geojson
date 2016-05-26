@@ -1,0 +1,77 @@
+{
+  "id": 873679561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-96.638992,40.837835,-96.638992,40.837835",
+    "geom:latitude":40.837835,
+    "geom:longitude":-96.638992,
+    "iso:country":"US",
+    "sg:address":"2545 N 60th St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 464 4077",
+    "sg:postcode":"68507",
+    "sg:province":"NE",
+    "sg:tags":[
+        "machine",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85853163,
+        102191575,
+        404521111,
+        85633793,
+        85973555,
+        102083503,
+        85688563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6w1oa6U92sESZ5QDYrHGbJ_40.837835_-96.638992@1294165850"
+    },
+    "wof:country":"US",
+    "wof:created":1464295984,
+    "wof:geomhash":"af5c2ef3076aa2e74c546aa12c7feeba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85853163,
+            "region_id":85688563,
+            "venue_id":873679561
+        }
+    ],
+    "wof:id":873679561,
+    "wof:lastmodified":1464295984,
+    "wof:name":"IBA",
+    "wof:parent_id":85853163,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "shop"
+    ]
+},
+  "bbox": [
+    -96.638992,
+    40.837835,
+    -96.638992,
+    40.837835
+],
+  "geometry": {"coordinates":[-96.638992,40.837835],"type":"Point"}
+}
