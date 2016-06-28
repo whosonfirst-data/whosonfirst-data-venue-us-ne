@@ -2,13 +2,14 @@
   "id": 203105395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.994167,41.212578,-95.994167,41.212578",
     "geom:latitude":41.212578,
     "geom:longitude":-95.994167,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5110 L St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203105395,
-    "wof:lastmodified":1449025641,
+    "wof:lastmodified":1466666212,
     "wof:name":"Kohll's Pharmacy & Homecare",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drugstore"
     ]
 },
-  "bbox": [-95.994167,41.212578,-95.994167,41.212578],
+  "bbox": [
+    -95.994167,
+    41.212578,
+    -95.994167,
+    41.212578
+],
   "geometry": {"coordinates":[-95.994167,41.212578],"type":"Point"}
 }

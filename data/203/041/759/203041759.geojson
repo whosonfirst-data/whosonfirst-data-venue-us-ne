@@ -2,13 +2,14 @@
   "id": 203041759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.937207,41.25747,-95.937207,41.25747",
     "geom:latitude":41.25747,
     "geom:longitude":-95.937207,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"302 S 16th St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203041759,
-    "wof:lastmodified":1449025598,
+    "wof:lastmodified":1466665825,
     "wof:name":"Casa Bella Pizza Parlor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pizza"
     ]
 },
-  "bbox": [-95.937207,41.25747,-95.937207,41.25747],
+  "bbox": [
+    -95.937207,
+    41.25747,
+    -95.937207,
+    41.25747
+],
   "geometry": {"coordinates":[-95.937207,41.25747],"type":"Point"}
 }

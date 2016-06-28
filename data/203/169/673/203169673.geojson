@@ -2,13 +2,14 @@
   "id": 203169673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.807781,40.842762,-96.807781,40.842762",
     "geom:latitude":40.842762,
     "geom:longitude":-96.807781,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6305 W Adams St",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -76,10 +77,11 @@
         }
     ],
     "wof:id":203169673,
-    "wof:lastmodified":1449026112,
+    "wof:lastmodified":1466666571,
     "wof:name":"Country Pines",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -94,6 +96,11 @@
         "chapel"
     ]
 },
-  "bbox": [-96.807781,40.842762,-96.807781,40.842762],
-  "geometry": {"coordinates":[-96.807781,40.842762],"type":"Point"}
+  "bbox": [
+    -96.807781,
+    40.842762,
+    -96.807781,
+    40.842762
+],
+  "geometry": {"coordinates":[-96.80778100000001,40.842762],"type":"Point"}
 }

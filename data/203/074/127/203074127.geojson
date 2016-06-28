@@ -2,13 +2,14 @@
   "id": 203074127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.924847,41.248955,-95.924847,41.248955",
     "geom:latitude":41.248955,
     "geom:longitude":-95.924847,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"621 Pacific St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203074127,
-    "wof:lastmodified":1449025968,
+    "wof:lastmodified":1466666049,
     "wof:name":"Locksmith 24 Hours",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "key"
     ]
 },
-  "bbox": [-95.924847,41.248955,-95.924847,41.248955],
+  "bbox": [
+    -95.924847,
+    41.248955,
+    -95.924847,
+    41.248955
+],
   "geometry": {"coordinates":[-95.924847,41.248955],"type":"Point"}
 }

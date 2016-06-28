@@ -2,13 +2,14 @@
   "id": 203140187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.081664,41.210169,-96.081664,41.210169",
     "geom:latitude":41.210169,
     "geom:longitude":-96.081664,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10828 John Galt Blvd",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -57,16 +58,22 @@
         }
     ],
     "wof:id":203140187,
-    "wof:lastmodified":1449025204,
+    "wof:lastmodified":1466666433,
     "wof:name":"Creighton Medical Associates",
     "wof:parent_id":85872531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-96.081664,41.210169,-96.081664,41.210169],
+  "bbox": [
+    -96.081664,
+    41.210169,
+    -96.081664,
+    41.210169
+],
   "geometry": {"coordinates":[-96.081664,41.210169],"type":"Point"}
 }

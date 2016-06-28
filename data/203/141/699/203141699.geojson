@@ -2,13 +2,14 @@
   "id": 203141699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.121407,41.213987,-96.121407,41.213987",
     "geom:latitude":41.213987,
     "geom:longitude":-96.121407,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4544 S 133rd St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -98,10 +99,11 @@
         }
     ],
     "wof:id":203141699,
-    "wof:lastmodified":1449025587,
+    "wof:lastmodified":1466666441,
     "wof:name":"Continental Alarm & Detection Company",
     "wof:parent_id":85872531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -125,6 +127,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-96.121407,41.213987,-96.121407,41.213987],
+  "bbox": [
+    -96.121407,
+    41.213987,
+    -96.121407,
+    41.213987
+],
   "geometry": {"coordinates":[-96.121407,41.213987],"type":"Point"}
 }

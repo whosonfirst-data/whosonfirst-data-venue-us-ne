@@ -2,13 +2,14 @@
   "id": 203045613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.980398,41.282404,-95.980398,41.282404",
     "geom:latitude":41.282404,
     "geom:longitude":-95.980398,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2611 N 45th St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203045613,
-    "wof:lastmodified":1449026646,
+    "wof:lastmodified":1466665862,
     "wof:name":"Tender Loving Tots Childcare",
     "wof:parent_id":85872535,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-95.980398,41.282404,-95.980398,41.282404],
-  "geometry": {"coordinates":[-95.980398,41.282404],"type":"Point"}
+  "bbox": [
+    -95.980398,
+    41.282404,
+    -95.980398,
+    41.282404
+],
+  "geometry": {"coordinates":[-95.98039799999999,41.282404],"type":"Point"}
 }

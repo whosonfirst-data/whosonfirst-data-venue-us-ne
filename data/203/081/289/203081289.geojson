@@ -2,13 +2,14 @@
   "id": 203081289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.943368,41.274329,-95.943368,41.274329",
     "geom:latitude":41.274329,
     "geom:longitude":-95.943368,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1701 N 21st St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203081289,
-    "wof:lastmodified":1449025499,
+    "wof:lastmodified":1466666068,
     "wof:name":"Emergency A Locksmith",
     "wof:parent_id":85872525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "key"
     ]
 },
-  "bbox": [-95.943368,41.274329,-95.943368,41.274329],
-  "geometry": {"coordinates":[-95.943368,41.274329],"type":"Point"}
+  "bbox": [
+    -95.943368,
+    41.274329,
+    -95.943368,
+    41.274329
+],
+  "geometry": {"coordinates":[-95.94336800000001,41.274329],"type":"Point"}
 }

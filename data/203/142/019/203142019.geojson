@@ -2,13 +2,14 @@
   "id": 203142019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.127019,41.160518,-96.127019,41.160518",
     "geom:latitude":41.160518,
     "geom:longitude":-96.127019,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9931 S 136th St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -75,10 +76,11 @@
         }
     ],
     "wof:id":203142019,
-    "wof:lastmodified":1449026454,
+    "wof:lastmodified":1466669663,
     "wof:name":"Tritex Icf Products Inc",
     "wof:parent_id":85834285,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -90,6 +92,11 @@
         "store"
     ]
 },
-  "bbox": [-96.127019,41.160518,-96.127019,41.160518],
+  "bbox": [
+    -96.127019,
+    41.160518,
+    -96.127019,
+    41.160518
+],
   "geometry": {"coordinates":[-96.127019,41.160518],"type":"Point"}
 }

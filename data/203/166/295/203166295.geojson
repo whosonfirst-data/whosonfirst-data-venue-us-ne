@@ -2,13 +2,14 @@
   "id": 203166295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.634552,40.85918,-96.634552,40.85918",
     "geom:latitude":40.85918,
     "geom:longitude":-96.634552,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6301 Burlington Ave",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -65,10 +66,11 @@
         }
     ],
     "wof:id":203166295,
-    "wof:lastmodified":1449026010,
+    "wof:lastmodified":1466666547,
     "wof:name":"Havelock Welding Shop",
     "wof:parent_id":85824241,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -79,6 +81,11 @@
         "hitch"
     ]
 },
-  "bbox": [-96.634552,40.85918,-96.634552,40.85918],
+  "bbox": [
+    -96.634552,
+    40.85918,
+    -96.634552,
+    40.85918
+],
   "geometry": {"coordinates":[-96.634552,40.85918],"type":"Point"}
 }

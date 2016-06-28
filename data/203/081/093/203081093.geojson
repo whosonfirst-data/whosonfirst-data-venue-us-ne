@@ -2,13 +2,14 @@
   "id": 203081093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.940598,41.233101,-95.940598,41.233101",
     "geom:latitude":41.233101,
     "geom:longitude":-95.940598,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1822 Vinton St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -65,10 +66,11 @@
         }
     ],
     "wof:id":203081093,
-    "wof:lastmodified":1449025492,
+    "wof:lastmodified":1466666066,
     "wof:name":"Rybin Plumbing & Heating Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -85,6 +87,11 @@
         "conditioning/hvac"
     ]
 },
-  "bbox": [-95.940598,41.233101,-95.940598,41.233101],
-  "geometry": {"coordinates":[-95.940598,41.233101],"type":"Point"}
+  "bbox": [
+    -95.940598,
+    41.233101,
+    -95.940598,
+    41.233101
+],
+  "geometry": {"coordinates":[-95.94059799999999,41.233101],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203096773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.048243,41.263353,-96.048243,41.263353",
     "geom:latitude":41.263353,
     "geom:longitude":-96.048243,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8712 W Dodge Rd Ste 220",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203096773,
-    "wof:lastmodified":1449025532,
+    "wof:lastmodified":1466666163,
     "wof:name":"Good Radio",
     "wof:parent_id":85867061,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "broadcast"
     ]
 },
-  "bbox": [-96.048243,41.263353,-96.048243,41.263353],
+  "bbox": [
+    -96.048243,
+    41.263353,
+    -96.048243,
+    41.263353
+],
   "geometry": {"coordinates":[-96.048243,41.263353],"type":"Point"}
 }

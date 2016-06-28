@@ -2,13 +2,14 @@
   "id": 203134841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.990498,41.259682,-95.990498,41.259682",
     "geom:latitude":41.259682,
     "geom:longitude":-95.990498,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5002 Dodge St Ste 301",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -71,10 +72,11 @@
         }
     ],
     "wof:id":203134841,
-    "wof:lastmodified":1449026762,
+    "wof:lastmodified":1466666414,
     "wof:name":"New Tomorrows Counseling",
     "wof:parent_id":85867055,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -91,6 +93,11 @@
         "alcoholism"
     ]
 },
-  "bbox": [-95.990498,41.259682,-95.990498,41.259682],
+  "bbox": [
+    -95.990498,
+    41.259682,
+    -95.990498,
+    41.259682
+],
   "geometry": {"coordinates":[-95.990498,41.259682],"type":"Point"}
 }

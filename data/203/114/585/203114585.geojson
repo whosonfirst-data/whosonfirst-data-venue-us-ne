@@ -2,13 +2,14 @@
   "id": 203114585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.063807,41.205343,-96.063807,41.205343",
     "geom:latitude":41.205343,
     "geom:longitude":-96.063807,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9717 Q St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -78,10 +79,11 @@
         }
     ],
     "wof:id":203114585,
-    "wof:lastmodified":1449025713,
+    "wof:lastmodified":1466666284,
     "wof:name":"Taggart, Heather, Md - Alegent Health Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -101,6 +103,11 @@
         "internal"
     ]
 },
-  "bbox": [-96.063807,41.205343,-96.063807,41.205343],
+  "bbox": [
+    -96.063807,
+    41.205343,
+    -96.063807,
+    41.205343
+],
   "geometry": {"coordinates":[-96.063807,41.205343],"type":"Point"}
 }

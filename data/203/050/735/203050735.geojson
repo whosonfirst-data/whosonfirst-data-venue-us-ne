@@ -2,13 +2,14 @@
   "id": 203050735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.9758,41.241199,-95.9758,41.241199",
     "geom:latitude":41.241199,
     "geom:longitude":-95.9758,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1941 S 42nd St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203050735,
-    "wof:lastmodified":1449025990,
+    "wof:lastmodified":1466665902,
     "wof:name":"Smej's",
     "wof:parent_id":85872523,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.9758,41.241199,-95.9758,41.241199],
-  "geometry": {"coordinates":[-95.9758,41.241199],"type":"Point"}
+  "bbox": [
+    -95.9758,
+    41.241199,
+    -95.9758,
+    41.241199
+],
+  "geometry": {"coordinates":[-95.97580000000001,41.241199],"type":"Point"}
 }

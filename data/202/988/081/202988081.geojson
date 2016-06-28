@@ -2,13 +2,14 @@
   "id": 202988081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.162006,41.000874,-96.162006,41.000874",
     "geom:latitude":41.000874,
     "geom:longitude":-96.162006,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"213 Main St",
     "sg:city":"Louisville",
     "sg:classifiers":[
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":202988081,
-    "wof:lastmodified":1449060985,
+    "wof:lastmodified":1466665646,
     "wof:name":"Leader Drug Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.162006,41.000874,-96.162006,41.000874],
-  "geometry": {"coordinates":[-96.162006,41.000874],"type":"Point"}
+  "bbox": [
+    -96.162006,
+    41.000874,
+    -96.162006,
+    41.000874
+],
+  "geometry": {"coordinates":[-96.16200600000001,41.000874],"type":"Point"}
 }

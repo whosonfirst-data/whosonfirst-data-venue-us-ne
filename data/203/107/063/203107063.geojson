@@ -2,13 +2,14 @@
   "id": 203107063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.003272,41.202152,-96.003272,41.202152",
     "geom:latitude":41.202152,
     "geom:longitude":-96.003272,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5805 T St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203107063,
-    "wof:lastmodified":1449024946,
+    "wof:lastmodified":1466666219,
     "wof:name":"Mick's Wood Flooring",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-96.003272,41.202152,-96.003272,41.202152],
+  "bbox": [
+    -96.003272,
+    41.202152,
+    -96.003272,
+    41.202152
+],
   "geometry": {"coordinates":[-96.003272,41.202152],"type":"Point"}
 }

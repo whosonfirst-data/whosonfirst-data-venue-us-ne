@@ -2,13 +2,14 @@
   "id": 203111511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.058896,41.230256,-96.058896,41.230256",
     "geom:latitude":41.230256,
     "geom:longitude":-96.058896,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9346 Spring St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -65,10 +66,11 @@
         }
     ],
     "wof:id":203111511,
-    "wof:lastmodified":1449026905,
+    "wof:lastmodified":1466666264,
     "wof:name":"Miller's Concrete And Snow Removal",
     "wof:parent_id":85872533,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -79,6 +81,11 @@
         "contractor"
     ]
 },
-  "bbox": [-96.058896,41.230256,-96.058896,41.230256],
+  "bbox": [
+    -96.058896,
+    41.230256,
+    -96.058896,
+    41.230256
+],
   "geometry": {"coordinates":[-96.058896,41.230256],"type":"Point"}
 }

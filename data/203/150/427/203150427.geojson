@@ -2,13 +2,14 @@
   "id": 203150427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.106398,41.277012,-96.106398,41.277012",
     "geom:latitude":41.277012,
     "geom:longitude":-96.106398,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12329 Parker Cir",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":203150427,
-    "wof:lastmodified":1449024964,
+    "wof:lastmodified":1466666473,
     "wof:name":"Amsoil Dealer Direct Jobber",
     "wof:parent_id":85872503,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "lubricant"
     ]
 },
-  "bbox": [-96.106398,41.277012,-96.106398,41.277012],
+  "bbox": [
+    -96.106398,
+    41.277012,
+    -96.106398,
+    41.277012
+],
   "geometry": {"coordinates":[-96.106398,41.277012],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203146093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.138652,41.226757,-96.138652,41.226757",
     "geom:latitude":41.226757,
     "geom:longitude":-96.138652,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3422 S 144th St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":203146093,
-    "wof:lastmodified":1449025709,
+    "wof:lastmodified":1466666452,
     "wof:name":"Oakview Dental",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "dentists-implantology"
     ]
 },
-  "bbox": [-96.138652,41.226757,-96.138652,41.226757],
-  "geometry": {"coordinates":[-96.138652,41.226757],"type":"Point"}
+  "bbox": [
+    -96.138652,
+    41.226757,
+    -96.138652,
+    41.226757
+],
+  "geometry": {"coordinates":[-96.13865199999999,41.226757],"type":"Point"}
 }

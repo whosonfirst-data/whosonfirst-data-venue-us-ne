@@ -2,13 +2,14 @@
   "id": 203010359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.935898,41.253399,-95.935898,41.253399",
     "geom:latitude":41.253399,
     "geom:longitude":-95.935898,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1515 Jones St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203010359,
-    "wof:lastmodified":1449026126,
+    "wof:lastmodified":1466665603,
     "wof:name":"Lajba John E Sculptor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.935898,41.253399,-95.935898,41.253399],
-  "geometry": {"coordinates":[-95.935898,41.253399],"type":"Point"}
+  "bbox": [
+    -95.935898,
+    41.253399,
+    -95.935898,
+    41.253399
+],
+  "geometry": {"coordinates":[-95.93589799999999,41.253399],"type":"Point"}
 }

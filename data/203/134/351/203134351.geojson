@@ -2,13 +2,14 @@
   "id": 203134351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.983034,41.265081,-95.983034,41.265081",
     "geom:latitude":41.265081,
     "geom:longitude":-95.983034,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"629 N 46th St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203134351,
-    "wof:lastmodified":1449026764,
+    "wof:lastmodified":1466666403,
     "wof:name":"Express Locksmiths",
     "wof:parent_id":85867055,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "key"
     ]
 },
-  "bbox": [-95.983034,41.265081,-95.983034,41.265081],
+  "bbox": [
+    -95.983034,
+    41.265081,
+    -95.983034,
+    41.265081
+],
   "geometry": {"coordinates":[-95.983034,41.265081],"type":"Point"}
 }

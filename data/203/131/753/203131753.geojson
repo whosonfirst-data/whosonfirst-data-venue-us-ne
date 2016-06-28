@@ -2,13 +2,14 @@
   "id": 203131753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.019501,41.25964,-96.019501,41.25964",
     "geom:latitude":41.25964,
     "geom:longitude":-96.019501,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6901 Dodge St Ste 107",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":203131753,
-    "wof:lastmodified":1449025479,
+    "wof:lastmodified":1466666390,
     "wof:name":"Abrahamson Law Office",
     "wof:parent_id":85872507,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "law"
     ]
 },
-  "bbox": [-96.019501,41.25964,-96.019501,41.25964],
-  "geometry": {"coordinates":[-96.019501,41.25964],"type":"Point"}
+  "bbox": [
+    -96.019501,
+    41.25964,
+    -96.019501,
+    41.25964
+],
+  "geometry": {"coordinates":[-96.01950100000001,41.25964],"type":"Point"}
 }

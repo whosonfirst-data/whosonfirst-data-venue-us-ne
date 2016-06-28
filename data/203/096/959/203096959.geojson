@@ -2,13 +2,14 @@
   "id": 203096959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.069512,41.270627,-96.069512,41.270627",
     "geom:latitude":41.270627,
     "geom:longitude":-96.069512,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9975 Bloomfield Dr",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":203096959,
-    "wof:lastmodified":1449025534,
+    "wof:lastmodified":1466666168,
     "wof:name":"Albert-Krantz Interiors Inc",
     "wof:parent_id":85867061,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "store"
     ]
 },
-  "bbox": [-96.069512,41.270627,-96.069512,41.270627],
+  "bbox": [
+    -96.069512,
+    41.270627,
+    -96.069512,
+    41.270627
+],
   "geometry": {"coordinates":[-96.069512,41.270627],"type":"Point"}
 }

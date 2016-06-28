@@ -2,13 +2,14 @@
   "id": 203046153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.007895,41.284719,-96.007895,41.284719",
     "geom:latitude":41.284719,
     "geom:longitude":-96.007895,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6115 Maple St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":203046153,
-    "wof:lastmodified":1449026000,
+    "wof:lastmodified":1466665868,
     "wof:name":"Silver of Oz",
     "wof:parent_id":85872535,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.007895,41.284719,-96.007895,41.284719],
+  "bbox": [
+    -96.007895,
+    41.284719,
+    -96.007895,
+    41.284719
+],
   "geometry": {"coordinates":[-96.007895,41.284719],"type":"Point"}
 }

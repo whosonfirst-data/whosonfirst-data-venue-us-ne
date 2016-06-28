@@ -2,13 +2,14 @@
   "id": 203130941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.987851,41.259789,-95.987851,41.259789",
     "geom:latitude":41.259789,
     "geom:longitude":-95.987851,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"115 N 49th St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203130941,
-    "wof:lastmodified":1449025570,
+    "wof:lastmodified":1466666387,
     "wof:name":"Certified Property Management, Inc",
     "wof:parent_id":85867055,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "property"
     ]
 },
-  "bbox": [-95.987851,41.259789,-95.987851,41.259789],
-  "geometry": {"coordinates":[-95.987851,41.259789],"type":"Point"}
+  "bbox": [
+    -95.987851,
+    41.259789,
+    -95.987851,
+    41.259789
+],
+  "geometry": {"coordinates":[-95.98785100000001,41.259789],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203096503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.027011,41.259659,-96.027011,41.259659",
     "geom:latitude":41.259659,
     "geom:longitude":-96.027011,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7355 Dodge St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -73,10 +74,11 @@
         }
     ],
     "wof:id":203096503,
-    "wof:lastmodified":1449025533,
+    "wof:lastmodified":1466666157,
     "wof:name":"Schmitt Music",
     "wof:parent_id":85872509,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -89,6 +91,11 @@
         "piano"
     ]
 },
-  "bbox": [-96.027011,41.259659,-96.027011,41.259659],
+  "bbox": [
+    -96.027011,
+    41.259659,
+    -96.027011,
+    41.259659
+],
   "geometry": {"coordinates":[-96.027011,41.259659],"type":"Point"}
 }

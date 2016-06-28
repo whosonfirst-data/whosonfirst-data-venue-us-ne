@@ -2,13 +2,14 @@
   "id": 337286217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.066704,40.987499,-96.066704,40.987499",
     "geom:latitude":40.987499,
     "geom:longitude":-96.066704,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10312 Agnew Rd",
     "sg:city":"Louisville",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":337286217,
-    "wof:lastmodified":1449027149,
+    "wof:lastmodified":1466665578,
     "wof:name":"Camp of the Good Shepherd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "camp"
     ]
 },
-  "bbox": [-96.066704,40.987499,-96.066704,40.987499],
+  "bbox": [
+    -96.066704,
+    40.987499,
+    -96.066704,
+    40.987499
+],
   "geometry": {"coordinates":[-96.066704,40.987499],"type":"Point"}
 }

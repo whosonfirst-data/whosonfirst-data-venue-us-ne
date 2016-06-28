@@ -2,13 +2,14 @@
   "id": 203131519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.995903,41.2668,-95.995903,41.2668",
     "geom:latitude":41.2668,
     "geom:longitude":-95.995903,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5209 Burt St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203131519,
-    "wof:lastmodified":1449025482,
+    "wof:lastmodified":1466666384,
     "wof:name":"Wence Erin Atty",
     "wof:parent_id":85867055,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.995903,41.2668,-95.995903,41.2668],
+  "bbox": [
+    -95.995903,
+    41.2668,
+    -95.995903,
+    41.2668
+],
   "geometry": {"coordinates":[-95.995903,41.2668],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203026549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.934601,41.256401,-95.934601,41.256401",
     "geom:latitude":41.256401,
     "geom:longitude":-95.934601,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"416 S 14th St Ste 300",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":203026549,
-    "wof:lastmodified":1449026062,
+    "wof:lastmodified":1466665735,
     "wof:name":"Bloom Brent M Atty",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "yoga"
     ]
 },
-  "bbox": [-95.934601,41.256401,-95.934601,41.256401],
+  "bbox": [
+    -95.934601,
+    41.256401,
+    -95.934601,
+    41.256401
+],
   "geometry": {"coordinates":[-95.934601,41.256401],"type":"Point"}
 }

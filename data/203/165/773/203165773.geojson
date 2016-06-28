@@ -2,13 +2,14 @@
   "id": 203165773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.663279,40.784238,-96.663279,40.784238",
     "geom:latitude":40.784238,
     "geom:longitude":-96.663279,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2820 S 40th St",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203165773,
-    "wof:lastmodified":1449026866,
+    "wof:lastmodified":1466666555,
     "wof:name":"Penny Lee's",
     "wof:parent_id":85878735,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-96.663279,40.784238,-96.663279,40.784238],
+  "bbox": [
+    -96.663279,
+    40.784238,
+    -96.663279,
+    40.784238
+],
   "geometry": {"coordinates":[-96.663279,40.784238],"type":"Point"}
 }

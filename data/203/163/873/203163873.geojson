@@ -2,13 +2,14 @@
   "id": 203163873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.69178,40.800259,-96.69178,40.800259",
     "geom:latitude":40.800259,
     "geom:longitude":-96.69178,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1268 S 20th St",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203163873,
-    "wof:lastmodified":1449026836,
+    "wof:lastmodified":1466666541,
     "wof:name":"Cotner College Commission",
     "wof:parent_id":85878727,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-96.69178,40.800259,-96.69178,40.800259],
-  "geometry": {"coordinates":[-96.69178,40.800259],"type":"Point"}
+  "bbox": [
+    -96.69178,
+    40.800259,
+    -96.69178,
+    40.800259
+],
+  "geometry": {"coordinates":[-96.69177999999999,40.800259],"type":"Point"}
 }

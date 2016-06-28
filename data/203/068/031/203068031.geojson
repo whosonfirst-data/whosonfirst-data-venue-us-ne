@@ -2,13 +2,14 @@
   "id": 203068031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.947362,41.208303,-95.947362,41.208303",
     "geom:latitude":41.208303,
     "geom:longitude":-95.947362,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2421 O St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":203068031,
-    "wof:lastmodified":1449025904,
+    "wof:lastmodified":1466669646,
     "wof:name":"Geringer, Patricia",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -78,6 +80,11 @@
         "bankruptcy"
     ]
 },
-  "bbox": [-95.947362,41.208303,-95.947362,41.208303],
+  "bbox": [
+    -95.947362,
+    41.208303,
+    -95.947362,
+    41.208303
+],
   "geometry": {"coordinates":[-95.947362,41.208303],"type":"Point"}
 }

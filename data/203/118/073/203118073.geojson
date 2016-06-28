@@ -2,13 +2,14 @@
   "id": 203118073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.179933,41.238942,-96.179933,41.238942",
     "geom:latitude":41.238942,
     "geom:longitude":-96.179933,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16909 Lakeside Hills Ct 11 Ste 111",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":203118073,
-    "wof:lastmodified":1449026475,
+    "wof:lastmodified":1466666281,
     "wof:name":"Lifestyles Orthotics & Prosthetics, Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "prosthetic"
     ]
 },
-  "bbox": [-96.179933,41.238942,-96.179933,41.238942],
-  "geometry": {"coordinates":[-96.179933,41.238942],"type":"Point"}
+  "bbox": [
+    -96.179933,
+    41.238942,
+    -96.179933,
+    41.238942
+],
+  "geometry": {"coordinates":[-96.17993300000001,41.238942],"type":"Point"}
 }

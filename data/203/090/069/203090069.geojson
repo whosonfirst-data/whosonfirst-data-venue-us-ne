@@ -2,13 +2,14 @@
   "id": 203090069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.956366,41.300538,-95.956366,41.300538",
     "geom:latitude":41.300538,
     "geom:longitude":-95.956366,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4607 N 30th St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203090069,
-    "wof:lastmodified":1449026446,
+    "wof:lastmodified":1466669651,
     "wof:name":"Deluxe Shoe Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.956366,41.300538,-95.956366,41.300538],
+  "bbox": [
+    -95.956366,
+    41.300538,
+    -95.956366,
+    41.300538
+],
   "geometry": {"coordinates":[-95.956366,41.300538],"type":"Point"}
 }

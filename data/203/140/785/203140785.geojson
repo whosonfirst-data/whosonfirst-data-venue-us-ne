@@ -2,13 +2,14 @@
   "id": 203140785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.129196,41.203537,-96.129196,41.203537",
     "geom:latitude":41.203537,
     "geom:longitude":-96.129196,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5332 S 138th St #203",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -70,10 +71,11 @@
         }
     ],
     "wof:id":203140785,
-    "wof:lastmodified":1449025208,
+    "wof:lastmodified":1466666443,
     "wof:name":"Michael Musselman - Farmers Insurance",
     "wof:parent_id":85872531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -83,6 +85,11 @@
         "homeowner"
     ]
 },
-  "bbox": [-96.129196,41.203537,-96.129196,41.203537],
-  "geometry": {"coordinates":[-96.129196,41.203537],"type":"Point"}
+  "bbox": [
+    -96.129196,
+    41.203537,
+    -96.129196,
+    41.203537
+],
+  "geometry": {"coordinates":[-96.12919599999999,41.203537],"type":"Point"}
 }

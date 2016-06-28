@@ -2,13 +2,14 @@
   "id": 203133021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.989332,41.260092,-95.989332,41.260092",
     "geom:latitude":41.260092,
     "geom:longitude":-95.989332,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4950 Dodge Street",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -57,16 +58,22 @@
         }
     ],
     "wof:id":203133021,
-    "wof:lastmodified":1449026512,
+    "wof:lastmodified":1466669661,
     "wof:name":"Matt Wayne Salon",
     "wof:parent_id":85867055,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hair"
     ]
 },
-  "bbox": [-95.989332,41.260092,-95.989332,41.260092],
+  "bbox": [
+    -95.989332,
+    41.260092,
+    -95.989332,
+    41.260092
+],
   "geometry": {"coordinates":[-95.989332,41.260092],"type":"Point"}
 }

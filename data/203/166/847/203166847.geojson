@@ -2,13 +2,14 @@
   "id": 203166847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.702583,40.811359,-96.702583,40.811359",
     "geom:latitude":40.811359,
     "geom:longitude":-96.702583,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 S 13th St Ste 401P",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":203166847,
-    "wof:lastmodified":1449026010,
+    "wof:lastmodified":1466666559,
     "wof:name":"Furches Christopher A Attorney At Law",
     "wof:parent_id":85878699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "law"
     ]
 },
-  "bbox": [-96.702583,40.811359,-96.702583,40.811359],
+  "bbox": [
+    -96.702583,
+    40.811359,
+    -96.702583,
+    40.811359
+],
   "geometry": {"coordinates":[-96.702583,40.811359],"type":"Point"}
 }

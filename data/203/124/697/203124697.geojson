@@ -2,13 +2,14 @@
   "id": 203124697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.960244,41.257734,-95.960244,41.257734",
     "geom:latitude":41.257734,
     "geom:longitude":-95.960244,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3220 Farnam St Ste 2105",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":203124697,
-    "wof:lastmodified":1449026724,
+    "wof:lastmodified":1466666323,
     "wof:name":"Tru Salon & Spa",
     "wof:parent_id":85872525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hair"
     ]
 },
-  "bbox": [-95.960244,41.257734,-95.960244,41.257734],
+  "bbox": [
+    -95.960244,
+    41.257734,
+    -95.960244,
+    41.257734
+],
   "geometry": {"coordinates":[-95.960244,41.257734],"type":"Point"}
 }

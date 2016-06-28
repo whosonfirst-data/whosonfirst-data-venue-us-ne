@@ -2,13 +2,14 @@
   "id": 203145959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.127728,41.224563,-96.127728,41.224563",
     "geom:latitude":41.224563,
     "geom:longitude":-96.127728,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13628 A St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -72,10 +73,11 @@
         }
     ],
     "wof:id":203145959,
-    "wof:lastmodified":1449025488,
+    "wof:lastmodified":1466666464,
     "wof:name":"Oak Hills Co",
     "wof:parent_id":85872531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -88,6 +90,11 @@
         "shade"
     ]
 },
-  "bbox": [-96.127728,41.224563,-96.127728,41.224563],
+  "bbox": [
+    -96.127728,
+    41.224563,
+    -96.127728,
+    41.224563
+],
   "geometry": {"coordinates":[-96.127728,41.224563],"type":"Point"}
 }

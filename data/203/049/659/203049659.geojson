@@ -2,13 +2,14 @@
   "id": 203049659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.012694,41.28697,-96.012694,41.28697",
     "geom:latitude":41.28697,
     "geom:longitude":-96.012694,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6530 Wirt St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203049659,
-    "wof:lastmodified":1449025863,
+    "wof:lastmodified":1466665899,
     "wof:name":"4 Always A Emerg Locksmith",
     "wof:parent_id":85872535,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "key"
     ]
 },
-  "bbox": [-96.012694,41.28697,-96.012694,41.28697],
+  "bbox": [
+    -96.012694,
+    41.28697,
+    -96.012694,
+    41.28697
+],
   "geometry": {"coordinates":[-96.012694,41.28697],"type":"Point"}
 }

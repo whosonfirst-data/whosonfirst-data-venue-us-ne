@@ -2,13 +2,14 @@
   "id": 203125783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.976402,41.257801,-95.976402,41.257801",
     "geom:latitude":41.257801,
     "geom:longitude":-95.976402,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4239 Farnam St Ste 734",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":203125783,
-    "wof:lastmodified":1449026806,
+    "wof:lastmodified":1466666346,
     "wof:name":"Omaha OB Gyn Associates P C",
     "wof:parent_id":85872523,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "gynecologist"
     ]
 },
-  "bbox": [-95.976402,41.257801,-95.976402,41.257801],
-  "geometry": {"coordinates":[-95.976402,41.257801],"type":"Point"}
+  "bbox": [
+    -95.976402,
+    41.257801,
+    -95.976402,
+    41.257801
+],
+  "geometry": {"coordinates":[-95.97640199999999,41.257801],"type":"Point"}
 }

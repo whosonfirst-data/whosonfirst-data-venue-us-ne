@@ -2,13 +2,14 @@
   "id": 203052777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.976322,41.245937,-95.976322,41.245937",
     "geom:latitude":41.245937,
     "geom:longitude":-95.976322,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4243 William St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203052777,
-    "wof:lastmodified":1449025767,
+    "wof:lastmodified":1466665910,
     "wof:name":"27 Locksmith",
     "wof:parent_id":85872523,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "key"
     ]
 },
-  "bbox": [-95.976322,41.245937,-95.976322,41.245937],
+  "bbox": [
+    -95.976322,
+    41.245937,
+    -95.976322,
+    41.245937
+],
   "geometry": {"coordinates":[-95.976322,41.245937],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203099775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.037521,41.259886,-96.037521,41.259886",
     "geom:latitude":41.259886,
     "geom:longitude":-96.037521,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7914 W Dodge Rd",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203099775,
-    "wof:lastmodified":1449026216,
+    "wof:lastmodified":1466666188,
     "wof:name":"Write Life",
     "wof:parent_id":85872509,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "internet"
     ]
 },
-  "bbox": [-96.037521,41.259886,-96.037521,41.259886],
+  "bbox": [
+    -96.037521,
+    41.259886,
+    -96.037521,
+    41.259886
+],
   "geometry": {"coordinates":[-96.037521,41.259886],"type":"Point"}
 }

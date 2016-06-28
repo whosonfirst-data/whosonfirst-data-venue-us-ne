@@ -2,13 +2,14 @@
   "id": 203167111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.699332,40.818046,-96.699332,40.818046",
     "geom:latitude":40.818046,
     "geom:longitude":-96.699332,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1531 S St",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203167111,
-    "wof:lastmodified":1449025922,
+    "wof:lastmodified":1466666547,
     "wof:name":"Midland Professional Assoc",
     "wof:parent_id":85878699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "referral"
     ]
 },
-  "bbox": [-96.699332,40.818046,-96.699332,40.818046],
+  "bbox": [
+    -96.699332,
+    40.818046,
+    -96.699332,
+    40.818046
+],
   "geometry": {"coordinates":[-96.699332,40.818046],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203133719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.985689,41.272285,-95.985689,41.272285",
     "geom:latitude":41.272285,
     "geom:longitude":-95.985689,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1415 N Saddle Creek Rd",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -66,10 +67,11 @@
         }
     ],
     "wof:id":203133719,
-    "wof:lastmodified":1449026512,
+    "wof:lastmodified":1466666410,
     "wof:name":"Granite Works, Inc.",
     "wof:parent_id":85867055,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -81,6 +83,11 @@
         "marble"
     ]
 },
-  "bbox": [-95.985689,41.272285,-95.985689,41.272285],
-  "geometry": {"coordinates":[-95.985689,41.272285],"type":"Point"}
+  "bbox": [
+    -95.985689,
+    41.272285,
+    -95.985689,
+    41.272285
+],
+  "geometry": {"coordinates":[-95.98568899999999,41.272285],"type":"Point"}
 }

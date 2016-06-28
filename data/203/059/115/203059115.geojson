@@ -2,13 +2,14 @@
   "id": 203059115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.014585,41.23919,-96.014585,41.23919",
     "geom:latitude":41.23919,
     "geom:longitude":-96.014585,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"Aksarben Village 2285 S 67th St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -57,16 +58,22 @@
         }
     ],
     "wof:id":203059115,
-    "wof:lastmodified":1449025426,
+    "wof:lastmodified":1466665947,
     "wof:name":"Liv Lounge",
     "wof:parent_id":85872513,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "venue"
     ]
 },
-  "bbox": [-96.014585,41.23919,-96.014585,41.23919],
+  "bbox": [
+    -96.014585,
+    41.23919,
+    -96.014585,
+    41.23919
+],
   "geometry": {"coordinates":[-96.014585,41.23919],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203136041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.046027,41.314786,-96.046027,41.314786",
     "geom:latitude":41.314786,
     "geom:longitude":-96.046027,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6002 Wenninghoff Rd",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":203136041,
-    "wof:lastmodified":1449026852,
+    "wof:lastmodified":1466666414,
     "wof:name":"Smt Company",
     "wof:parent_id":85872505,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "holding"
     ]
 },
-  "bbox": [-96.046027,41.314786,-96.046027,41.314786],
+  "bbox": [
+    -96.046027,
+    41.314786,
+    -96.046027,
+    41.314786
+],
   "geometry": {"coordinates":[-96.046027,41.314786],"type":"Point"}
 }

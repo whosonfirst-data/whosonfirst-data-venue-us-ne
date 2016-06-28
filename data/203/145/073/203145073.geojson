@@ -2,13 +2,14 @@
   "id": 203145073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.13613,41.226957,-96.13613,41.226957",
     "geom:latitude":41.226957,
     "geom:longitude":-96.13613,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3420 Oak View Dr",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -65,10 +66,11 @@
         }
     ],
     "wof:id":203145073,
-    "wof:lastmodified":1449025482,
+    "wof:lastmodified":1466666448,
     "wof:name":"Sears Auto Center",
     "wof:parent_id":85872531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -83,6 +85,11 @@
         "rebuilt"
     ]
 },
-  "bbox": [-96.13613,41.226957,-96.13613,41.226957],
-  "geometry": {"coordinates":[-96.13613,41.226957],"type":"Point"}
+  "bbox": [
+    -96.13613,
+    41.226957,
+    -96.13613,
+    41.226957
+],
+  "geometry": {"coordinates":[-96.13612999999999,41.226957],"type":"Point"}
 }

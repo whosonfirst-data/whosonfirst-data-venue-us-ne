@@ -2,13 +2,14 @@
   "id": 203134679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.986209,41.26802,-95.986209,41.26802",
     "geom:latitude":41.26802,
     "geom:longitude":-95.986209,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"909 N 48th Ave",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":203134679,
-    "wof:lastmodified":1449026765,
+    "wof:lastmodified":1466666410,
     "wof:name":"Century House",
     "wof:parent_id":85867055,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "finder"
     ]
 },
-  "bbox": [-95.986209,41.26802,-95.986209,41.26802],
+  "bbox": [
+    -95.986209,
+    41.26802,
+    -95.986209,
+    41.26802
+],
   "geometry": {"coordinates":[-95.986209,41.26802],"type":"Point"}
 }

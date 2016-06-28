@@ -2,13 +2,14 @@
   "id": 203015779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.941101,41.252499,-95.941101,41.252499",
     "geom:latitude":41.252499,
     "geom:longitude":-95.941101,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1908 Leavenworth St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203015779,
-    "wof:lastmodified":1449025363,
+    "wof:lastmodified":1466665655,
     "wof:name":"Rossi's Motor Truck Service & Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.941101,41.252499,-95.941101,41.252499],
+  "bbox": [
+    -95.941101,
+    41.252499,
+    -95.941101,
+    41.252499
+],
   "geometry": {"coordinates":[-95.941101,41.252499],"type":"Point"}
 }

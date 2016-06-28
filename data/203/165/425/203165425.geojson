@@ -2,13 +2,14 @@
   "id": 203165425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.630432,40.830183,-96.630432,40.830183",
     "geom:latitude":40.830183,
     "geom:longitude":-96.630432,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1719 N Cotner Blvd Lowr",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":203165425,
-    "wof:lastmodified":1449026866,
+    "wof:lastmodified":1466666548,
     "wof:name":"Internet Nebraska Corporation",
     "wof:parent_id":85878725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "provider"
     ]
 },
-  "bbox": [-96.630432,40.830183,-96.630432,40.830183],
+  "bbox": [
+    -96.630432,
+    40.830183,
+    -96.630432,
+    40.830183
+],
   "geometry": {"coordinates":[-96.630432,40.830183],"type":"Point"}
 }

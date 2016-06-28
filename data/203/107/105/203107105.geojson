@@ -2,13 +2,14 @@
   "id": 203107105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.990402,41.2155,-95.990402,41.2155",
     "geom:latitude":41.2155,
     "geom:longitude":-95.990402,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4315 S 50th St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203107105,
-    "wof:lastmodified":1449024945,
+    "wof:lastmodified":1466666219,
     "wof:name":"Neff Towing Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "towing"
     ]
 },
-  "bbox": [-95.990402,41.2155,-95.990402,41.2155],
+  "bbox": [
+    -95.990402,
+    41.2155,
+    -95.990402,
+    41.2155
+],
   "geometry": {"coordinates":[-95.990402,41.2155],"type":"Point"}
 }

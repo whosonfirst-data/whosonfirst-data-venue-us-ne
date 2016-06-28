@@ -2,13 +2,14 @@
   "id": 203128201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.956309,41.264295,-95.956309,41.264295",
     "geom:latitude":41.264295,
     "geom:longitude":-95.956309,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"555 N 30th St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203128201,
-    "wof:lastmodified":1449025651,
+    "wof:lastmodified":1466666353,
     "wof:name":"Schomer Amy R MD",
     "wof:parent_id":85872525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.956309,41.264295,-95.956309,41.264295],
+  "bbox": [
+    -95.956309,
+    41.264295,
+    -95.956309,
+    41.264295
+],
   "geometry": {"coordinates":[-95.956309,41.264295],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203094589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.946727,41.319585,-95.946727,41.319585",
     "geom:latitude":41.319585,
     "geom:longitude":-95.946727,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6747 N 24th St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203094589,
-    "wof:lastmodified":1449026145,
+    "wof:lastmodified":1466666145,
     "wof:name":"Locks 24 Locksmith",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "key"
     ]
 },
-  "bbox": [-95.946727,41.319585,-95.946727,41.319585],
+  "bbox": [
+    -95.946727,
+    41.319585,
+    -95.946727,
+    41.319585
+],
   "geometry": {"coordinates":[-95.946727,41.319585],"type":"Point"}
 }

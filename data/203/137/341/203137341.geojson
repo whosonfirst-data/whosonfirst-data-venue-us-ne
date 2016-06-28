@@ -2,13 +2,14 @@
   "id": 203137341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.06929,41.284988,-96.06929,41.284988",
     "geom:latitude":41.284988,
     "geom:longitude":-96.06929,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10011 Maple St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -93,10 +94,11 @@
         }
     ],
     "wof:id":203137341,
-    "wof:lastmodified":1449026603,
+    "wof:lastmodified":1466666421,
     "wof:name":"Clark Chiropractic Clinic",
     "wof:parent_id":85872503,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -119,6 +121,11 @@
         "disorders-information"
     ]
 },
-  "bbox": [-96.06929,41.284988,-96.06929,41.284988],
+  "bbox": [
+    -96.06929,
+    41.284988,
+    -96.06929,
+    41.284988
+],
   "geometry": {"coordinates":[-96.06929,41.284988],"type":"Point"}
 }

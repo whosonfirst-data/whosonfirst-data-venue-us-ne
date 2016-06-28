@@ -2,13 +2,14 @@
   "id": 203005319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.9347,41.255501,-95.9347,41.255501",
     "geom:latitude":41.255501,
     "geom:longitude":-95.9347,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1412 Howard St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203005319,
-    "wof:lastmodified":1449026711,
+    "wof:lastmodified":1466665580,
     "wof:name":"Turnpost Design Group",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "design"
     ]
 },
-  "bbox": [-95.9347,41.255501,-95.9347,41.255501],
-  "geometry": {"coordinates":[-95.9347,41.255501],"type":"Point"}
+  "bbox": [
+    -95.9347,
+    41.255501,
+    -95.9347,
+    41.255501
+],
+  "geometry": {"coordinates":[-95.93470000000001,41.255501],"type":"Point"}
 }

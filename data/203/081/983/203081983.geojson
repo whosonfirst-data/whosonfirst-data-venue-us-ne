@@ -2,13 +2,14 @@
   "id": 203081983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.946827,41.281566,-95.946827,41.281566",
     "geom:latitude":41.281566,
     "geom:longitude":-95.946827,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2505 N 24th St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203081983,
-    "wof:lastmodified":1449025498,
+    "wof:lastmodified":1466666077,
     "wof:name":"Locksmith 24 Hours",
     "wof:parent_id":85872525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "key"
     ]
 },
-  "bbox": [-95.946827,41.281566,-95.946827,41.281566],
+  "bbox": [
+    -95.946827,
+    41.281566,
+    -95.946827,
+    41.281566
+],
   "geometry": {"coordinates":[-95.946827,41.281566],"type":"Point"}
 }

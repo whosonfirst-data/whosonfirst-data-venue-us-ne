@@ -2,13 +2,14 @@
   "id": 203090473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.976501,41.275398,-95.976501,41.275398",
     "geom:latitude":41.275398,
     "geom:longitude":-95.976501,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1707 N 42nd St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":203090473,
-    "wof:lastmodified":1449026444,
+    "wof:lastmodified":1466666123,
     "wof:name":"David's Electric",
     "wof:parent_id":85872525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "contractor"
     ]
 },
-  "bbox": [-95.976501,41.275398,-95.976501,41.275398],
+  "bbox": [
+    -95.976501,
+    41.275398,
+    -95.976501,
+    41.275398
+],
   "geometry": {"coordinates":[-95.976501,41.275398],"type":"Point"}
 }

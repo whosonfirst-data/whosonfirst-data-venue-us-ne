@@ -2,13 +2,14 @@
   "id": 203049663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.007571,41.284977,-96.007571,41.284977",
     "geom:latitude":41.284977,
     "geom:longitude":-96.007571,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"Jennifer Koley, LMT 6107 Maple St. Suite B",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":203049663,
-    "wof:lastmodified":1449025868,
+    "wof:lastmodified":1466665900,
     "wof:name":"Center for Healing Balance",
     "wof:parent_id":85872535,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.007571,41.284977,-96.007571,41.284977],
+  "bbox": [
+    -96.007571,
+    41.284977,
+    -96.007571,
+    41.284977
+],
   "geometry": {"coordinates":[-96.007571,41.284977],"type":"Point"}
 }

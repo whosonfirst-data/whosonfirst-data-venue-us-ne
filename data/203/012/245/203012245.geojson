@@ -2,13 +2,14 @@
   "id": 203012245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.93859,41.268951,-95.93859,41.268951",
     "geom:latitude":41.268951,
     "geom:longitude":-95.93859,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1715 Izard St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":203012245,
-    "wof:lastmodified":1449026679,
+    "wof:lastmodified":1466665619,
     "wof:name":"Holy Family Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "churches-catholic"
     ]
 },
-  "bbox": [-95.93859,41.268951,-95.93859,41.268951],
+  "bbox": [
+    -95.93859,
+    41.268951,
+    -95.93859,
+    41.268951
+],
   "geometry": {"coordinates":[-95.93859,41.268951],"type":"Point"}
 }

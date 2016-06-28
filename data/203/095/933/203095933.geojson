@@ -2,13 +2,14 @@
   "id": 203095933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.953415,41.37401,-95.953415,41.37401",
     "geom:latitude":41.37401,
     "geom:longitude":-95.953415,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7475 John J Pershing Dr",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":203095933,
-    "wof:lastmodified":1449025889,
+    "wof:lastmodified":1466666153,
     "wof:name":"North Omaha Generating Sta",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "equipment-testing"
     ]
 },
-  "bbox": [-95.953415,41.37401,-95.953415,41.37401],
-  "geometry": {"coordinates":[-95.953415,41.37401],"type":"Point"}
+  "bbox": [
+    -95.953415,
+    41.37401,
+    -95.953415,
+    41.37401
+],
+  "geometry": {"coordinates":[-95.95341500000001,41.37401],"type":"Point"}
 }

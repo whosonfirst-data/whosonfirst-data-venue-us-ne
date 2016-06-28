@@ -2,13 +2,14 @@
   "id": 203070577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.946856,41.214479,-95.946856,41.214479",
     "geom:latitude":41.214479,
     "geom:longitude":-95.946856,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4519 S 24th St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203070577,
-    "wof:lastmodified":1449025838,
+    "wof:lastmodified":1466666044,
     "wof:name":"Omaha Public Schools",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "elementary"
     ]
 },
-  "bbox": [-95.946856,41.214479,-95.946856,41.214479],
+  "bbox": [
+    -95.946856,
+    41.214479,
+    -95.946856,
+    41.214479
+],
   "geometry": {"coordinates":[-95.946856,41.214479],"type":"Point"}
 }

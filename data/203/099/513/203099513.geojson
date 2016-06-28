@@ -2,13 +2,14 @@
   "id": 203099513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.046837,41.262821,-96.046837,41.262821",
     "geom:latitude":41.262821,
     "geom:longitude":-96.046837,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8601 W Dodge Rd Ste 114A",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203099513,
-    "wof:lastmodified":1449026216,
+    "wof:lastmodified":1466666181,
     "wof:name":"Nebraska Cancer Registry",
     "wof:parent_id":85872509,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.046837,41.262821,-96.046837,41.262821],
+  "bbox": [
+    -96.046837,
+    41.262821,
+    -96.046837,
+    41.262821
+],
   "geometry": {"coordinates":[-96.046837,41.262821],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203060971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.998109,41.255951,-95.998109,41.255951",
     "geom:latitude":41.255951,
     "geom:longitude":-95.998109,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5507 Howard St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203060971,
-    "wof:lastmodified":1449026690,
+    "wof:lastmodified":1466665964,
     "wof:name":"J Carpenter",
     "wof:parent_id":85867055,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "carpenter"
     ]
 },
-  "bbox": [-95.998109,41.255951,-95.998109,41.255951],
+  "bbox": [
+    -95.998109,
+    41.255951,
+    -95.998109,
+    41.255951
+],
   "geometry": {"coordinates":[-95.998109,41.255951],"type":"Point"}
 }

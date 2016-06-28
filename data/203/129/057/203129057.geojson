@@ -2,13 +2,14 @@
   "id": 203129057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.979429,41.264683,-95.979429,41.264683",
     "geom:latitude":41.264683,
     "geom:longitude":-95.979429,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4429 California St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203129057,
-    "wof:lastmodified":1449026468,
+    "wof:lastmodified":1466666355,
     "wof:name":"Tobacco and Phones",
     "wof:parent_id":85867055,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-95.979429,41.264683,-95.979429,41.264683],
+  "bbox": [
+    -95.979429,
+    41.264683,
+    -95.979429,
+    41.264683
+],
   "geometry": {"coordinates":[-95.979429,41.264683],"type":"Point"}
 }

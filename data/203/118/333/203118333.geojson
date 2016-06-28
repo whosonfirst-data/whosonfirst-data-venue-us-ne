@@ -2,13 +2,14 @@
   "id": 203118333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.178373,41.232996,-96.178373,41.232996",
     "geom:latitude":41.232996,
     "geom:longitude":-96.178373,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16920 Wright Plz",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -70,10 +71,11 @@
         }
     ],
     "wof:id":203118333,
-    "wof:lastmodified":1449026479,
+    "wof:lastmodified":1466666281,
     "wof:name":"Allstate Insurance Company - Charles Mcbride",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -85,6 +87,11 @@
         "renter"
     ]
 },
-  "bbox": [-96.178373,41.232996,-96.178373,41.232996],
-  "geometry": {"coordinates":[-96.178373,41.232996],"type":"Point"}
+  "bbox": [
+    -96.178373,
+    41.232996,
+    -96.178373,
+    41.232996
+],
+  "geometry": {"coordinates":[-96.17837299999999,41.232996],"type":"Point"}
 }

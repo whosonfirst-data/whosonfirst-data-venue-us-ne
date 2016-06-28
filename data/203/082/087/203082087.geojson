@@ -2,13 +2,14 @@
   "id": 203082087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.947029,41.281557,-95.947029,41.281557",
     "geom:latitude":41.281557,
     "geom:longitude":-95.947029,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2505 N 24th St Ste 312",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":203082087,
-    "wof:lastmodified":1449024998,
+    "wof:lastmodified":1466666069,
     "wof:name":"Perkins & Perkins Construction",
     "wof:parent_id":85872525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "contractor"
     ]
 },
-  "bbox": [-95.947029,41.281557,-95.947029,41.281557],
+  "bbox": [
+    -95.947029,
+    41.281557,
+    -95.947029,
+    41.281557
+],
   "geometry": {"coordinates":[-95.947029,41.281557],"type":"Point"}
 }

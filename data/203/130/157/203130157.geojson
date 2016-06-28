@@ -2,13 +2,14 @@
   "id": 203130157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.951309,41.257673,-95.951309,41.257673",
     "geom:latitude":41.257673,
     "geom:longitude":-95.951309,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2665 Farnam Street Suite 101",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203130157,
-    "wof:lastmodified":1449025570,
+    "wof:lastmodified":1466666370,
     "wof:name":"M.J.B. Photography",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photographer"
     ]
 },
-  "bbox": [-95.951309,41.257673,-95.951309,41.257673],
-  "geometry": {"coordinates":[-95.951309,41.257673],"type":"Point"}
+  "bbox": [
+    -95.951309,
+    41.257673,
+    -95.951309,
+    41.257673
+],
+  "geometry": {"coordinates":[-95.95130899999999,41.257673],"type":"Point"}
 }

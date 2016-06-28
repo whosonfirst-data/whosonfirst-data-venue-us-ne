@@ -2,13 +2,14 @@
   "id": 202986561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.235035,41.268594,-96.235035,41.268594",
     "geom:latitude":41.268594,
     "geom:longitude":-96.235035,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1130 N 204th Ave",
     "sg:city":"Elkhorn",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":202986561,
-    "wof:lastmodified":1449062177,
+    "wof:lastmodified":1466665575,
     "wof:name":"Meier, Craig Md",
     "wof:parent_id":85868921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "family"
     ]
 },
-  "bbox": [-96.235035,41.268594,-96.235035,41.268594],
+  "bbox": [
+    -96.235035,
+    41.268594,
+    -96.235035,
+    41.268594
+],
   "geometry": {"coordinates":[-96.235035,41.268594],"type":"Point"}
 }

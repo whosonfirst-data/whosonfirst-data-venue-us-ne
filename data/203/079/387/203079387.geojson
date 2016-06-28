@@ -2,13 +2,14 @@
   "id": 203079387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.933274,41.248086,-95.933274,41.248086",
     "geom:latitude":41.248086,
     "geom:longitude":-95.933274,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1202 S 13th St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203079387,
-    "wof:lastmodified":1449026531,
+    "wof:lastmodified":1466666065,
     "wof:name":"Caseys Pizza To Go",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pizza"
     ]
 },
-  "bbox": [-95.933274,41.248086,-95.933274,41.248086],
+  "bbox": [
+    -95.933274,
+    41.248086,
+    -95.933274,
+    41.248086
+],
   "geometry": {"coordinates":[-95.933274,41.248086],"type":"Point"}
 }

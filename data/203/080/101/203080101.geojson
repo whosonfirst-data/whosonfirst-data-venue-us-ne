@@ -2,13 +2,14 @@
   "id": 203080101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.946999,41.243786,-95.946999,41.243786",
     "geom:latitude":41.243786,
     "geom:longitude":-95.946999,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1548 S 24th St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203080101,
-    "wof:lastmodified":1449026828,
+    "wof:lastmodified":1466666065,
     "wof:name":"Sues Flowers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "nurseries-plants"
     ]
 },
-  "bbox": [-95.946999,41.243786,-95.946999,41.243786],
-  "geometry": {"coordinates":[-95.946999,41.243786],"type":"Point"}
+  "bbox": [
+    -95.946999,
+    41.243786,
+    -95.946999,
+    41.243786
+],
+  "geometry": {"coordinates":[-95.94699900000001,41.243786],"type":"Point"}
 }

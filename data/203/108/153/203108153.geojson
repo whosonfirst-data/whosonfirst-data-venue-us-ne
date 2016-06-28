@@ -2,13 +2,14 @@
   "id": 203108153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.980816,41.219742,-95.980816,41.219742",
     "geom:latitude":41.219742,
     "geom:longitude":-95.980816,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4528 F St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203108153,
-    "wof:lastmodified":1449024979,
+    "wof:lastmodified":1466666231,
     "wof:name":"First National Information Solutions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "research"
     ]
 },
-  "bbox": [-95.980816,41.219742,-95.980816,41.219742],
+  "bbox": [
+    -95.980816,
+    41.219742,
+    -95.980816,
+    41.219742
+],
   "geometry": {"coordinates":[-95.980816,41.219742],"type":"Point"}
 }

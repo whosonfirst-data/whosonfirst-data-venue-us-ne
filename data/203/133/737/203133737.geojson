@@ -2,13 +2,14 @@
   "id": 203133737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.982498,41.267899,-95.982498,41.267899",
     "geom:latitude":41.267899,
     "geom:longitude":-95.982498,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4504 Cuming St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203133737,
-    "wof:lastmodified":1449026512,
+    "wof:lastmodified":1466666412,
     "wof:name":"Unique Auto",
     "wof:parent_id":85867055,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.982498,41.267899,-95.982498,41.267899],
-  "geometry": {"coordinates":[-95.982498,41.267899],"type":"Point"}
+  "bbox": [
+    -95.982498,
+    41.267899,
+    -95.982498,
+    41.267899
+],
+  "geometry": {"coordinates":[-95.98249800000001,41.267899],"type":"Point"}
 }

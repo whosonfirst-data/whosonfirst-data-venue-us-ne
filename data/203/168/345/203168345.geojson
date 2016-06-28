@@ -2,13 +2,14 @@
   "id": 203168345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.667395,40.749191,-96.667395,40.749191",
     "geom:latitude":40.749191,
     "geom:longitude":-96.667395,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3721 Faulkner Dr Apt 301",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203168345,
-    "wof:lastmodified":1449025931,
+    "wof:lastmodified":1466666561,
     "wof:name":"Wilson Law Office",
     "wof:parent_id":85878739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-96.667395,40.749191,-96.667395,40.749191],
+  "bbox": [
+    -96.667395,
+    40.749191,
+    -96.667395,
+    40.749191
+],
   "geometry": {"coordinates":[-96.667395,40.749191],"type":"Point"}
 }

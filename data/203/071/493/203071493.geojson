@@ -2,13 +2,14 @@
   "id": 203071493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.938723,41.192859,-95.938723,41.192859",
     "geom:latitude":41.192859,
     "geom:longitude":-95.938723,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6702 Railroad Ave",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":203071493,
-    "wof:lastmodified":1449026154,
+    "wof:lastmodified":1466666045,
     "wof:name":"Custom Auto Body Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -79,6 +81,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-95.938723,41.192859,-95.938723,41.192859],
+  "bbox": [
+    -95.938723,
+    41.192859,
+    -95.938723,
+    41.192859
+],
   "geometry": {"coordinates":[-95.938723,41.192859],"type":"Point"}
 }

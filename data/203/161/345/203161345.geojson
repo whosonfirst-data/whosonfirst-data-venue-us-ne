@@ -2,13 +2,14 @@
   "id": 203161345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.726664,40.26577,-96.726664,40.26577",
     "geom:latitude":40.26577,
     "geom:longitude":-96.726664,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2006 Court St",
     "sg:city":"Beatrice",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203161345,
-    "wof:lastmodified":1449025667,
+    "wof:lastmodified":1466666531,
     "wof:name":"Farmers Union Insurance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "business"
     ]
 },
-  "bbox": [-96.726664,40.26577,-96.726664,40.26577],
+  "bbox": [
+    -96.726664,
+    40.26577,
+    -96.726664,
+    40.26577
+],
   "geometry": {"coordinates":[-96.726664,40.26577],"type":"Point"}
 }

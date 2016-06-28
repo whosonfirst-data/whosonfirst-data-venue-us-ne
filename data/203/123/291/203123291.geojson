@@ -2,13 +2,14 @@
   "id": 203123291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.97035,41.265713,-95.97035,41.265713",
     "geom:latitude":41.265713,
     "geom:longitude":-95.97035,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3869 Webster St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203123291,
-    "wof:lastmodified":1449025477,
+    "wof:lastmodified":1466666307,
     "wof:name":"St Cecilia Cathedral Grade School",
     "wof:parent_id":85872525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "elementary"
     ]
 },
-  "bbox": [-95.97035,41.265713,-95.97035,41.265713],
+  "bbox": [
+    -95.97035,
+    41.265713,
+    -95.97035,
+    41.265713
+],
   "geometry": {"coordinates":[-95.97035,41.265713],"type":"Point"}
 }

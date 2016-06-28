@@ -2,13 +2,14 @@
   "id": 203075611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.933197,41.2439,-95.933197,41.2439",
     "geom:latitude":41.2439,
     "geom:longitude":-95.933197,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1461 S 13th St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203075611,
-    "wof:lastmodified":1449025975,
+    "wof:lastmodified":1466666050,
     "wof:name":"Sports Car Garage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.933197,41.2439,-95.933197,41.2439],
-  "geometry": {"coordinates":[-95.933197,41.2439],"type":"Point"}
+  "bbox": [
+    -95.933197,
+    41.2439,
+    -95.933197,
+    41.2439
+],
+  "geometry": {"coordinates":[-95.93319700000001,41.2439],"type":"Point"}
 }

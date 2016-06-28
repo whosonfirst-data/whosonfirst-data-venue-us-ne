@@ -2,13 +2,14 @@
   "id": 203059673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.989016,41.246708,-95.989016,41.246708",
     "geom:latitude":41.246708,
     "geom:longitude":-95.989016,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1304 S Saddle Creek Rd",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203059673,
-    "wof:lastmodified":1449025427,
+    "wof:lastmodified":1466665958,
     "wof:name":"AA Windows N Doors",
     "wof:parent_id":85872523,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "installation"
     ]
 },
-  "bbox": [-95.989016,41.246708,-95.989016,41.246708],
-  "geometry": {"coordinates":[-95.989016,41.246708],"type":"Point"}
+  "bbox": [
+    -95.989016,
+    41.246708,
+    -95.989016,
+    41.246708
+],
+  "geometry": {"coordinates":[-95.98901600000001,41.246708],"type":"Point"}
 }

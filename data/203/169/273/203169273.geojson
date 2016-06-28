@@ -2,13 +2,14 @@
   "id": 203169273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.602224,40.768685,-96.602224,40.768685",
     "geom:latitude":40.768685,
     "geom:longitude":-96.602224,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4420 Pioneer Greens Dr",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203169273,
-    "wof:lastmodified":1449026112,
+    "wof:lastmodified":1466666566,
     "wof:name":"Sterling Transportation S",
     "wof:parent_id":85878707,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "transportation"
     ]
 },
-  "bbox": [-96.602224,40.768685,-96.602224,40.768685],
-  "geometry": {"coordinates":[-96.602224,40.768685],"type":"Point"}
+  "bbox": [
+    -96.602224,
+    40.768685,
+    -96.602224,
+    40.768685
+],
+  "geometry": {"coordinates":[-96.60222400000001,40.768685],"type":"Point"}
 }

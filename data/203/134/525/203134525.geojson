@@ -2,13 +2,14 @@
   "id": 203134525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.990933,41.264766,-95.990933,41.264766",
     "geom:latitude":41.264766,
     "geom:longitude":-95.990933,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5013 Underwood Ave",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203134525,
-    "wof:lastmodified":1449026765,
+    "wof:lastmodified":1466666408,
     "wof:name":"The 1020",
     "wof:parent_id":85867055,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "american"
     ]
 },
-  "bbox": [-95.990933,41.264766,-95.990933,41.264766],
+  "bbox": [
+    -95.990933,
+    41.264766,
+    -95.990933,
+    41.264766
+],
   "geometry": {"coordinates":[-95.990933,41.264766],"type":"Point"}
 }

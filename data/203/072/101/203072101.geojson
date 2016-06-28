@@ -2,13 +2,14 @@
   "id": 203072101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.93762,41.191798,-95.93762,41.191798",
     "geom:latitude":41.191798,
     "geom:longitude":-95.93762,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6815 Railroad Ave",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203072101,
-    "wof:lastmodified":1449025947,
+    "wof:lastmodified":1466666042,
     "wof:name":"U-Haul Neighborhood Dealer - A1 Mobile Mech Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.93762,41.191798,-95.93762,41.191798],
+  "bbox": [
+    -95.93762,
+    41.191798,
+    -95.93762,
+    41.191798
+],
   "geometry": {"coordinates":[-95.93762,41.191798],"type":"Point"}
 }

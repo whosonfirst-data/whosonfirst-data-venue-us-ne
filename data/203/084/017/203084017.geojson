@@ -2,13 +2,14 @@
   "id": 203084017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.943825,41.29974,-95.943825,41.29974",
     "geom:latitude":41.29974,
     "geom:longitude":-95.943825,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4514 N 21st Ave",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203084017,
-    "wof:lastmodified":1449025149,
+    "wof:lastmodified":1466669650,
     "wof:name":"26 All Day Locksmith",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "key"
     ]
 },
-  "bbox": [-95.943825,41.29974,-95.943825,41.29974],
+  "bbox": [
+    -95.943825,
+    41.29974,
+    -95.943825,
+    41.29974
+],
   "geometry": {"coordinates":[-95.943825,41.29974],"type":"Point"}
 }

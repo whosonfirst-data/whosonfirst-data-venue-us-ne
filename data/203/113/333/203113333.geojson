@@ -2,13 +2,14 @@
   "id": 203113333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.052663,41.218942,-96.052663,41.218942",
     "geom:latitude":41.218942,
     "geom:longitude":-96.052663,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4114 S 90th St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":203113333,
-    "wof:lastmodified":1449026703,
+    "wof:lastmodified":1466666277,
     "wof:name":"A 1 Enterprises Inc DBA/Budget Truck Rental",
     "wof:parent_id":85872511,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "moving"
     ]
 },
-  "bbox": [-96.052663,41.218942,-96.052663,41.218942],
+  "bbox": [
+    -96.052663,
+    41.218942,
+    -96.052663,
+    41.218942
+],
   "geometry": {"coordinates":[-96.052663,41.218942],"type":"Point"}
 }

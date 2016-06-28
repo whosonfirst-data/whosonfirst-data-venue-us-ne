@@ -2,13 +2,14 @@
   "id": 203022119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.942852,41.256444,-95.942852,41.256444",
     "geom:latitude":41.256444,
     "geom:longitude":-95.942852,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2051 Harney St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203022119,
-    "wof:lastmodified":1449025547,
+    "wof:lastmodified":1466665669,
     "wof:name":"Vs Properties Llc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.942852,41.256444,-95.942852,41.256444],
+  "bbox": [
+    -95.942852,
+    41.256444,
+    -95.942852,
+    41.256444
+],
   "geometry": {"coordinates":[-95.942852,41.256444],"type":"Point"}
 }

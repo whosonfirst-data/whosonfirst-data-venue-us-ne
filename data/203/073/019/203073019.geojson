@@ -2,13 +2,14 @@
   "id": 203073019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.933197,41.223,-95.933197,41.223",
     "geom:latitude":41.223,
     "geom:longitude":-95.933197,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3901 S 13th St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203073019,
-    "wof:lastmodified":1449025202,
+    "wof:lastmodified":1466669647,
     "wof:name":"Zesto's Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "yogurt"
     ]
 },
-  "bbox": [-95.933197,41.223,-95.933197,41.223],
-  "geometry": {"coordinates":[-95.933197,41.223],"type":"Point"}
+  "bbox": [
+    -95.933197,
+    41.223,
+    -95.933197,
+    41.223
+],
+  "geometry": {"coordinates":[-95.93319700000001,41.223],"type":"Point"}
 }

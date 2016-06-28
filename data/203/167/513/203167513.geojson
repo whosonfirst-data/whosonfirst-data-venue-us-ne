@@ -2,13 +2,14 @@
   "id": 203167513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.650017,40.800468,-96.650017,40.800468",
     "geom:latitude":40.800468,
     "geom:longitude":-96.650017,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1265 S Cotner Blvd Ste 1",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":203167513,
-    "wof:lastmodified":1449025921,
+    "wof:lastmodified":1466666556,
     "wof:name":"USPS - United States Post Office - Four Star Drug Contract 7",
     "wof:parent_id":85878683,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "shipping"
     ]
 },
-  "bbox": [-96.650017,40.800468,-96.650017,40.800468],
-  "geometry": {"coordinates":[-96.650017,40.800468],"type":"Point"}
+  "bbox": [
+    -96.650017,
+    40.800468,
+    -96.650017,
+    40.800468
+],
+  "geometry": {"coordinates":[-96.65001700000001,40.800468],"type":"Point"}
 }

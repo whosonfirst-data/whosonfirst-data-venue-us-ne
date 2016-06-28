@@ -2,13 +2,14 @@
   "id": 203077211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.947052,41.231448,-95.947052,41.231448",
     "geom:latitude":41.231448,
     "geom:longitude":-95.947052,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3030 S 24th St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":203077211,
-    "wof:lastmodified":1449025234,
+    "wof:lastmodified":1466666054,
     "wof:name":"Correa, Priscilla D, Md - South Omaha Med Assoc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-95.947052,41.231448,-95.947052,41.231448],
+  "bbox": [
+    -95.947052,
+    41.231448,
+    -95.947052,
+    41.231448
+],
   "geometry": {"coordinates":[-95.947052,41.231448],"type":"Point"}
 }

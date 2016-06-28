@@ -2,13 +2,14 @@
   "id": 203167113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.707039,40.810299,-96.707039,40.810299",
     "geom:latitude":40.810299,
     "geom:longitude":-96.707039,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1000 L St",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":203167113,
-    "wof:lastmodified":1449025921,
+    "wof:lastmodified":1466666547,
     "wof:name":"Trophey Shop, The",
     "wof:parent_id":85878699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "plaque"
     ]
 },
-  "bbox": [-96.707039,40.810299,-96.707039,40.810299],
-  "geometry": {"coordinates":[-96.707039,40.810299],"type":"Point"}
+  "bbox": [
+    -96.707039,
+    40.810299,
+    -96.707039,
+    40.810299
+],
+  "geometry": {"coordinates":[-96.70703899999999,40.810299],"type":"Point"}
 }

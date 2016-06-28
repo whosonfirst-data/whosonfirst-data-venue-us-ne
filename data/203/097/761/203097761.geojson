@@ -2,13 +2,14 @@
   "id": 203097761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.02906,41.259683,-96.02906,41.259683",
     "geom:latitude":41.259683,
     "geom:longitude":-96.02906,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7425 Dodge St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":203097761,
-    "wof:lastmodified":1449025660,
+    "wof:lastmodified":1466666169,
     "wof:name":"Push Pedal Pull",
     "wof:parent_id":85872509,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "fitness"
     ]
 },
-  "bbox": [-96.02906,41.259683,-96.02906,41.259683],
+  "bbox": [
+    -96.02906,
+    41.259683,
+    -96.02906,
+    41.259683
+],
   "geometry": {"coordinates":[-96.02906,41.259683],"type":"Point"}
 }

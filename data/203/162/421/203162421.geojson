@@ -2,13 +2,14 @@
   "id": 203162421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.629453,40.565322,-96.629453,40.565322",
     "geom:latitude":40.565322,
     "geom:longitude":-96.629453,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25211 S 68th St",
     "sg:city":"Firth",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":203162421,
-    "wof:lastmodified":1449026577,
+    "wof:lastmodified":1466666533,
     "wof:name":"Norris High School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "government-county"
     ]
 },
-  "bbox": [-96.629453,40.565322,-96.629453,40.565322],
+  "bbox": [
+    -96.629453,
+    40.565322,
+    -96.629453,
+    40.565322
+],
   "geometry": {"coordinates":[-96.629453,40.565322],"type":"Point"}
 }

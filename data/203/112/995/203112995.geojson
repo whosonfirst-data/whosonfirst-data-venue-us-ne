@@ -2,13 +2,14 @@
   "id": 203112995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.052034,41.213137,-96.052034,41.213137",
     "geom:latitude":41.213137,
     "geom:longitude":-96.052034,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8946 L St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203112995,
-    "wof:lastmodified":1449025787,
+    "wof:lastmodified":1466666272,
     "wof:name":"Ibew",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.052034,41.213137,-96.052034,41.213137],
-  "geometry": {"coordinates":[-96.052034,41.213137],"type":"Point"}
+  "bbox": [
+    -96.052034,
+    41.213137,
+    -96.052034,
+    41.213137
+],
+  "geometry": {"coordinates":[-96.05203400000001,41.213137],"type":"Point"}
 }

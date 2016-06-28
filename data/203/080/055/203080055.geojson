@@ -2,13 +2,14 @@
   "id": 203080055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.933403,41.242599,-95.933403,41.242599",
     "geom:latitude":41.242599,
     "geom:longitude":-95.933403,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1730 S 13th St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203080055,
-    "wof:lastmodified":1449026828,
+    "wof:lastmodified":1466666064,
     "wof:name":"Village Antiques",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.933403,41.242599,-95.933403,41.242599],
+  "bbox": [
+    -95.933403,
+    41.242599,
+    -95.933403,
+    41.242599
+],
   "geometry": {"coordinates":[-95.933403,41.242599],"type":"Point"}
 }

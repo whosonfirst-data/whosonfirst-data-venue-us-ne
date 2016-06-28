@@ -2,13 +2,14 @@
   "id": 203099615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.049889,41.264919,-96.049889,41.264919",
     "geom:latitude":41.264919,
     "geom:longitude":-96.049889,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"556 N 88th Plz",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":203099615,
-    "wof:lastmodified":1449026212,
+    "wof:lastmodified":1466666183,
     "wof:name":"Westbrook Garden",
     "wof:parent_id":85867061,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "listing"
     ]
 },
-  "bbox": [-96.049889,41.264919,-96.049889,41.264919],
-  "geometry": {"coordinates":[-96.049889,41.264919],"type":"Point"}
+  "bbox": [
+    -96.049889,
+    41.264919,
+    -96.049889,
+    41.264919
+],
+  "geometry": {"coordinates":[-96.04988899999999,41.264919],"type":"Point"}
 }

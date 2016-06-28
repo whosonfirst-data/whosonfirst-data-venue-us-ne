@@ -2,13 +2,14 @@
   "id": 203084455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.9067,41.285,-95.9067,41.285",
     "geom:latitude":41.285,
     "geom:longitude":-95.9067,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1755 E Locust St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203084455,
-    "wof:lastmodified":1449025148,
+    "wof:lastmodified":1466666080,
     "wof:name":"Sears Car & Truck Rental",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "car"
     ]
 },
-  "bbox": [-95.9067,41.285,-95.9067,41.285],
+  "bbox": [
+    -95.9067,
+    41.285,
+    -95.9067,
+    41.285
+],
   "geometry": {"coordinates":[-95.9067,41.285],"type":"Point"}
 }

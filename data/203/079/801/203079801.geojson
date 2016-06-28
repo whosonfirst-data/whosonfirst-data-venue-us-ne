@@ -2,13 +2,14 @@
   "id": 203079801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.933472,41.242826,-95.933472,41.242826",
     "geom:latitude":41.242826,
     "geom:longitude":-95.933472,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1702 S 13th St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203079801,
-    "wof:lastmodified":1449026532,
+    "wof:lastmodified":1466666065,
     "wof:name":"Erick's Enchiladas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mexican"
     ]
 },
-  "bbox": [-95.933472,41.242826,-95.933472,41.242826],
-  "geometry": {"coordinates":[-95.933472,41.242826],"type":"Point"}
+  "bbox": [
+    -95.933472,
+    41.242826,
+    -95.933472,
+    41.242826
+],
+  "geometry": {"coordinates":[-95.93347199999999,41.242826],"type":"Point"}
 }

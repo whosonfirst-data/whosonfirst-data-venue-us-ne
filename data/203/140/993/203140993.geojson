@@ -2,13 +2,14 @@
   "id": 203140993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.153614,41.20772,-96.153614,41.20772",
     "geom:latitude":41.20772,
     "geom:longitude":-96.153614,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5026 S 153rd St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":203140993,
-    "wof:lastmodified":1449025204,
+    "wof:lastmodified":1466666447,
     "wof:name":"American Family Insurance- David Chezem",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "homeowner"
     ]
 },
-  "bbox": [-96.153614,41.20772,-96.153614,41.20772],
+  "bbox": [
+    -96.153614,
+    41.20772,
+    -96.153614,
+    41.20772
+],
   "geometry": {"coordinates":[-96.153614,41.20772],"type":"Point"}
 }

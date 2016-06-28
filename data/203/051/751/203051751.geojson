@@ -2,13 +2,14 @@
   "id": 203051751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.963219,41.241235,-95.963219,41.241235",
     "geom:latitude":41.241235,
     "geom:longitude":-95.963219,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1934 S 34th St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203051751,
-    "wof:lastmodified":1449026115,
+    "wof:lastmodified":1466665909,
     "wof:name":"4 24 7 A Locks Locksmith",
     "wof:parent_id":85872527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "key"
     ]
 },
-  "bbox": [-95.963219,41.241235,-95.963219,41.241235],
+  "bbox": [
+    -95.963219,
+    41.241235,
+    -95.963219,
+    41.241235
+],
   "geometry": {"coordinates":[-95.963219,41.241235],"type":"Point"}
 }

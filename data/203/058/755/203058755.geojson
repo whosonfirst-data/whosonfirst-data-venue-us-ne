@@ -2,13 +2,14 @@
   "id": 203058755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.010571,41.27913,-96.010571,41.27913",
     "geom:latitude":41.27913,
     "geom:longitude":-96.010571,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2225 S 64th Plz",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203058755,
-    "wof:lastmodified":1449025212,
+    "wof:lastmodified":1466665948,
     "wof:name":"Broadmoor At Aksarben Village",
     "wof:parent_id":85872535,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-96.010571,41.27913,-96.010571,41.27913],
+  "bbox": [
+    -96.010571,
+    41.27913,
+    -96.010571,
+    41.27913
+],
   "geometry": {"coordinates":[-96.010571,41.27913],"type":"Point"}
 }

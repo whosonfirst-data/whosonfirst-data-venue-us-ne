@@ -2,13 +2,14 @@
   "id": 203161585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.803291,40.204894,-96.803291,40.204894",
     "geom:latitude":40.204894,
     "geom:longitude":-96.803291,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"32157 SW 61st Odell Rd",
     "sg:city":"Beatrice",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":203161585,
-    "wof:lastmodified":1449025666,
+    "wof:lastmodified":1466666535,
     "wof:name":"Gwen Dee Grabouski",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.803291,40.204894,-96.803291,40.204894],
+  "bbox": [
+    -96.803291,
+    40.204894,
+    -96.803291,
+    40.204894
+],
   "geometry": {"coordinates":[-96.803291,40.204894],"type":"Point"}
 }

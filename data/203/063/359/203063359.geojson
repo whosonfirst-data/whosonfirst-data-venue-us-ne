@@ -2,13 +2,14 @@
   "id": 203063359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.009697,41.237886,-96.009697,41.237886",
     "geom:latitude":41.237886,
     "geom:longitude":-96.009697,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6307 Center St.",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203063359,
-    "wof:lastmodified":1449025098,
+    "wof:lastmodified":1466665972,
     "wof:name":"Mod Studio Salon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hair"
     ]
 },
-  "bbox": [-96.009697,41.237886,-96.009697,41.237886],
+  "bbox": [
+    -96.009697,
+    41.237886,
+    -96.009697,
+    41.237886
+],
   "geometry": {"coordinates":[-96.009697,41.237886],"type":"Point"}
 }

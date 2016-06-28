@@ -2,13 +2,14 @@
   "id": 202987675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.438138,41.456057,-96.438138,41.456057",
     "geom:latitude":41.456057,
     "geom:longitude":-96.438138,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2745 Eastgate Rd",
     "sg:city":"Fremont",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":202987675,
-    "wof:lastmodified":1449061524,
+    "wof:lastmodified":1466665581,
     "wof:name":"Perkins, Sid Used Cars",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cars-wholesale"
     ]
 },
-  "bbox": [-96.438138,41.456057,-96.438138,41.456057],
+  "bbox": [
+    -96.438138,
+    41.456057,
+    -96.438138,
+    41.456057
+],
   "geometry": {"coordinates":[-96.438138,41.456057],"type":"Point"}
 }

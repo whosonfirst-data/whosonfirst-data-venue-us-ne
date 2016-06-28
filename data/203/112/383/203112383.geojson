@@ -2,13 +2,14 @@
   "id": 203112383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.080844,41.21127,-96.080844,41.21127",
     "geom:latitude":41.21127,
     "geom:longitude":-96.080844,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10770 M St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":203112383,
-    "wof:lastmodified":1449025783,
+    "wof:lastmodified":1466666267,
     "wof:name":"Village Inn",
     "wof:parent_id":85872511,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "take"
     ]
 },
-  "bbox": [-96.080844,41.21127,-96.080844,41.21127],
+  "bbox": [
+    -96.080844,
+    41.21127,
+    -96.080844,
+    41.21127
+],
   "geometry": {"coordinates":[-96.080844,41.21127],"type":"Point"}
 }

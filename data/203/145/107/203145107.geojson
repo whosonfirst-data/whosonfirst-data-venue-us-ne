@@ -2,13 +2,14 @@
   "id": 203145107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.11952,41.236053,-96.11952,41.236053",
     "geom:latitude":41.236053,
     "geom:longitude":-96.11952,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2469 S 132nd St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":203145107,
-    "wof:lastmodified":1449025483,
+    "wof:lastmodified":1466666449,
     "wof:name":"Jensen Tire & Auto",
     "wof:parent_id":85872531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "diagnostic"
     ]
 },
-  "bbox": [-96.11952,41.236053,-96.11952,41.236053],
-  "geometry": {"coordinates":[-96.11952,41.236053],"type":"Point"}
+  "bbox": [
+    -96.11952,
+    41.236053,
+    -96.11952,
+    41.236053
+],
+  "geometry": {"coordinates":[-96.11951999999999,41.236053],"type":"Point"}
 }

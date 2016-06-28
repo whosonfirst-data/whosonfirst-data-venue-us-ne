@@ -2,13 +2,14 @@
   "id": 203142935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.127447,41.172899,-96.127447,41.172899",
     "geom:latitude":41.172899,
     "geom:longitude":-96.127447,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8550 S 137th Cir Suite 8",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":203142935,
-    "wof:lastmodified":1449026455,
+    "wof:lastmodified":1466666455,
     "wof:name":"Scotts LawnService",
     "wof:parent_id":85834285,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "contractor"
     ]
 },
-  "bbox": [-96.127447,41.172899,-96.127447,41.172899],
+  "bbox": [
+    -96.127447,
+    41.172899,
+    -96.127447,
+    41.172899
+],
   "geometry": {"coordinates":[-96.127447,41.172899],"type":"Point"}
 }

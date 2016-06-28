@@ -2,13 +2,14 @@
   "id": 203166145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.625061,40.785057,-96.625061,40.785057",
     "geom:latitude":40.785057,
     "geom:longitude":-96.625061,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2710 S 70th St Ste 103",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -74,10 +75,11 @@
         }
     ],
     "wof:id":203166145,
-    "wof:lastmodified":1449026010,
+    "wof:lastmodified":1466666545,
     "wof:name":"Local State Farm Insurance",
     "wof:parent_id":85878697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -87,6 +89,11 @@
         "homeowner"
     ]
 },
-  "bbox": [-96.625061,40.785057,-96.625061,40.785057],
+  "bbox": [
+    -96.625061,
+    40.785057,
+    -96.625061,
+    40.785057
+],
   "geometry": {"coordinates":[-96.625061,40.785057],"type":"Point"}
 }

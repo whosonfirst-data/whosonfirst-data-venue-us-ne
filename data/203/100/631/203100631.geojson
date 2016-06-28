@@ -2,13 +2,14 @@
   "id": 203100631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.172322,41.29109,-96.172322,41.29109",
     "geom:latitude":41.29109,
     "geom:longitude":-96.172322,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3618 N 165th St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":203100631,
-    "wof:lastmodified":1449026362,
+    "wof:lastmodified":1466666188,
     "wof:name":"American Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.172322,41.29109,-96.172322,41.29109],
-  "geometry": {"coordinates":[-96.172322,41.29109],"type":"Point"}
+  "bbox": [
+    -96.172322,
+    41.29109,
+    -96.172322,
+    41.29109
+],
+  "geometry": {"coordinates":[-96.17232199999999,41.29109],"type":"Point"}
 }

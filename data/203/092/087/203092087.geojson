@@ -2,13 +2,14 @@
   "id": 203092087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.9711,41.293201,-95.9711,41.293201",
     "geom:latitude":41.293201,
     "geom:longitude":-95.9711,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3735 N 39th St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203092087,
-    "wof:lastmodified":1449026480,
+    "wof:lastmodified":1466666129,
     "wof:name":"Fickenscher T A",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.9711,41.293201,-95.9711,41.293201],
-  "geometry": {"coordinates":[-95.9711,41.293201],"type":"Point"}
+  "bbox": [
+    -95.9711,
+    41.293201,
+    -95.9711,
+    41.293201
+],
+  "geometry": {"coordinates":[-95.97110000000001,41.293201],"type":"Point"}
 }

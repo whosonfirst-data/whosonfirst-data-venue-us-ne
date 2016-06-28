@@ -2,13 +2,14 @@
   "id": 203083127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.946899,41.284698,-95.946899,41.284698",
     "geom:latitude":41.284698,
     "geom:longitude":-95.946899,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2826 N 24th St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203083127,
-    "wof:lastmodified":1449025820,
+    "wof:lastmodified":1466666072,
     "wof:name":"Goodwin's 66 Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.946899,41.284698,-95.946899,41.284698],
+  "bbox": [
+    -95.946899,
+    41.284698,
+    -95.946899,
+    41.284698
+],
   "geometry": {"coordinates":[-95.946899,41.284698],"type":"Point"}
 }

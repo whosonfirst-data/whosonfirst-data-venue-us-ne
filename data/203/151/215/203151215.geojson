@@ -2,13 +2,14 @@
   "id": 203151215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.081476,41.288883,-96.081476,41.288883",
     "geom:latitude":41.288883,
     "geom:longitude":-96.081476,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3320 N 108th St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -71,10 +72,11 @@
         }
     ],
     "wof:id":203151215,
-    "wof:lastmodified":1449024958,
+    "wof:lastmodified":1466666470,
     "wof:name":"Allstate Insurance Company - Mike Reynolds",
     "wof:parent_id":85872503,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -86,6 +88,11 @@
         "renter"
     ]
 },
-  "bbox": [-96.081476,41.288883,-96.081476,41.288883],
-  "geometry": {"coordinates":[-96.081476,41.288883],"type":"Point"}
+  "bbox": [
+    -96.081476,
+    41.288883,
+    -96.081476,
+    41.288883
+],
+  "geometry": {"coordinates":[-96.08147599999999,41.288883],"type":"Point"}
 }

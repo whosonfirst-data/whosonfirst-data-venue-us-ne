@@ -2,13 +2,14 @@
   "id": 203055887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.9757,41.2285,-95.9757,41.2285",
     "geom:latitude":41.2285,
     "geom:longitude":-95.9757,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3403 S 42nd St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203055887,
-    "wof:lastmodified":1449025352,
+    "wof:lastmodified":1466665931,
     "wof:name":"Don's Central Conoco",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.9757,41.2285,-95.9757,41.2285],
+  "bbox": [
+    -95.9757,
+    41.2285,
+    -95.9757,
+    41.2285
+],
   "geometry": {"coordinates":[-95.9757,41.2285],"type":"Point"}
 }

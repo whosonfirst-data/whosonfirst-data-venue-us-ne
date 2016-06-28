@@ -2,13 +2,14 @@
   "id": 203133171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.023269,41.266946,-96.023269,41.266946",
     "geom:latitude":41.266946,
     "geom:longitude":-96.023269,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"820 Mayfield Ave",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":203133171,
-    "wof:lastmodified":1449026517,
+    "wof:lastmodified":1466666397,
     "wof:name":"Childs Play",
     "wof:parent_id":85872507,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "kindergarten"
     ]
 },
-  "bbox": [-96.023269,41.266946,-96.023269,41.266946],
+  "bbox": [
+    -96.023269,
+    41.266946,
+    -96.023269,
+    41.266946
+],
   "geometry": {"coordinates":[-96.023269,41.266946],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203039353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.931003,41.255141,-95.931003,41.255141",
     "geom:latitude":41.255141,
     "geom:longitude":-95.931003,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1105 Howard st.",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":203039353,
-    "wof:lastmodified":1449026623,
+    "wof:lastmodified":1466665818,
     "wof:name":"Sirens At The Loft Salon & Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hair"
     ]
 },
-  "bbox": [-95.931003,41.255141,-95.931003,41.255141],
+  "bbox": [
+    -95.931003,
+    41.255141,
+    -95.931003,
+    41.255141
+],
   "geometry": {"coordinates":[-95.931003,41.255141],"type":"Point"}
 }

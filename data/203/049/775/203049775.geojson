@@ -2,13 +2,14 @@
   "id": 203049775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.015307,41.316642,-96.015307,41.316642",
     "geom:latitude":41.316642,
     "geom:longitude":-96.015307,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6417 N 67th St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203049775,
-    "wof:lastmodified":1449025868,
+    "wof:lastmodified":1466665905,
     "wof:name":"A 24 Hour A Locksmith",
     "wof:parent_id":85805755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "key"
     ]
 },
-  "bbox": [-96.015307,41.316642,-96.015307,41.316642],
-  "geometry": {"coordinates":[-96.015307,41.316642],"type":"Point"}
+  "bbox": [
+    -96.015307,
+    41.316642,
+    -96.015307,
+    41.316642
+],
+  "geometry": {"coordinates":[-96.01530700000001,41.316642],"type":"Point"}
 }

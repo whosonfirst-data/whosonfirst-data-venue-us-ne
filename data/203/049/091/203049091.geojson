@@ -2,13 +2,14 @@
   "id": 203049091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.985992,41.299807,-95.985992,41.299807",
     "geom:latitude":41.299807,
     "geom:longitude":-95.985992,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4830 Ames Ave",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":203049091,
-    "wof:lastmodified":1449025862,
+    "wof:lastmodified":1466665889,
     "wof:name":"Teach Me Childcare Learning Center",
     "wof:parent_id":85805755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "elementary"
     ]
 },
-  "bbox": [-95.985992,41.299807,-95.985992,41.299807],
+  "bbox": [
+    -95.985992,
+    41.299807,
+    -95.985992,
+    41.299807
+],
   "geometry": {"coordinates":[-95.985992,41.299807],"type":"Point"}
 }

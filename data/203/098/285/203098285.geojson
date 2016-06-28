@@ -2,13 +2,14 @@
   "id": 203098285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.080887,41.24976,-96.080887,41.24976",
     "geom:latitude":41.24976,
     "geom:longitude":-96.080887,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"909 S 107th Ave",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -68,10 +69,11 @@
         }
     ],
     "wof:id":203098285,
-    "wof:lastmodified":1449026668,
+    "wof:lastmodified":1466666167,
     "wof:name":"Regency Lodge",
     "wof:parent_id":85872503,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -84,6 +86,11 @@
         "banquet"
     ]
 },
-  "bbox": [-96.080887,41.24976,-96.080887,41.24976],
+  "bbox": [
+    -96.080887,
+    41.24976,
+    -96.080887,
+    41.24976
+],
   "geometry": {"coordinates":[-96.080887,41.24976],"type":"Point"}
 }

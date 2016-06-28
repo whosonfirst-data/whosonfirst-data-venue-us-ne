@@ -2,13 +2,14 @@
   "id": 203151435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.102983,41.29221,-96.102983,41.29221",
     "geom:latitude":41.29221,
     "geom:longitude":-96.102983,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12301 W Maple Rd",
     "sg:city":"Omaha",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203151435,
-    "wof:lastmodified":1449024957,
+    "wof:lastmodified":1466666475,
     "wof:name":"Bene Pizza And Pasta",
     "wof:parent_id":85872503,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.102983,41.29221,-96.102983,41.29221],
-  "geometry": {"coordinates":[-96.102983,41.29221],"type":"Point"}
+  "bbox": [
+    -96.102983,
+    41.29221,
+    -96.102983,
+    41.29221
+],
+  "geometry": {"coordinates":[-96.10298299999999,41.29221],"type":"Point"}
 }

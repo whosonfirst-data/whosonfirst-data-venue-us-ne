@@ -2,13 +2,14 @@
   "id": 203166507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.699631,40.813945,-96.699631,40.813945",
     "geom:latitude":40.813945,
     "geom:longitude":-96.699631,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"131 Centennial Mall N",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -68,10 +69,11 @@
         }
     ],
     "wof:id":203166507,
-    "wof:lastmodified":1449026012,
+    "wof:lastmodified":1466666553,
     "wof:name":"Museum Of Nebraska History",
     "wof:parent_id":85878699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -79,6 +81,11 @@
         "historical"
     ]
 },
-  "bbox": [-96.699631,40.813945,-96.699631,40.813945],
+  "bbox": [
+    -96.699631,
+    40.813945,
+    -96.699631,
+    40.813945
+],
   "geometry": {"coordinates":[-96.699631,40.813945],"type":"Point"}
 }

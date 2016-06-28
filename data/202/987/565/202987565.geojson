@@ -2,13 +2,14 @@
   "id": 202987565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.495319,41.435718,-96.495319,41.435718",
     "geom:latitude":41.435718,
     "geom:longitude":-96.495319,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"245 E Military Ave",
     "sg:city":"Fremont",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":202987565,
-    "wof:lastmodified":1449061525,
+    "wof:lastmodified":1466665580,
     "wof:name":"Jensen Tire & Auto",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tire"
     ]
 },
-  "bbox": [-96.495319,41.435718,-96.495319,41.435718],
-  "geometry": {"coordinates":[-96.495319,41.435718],"type":"Point"}
+  "bbox": [
+    -96.495319,
+    41.435718,
+    -96.495319,
+    41.435718
+],
+  "geometry": {"coordinates":[-96.49531899999999,41.435718],"type":"Point"}
 }

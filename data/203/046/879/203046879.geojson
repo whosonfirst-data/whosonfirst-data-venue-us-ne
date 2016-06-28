@@ -2,13 +2,14 @@
   "id": 203046879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.010846,41.285019,-96.010846,41.285019",
     "geom:latitude":41.285019,
     "geom:longitude":-96.010846,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6406 Maple St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203046879,
-    "wof:lastmodified":1449025996,
+    "wof:lastmodified":1466665886,
     "wof:name":"Energy Solutions Inc",
     "wof:parent_id":85872535,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "manufacturers'"
     ]
 },
-  "bbox": [-96.010846,41.285019,-96.010846,41.285019],
+  "bbox": [
+    -96.010846,
+    41.285019,
+    -96.010846,
+    41.285019
+],
   "geometry": {"coordinates":[-96.010846,41.285019],"type":"Point"}
 }

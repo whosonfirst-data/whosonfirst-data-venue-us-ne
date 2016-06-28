@@ -2,13 +2,14 @@
   "id": 203122799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.9646,41.257599,-95.9646,41.257599",
     "geom:latitude":41.257599,
     "geom:longitude":-95.9646,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3501 Farnam St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203122799,
-    "wof:lastmodified":1449026029,
+    "wof:lastmodified":1466666318,
     "wof:name":"Television Station Wowt Ch 6",
     "wof:parent_id":85872525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.9646,41.257599,-95.9646,41.257599],
+  "bbox": [
+    -95.9646,
+    41.257599,
+    -95.9646,
+    41.257599
+],
   "geometry": {"coordinates":[-95.9646,41.257599],"type":"Point"}
 }

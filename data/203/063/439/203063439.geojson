@@ -2,13 +2,14 @@
   "id": 203063439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.984285,41.24155,-95.984285,41.24155",
     "geom:latitude":41.24155,
     "geom:longitude":-95.984285,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4705 Center St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":203063439,
-    "wof:lastmodified":1449025103,
+    "wof:lastmodified":1466665974,
     "wof:name":"Hammon Co",
     "wof:parent_id":85872523,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "broker"
     ]
 },
-  "bbox": [-95.984285,41.24155,-95.984285,41.24155],
+  "bbox": [
+    -95.984285,
+    41.24155,
+    -95.984285,
+    41.24155
+],
   "geometry": {"coordinates":[-95.984285,41.24155],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203047255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.004402,41.299702,-96.004402,41.299702",
     "geom:latitude":41.299702,
     "geom:longitude":-96.004402,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5914 Ames Ave",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203047255,
-    "wof:lastmodified":1449026194,
+    "wof:lastmodified":1466665877,
     "wof:name":"Firestone Tire & Service Centers",
     "wof:parent_id":85805755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tire"
     ]
 },
-  "bbox": [-96.004402,41.299702,-96.004402,41.299702],
+  "bbox": [
+    -96.004402,
+    41.299702,
+    -96.004402,
+    41.299702
+],
   "geometry": {"coordinates":[-96.004402,41.299702],"type":"Point"}
 }

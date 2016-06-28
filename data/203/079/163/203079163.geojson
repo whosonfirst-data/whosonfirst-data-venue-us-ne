@@ -2,13 +2,14 @@
   "id": 203079163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.924004,41.241402,-95.924004,41.241402",
     "geom:latitude":41.241402,
     "geom:longitude":-95.924004,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1901 S 6th St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203079163,
-    "wof:lastmodified":1449026532,
+    "wof:lastmodified":1466666060,
     "wof:name":"Traco Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "painter"
     ]
 },
-  "bbox": [-95.924004,41.241402,-95.924004,41.241402],
+  "bbox": [
+    -95.924004,
+    41.241402,
+    -95.924004,
+    41.241402
+],
   "geometry": {"coordinates":[-95.924004,41.241402],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203150885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.120015,41.291119,-96.120015,41.291119",
     "geom:latitude":41.291119,
     "geom:longitude":-96.120015,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13305 Birch Dr Ste 200",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":203150885,
-    "wof:lastmodified":1449024967,
+    "wof:lastmodified":1466666484,
     "wof:name":"Ameriprise Financial Services Inc.",
     "wof:parent_id":85872503,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "planner"
     ]
 },
-  "bbox": [-96.120015,41.291119,-96.120015,41.291119],
+  "bbox": [
+    -96.120015,
+    41.291119,
+    -96.120015,
+    41.291119
+],
   "geometry": {"coordinates":[-96.120015,41.291119],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203115275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.079081,41.211278,-96.079081,41.211278",
     "geom:latitude":41.211278,
     "geom:longitude":-96.079081,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4809 S 107th Ave Ste 101",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":203115275,
-    "wof:lastmodified":1449024927,
+    "wof:lastmodified":1466666279,
     "wof:name":"Savannah Suites Apartments",
     "wof:parent_id":85872531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "listing"
     ]
 },
-  "bbox": [-96.079081,41.211278,-96.079081,41.211278],
+  "bbox": [
+    -96.079081,
+    41.211278,
+    -96.079081,
+    41.211278
+],
   "geometry": {"coordinates":[-96.079081,41.211278],"type":"Point"}
 }

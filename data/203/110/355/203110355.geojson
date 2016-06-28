@@ -2,13 +2,14 @@
   "id": 203110355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.023819,41.368351,-96.023819,41.368351",
     "geom:latitude":41.368351,
     "geom:longitude":-96.023819,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12001 N 72nd St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203110355,
-    "wof:lastmodified":1449025542,
+    "wof:lastmodified":1466666247,
     "wof:name":"North Omaha Airport",
     "wof:parent_id":85872505,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "airlines-training"
     ]
 },
-  "bbox": [-96.023819,41.368351,-96.023819,41.368351],
+  "bbox": [
+    -96.023819,
+    41.368351,
+    -96.023819,
+    41.368351
+],
   "geometry": {"coordinates":[-96.023819,41.368351],"type":"Point"}
 }

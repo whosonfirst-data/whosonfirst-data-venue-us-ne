@@ -2,13 +2,14 @@
   "id": 203071133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.974226,41.222054,-95.974226,41.222054",
     "geom:latitude":41.222054,
     "geom:longitude":-95.974226,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4111 1/2 D St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203071133,
-    "wof:lastmodified":1449026155,
+    "wof:lastmodified":1466666038,
     "wof:name":"Village Gate Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-95.974226,41.222054,-95.974226,41.222054],
+  "bbox": [
+    -95.974226,
+    41.222054,
+    -95.974226,
+    41.222054
+],
   "geometry": {"coordinates":[-95.974226,41.222054],"type":"Point"}
 }

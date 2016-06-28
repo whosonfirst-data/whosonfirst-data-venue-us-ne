@@ -2,13 +2,14 @@
   "id": 203116867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.043114,41.217452,-96.043114,41.217452",
     "geom:latitude":41.217452,
     "geom:longitude":-96.043114,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4310 S 84th St",
     "sg:city":"Omaha",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203116867,
-    "wof:lastmodified":1449025211,
+    "wof:lastmodified":1466666286,
     "wof:name":"Lyle's Tires & Wheels",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.043114,41.217452,-96.043114,41.217452],
+  "bbox": [
+    -96.043114,
+    41.217452,
+    -96.043114,
+    41.217452
+],
   "geometry": {"coordinates":[-96.043114,41.217452],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203059583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.011902,41.2486,-96.011902,41.2486",
     "geom:latitude":41.2486,
     "geom:longitude":-96.011902,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6401 Pacific St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203059583,
-    "wof:lastmodified":1449025428,
+    "wof:lastmodified":1466665956,
     "wof:name":"Michael J Butkus & Company",
     "wof:parent_id":85867059,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "investing"
     ]
 },
-  "bbox": [-96.011902,41.2486,-96.011902,41.2486],
-  "geometry": {"coordinates":[-96.011902,41.2486],"type":"Point"}
+  "bbox": [
+    -96.011902,
+    41.2486,
+    -96.011902,
+    41.2486
+],
+  "geometry": {"coordinates":[-96.01190200000001,41.2486],"type":"Point"}
 }

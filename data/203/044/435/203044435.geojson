@@ -2,13 +2,14 @@
   "id": 203044435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.994904,41.307201,-95.994904,41.307201",
     "geom:latitude":41.307201,
     "geom:longitude":-95.994904,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5322 N 52nd St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203044435,
-    "wof:lastmodified":1449025925,
+    "wof:lastmodified":1466665847,
     "wof:name":"Omaha Public Schools",
     "wof:parent_id":85805755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "elementary"
     ]
 },
-  "bbox": [-95.994904,41.307201,-95.994904,41.307201],
-  "geometry": {"coordinates":[-95.994904,41.307201],"type":"Point"}
+  "bbox": [
+    -95.994904,
+    41.307201,
+    -95.994904,
+    41.307201
+],
+  "geometry": {"coordinates":[-95.99490400000001,41.307201],"type":"Point"}
 }

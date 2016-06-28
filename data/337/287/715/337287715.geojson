@@ -2,13 +2,14 @@
   "id": 337287715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.141995,41.198646,-96.141995,41.198646",
     "geom:latitude":41.198646,
     "geom:longitude":-96.141995,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14591 Stoney Brook Blvd",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":337287715,
-    "wof:lastmodified":1449026991,
+    "wof:lastmodified":1466665577,
     "wof:name":"Alegent Health",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-96.141995,41.198646,-96.141995,41.198646],
-  "geometry": {"coordinates":[-96.141995,41.198646],"type":"Point"}
+  "bbox": [
+    -96.141995,
+    41.198646,
+    -96.141995,
+    41.198646
+],
+  "geometry": {"coordinates":[-96.14199499999999,41.198646],"type":"Point"}
 }

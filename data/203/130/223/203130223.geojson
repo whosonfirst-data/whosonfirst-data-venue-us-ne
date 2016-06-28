@@ -2,13 +2,14 @@
   "id": 203130223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.962837,41.270129,-95.962837,41.270129",
     "geom:latitude":41.270129,
     "geom:longitude":-95.962837,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1151 N 34th St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203130223,
-    "wof:lastmodified":1449025566,
+    "wof:lastmodified":1466666372,
     "wof:name":"A Locksmith 0 Alwayes 24 Hr",
     "wof:parent_id":85872525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "key"
     ]
 },
-  "bbox": [-95.962837,41.270129,-95.962837,41.270129],
-  "geometry": {"coordinates":[-95.962837,41.270129],"type":"Point"}
+  "bbox": [
+    -95.962837,
+    41.270129,
+    -95.962837,
+    41.270129
+],
+  "geometry": {"coordinates":[-95.96283699999999,41.270129],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203106877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.990518,41.213429,-95.990518,41.213429",
     "geom:latitude":41.213429,
     "geom:longitude":-95.990518,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4601 S 50th St Ste 102",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203106877,
-    "wof:lastmodified":1449024919,
+    "wof:lastmodified":1466666217,
     "wof:name":"Carroll Susan Dance Studio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "performing"
     ]
 },
-  "bbox": [-95.990518,41.213429,-95.990518,41.213429],
-  "geometry": {"coordinates":[-95.990518,41.213429],"type":"Point"}
+  "bbox": [
+    -95.990518,
+    41.213429,
+    -95.990518,
+    41.213429
+],
+  "geometry": {"coordinates":[-95.99051799999999,41.213429],"type":"Point"}
 }

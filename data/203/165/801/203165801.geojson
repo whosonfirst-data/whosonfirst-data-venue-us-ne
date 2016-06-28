@@ -2,13 +2,14 @@
   "id": 203165801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.650284,40.784389,-96.650284,40.784389",
     "geom:latitude":40.784389,
     "geom:longitude":-96.650284,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5100 Van Dorn St",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":203165801,
-    "wof:lastmodified":1449026868,
+    "wof:lastmodified":1466666556,
     "wof:name":"USPS - United States Post Office - College View Station",
     "wof:parent_id":85811821,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "shipping"
     ]
 },
-  "bbox": [-96.650284,40.784389,-96.650284,40.784389],
+  "bbox": [
+    -96.650284,
+    40.784389,
+    -96.650284,
+    40.784389
+],
   "geometry": {"coordinates":[-96.650284,40.784389],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202992891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.081034,41.088938,-96.081034,41.088938",
     "geom:latitude":41.088938,
     "geom:longitude":-96.081034,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10800 Platteview Rd",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":202992891,
-    "wof:lastmodified":1449061318,
+    "wof:lastmodified":1466665588,
     "wof:name":"Platteview High School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "elementary"
     ]
 },
-  "bbox": [-96.081034,41.088938,-96.081034,41.088938],
+  "bbox": [
+    -96.081034,
+    41.088938,
+    -96.081034,
+    41.088938
+],
   "geometry": {"coordinates":[-96.081034,41.088938],"type":"Point"}
 }

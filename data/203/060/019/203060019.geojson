@@ -2,13 +2,14 @@
   "id": 203060019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.985584,41.251437,-95.985584,41.251437",
     "geom:latitude":41.251437,
     "geom:longitude":-95.985584,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"904 S 48th St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203060019,
-    "wof:lastmodified":1449026689,
+    "wof:lastmodified":1466665948,
     "wof:name":"Twins Auto",
     "wof:parent_id":85872523,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.985584,41.251437,-95.985584,41.251437],
+  "bbox": [
+    -95.985584,
+    41.251437,
+    -95.985584,
+    41.251437
+],
   "geometry": {"coordinates":[-95.985584,41.251437],"type":"Point"}
 }

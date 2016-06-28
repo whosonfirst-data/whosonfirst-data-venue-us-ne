@@ -2,13 +2,14 @@
   "id": 203145779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.107468,41.23579,-96.107468,41.23579",
     "geom:latitude":41.23579,
     "geom:longitude":-96.107468,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2600 S 124th St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":203145779,
-    "wof:lastmodified":1449025483,
+    "wof:lastmodified":1466666459,
     "wof:name":"Southwest Church Of Christ",
     "wof:parent_id":85872531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "christ"
     ]
 },
-  "bbox": [-96.107468,41.23579,-96.107468,41.23579],
+  "bbox": [
+    -96.107468,
+    41.23579,
+    -96.107468,
+    41.23579
+],
   "geometry": {"coordinates":[-96.107468,41.23579],"type":"Point"}
 }

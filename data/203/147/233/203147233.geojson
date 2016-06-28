@@ -2,13 +2,14 @@
   "id": 203147233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.140998,41.224326,-96.140998,41.224326",
     "geom:latitude":41.224326,
     "geom:longitude":-96.140998,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14668 Grover St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -74,10 +75,11 @@
         }
     ],
     "wof:id":203147233,
-    "wof:lastmodified":1449026663,
+    "wof:lastmodified":1466666455,
     "wof:name":"Fox Custom Cabinets, Inc.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -92,6 +94,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-96.140998,41.224326,-96.140998,41.224326],
+  "bbox": [
+    -96.140998,
+    41.224326,
+    -96.140998,
+    41.224326
+],
   "geometry": {"coordinates":[-96.140998,41.224326],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202993117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.128758,41.068377,-96.128758,41.068377",
     "geom:latitude":41.068377,
     "geom:longitude":-96.128758,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17111 S 138th St",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":202993117,
-    "wof:lastmodified":1449061250,
+    "wof:lastmodified":1466665582,
     "wof:name":"Soaring Wings",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.128758,41.068377,-96.128758,41.068377],
+  "bbox": [
+    -96.128758,
+    41.068377,
+    -96.128758,
+    41.068377
+],
   "geometry": {"coordinates":[-96.128758,41.068377],"type":"Point"}
 }

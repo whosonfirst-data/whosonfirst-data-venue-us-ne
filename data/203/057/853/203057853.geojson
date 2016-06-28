@@ -2,13 +2,14 @@
   "id": 203057853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.989368,41.241389,-95.989368,41.241389",
     "geom:latitude":41.241389,
     "geom:longitude":-95.989368,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4965 Center St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":203057853,
-    "wof:lastmodified":1449025861,
+    "wof:lastmodified":1466665942,
     "wof:name":"Chef Hattam Catering",
     "wof:parent_id":85872523,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "caterer"
     ]
 },
-  "bbox": [-95.989368,41.241389,-95.989368,41.241389],
+  "bbox": [
+    -95.989368,
+    41.241389,
+    -95.989368,
+    41.241389
+],
   "geometry": {"coordinates":[-95.989368,41.241389],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202992205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.881458,41.011166,-95.881458,41.011166",
     "geom:latitude":41.011166,
     "geom:longitude":-95.881458,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"336 Main St",
     "sg:city":"Plattsmouth",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":202992205,
-    "wof:lastmodified":1449061318,
+    "wof:lastmodified":1466665581,
     "wof:name":"Nebraska Law Enforcement",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "village"
     ]
 },
-  "bbox": [-95.881458,41.011166,-95.881458,41.011166],
-  "geometry": {"coordinates":[-95.881458,41.011166],"type":"Point"}
+  "bbox": [
+    -95.881458,
+    41.011166,
+    -95.881458,
+    41.011166
+],
+  "geometry": {"coordinates":[-95.88145799999999,41.011166],"type":"Point"}
 }

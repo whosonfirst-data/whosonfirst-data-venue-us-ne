@@ -2,13 +2,14 @@
   "id": 203148699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.108162,41.256869,-96.108162,41.256869",
     "geom:latitude":41.256869,
     "geom:longitude":-96.108162,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12536 Harney Cir",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":203148699,
-    "wof:lastmodified":1449026545,
+    "wof:lastmodified":1466666469,
     "wof:name":"Jim Werner Painting & Decorating Inc",
     "wof:parent_id":85872503,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "contractor"
     ]
 },
-  "bbox": [-96.108162,41.256869,-96.108162,41.256869],
-  "geometry": {"coordinates":[-96.108162,41.256869],"type":"Point"}
+  "bbox": [
+    -96.108162,
+    41.256869,
+    -96.108162,
+    41.256869
+],
+  "geometry": {"coordinates":[-96.10816199999999,41.256869],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203118937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.186929,41.235544,-96.186929,41.235544",
     "geom:latitude":41.235544,
     "geom:longitude":-96.186929,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17340 Lakeside Hills Plz",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":203118937,
-    "wof:lastmodified":1449026478,
+    "wof:lastmodified":1466666289,
     "wof:name":"Hallmark Creations",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "store"
     ]
 },
-  "bbox": [-96.186929,41.235544,-96.186929,41.235544],
-  "geometry": {"coordinates":[-96.186929,41.235544],"type":"Point"}
+  "bbox": [
+    -96.186929,
+    41.235544,
+    -96.186929,
+    41.235544
+],
+  "geometry": {"coordinates":[-96.18692900000001,41.235544],"type":"Point"}
 }

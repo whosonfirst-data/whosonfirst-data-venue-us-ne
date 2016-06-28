@@ -2,13 +2,14 @@
   "id": 203141225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.136455,41.216802,-96.136455,41.216802",
     "geom:latitude":41.216802,
     "geom:longitude":-96.136455,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14217 Dayton Cir #3",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":203141225,
-    "wof:lastmodified":1449025587,
+    "wof:lastmodified":1466666432,
     "wof:name":"Murphree Kristina B.",
     "wof:parent_id":85872531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "criminal"
     ]
 },
-  "bbox": [-96.136455,41.216802,-96.136455,41.216802],
+  "bbox": [
+    -96.136455,
+    41.216802,
+    -96.136455,
+    41.216802
+],
   "geometry": {"coordinates":[-96.136455,41.216802],"type":"Point"}
 }

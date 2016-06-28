@@ -2,13 +2,14 @@
   "id": 203085337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.91294,41.30925,-95.91294,41.30925",
     "geom:latitude":41.30925,
     "geom:longitude":-95.91294,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1218 E Hartman Ave",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203085337,
-    "wof:lastmodified":1449025390,
+    "wof:lastmodified":1466666080,
     "wof:name":"Syncopated Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "performing"
     ]
 },
-  "bbox": [-95.91294,41.30925,-95.91294,41.30925],
-  "geometry": {"coordinates":[-95.91294,41.30925],"type":"Point"}
+  "bbox": [
+    -95.91294,
+    41.30925,
+    -95.91294,
+    41.30925
+],
+  "geometry": {"coordinates":[-95.91294000000001,41.30925],"type":"Point"}
 }

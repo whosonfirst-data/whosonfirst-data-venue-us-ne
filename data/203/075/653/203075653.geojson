@@ -2,13 +2,14 @@
   "id": 203075653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.939865,41.236389,-95.939865,41.236389",
     "geom:latitude":41.236389,
     "geom:longitude":-95.939865,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2416 S 18th St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203075653,
-    "wof:lastmodified":1449025974,
+    "wof:lastmodified":1466666051,
     "wof:name":"Locksmith 24 Hours",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "key"
     ]
 },
-  "bbox": [-95.939865,41.236389,-95.939865,41.236389],
+  "bbox": [
+    -95.939865,
+    41.236389,
+    -95.939865,
+    41.236389
+],
   "geometry": {"coordinates":[-95.939865,41.236389],"type":"Point"}
 }

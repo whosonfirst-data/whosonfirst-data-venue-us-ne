@@ -2,13 +2,14 @@
   "id": 203166717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.703661,40.810319,-96.703661,40.810319",
     "geom:latitude":40.810319,
     "geom:longitude":-96.703661,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1225 L St Suite 501",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":203166717,
-    "wof:lastmodified":1449026009,
+    "wof:lastmodified":1466666557,
     "wof:name":"Concorde Real Estate Advisors",
     "wof:parent_id":85878699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "broker"
     ]
 },
-  "bbox": [-96.703661,40.810319,-96.703661,40.810319],
+  "bbox": [
+    -96.703661,
+    40.810319,
+    -96.703661,
+    40.810319
+],
   "geometry": {"coordinates":[-96.703661,40.810319],"type":"Point"}
 }

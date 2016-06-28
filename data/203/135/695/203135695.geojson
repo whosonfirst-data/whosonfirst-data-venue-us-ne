@@ -2,13 +2,14 @@
   "id": 203135695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.052528,41.278941,-96.052528,41.278941",
     "geom:latitude":41.278941,
     "geom:longitude":-96.052528,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2201 N 90th St #124",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -70,10 +71,11 @@
         }
     ],
     "wof:id":203135695,
-    "wof:lastmodified":1449025646,
+    "wof:lastmodified":1466666420,
     "wof:name":"Ryan Emerson - Farmers Insurance",
     "wof:parent_id":85867061,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -83,6 +85,11 @@
         "homeowner"
     ]
 },
-  "bbox": [-96.052528,41.278941,-96.052528,41.278941],
+  "bbox": [
+    -96.052528,
+    41.278941,
+    -96.052528,
+    41.278941
+],
   "geometry": {"coordinates":[-96.052528,41.278941],"type":"Point"}
 }

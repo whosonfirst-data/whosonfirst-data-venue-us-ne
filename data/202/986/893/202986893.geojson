@@ -2,13 +2,14 @@
   "id": 202986893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.0998,41.036598,-96.0998,41.036598",
     "geom:latitude":41.036598,
     "geom:longitude":-96.0998,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1120 Fritz Dr",
     "sg:city":"Cedar Creek",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":202986893,
-    "wof:lastmodified":1449062178,
+    "wof:lastmodified":1466665575,
     "wof:name":"Al-Bet's Electronics Sales & Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "repair"
     ]
 },
-  "bbox": [-96.0998,41.036598,-96.0998,41.036598],
+  "bbox": [
+    -96.0998,
+    41.036598,
+    -96.0998,
+    41.036598
+],
   "geometry": {"coordinates":[-96.0998,41.036598],"type":"Point"}
 }

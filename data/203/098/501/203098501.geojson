@@ -2,13 +2,14 @@
   "id": 203098501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.041359,41.25967,-96.041359,41.25967",
     "geom:latitude":41.25967,
     "geom:longitude":-96.041359,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8303 Dodge St Ste 225",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":203098501,
-    "wof:lastmodified":1449026671,
+    "wof:lastmodified":1466666173,
     "wof:name":"Oncology Associates PC",
     "wof:parent_id":85872509,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-96.041359,41.25967,-96.041359,41.25967],
+  "bbox": [
+    -96.041359,
+    41.25967,
+    -96.041359,
+    41.25967
+],
   "geometry": {"coordinates":[-96.041359,41.25967],"type":"Point"}
 }

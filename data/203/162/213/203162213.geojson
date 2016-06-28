@@ -2,13 +2,14 @@
   "id": 203162213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.970746,40.624079,-96.970746,40.624079",
     "geom:latitude":40.624079,
     "geom:longitude":-96.970746,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"925 E Highway 33 Ste 1",
     "sg:city":"Crete",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203162213,
-    "wof:lastmodified":1449026574,
+    "wof:lastmodified":1466669667,
     "wof:name":"King Buffet",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "buffet"
     ]
 },
-  "bbox": [-96.970746,40.624079,-96.970746,40.624079],
-  "geometry": {"coordinates":[-96.970746,40.624079],"type":"Point"}
+  "bbox": [
+    -96.970746,
+    40.624079,
+    -96.970746,
+    40.624079
+],
+  "geometry": {"coordinates":[-96.97074600000001,40.624079],"type":"Point"}
 }

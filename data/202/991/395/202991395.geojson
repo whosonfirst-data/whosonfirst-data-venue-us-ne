@@ -2,13 +2,14 @@
   "id": 202991395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.043198,41.096699,-96.043198,41.096699",
     "geom:latitude":41.096699,
     "geom:longitude":-96.043198,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14110 S 84th St",
     "sg:city":"Papillion",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":202991395,
-    "wof:lastmodified":1449060906,
+    "wof:lastmodified":1466665582,
     "wof:name":"Town & Country Humane Society",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "sitting"
     ]
 },
-  "bbox": [-96.043198,41.096699,-96.043198,41.096699],
+  "bbox": [
+    -96.043198,
+    41.096699,
+    -96.043198,
+    41.096699
+],
   "geometry": {"coordinates":[-96.043198,41.096699],"type":"Point"}
 }

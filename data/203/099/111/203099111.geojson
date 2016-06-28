@@ -2,13 +2,14 @@
   "id": 203099111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.06047,41.254989,-96.06047,41.254989",
     "geom:latitude":41.254989,
     "geom:longitude":-96.06047,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9468 Dewey Cir",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":203099111,
-    "wof:lastmodified":1449026216,
+    "wof:lastmodified":1466666173,
     "wof:name":"B&B Electric",
     "wof:parent_id":85867061,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "electric"
     ]
 },
-  "bbox": [-96.06047,41.254989,-96.06047,41.254989],
+  "bbox": [
+    -96.06047,
+    41.254989,
+    -96.06047,
+    41.254989
+],
   "geometry": {"coordinates":[-96.06047,41.254989],"type":"Point"}
 }

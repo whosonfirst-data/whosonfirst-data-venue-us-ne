@@ -2,13 +2,14 @@
   "id": 203128937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.959738,41.258479,-95.959738,41.258479",
     "geom:latitude":41.258479,
     "geom:longitude":-95.959738,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"220 S 31st Ave Ste 3101",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203128937,
-    "wof:lastmodified":1449025647,
+    "wof:lastmodified":1466666368,
     "wof:name":"The Grey Plume",
     "wof:parent_id":85872525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "american"
     ]
 },
-  "bbox": [-95.959738,41.258479,-95.959738,41.258479],
+  "bbox": [
+    -95.959738,
+    41.258479,
+    -95.959738,
+    41.258479
+],
   "geometry": {"coordinates":[-95.959738,41.258479],"type":"Point"}
 }

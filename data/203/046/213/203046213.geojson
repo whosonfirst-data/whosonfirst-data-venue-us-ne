@@ -2,13 +2,14 @@
   "id": 203046213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.022347,41.309899,-96.022347,41.309899",
     "geom:latitude":41.309899,
     "geom:longitude":-96.022347,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5655 N 71st St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -73,10 +74,11 @@
         }
     ],
     "wof:id":203046213,
-    "wof:lastmodified":1449025996,
+    "wof:lastmodified":1466665870,
     "wof:name":"U-Haul Neighborhood Dealer - Armor Storage Hartman",
     "wof:parent_id":85805755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -89,6 +91,11 @@
         "self"
     ]
 },
-  "bbox": [-96.022347,41.309899,-96.022347,41.309899],
+  "bbox": [
+    -96.022347,
+    41.309899,
+    -96.022347,
+    41.309899
+],
   "geometry": {"coordinates":[-96.022347,41.309899],"type":"Point"}
 }

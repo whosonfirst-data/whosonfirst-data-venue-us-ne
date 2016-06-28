@@ -2,13 +2,14 @@
   "id": 203096613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.960525,41.33746,-95.960525,41.33746",
     "geom:latitude":41.33746,
     "geom:longitude":-95.960525,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8523 N 30th St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":203096613,
-    "wof:lastmodified":1449025532,
+    "wof:lastmodified":1466666161,
     "wof:name":"Mill Creek Mercantile",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "store"
     ]
 },
-  "bbox": [-95.960525,41.33746,-95.960525,41.33746],
+  "bbox": [
+    -95.960525,
+    41.33746,
+    -95.960525,
+    41.33746
+],
   "geometry": {"coordinates":[-95.960525,41.33746],"type":"Point"}
 }

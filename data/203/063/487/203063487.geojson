@@ -2,13 +2,14 @@
   "id": 203063487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.0047,41.2271,-96.0047,41.2271",
     "geom:latitude":41.2271,
     "geom:longitude":-96.0047,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6006 Grover St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203063487,
-    "wof:lastmodified":1449025101,
+    "wof:lastmodified":1466665975,
     "wof:name":"Poop Deck Bar",
     "wof:parent_id":85867059,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.0047,41.2271,-96.0047,41.2271],
+  "bbox": [
+    -96.0047,
+    41.2271,
+    -96.0047,
+    41.2271
+],
   "geometry": {"coordinates":[-96.0047,41.2271],"type":"Point"}
 }

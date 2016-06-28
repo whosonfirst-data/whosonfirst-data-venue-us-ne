@@ -2,13 +2,14 @@
   "id": 203071231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.960197,41.218399,-95.960197,41.218399",
     "geom:latitude":41.218399,
     "geom:longitude":-95.960197,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4203 Dahlman Ave",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203071231,
-    "wof:lastmodified":1449026153,
+    "wof:lastmodified":1466666039,
     "wof:name":"Safeway Moving and Storage Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mover"
     ]
 },
-  "bbox": [-95.960197,41.218399,-95.960197,41.218399],
-  "geometry": {"coordinates":[-95.960197,41.218399],"type":"Point"}
+  "bbox": [
+    -95.960197,
+    41.218399,
+    -95.960197,
+    41.218399
+],
+  "geometry": {"coordinates":[-95.96019699999999,41.218399],"type":"Point"}
 }

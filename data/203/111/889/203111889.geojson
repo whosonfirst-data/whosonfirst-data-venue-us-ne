@@ -2,13 +2,14 @@
   "id": 203111889,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.063556,41.226212,-96.063556,41.226212",
     "geom:latitude":41.226212,
     "geom:longitude":-96.063556,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3509 S 97th St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":203111889,
-    "wof:lastmodified":1449026902,
+    "wof:lastmodified":1466666272,
     "wof:name":"Premier Renovations Inc",
     "wof:parent_id":85872511,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "mason"
     ]
 },
-  "bbox": [-96.063556,41.226212,-96.063556,41.226212],
-  "geometry": {"coordinates":[-96.063556,41.226212],"type":"Point"}
+  "bbox": [
+    -96.063556,
+    41.226212,
+    -96.063556,
+    41.226212
+],
+  "geometry": {"coordinates":[-96.06355600000001,41.226212],"type":"Point"}
 }

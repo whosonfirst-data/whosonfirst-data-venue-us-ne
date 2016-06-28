@@ -2,13 +2,14 @@
   "id": 203056833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.991838,41.241377,-95.991838,41.241377",
     "geom:latitude":41.241377,
     "geom:longitude":-95.991838,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5002 Center St",
     "sg:city":"Omaha",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203056833,
-    "wof:lastmodified":1449025439,
+    "wof:lastmodified":1466665940,
     "wof:name":"Grinn & Barrett Tattoo and Body Piercing Studio",
     "wof:parent_id":85872513,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.991838,41.241377,-95.991838,41.241377],
+  "bbox": [
+    -95.991838,
+    41.241377,
+    -95.991838,
+    41.241377
+],
   "geometry": {"coordinates":[-95.991838,41.241377],"type":"Point"}
 }

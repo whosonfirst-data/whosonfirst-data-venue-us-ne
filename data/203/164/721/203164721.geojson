@@ -2,13 +2,14 @@
   "id": 203164721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.693001,40.824461,-96.693001,40.824461",
     "geom:latitude":40.824461,
     "geom:longitude":-96.693001,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1941 Y St",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":203164721,
-    "wof:lastmodified":1449025171,
+    "wof:lastmodified":1466666548,
     "wof:name":"Commonwealth Electric Company Of The Midwest",
     "wof:parent_id":85878723,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -79,6 +81,11 @@
         "installation"
     ]
 },
-  "bbox": [-96.693001,40.824461,-96.693001,40.824461],
+  "bbox": [
+    -96.693001,
+    40.824461,
+    -96.693001,
+    40.824461
+],
   "geometry": {"coordinates":[-96.693001,40.824461],"type":"Point"}
 }

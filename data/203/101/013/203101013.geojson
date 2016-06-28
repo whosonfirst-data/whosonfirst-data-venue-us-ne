@@ -2,13 +2,14 @@
   "id": 203101013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.138847,41.293179,-96.138847,41.293179",
     "geom:latitude":41.293179,
     "geom:longitude":-96.138847,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3707 N 144th St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":203101013,
-    "wof:lastmodified":1449025941,
+    "wof:lastmodified":1466669654,
     "wof:name":"Tierone Bank",
     "wof:parent_id":85872503,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "saving"
     ]
 },
-  "bbox": [-96.138847,41.293179,-96.138847,41.293179],
+  "bbox": [
+    -96.138847,
+    41.293179,
+    -96.138847,
+    41.293179
+],
   "geometry": {"coordinates":[-96.138847,41.293179],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203128755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.956298,41.264797,-95.956298,41.264797",
     "geom:latitude":41.264797,
     "geom:longitude":-95.956298,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"601 N 30th St Ste 3M-100",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203128755,
-    "wof:lastmodified":1449025650,
+    "wof:lastmodified":1466666365,
     "wof:name":"Creighton Medical Associates",
     "wof:parent_id":85872525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.956298,41.264797,-95.956298,41.264797],
+  "bbox": [
+    -95.956298,
+    41.264797,
+    -95.956298,
+    41.264797
+],
   "geometry": {"coordinates":[-95.956298,41.264797],"type":"Point"}
 }

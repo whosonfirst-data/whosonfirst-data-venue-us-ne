@@ -2,13 +2,14 @@
   "id": 203086993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.9729,41.281502,-95.9729,41.281502",
     "geom:latitude":41.281502,
     "geom:longitude":-95.9729,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4012 Lake St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203086993,
-    "wof:lastmodified":1449026250,
+    "wof:lastmodified":1466666095,
     "wof:name":"Anderson F R Construction Co Inc",
     "wof:parent_id":85872535,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-95.9729,41.281502,-95.9729,41.281502],
+  "bbox": [
+    -95.9729,
+    41.281502,
+    -95.9729,
+    41.281502
+],
   "geometry": {"coordinates":[-95.9729,41.281502],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203167231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.640855,40.808445,-96.640855,40.808445",
     "geom:latitude":40.808445,
     "geom:longitude":-96.640855,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"521 Eldon Dr",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":203167231,
-    "wof:lastmodified":1449025918,
+    "wof:lastmodified":1466666550,
     "wof:name":"Clarks Tool Repair",
     "wof:parent_id":85878703,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "rebuild"
     ]
 },
-  "bbox": [-96.640855,40.808445,-96.640855,40.808445],
+  "bbox": [
+    -96.640855,
+    40.808445,
+    -96.640855,
+    40.808445
+],
   "geometry": {"coordinates":[-96.640855,40.808445],"type":"Point"}
 }

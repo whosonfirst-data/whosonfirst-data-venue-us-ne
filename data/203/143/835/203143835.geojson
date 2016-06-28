@@ -2,13 +2,14 @@
   "id": 203143835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.123519,41.245265,-96.123519,41.245265",
     "geom:latitude":41.245265,
     "geom:longitude":-96.123519,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1426 S 134th St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203143835,
-    "wof:lastmodified":1449026521,
+    "wof:lastmodified":1466666454,
     "wof:name":"Cat In The Lamp Home Rentals",
     "wof:parent_id":85806957,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "store"
     ]
 },
-  "bbox": [-96.123519,41.245265,-96.123519,41.245265],
+  "bbox": [
+    -96.123519,
+    41.245265,
+    -96.123519,
+    41.245265
+],
   "geometry": {"coordinates":[-96.123519,41.245265],"type":"Point"}
 }

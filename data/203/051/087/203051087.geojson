@@ -2,13 +2,14 @@
   "id": 203051087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.956636,41.239001,-95.956636,41.239001",
     "geom:latitude":41.239001,
     "geom:longitude":-95.956636,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2975 Ed Creighton Ave",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203051087,
-    "wof:lastmodified":1449026116,
+    "wof:lastmodified":1466665898,
     "wof:name":"Earl & Ebel Homes Llc",
     "wof:parent_id":85872527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-95.956636,41.239001,-95.956636,41.239001],
+  "bbox": [
+    -95.956636,
+    41.239001,
+    -95.956636,
+    41.239001
+],
   "geometry": {"coordinates":[-95.956636,41.239001],"type":"Point"}
 }

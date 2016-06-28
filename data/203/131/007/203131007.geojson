@@ -2,13 +2,14 @@
   "id": 203131007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.010696,41.262001,-96.010696,41.262001",
     "geom:latitude":41.262001,
     "geom:longitude":-96.010696,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7070 Capitol Ct Apt 601",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203131007,
-    "wof:lastmodified":1449025481,
+    "wof:lastmodified":1466669661,
     "wof:name":"Daisy Fresh",
     "wof:parent_id":85872507,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "home"
     ]
 },
-  "bbox": [-96.010696,41.262001,-96.010696,41.262001],
+  "bbox": [
+    -96.010696,
+    41.262001,
+    -96.010696,
+    41.262001
+],
   "geometry": {"coordinates":[-96.010696,41.262001],"type":"Point"}
 }

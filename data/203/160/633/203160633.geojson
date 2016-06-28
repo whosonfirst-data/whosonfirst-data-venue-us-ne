@@ -2,13 +2,14 @@
   "id": 203160633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.742498,40.265839,-96.742498,40.265839",
     "geom:latitude":40.265839,
     "geom:longitude":-96.742498,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"815 Court St",
     "sg:city":"Beatrice",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203160633,
-    "wof:lastmodified":1449026544,
+    "wof:lastmodified":1466666530,
     "wof:name":"National Farmers Union",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "business"
     ]
 },
-  "bbox": [-96.742498,40.265839,-96.742498,40.265839],
+  "bbox": [
+    -96.742498,
+    40.265839,
+    -96.742498,
+    40.265839
+],
   "geometry": {"coordinates":[-96.742498,40.265839],"type":"Point"}
 }

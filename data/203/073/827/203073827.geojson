@@ -2,13 +2,14 @@
   "id": 203073827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.937317,41.242406,-95.937317,41.242406",
     "geom:latitude":41.242406,
     "geom:longitude":-95.937317,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1730 S 16th St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203073827,
-    "wof:lastmodified":1449025200,
+    "wof:lastmodified":1466666048,
     "wof:name":"St Josephs Church Social Hall",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-95.937317,41.242406,-95.937317,41.242406],
-  "geometry": {"coordinates":[-95.937317,41.242406],"type":"Point"}
+  "bbox": [
+    -95.937317,
+    41.242406,
+    -95.937317,
+    41.242406
+],
+  "geometry": {"coordinates":[-95.93731699999999,41.242406],"type":"Point"}
 }

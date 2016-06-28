@@ -2,13 +2,14 @@
   "id": 203150447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.083977,41.265541,-96.083977,41.265541",
     "geom:latitude":41.265541,
     "geom:longitude":-96.083977,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10870 W Dodge Rd",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":203150447,
-    "wof:lastmodified":1449024966,
+    "wof:lastmodified":1466666474,
     "wof:name":"New York Burrito",
     "wof:parent_id":85872503,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "take"
     ]
 },
-  "bbox": [-96.083977,41.265541,-96.083977,41.265541],
+  "bbox": [
+    -96.083977,
+    41.265541,
+    -96.083977,
+    41.265541
+],
   "geometry": {"coordinates":[-96.083977,41.265541],"type":"Point"}
 }

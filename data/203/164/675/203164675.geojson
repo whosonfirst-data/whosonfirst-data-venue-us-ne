@@ -2,13 +2,14 @@
   "id": 203164675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.69384,40.814709,-96.69384,40.814709",
     "geom:latitude":40.814709,
     "geom:longitude":-96.69384,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 N 19th St",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203164675,
-    "wof:lastmodified":1449025169,
+    "wof:lastmodified":1466666547,
     "wof:name":"Fish Carburetor & Tune Up Inc",
     "wof:parent_id":85878723,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "tune"
     ]
 },
-  "bbox": [-96.69384,40.814709,-96.69384,40.814709],
-  "geometry": {"coordinates":[-96.69384,40.814709],"type":"Point"}
+  "bbox": [
+    -96.69384,
+    40.814709,
+    -96.69384,
+    40.814709
+],
+  "geometry": {"coordinates":[-96.69383999999999,40.814709],"type":"Point"}
 }

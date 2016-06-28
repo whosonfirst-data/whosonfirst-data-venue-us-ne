@@ -2,13 +2,14 @@
   "id": 203147337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.010002,41.321416,-96.010002,41.321416",
     "geom:latitude":41.321416,
     "geom:longitude":-96.010002,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6918 N 63rd St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203147337,
-    "wof:lastmodified":1449026660,
+    "wof:lastmodified":1466666457,
     "wof:name":"Jp Carpentry",
     "wof:parent_id":85805755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "carpenter"
     ]
 },
-  "bbox": [-96.010002,41.321416,-96.010002,41.321416],
+  "bbox": [
+    -96.010002,
+    41.321416,
+    -96.010002,
+    41.321416
+],
   "geometry": {"coordinates":[-96.010002,41.321416],"type":"Point"}
 }

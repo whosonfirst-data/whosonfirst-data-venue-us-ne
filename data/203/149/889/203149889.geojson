@@ -2,13 +2,14 @@
   "id": 203149889,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.104407,41.271207,-96.104407,41.271207",
     "geom:latitude":41.271207,
     "geom:longitude":-96.104407,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12316 Rose Ln",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203149889,
-    "wof:lastmodified":1449024939,
+    "wof:lastmodified":1466666483,
     "wof:name":"Clarkson Hospital",
     "wof:parent_id":85872503,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.104407,41.271207,-96.104407,41.271207],
-  "geometry": {"coordinates":[-96.104407,41.271207],"type":"Point"}
+  "bbox": [
+    -96.104407,
+    41.271207,
+    -96.104407,
+    41.271207
+],
+  "geometry": {"coordinates":[-96.10440699999999,41.271207],"type":"Point"}
 }

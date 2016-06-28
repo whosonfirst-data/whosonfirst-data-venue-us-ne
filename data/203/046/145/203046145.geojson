@@ -2,13 +2,14 @@
   "id": 203046145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.983729,41.30694,-95.983729,41.30694",
     "geom:latitude":41.30694,
     "geom:longitude":-95.983729,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5317 N 47th St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203046145,
-    "wof:lastmodified":1449025998,
+    "wof:lastmodified":1466665867,
     "wof:name":"Aaland 24 Hour Locksmith",
     "wof:parent_id":85805755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "key"
     ]
 },
-  "bbox": [-95.983729,41.30694,-95.983729,41.30694],
+  "bbox": [
+    -95.983729,
+    41.30694,
+    -95.983729,
+    41.30694
+],
   "geometry": {"coordinates":[-95.983729,41.30694],"type":"Point"}
 }

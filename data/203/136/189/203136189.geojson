@@ -2,13 +2,14 @@
   "id": 203136189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.055946,41.30854,-96.055946,41.30854",
     "geom:latitude":41.30854,
     "geom:longitude":-96.055946,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9177 Ellison Ave",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203136189,
-    "wof:lastmodified":1449026855,
+    "wof:lastmodified":1466666417,
     "wof:name":"Stephen Gillespie Dds",
     "wof:parent_id":85872505,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.055946,41.30854,-96.055946,41.30854],
-  "geometry": {"coordinates":[-96.055946,41.30854],"type":"Point"}
+  "bbox": [
+    -96.055946,
+    41.30854,
+    -96.055946,
+    41.30854
+],
+  "geometry": {"coordinates":[-96.05594600000001,41.30854],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203149633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.079338,41.26025,-96.079338,41.26025",
     "geom:latitude":41.26025,
     "geom:longitude":-96.079338,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10824 Old Mill Rd Ste 8",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":203149633,
-    "wof:lastmodified":1449024946,
+    "wof:lastmodified":1466666477,
     "wof:name":"Goleads.Com",
     "wof:parent_id":85867061,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [-96.079338,41.26025,-96.079338,41.26025],
-  "geometry": {"coordinates":[-96.079338,41.26025],"type":"Point"}
+  "bbox": [
+    -96.079338,
+    41.26025,
+    -96.079338,
+    41.26025
+],
+  "geometry": {"coordinates":[-96.07933800000001,41.26025],"type":"Point"}
 }

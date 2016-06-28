@@ -2,13 +2,14 @@
   "id": 203130591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.981385,41.267009,-95.981385,41.267009",
     "geom:latitude":41.267009,
     "geom:longitude":-95.981385,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"820 N Saddle Creek Rd",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -67,16 +68,22 @@
         }
     ],
     "wof:id":203130591,
-    "wof:lastmodified":1449025571,
+    "wof:lastmodified":1466666380,
     "wof:name":"No Frills Supermarkets",
     "wof:parent_id":85867055,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "super"
     ]
 },
-  "bbox": [-95.981385,41.267009,-95.981385,41.267009],
+  "bbox": [
+    -95.981385,
+    41.267009,
+    -95.981385,
+    41.267009
+],
   "geometry": {"coordinates":[-95.981385,41.267009],"type":"Point"}
 }

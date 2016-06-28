@@ -2,13 +2,14 @@
   "id": 203034219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.9375,41.257599,-95.9375,41.257599",
     "geom:latitude":41.257599,
     "geom:longitude":-95.9375,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1623 Farnam St Ste 500",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203034219,
-    "wof:lastmodified":1449025156,
+    "wof:lastmodified":1466665777,
     "wof:name":"Law Offices of Richard J Schicker",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "injury"
     ]
 },
-  "bbox": [-95.9375,41.257599,-95.9375,41.257599],
+  "bbox": [
+    -95.9375,
+    41.257599,
+    -95.9375,
+    41.257599
+],
   "geometry": {"coordinates":[-95.9375,41.257599],"type":"Point"}
 }

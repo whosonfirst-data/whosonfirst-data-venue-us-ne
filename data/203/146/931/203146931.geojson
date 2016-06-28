@@ -2,13 +2,14 @@
   "id": 203146931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.011128,41.317902,-96.011128,41.317902",
     "geom:latitude":41.317902,
     "geom:longitude":-96.011128,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6535 N 64th Plz",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203146931,
-    "wof:lastmodified":1449025712,
+    "wof:lastmodified":1466666464,
     "wof:name":"Douglas County Youth Center",
     "wof:parent_id":85805755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.011128,41.317902,-96.011128,41.317902],
+  "bbox": [
+    -96.011128,
+    41.317902,
+    -96.011128,
+    41.317902
+],
   "geometry": {"coordinates":[-96.011128,41.317902],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203132631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.990596,41.259563,-95.990596,41.259563",
     "geom:latitude":41.259563,
     "geom:longitude":-95.990596,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5015 Dodge St Ste 200",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203132631,
-    "wof:lastmodified":1449025840,
+    "wof:lastmodified":1466666404,
     "wof:name":"City Weekly Inc",
     "wof:parent_id":85867055,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "medium"
     ]
 },
-  "bbox": [-95.990596,41.259563,-95.990596,41.259563],
+  "bbox": [
+    -95.990596,
+    41.259563,
+    -95.990596,
+    41.259563
+],
   "geometry": {"coordinates":[-95.990596,41.259563],"type":"Point"}
 }

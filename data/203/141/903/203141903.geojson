@@ -2,13 +2,14 @@
   "id": 203141903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.144145,41.151785,-96.144145,41.151785",
     "geom:latitude":41.151785,
     "geom:longitude":-96.144145,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14708 Custer Rd Ste 101",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -68,10 +69,11 @@
         }
     ],
     "wof:id":203141903,
-    "wof:lastmodified":1449025587,
+    "wof:lastmodified":1466666444,
     "wof:name":"Thunn Construction Inc",
     "wof:parent_id":85834285,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -85,6 +87,11 @@
         "mason"
     ]
 },
-  "bbox": [-96.144145,41.151785,-96.144145,41.151785],
-  "geometry": {"coordinates":[-96.144145,41.151785],"type":"Point"}
+  "bbox": [
+    -96.144145,
+    41.151785,
+    -96.144145,
+    41.151785
+],
+  "geometry": {"coordinates":[-96.14414499999999,41.151785],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203087291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.937302,41.294701,-95.937302,41.294701",
     "geom:latitude":41.294701,
     "geom:longitude":-95.937302,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"680 Fort St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -66,10 +67,11 @@
         }
     ],
     "wof:id":203087291,
-    "wof:lastmodified":1449025789,
+    "wof:lastmodified":1466666088,
     "wof:name":"Fort Street Christian Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "college"
     ]
 },
-  "bbox": [-95.937302,41.294701,-95.937302,41.294701],
+  "bbox": [
+    -95.937302,
+    41.294701,
+    -95.937302,
+    41.294701
+],
   "geometry": {"coordinates":[-95.937302,41.294701],"type":"Point"}
 }

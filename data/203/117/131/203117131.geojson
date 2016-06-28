@@ -2,13 +2,14 @@
   "id": 203117131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.17012,41.24493,-96.17012,41.24493",
     "geom:latitude":41.24493,
     "geom:longitude":-96.17012,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1305 S 163rd Ave",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":203117131,
-    "wof:lastmodified":1449026270,
+    "wof:lastmodified":1466666280,
     "wof:name":"Step Up To Life Ministries",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-96.17012,41.24493,-96.17012,41.24493],
+  "bbox": [
+    -96.17012,
+    41.24493,
+    -96.17012,
+    41.24493
+],
   "geometry": {"coordinates":[-96.17012,41.24493],"type":"Point"}
 }

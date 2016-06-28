@@ -2,13 +2,14 @@
   "id": 203117663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.172439,41.242162,-96.172439,41.242162",
     "geom:latitude":41.242162,
     "geom:longitude":-96.172439,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1722 S 165th Cir",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":203117663,
-    "wof:lastmodified":1449026270,
+    "wof:lastmodified":1466666283,
     "wof:name":"Why USA Independent Brokers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [-96.172439,41.242162,-96.172439,41.242162],
+  "bbox": [
+    -96.172439,
+    41.242162,
+    -96.172439,
+    41.242162
+],
   "geometry": {"coordinates":[-96.172439,41.242162],"type":"Point"}
 }

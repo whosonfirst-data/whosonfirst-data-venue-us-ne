@@ -2,13 +2,14 @@
   "id": 203061795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.017845,41.227035,-96.017845,41.227035",
     "geom:latitude":41.227035,
     "geom:longitude":-96.017845,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6790 Grover St Ste 200",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203061795,
-    "wof:lastmodified":1449026338,
+    "wof:lastmodified":1466665969,
     "wof:name":"Inserra & Kelley Attorneys At Law",
     "wof:parent_id":85867059,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "injury"
     ]
 },
-  "bbox": [-96.017845,41.227035,-96.017845,41.227035],
-  "geometry": {"coordinates":[-96.017845,41.227035],"type":"Point"}
+  "bbox": [
+    -96.017845,
+    41.227035,
+    -96.017845,
+    41.227035
+],
+  "geometry": {"coordinates":[-96.01784499999999,41.227035],"type":"Point"}
 }

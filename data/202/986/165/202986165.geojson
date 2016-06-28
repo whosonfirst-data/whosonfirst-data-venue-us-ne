@@ -2,13 +2,14 @@
   "id": 202986165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.89525,41.13649,-95.89525,41.13649",
     "geom:latitude":41.13649,
     "geom:longitude":-95.89525,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"215 W Mission Ave",
     "sg:city":"Bellevue",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":202986165,
-    "wof:lastmodified":1449062178,
+    "wof:lastmodified":1466665574,
     "wof:name":"Absolute Tattoo's & Body Piercing Studio",
     "wof:parent_id":85820061,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "body"
     ]
 },
-  "bbox": [-95.89525,41.13649,-95.89525,41.13649],
+  "bbox": [
+    -95.89525,
+    41.13649,
+    -95.89525,
+    41.13649
+],
   "geometry": {"coordinates":[-95.89525,41.13649],"type":"Point"}
 }

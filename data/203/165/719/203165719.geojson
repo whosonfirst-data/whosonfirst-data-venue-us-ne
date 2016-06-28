@@ -2,13 +2,14 @@
   "id": 203165719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.663302,40.792872,-96.663302,40.792872",
     "geom:latitude":40.792872,
     "geom:longitude":-96.663302,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1919 S 40th St Ste 218",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":203165719,
-    "wof:lastmodified":1449026866,
+    "wof:lastmodified":1466666552,
     "wof:name":"M James Ganzer Dds",
     "wof:parent_id":85892213,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.663302,40.792872,-96.663302,40.792872],
+  "bbox": [
+    -96.663302,
+    40.792872,
+    -96.663302,
+    40.792872
+],
   "geometry": {"coordinates":[-96.663302,40.792872],"type":"Point"}
 }

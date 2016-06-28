@@ -2,13 +2,14 @@
   "id": 203141141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.081523,41.217195,-96.081523,41.217195",
     "geom:latitude":41.217195,
     "geom:longitude":-96.081523,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4206 S 108th St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":203141141,
-    "wof:lastmodified":1449025588,
+    "wof:lastmodified":1466666431,
     "wof:name":"Terry's Village Inc",
     "wof:parent_id":85872531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "supply"
     ]
 },
-  "bbox": [-96.081523,41.217195,-96.081523,41.217195],
+  "bbox": [
+    -96.081523,
+    41.217195,
+    -96.081523,
+    41.217195
+],
   "geometry": {"coordinates":[-96.081523,41.217195],"type":"Point"}
 }

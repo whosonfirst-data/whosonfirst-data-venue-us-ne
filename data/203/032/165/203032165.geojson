@@ -2,13 +2,14 @@
   "id": 203032165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.930901,41.254501,-95.930901,41.254501",
     "geom:latitude":41.254501,
     "geom:longitude":-95.930901,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1108 Jackson St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203032165,
-    "wof:lastmodified":1449025847,
+    "wof:lastmodified":1466665761,
     "wof:name":"Jackson Artworks",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.930901,41.254501,-95.930901,41.254501],
-  "geometry": {"coordinates":[-95.930901,41.254501],"type":"Point"}
+  "bbox": [
+    -95.930901,
+    41.254501,
+    -95.930901,
+    41.254501
+],
+  "geometry": {"coordinates":[-95.93090100000001,41.254501],"type":"Point"}
 }

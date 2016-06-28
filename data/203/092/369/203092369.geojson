@@ -2,13 +2,14 @@
   "id": 203092369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.955162,41.276363,-95.955162,41.276363",
     "geom:latitude":41.276363,
     "geom:longitude":-95.955162,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2919 Parker St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203092369,
-    "wof:lastmodified":1449026486,
+    "wof:lastmodified":1466666132,
     "wof:name":"Asap 24 Hour Locksmith",
     "wof:parent_id":85872525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "key"
     ]
 },
-  "bbox": [-95.955162,41.276363,-95.955162,41.276363],
+  "bbox": [
+    -95.955162,
+    41.276363,
+    -95.955162,
+    41.276363
+],
   "geometry": {"coordinates":[-95.955162,41.276363],"type":"Point"}
 }

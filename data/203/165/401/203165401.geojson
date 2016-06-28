@@ -2,13 +2,14 @@
   "id": 203165401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.62152,40.82602,-96.62152,40.82602",
     "geom:latitude":40.82602,
     "geom:longitude":-96.62152,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7225 Dudley St",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":203165401,
-    "wof:lastmodified":1449026869,
+    "wof:lastmodified":1466666547,
     "wof:name":"D Swartz Striping",
     "wof:parent_id":85878725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "parking"
     ]
 },
-  "bbox": [-96.62152,40.82602,-96.62152,40.82602],
+  "bbox": [
+    -96.62152,
+    40.82602,
+    -96.62152,
+    40.82602
+],
   "geometry": {"coordinates":[-96.62152,40.82602],"type":"Point"}
 }

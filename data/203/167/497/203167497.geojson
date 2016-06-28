@@ -2,13 +2,14 @@
   "id": 203167497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.62772,40.812881,-96.62772,40.812881",
     "geom:latitude":40.812881,
     "geom:longitude":-96.62772,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"285 S 68th Street Pl Suite 319",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -68,10 +69,11 @@
         }
     ],
     "wof:id":203167497,
-    "wof:lastmodified":1449025923,
+    "wof:lastmodified":1466666555,
     "wof:name":"Garrison Counseling",
     "wof:parent_id":85878725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -84,6 +86,11 @@
         "counselor"
     ]
 },
-  "bbox": [-96.62772,40.812881,-96.62772,40.812881],
+  "bbox": [
+    -96.62772,
+    40.812881,
+    -96.62772,
+    40.812881
+],
   "geometry": {"coordinates":[-96.62772,40.812881],"type":"Point"}
 }

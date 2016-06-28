@@ -2,13 +2,14 @@
   "id": 202992427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.082001,41.0779,-96.082001,41.0779",
     "geom:latitude":41.0779,
     "geom:longitude":-96.082001,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11106 Mitchell Rd",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":202992427,
-    "wof:lastmodified":1449061317,
+    "wof:lastmodified":1466665585,
     "wof:name":"A Doggie Dude Ranch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "sitting"
     ]
 },
-  "bbox": [-96.082001,41.0779,-96.082001,41.0779],
-  "geometry": {"coordinates":[-96.082001,41.0779],"type":"Point"}
+  "bbox": [
+    -96.082001,
+    41.0779,
+    -96.082001,
+    41.0779
+],
+  "geometry": {"coordinates":[-96.08200100000001,41.0779],"type":"Point"}
 }

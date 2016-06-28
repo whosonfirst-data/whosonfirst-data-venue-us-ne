@@ -2,13 +2,14 @@
   "id": 203112797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.044555,41.201305,-96.044555,41.201305",
     "geom:latitude":41.201305,
     "geom:longitude":-96.044555,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8517 Park Dr",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -70,10 +71,11 @@
         }
     ],
     "wof:id":203112797,
-    "wof:lastmodified":1449025785,
+    "wof:lastmodified":1466666270,
     "wof:name":"Allstate Insurance Company - Paul Stuke",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -85,6 +87,11 @@
         "renter"
     ]
 },
-  "bbox": [-96.044555,41.201305,-96.044555,41.201305],
+  "bbox": [
+    -96.044555,
+    41.201305,
+    -96.044555,
+    41.201305
+],
   "geometry": {"coordinates":[-96.044555,41.201305],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203035787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.9328,41.2556,-95.9328,41.2556",
     "geom:latitude":41.2556,
     "geom:longitude":-95.9328,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1216 Howard St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203035787,
-    "wof:lastmodified":1449026471,
+    "wof:lastmodified":1466665792,
     "wof:name":"Body In Motion",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.9328,41.2556,-95.9328,41.2556],
+  "bbox": [
+    -95.9328,
+    41.2556,
+    -95.9328,
+    41.2556
+],
   "geometry": {"coordinates":[-95.9328,41.2556],"type":"Point"}
 }

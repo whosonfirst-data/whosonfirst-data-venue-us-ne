@@ -2,13 +2,14 @@
   "id": 203034929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.942052,41.254101,-95.942052,41.254101",
     "geom:latitude":41.254101,
     "geom:longitude":-95.942052,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"619 S 20th St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203034929,
-    "wof:lastmodified":1449025155,
+    "wof:lastmodified":1466665784,
     "wof:name":"Smeall Aaron PC Llo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.942052,41.254101,-95.942052,41.254101],
+  "bbox": [
+    -95.942052,
+    41.254101,
+    -95.942052,
+    41.254101
+],
   "geometry": {"coordinates":[-95.942052,41.254101],"type":"Point"}
 }

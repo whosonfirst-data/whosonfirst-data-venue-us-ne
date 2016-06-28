@@ -2,13 +2,14 @@
   "id": 203063125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.992188,41.250556,-95.992188,41.250556",
     "geom:latitude":41.250556,
     "geom:longitude":-95.992188,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"923 S 51st St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203063125,
-    "wof:lastmodified":1449025104,
+    "wof:lastmodified":1466665966,
     "wof:name":"America 24 Hour Locksmith",
     "wof:parent_id":85867055,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "key"
     ]
 },
-  "bbox": [-95.992188,41.250556,-95.992188,41.250556],
+  "bbox": [
+    -95.992188,
+    41.250556,
+    -95.992188,
+    41.250556
+],
   "geometry": {"coordinates":[-95.992188,41.250556],"type":"Point"}
 }

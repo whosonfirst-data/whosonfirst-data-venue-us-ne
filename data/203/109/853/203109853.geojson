@@ -2,13 +2,14 @@
   "id": 203109853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.046708,41.322296,-96.046708,41.322296",
     "geom:latitude":41.322296,
     "geom:longitude":-96.046708,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8625 Whitmore Cir Ste 124",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":203109853,
-    "wof:lastmodified":1449025578,
+    "wof:lastmodified":1466666242,
     "wof:name":"The Car Shop",
     "wof:parent_id":85872505,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "truck"
     ]
 },
-  "bbox": [-96.046708,41.322296,-96.046708,41.322296],
+  "bbox": [
+    -96.046708,
+    41.322296,
+    -96.046708,
+    41.322296
+],
   "geometry": {"coordinates":[-96.046708,41.322296],"type":"Point"}
 }

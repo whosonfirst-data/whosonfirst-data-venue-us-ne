@@ -2,13 +2,14 @@
   "id": 203148907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.138785,41.274348,-96.138785,41.274348",
     "geom:latitude":41.274348,
     "geom:longitude":-96.138785,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1710 N 144th St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":203148907,
-    "wof:lastmodified":1449026550,
+    "wof:lastmodified":1466666474,
     "wof:name":"Longo Alfred T",
     "wof:parent_id":85806957,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentists-orthodontists"
     ]
 },
-  "bbox": [-96.138785,41.274348,-96.138785,41.274348],
+  "bbox": [
+    -96.138785,
+    41.274348,
+    -96.138785,
+    41.274348
+],
   "geometry": {"coordinates":[-96.138785,41.274348],"type":"Point"}
 }

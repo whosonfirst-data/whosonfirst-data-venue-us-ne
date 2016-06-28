@@ -2,13 +2,14 @@
   "id": 203132873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.9916,41.259701,-95.9916,41.259701",
     "geom:latitude":41.259701,
     "geom:longitude":-95.9916,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5060 Dodge St Ste 2001",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":203132873,
-    "wof:lastmodified":1449025838,
+    "wof:lastmodified":1466666409,
     "wof:name":"Carlson West Povondra Architects",
     "wof:parent_id":85867055,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.9916,41.259701,-95.9916,41.259701],
-  "geometry": {"coordinates":[-95.9916,41.259701],"type":"Point"}
+  "bbox": [
+    -95.9916,
+    41.259701,
+    -95.9916,
+    41.259701
+],
+  "geometry": {"coordinates":[-95.99160000000001,41.259701],"type":"Point"}
 }

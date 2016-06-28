@@ -2,13 +2,14 @@
   "id": 203125223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.966066,41.257746,-95.966066,41.257746",
     "geom:latitude":41.257746,
     "geom:longitude":-95.966066,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3578 Farnam St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":203125223,
-    "wof:lastmodified":1449026805,
+    "wof:lastmodified":1466666332,
     "wof:name":"Huber Haus",
     "wof:parent_id":85872525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.966066,41.257746,-95.966066,41.257746],
+  "bbox": [
+    -95.966066,
+    41.257746,
+    -95.966066,
+    41.257746
+],
   "geometry": {"coordinates":[-95.966066,41.257746],"type":"Point"}
 }

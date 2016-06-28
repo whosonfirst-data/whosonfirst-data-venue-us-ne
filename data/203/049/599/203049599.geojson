@@ -2,13 +2,14 @@
   "id": 203049599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.006699,41.285099,-96.006699,41.285099",
     "geom:latitude":41.285099,
     "geom:longitude":-96.006699,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6064 Maple St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203049599,
-    "wof:lastmodified":1449025867,
+    "wof:lastmodified":1466665899,
     "wof:name":"Espana",
     "wof:parent_id":85872535,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "spanish"
     ]
 },
-  "bbox": [-96.006699,41.285099,-96.006699,41.285099],
+  "bbox": [
+    -96.006699,
+    41.285099,
+    -96.006699,
+    41.285099
+],
   "geometry": {"coordinates":[-96.006699,41.285099],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203056243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.9757,41.228298,-95.9757,41.228298",
     "geom:latitude":41.228298,
     "geom:longitude":-95.9757,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3427 S 42nd St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203056243,
-    "wof:lastmodified":1449025441,
+    "wof:lastmodified":1466665927,
     "wof:name":"Rainbow Kids",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-95.9757,41.228298,-95.9757,41.228298],
+  "bbox": [
+    -95.9757,
+    41.228298,
+    -95.9757,
+    41.228298
+],
   "geometry": {"coordinates":[-95.9757,41.228298],"type":"Point"}
 }

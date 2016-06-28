@@ -2,13 +2,14 @@
   "id": 203108293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.161893,41.262703,-96.161893,41.262703",
     "geom:latitude":41.262703,
     "geom:longitude":-96.161893,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15821 W Dodge Rd Suite 161",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":203108293,
-    "wof:lastmodified":1449024978,
+    "wof:lastmodified":1466666232,
     "wof:name":"RE/MAX Advantage Real Estate",
     "wof:parent_id":85806957,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.161893,41.262703,-96.161893,41.262703],
-  "geometry": {"coordinates":[-96.161893,41.262703],"type":"Point"}
+  "bbox": [
+    -96.161893,
+    41.262703,
+    -96.161893,
+    41.262703
+],
+  "geometry": {"coordinates":[-96.16189300000001,41.262703],"type":"Point"}
 }

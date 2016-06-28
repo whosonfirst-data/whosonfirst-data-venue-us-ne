@@ -2,13 +2,14 @@
   "id": 202995813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.930723,41.256384,-95.930723,41.256384",
     "geom:latitude":41.256384,
     "geom:longitude":-95.930723,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1113 Harney St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202995813,
-    "wof:lastmodified":1449062365,
+    "wof:lastmodified":1466665588,
     "wof:name":"Cullan David J Atty At Law",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.930723,41.256384,-95.930723,41.256384],
+  "bbox": [
+    -95.930723,
+    41.256384,
+    -95.930723,
+    41.256384
+],
   "geometry": {"coordinates":[-95.930723,41.256384],"type":"Point"}
 }

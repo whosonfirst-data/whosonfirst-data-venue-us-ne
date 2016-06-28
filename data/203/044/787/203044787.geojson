@@ -2,13 +2,14 @@
   "id": 203044787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.0037,41.285099,-96.0037,41.285099",
     "geom:latitude":41.285099,
     "geom:longitude":-96.0037,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5908 Maple St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":203044787,
-    "wof:lastmodified":1449025924,
+    "wof:lastmodified":1466665856,
     "wof:name":"Max I Walker Cleaners & Launderers",
     "wof:parent_id":85872535,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.0037,41.285099,-96.0037,41.285099],
-  "geometry": {"coordinates":[-96.0037,41.285099],"type":"Point"}
+  "bbox": [
+    -96.0037,
+    41.285099,
+    -96.0037,
+    41.285099
+],
+  "geometry": {"coordinates":[-96.00369999999999,41.285099],"type":"Point"}
 }

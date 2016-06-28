@@ -2,13 +2,14 @@
   "id": 203145045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.13702,41.247549,-96.13702,41.247549",
     "geom:latitude":41.247549,
     "geom:longitude":-96.13702,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14216 Pierce Plz",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -79,10 +80,11 @@
         }
     ],
     "wof:id":203145045,
-    "wof:lastmodified":1449025489,
+    "wof:lastmodified":1466669663,
     "wof:name":"Dodds, Stephen R - Farmers Insurance Group",
     "wof:parent_id":85806957,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -96,6 +98,11 @@
         "casualty"
     ]
 },
-  "bbox": [-96.13702,41.247549,-96.13702,41.247549],
-  "geometry": {"coordinates":[-96.13702,41.247549],"type":"Point"}
+  "bbox": [
+    -96.13702,
+    41.247549,
+    -96.13702,
+    41.247549
+],
+  "geometry": {"coordinates":[-96.13702000000001,41.247549],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203055981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.975835,41.241212,-95.975835,41.241212",
     "geom:latitude":41.241212,
     "geom:longitude":-95.975835,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1941 S 42nd St Ste 104",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":203055981,
-    "wof:lastmodified":1449025354,
+    "wof:lastmodified":1466665934,
     "wof:name":"Classy Auto",
     "wof:parent_id":85872523,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "consultant"
     ]
 },
-  "bbox": [-95.975835,41.241212,-95.975835,41.241212],
+  "bbox": [
+    -95.975835,
+    41.241212,
+    -95.975835,
+    41.241212
+],
   "geometry": {"coordinates":[-95.975835,41.241212],"type":"Point"}
 }

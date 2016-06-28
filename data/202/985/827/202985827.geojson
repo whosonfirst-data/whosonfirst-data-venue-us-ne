@@ -2,13 +2,14 @@
   "id": 202985827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.926613,41.17646,-95.926613,41.17646",
     "geom:latitude":41.17646,
     "geom:longitude":-95.926613,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1000 Fort Crook Rd N # 100",
     "sg:city":"Bellevue",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":202985827,
-    "wof:lastmodified":1449061378,
+    "wof:lastmodified":1466665577,
     "wof:name":"Mba Suppliers, Inc",
     "wof:parent_id":85804025,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "supplies-wholesale"
     ]
 },
-  "bbox": [-95.926613,41.17646,-95.926613,41.17646],
+  "bbox": [
+    -95.926613,
+    41.17646,
+    -95.926613,
+    41.17646
+],
   "geometry": {"coordinates":[-95.926613,41.17646],"type":"Point"}
 }

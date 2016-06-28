@@ -2,13 +2,14 @@
   "id": 202989785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.1689,40.9981,-96.1689,40.9981",
     "geom:latitude":40.9981,
     "geom:longitude":-96.1689,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"37651 Mahoney Rd",
     "sg:city":"Louisville",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":202989785,
-    "wof:lastmodified":1449061959,
+    "wof:lastmodified":1466669579,
     "wof:name":"Frank's Body Shop Auto & Truck Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "shop"
     ]
 },
-  "bbox": [-96.1689,40.9981,-96.1689,40.9981],
-  "geometry": {"coordinates":[-96.1689,40.9981],"type":"Point"}
+  "bbox": [
+    -96.1689,
+    40.9981,
+    -96.1689,
+    40.9981
+],
+  "geometry": {"coordinates":[-96.16889999999999,40.9981],"type":"Point"}
 }

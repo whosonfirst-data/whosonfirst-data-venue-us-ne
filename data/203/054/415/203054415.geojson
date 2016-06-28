@@ -2,13 +2,14 @@
   "id": 203054415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.955628,41.244245,-95.955628,41.244245",
     "geom:latitude":41.244245,
     "geom:longitude":-95.955628,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1603 Park Ave",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203054415,
-    "wof:lastmodified":1449025813,
+    "wof:lastmodified":1466665915,
     "wof:name":"America 24 Hour Locksmith",
     "wof:parent_id":85872527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "key"
     ]
 },
-  "bbox": [-95.955628,41.244245,-95.955628,41.244245],
+  "bbox": [
+    -95.955628,
+    41.244245,
+    -95.955628,
+    41.244245
+],
   "geometry": {"coordinates":[-95.955628,41.244245],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203143807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.132178,41.228276,-96.132178,41.228276",
     "geom:latitude":41.228276,
     "geom:longitude":-96.132178,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3202 Oak View Dr",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -101,10 +102,11 @@
         }
     ],
     "wof:id":203143807,
-    "wof:lastmodified":1449026521,
+    "wof:lastmodified":1466666453,
     "wof:name":"JCPenney Custom Decorating",
     "wof:parent_id":85872531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -125,6 +127,11 @@
         "decorator"
     ]
 },
-  "bbox": [-96.132178,41.228276,-96.132178,41.228276],
+  "bbox": [
+    -96.132178,
+    41.228276,
+    -96.132178,
+    41.228276
+],
   "geometry": {"coordinates":[-96.132178,41.228276],"type":"Point"}
 }

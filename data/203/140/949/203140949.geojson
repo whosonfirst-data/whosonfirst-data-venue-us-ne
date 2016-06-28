@@ -2,13 +2,14 @@
   "id": 203140949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.094006,41.197564,-96.094006,41.197564",
     "geom:latitude":41.197564,
     "geom:longitude":-96.094006,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5921 S 118th Cir",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203140949,
-    "wof:lastmodified":1449025208,
+    "wof:lastmodified":1466666446,
     "wof:name":"Best Of Omaha",
     "wof:parent_id":85872531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "magazines-distributors"
     ]
 },
-  "bbox": [-96.094006,41.197564,-96.094006,41.197564],
-  "geometry": {"coordinates":[-96.094006,41.197564],"type":"Point"}
+  "bbox": [
+    -96.094006,
+    41.197564,
+    -96.094006,
+    41.197564
+],
+  "geometry": {"coordinates":[-96.09400599999999,41.197564],"type":"Point"}
 }

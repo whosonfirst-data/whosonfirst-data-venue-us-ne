@@ -2,13 +2,14 @@
   "id": 202986187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.925074,41.165784,-95.925074,41.165784",
     "geom:latitude":41.165784,
     "geom:longitude":-95.925074,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"513 FORT CROOK RD N",
     "sg:city":"BELLEVUE",
     "sg:classifiers":[
@@ -72,10 +73,11 @@
         }
     ],
     "wof:id":202986187,
-    "wof:lastmodified":1449062173,
+    "wof:lastmodified":1466665575,
     "wof:name":"Angels, Flowers and Gifts",
     "wof:parent_id":85804025,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -88,6 +90,11 @@
         "banquet"
     ]
 },
-  "bbox": [-95.925074,41.165784,-95.925074,41.165784],
+  "bbox": [
+    -95.925074,
+    41.165784,
+    -95.925074,
+    41.165784
+],
   "geometry": {"coordinates":[-95.925074,41.165784],"type":"Point"}
 }

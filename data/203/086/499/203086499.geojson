@@ -2,13 +2,14 @@
   "id": 203086499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.907474,41.307602,-95.907474,41.307602",
     "geom:latitude":41.307602,
     "geom:longitude":-95.907474,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1810 Fort Ct",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203086499,
-    "wof:lastmodified":1449026250,
+    "wof:lastmodified":1466666089,
     "wof:name":"Fedex Express Airport Facility",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "notary"
     ]
 },
-  "bbox": [-95.907474,41.307602,-95.907474,41.307602],
-  "geometry": {"coordinates":[-95.907474,41.307602],"type":"Point"}
+  "bbox": [
+    -95.907474,
+    41.307602,
+    -95.907474,
+    41.307602
+],
+  "geometry": {"coordinates":[-95.90747399999999,41.307602],"type":"Point"}
 }

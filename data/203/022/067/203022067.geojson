@@ -2,13 +2,14 @@
   "id": 203022067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.937202,41.257198,-95.937202,41.257198",
     "geom:latitude":41.257198,
     "geom:longitude":-95.937202,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"187 Pacific",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":203022067,
-    "wof:lastmodified":1449025544,
+    "wof:lastmodified":1466665668,
     "wof:name":"Shadow Ridge Country Club",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.937202,41.257198,-95.937202,41.257198],
+  "bbox": [
+    -95.937202,
+    41.257198,
+    -95.937202,
+    41.257198
+],
   "geometry": {"coordinates":[-95.937202,41.257198],"type":"Point"}
 }

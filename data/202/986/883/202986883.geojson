@@ -2,13 +2,14 @@
   "id": 202986883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.122947,41.433005,-96.122947,41.433005",
     "geom:latitude":41.433005,
     "geom:longitude":-96.122947,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3764 State Highway 133",
     "sg:city":"Blair",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202986883,
-    "wof:lastmodified":1449062177,
+    "wof:lastmodified":1466665575,
     "wof:name":"Santa's Woods",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "arcade"
     ]
 },
-  "bbox": [-96.122947,41.433005,-96.122947,41.433005],
+  "bbox": [
+    -96.122947,
+    41.433005,
+    -96.122947,
+    41.433005
+],
   "geometry": {"coordinates":[-96.122947,41.433005],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202992303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.161903,41.0009,-96.161903,41.0009",
     "geom:latitude":41.0009,
     "geom:longitude":-96.161903,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"30801 E Park Hwy",
     "sg:city":"South Bend",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":202992303,
-    "wof:lastmodified":1449061315,
+    "wof:lastmodified":1466665583,
     "wof:name":"Round the Bend Steakhouse & Saloon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "nightlife"
     ]
 },
-  "bbox": [-96.161903,41.0009,-96.161903,41.0009],
+  "bbox": [
+    -96.161903,
+    41.0009,
+    -96.161903,
+    41.0009
+],
   "geometry": {"coordinates":[-96.161903,41.0009],"type":"Point"}
 }

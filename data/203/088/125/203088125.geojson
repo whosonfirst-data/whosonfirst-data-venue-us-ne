@@ -2,13 +2,14 @@
   "id": 203088125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.959143,41.290362,-95.959143,41.290362",
     "geom:latitude":41.290362,
     "geom:longitude":-95.959143,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3211 Pinkney St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203088125,
-    "wof:lastmodified":1449026413,
+    "wof:lastmodified":1466666096,
     "wof:name":"Fellowship Christian Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.959143,41.290362,-95.959143,41.290362],
+  "bbox": [
+    -95.959143,
+    41.290362,
+    -95.959143,
+    41.290362
+],
   "geometry": {"coordinates":[-95.959143,41.290362],"type":"Point"}
 }

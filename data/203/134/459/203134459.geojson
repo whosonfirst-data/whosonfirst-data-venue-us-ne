@@ -2,13 +2,14 @@
   "id": 203134459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.990444,41.26508,-95.990444,41.26508",
     "geom:latitude":41.26508,
     "geom:longitude":-95.990444,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5008 Underwood Ave Ste 1",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":203134459,
-    "wof:lastmodified":1449026762,
+    "wof:lastmodified":1466666405,
     "wof:name":"Janine Mcclintock Studios",
     "wof:parent_id":85867055,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "darkroom"
     ]
 },
-  "bbox": [-95.990444,41.26508,-95.990444,41.26508],
+  "bbox": [
+    -95.990444,
+    41.26508,
+    -95.990444,
+    41.26508
+],
   "geometry": {"coordinates":[-95.990444,41.26508],"type":"Point"}
 }

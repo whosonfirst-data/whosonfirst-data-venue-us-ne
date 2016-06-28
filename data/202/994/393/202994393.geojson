@@ -2,13 +2,14 @@
   "id": 202994393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.96932,41.257512,-95.96932,41.257512",
     "geom:latitude":41.257512,
     "geom:longitude":-95.96932,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"302 S 38th St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202994393,
-    "wof:lastmodified":1449060224,
+    "wof:lastmodified":1466665586,
     "wof:name":"McFoster's Natural Kind Cafe",
     "wof:parent_id":85872525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "vegan"
     ]
 },
-  "bbox": [-95.96932,41.257512,-95.96932,41.257512],
+  "bbox": [
+    -95.96932,
+    41.257512,
+    -95.96932,
+    41.257512
+],
   "geometry": {"coordinates":[-95.96932,41.257512],"type":"Point"}
 }

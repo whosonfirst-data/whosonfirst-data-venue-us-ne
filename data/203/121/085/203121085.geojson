@@ -2,13 +2,14 @@
   "id": 203121085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.956828,41.265808,-95.956828,41.265808",
     "geom:latitude":41.265808,
     "geom:longitude":-95.956828,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3006 Webster St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":203121085,
-    "wof:lastmodified":1449026415,
+    "wof:lastmodified":1466666303,
     "wof:name":"Joseph D Lynch Md",
     "wof:parent_id":85872525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "family"
     ]
 },
-  "bbox": [-95.956828,41.265808,-95.956828,41.265808],
+  "bbox": [
+    -95.956828,
+    41.265808,
+    -95.956828,
+    41.265808
+],
   "geometry": {"coordinates":[-95.956828,41.265808],"type":"Point"}
 }

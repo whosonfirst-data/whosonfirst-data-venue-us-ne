@@ -2,13 +2,14 @@
   "id": 203112177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.024767,41.227194,-96.024767,41.227194",
     "geom:latitude":41.227194,
     "geom:longitude":-96.024767,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7253 Grover St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203112177,
-    "wof:lastmodified":1449025786,
+    "wof:lastmodified":1466666262,
     "wof:name":"Sirius Nutrition",
     "wof:parent_id":85867059,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "nutritionist"
     ]
 },
-  "bbox": [-96.024767,41.227194,-96.024767,41.227194],
+  "bbox": [
+    -96.024767,
+    41.227194,
+    -96.024767,
+    41.227194
+],
   "geometry": {"coordinates":[-96.024767,41.227194],"type":"Point"}
 }

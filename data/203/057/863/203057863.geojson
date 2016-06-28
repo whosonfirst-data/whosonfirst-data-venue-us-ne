@@ -2,13 +2,14 @@
   "id": 203057863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.990402,41.234402,-95.990402,41.234402",
     "geom:latitude":41.234402,
     "geom:longitude":-95.990402,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2620 S 50th St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203057863,
-    "wof:lastmodified":1449025861,
+    "wof:lastmodified":1466665942,
     "wof:name":"Pyramid Roofing Inc",
     "wof:parent_id":85872513,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "roofing"
     ]
 },
-  "bbox": [-95.990402,41.234402,-95.990402,41.234402],
+  "bbox": [
+    -95.990402,
+    41.234402,
+    -95.990402,
+    41.234402
+],
   "geometry": {"coordinates":[-95.990402,41.234402],"type":"Point"}
 }

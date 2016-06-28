@@ -2,13 +2,14 @@
   "id": 203053337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.9674,41.237999,-95.9674,41.237999",
     "geom:latitude":41.237999,
     "geom:longitude":-95.9674,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3626 Martha St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203053337,
-    "wof:lastmodified":1449025295,
+    "wof:lastmodified":1466665912,
     "wof:name":"Nagl Mfg Co",
     "wof:parent_id":85872527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "supply"
     ]
 },
-  "bbox": [-95.9674,41.237999,-95.9674,41.237999],
+  "bbox": [
+    -95.9674,
+    41.237999,
+    -95.9674,
+    41.237999
+],
   "geometry": {"coordinates":[-95.9674,41.237999],"type":"Point"}
 }

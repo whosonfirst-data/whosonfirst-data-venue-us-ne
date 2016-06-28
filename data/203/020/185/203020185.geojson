@@ -2,13 +2,14 @@
   "id": 203020185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.937467,41.257568,-95.937467,41.257568",
     "geom:latitude":41.257568,
     "geom:longitude":-95.937467,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1623 Farnam St Ste 830",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":203020185,
-    "wof:lastmodified":1449025797,
+    "wof:lastmodified":1466665662,
     "wof:name":"Farnam Group Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "management"
     ]
 },
-  "bbox": [-95.937467,41.257568,-95.937467,41.257568],
+  "bbox": [
+    -95.937467,
+    41.257568,
+    -95.937467,
+    41.257568
+],
   "geometry": {"coordinates":[-95.937467,41.257568],"type":"Point"}
 }

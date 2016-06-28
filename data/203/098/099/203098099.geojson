@@ -2,13 +2,14 @@
   "id": 203098099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.033079,41.26329,-96.033079,41.26329",
     "geom:latitude":41.26329,
     "geom:longitude":-96.033079,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7613 Cass St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":203098099,
-    "wof:lastmodified":1449026669,
+    "wof:lastmodified":1466666164,
     "wof:name":"CitiFinancial",
     "wof:parent_id":85872509,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "loan"
     ]
 },
-  "bbox": [-96.033079,41.26329,-96.033079,41.26329],
+  "bbox": [
+    -96.033079,
+    41.26329,
+    -96.033079,
+    41.26329
+],
   "geometry": {"coordinates":[-96.033079,41.26329],"type":"Point"}
 }

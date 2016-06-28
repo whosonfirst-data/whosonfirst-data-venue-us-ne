@@ -2,13 +2,14 @@
   "id": 203148077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.014343,41.317546,-96.014343,41.317546",
     "geom:latitude":41.317546,
     "geom:longitude":-96.014343,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6655 Sorensen Pkwy",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":203148077,
-    "wof:lastmodified":1449026546,
+    "wof:lastmodified":1466666458,
     "wof:name":"Seig Pharmacy",
     "wof:parent_id":85805755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "card"
     ]
 },
-  "bbox": [-96.014343,41.317546,-96.014343,41.317546],
+  "bbox": [
+    -96.014343,
+    41.317546,
+    -96.014343,
+    41.317546
+],
   "geometry": {"coordinates":[-96.014343,41.317546],"type":"Point"}
 }

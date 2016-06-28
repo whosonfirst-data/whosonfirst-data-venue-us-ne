@@ -2,13 +2,14 @@
   "id": 203062219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.009364,41.239457,-96.009364,41.239457",
     "geom:latitude":41.239457,
     "geom:longitude":-96.009364,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2141 S 63rd St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":203062219,
-    "wof:lastmodified":1449026738,
+    "wof:lastmodified":1466665964,
     "wof:name":"Family Practice Dentistry",
     "wof:parent_id":85872513,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.009364,41.239457,-96.009364,41.239457],
-  "geometry": {"coordinates":[-96.009364,41.239457],"type":"Point"}
+  "bbox": [
+    -96.009364,
+    41.239457,
+    -96.009364,
+    41.239457
+],
+  "geometry": {"coordinates":[-96.00936400000001,41.239457],"type":"Point"}
 }

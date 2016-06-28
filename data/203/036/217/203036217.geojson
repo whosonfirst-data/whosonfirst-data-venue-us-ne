@@ -2,13 +2,14 @@
   "id": 203036217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.934869,41.253357,-95.934869,41.253357",
     "geom:latitude":41.253357,
     "geom:longitude":-95.934869,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1425 Jones St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203036217,
-    "wof:lastmodified":1449025348,
+    "wof:lastmodified":1466665797,
     "wof:name":"Jeffrey Paul C Archt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.934869,41.253357,-95.934869,41.253357],
-  "geometry": {"coordinates":[-95.934869,41.253357],"type":"Point"}
+  "bbox": [
+    -95.934869,
+    41.253357,
+    -95.934869,
+    41.253357
+],
+  "geometry": {"coordinates":[-95.93486900000001,41.253357],"type":"Point"}
 }

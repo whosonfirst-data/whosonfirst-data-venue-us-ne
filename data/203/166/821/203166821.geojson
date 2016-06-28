@@ -2,13 +2,14 @@
   "id": 203166821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.705242,40.810322,-96.705242,40.810322",
     "geom:latitude":40.810322,
     "geom:longitude":-96.705242,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1117 L St",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":203166821,
-    "wof:lastmodified":1449026011,
+    "wof:lastmodified":1466666558,
     "wof:name":"Lincoln Auto Service Co",
     "wof:parent_id":85878699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "tire"
     ]
 },
-  "bbox": [-96.705242,40.810322,-96.705242,40.810322],
+  "bbox": [
+    -96.705242,
+    40.810322,
+    -96.705242,
+    40.810322
+],
   "geometry": {"coordinates":[-96.705242,40.810322],"type":"Point"}
 }

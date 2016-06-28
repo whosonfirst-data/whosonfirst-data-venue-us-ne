@@ -2,13 +2,14 @@
   "id": 203136245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.023881,41.27803,-96.023881,41.27803",
     "geom:latitude":41.27803,
     "geom:longitude":-96.023881,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2040 N 72nd St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":203136245,
-    "wof:lastmodified":1449026856,
+    "wof:lastmodified":1466666419,
     "wof:name":"National Coin & Stamp Co",
     "wof:parent_id":85872507,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "coin"
     ]
 },
-  "bbox": [-96.023881,41.27803,-96.023881,41.27803],
+  "bbox": [
+    -96.023881,
+    41.27803,
+    -96.023881,
+    41.27803
+],
   "geometry": {"coordinates":[-96.023881,41.27803],"type":"Point"}
 }

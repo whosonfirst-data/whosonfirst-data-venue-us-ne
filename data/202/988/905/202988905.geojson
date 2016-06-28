@@ -2,13 +2,14 @@
   "id": 202988905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.162156,40.998625,-96.162156,40.998625",
     "geom:latitude":40.998625,
     "geom:longitude":-96.162156,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"409 Main St",
     "sg:city":"Louisville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202988905,
-    "wof:lastmodified":1449060985,
+    "wof:lastmodified":1466665650,
     "wof:name":"Dynatron Digital Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "repair"
     ]
 },
-  "bbox": [-96.162156,40.998625,-96.162156,40.998625],
+  "bbox": [
+    -96.162156,
+    40.998625,
+    -96.162156,
+    40.998625
+],
   "geometry": {"coordinates":[-96.162156,40.998625],"type":"Point"}
 }

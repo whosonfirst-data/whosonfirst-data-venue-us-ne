@@ -2,13 +2,14 @@
   "id": 203110413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.02382,41.358933,-96.02382,41.358933",
     "geom:latitude":41.358933,
     "geom:longitude":-96.02382,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11212 N 72nd St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203110413,
-    "wof:lastmodified":1449025541,
+    "wof:lastmodified":1466666248,
     "wof:name":"Construction Labors",
     "wof:parent_id":85872505,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.02382,41.358933,-96.02382,41.358933],
+  "bbox": [
+    -96.02382,
+    41.358933,
+    -96.02382,
+    41.358933
+],
   "geometry": {"coordinates":[-96.02382,41.358933],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203097895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.06501,41.266022,-96.06501,41.266022",
     "geom:latitude":41.266022,
     "geom:longitude":-96.06501,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"633 N 98th St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -64,10 +65,11 @@
         }
     ],
     "wof:id":203097895,
-    "wof:lastmodified":1449025658,
+    "wof:lastmodified":1466666171,
     "wof:name":"Clocktower Chiropractic",
     "wof:parent_id":85867061,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "chiropractic"
     ]
 },
-  "bbox": [-96.06501,41.266022,-96.06501,41.266022],
+  "bbox": [
+    -96.06501,
+    41.266022,
+    -96.06501,
+    41.266022
+],
   "geometry": {"coordinates":[-96.06501,41.266022],"type":"Point"}
 }

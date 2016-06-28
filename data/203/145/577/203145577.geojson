@@ -2,13 +2,14 @@
   "id": 203145577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.117828,41.234039,-96.117828,41.234039",
     "geom:latitude":41.234039,
     "geom:longitude":-96.117828,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13015 W Center Rd",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -57,16 +58,22 @@
         }
     ],
     "wof:id":203145577,
-    "wof:lastmodified":1449025490,
+    "wof:lastmodified":1466666457,
     "wof:name":"Dietze Music",
     "wof:parent_id":85872531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "violin"
     ]
 },
-  "bbox": [-96.117828,41.234039,-96.117828,41.234039],
+  "bbox": [
+    -96.117828,
+    41.234039,
+    -96.117828,
+    41.234039
+],
   "geometry": {"coordinates":[-96.117828,41.234039],"type":"Point"}
 }

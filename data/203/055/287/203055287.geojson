@@ -2,13 +2,14 @@
   "id": 203055287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.956637,41.252273,-95.956637,41.252273",
     "geom:latitude":41.252273,
     "geom:longitude":-95.956637,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3003 Leavenworth St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":203055287,
-    "wof:lastmodified":1449025348,
+    "wof:lastmodified":1466665921,
     "wof:name":"Hrh Labor Services Llc",
     "wof:parent_id":85872527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.956637,41.252273,-95.956637,41.252273],
+  "bbox": [
+    -95.956637,
+    41.252273,
+    -95.956637,
+    41.252273
+],
   "geometry": {"coordinates":[-95.956637,41.252273],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203130807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.990402,41.259701,-95.990402,41.259701",
     "geom:latitude":41.259701,
     "geom:longitude":-95.990402,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5006 Dodge St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203130807,
-    "wof:lastmodified":1449025566,
+    "wof:lastmodified":1466666384,
     "wof:name":"Deshazer Douglas O DDS",
     "wof:parent_id":85867055,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "oral"
     ]
 },
-  "bbox": [-95.990402,41.259701,-95.990402,41.259701],
+  "bbox": [
+    -95.990402,
+    41.259701,
+    -95.990402,
+    41.259701
+],
   "geometry": {"coordinates":[-95.990402,41.259701],"type":"Point"}
 }

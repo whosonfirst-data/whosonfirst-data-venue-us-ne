@@ -2,13 +2,14 @@
   "id": 203096299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.974239,41.354148,-95.974239,41.354148",
     "geom:latitude":41.354148,
     "geom:longitude":-95.974239,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10405 Calhoun Rd",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203096299,
-    "wof:lastmodified":1449025531,
+    "wof:lastmodified":1466666154,
     "wof:name":"Alpine Inn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "wing"
     ]
 },
-  "bbox": [-95.974239,41.354148,-95.974239,41.354148],
+  "bbox": [
+    -95.974239,
+    41.354148,
+    -95.974239,
+    41.354148
+],
   "geometry": {"coordinates":[-95.974239,41.354148],"type":"Point"}
 }

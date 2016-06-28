@@ -2,13 +2,14 @@
   "id": 203073105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.921502,41.244713,-95.921502,41.244713",
     "geom:latitude":41.244713,
     "geom:longitude":-95.921502,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"407 Woolworth Ave",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203073105,
-    "wof:lastmodified":1449025202,
+    "wof:lastmodified":1466666044,
     "wof:name":"Emergency A Locksmith",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "key"
     ]
 },
-  "bbox": [-95.921502,41.244713,-95.921502,41.244713],
+  "bbox": [
+    -95.921502,
+    41.244713,
+    -95.921502,
+    41.244713
+],
   "geometry": {"coordinates":[-95.921502,41.244713],"type":"Point"}
 }

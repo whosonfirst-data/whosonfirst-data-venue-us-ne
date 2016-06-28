@@ -2,13 +2,14 @@
   "id": 203021185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.939861,41.255009,-95.939861,41.255009",
     "geom:latitude":41.255009,
     "geom:longitude":-95.939861,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1811 Saint Marys Ave",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -65,10 +66,11 @@
         }
     ],
     "wof:id":203021185,
-    "wof:lastmodified":1449026156,
+    "wof:lastmodified":1466665667,
     "wof:name":"Viking Glass",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -79,6 +81,11 @@
         "windshield"
     ]
 },
-  "bbox": [-95.939861,41.255009,-95.939861,41.255009],
-  "geometry": {"coordinates":[-95.939861,41.255009],"type":"Point"}
+  "bbox": [
+    -95.939861,
+    41.255009,
+    -95.939861,
+    41.255009
+],
+  "geometry": {"coordinates":[-95.93986099999999,41.255009],"type":"Point"}
 }

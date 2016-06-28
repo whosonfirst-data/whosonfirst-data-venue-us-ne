@@ -2,13 +2,14 @@
   "id": 203151957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.118319,41.291057,-96.118319,41.291057",
     "geom:latitude":41.291057,
     "geom:longitude":-96.118319,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13110 Birch Dr Ste 100",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":203151957,
-    "wof:lastmodified":1449024958,
+    "wof:lastmodified":1466666486,
     "wof:name":"Bianco Ristorante Italiano",
     "wof:parent_id":85872503,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "loss"
     ]
 },
-  "bbox": [-96.118319,41.291057,-96.118319,41.291057],
+  "bbox": [
+    -96.118319,
+    41.291057,
+    -96.118319,
+    41.291057
+],
   "geometry": {"coordinates":[-96.118319,41.291057],"type":"Point"}
 }

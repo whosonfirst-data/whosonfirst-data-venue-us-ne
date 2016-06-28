@@ -2,13 +2,14 @@
   "id": 202986821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.231966,41.280687,-96.231966,41.280687",
     "geom:latitude":41.280687,
     "geom:longitude":-96.231966,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20209 Park Rd",
     "sg:city":"Elkhorn",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":202986821,
-    "wof:lastmodified":1449062177,
+    "wof:lastmodified":1466665575,
     "wof:name":"Chester Anderson And Sons Inc",
     "wof:parent_id":85868921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "contractor"
     ]
 },
-  "bbox": [-96.231966,41.280687,-96.231966,41.280687],
+  "bbox": [
+    -96.231966,
+    41.280687,
+    -96.231966,
+    41.280687
+],
   "geometry": {"coordinates":[-96.231966,41.280687],"type":"Point"}
 }

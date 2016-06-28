@@ -2,13 +2,14 @@
   "id": 203098295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.058807,41.263458,-96.058807,41.263458",
     "geom:latitude":41.263458,
     "geom:longitude":-96.058807,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9394 W Dodge Rd",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -66,10 +67,11 @@
         }
     ],
     "wof:id":203098295,
-    "wof:lastmodified":1449026669,
+    "wof:lastmodified":1466666168,
     "wof:name":"Cosentry",
     "wof:parent_id":85867061,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -85,6 +87,11 @@
         "developer"
     ]
 },
-  "bbox": [-96.058807,41.263458,-96.058807,41.263458],
+  "bbox": [
+    -96.058807,
+    41.263458,
+    -96.058807,
+    41.263458
+],
   "geometry": {"coordinates":[-96.058807,41.263458],"type":"Point"}
 }

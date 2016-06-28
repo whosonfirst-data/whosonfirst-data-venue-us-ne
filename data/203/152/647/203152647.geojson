@@ -2,13 +2,14 @@
   "id": 203152647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.942429,41.263748,-95.942429,41.263748",
     "geom:latitude":41.263748,
     "geom:longitude":-95.942429,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"Creighton University Harper Center 20th and Cass",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203152647,
-    "wof:lastmodified":1449026393,
+    "wof:lastmodified":1466666482,
     "wof:name":"Billy Blue's Alumni Grill",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "burger"
     ]
 },
-  "bbox": [-95.942429,41.263748,-95.942429,41.263748],
+  "bbox": [
+    -95.942429,
+    41.263748,
+    -95.942429,
+    41.263748
+],
   "geometry": {"coordinates":[-95.942429,41.263748],"type":"Point"}
 }

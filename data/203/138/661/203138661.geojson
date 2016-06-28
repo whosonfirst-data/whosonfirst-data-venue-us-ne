@@ -2,13 +2,14 @@
   "id": 203138661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.163781,41.178133,-96.163781,41.178133",
     "geom:latitude":41.178133,
     "geom:longitude":-96.163781,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15994 Birch Ave",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":203138661,
-    "wof:lastmodified":1449025453,
+    "wof:lastmodified":1466666423,
     "wof:name":"Dar3 Productions Inc",
     "wof:parent_id":85834285,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "exchange"
     ]
 },
-  "bbox": [-96.163781,41.178133,-96.163781,41.178133],
+  "bbox": [
+    -96.163781,
+    41.178133,
+    -96.163781,
+    41.178133
+],
   "geometry": {"coordinates":[-96.163781,41.178133],"type":"Point"}
 }

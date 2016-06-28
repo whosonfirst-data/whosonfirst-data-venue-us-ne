@@ -2,13 +2,14 @@
   "id": 203143465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.093075,41.234267,-96.093075,41.234267",
     "geom:latitude":41.234267,
     "geom:longitude":-96.093075,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11602 W Center Rd Suite 150",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203143465,
-    "wof:lastmodified":1449026524,
+    "wof:lastmodified":1466666448,
     "wof:name":"Aesthetics-OA&G",
     "wof:parent_id":85872531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "medical"
     ]
 },
-  "bbox": [-96.093075,41.234267,-96.093075,41.234267],
+  "bbox": [
+    -96.093075,
+    41.234267,
+    -96.093075,
+    41.234267
+],
   "geometry": {"coordinates":[-96.093075,41.234267],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202995329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.938479,41.257747,-95.938479,41.257747",
     "geom:latitude":41.257747,
     "geom:longitude":-95.938479,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1700 Farnam St Ste 2820",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":202995329,
-    "wof:lastmodified":1449062363,
+    "wof:lastmodified":1466665584,
     "wof:name":"Brendan M. Kelly Attorney At Law",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.938479,41.257747,-95.938479,41.257747],
+  "bbox": [
+    -95.938479,
+    41.257747,
+    -95.938479,
+    41.257747
+],
   "geometry": {"coordinates":[-95.938479,41.257747],"type":"Point"}
 }

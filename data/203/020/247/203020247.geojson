@@ -2,13 +2,14 @@
   "id": 203020247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.938499,41.2565,-95.938499,41.2565",
     "geom:latitude":41.2565,
     "geom:longitude":-95.938499,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"409 S 17th St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203020247,
-    "wof:lastmodified":1449025799,
+    "wof:lastmodified":1466665664,
     "wof:name":"Evatt Heidi L",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.938499,41.2565,-95.938499,41.2565],
-  "geometry": {"coordinates":[-95.938499,41.2565],"type":"Point"}
+  "bbox": [
+    -95.938499,
+    41.2565,
+    -95.938499,
+    41.2565
+],
+  "geometry": {"coordinates":[-95.93849899999999,41.2565],"type":"Point"}
 }

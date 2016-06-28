@@ -2,13 +2,14 @@
   "id": 203045531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.001999,41.2897,-96.001999,41.2897",
     "geom:latitude":41.2897,
     "geom:longitude":-96.001999,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6105 Maple St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -57,16 +58,22 @@
         }
     ],
     "wof:id":203045531,
-    "wof:lastmodified":1449026646,
+    "wof:lastmodified":1466665859,
     "wof:name":"Omaha Yoga & Bodywork Center",
     "wof:parent_id":85872535,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "yoga"
     ]
 },
-  "bbox": [-96.001999,41.2897,-96.001999,41.2897],
+  "bbox": [
+    -96.001999,
+    41.2897,
+    -96.001999,
+    41.2897
+],
   "geometry": {"coordinates":[-96.001999,41.2897],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203131245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.988457,41.265064,-95.988457,41.265064",
     "geom:latitude":41.265064,
     "geom:longitude":-95.988457,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4920 Underwood Ave",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":203131245,
-    "wof:lastmodified":1449025483,
+    "wof:lastmodified":1466666378,
     "wof:name":"Dario's Brasserie",
     "wof:parent_id":85867055,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "wine"
     ]
 },
-  "bbox": [-95.988457,41.265064,-95.988457,41.265064],
+  "bbox": [
+    -95.988457,
+    41.265064,
+    -95.988457,
+    41.265064
+],
   "geometry": {"coordinates":[-95.988457,41.265064],"type":"Point"}
 }

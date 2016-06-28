@@ -2,13 +2,14 @@
   "id": 203087525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.961278,41.272842,-95.961278,41.272842",
     "geom:latitude":41.272842,
     "geom:longitude":-95.961278,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1501 N 33rd St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203087525,
-    "wof:lastmodified":1449025794,
+    "wof:lastmodified":1466666091,
     "wof:name":"24 7 A Locksmith",
     "wof:parent_id":85872525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "key"
     ]
 },
-  "bbox": [-95.961278,41.272842,-95.961278,41.272842],
-  "geometry": {"coordinates":[-95.961278,41.272842],"type":"Point"}
+  "bbox": [
+    -95.961278,
+    41.272842,
+    -95.961278,
+    41.272842
+],
+  "geometry": {"coordinates":[-95.96127799999999,41.272842],"type":"Point"}
 }

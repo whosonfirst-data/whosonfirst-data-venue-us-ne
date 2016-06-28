@@ -2,13 +2,14 @@
   "id": 203075663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.94723,41.228737,-95.94723,41.228737",
     "geom:latitude":41.228737,
     "geom:longitude":-95.94723,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3220 S 24th St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203075663,
-    "wof:lastmodified":1449025975,
+    "wof:lastmodified":1466666052,
     "wof:name":"Labor Systems Job Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.94723,41.228737,-95.94723,41.228737],
+  "bbox": [
+    -95.94723,
+    41.228737,
+    -95.94723,
+    41.228737
+],
   "geometry": {"coordinates":[-95.94723,41.228737],"type":"Point"}
 }

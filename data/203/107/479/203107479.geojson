@@ -2,13 +2,14 @@
   "id": 203107479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.006017,41.212254,-96.006017,41.212254",
     "geom:latitude":41.212254,
     "geom:longitude":-96.006017,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6045 L St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203107479,
-    "wof:lastmodified":1449024948,
+    "wof:lastmodified":1466666224,
     "wof:name":"Quik Trip 580",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.006017,41.212254,-96.006017,41.212254],
+  "bbox": [
+    -96.006017,
+    41.212254,
+    -96.006017,
+    41.212254
+],
   "geometry": {"coordinates":[-96.006017,41.212254],"type":"Point"}
 }

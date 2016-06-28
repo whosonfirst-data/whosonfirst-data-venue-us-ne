@@ -2,13 +2,14 @@
   "id": 203054815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.968002,41.241361,-95.968002,41.241361",
     "geom:latitude":41.241361,
     "geom:longitude":-95.968002,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1918 S 37th St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203054815,
-    "wof:lastmodified":1449025812,
+    "wof:lastmodified":1466665922,
     "wof:name":"27 Anywhere Locksmith",
     "wof:parent_id":85872527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "key"
     ]
 },
-  "bbox": [-95.968002,41.241361,-95.968002,41.241361],
+  "bbox": [
+    -95.968002,
+    41.241361,
+    -95.968002,
+    41.241361
+],
   "geometry": {"coordinates":[-95.968002,41.241361],"type":"Point"}
 }

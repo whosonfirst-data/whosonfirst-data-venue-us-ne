@@ -2,13 +2,14 @@
   "id": 203002669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.929192,41.259633,-95.929192,41.259633",
     "geom:latitude":41.259633,
     "geom:longitude":-95.929192,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 S 10th St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203002669,
-    "wof:lastmodified":1449026495,
+    "wof:lastmodified":1466669571,
     "wof:name":"Spencer's for Steaks & Chops",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "steakhouse"
     ]
 },
-  "bbox": [-95.929192,41.259633,-95.929192,41.259633],
+  "bbox": [
+    -95.929192,
+    41.259633,
+    -95.929192,
+    41.259633
+],
   "geometry": {"coordinates":[-95.929192,41.259633],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203018461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.941316,41.256149,-95.941316,41.256149",
     "geom:latitude":41.256149,
     "geom:longitude":-95.941316,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1905 Harney St Ste 219",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203018461,
-    "wof:lastmodified":1449025872,
+    "wof:lastmodified":1466665661,
     "wof:name":"Heimes Law, P.C., L.L.O.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "family"
     ]
 },
-  "bbox": [-95.941316,41.256149,-95.941316,41.256149],
+  "bbox": [
+    -95.941316,
+    41.256149,
+    -95.941316,
+    41.256149
+],
   "geometry": {"coordinates":[-95.941316,41.256149],"type":"Point"}
 }

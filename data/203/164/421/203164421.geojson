@@ -2,13 +2,14 @@
   "id": 203164421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.941475,40.494465,-96.941475,40.494465",
     "geom:latitude":40.494465,
     "geom:longitude":-96.941475,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1500 County Road 2350",
     "sg:city":"Wilber",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":203164421,
-    "wof:lastmodified":1449025170,
+    "wof:lastmodified":1466666540,
     "wof:name":"Wil-Bol Lanes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.941475,40.494465,-96.941475,40.494465],
+  "bbox": [
+    -96.941475,
+    40.494465,
+    -96.941475,
+    40.494465
+],
   "geometry": {"coordinates":[-96.941475,40.494465],"type":"Point"}
 }

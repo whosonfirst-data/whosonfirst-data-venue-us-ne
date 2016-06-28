@@ -2,13 +2,14 @@
   "id": 203143677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.148783,41.229254,-96.148783,41.229254",
     "geom:latitude":41.229254,
     "geom:longitude":-96.148783,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14981 Grover St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":203143677,
-    "wof:lastmodified":1449026524,
+    "wof:lastmodified":1466666451,
     "wof:name":"Baltazar's Masonry & Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "mason"
     ]
 },
-  "bbox": [-96.148783,41.229254,-96.148783,41.229254],
-  "geometry": {"coordinates":[-96.148783,41.229254],"type":"Point"}
+  "bbox": [
+    -96.148783,
+    41.229254,
+    -96.148783,
+    41.229254
+],
+  "geometry": {"coordinates":[-96.14878299999999,41.229254],"type":"Point"}
 }

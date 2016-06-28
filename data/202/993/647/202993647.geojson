@@ -2,13 +2,14 @@
   "id": 202993647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.130005,41.045482,-96.130005,41.045482",
     "geom:latitude":41.045482,
     "geom:longitude":-96.130005,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13875 Buffalo Rd",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":202993647,
-    "wof:lastmodified":1449061249,
+    "wof:lastmodified":1466665588,
     "wof:name":"Fresh Health Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "online"
     ]
 },
-  "bbox": [-96.130005,41.045482,-96.130005,41.045482],
+  "bbox": [
+    -96.130005,
+    41.045482,
+    -96.130005,
+    41.045482
+],
   "geometry": {"coordinates":[-96.130005,41.045482],"type":"Point"}
 }

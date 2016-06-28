@@ -2,13 +2,14 @@
   "id": 203052603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.972162,41.230341,-95.972162,41.230341",
     "geom:latitude":41.230341,
     "geom:longitude":-95.972162,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4021 Spring Cir",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203052603,
-    "wof:lastmodified":1449025767,
+    "wof:lastmodified":1466665908,
     "wof:name":"4 Always A Locksmith",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "key"
     ]
 },
-  "bbox": [-95.972162,41.230341,-95.972162,41.230341],
+  "bbox": [
+    -95.972162,
+    41.230341,
+    -95.972162,
+    41.230341
+],
   "geometry": {"coordinates":[-95.972162,41.230341],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203095005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.976519,41.360337,-95.976519,41.360337",
     "geom:latitude":41.360337,
     "geom:longitude":-95.976519,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11300 N Post Rd",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":203095005,
-    "wof:lastmodified":1449025891,
+    "wof:lastmodified":1466669652,
     "wof:name":"Omaha Public Schools",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "elementary"
     ]
 },
-  "bbox": [-95.976519,41.360337,-95.976519,41.360337],
+  "bbox": [
+    -95.976519,
+    41.360337,
+    -95.976519,
+    41.360337
+],
   "geometry": {"coordinates":[-95.976519,41.360337],"type":"Point"}
 }

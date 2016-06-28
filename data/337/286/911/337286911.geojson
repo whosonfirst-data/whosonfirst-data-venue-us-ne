@@ -2,13 +2,14 @@
   "id": 337286911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.991302,41.299801,-95.991302,41.299801",
     "geom:latitude":41.299801,
     "geom:longitude":-95.991302,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5050 Ames Ave",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":337286911,
-    "wof:lastmodified":1449027148,
+    "wof:lastmodified":1466665579,
     "wof:name":"Nebraska Health System",
     "wof:parent_id":85805755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "obstetrician"
     ]
 },
-  "bbox": [-95.991302,41.299801,-95.991302,41.299801],
+  "bbox": [
+    -95.991302,
+    41.299801,
+    -95.991302,
+    41.299801
+],
   "geometry": {"coordinates":[-95.991302,41.299801],"type":"Point"}
 }

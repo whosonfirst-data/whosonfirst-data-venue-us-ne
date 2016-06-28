@@ -2,13 +2,14 @@
   "id": 203152745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.944109,41.264696,-95.944109,41.264696",
     "geom:latitude":41.264696,
     "geom:longitude":-95.944109,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2133 California Plz",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203152745,
-    "wof:lastmodified":1449026395,
+    "wof:lastmodified":1466666484,
     "wof:name":"Creighton University",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "college"
     ]
 },
-  "bbox": [-95.944109,41.264696,-95.944109,41.264696],
+  "bbox": [
+    -95.944109,
+    41.264696,
+    -95.944109,
+    41.264696
+],
   "geometry": {"coordinates":[-95.944109,41.264696],"type":"Point"}
 }

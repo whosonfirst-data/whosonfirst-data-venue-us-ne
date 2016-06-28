@@ -2,13 +2,14 @@
   "id": 203032913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.937202,41.257198,-95.937202,41.257198",
     "geom:latitude":41.257198,
     "geom:longitude":-95.937202,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"I 680 & Pacific Stre",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":203032913,
-    "wof:lastmodified":1449025844,
+    "wof:lastmodified":1466665767,
     "wof:name":"Park Inn Regency Lodge",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "caterer"
     ]
 },
-  "bbox": [-95.937202,41.257198,-95.937202,41.257198],
+  "bbox": [
+    -95.937202,
+    41.257198,
+    -95.937202,
+    41.257198
+],
   "geometry": {"coordinates":[-95.937202,41.257198],"type":"Point"}
 }

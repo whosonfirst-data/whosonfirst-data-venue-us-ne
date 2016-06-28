@@ -2,13 +2,14 @@
   "id": 202998829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.939903,41.260799,-95.939903,41.260799",
     "geom:latitude":41.260799,
     "geom:longitude":-95.939903,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1804 Capitol Ave",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":202998829,
-    "wof:lastmodified":1449060950,
+    "wof:lastmodified":1466665598,
     "wof:name":"Omaha Civic Auditorium",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "performing"
     ]
 },
-  "bbox": [-95.939903,41.260799,-95.939903,41.260799],
+  "bbox": [
+    -95.939903,
+    41.260799,
+    -95.939903,
+    41.260799
+],
   "geometry": {"coordinates":[-95.939903,41.260799],"type":"Point"}
 }

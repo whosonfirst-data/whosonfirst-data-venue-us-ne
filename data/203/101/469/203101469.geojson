@@ -2,13 +2,14 @@
   "id": 203101469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.185712,41.290987,-96.185712,41.290987",
     "geom:latitude":41.290987,
     "geom:longitude":-96.185712,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17303 Evans St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -68,10 +69,11 @@
         }
     ],
     "wof:id":203101469,
-    "wof:lastmodified":1449025943,
+    "wof:lastmodified":1466666193,
     "wof:name":"Hobby Lobby",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -81,6 +83,11 @@
         "store"
     ]
 },
-  "bbox": [-96.185712,41.290987,-96.185712,41.290987],
+  "bbox": [
+    -96.185712,
+    41.290987,
+    -96.185712,
+    41.290987
+],
   "geometry": {"coordinates":[-96.185712,41.290987],"type":"Point"}
 }

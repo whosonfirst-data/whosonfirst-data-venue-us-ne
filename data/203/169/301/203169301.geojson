@@ -2,13 +2,14 @@
   "id": 203169301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.7397,40.814671,-96.7397,40.814671",
     "geom:latitude":40.814671,
     "geom:longitude":-96.7397,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 Capitol Beach Blvd Suite 2",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203169301,
-    "wof:lastmodified":1449026111,
+    "wof:lastmodified":1466666567,
     "wof:name":"Max Tan Inc",
     "wof:parent_id":85878689,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "salon"
     ]
 },
-  "bbox": [-96.7397,40.814671,-96.7397,40.814671],
+  "bbox": [
+    -96.7397,
+    40.814671,
+    -96.7397,
+    40.814671
+],
   "geometry": {"coordinates":[-96.7397,40.814671],"type":"Point"}
 }

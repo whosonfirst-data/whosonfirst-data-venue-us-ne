@@ -2,13 +2,14 @@
   "id": 203166883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.708481,40.81086,-96.708481,40.81086",
     "geom:latitude":40.81086,
     "geom:longitude":-96.708481,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"322 S 9th St",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203166883,
-    "wof:lastmodified":1449026012,
+    "wof:lastmodified":1466666560,
     "wof:name":"Choice Chiropractic",
     "wof:parent_id":85878699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "chiropractic"
     ]
 },
-  "bbox": [-96.708481,40.81086,-96.708481,40.81086],
-  "geometry": {"coordinates":[-96.708481,40.81086],"type":"Point"}
+  "bbox": [
+    -96.708481,
+    40.81086,
+    -96.708481,
+    40.81086
+],
+  "geometry": {"coordinates":[-96.70848100000001,40.81086],"type":"Point"}
 }

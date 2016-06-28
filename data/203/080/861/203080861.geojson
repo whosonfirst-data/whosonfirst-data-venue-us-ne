@@ -2,13 +2,14 @@
   "id": 203080861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.937499,41.234216,-95.937499,41.234216",
     "geom:latitude":41.234216,
     "geom:longitude":-95.937499,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1617 Vinton St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203080861,
-    "wof:lastmodified":1449026831,
+    "wof:lastmodified":1466666071,
     "wof:name":"Bob & Cathie's House of Treasures",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "store"
     ]
 },
-  "bbox": [-95.937499,41.234216,-95.937499,41.234216],
+  "bbox": [
+    -95.937499,
+    41.234216,
+    -95.937499,
+    41.234216
+],
   "geometry": {"coordinates":[-95.937499,41.234216],"type":"Point"}
 }

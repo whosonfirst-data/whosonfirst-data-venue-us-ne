@@ -2,13 +2,14 @@
   "id": 203044579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.011845,41.29993,-96.011845,41.29993",
     "geom:latitude":41.29993,
     "geom:longitude":-96.011845,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4546 N 65th St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203044579,
-    "wof:lastmodified":1449025923,
+    "wof:lastmodified":1466665851,
     "wof:name":"God's Best Cleaning Service",
     "wof:parent_id":85805755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "store"
     ]
 },
-  "bbox": [-96.011845,41.29993,-96.011845,41.29993],
-  "geometry": {"coordinates":[-96.011845,41.29993],"type":"Point"}
+  "bbox": [
+    -96.011845,
+    41.29993,
+    -96.011845,
+    41.29993
+],
+  "geometry": {"coordinates":[-96.01184499999999,41.29993],"type":"Point"}
 }

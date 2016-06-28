@@ -2,13 +2,14 @@
   "id": 203070349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.973694,41.212463,-95.973694,41.212463",
     "geom:latitude":41.212463,
     "geom:longitude":-95.973694,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4037 L St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203070349,
-    "wof:lastmodified":1449025836,
+    "wof:lastmodified":1466666038,
     "wof:name":"Bizarre Tobacco",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-95.973694,41.212463,-95.973694,41.212463],
-  "geometry": {"coordinates":[-95.973694,41.212463],"type":"Point"}
+  "bbox": [
+    -95.973694,
+    41.212463,
+    -95.973694,
+    41.212463
+],
+  "geometry": {"coordinates":[-95.97369399999999,41.212463],"type":"Point"}
 }

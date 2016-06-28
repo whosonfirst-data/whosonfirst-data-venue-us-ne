@@ -2,13 +2,14 @@
   "id": 203090087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.956573,41.310588,-95.956573,41.310588",
     "geom:latitude":41.310588,
     "geom:longitude":-95.956573,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5730 N 30th St Bldg 11",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":203090087,
-    "wof:lastmodified":1449026446,
+    "wof:lastmodified":1466666118,
     "wof:name":"Douglas County Historical Society",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "historical"
     ]
 },
-  "bbox": [-95.956573,41.310588,-95.956573,41.310588],
-  "geometry": {"coordinates":[-95.956573,41.310588],"type":"Point"}
+  "bbox": [
+    -95.956573,
+    41.310588,
+    -95.956573,
+    41.310588
+],
+  "geometry": {"coordinates":[-95.95657300000001,41.310588],"type":"Point"}
 }

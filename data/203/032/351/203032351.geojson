@@ -2,13 +2,14 @@
   "id": 203032351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.936006,41.257463,-95.936006,41.257463",
     "geom:latitude":41.257463,
     "geom:longitude":-95.936006,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1511 Farnam St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203032351,
-    "wof:lastmodified":1449025848,
+    "wof:lastmodified":1466665763,
     "wof:name":"Central Park Towers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-95.936006,41.257463,-95.936006,41.257463],
-  "geometry": {"coordinates":[-95.936006,41.257463],"type":"Point"}
+  "bbox": [
+    -95.936006,
+    41.257463,
+    -95.936006,
+    41.257463
+],
+  "geometry": {"coordinates":[-95.93600600000001,41.257463],"type":"Point"}
 }

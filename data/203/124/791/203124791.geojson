@@ -2,13 +2,14 @@
   "id": 203124791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.958199,41.272049,-95.958199,41.272049",
     "geom:latitude":41.272049,
     "geom:longitude":-95.958199,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3101 Hamilton St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":203124791,
-    "wof:lastmodified":1449026728,
+    "wof:lastmodified":1466666324,
     "wof:name":"Reames' Enterprises & Real Estate",
     "wof:parent_id":85872525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "management"
     ]
 },
-  "bbox": [-95.958199,41.272049,-95.958199,41.272049],
-  "geometry": {"coordinates":[-95.958199,41.272049],"type":"Point"}
+  "bbox": [
+    -95.958199,
+    41.272049,
+    -95.958199,
+    41.272049
+],
+  "geometry": {"coordinates":[-95.95819899999999,41.272049],"type":"Point"}
 }

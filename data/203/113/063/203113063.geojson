@@ -2,13 +2,14 @@
   "id": 203113063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.023857,41.203386,-96.023857,41.203386",
     "geom:latitude":41.203386,
     "geom:longitude":-96.023857,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5352 S 72nd St",
     "sg:city":"Omaha",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":203113063,
-    "wof:lastmodified":1449026700,
+    "wof:lastmodified":1466666274,
     "wof:name":"Sam & Louie's Pizzeria",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.023857,41.203386,-96.023857,41.203386],
-  "geometry": {"coordinates":[-96.023857,41.203386],"type":"Point"}
+  "bbox": [
+    -96.023857,
+    41.203386,
+    -96.023857,
+    41.203386
+],
+  "geometry": {"coordinates":[-96.02385700000001,41.203386],"type":"Point"}
 }

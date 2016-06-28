@@ -2,13 +2,14 @@
   "id": 203097831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.023886,41.261081,-96.023886,41.261081",
     "geom:latitude":41.261081,
     "geom:longitude":-96.023886,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"159 N 72nd St",
     "sg:city":"Omaha",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203097831,
-    "wof:lastmodified":1449025659,
+    "wof:lastmodified":1466666170,
     "wof:name":"Nuclear Ink Custom Tattoo & Piercing",
     "wof:parent_id":85872507,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.023886,41.261081,-96.023886,41.261081],
+  "bbox": [
+    -96.023886,
+    41.261081,
+    -96.023886,
+    41.261081
+],
   "geometry": {"coordinates":[-96.023886,41.261081],"type":"Point"}
 }

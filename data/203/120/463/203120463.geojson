@@ -2,13 +2,14 @@
   "id": 203120463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.972099,41.257099,-95.972099,41.257099",
     "geom:latitude":41.257099,
     "geom:longitude":-95.972099,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 S 39th St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -70,10 +71,11 @@
         }
     ],
     "wof:id":203120463,
-    "wof:lastmodified":1449026585,
+    "wof:lastmodified":1466666299,
     "wof:name":"Montessori Educational Centers Inc",
     "wof:parent_id":85872525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -84,6 +86,11 @@
         "elementary"
     ]
 },
-  "bbox": [-95.972099,41.257099,-95.972099,41.257099],
+  "bbox": [
+    -95.972099,
+    41.257099,
+    -95.972099,
+    41.257099
+],
   "geometry": {"coordinates":[-95.972099,41.257099],"type":"Point"}
 }

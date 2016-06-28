@@ -2,13 +2,14 @@
   "id": 203135315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.022377,41.173,-96.022377,41.173",
     "geom:latitude":41.173,
     "geom:longitude":-96.022377,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8650 S 71st Plz",
     "sg:city":"Papillion",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203135315,
-    "wof:lastmodified":1449025648,
+    "wof:lastmodified":1466666415,
     "wof:name":"Gnc Inc",
     "wof:parent_id":85843697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "diet"
     ]
 },
-  "bbox": [-96.022377,41.173,-96.022377,41.173],
-  "geometry": {"coordinates":[-96.022377,41.173],"type":"Point"}
+  "bbox": [
+    -96.022377,
+    41.173,
+    -96.022377,
+    41.173
+],
+  "geometry": {"coordinates":[-96.02237700000001,41.173],"type":"Point"}
 }

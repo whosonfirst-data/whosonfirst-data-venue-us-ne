@@ -2,13 +2,14 @@
   "id": 203140189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.123893,41.20274,-96.123893,41.20274",
     "geom:latitude":41.20274,
     "geom:longitude":-96.123893,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5312 S 136th St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -73,10 +74,11 @@
         }
     ],
     "wof:id":203140189,
-    "wof:lastmodified":1449025208,
+    "wof:lastmodified":1466666433,
     "wof:name":"Home & Garden True Value",
     "wof:parent_id":85872531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -89,6 +91,11 @@
         "store"
     ]
 },
-  "bbox": [-96.123893,41.20274,-96.123893,41.20274],
+  "bbox": [
+    -96.123893,
+    41.20274,
+    -96.123893,
+    41.20274
+],
   "geometry": {"coordinates":[-96.123893,41.20274],"type":"Point"}
 }

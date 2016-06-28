@@ -2,13 +2,14 @@
   "id": 203161255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.742691,40.265839,-96.742691,40.265839",
     "geom:latitude":40.265839,
     "geom:longitude":-96.742691,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"801 W Court St",
     "sg:city":"Beatrice",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203161255,
-    "wof:lastmodified":1449025663,
+    "wof:lastmodified":1466666529,
     "wof:name":"Villafane & Woodward PC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.742691,40.265839,-96.742691,40.265839],
-  "geometry": {"coordinates":[-96.742691,40.265839],"type":"Point"}
+  "bbox": [
+    -96.742691,
+    40.265839,
+    -96.742691,
+    40.265839
+],
+  "geometry": {"coordinates":[-96.74269099999999,40.265839],"type":"Point"}
 }

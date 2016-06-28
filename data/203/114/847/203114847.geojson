@@ -2,13 +2,14 @@
   "id": 203114847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.029712,41.201542,-96.029712,41.201542",
     "geom:latitude":41.201542,
     "geom:longitude":-96.029712,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7587 Main St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203114847,
-    "wof:lastmodified":1449025715,
+    "wof:lastmodified":1466666285,
     "wof:name":"Kucirek Engineering",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "engineer"
     ]
 },
-  "bbox": [-96.029712,41.201542,-96.029712,41.201542],
+  "bbox": [
+    -96.029712,
+    41.201542,
+    -96.029712,
+    41.201542
+],
   "geometry": {"coordinates":[-96.029712,41.201542],"type":"Point"}
 }

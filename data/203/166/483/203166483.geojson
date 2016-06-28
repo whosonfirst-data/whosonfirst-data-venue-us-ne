@@ -2,13 +2,14 @@
   "id": 203166483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.702259,40.813599,-96.702259,40.813599",
     "geom:latitude":40.813599,
     "geom:longitude":-96.702259,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1323 O St",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":203166483,
-    "wof:lastmodified":1449026011,
+    "wof:lastmodified":1466666551,
     "wof:name":"Cliff's Lounge",
     "wof:parent_id":85878699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cocktail"
     ]
 },
-  "bbox": [-96.702259,40.813599,-96.702259,40.813599],
+  "bbox": [
+    -96.702259,
+    40.813599,
+    -96.702259,
+    40.813599
+],
   "geometry": {"coordinates":[-96.702259,40.813599],"type":"Point"}
 }

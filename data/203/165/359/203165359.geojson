@@ -2,13 +2,14 @@
   "id": 203165359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.632832,40.824963,-96.632832,40.824963",
     "geom:latitude":40.824963,
     "geom:longitude":-96.632832,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1221 N Cotner Blvd Ste 2",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":203165359,
-    "wof:lastmodified":1449026867,
+    "wof:lastmodified":1466666545,
     "wof:name":"State Farm Insurance Agent-Sarah J Kohlhof Insurance Agency Inc",
     "wof:parent_id":85878725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.632832,40.824963,-96.632832,40.824963],
-  "geometry": {"coordinates":[-96.632832,40.824963],"type":"Point"}
+  "bbox": [
+    -96.632832,
+    40.824963,
+    -96.632832,
+    40.824963
+],
+  "geometry": {"coordinates":[-96.63283199999999,40.824963],"type":"Point"}
 }

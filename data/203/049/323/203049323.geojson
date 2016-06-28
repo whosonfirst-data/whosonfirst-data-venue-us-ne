@@ -2,13 +2,14 @@
   "id": 203049323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.004898,41.286598,-96.004898,41.286598",
     "geom:latitude":41.286598,
     "geom:longitude":-96.004898,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6015 NW Radial Hwy",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":203049323,
-    "wof:lastmodified":1449025864,
+    "wof:lastmodified":1466665891,
     "wof:name":"Great Western Bank",
     "wof:parent_id":85872535,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.004898,41.286598,-96.004898,41.286598],
+  "bbox": [
+    -96.004898,
+    41.286598,
+    -96.004898,
+    41.286598
+],
   "geometry": {"coordinates":[-96.004898,41.286598],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203048993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.002701,41.299702,-96.002701,41.299702",
     "geom:latitude":41.299702,
     "geom:longitude":-96.002701,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5802 Ames Ave",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203048993,
-    "wof:lastmodified":1449025584,
+    "wof:lastmodified":1466665898,
     "wof:name":"Herbies Auto Service",
     "wof:parent_id":85805755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.002701,41.299702,-96.002701,41.299702],
+  "bbox": [
+    -96.002701,
+    41.299702,
+    -96.002701,
+    41.299702
+],
   "geometry": {"coordinates":[-96.002701,41.299702],"type":"Point"}
 }

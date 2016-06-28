@@ -2,13 +2,14 @@
   "id": 203042675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.93982,41.259647,-95.93982,41.259647",
     "geom:latitude":41.259647,
     "geom:longitude":-95.93982,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"111 S 18th Plz Ste B06",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203042675,
-    "wof:lastmodified":1449026383,
+    "wof:lastmodified":1466665829,
     "wof:name":"District Of Nebraska",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "department"
     ]
 },
-  "bbox": [-95.93982,41.259647,-95.93982,41.259647],
+  "bbox": [
+    -95.93982,
+    41.259647,
+    -95.93982,
+    41.259647
+],
   "geometry": {"coordinates":[-95.93982,41.259647],"type":"Point"}
 }

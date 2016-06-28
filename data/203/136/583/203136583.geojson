@@ -2,13 +2,14 @@
   "id": 203136583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.031076,41.291673,-96.031076,41.291673",
     "geom:latitude":41.291673,
     "geom:longitude":-96.031076,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3630 N 76th St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203136583,
-    "wof:lastmodified":1449026855,
+    "wof:lastmodified":1466666428,
     "wof:name":"D Tales Minitures",
     "wof:parent_id":85872515,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "item"
     ]
 },
-  "bbox": [-96.031076,41.291673,-96.031076,41.291673],
+  "bbox": [
+    -96.031076,
+    41.291673,
+    -96.031076,
+    41.291673
+],
   "geometry": {"coordinates":[-96.031076,41.291673],"type":"Point"}
 }

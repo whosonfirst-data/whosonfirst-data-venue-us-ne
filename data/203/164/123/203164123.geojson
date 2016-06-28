@@ -2,13 +2,14 @@
   "id": 203164123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.52832,40.917974,-96.52832,40.917974",
     "geom:latitude":40.917974,
     "geom:longitude":-96.52832,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10850 N 142nd St",
     "sg:city":"Waverly",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":203164123,
-    "wof:lastmodified":1449025169,
+    "wof:lastmodified":1466666533,
     "wof:name":"USPS - United States Post Office - Waverly Main Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "shipping"
     ]
 },
-  "bbox": [-96.52832,40.917974,-96.52832,40.917974],
-  "geometry": {"coordinates":[-96.52832,40.917974],"type":"Point"}
+  "bbox": [
+    -96.52832,
+    40.917974,
+    -96.52832,
+    40.917974
+],
+  "geometry": {"coordinates":[-96.52831999999999,40.917974],"type":"Point"}
 }

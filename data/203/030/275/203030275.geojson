@@ -2,13 +2,14 @@
   "id": 203030275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.937202,41.257599,-95.937202,41.257599",
     "geom:latitude":41.257599,
     "geom:longitude":-95.937202,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 S 16th St Ofc",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203030275,
-    "wof:lastmodified":1449025610,
+    "wof:lastmodified":1466665751,
     "wof:name":"Farnam 1600 Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-95.937202,41.257599,-95.937202,41.257599],
+  "bbox": [
+    -95.937202,
+    41.257599,
+    -95.937202,
+    41.257599
+],
   "geometry": {"coordinates":[-95.937202,41.257599],"type":"Point"}
 }

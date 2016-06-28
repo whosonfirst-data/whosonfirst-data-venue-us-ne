@@ -2,13 +2,14 @@
   "id": 203147135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.138455,41.229166,-96.138455,41.229166",
     "geom:latitude":41.229166,
     "geom:longitude":-96.138455,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3001 S 144th St Ste 1005",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":203147135,
-    "wof:lastmodified":1449026660,
+    "wof:lastmodified":1466666453,
     "wof:name":"Spencer's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "novelty"
     ]
 },
-  "bbox": [-96.138455,41.229166,-96.138455,41.229166],
-  "geometry": {"coordinates":[-96.138455,41.229166],"type":"Point"}
+  "bbox": [
+    -96.138455,
+    41.229166,
+    -96.138455,
+    41.229166
+],
+  "geometry": {"coordinates":[-96.13845499999999,41.229166],"type":"Point"}
 }

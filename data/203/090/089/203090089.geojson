@@ -2,13 +2,14 @@
   "id": 203090089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.948789,41.282555,-95.948789,41.282555",
     "geom:latitude":41.282555,
     "geom:longitude":-95.948789,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2516 Ohio St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203090089,
-    "wof:lastmodified":1449026444,
+    "wof:lastmodified":1466666118,
     "wof:name":"26 Anywhere Locksmith",
     "wof:parent_id":85872525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "key"
     ]
 },
-  "bbox": [-95.948789,41.282555,-95.948789,41.282555],
+  "bbox": [
+    -95.948789,
+    41.282555,
+    -95.948789,
+    41.282555
+],
   "geometry": {"coordinates":[-95.948789,41.282555],"type":"Point"}
 }

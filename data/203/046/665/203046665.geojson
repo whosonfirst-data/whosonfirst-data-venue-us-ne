@@ -2,13 +2,14 @@
   "id": 203046665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.009697,41.283901,-96.009697,41.283901",
     "geom:latitude":41.283901,
     "geom:longitude":-96.009697,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2723 N 63rd St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203046665,
-    "wof:lastmodified":1449025996,
+    "wof:lastmodified":1466665881,
     "wof:name":"Bike Pedlar the",
     "wof:parent_id":85872535,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bike"
     ]
 },
-  "bbox": [-96.009697,41.283901,-96.009697,41.283901],
+  "bbox": [
+    -96.009697,
+    41.283901,
+    -96.009697,
+    41.283901
+],
   "geometry": {"coordinates":[-96.009697,41.283901],"type":"Point"}
 }

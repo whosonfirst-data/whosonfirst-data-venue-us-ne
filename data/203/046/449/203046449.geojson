@@ -2,13 +2,14 @@
   "id": 203046449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.999934,41.316851,-95.999934,41.316851",
     "geom:latitude":41.316851,
     "geom:longitude":-95.999934,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6330 N 56th St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203046449,
-    "wof:lastmodified":1449025998,
+    "wof:lastmodified":1466665875,
     "wof:name":"Praisetorium",
     "wof:parent_id":85813863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.999934,41.316851,-95.999934,41.316851],
+  "bbox": [
+    -95.999934,
+    41.316851,
+    -95.999934,
+    41.316851
+],
   "geometry": {"coordinates":[-95.999934,41.316851],"type":"Point"}
 }

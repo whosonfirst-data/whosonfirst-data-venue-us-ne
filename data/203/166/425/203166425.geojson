@@ -2,13 +2,14 @@
   "id": 203166425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.64151,40.844528,-96.64151,40.844528",
     "geom:latitude":40.844528,
     "geom:longitude":-96.64151,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5800 Knox St",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203166425,
-    "wof:lastmodified":1449026012,
+    "wof:lastmodified":1466666549,
     "wof:name":"The Rummage Barn",
     "wof:parent_id":85853163,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "shop"
     ]
 },
-  "bbox": [-96.64151,40.844528,-96.64151,40.844528],
+  "bbox": [
+    -96.64151,
+    40.844528,
+    -96.64151,
+    40.844528
+],
   "geometry": {"coordinates":[-96.64151,40.844528],"type":"Point"}
 }

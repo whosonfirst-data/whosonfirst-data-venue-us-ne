@@ -2,13 +2,14 @@
   "id": 203102537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.990601,41.217899,-95.990601,41.217899",
     "geom:latitude":41.217899,
     "geom:longitude":-95.990601,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4210 S 50th St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203102537,
-    "wof:lastmodified":1449026731,
+    "wof:lastmodified":1466666204,
     "wof:name":"China Song",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "chinese"
     ]
 },
-  "bbox": [-95.990601,41.217899,-95.990601,41.217899],
+  "bbox": [
+    -95.990601,
+    41.217899,
+    -95.990601,
+    41.217899
+],
   "geometry": {"coordinates":[-95.990601,41.217899],"type":"Point"}
 }

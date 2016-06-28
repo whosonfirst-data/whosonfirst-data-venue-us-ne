@@ -2,13 +2,14 @@
   "id": 202990313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.025046,41.172536,-96.025046,41.172536",
     "geom:latitude":41.172536,
     "geom:longitude":-96.025046,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1101 Roland Dr",
     "sg:city":"Papillion",
     "sg:classifiers":[
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":202990313,
-    "wof:lastmodified":1449061782,
+    "wof:lastmodified":1466665581,
     "wof:name":"4geekz",
     "wof:parent_id":85843697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.025046,41.172536,-96.025046,41.172536],
+  "bbox": [
+    -96.025046,
+    41.172536,
+    -96.025046,
+    41.172536
+],
   "geometry": {"coordinates":[-96.025046,41.172536],"type":"Point"}
 }

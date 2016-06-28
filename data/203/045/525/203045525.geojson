@@ -2,13 +2,14 @@
   "id": 203045525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.008499,41.284,-96.008499,41.284",
     "geom:latitude":41.284,
     "geom:longitude":-96.008499,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2735 N 62nd St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":203045525,
-    "wof:lastmodified":1449026647,
+    "wof:lastmodified":1466665859,
     "wof:name":"Barley Street Tavern",
     "wof:parent_id":85872535,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.008499,41.284,-96.008499,41.284],
+  "bbox": [
+    -96.008499,
+    41.284,
+    -96.008499,
+    41.284
+],
   "geometry": {"coordinates":[-96.008499,41.284],"type":"Point"}
 }

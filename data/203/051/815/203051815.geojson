@@ -2,13 +2,14 @@
   "id": 203051815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.955902,41.250198,-95.955902,41.250198",
     "geom:latitude":41.250198,
     "geom:longitude":-95.955902,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1026 Park Ave Apt 318",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203051815,
-    "wof:lastmodified":1449026117,
+    "wof:lastmodified":1466665910,
     "wof:name":"Park Ave Plaza Apts",
     "wof:parent_id":85872527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-95.955902,41.250198,-95.955902,41.250198],
-  "geometry": {"coordinates":[-95.955902,41.250198],"type":"Point"}
+  "bbox": [
+    -95.955902,
+    41.250198,
+    -95.955902,
+    41.250198
+],
+  "geometry": {"coordinates":[-95.95590199999999,41.250198],"type":"Point"}
 }

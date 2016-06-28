@@ -2,13 +2,14 @@
   "id": 203139797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.155392,41.206281,-96.155392,41.206281",
     "geom:latitude":41.206281,
     "geom:longitude":-96.155392,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15325 Weir St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -70,10 +71,11 @@
         }
     ],
     "wof:id":203139797,
-    "wof:lastmodified":1449025113,
+    "wof:lastmodified":1466666436,
     "wof:name":"Allstate Insurance Company - Ryan Grothaus",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -85,6 +87,11 @@
         "renter"
     ]
 },
-  "bbox": [-96.155392,41.206281,-96.155392,41.206281],
-  "geometry": {"coordinates":[-96.155392,41.206281],"type":"Point"}
+  "bbox": [
+    -96.155392,
+    41.206281,
+    -96.155392,
+    41.206281
+],
+  "geometry": {"coordinates":[-96.15539200000001,41.206281],"type":"Point"}
 }

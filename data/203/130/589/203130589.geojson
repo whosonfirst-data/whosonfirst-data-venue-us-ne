@@ -2,13 +2,14 @@
   "id": 203130589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.011997,41.268674,-96.011997,41.268674",
     "geom:latitude":41.268674,
     "geom:longitude":-96.011997,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1025 N 64th St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":203130589,
-    "wof:lastmodified":1449025571,
+    "wof:lastmodified":1466666380,
     "wof:name":"Stormberg Homes",
     "wof:parent_id":85872535,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "contractor"
     ]
 },
-  "bbox": [-96.011997,41.268674,-96.011997,41.268674],
-  "geometry": {"coordinates":[-96.011997,41.268674],"type":"Point"}
+  "bbox": [
+    -96.011997,
+    41.268674,
+    -96.011997,
+    41.268674
+],
+  "geometry": {"coordinates":[-96.01199699999999,41.268674],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203143111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.149086,41.176251,-96.149086,41.176251",
     "geom:latitude":41.176251,
     "geom:longitude":-96.149086,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14814 GILES RD",
     "sg:city":"OMAHA",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":203143111,
-    "wof:lastmodified":1449026530,
+    "wof:lastmodified":1466666441,
     "wof:name":"Rock Creek Apartments",
     "wof:parent_id":85834285,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "finder"
     ]
 },
-  "bbox": [-96.149086,41.176251,-96.149086,41.176251],
+  "bbox": [
+    -96.149086,
+    41.176251,
+    -96.149086,
+    41.176251
+],
   "geometry": {"coordinates":[-96.149086,41.176251],"type":"Point"}
 }

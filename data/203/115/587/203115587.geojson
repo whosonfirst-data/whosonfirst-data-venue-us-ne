@@ -2,13 +2,14 @@
   "id": 203115587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.048998,41.218765,-96.048998,41.218765",
     "geom:latitude":41.218765,
     "geom:longitude":-96.048998,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4131 S 89th St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":203115587,
-    "wof:lastmodified":1449024926,
+    "wof:lastmodified":1466666284,
     "wof:name":"Premiere Media Solutions",
     "wof:parent_id":85872511,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "dvds-rental"
     ]
 },
-  "bbox": [-96.048998,41.218765,-96.048998,41.218765],
+  "bbox": [
+    -96.048998,
+    41.218765,
+    -96.048998,
+    41.218765
+],
   "geometry": {"coordinates":[-96.048998,41.218765],"type":"Point"}
 }

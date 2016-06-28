@@ -2,13 +2,14 @@
   "id": 203097013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.074296,41.248711,-96.074296,41.248711",
     "geom:latitude":41.248711,
     "geom:longitude":-96.074296,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10353 Pacific St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":203097013,
-    "wof:lastmodified":1449025659,
+    "wof:lastmodified":1466669653,
     "wof:name":"Sur La Table",
     "wof:parent_id":85872533,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "accessory"
     ]
 },
-  "bbox": [-96.074296,41.248711,-96.074296,41.248711],
+  "bbox": [
+    -96.074296,
+    41.248711,
+    -96.074296,
+    41.248711
+],
   "geometry": {"coordinates":[-96.074296,41.248711],"type":"Point"}
 }

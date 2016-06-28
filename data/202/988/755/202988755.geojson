@@ -2,13 +2,14 @@
   "id": 202988755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.162162,41.000771,-96.162162,41.000771",
     "geom:latitude":41.000771,
     "geom:longitude":-96.162162,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"221 Main St",
     "sg:city":"Louisville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202988755,
-    "wof:lastmodified":1449060985,
+    "wof:lastmodified":1466665650,
     "wof:name":"Main Street Cafe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "american"
     ]
 },
-  "bbox": [-96.162162,41.000771,-96.162162,41.000771],
+  "bbox": [
+    -96.162162,
+    41.000771,
+    -96.162162,
+    41.000771
+],
   "geometry": {"coordinates":[-96.162162,41.000771],"type":"Point"}
 }

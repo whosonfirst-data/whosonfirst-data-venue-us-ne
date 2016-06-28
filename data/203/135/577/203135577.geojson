@@ -2,13 +2,14 @@
   "id": 203135577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.070707,41.285185,-96.070707,41.285185",
     "geom:latitude":41.285185,
     "geom:longitude":-96.070707,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10190 Maple St",
     "sg:city":"Omaha",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203135577,
-    "wof:lastmodified":1449025647,
+    "wof:lastmodified":1466666419,
     "wof:name":"Valentino's Pizza",
     "wof:parent_id":85872503,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.070707,41.285185,-96.070707,41.285185],
+  "bbox": [
+    -96.070707,
+    41.285185,
+    -96.070707,
+    41.285185
+],
   "geometry": {"coordinates":[-96.070707,41.285185],"type":"Point"}
 }

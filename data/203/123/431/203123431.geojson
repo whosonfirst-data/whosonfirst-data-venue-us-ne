@@ -2,13 +2,14 @@
   "id": 203123431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.959322,41.25766,-95.959322,41.25766",
     "geom:latitude":41.25766,
     "geom:longitude":-95.959322,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3157 Farnam Street, Suite 7112",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":203123431,
-    "wof:lastmodified":1449025475,
+    "wof:lastmodified":1466666310,
     "wof:name":"Callahan Financial Planning",
     "wof:parent_id":85872525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "management"
     ]
 },
-  "bbox": [-95.959322,41.25766,-95.959322,41.25766],
+  "bbox": [
+    -95.959322,
+    41.25766,
+    -95.959322,
+    41.25766
+],
   "geometry": {"coordinates":[-95.959322,41.25766],"type":"Point"}
 }

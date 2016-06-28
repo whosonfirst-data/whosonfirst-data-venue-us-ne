@@ -2,13 +2,14 @@
   "id": 203115815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.029671,41.21973,-96.029671,41.21973",
     "geom:latitude":41.21973,
     "geom:longitude":-96.029671,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4100 S 76th Cir Ste 5",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -70,10 +71,11 @@
         }
     ],
     "wof:id":203115815,
-    "wof:lastmodified":1449024927,
+    "wof:lastmodified":1466666289,
     "wof:name":"Irish Tiger Express",
     "wof:parent_id":85867059,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -84,6 +86,11 @@
         "trucking"
     ]
 },
-  "bbox": [-96.029671,41.21973,-96.029671,41.21973],
-  "geometry": {"coordinates":[-96.029671,41.21973],"type":"Point"}
+  "bbox": [
+    -96.029671,
+    41.21973,
+    -96.029671,
+    41.21973
+],
+  "geometry": {"coordinates":[-96.02967099999999,41.21973],"type":"Point"}
 }

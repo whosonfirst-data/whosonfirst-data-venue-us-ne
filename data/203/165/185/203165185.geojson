@@ -2,13 +2,14 @@
   "id": 203165185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.668429,40.843825,-96.668429,40.843825",
     "geom:latitude":40.843825,
     "geom:longitude":-96.668429,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3730 Cornhusker Hwy",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":203165185,
-    "wof:lastmodified":1449026866,
+    "wof:lastmodified":1466666540,
     "wof:name":"Metzger's Auto Service Inc",
     "wof:parent_id":85878741,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "tire"
     ]
 },
-  "bbox": [-96.668429,40.843825,-96.668429,40.843825],
+  "bbox": [
+    -96.668429,
+    40.843825,
+    -96.668429,
+    40.843825
+],
   "geometry": {"coordinates":[-96.668429,40.843825],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203101451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.139813,41.287621,-96.139813,41.287621",
     "geom:latitude":41.287621,
     "geom:longitude":-96.139813,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14450 Eagle Run Dr",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203101451,
-    "wof:lastmodified":1449025942,
+    "wof:lastmodified":1466666193,
     "wof:name":"Omaha Med Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "medical"
     ]
 },
-  "bbox": [-96.139813,41.287621,-96.139813,41.287621],
+  "bbox": [
+    -96.139813,
+    41.287621,
+    -96.139813,
+    41.287621
+],
   "geometry": {"coordinates":[-96.139813,41.287621],"type":"Point"}
 }

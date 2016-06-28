@@ -2,13 +2,14 @@
   "id": 203164349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.711185,40.77934,-96.711185,40.77934",
     "geom:latitude":40.77934,
     "geom:longitude":-96.711185,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3301 S 7th St Ste D",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":203164349,
-    "wof:lastmodified":1449025169,
+    "wof:lastmodified":1466666539,
     "wof:name":"Hugo's Upholstery",
     "wof:parent_id":85878719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "carpet"
     ]
 },
-  "bbox": [-96.711185,40.77934,-96.711185,40.77934],
+  "bbox": [
+    -96.711185,
+    40.77934,
+    -96.711185,
+    40.77934
+],
   "geometry": {"coordinates":[-96.711185,40.77934],"type":"Point"}
 }

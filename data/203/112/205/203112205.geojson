@@ -2,13 +2,14 @@
   "id": 203112205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.057419,41.241008,-96.057419,41.241008",
     "geom:latitude":41.241008,
     "geom:longitude":-96.057419,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1862 S 93rd St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203112205,
-    "wof:lastmodified":1449025785,
+    "wof:lastmodified":1466666264,
     "wof:name":"Reliable Careers",
     "wof:parent_id":85872533,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "opportunity"
     ]
 },
-  "bbox": [-96.057419,41.241008,-96.057419,41.241008],
+  "bbox": [
+    -96.057419,
+    41.241008,
+    -96.057419,
+    41.241008
+],
   "geometry": {"coordinates":[-96.057419,41.241008],"type":"Point"}
 }

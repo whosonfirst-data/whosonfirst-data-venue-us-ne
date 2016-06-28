@@ -2,13 +2,14 @@
   "id": 203046771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.992996,41.283001,-95.992996,41.283001",
     "geom:latitude":41.283001,
     "geom:longitude":-95.992996,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5115 NW Radial Hwy",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203046771,
-    "wof:lastmodified":1449025998,
+    "wof:lastmodified":1466665883,
     "wof:name":"New Creations Tattoo & Artworks",
     "wof:parent_id":85872535,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.992996,41.283001,-95.992996,41.283001],
-  "geometry": {"coordinates":[-95.992996,41.283001],"type":"Point"}
+  "bbox": [
+    -95.992996,
+    41.283001,
+    -95.992996,
+    41.283001
+],
+  "geometry": {"coordinates":[-95.99299600000001,41.283001],"type":"Point"}
 }

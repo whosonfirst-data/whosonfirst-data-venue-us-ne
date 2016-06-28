@@ -2,13 +2,14 @@
   "id": 203103349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.98231,41.192642,-95.98231,41.192642",
     "geom:latitude":41.192642,
     "geom:longitude":-95.98231,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4531 Drexel St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203103349,
-    "wof:lastmodified":1449026134,
+    "wof:lastmodified":1466666203,
     "wof:name":"Royalty Furniture Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "store"
     ]
 },
-  "bbox": [-95.98231,41.192642,-95.98231,41.192642],
+  "bbox": [
+    -95.98231,
+    41.192642,
+    -95.98231,
+    41.192642
+],
   "geometry": {"coordinates":[-95.98231,41.192642],"type":"Point"}
 }

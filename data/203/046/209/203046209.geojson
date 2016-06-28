@@ -2,13 +2,14 @@
   "id": 203046209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.005941,41.284853,-96.005941,41.284853",
     "geom:latitude":41.284853,
     "geom:longitude":-96.005941,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6051 Maple St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":203046209,
-    "wof:lastmodified":1449026000,
+    "wof:lastmodified":1466665869,
     "wof:name":"City Church of Omaha",
     "wof:parent_id":85872535,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-96.005941,41.284853,-96.005941,41.284853],
-  "geometry": {"coordinates":[-96.005941,41.284853],"type":"Point"}
+  "bbox": [
+    -96.005941,
+    41.284853,
+    -96.005941,
+    41.284853
+],
+  "geometry": {"coordinates":[-96.00594100000001,41.284853],"type":"Point"}
 }

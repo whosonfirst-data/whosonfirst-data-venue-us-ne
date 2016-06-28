@@ -2,13 +2,14 @@
   "id": 203166023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.625059,40.783729,-96.625059,40.783729",
     "geom:latitude":40.783729,
     "geom:longitude":-96.625059,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2840 S 70th St Ste 11",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":203166023,
-    "wof:lastmodified":1449026016,
+    "wof:lastmodified":1466666540,
     "wof:name":"Barb's Hallmark",
     "wof:parent_id":85878697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "store"
     ]
 },
-  "bbox": [-96.625059,40.783729,-96.625059,40.783729],
-  "geometry": {"coordinates":[-96.625059,40.783729],"type":"Point"}
+  "bbox": [
+    -96.625059,
+    40.783729,
+    -96.625059,
+    40.783729
+],
+  "geometry": {"coordinates":[-96.62505899999999,40.783729],"type":"Point"}
 }

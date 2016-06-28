@@ -2,13 +2,14 @@
   "id": 203130559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.981239,41.265365,-95.981239,41.265365",
     "geom:latitude":41.265365,
     "geom:longitude":-95.981239,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"608 N Saddle Creek Rd",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":203130559,
-    "wof:lastmodified":1449025571,
+    "wof:lastmodified":1466666378,
     "wof:name":"United States Post Office",
     "wof:parent_id":85867055,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.981239,41.265365,-95.981239,41.265365],
+  "bbox": [
+    -95.981239,
+    41.265365,
+    -95.981239,
+    41.265365
+],
   "geometry": {"coordinates":[-95.981239,41.265365],"type":"Point"}
 }

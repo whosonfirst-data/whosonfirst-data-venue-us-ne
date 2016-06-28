@@ -2,13 +2,14 @@
   "id": 203163439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.795564,40.944353,-96.795564,40.944353",
     "geom:latitude":40.944353,
     "geom:longitude":-96.795564,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5580 W Mill Rd Ste 3",
     "sg:city":"Raymond",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":203163439,
-    "wof:lastmodified":1449026838,
+    "wof:lastmodified":1466666535,
     "wof:name":"Hwy 79 Hair Design",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "stylist"
     ]
 },
-  "bbox": [-96.795564,40.944353,-96.795564,40.944353],
+  "bbox": [
+    -96.795564,
+    40.944353,
+    -96.795564,
+    40.944353
+],
   "geometry": {"coordinates":[-96.795564,40.944353],"type":"Point"}
 }

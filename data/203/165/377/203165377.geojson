@@ -2,13 +2,14 @@
   "id": 203165377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.605957,40.830109,-96.605957,40.830109",
     "geom:latitude":40.830109,
     "geom:longitude":-96.605957,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1601 N 84th St",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":203165377,
-    "wof:lastmodified":1449026864,
+    "wof:lastmodified":1466666545,
     "wof:name":"Pinnacle Bank",
     "wof:parent_id":85878725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "commercial"
     ]
 },
-  "bbox": [-96.605957,40.830109,-96.605957,40.830109],
+  "bbox": [
+    -96.605957,
+    40.830109,
+    -96.605957,
+    40.830109
+],
   "geometry": {"coordinates":[-96.605957,40.830109],"type":"Point"}
 }

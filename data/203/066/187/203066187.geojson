@@ -2,13 +2,14 @@
   "id": 203066187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.94706,41.20935,-95.94706,41.20935",
     "geom:latitude":41.20935,
     "geom:longitude":-95.94706,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4924 S 24th St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":203066187,
-    "wof:lastmodified":1449025455,
+    "wof:lastmodified":1466665992,
     "wof:name":"Thrift America",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "hand"
     ]
 },
-  "bbox": [-95.94706,41.20935,-95.94706,41.20935],
-  "geometry": {"coordinates":[-95.94706,41.20935],"type":"Point"}
+  "bbox": [
+    -95.94706,
+    41.20935,
+    -95.94706,
+    41.20935
+],
+  "geometry": {"coordinates":[-95.94705999999999,41.20935],"type":"Point"}
 }

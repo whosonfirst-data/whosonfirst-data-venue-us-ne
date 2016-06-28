@@ -2,13 +2,14 @@
   "id": 203062487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.011913,41.237618,-96.011913,41.237618",
     "geom:latitude":41.237618,
     "geom:longitude":-96.011913,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2323 S 64th Ave",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":203062487,
-    "wof:lastmodified":1449026734,
+    "wof:lastmodified":1466665970,
     "wof:name":"VCA Animal Medical Center Of Omaha",
     "wof:parent_id":85867059,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "clinic"
     ]
 },
-  "bbox": [-96.011913,41.237618,-96.011913,41.237618],
-  "geometry": {"coordinates":[-96.011913,41.237618],"type":"Point"}
+  "bbox": [
+    -96.011913,
+    41.237618,
+    -96.011913,
+    41.237618
+],
+  "geometry": {"coordinates":[-96.01191300000001,41.237618],"type":"Point"}
 }

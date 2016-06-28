@@ -2,13 +2,14 @@
   "id": 203168291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.677406,40.733238,-96.677406,40.733238",
     "geom:latitude":40.733238,
     "geom:longitude":-96.677406,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2874 Omalley Dr",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":203168291,
-    "wof:lastmodified":1449025927,
+    "wof:lastmodified":1466666559,
     "wof:name":"Natural Lite Tile, Window Cleaning and Home Repair",
     "wof:parent_id":85878733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "tile-contractors"
     ]
 },
-  "bbox": [-96.677406,40.733238,-96.677406,40.733238],
+  "bbox": [
+    -96.677406,
+    40.733238,
+    -96.677406,
+    40.733238
+],
   "geometry": {"coordinates":[-96.677406,40.733238],"type":"Point"}
 }

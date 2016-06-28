@@ -2,13 +2,14 @@
   "id": 203008405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.939796,41.2556,-95.939796,41.2556",
     "geom:latitude":41.2556,
     "geom:longitude":-95.939796,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"510 S 18th St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203008405,
-    "wof:lastmodified":1449025510,
+    "wof:lastmodified":1466665598,
     "wof:name":"Carpenter & Rowen PC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.939796,41.2556,-95.939796,41.2556],
+  "bbox": [
+    -95.939796,
+    41.2556,
+    -95.939796,
+    41.2556
+],
   "geometry": {"coordinates":[-95.939796,41.2556],"type":"Point"}
 }

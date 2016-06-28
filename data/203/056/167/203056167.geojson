@@ -2,13 +2,14 @@
   "id": 203056167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.952103,41.2523,-95.952103,41.2523",
     "geom:latitude":41.2523,
     "geom:longitude":-95.952103,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2709 Leavenworth St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203056167,
-    "wof:lastmodified":1449025443,
+    "wof:lastmodified":1466665926,
     "wof:name":"Rogers Robert D",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.952103,41.2523,-95.952103,41.2523],
-  "geometry": {"coordinates":[-95.952103,41.2523],"type":"Point"}
+  "bbox": [
+    -95.952103,
+    41.2523,
+    -95.952103,
+    41.2523
+],
+  "geometry": {"coordinates":[-95.95210299999999,41.2523],"type":"Point"}
 }

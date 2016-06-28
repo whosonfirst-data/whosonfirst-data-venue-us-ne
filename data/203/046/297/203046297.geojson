@@ -2,13 +2,14 @@
   "id": 203046297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.981236,41.288558,-95.981236,41.288558",
     "geom:latitude":41.288558,
     "geom:longitude":-95.981236,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4527 Bedford Ave",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203046297,
-    "wof:lastmodified":1449025999,
+    "wof:lastmodified":1466665873,
     "wof:name":"Locksmith All Day",
     "wof:parent_id":85872535,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "key"
     ]
 },
-  "bbox": [-95.981236,41.288558,-95.981236,41.288558],
+  "bbox": [
+    -95.981236,
+    41.288558,
+    -95.981236,
+    41.288558
+],
   "geometry": {"coordinates":[-95.981236,41.288558],"type":"Point"}
 }

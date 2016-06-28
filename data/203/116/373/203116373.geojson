@@ -2,13 +2,14 @@
   "id": 203116373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.034005,41.196344,-96.034005,41.196344",
     "geom:latitude":41.196344,
     "geom:longitude":-96.034005,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6215 S 79th Cir",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -65,10 +66,11 @@
         }
     ],
     "wof:id":203116373,
-    "wof:lastmodified":1449025211,
+    "wof:lastmodified":1466666281,
     "wof:name":"Plain Label Disc Jockey & Phot",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -80,6 +82,11 @@
         "chapel"
     ]
 },
-  "bbox": [-96.034005,41.196344,-96.034005,41.196344],
-  "geometry": {"coordinates":[-96.034005,41.196344],"type":"Point"}
+  "bbox": [
+    -96.034005,
+    41.196344,
+    -96.034005,
+    41.196344
+],
+  "geometry": {"coordinates":[-96.03400499999999,41.196344],"type":"Point"}
 }

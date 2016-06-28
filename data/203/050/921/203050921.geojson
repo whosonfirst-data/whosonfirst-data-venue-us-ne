@@ -2,13 +2,14 @@
   "id": 203050921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.949765,41.255651,-95.949765,41.255651",
     "geom:latitude":41.255651,
     "geom:longitude":-95.949765,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"515 S 26th St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203050921,
-    "wof:lastmodified":1449025988,
+    "wof:lastmodified":1466665905,
     "wof:name":"Hassan Aly Salah-Eldin MD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.949765,41.255651,-95.949765,41.255651],
+  "bbox": [
+    -95.949765,
+    41.255651,
+    -95.949765,
+    41.255651
+],
   "geometry": {"coordinates":[-95.949765,41.255651],"type":"Point"}
 }

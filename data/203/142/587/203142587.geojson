@@ -2,13 +2,14 @@
   "id": 203142587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.136509,41.186619,-96.136509,41.186619",
     "geom:latitude":41.186619,
     "geom:longitude":-96.136509,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14115 Frederick Cir",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":203142587,
-    "wof:lastmodified":1449026454,
+    "wof:lastmodified":1466666449,
     "wof:name":"Improve Your Life Coaching-Custom Weight Loss Natural Wellness Prosperity and Spiritual Coaching",
     "wof:parent_id":85834285,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "loss"
     ]
 },
-  "bbox": [-96.136509,41.186619,-96.136509,41.186619],
+  "bbox": [
+    -96.136509,
+    41.186619,
+    -96.136509,
+    41.186619
+],
   "geometry": {"coordinates":[-96.136509,41.186619],"type":"Point"}
 }

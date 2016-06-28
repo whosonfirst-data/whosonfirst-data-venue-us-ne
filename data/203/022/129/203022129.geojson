@@ -2,13 +2,14 @@
   "id": 203022129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.929695,41.255588,-95.929695,41.255588",
     "geom:latitude":41.255588,
     "geom:longitude":-95.929695,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1034 Howard St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203022129,
-    "wof:lastmodified":1449025548,
+    "wof:lastmodified":1466665671,
     "wof:name":"Old Market Artists Gallery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.929695,41.255588,-95.929695,41.255588],
+  "bbox": [
+    -95.929695,
+    41.255588,
+    -95.929695,
+    41.255588
+],
   "geometry": {"coordinates":[-95.929695,41.255588],"type":"Point"}
 }

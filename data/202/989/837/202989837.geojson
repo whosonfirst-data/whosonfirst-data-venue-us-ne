@@ -2,13 +2,14 @@
   "id": 202989837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.041446,41.154416,-96.041446,41.154416",
     "geom:latitude":41.154416,
     "geom:longitude":-96.041446,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"204 E Lincoln St",
     "sg:city":"Papillion",
     "sg:classifiers":[
@@ -65,10 +66,11 @@
         }
     ],
     "wof:id":202989837,
-    "wof:lastmodified":1449061956,
+    "wof:lastmodified":1466669579,
     "wof:name":"Papio Entertainment",
     "wof:parent_id":85843697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -79,6 +81,11 @@
         "arcade"
     ]
 },
-  "bbox": [-96.041446,41.154416,-96.041446,41.154416],
-  "geometry": {"coordinates":[-96.041446,41.154416],"type":"Point"}
+  "bbox": [
+    -96.041446,
+    41.154416,
+    -96.041446,
+    41.154416
+],
+  "geometry": {"coordinates":[-96.04144599999999,41.154416],"type":"Point"}
 }

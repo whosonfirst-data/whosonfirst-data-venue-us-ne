@@ -2,13 +2,14 @@
   "id": 203089991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.97775,41.273546,-95.97775,41.273546",
     "geom:latitude":41.273546,
     "geom:longitude":-95.97775,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1544 Military Ave",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":203089991,
-    "wof:lastmodified":1449025316,
+    "wof:lastmodified":1466666117,
     "wof:name":"Good Shepherd Lutheran Church Missouri Synod",
     "wof:parent_id":85867055,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.97775,41.273546,-95.97775,41.273546],
+  "bbox": [
+    -95.97775,
+    41.273546,
+    -95.97775,
+    41.273546
+],
   "geometry": {"coordinates":[-95.97775,41.273546],"type":"Point"}
 }

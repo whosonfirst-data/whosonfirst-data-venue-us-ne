@@ -2,13 +2,14 @@
   "id": 203163495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.567811,40.796455,-96.567811,40.796455",
     "geom:latitude":40.796455,
     "geom:longitude":-96.567811,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1500 S 112th St",
     "sg:city":"Walton",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":203163495,
-    "wof:lastmodified":1449026838,
+    "wof:lastmodified":1466666537,
     "wof:name":"USPS - United States Post Office - Walton",
     "wof:parent_id":85878697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "shipping"
     ]
 },
-  "bbox": [-96.567811,40.796455,-96.567811,40.796455],
-  "geometry": {"coordinates":[-96.567811,40.796455],"type":"Point"}
+  "bbox": [
+    -96.567811,
+    40.796455,
+    -96.567811,
+    40.796455
+],
+  "geometry": {"coordinates":[-96.56781100000001,40.796455],"type":"Point"}
 }

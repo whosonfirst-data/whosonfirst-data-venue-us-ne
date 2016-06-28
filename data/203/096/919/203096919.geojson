@@ -2,13 +2,14 @@
   "id": 203096919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.026894,41.258968,-96.026894,41.258968",
     "geom:latitude":41.258968,
     "geom:longitude":-96.026894,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"212 S 74th St Ste 204",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":203096919,
-    "wof:lastmodified":1449025533,
+    "wof:lastmodified":1466666167,
     "wof:name":"Judy Devries Counseling Inc",
     "wof:parent_id":85872509,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -80,6 +82,11 @@
         "counselor"
     ]
 },
-  "bbox": [-96.026894,41.258968,-96.026894,41.258968],
+  "bbox": [
+    -96.026894,
+    41.258968,
+    -96.026894,
+    41.258968
+],
   "geometry": {"coordinates":[-96.026894,41.258968],"type":"Point"}
 }

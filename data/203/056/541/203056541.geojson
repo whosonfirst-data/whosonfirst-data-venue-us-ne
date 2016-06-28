@@ -2,13 +2,14 @@
   "id": 203056541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.009334,41.226853,-96.009334,41.226853",
     "geom:latitude":41.226853,
     "geom:longitude":-96.009334,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6223 Grover St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":203056541,
-    "wof:lastmodified":1449025438,
+    "wof:lastmodified":1466665933,
     "wof:name":"Heartland Tires & Treads",
     "wof:parent_id":85867059,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.009334,41.226853,-96.009334,41.226853],
+  "bbox": [
+    -96.009334,
+    41.226853,
+    -96.009334,
+    41.226853
+],
   "geometry": {"coordinates":[-96.009334,41.226853],"type":"Point"}
 }

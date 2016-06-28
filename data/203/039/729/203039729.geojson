@@ -2,13 +2,14 @@
   "id": 203039729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.928409,41.263752,-95.928409,41.263752",
     "geom:latitude":41.263752,
     "geom:longitude":-95.928409,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"455 N 10th St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203039729,
-    "wof:lastmodified":1449026623,
+    "wof:lastmodified":1466665821,
     "wof:name":"Omaha Merchant Processing Systems",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "advising"
     ]
 },
-  "bbox": [-95.928409,41.263752,-95.928409,41.263752],
+  "bbox": [
+    -95.928409,
+    41.263752,
+    -95.928409,
+    41.263752
+],
   "geometry": {"coordinates":[-95.928409,41.263752],"type":"Point"}
 }

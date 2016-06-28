@@ -2,13 +2,14 @@
   "id": 203074143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.933285,41.241278,-95.933285,41.241278",
     "geom:latitude":41.241278,
     "geom:longitude":-95.933285,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1915 S 13th St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203074143,
-    "wof:lastmodified":1449025968,
+    "wof:lastmodified":1466666049,
     "wof:name":"J & D Automotive Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.933285,41.241278,-95.933285,41.241278],
+  "bbox": [
+    -95.933285,
+    41.241278,
+    -95.933285,
+    41.241278
+],
   "geometry": {"coordinates":[-95.933285,41.241278],"type":"Point"}
 }

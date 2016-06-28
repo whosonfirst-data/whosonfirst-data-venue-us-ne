@@ -2,13 +2,14 @@
   "id": 203001151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.945361,41.256247,-95.945361,41.256247",
     "geom:latitude":41.256247,
     "geom:longitude":-95.945361,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2215 Harney St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203001151,
-    "wof:lastmodified":1449025360,
+    "wof:lastmodified":1466669559,
     "wof:name":"Cooper Brown Art",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.945361,41.256247,-95.945361,41.256247],
-  "geometry": {"coordinates":[-95.945361,41.256247],"type":"Point"}
+  "bbox": [
+    -95.945361,
+    41.256247,
+    -95.945361,
+    41.256247
+],
+  "geometry": {"coordinates":[-95.94536100000001,41.256247],"type":"Point"}
 }

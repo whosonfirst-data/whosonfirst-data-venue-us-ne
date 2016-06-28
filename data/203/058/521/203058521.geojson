@@ -2,13 +2,14 @@
   "id": 203058521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.983387,41.252402,-95.983387,41.252402",
     "geom:latitude":41.252402,
     "geom:longitude":-95.983387,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4655 Leavenworth St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":203058521,
-    "wof:lastmodified":1449025218,
+    "wof:lastmodified":1466665943,
     "wof:name":"A Girl's Best Friend Jewelry",
     "wof:parent_id":85872523,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.983387,41.252402,-95.983387,41.252402],
-  "geometry": {"coordinates":[-95.983387,41.252402],"type":"Point"}
+  "bbox": [
+    -95.983387,
+    41.252402,
+    -95.983387,
+    41.252402
+],
+  "geometry": {"coordinates":[-95.98338699999999,41.252402],"type":"Point"}
 }

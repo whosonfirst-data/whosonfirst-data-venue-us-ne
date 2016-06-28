@@ -2,13 +2,14 @@
   "id": 203026449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.929414,41.25632,-95.929414,41.25632",
     "geom:latitude":41.25632,
     "geom:longitude":-95.929414,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"418 S 10th St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203026449,
-    "wof:lastmodified":1449026065,
+    "wof:lastmodified":1466665733,
     "wof:name":"J D Tucker's Bar",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.929414,41.25632,-95.929414,41.25632],
-  "geometry": {"coordinates":[-95.929414,41.25632],"type":"Point"}
+  "bbox": [
+    -95.929414,
+    41.25632,
+    -95.929414,
+    41.25632
+],
+  "geometry": {"coordinates":[-95.92941399999999,41.25632],"type":"Point"}
 }

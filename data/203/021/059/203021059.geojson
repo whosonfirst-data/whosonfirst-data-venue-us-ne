@@ -2,13 +2,14 @@
   "id": 203021059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.937202,41.2575,-95.937202,41.2575",
     "geom:latitude":41.2575,
     "geom:longitude":-95.937202,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1603 Farnam St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203021059,
-    "wof:lastmodified":1449026157,
+    "wof:lastmodified":1466669634,
     "wof:name":"Inkelaar Thomas T II Atty",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "injury"
     ]
 },
-  "bbox": [-95.937202,41.2575,-95.937202,41.2575],
+  "bbox": [
+    -95.937202,
+    41.2575,
+    -95.937202,
+    41.2575
+],
   "geometry": {"coordinates":[-95.937202,41.2575],"type":"Point"}
 }

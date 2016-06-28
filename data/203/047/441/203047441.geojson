@@ -2,13 +2,14 @@
   "id": 203047441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.007698,41.286701,-96.007698,41.286701",
     "geom:latitude":41.286701,
     "geom:longitude":-96.007698,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6101 NW Radial Hwy",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":203047441,
-    "wof:lastmodified":1449026191,
+    "wof:lastmodified":1466665882,
     "wof:name":"Walgreen Drug Stores",
     "wof:parent_id":85872535,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "store"
     ]
 },
-  "bbox": [-96.007698,41.286701,-96.007698,41.286701],
+  "bbox": [
+    -96.007698,
+    41.286701,
+    -96.007698,
+    41.286701
+],
   "geometry": {"coordinates":[-96.007698,41.286701],"type":"Point"}
 }

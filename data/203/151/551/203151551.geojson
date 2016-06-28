@@ -2,13 +2,14 @@
   "id": 203151551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.1352,41.305029,-96.1352,41.305029",
     "geom:latitude":41.305029,
     "geom:longitude":-96.1352,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14010 Browne Cir",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203151551,
-    "wof:lastmodified":1449024956,
+    "wof:lastmodified":1466666479,
     "wof:name":"Amerisphere Financial",
     "wof:parent_id":85872505,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "financing"
     ]
 },
-  "bbox": [-96.1352,41.305029,-96.1352,41.305029],
+  "bbox": [
+    -96.1352,
+    41.305029,
+    -96.1352,
+    41.305029
+],
   "geometry": {"coordinates":[-96.1352,41.305029],"type":"Point"}
 }

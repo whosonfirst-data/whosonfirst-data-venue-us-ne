@@ -2,13 +2,14 @@
   "id": 203118881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.192536,41.23428,-96.192536,41.23428",
     "geom:latitude":41.23428,
     "geom:longitude":-96.192536,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17710 W Center Rd",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":203118881,
-    "wof:lastmodified":1449026477,
+    "wof:lastmodified":1466666288,
     "wof:name":"Blockbuster Video",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "dvds-rental"
     ]
 },
-  "bbox": [-96.192536,41.23428,-96.192536,41.23428],
+  "bbox": [
+    -96.192536,
+    41.23428,
+    -96.192536,
+    41.23428
+],
   "geometry": {"coordinates":[-96.192536,41.23428],"type":"Point"}
 }

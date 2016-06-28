@@ -2,13 +2,14 @@
   "id": 203018403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.939903,41.260601,-95.939903,41.260601",
     "geom:latitude":41.260601,
     "geom:longitude":-95.939903,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1809 Capitol Ave",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203018403,
-    "wof:lastmodified":1449025876,
+    "wof:lastmodified":1466665657,
     "wof:name":"Railway Educational Bureau",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bookstore"
     ]
 },
-  "bbox": [-95.939903,41.260601,-95.939903,41.260601],
+  "bbox": [
+    -95.939903,
+    41.260601,
+    -95.939903,
+    41.260601
+],
   "geometry": {"coordinates":[-95.939903,41.260601],"type":"Point"}
 }

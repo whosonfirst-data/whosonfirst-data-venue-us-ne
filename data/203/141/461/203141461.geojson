@@ -2,13 +2,14 @@
   "id": 203141461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.084419,41.216221,-96.084419,41.216221",
     "geom:latitude":41.216221,
     "geom:longitude":-96.084419,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11011 I St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -69,10 +70,11 @@
         }
     ],
     "wof:id":203141461,
-    "wof:lastmodified":1449025588,
+    "wof:lastmodified":1466666437,
     "wof:name":"Powerhouse Distributing, LLC.",
     "wof:parent_id":85872531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -86,6 +88,11 @@
         "saw"
     ]
 },
-  "bbox": [-96.084419,41.216221,-96.084419,41.216221],
+  "bbox": [
+    -96.084419,
+    41.216221,
+    -96.084419,
+    41.216221
+],
   "geometry": {"coordinates":[-96.084419,41.216221],"type":"Point"}
 }

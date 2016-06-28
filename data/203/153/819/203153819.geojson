@@ -2,13 +2,14 @@
   "id": 203153819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.929843,41.248825,-95.929843,41.248825",
     "geom:latitude":41.248825,
     "geom:longitude":-95.929843,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1001 Pacific St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203153819,
-    "wof:lastmodified":1449026286,
+    "wof:lastmodified":1466666497,
     "wof:name":"Lucky's 1001",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "steakhouse"
     ]
 },
-  "bbox": [-95.929843,41.248825,-95.929843,41.248825],
-  "geometry": {"coordinates":[-95.929843,41.248825],"type":"Point"}
+  "bbox": [
+    -95.929843,
+    41.248825,
+    -95.929843,
+    41.248825
+],
+  "geometry": {"coordinates":[-95.92984300000001,41.248825],"type":"Point"}
 }

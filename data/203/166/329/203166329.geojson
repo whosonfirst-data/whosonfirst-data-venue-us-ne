@@ -2,13 +2,14 @@
   "id": 203166329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.624845,40.856336,-96.624845,40.856336",
     "geom:latitude":40.856336,
     "geom:longitude":-96.624845,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4335 N 70th St",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":203166329,
-    "wof:lastmodified":1449026009,
+    "wof:lastmodified":1466666548,
     "wof:name":"Casey's General Store",
     "wof:parent_id":85824241,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.624845,40.856336,-96.624845,40.856336],
-  "geometry": {"coordinates":[-96.624845,40.856336],"type":"Point"}
+  "bbox": [
+    -96.624845,
+    40.856336,
+    -96.624845,
+    40.856336
+],
+  "geometry": {"coordinates":[-96.62484499999999,40.856336],"type":"Point"}
 }

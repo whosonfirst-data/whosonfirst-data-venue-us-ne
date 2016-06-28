@@ -2,13 +2,14 @@
   "id": 203169121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.601398,40.731414,-96.601398,40.731414",
     "geom:latitude":40.731414,
     "geom:longitude":-96.601398,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8801 Amber Hill Ct",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":203169121,
-    "wof:lastmodified":1449026112,
+    "wof:lastmodified":1466666563,
     "wof:name":"Holiday Inn Express Hotel & Suites Lincoln South",
     "wof:parent_id":85878685,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "hall"
     ]
 },
-  "bbox": [-96.601398,40.731414,-96.601398,40.731414],
+  "bbox": [
+    -96.601398,
+    40.731414,
+    -96.601398,
+    40.731414
+],
   "geometry": {"coordinates":[-96.601398,40.731414],"type":"Point"}
 }

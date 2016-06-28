@@ -2,13 +2,14 @@
   "id": 203141357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.112499,41.205181,-96.112499,41.205181",
     "geom:latitude":41.205181,
     "geom:longitude":-96.112499,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12712 Q St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -68,10 +69,11 @@
         }
     ],
     "wof:id":203141357,
-    "wof:lastmodified":1449025588,
+    "wof:lastmodified":1466666435,
     "wof:name":"American Marking Corp",
     "wof:parent_id":85872531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -84,6 +86,11 @@
         "flagpole"
     ]
 },
-  "bbox": [-96.112499,41.205181,-96.112499,41.205181],
+  "bbox": [
+    -96.112499,
+    41.205181,
+    -96.112499,
+    41.205181
+],
   "geometry": {"coordinates":[-96.112499,41.205181],"type":"Point"}
 }

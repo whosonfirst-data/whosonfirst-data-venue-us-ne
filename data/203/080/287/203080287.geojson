@@ -2,13 +2,14 @@
   "id": 203080287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.943298,41.252201,-95.943298,41.252201",
     "geom:latitude":41.252201,
     "geom:longitude":-95.943298,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"815 S 21st St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203080287,
-    "wof:lastmodified":1449026828,
+    "wof:lastmodified":1466666068,
     "wof:name":"Electric Company of Omaha",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "electrician"
     ]
 },
-  "bbox": [-95.943298,41.252201,-95.943298,41.252201],
+  "bbox": [
+    -95.943298,
+    41.252201,
+    -95.943298,
+    41.252201
+],
   "geometry": {"coordinates":[-95.943298,41.252201],"type":"Point"}
 }

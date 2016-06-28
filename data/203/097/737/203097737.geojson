@@ -2,13 +2,14 @@
   "id": 203097737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.031423,41.24881,-96.031423,41.24881",
     "geom:latitude":41.24881,
     "geom:longitude":-96.031423,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7602 Pacific St #222",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":203097737,
-    "wof:lastmodified":1449025657,
+    "wof:lastmodified":1466666168,
     "wof:name":"Reisinger Booth & Associates, P.C., L.L.O.",
     "wof:parent_id":85872509,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -78,6 +80,11 @@
         "law"
     ]
 },
-  "bbox": [-96.031423,41.24881,-96.031423,41.24881],
+  "bbox": [
+    -96.031423,
+    41.24881,
+    -96.031423,
+    41.24881
+],
   "geometry": {"coordinates":[-96.031423,41.24881],"type":"Point"}
 }

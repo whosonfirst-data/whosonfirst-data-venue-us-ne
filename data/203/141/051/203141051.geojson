@@ -2,13 +2,14 @@
   "id": 203141051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.10154,41.211319,-96.10154,41.211319",
     "geom:latitude":41.211319,
     "geom:longitude":-96.10154,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12101 Anne St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -73,10 +74,11 @@
         }
     ],
     "wof:id":203141051,
-    "wof:lastmodified":1449025589,
+    "wof:lastmodified":1466666428,
     "wof:name":"Qci",
     "wof:parent_id":85872531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -94,6 +96,11 @@
         "software"
     ]
 },
-  "bbox": [-96.10154,41.211319,-96.10154,41.211319],
+  "bbox": [
+    -96.10154,
+    41.211319,
+    -96.10154,
+    41.211319
+],
   "geometry": {"coordinates":[-96.10154,41.211319],"type":"Point"}
 }

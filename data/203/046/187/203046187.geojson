@@ -2,13 +2,14 @@
   "id": 203046187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.012066,41.276998,-96.012066,41.276998",
     "geom:latitude":41.276998,
     "geom:longitude":-96.012066,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6504 Parker St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203046187,
-    "wof:lastmodified":1449025997,
+    "wof:lastmodified":1466665869,
     "wof:name":"3 Always A Emerg Locksmith",
     "wof:parent_id":85872535,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "key"
     ]
 },
-  "bbox": [-96.012066,41.276998,-96.012066,41.276998],
+  "bbox": [
+    -96.012066,
+    41.276998,
+    -96.012066,
+    41.276998
+],
   "geometry": {"coordinates":[-96.012066,41.276998],"type":"Point"}
 }

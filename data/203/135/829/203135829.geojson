@@ -2,13 +2,14 @@
   "id": 203135829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.01712,41.15984,-96.01712,41.15984",
     "geom:latitude":41.15984,
     "geom:longitude":-96.01712,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"404 Oakwood Dr",
     "sg:city":"Papillion",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":203135829,
-    "wof:lastmodified":1449025647,
+    "wof:lastmodified":1466666423,
     "wof:name":"Thor International Tours",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "promoter"
     ]
 },
-  "bbox": [-96.01712,41.15984,-96.01712,41.15984],
-  "geometry": {"coordinates":[-96.01712,41.15984],"type":"Point"}
+  "bbox": [
+    -96.01712,
+    41.15984,
+    -96.01712,
+    41.15984
+],
+  "geometry": {"coordinates":[-96.01712000000001,41.15984],"type":"Point"}
 }

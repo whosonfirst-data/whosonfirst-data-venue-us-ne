@@ -2,13 +2,14 @@
   "id": 203145259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.119518,41.236281,-96.119518,41.236281",
     "geom:latitude":41.236281,
     "geom:longitude":-96.119518,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2434 S 132nd St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":203145259,
-    "wof:lastmodified":1449025483,
+    "wof:lastmodified":1466666453,
     "wof:name":"Fazoli's",
     "wof:parent_id":85872531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "italian"
     ]
 },
-  "bbox": [-96.119518,41.236281,-96.119518,41.236281],
+  "bbox": [
+    -96.119518,
+    41.236281,
+    -96.119518,
+    41.236281
+],
   "geometry": {"coordinates":[-96.119518,41.236281],"type":"Point"}
 }

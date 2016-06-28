@@ -2,13 +2,14 @@
   "id": 203088647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.979867,41.303121,-95.979867,41.303121",
     "geom:latitude":41.303121,
     "geom:longitude":-95.979867,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4336 Grand Ave",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203088647,
-    "wof:lastmodified":1449026411,
+    "wof:lastmodified":1466666102,
     "wof:name":"We Are The World",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "day"
     ]
 },
-  "bbox": [-95.979867,41.303121,-95.979867,41.303121],
+  "bbox": [
+    -95.979867,
+    41.303121,
+    -95.979867,
+    41.303121
+],
   "geometry": {"coordinates":[-95.979867,41.303121],"type":"Point"}
 }

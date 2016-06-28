@@ -2,13 +2,14 @@
   "id": 203140011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.13347,41.195021,-96.13347,41.195021",
     "geom:latitude":41.195021,
     "geom:longitude":-96.13347,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6370 S 140th Ave",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203140011,
-    "wof:lastmodified":1449025209,
+    "wof:lastmodified":1466669662,
     "wof:name":"Millard Public Schools",
     "wof:parent_id":85872531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.13347,41.195021,-96.13347,41.195021],
+  "bbox": [
+    -96.13347,
+    41.195021,
+    -96.13347,
+    41.195021
+],
   "geometry": {"coordinates":[-96.13347,41.195021],"type":"Point"}
 }

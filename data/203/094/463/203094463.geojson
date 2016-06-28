@@ -2,13 +2,14 @@
   "id": 203094463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.969744,41.317717,-95.969744,41.317717",
     "geom:latitude":41.317717,
     "geom:longitude":-95.969744,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3802 Redick Ave",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203094463,
-    "wof:lastmodified":1449026145,
+    "wof:lastmodified":1466666143,
     "wof:name":"Omaha Public Schools",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "elementary"
     ]
 },
-  "bbox": [-95.969744,41.317717,-95.969744,41.317717],
-  "geometry": {"coordinates":[-95.969744,41.317717],"type":"Point"}
+  "bbox": [
+    -95.969744,
+    41.317717,
+    -95.969744,
+    41.317717
+],
+  "geometry": {"coordinates":[-95.96974400000001,41.317717],"type":"Point"}
 }

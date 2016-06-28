@@ -2,13 +2,14 @@
   "id": 203087455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.930194,41.282419,-95.930194,41.282419",
     "geom:latitude":41.282419,
     "geom:longitude":-95.930194,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2615 N 11th St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203087455,
-    "wof:lastmodified":1449025793,
+    "wof:lastmodified":1466666090,
     "wof:name":"Town Delivery Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "courier"
     ]
 },
-  "bbox": [-95.930194,41.282419,-95.930194,41.282419],
+  "bbox": [
+    -95.930194,
+    41.282419,
+    -95.930194,
+    41.282419
+],
   "geometry": {"coordinates":[-95.930194,41.282419],"type":"Point"}
 }

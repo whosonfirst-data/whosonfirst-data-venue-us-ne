@@ -2,13 +2,14 @@
   "id": 203159569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.837716,40.392827,-95.837716,40.392827",
     "geom:latitude":40.392827,
     "geom:longitude":-95.837716,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"919 Central Ave",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":203159569,
-    "wof:lastmodified":1449025177,
+    "wof:lastmodified":1466666525,
     "wof:name":"Union Bank And Trust Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "financing"
     ]
 },
-  "bbox": [-95.837716,40.392827,-95.837716,40.392827],
+  "bbox": [
+    -95.837716,
+    40.392827,
+    -95.837716,
+    40.392827
+],
   "geometry": {"coordinates":[-95.837716,40.392827],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203048965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.004601,41.286701,-96.004601,41.286701",
     "geom:latitude":41.286701,
     "geom:longitude":-96.004601,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3102 N 60th St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203048965,
-    "wof:lastmodified":1449025584,
+    "wof:lastmodified":1466665896,
     "wof:name":"St James Manor Apts",
     "wof:parent_id":85872535,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-96.004601,41.286701,-96.004601,41.286701],
-  "geometry": {"coordinates":[-96.004601,41.286701],"type":"Point"}
+  "bbox": [
+    -96.004601,
+    41.286701,
+    -96.004601,
+    41.286701
+],
+  "geometry": {"coordinates":[-96.00460099999999,41.286701],"type":"Point"}
 }

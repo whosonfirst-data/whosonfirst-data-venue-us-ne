@@ -2,13 +2,14 @@
   "id": 203143051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.119529,41.147755,-96.119529,41.147755",
     "geom:latitude":41.147755,
     "geom:longitude":-96.119529,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10808 S 132nd St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":203143051,
-    "wof:lastmodified":1449026523,
+    "wof:lastmodified":1466666440,
     "wof:name":"Shopko Distribution Ctr 998",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "warehouses-merchandise"
     ]
 },
-  "bbox": [-96.119529,41.147755,-96.119529,41.147755],
+  "bbox": [
+    -96.119529,
+    41.147755,
+    -96.119529,
+    41.147755
+],
   "geometry": {"coordinates":[-96.119529,41.147755],"type":"Point"}
 }

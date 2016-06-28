@@ -2,13 +2,14 @@
   "id": 203162665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.871821,40.911555,-96.871821,40.911555",
     "geom:latitude":40.911555,
     "geom:longitude":-96.871821,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10004 NW 112th St",
     "sg:city":"Malcolm",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":203162665,
-    "wof:lastmodified":1449026574,
+    "wof:lastmodified":1466666535,
     "wof:name":"Malcolm Public Schools",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [-96.871821,40.911555,-96.871821,40.911555],
+  "bbox": [
+    -96.871821,
+    40.911555,
+    -96.871821,
+    40.911555
+],
   "geometry": {"coordinates":[-96.871821,40.911555],"type":"Point"}
 }

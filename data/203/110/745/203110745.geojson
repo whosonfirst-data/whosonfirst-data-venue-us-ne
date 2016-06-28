@@ -2,13 +2,14 @@
   "id": 203110745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.953802,41.120562,-95.953802,41.120562",
     "geom:latitude":41.120562,
     "geom:longitude":-95.953802,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2851 Capehart Rd Ste I",
     "sg:city":"Bellevue",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":203110745,
-    "wof:lastmodified":1449025544,
+    "wof:lastmodified":1466666255,
     "wof:name":"Prairie Road",
     "wof:parent_id":85820061,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.953802,41.120562,-95.953802,41.120562],
+  "bbox": [
+    -95.953802,
+    41.120562,
+    -95.953802,
+    41.120562
+],
   "geometry": {"coordinates":[-95.953802,41.120562],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203097365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.038123,41.276769,-96.038123,41.276769",
     "geom:latitude":41.276769,
     "geom:longitude":-96.038123,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1903 N 81st St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -71,10 +72,11 @@
         }
     ],
     "wof:id":203097365,
-    "wof:lastmodified":1449025657,
+    "wof:lastmodified":1466666161,
     "wof:name":"Allstate Insurance Company - James Gresham",
     "wof:parent_id":85872509,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -86,6 +88,11 @@
         "renter"
     ]
 },
-  "bbox": [-96.038123,41.276769,-96.038123,41.276769],
+  "bbox": [
+    -96.038123,
+    41.276769,
+    -96.038123,
+    41.276769
+],
   "geometry": {"coordinates":[-96.038123,41.276769],"type":"Point"}
 }

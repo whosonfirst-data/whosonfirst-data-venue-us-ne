@@ -2,13 +2,14 @@
   "id": 203163845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.179169,40.662846,-96.179169,40.662846",
     "geom:latitude":40.662846,
     "geom:longitude":-96.179169,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1135 Park St",
     "sg:city":"Syracuse",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":203163845,
-    "wof:lastmodified":1449026836,
+    "wof:lastmodified":1466666540,
     "wof:name":"Union Loan",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "processing"
     ]
 },
-  "bbox": [-96.179169,40.662846,-96.179169,40.662846],
+  "bbox": [
+    -96.179169,
+    40.662846,
+    -96.179169,
+    40.662846
+],
   "geometry": {"coordinates":[-96.179169,40.662846],"type":"Point"}
 }

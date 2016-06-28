@@ -2,13 +2,14 @@
   "id": 203083143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.916397,41.3097,-95.916397,41.3097",
     "geom:latitude":41.3097,
     "geom:longitude":-95.916397,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6262 Lindbergh Dr",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203083143,
-    "wof:lastmodified":1449025818,
+    "wof:lastmodified":1466666073,
     "wof:name":"Nebraska Plumbing & Sewer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.916397,41.3097,-95.916397,41.3097],
+  "bbox": [
+    -95.916397,
+    41.3097,
+    -95.916397,
+    41.3097
+],
   "geometry": {"coordinates":[-95.916397,41.3097],"type":"Point"}
 }

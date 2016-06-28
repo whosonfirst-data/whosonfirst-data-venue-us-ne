@@ -2,13 +2,14 @@
   "id": 203055095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.965132,41.248801,-95.965132,41.248801",
     "geom:latitude":41.248801,
     "geom:longitude":-95.965132,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1100 S 35th Ave",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203055095,
-    "wof:lastmodified":1449025352,
+    "wof:lastmodified":1466665919,
     "wof:name":"A Locksmith 0 Alwayes 24 Hr",
     "wof:parent_id":85872527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "key"
     ]
 },
-  "bbox": [-95.965132,41.248801,-95.965132,41.248801],
+  "bbox": [
+    -95.965132,
+    41.248801,
+    -95.965132,
+    41.248801
+],
   "geometry": {"coordinates":[-95.965132,41.248801],"type":"Point"}
 }

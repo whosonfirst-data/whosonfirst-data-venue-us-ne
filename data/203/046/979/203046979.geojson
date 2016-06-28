@@ -2,13 +2,14 @@
   "id": 203046979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.986,41.307817,-95.986,41.307817",
     "geom:latitude":41.307817,
     "geom:longitude":-95.986,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5417 N 48th St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203046979,
-    "wof:lastmodified":1449025999,
+    "wof:lastmodified":1466665889,
     "wof:name":"Provato Tiling & More",
     "wof:parent_id":85805755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "carpenter"
     ]
 },
-  "bbox": [-95.986,41.307817,-95.986,41.307817],
+  "bbox": [
+    -95.986,
+    41.307817,
+    -95.986,
+    41.307817
+],
   "geometry": {"coordinates":[-95.986,41.307817],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203061233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.997498,41.239498,-95.997498,41.239498",
     "geom:latitude":41.239498,
     "geom:longitude":-95.997498,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5444 Center St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203061233,
-    "wof:lastmodified":1449026339,
+    "wof:lastmodified":1466665958,
     "wof:name":"Kabredlo's Cenex",
     "wof:parent_id":85872513,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.997498,41.239498,-95.997498,41.239498],
-  "geometry": {"coordinates":[-95.997498,41.239498],"type":"Point"}
+  "bbox": [
+    -95.997498,
+    41.239498,
+    -95.997498,
+    41.239498
+],
+  "geometry": {"coordinates":[-95.99749799999999,41.239498],"type":"Point"}
 }

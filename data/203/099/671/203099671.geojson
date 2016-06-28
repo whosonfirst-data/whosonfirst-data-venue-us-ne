@@ -2,13 +2,14 @@
   "id": 203099671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.031485,41.259759,-96.031485,41.259759",
     "geom:latitude":41.259759,
     "geom:longitude":-96.031485,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"115 N 76th St",
     "sg:city":"Omaha",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203099671,
-    "wof:lastmodified":1449026213,
+    "wof:lastmodified":1466666184,
     "wof:name":"Toys \"R\" Us",
     "wof:parent_id":85872509,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.031485,41.259759,-96.031485,41.259759],
+  "bbox": [
+    -96.031485,
+    41.259759,
+    -96.031485,
+    41.259759
+],
   "geometry": {"coordinates":[-96.031485,41.259759],"type":"Point"}
 }

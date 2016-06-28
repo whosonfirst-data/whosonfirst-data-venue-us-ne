@@ -2,13 +2,14 @@
   "id": 203057917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.005952,41.233508,-96.005952,41.233508",
     "geom:latitude":41.233508,
     "geom:longitude":-96.005952,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6126 Elm St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203057917,
-    "wof:lastmodified":1449025862,
+    "wof:lastmodified":1466665943,
     "wof:name":"A A Vinnys Tree Service",
     "wof:parent_id":85867059,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tree"
     ]
 },
-  "bbox": [-96.005952,41.233508,-96.005952,41.233508],
-  "geometry": {"coordinates":[-96.005952,41.233508],"type":"Point"}
+  "bbox": [
+    -96.005952,
+    41.233508,
+    -96.005952,
+    41.233508
+],
+  "geometry": {"coordinates":[-96.00595199999999,41.233508],"type":"Point"}
 }

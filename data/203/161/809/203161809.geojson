@@ -2,13 +2,14 @@
   "id": 203161809,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.961449,40.62339,-96.961449,40.62339",
     "geom:latitude":40.62339,
     "geom:longitude":-96.961449,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1100 Main Ave",
     "sg:city":"Crete",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":203161809,
-    "wof:lastmodified":1449025666,
+    "wof:lastmodified":1466666536,
     "wof:name":"Union Bank And Trust Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "commercial"
     ]
 },
-  "bbox": [-96.961449,40.62339,-96.961449,40.62339],
+  "bbox": [
+    -96.961449,
+    40.62339,
+    -96.961449,
+    40.62339
+],
   "geometry": {"coordinates":[-96.961449,40.62339],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202995105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.932999,41.269699,-95.932999,41.269699",
     "geom:latitude":41.269699,
     "geom:longitude":-95.932999,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1112 N 13th St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":202995105,
-    "wof:lastmodified":1449062365,
+    "wof:lastmodified":1466665581,
     "wof:name":"Lund-Ross Constructors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-95.932999,41.269699,-95.932999,41.269699],
+  "bbox": [
+    -95.932999,
+    41.269699,
+    -95.932999,
+    41.269699
+],
   "geometry": {"coordinates":[-95.932999,41.269699],"type":"Point"}
 }

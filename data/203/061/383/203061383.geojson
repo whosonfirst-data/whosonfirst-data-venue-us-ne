@@ -2,13 +2,14 @@
   "id": 203061383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.0074,41.233501,-96.0074,41.233501",
     "geom:latitude":41.233501,
     "geom:longitude":-96.0074,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6170 Elm St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203061383,
-    "wof:lastmodified":1449026338,
+    "wof:lastmodified":1466665961,
     "wof:name":"Gaetas Rest & Keno Lounge",
     "wof:parent_id":85867059,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "italian"
     ]
 },
-  "bbox": [-96.0074,41.233501,-96.0074,41.233501],
+  "bbox": [
+    -96.0074,
+    41.233501,
+    -96.0074,
+    41.233501
+],
   "geometry": {"coordinates":[-96.0074,41.233501],"type":"Point"}
 }

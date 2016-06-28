@@ -2,13 +2,14 @@
   "id": 203057149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.981757,41.239558,-95.981757,41.239558",
     "geom:latitude":41.239558,
     "geom:longitude":-95.981757,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2122 S 46th St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":203057149,
-    "wof:lastmodified":1449025857,
+    "wof:lastmodified":1466665927,
     "wof:name":"Phil's Auto Body",
     "wof:parent_id":85872523,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "repairing"
     ]
 },
-  "bbox": [-95.981757,41.239558,-95.981757,41.239558],
+  "bbox": [
+    -95.981757,
+    41.239558,
+    -95.981757,
+    41.239558
+],
   "geometry": {"coordinates":[-95.981757,41.239558],"type":"Point"}
 }

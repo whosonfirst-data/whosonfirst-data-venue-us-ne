@@ -2,13 +2,14 @@
   "id": 203086325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.942152,41.298663,-95.942152,41.298663",
     "geom:latitude":41.298663,
     "geom:longitude":-95.942152,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4431 N 20th St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":203086325,
-    "wof:lastmodified":1449026249,
+    "wof:lastmodified":1466666084,
     "wof:name":"J F Bloom & Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "mausoleum"
     ]
 },
-  "bbox": [-95.942152,41.298663,-95.942152,41.298663],
-  "geometry": {"coordinates":[-95.942152,41.298663],"type":"Point"}
+  "bbox": [
+    -95.942152,
+    41.298663,
+    -95.942152,
+    41.298663
+],
+  "geometry": {"coordinates":[-95.94215199999999,41.298663],"type":"Point"}
 }

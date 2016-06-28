@@ -2,13 +2,14 @@
   "id": 203055017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.969037,41.252206,-95.969037,41.252206",
     "geom:latitude":41.252206,
     "geom:longitude":-95.969037,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"814 S 38th St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203055017,
-    "wof:lastmodified":1449025350,
+    "wof:lastmodified":1466669643,
     "wof:name":"The Field Club by Urban Village",
     "wof:parent_id":85872523,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "finder"
     ]
 },
-  "bbox": [-95.969037,41.252206,-95.969037,41.252206],
+  "bbox": [
+    -95.969037,
+    41.252206,
+    -95.969037,
+    41.252206
+],
   "geometry": {"coordinates":[-95.969037,41.252206],"type":"Point"}
 }

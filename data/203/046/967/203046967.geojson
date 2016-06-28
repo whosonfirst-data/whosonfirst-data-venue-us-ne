@@ -2,13 +2,14 @@
   "id": 203046967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.986801,41.277993,-95.986801,41.277993",
     "geom:latitude":41.277993,
     "geom:longitude":-95.986801,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2028 N 48th Ave",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203046967,
-    "wof:lastmodified":1449025998,
+    "wof:lastmodified":1466665888,
     "wof:name":"Open Technologies Inc",
     "wof:parent_id":85872535,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.986801,41.277993,-95.986801,41.277993],
+  "bbox": [
+    -95.986801,
+    41.277993,
+    -95.986801,
+    41.277993
+],
   "geometry": {"coordinates":[-95.986801,41.277993],"type":"Point"}
 }

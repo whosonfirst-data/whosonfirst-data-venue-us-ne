@@ -2,13 +2,14 @@
   "id": 203139053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.129523,41.202256,-96.129523,41.202256",
     "geom:latitude":41.202256,
     "geom:longitude":-96.129523,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13819 T Plz",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":203139053,
-    "wof:lastmodified":1449025109,
+    "wof:lastmodified":1466666421,
     "wof:name":"McManigal Family Dentistry",
     "wof:parent_id":85872531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "clinic"
     ]
 },
-  "bbox": [-96.129523,41.202256,-96.129523,41.202256],
-  "geometry": {"coordinates":[-96.129523,41.202256],"type":"Point"}
+  "bbox": [
+    -96.129523,
+    41.202256,
+    -96.129523,
+    41.202256
+],
+  "geometry": {"coordinates":[-96.12952300000001,41.202256],"type":"Point"}
 }

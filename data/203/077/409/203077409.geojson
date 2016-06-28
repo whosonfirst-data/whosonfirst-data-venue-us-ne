@@ -2,13 +2,14 @@
   "id": 203077409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.944603,41.252201,-95.944603,41.252201",
     "geom:latitude":41.252201,
     "geom:longitude":-95.944603,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"819 S 22nd St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203077409,
-    "wof:lastmodified":1449025235,
+    "wof:lastmodified":1466666057,
     "wof:name":"Metropolitan Community Church of Omaha",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.944603,41.252201,-95.944603,41.252201],
+  "bbox": [
+    -95.944603,
+    41.252201,
+    -95.944603,
+    41.252201
+],
   "geometry": {"coordinates":[-95.944603,41.252201],"type":"Point"}
 }

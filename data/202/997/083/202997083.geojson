@@ -2,13 +2,14 @@
   "id": 202997083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.932939,41.271178,-95.932939,41.271178",
     "geom:latitude":41.271178,
     "geom:longitude":-95.932939,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1111 N 13th St Ste 123",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":202997083,
-    "wof:lastmodified":1449062218,
+    "wof:lastmodified":1466665591,
     "wof:name":"Birdhouse Interior Design/Birdhouse Collectible",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "store"
     ]
 },
-  "bbox": [-95.932939,41.271178,-95.932939,41.271178],
+  "bbox": [
+    -95.932939,
+    41.271178,
+    -95.932939,
+    41.271178
+],
   "geometry": {"coordinates":[-95.932939,41.271178],"type":"Point"}
 }

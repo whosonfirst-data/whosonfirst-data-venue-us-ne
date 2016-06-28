@@ -2,13 +2,14 @@
   "id": 203104623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.009804,41.217201,-96.009804,41.217201",
     "geom:latitude":41.217201,
     "geom:longitude":-96.009804,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6224 H St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203104623,
-    "wof:lastmodified":1449025709,
+    "wof:lastmodified":1466666207,
     "wof:name":"Ralston Public Schools",
     "wof:parent_id":85867059,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "elementary"
     ]
 },
-  "bbox": [-96.009804,41.217201,-96.009804,41.217201],
+  "bbox": [
+    -96.009804,
+    41.217201,
+    -96.009804,
+    41.217201
+],
   "geometry": {"coordinates":[-96.009804,41.217201],"type":"Point"}
 }

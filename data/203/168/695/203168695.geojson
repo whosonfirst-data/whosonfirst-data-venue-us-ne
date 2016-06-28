@@ -2,13 +2,14 @@
   "id": 203168695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.724048,40.857579,-96.724048,40.857579",
     "geom:latitude":40.857579,
     "geom:longitude":-96.724048,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4665 Innovation Dr Ste 150",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203168695,
-    "wof:lastmodified":1449025927,
+    "wof:lastmodified":1466666568,
     "wof:name":"Computer Services Inc",
     "wof:parent_id":85878717,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "equipment-service"
     ]
 },
-  "bbox": [-96.724048,40.857579,-96.724048,40.857579],
+  "bbox": [
+    -96.724048,
+    40.857579,
+    -96.724048,
+    40.857579
+],
   "geometry": {"coordinates":[-96.724048,40.857579],"type":"Point"}
 }

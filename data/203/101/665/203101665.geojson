@@ -2,13 +2,14 @@
   "id": 203101665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.151868,41.292226,-96.151868,41.292226",
     "geom:latitude":41.292226,
     "geom:longitude":-96.151868,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15236 W Maple Rd",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -70,10 +71,11 @@
         }
     ],
     "wof:id":203101665,
-    "wof:lastmodified":1449025941,
+    "wof:lastmodified":1466666197,
     "wof:name":"Allstate Insurance Company - Mark Kroeger",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -85,6 +87,11 @@
         "renter"
     ]
 },
-  "bbox": [-96.151868,41.292226,-96.151868,41.292226],
-  "geometry": {"coordinates":[-96.151868,41.292226],"type":"Point"}
+  "bbox": [
+    -96.151868,
+    41.292226,
+    -96.151868,
+    41.292226
+],
+  "geometry": {"coordinates":[-96.15186799999999,41.292226],"type":"Point"}
 }

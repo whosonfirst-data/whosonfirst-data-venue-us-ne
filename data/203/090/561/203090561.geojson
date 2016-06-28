@@ -2,13 +2,14 @@
   "id": 203090561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.966343,41.298723,-95.966343,41.298723",
     "geom:latitude":41.298723,
     "geom:longitude":-95.966343,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4410 N 36th St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203090561,
-    "wof:lastmodified":1449026446,
+    "wof:lastmodified":1466666124,
     "wof:name":"Omaha Public Schools",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "elementary"
     ]
 },
-  "bbox": [-95.966343,41.298723,-95.966343,41.298723],
-  "geometry": {"coordinates":[-95.966343,41.298723],"type":"Point"}
+  "bbox": [
+    -95.966343,
+    41.298723,
+    -95.966343,
+    41.298723
+],
+  "geometry": {"coordinates":[-95.96634299999999,41.298723],"type":"Point"}
 }

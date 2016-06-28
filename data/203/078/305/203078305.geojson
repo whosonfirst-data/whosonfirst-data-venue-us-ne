@@ -2,13 +2,14 @@
   "id": 203078305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.941033,41.233184,-95.941033,41.233184",
     "geom:latitude":41.233184,
     "geom:longitude":-95.941033,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1908 Elm St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203078305,
-    "wof:lastmodified":1449026551,
+    "wof:lastmodified":1466666060,
     "wof:name":"Aaronson Local Locksmith",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "key"
     ]
 },
-  "bbox": [-95.941033,41.233184,-95.941033,41.233184],
+  "bbox": [
+    -95.941033,
+    41.233184,
+    -95.941033,
+    41.233184
+],
   "geometry": {"coordinates":[-95.941033,41.233184],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203166505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.705487,40.810277,-96.705487,40.810277",
     "geom:latitude":40.810277,
     "geom:longitude":-96.705487,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"404 S 11th St",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -65,10 +66,11 @@
         }
     ],
     "wof:id":203166505,
-    "wof:lastmodified":1449026010,
+    "wof:lastmodified":1466666552,
     "wof:name":"Right To Life",
     "wof:parent_id":85878699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -79,6 +81,11 @@
         "family"
     ]
 },
-  "bbox": [-96.705487,40.810277,-96.705487,40.810277],
-  "geometry": {"coordinates":[-96.705487,40.810277],"type":"Point"}
+  "bbox": [
+    -96.705487,
+    40.810277,
+    -96.705487,
+    40.810277
+],
+  "geometry": {"coordinates":[-96.70548700000001,40.810277],"type":"Point"}
 }

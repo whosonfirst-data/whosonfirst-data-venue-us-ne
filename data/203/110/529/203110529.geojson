@@ -2,13 +2,14 @@
   "id": 203110529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.054929,41.319014,-96.054929,41.319014",
     "geom:latitude":41.319014,
     "geom:longitude":-96.054929,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9111 Fremont St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":203110529,
-    "wof:lastmodified":1449025542,
+    "wof:lastmodified":1466666250,
     "wof:name":"Irvington Volunteer Fire Dept",
     "wof:parent_id":85872505,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "village"
     ]
 },
-  "bbox": [-96.054929,41.319014,-96.054929,41.319014],
+  "bbox": [
+    -96.054929,
+    41.319014,
+    -96.054929,
+    41.319014
+],
   "geometry": {"coordinates":[-96.054929,41.319014],"type":"Point"}
 }

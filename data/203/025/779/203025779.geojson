@@ -2,13 +2,14 @@
   "id": 203025779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.930849,41.256762,-95.930849,41.256762",
     "geom:latitude":41.256762,
     "geom:longitude":-95.930849,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1102 Harney St.",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203025779,
-    "wof:lastmodified":1449026540,
+    "wof:lastmodified":1466665728,
     "wof:name":"T. Henery's Pub",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.930849,41.256762,-95.930849,41.256762],
-  "geometry": {"coordinates":[-95.930849,41.256762],"type":"Point"}
+  "bbox": [
+    -95.930849,
+    41.256762,
+    -95.930849,
+    41.256762
+],
+  "geometry": {"coordinates":[-95.93084899999999,41.256762],"type":"Point"}
 }

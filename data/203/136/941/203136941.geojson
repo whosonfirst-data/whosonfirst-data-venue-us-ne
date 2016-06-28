@@ -2,13 +2,14 @@
   "id": 203136941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.046883,41.285142,-96.046883,41.285142",
     "geom:latitude":41.285142,
     "geom:longitude":-96.046883,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2917 Keystone Dr",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":203136941,
-    "wof:lastmodified":1449026852,
+    "wof:lastmodified":1466666437,
     "wof:name":"Lantz Brothers Inc.",
     "wof:parent_id":85867061,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "truck"
     ]
 },
-  "bbox": [-96.046883,41.285142,-96.046883,41.285142],
-  "geometry": {"coordinates":[-96.046883,41.285142],"type":"Point"}
+  "bbox": [
+    -96.046883,
+    41.285142,
+    -96.046883,
+    41.285142
+],
+  "geometry": {"coordinates":[-96.04688299999999,41.285142],"type":"Point"}
 }

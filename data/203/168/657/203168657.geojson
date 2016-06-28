@@ -2,13 +2,14 @@
   "id": 203168657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.681999,40.86104,-96.681999,40.86104",
     "geom:latitude":40.86104,
     "geom:longitude":-96.681999,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5020 N 27th St",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":203168657,
-    "wof:lastmodified":1449025925,
+    "wof:lastmodified":1466666566,
     "wof:name":"USPS - United States Post Office",
     "wof:parent_id":85878687,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.681999,40.86104,-96.681999,40.86104],
+  "bbox": [
+    -96.681999,
+    40.86104,
+    -96.681999,
+    40.86104
+],
   "geometry": {"coordinates":[-96.681999,40.86104],"type":"Point"}
 }

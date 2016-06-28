@@ -2,13 +2,14 @@
   "id": 203086465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.946838,41.27472,-95.946838,41.27472",
     "geom:latitude":41.27472,
     "geom:longitude":-95.946838,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1701 N 24th St Ste 101",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203086465,
-    "wof:lastmodified":1449026252,
+    "wof:lastmodified":1466666088,
     "wof:name":"Yoga Path the",
     "wof:parent_id":85872525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "yoga"
     ]
 },
-  "bbox": [-95.946838,41.27472,-95.946838,41.27472],
+  "bbox": [
+    -95.946838,
+    41.27472,
+    -95.946838,
+    41.27472
+],
   "geometry": {"coordinates":[-95.946838,41.27472],"type":"Point"}
 }

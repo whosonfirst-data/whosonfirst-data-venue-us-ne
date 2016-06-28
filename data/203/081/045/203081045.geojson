@@ -2,13 +2,14 @@
   "id": 203081045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.942246,41.248622,-95.942246,41.248622",
     "geom:latitude":41.248622,
     "geom:longitude":-95.942246,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1054 S. 20th St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":203081045,
-    "wof:lastmodified":1449025498,
+    "wof:lastmodified":1466666066,
     "wof:name":"Daily Grub",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "vegan"
     ]
 },
-  "bbox": [-95.942246,41.248622,-95.942246,41.248622],
+  "bbox": [
+    -95.942246,
+    41.248622,
+    -95.942246,
+    41.248622
+],
   "geometry": {"coordinates":[-95.942246,41.248622],"type":"Point"}
 }

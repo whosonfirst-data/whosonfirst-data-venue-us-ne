@@ -2,13 +2,14 @@
   "id": 203167965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.671513,40.734939,-96.671513,40.734939",
     "geom:latitude":40.734939,
     "geom:longitude":-96.671513,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3351 Canyon Ct",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":203167965,
-    "wof:lastmodified":1449025923,
+    "wof:lastmodified":1466666562,
     "wof:name":"Licoln Bowling Association",
     "wof:parent_id":85878733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.671513,40.734939,-96.671513,40.734939],
+  "bbox": [
+    -96.671513,
+    40.734939,
+    -96.671513,
+    40.734939
+],
   "geometry": {"coordinates":[-96.671513,40.734939],"type":"Point"}
 }

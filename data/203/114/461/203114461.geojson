@@ -2,13 +2,14 @@
   "id": 203114461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.080384,41.214238,-96.080384,41.214238",
     "geom:latitude":41.214238,
     "geom:longitude":-96.080384,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10729 J St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":203114461,
-    "wof:lastmodified":1449025714,
+    "wof:lastmodified":1466666281,
     "wof:name":"Holiday Inn Express Hotel & Suites Omaha-Southwest",
     "wof:parent_id":85872531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "hall"
     ]
 },
-  "bbox": [-96.080384,41.214238,-96.080384,41.214238],
+  "bbox": [
+    -96.080384,
+    41.214238,
+    -96.080384,
+    41.214238
+],
   "geometry": {"coordinates":[-96.080384,41.214238],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203079959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.926903,41.248199,-95.926903,41.248199",
     "geom:latitude":41.248199,
     "geom:longitude":-95.926903,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"802 Pierce St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":203079959,
-    "wof:lastmodified":1449026531,
+    "wof:lastmodified":1466666067,
     "wof:name":"Vacanti Brothers Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-95.926903,41.248199,-95.926903,41.248199],
+  "bbox": [
+    -95.926903,
+    41.248199,
+    -95.926903,
+    41.248199
+],
   "geometry": {"coordinates":[-95.926903,41.248199],"type":"Point"}
 }

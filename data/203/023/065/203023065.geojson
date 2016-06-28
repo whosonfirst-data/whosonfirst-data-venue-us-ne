@@ -2,13 +2,14 @@
   "id": 203023065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.938797,41.255299,-95.938797,41.255299",
     "geom:latitude":41.255299,
     "geom:longitude":-95.938797,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1722 Saint Marys Ave",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203023065,
-    "wof:lastmodified":1449026686,
+    "wof:lastmodified":1466669635,
     "wof:name":"Clarkson Mary P Atty",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.938797,41.255299,-95.938797,41.255299],
-  "geometry": {"coordinates":[-95.938797,41.255299],"type":"Point"}
+  "bbox": [
+    -95.938797,
+    41.255299,
+    -95.938797,
+    41.255299
+],
+  "geometry": {"coordinates":[-95.93879699999999,41.255299],"type":"Point"}
 }

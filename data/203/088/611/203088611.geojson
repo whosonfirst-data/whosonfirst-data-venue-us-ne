@@ -2,13 +2,14 @@
   "id": 203088611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.97514,41.299447,-95.97514,41.299447",
     "geom:latitude":41.299447,
     "geom:longitude":-95.97514,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4145 Ames Ave",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203088611,
-    "wof:lastmodified":1449026414,
+    "wof:lastmodified":1466666102,
     "wof:name":"Ames Avenue Convienence Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.97514,41.299447,-95.97514,41.299447],
+  "bbox": [
+    -95.97514,
+    41.299447,
+    -95.97514,
+    41.299447
+],
   "geometry": {"coordinates":[-95.97514,41.299447],"type":"Point"}
 }

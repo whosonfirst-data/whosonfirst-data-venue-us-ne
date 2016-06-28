@@ -2,13 +2,14 @@
   "id": 203142295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.138812,41.218663,-96.138812,41.218663",
     "geom:latitude":41.218663,
     "geom:longitude":-96.138812,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4150 S 144th St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203142295,
-    "wof:lastmodified":1449026453,
+    "wof:lastmodified":1466666444,
     "wof:name":"Charlie's On The Lake",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "take"
     ]
 },
-  "bbox": [-96.138812,41.218663,-96.138812,41.218663],
+  "bbox": [
+    -96.138812,
+    41.218663,
+    -96.138812,
+    41.218663
+],
   "geometry": {"coordinates":[-96.138812,41.218663],"type":"Point"}
 }

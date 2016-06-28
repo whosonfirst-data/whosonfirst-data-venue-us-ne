@@ -2,13 +2,14 @@
   "id": 203148953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.144096,41.26474,-96.144096,41.26474",
     "geom:latitude":41.26474,
     "geom:longitude":-96.144096,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14707 California St Ste 15",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":203148953,
-    "wof:lastmodified":1449026550,
+    "wof:lastmodified":1466666476,
     "wof:name":"Ehlen Leslie A DDS",
     "wof:parent_id":85806957,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.144096,41.26474,-96.144096,41.26474],
+  "bbox": [
+    -96.144096,
+    41.26474,
+    -96.144096,
+    41.26474
+],
   "geometry": {"coordinates":[-96.144096,41.26474],"type":"Point"}
 }

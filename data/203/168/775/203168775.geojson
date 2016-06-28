@@ -2,13 +2,14 @@
   "id": 203168775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.730717,40.872264,-96.730717,40.872264",
     "geom:latitude":40.872264,
     "geom:longitude":-96.730717,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6138 NW 7th St",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -73,10 +74,11 @@
         }
     ],
     "wof:id":203168775,
-    "wof:lastmodified":1449025927,
+    "wof:lastmodified":1466666570,
     "wof:name":"Mr. Electric Of Lincoln Nebraska",
     "wof:parent_id":85878717,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -89,6 +91,11 @@
         "maintenance"
     ]
 },
-  "bbox": [-96.730717,40.872264,-96.730717,40.872264],
+  "bbox": [
+    -96.730717,
+    40.872264,
+    -96.730717,
+    40.872264
+],
   "geometry": {"coordinates":[-96.730717,40.872264],"type":"Point"}
 }

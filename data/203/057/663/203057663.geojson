@@ -2,13 +2,14 @@
   "id": 203057663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.014701,41.243784,-96.014701,41.243784",
     "geom:latitude":41.243784,
     "geom:longitude":-96.014701,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2283 S 67th St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203057663,
-    "wof:lastmodified":1449025861,
+    "wof:lastmodified":1466665941,
     "wof:name":"Learning Headquarters",
     "wof:parent_id":85867059,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "online"
     ]
 },
-  "bbox": [-96.014701,41.243784,-96.014701,41.243784],
+  "bbox": [
+    -96.014701,
+    41.243784,
+    -96.014701,
+    41.243784
+],
   "geometry": {"coordinates":[-96.014701,41.243784],"type":"Point"}
 }

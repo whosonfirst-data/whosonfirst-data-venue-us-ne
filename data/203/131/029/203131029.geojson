@@ -2,13 +2,14 @@
   "id": 203131029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.990312,41.265064,-95.990312,41.265064",
     "geom:latitude":41.265064,
     "geom:longitude":-95.990312,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5001 Underwood St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203131029,
-    "wof:lastmodified":1449025481,
+    "wof:lastmodified":1466666375,
     "wof:name":"eCreamery",
     "wof:parent_id":85867055,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "yogurt"
     ]
 },
-  "bbox": [-95.990312,41.265064,-95.990312,41.265064],
+  "bbox": [
+    -95.990312,
+    41.265064,
+    -95.990312,
+    41.265064
+],
   "geometry": {"coordinates":[-95.990312,41.265064],"type":"Point"}
 }

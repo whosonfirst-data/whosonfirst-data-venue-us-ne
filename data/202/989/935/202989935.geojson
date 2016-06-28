@@ -2,13 +2,14 @@
   "id": 202989935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.040154,41.174519,-96.040154,41.174519",
     "geom:latitude":41.174519,
     "geom:longitude":-96.040154,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1260 Royal Dr",
     "sg:city":"Papillion",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":202989935,
-    "wof:lastmodified":1449061958,
+    "wof:lastmodified":1466669579,
     "wof:name":"Mr. Handyman of Omaha",
     "wof:parent_id":85843697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "drywall"
     ]
 },
-  "bbox": [-96.040154,41.174519,-96.040154,41.174519],
+  "bbox": [
+    -96.040154,
+    41.174519,
+    -96.040154,
+    41.174519
+],
   "geometry": {"coordinates":[-96.040154,41.174519],"type":"Point"}
 }

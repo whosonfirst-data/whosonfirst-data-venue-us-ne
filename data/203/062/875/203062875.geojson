@@ -2,13 +2,14 @@
   "id": 203062875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.003451,41.235297,-96.003451,41.235297",
     "geom:latitude":41.235297,
     "geom:longitude":-96.003451,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5876 Gold St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203062875,
-    "wof:lastmodified":1449026735,
+    "wof:lastmodified":1466665980,
     "wof:name":"22 Minute A Locksmith",
     "wof:parent_id":85867059,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "key"
     ]
 },
-  "bbox": [-96.003451,41.235297,-96.003451,41.235297],
+  "bbox": [
+    -96.003451,
+    41.235297,
+    -96.003451,
+    41.235297
+],
   "geometry": {"coordinates":[-96.003451,41.235297],"type":"Point"}
 }

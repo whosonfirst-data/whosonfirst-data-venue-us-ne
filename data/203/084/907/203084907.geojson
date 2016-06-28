@@ -2,13 +2,14 @@
   "id": 203084907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.937309,41.31349,-95.937309,41.31349",
     "geom:latitude":41.31349,
     "geom:longitude":-95.937309,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5902 N 16th St",
     "sg:city":"Omaha",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203084907,
-    "wof:lastmodified":1449025150,
+    "wof:lastmodified":1466666083,
     "wof:name":"Deffenbaugh Disposal Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.937309,41.31349,-95.937309,41.31349],
+  "bbox": [
+    -95.937309,
+    41.31349,
+    -95.937309,
+    41.31349
+],
   "geometry": {"coordinates":[-95.937309,41.31349],"type":"Point"}
 }

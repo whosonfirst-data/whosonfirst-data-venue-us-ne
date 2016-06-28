@@ -2,13 +2,14 @@
   "id": 203143309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.102745,41.233985,-96.102745,41.233985",
     "geom:latitude":41.233985,
     "geom:longitude":-96.102745,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12165 W Center Rd",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":203143309,
-    "wof:lastmodified":1449026521,
+    "wof:lastmodified":1466666446,
     "wof:name":"Mooney Law Offices",
     "wof:parent_id":85872531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "law"
     ]
 },
-  "bbox": [-96.102745,41.233985,-96.102745,41.233985],
+  "bbox": [
+    -96.102745,
+    41.233985,
+    -96.102745,
+    41.233985
+],
   "geometry": {"coordinates":[-96.102745,41.233985],"type":"Point"}
 }

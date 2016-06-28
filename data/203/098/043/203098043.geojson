@@ -2,13 +2,14 @@
   "id": 203098043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.048782,41.263039,-96.048782,41.263039",
     "geom:latitude":41.263039,
     "geom:longitude":-96.048782,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8701 W Dodge Rd Ste 300",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":203098043,
-    "wof:lastmodified":1449026670,
+    "wof:lastmodified":1466666162,
     "wof:name":"Call Tracy",
     "wof:parent_id":85872509,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "finder"
     ]
 },
-  "bbox": [-96.048782,41.263039,-96.048782,41.263039],
+  "bbox": [
+    -96.048782,
+    41.263039,
+    -96.048782,
+    41.263039
+],
   "geometry": {"coordinates":[-96.048782,41.263039],"type":"Point"}
 }

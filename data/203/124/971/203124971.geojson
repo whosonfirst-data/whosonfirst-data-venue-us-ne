@@ -2,13 +2,14 @@
   "id": 203124971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.948048,41.258514,-95.948048,41.258514",
     "geom:latitude":41.258514,
     "geom:longitude":-95.948048,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"219 S 25th St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203124971,
-    "wof:lastmodified":1449026724,
+    "wof:lastmodified":1466666329,
     "wof:name":"Omaha International Food Mart",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.948048,41.258514,-95.948048,41.258514],
+  "bbox": [
+    -95.948048,
+    41.258514,
+    -95.948048,
+    41.258514
+],
   "geometry": {"coordinates":[-95.948048,41.258514],"type":"Point"}
 }

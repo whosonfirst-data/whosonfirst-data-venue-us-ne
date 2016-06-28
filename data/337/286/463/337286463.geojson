@@ -2,13 +2,14 @@
   "id": 337286463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.924061,41.261849,-95.924061,41.261849",
     "geom:latitude":41.261849,
     "geom:longitude":-95.924061,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"345 Riverfront Dr",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":337286463,
-    "wof:lastmodified":1449027148,
+    "wof:lastmodified":1466665578,
     "wof:name":"Rick's Cafe Boatyard",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "steakhouse"
     ]
 },
-  "bbox": [-95.924061,41.261849,-95.924061,41.261849],
-  "geometry": {"coordinates":[-95.924061,41.261849],"type":"Point"}
+  "bbox": [
+    -95.924061,
+    41.261849,
+    -95.924061,
+    41.261849
+],
+  "geometry": {"coordinates":[-95.92406099999999,41.261849],"type":"Point"}
 }

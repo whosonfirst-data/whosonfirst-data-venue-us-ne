@@ -2,13 +2,14 @@
   "id": 203082893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.945513,41.291282,-95.945513,41.291282",
     "geom:latitude":41.291282,
     "geom:longitude":-95.945513,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2221 Evans St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203082893,
-    "wof:lastmodified":1449025000,
+    "wof:lastmodified":1466666076,
     "wof:name":"A To Z 24 Hour Locksmith",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "key"
     ]
 },
-  "bbox": [-95.945513,41.291282,-95.945513,41.291282],
-  "geometry": {"coordinates":[-95.945513,41.291282],"type":"Point"}
+  "bbox": [
+    -95.945513,
+    41.291282,
+    -95.945513,
+    41.291282
+],
+  "geometry": {"coordinates":[-95.94551300000001,41.291282],"type":"Point"}
 }

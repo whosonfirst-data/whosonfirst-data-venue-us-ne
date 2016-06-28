@@ -2,13 +2,14 @@
   "id": 203014897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.932197,41.255694,-95.932197,41.255694",
     "geom:latitude":41.255694,
     "geom:longitude":-95.932197,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1202 Howard Street",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":203014897,
-    "wof:lastmodified":1449025851,
+    "wof:lastmodified":1466665641,
     "wof:name":"WheatFields Express",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "breakfast"
     ]
 },
-  "bbox": [-95.932197,41.255694,-95.932197,41.255694],
+  "bbox": [
+    -95.932197,
+    41.255694,
+    -95.932197,
+    41.255694
+],
   "geometry": {"coordinates":[-95.932197,41.255694],"type":"Point"}
 }

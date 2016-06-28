@@ -2,13 +2,14 @@
   "id": 203140355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.120452,41.195735,-96.120452,41.195735",
     "geom:latitude":41.195735,
     "geom:longitude":-96.120452,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6216 Ponderosa Dr",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203140355,
-    "wof:lastmodified":1449025204,
+    "wof:lastmodified":1466666436,
     "wof:name":"Donald R Nelson",
     "wof:parent_id":85872531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "diet"
     ]
 },
-  "bbox": [-96.120452,41.195735,-96.120452,41.195735],
+  "bbox": [
+    -96.120452,
+    41.195735,
+    -96.120452,
+    41.195735
+],
   "geometry": {"coordinates":[-96.120452,41.195735],"type":"Point"}
 }

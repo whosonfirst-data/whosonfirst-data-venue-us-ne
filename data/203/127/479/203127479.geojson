@@ -2,13 +2,14 @@
   "id": 203127479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.972968,41.268206,-95.972968,41.268206",
     "geom:latitude":41.268206,
     "geom:longitude":-95.972968,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4002 Cuming St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203127479,
-    "wof:lastmodified":1449026706,
+    "wof:lastmodified":1466666342,
     "wof:name":"Cuming Food Mart",
     "wof:parent_id":85872525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.972968,41.268206,-95.972968,41.268206],
-  "geometry": {"coordinates":[-95.972968,41.268206],"type":"Point"}
+  "bbox": [
+    -95.972968,
+    41.268206,
+    -95.972968,
+    41.268206
+],
+  "geometry": {"coordinates":[-95.97296799999999,41.268206],"type":"Point"}
 }

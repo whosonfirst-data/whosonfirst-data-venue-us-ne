@@ -2,13 +2,14 @@
   "id": 203003621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.933447,41.263587,-95.933447,41.263587",
     "geom:latitude":41.263587,
     "geom:longitude":-95.933447,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"218 Ste Ste",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203003621,
-    "wof:lastmodified":1449026723,
+    "wof:lastmodified":1466669574,
     "wof:name":"Woodard Marilou MD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.933447,41.263587,-95.933447,41.263587],
+  "bbox": [
+    -95.933447,
+    41.263587,
+    -95.933447,
+    41.263587
+],
   "geometry": {"coordinates":[-95.933447,41.263587],"type":"Point"}
 }

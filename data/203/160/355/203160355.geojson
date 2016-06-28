@@ -2,13 +2,14 @@
   "id": 203160355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.844117,40.385529,-95.844117,40.385529",
     "geom:latitude":40.385529,
     "geom:longitude":-95.844117,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1407 19th St",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":203160355,
-    "wof:lastmodified":1449026544,
+    "wof:lastmodified":1466666524,
     "wof:name":"The Hairitage Salon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "stylist"
     ]
 },
-  "bbox": [-95.844117,40.385529,-95.844117,40.385529],
+  "bbox": [
+    -95.844117,
+    40.385529,
+    -95.844117,
+    40.385529
+],
   "geometry": {"coordinates":[-95.844117,40.385529],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202998125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.931115,41.253356,-95.931115,41.253356",
     "geom:latitude":41.253356,
     "geom:longitude":-95.931115,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1110 Jones St.",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":202998125,
-    "wof:lastmodified":1449060949,
+    "wof:lastmodified":1466665592,
     "wof:name":"The Boiler Room",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "french"
     ]
 },
-  "bbox": [-95.931115,41.253356,-95.931115,41.253356],
-  "geometry": {"coordinates":[-95.931115,41.253356],"type":"Point"}
+  "bbox": [
+    -95.931115,
+    41.253356,
+    -95.931115,
+    41.253356
+],
+  "geometry": {"coordinates":[-95.93111500000001,41.253356],"type":"Point"}
 }

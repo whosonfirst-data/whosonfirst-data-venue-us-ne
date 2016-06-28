@@ -2,13 +2,14 @@
   "id": 203114217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.058743,41.217141,-96.058743,41.217141",
     "geom:latitude":41.217141,
     "geom:longitude":-96.058743,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4320 S 94th St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -75,10 +76,11 @@
         }
     ],
     "wof:id":203114217,
-    "wof:lastmodified":1449025719,
+    "wof:lastmodified":1466666276,
     "wof:name":"Republic National Distributing Company Eagle Division",
     "wof:parent_id":85872511,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -89,6 +91,11 @@
         "liquors-wholesale"
     ]
 },
-  "bbox": [-96.058743,41.217141,-96.058743,41.217141],
-  "geometry": {"coordinates":[-96.058743,41.217141],"type":"Point"}
+  "bbox": [
+    -96.058743,
+    41.217141,
+    -96.058743,
+    41.217141
+],
+  "geometry": {"coordinates":[-96.05874300000001,41.217141],"type":"Point"}
 }

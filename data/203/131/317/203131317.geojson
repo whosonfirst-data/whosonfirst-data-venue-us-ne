@@ -2,13 +2,14 @@
   "id": 203131317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.981246,41.272207,-95.981246,41.272207",
     "geom:latitude":41.272207,
     "geom:longitude":-95.981246,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4527 1/2 Hamilton St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203131317,
-    "wof:lastmodified":1449025481,
+    "wof:lastmodified":1466666380,
     "wof:name":"I.N.J.F., Save Our Youth",
     "wof:parent_id":85867055,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.981246,41.272207,-95.981246,41.272207],
+  "bbox": [
+    -95.981246,
+    41.272207,
+    -95.981246,
+    41.272207
+],
   "geometry": {"coordinates":[-95.981246,41.272207],"type":"Point"}
 }

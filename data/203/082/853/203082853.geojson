@@ -2,13 +2,14 @@
   "id": 203082853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.946757,41.300592,-95.946757,41.300592",
     "geom:latitude":41.300592,
     "geom:longitude":-95.946757,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4609 N 24th St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203082853,
-    "wof:lastmodified":1449024997,
+    "wof:lastmodified":1466666075,
     "wof:name":"Little Hearts Child Development",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-95.946757,41.300592,-95.946757,41.300592],
-  "geometry": {"coordinates":[-95.946757,41.300592],"type":"Point"}
+  "bbox": [
+    -95.946757,
+    41.300592,
+    -95.946757,
+    41.300592
+],
+  "geometry": {"coordinates":[-95.94675700000001,41.300592],"type":"Point"}
 }

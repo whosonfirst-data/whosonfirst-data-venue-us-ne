@@ -2,13 +2,14 @@
   "id": 203100911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.188026,41.278271,-96.188026,41.278271",
     "geom:latitude":41.278271,
     "geom:longitude":-96.188026,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17500 Patrick Ave",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":203100911,
-    "wof:lastmodified":1449026365,
+    "wof:lastmodified":1466666192,
     "wof:name":"United Seniors Of America",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "financing"
     ]
 },
-  "bbox": [-96.188026,41.278271,-96.188026,41.278271],
-  "geometry": {"coordinates":[-96.188026,41.278271],"type":"Point"}
+  "bbox": [
+    -96.188026,
+    41.278271,
+    -96.188026,
+    41.278271
+],
+  "geometry": {"coordinates":[-96.18802599999999,41.278271],"type":"Point"}
 }

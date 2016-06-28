@@ -2,13 +2,14 @@
   "id": 203153225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.950909,41.284704,-95.950909,41.284704",
     "geom:latitude":41.284704,
     "geom:longitude":-95.950909,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5918 Maple St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -57,16 +58,22 @@
         }
     ],
     "wof:id":203153225,
-    "wof:lastmodified":1449026286,
+    "wof:lastmodified":1466666486,
     "wof:name":"Mick's Music and Bar",
     "wof:parent_id":85872525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "venue"
     ]
 },
-  "bbox": [-95.950909,41.284704,-95.950909,41.284704],
+  "bbox": [
+    -95.950909,
+    41.284704,
+    -95.950909,
+    41.284704
+],
   "geometry": {"coordinates":[-95.950909,41.284704],"type":"Point"}
 }

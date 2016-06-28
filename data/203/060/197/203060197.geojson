@@ -2,13 +2,14 @@
   "id": 203060197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.989152,41.251572,-95.989152,41.251572",
     "geom:latitude":41.251572,
     "geom:longitude":-95.989152,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"826 S 49th Ave",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203060197,
-    "wof:lastmodified":1449026691,
+    "wof:lastmodified":1466665949,
     "wof:name":"Am Heating & Air Conditioning Inc",
     "wof:parent_id":85872523,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "conditioning/hvac"
     ]
 },
-  "bbox": [-95.989152,41.251572,-95.989152,41.251572],
+  "bbox": [
+    -95.989152,
+    41.251572,
+    -95.989152,
+    41.251572
+],
   "geometry": {"coordinates":[-95.989152,41.251572],"type":"Point"}
 }

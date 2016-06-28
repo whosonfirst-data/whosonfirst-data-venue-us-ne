@@ -2,13 +2,14 @@
   "id": 203112247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.07532,41.214226,-96.07532,41.214226",
     "geom:latitude":41.214226,
     "geom:longitude":-96.07532,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10415 J St Ste 103",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":203112247,
-    "wof:lastmodified":1449025786,
+    "wof:lastmodified":1466666265,
     "wof:name":"Safway Services",
     "wof:parent_id":85872531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "store"
     ]
 },
-  "bbox": [-96.07532,41.214226,-96.07532,41.214226],
+  "bbox": [
+    -96.07532,
+    41.214226,
+    -96.07532,
+    41.214226
+],
   "geometry": {"coordinates":[-96.07532,41.214226],"type":"Point"}
 }

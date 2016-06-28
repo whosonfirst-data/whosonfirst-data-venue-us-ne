@@ -2,13 +2,14 @@
   "id": 203000087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.930801,41.254398,-95.930801,41.254398",
     "geom:latitude":41.254398,
     "geom:longitude":-95.930801,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1120 Jackson St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203000087,
-    "wof:lastmodified":1449025240,
+    "wof:lastmodified":1466665598,
     "wof:name":"Ted and Wally's Ice Cream",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "yogurt"
     ]
 },
-  "bbox": [-95.930801,41.254398,-95.930801,41.254398],
+  "bbox": [
+    -95.930801,
+    41.254398,
+    -95.930801,
+    41.254398
+],
   "geometry": {"coordinates":[-95.930801,41.254398],"type":"Point"}
 }

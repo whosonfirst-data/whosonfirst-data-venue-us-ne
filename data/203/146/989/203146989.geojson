@@ -2,13 +2,14 @@
   "id": 203146989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.140055,41.225587,-96.140055,41.225587",
     "geom:latitude":41.225587,
     "geom:longitude":-96.140055,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14633 Industrial Rd",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":203146989,
-    "wof:lastmodified":1449025711,
+    "wof:lastmodified":1466666465,
     "wof:name":"New Creation Community Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "church"
     ]
 },
-  "bbox": [-96.140055,41.225587,-96.140055,41.225587],
+  "bbox": [
+    -96.140055,
+    41.225587,
+    -96.140055,
+    41.225587
+],
   "geometry": {"coordinates":[-96.140055,41.225587],"type":"Point"}
 }

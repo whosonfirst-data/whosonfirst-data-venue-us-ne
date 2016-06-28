@@ -2,13 +2,14 @@
   "id": 203126353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.966578,41.267923,-95.966578,41.267923",
     "geom:latitude":41.267923,
     "geom:longitude":-95.966578,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3612 Cuming St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -69,10 +70,11 @@
         }
     ],
     "wof:id":203126353,
-    "wof:lastmodified":1449025616,
+    "wof:lastmodified":1466666342,
     "wof:name":"Salvation Army Family Store",
     "wof:parent_id":85872525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -81,6 +83,11 @@
         "army"
     ]
 },
-  "bbox": [-95.966578,41.267923,-95.966578,41.267923],
+  "bbox": [
+    -95.966578,
+    41.267923,
+    -95.966578,
+    41.267923
+],
   "geometry": {"coordinates":[-95.966578,41.267923],"type":"Point"}
 }

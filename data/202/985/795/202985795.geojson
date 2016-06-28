@@ -2,13 +2,14 @@
   "id": 202985795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.923851,41.155867,-95.923851,41.155867",
     "geom:latitude":41.155867,
     "geom:longitude":-95.923851,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2206 Longo Dr Ste 201",
     "sg:city":"Bellevue",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":202985795,
-    "wof:lastmodified":1449061383,
+    "wof:lastmodified":1466665576,
     "wof:name":"Ferguson Lorin E",
     "wof:parent_id":85804025,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-95.923851,41.155867,-95.923851,41.155867],
+  "bbox": [
+    -95.923851,
+    41.155867,
+    -95.923851,
+    41.155867
+],
   "geometry": {"coordinates":[-95.923851,41.155867],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203078315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.942101,41.249599,-95.942101,41.249599",
     "geom:latitude":41.249599,
     "geom:longitude":-95.942101,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1045 S 20th St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":203078315,
-    "wof:lastmodified":1449026554,
+    "wof:lastmodified":1466666060,
     "wof:name":"Office One Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "furniture"
     ]
 },
-  "bbox": [-95.942101,41.249599,-95.942101,41.249599],
-  "geometry": {"coordinates":[-95.942101,41.249599],"type":"Point"}
+  "bbox": [
+    -95.942101,
+    41.249599,
+    -95.942101,
+    41.249599
+],
+  "geometry": {"coordinates":[-95.94210099999999,41.249599],"type":"Point"}
 }

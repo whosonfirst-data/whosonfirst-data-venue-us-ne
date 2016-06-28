@@ -2,13 +2,14 @@
   "id": 203102429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.990664,41.21342,-95.990664,41.21342",
     "geom:latitude":41.21342,
     "geom:longitude":-95.990664,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4601 S 50th St Ste 103",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":203102429,
-    "wof:lastmodified":1449026733,
+    "wof:lastmodified":1466666202,
     "wof:name":"Ground Zero Comics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bookstore"
     ]
 },
-  "bbox": [-95.990664,41.21342,-95.990664,41.21342],
+  "bbox": [
+    -95.990664,
+    41.21342,
+    -95.990664,
+    41.21342
+],
   "geometry": {"coordinates":[-95.990664,41.21342],"type":"Point"}
 }

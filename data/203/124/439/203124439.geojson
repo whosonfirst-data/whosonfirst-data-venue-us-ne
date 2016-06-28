@@ -2,13 +2,14 @@
   "id": 203124439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.978401,41.262001,-95.978401,41.262001",
     "geom:latitude":41.262001,
     "geom:longitude":-95.978401,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4327 Wakeley St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203124439,
-    "wof:lastmodified":1449026724,
+    "wof:lastmodified":1466666317,
     "wof:name":"Andy's Roofing Company",
     "wof:parent_id":85867055,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "roofing"
     ]
 },
-  "bbox": [-95.978401,41.262001,-95.978401,41.262001],
-  "geometry": {"coordinates":[-95.978401,41.262001],"type":"Point"}
+  "bbox": [
+    -95.978401,
+    41.262001,
+    -95.978401,
+    41.262001
+],
+  "geometry": {"coordinates":[-95.97840100000001,41.262001],"type":"Point"}
 }

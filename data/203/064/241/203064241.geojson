@@ -2,13 +2,14 @@
   "id": 203064241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.944295,41.203477,-95.944295,41.203477",
     "geom:latitude":41.203477,
     "geom:longitude":-95.944295,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5434 S 22nd St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -68,10 +69,11 @@
         }
     ],
     "wof:id":203064241,
-    "wof:lastmodified":1449025594,
+    "wof:lastmodified":1466665985,
     "wof:name":"Assumption Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -81,6 +83,11 @@
         "k-"
     ]
 },
-  "bbox": [-95.944295,41.203477,-95.944295,41.203477],
+  "bbox": [
+    -95.944295,
+    41.203477,
+    -95.944295,
+    41.203477
+],
   "geometry": {"coordinates":[-95.944295,41.203477],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203023155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.929246,41.255914,-95.929246,41.255914",
     "geom:latitude":41.255914,
     "geom:longitude":-95.929246,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"414 S 10th St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":203023155,
-    "wof:lastmodified":1449026686,
+    "wof:lastmodified":1466665674,
     "wof:name":"Stadium Club",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "american"
     ]
 },
-  "bbox": [-95.929246,41.255914,-95.929246,41.255914],
-  "geometry": {"coordinates":[-95.929246,41.255914],"type":"Point"}
+  "bbox": [
+    -95.929246,
+    41.255914,
+    -95.929246,
+    41.255914
+],
+  "geometry": {"coordinates":[-95.92924600000001,41.255914],"type":"Point"}
 }

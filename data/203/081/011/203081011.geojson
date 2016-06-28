@@ -2,13 +2,14 @@
   "id": 203081011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.933332,41.241355,-95.933332,41.241355",
     "geom:latitude":41.241355,
     "geom:longitude":-95.933332,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1902 S 13th St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203081011,
-    "wof:lastmodified":1449025497,
+    "wof:lastmodified":1466669649,
     "wof:name":"Re-Cycle Bike Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "bike"
     ]
 },
-  "bbox": [-95.933332,41.241355,-95.933332,41.241355],
-  "geometry": {"coordinates":[-95.933332,41.241355],"type":"Point"}
+  "bbox": [
+    -95.933332,
+    41.241355,
+    -95.933332,
+    41.241355
+],
+  "geometry": {"coordinates":[-95.93333199999999,41.241355],"type":"Point"}
 }

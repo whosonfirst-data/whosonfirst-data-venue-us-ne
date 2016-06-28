@@ -2,13 +2,14 @@
   "id": 203089697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.950531,41.296841,-95.950531,41.296841",
     "geom:latitude":41.296841,
     "geom:longitude":-95.950531,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4201 N 26th St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":203089697,
-    "wof:lastmodified":1449025316,
+    "wof:lastmodified":1466666114,
     "wof:name":"Specialty Fabricating Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "machinery-rebuild"
     ]
 },
-  "bbox": [-95.950531,41.296841,-95.950531,41.296841],
+  "bbox": [
+    -95.950531,
+    41.296841,
+    -95.950531,
+    41.296841
+],
   "geometry": {"coordinates":[-95.950531,41.296841],"type":"Point"}
 }

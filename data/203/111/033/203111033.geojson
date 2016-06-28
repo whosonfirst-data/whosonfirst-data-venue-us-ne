@@ -2,13 +2,14 @@
   "id": 203111033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.945622,41.118375,-95.945622,41.118375",
     "geom:latitude":41.118375,
     "geom:longitude":-95.945622,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2211 Capehart Rd",
     "sg:city":"Bellevue",
     "sg:classifiers":[
@@ -71,10 +72,11 @@
         }
     ],
     "wof:id":203111033,
-    "wof:lastmodified":1449026902,
+    "wof:lastmodified":1466666253,
     "wof:name":"Ricchini, Matt - State Farm Insurance Agent",
     "wof:parent_id":85820061,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -85,6 +87,11 @@
         "renter"
     ]
 },
-  "bbox": [-95.945622,41.118375,-95.945622,41.118375],
+  "bbox": [
+    -95.945622,
+    41.118375,
+    -95.945622,
+    41.118375
+],
   "geometry": {"coordinates":[-95.945622,41.118375],"type":"Point"}
 }

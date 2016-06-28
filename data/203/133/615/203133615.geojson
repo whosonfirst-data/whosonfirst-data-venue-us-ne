@@ -2,13 +2,14 @@
   "id": 203133615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.988998,41.259399,-95.988998,41.259399",
     "geom:latitude":41.259399,
     "geom:longitude":-95.988998,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"115 S 49th Ave",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203133615,
-    "wof:lastmodified":1449026513,
+    "wof:lastmodified":1466666408,
     "wof:name":"Neighborhood Center For Greater Omaha",
     "wof:parent_id":85867055,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "team"
     ]
 },
-  "bbox": [-95.988998,41.259399,-95.988998,41.259399],
+  "bbox": [
+    -95.988998,
+    41.259399,
+    -95.988998,
+    41.259399
+],
   "geometry": {"coordinates":[-95.988998,41.259399],"type":"Point"}
 }

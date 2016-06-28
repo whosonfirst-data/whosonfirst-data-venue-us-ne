@@ -2,13 +2,14 @@
   "id": 203072167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.977408,41.194468,-95.977408,41.194468",
     "geom:latitude":41.194468,
     "geom:longitude":-95.977408,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4219 Madison St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":203072167,
-    "wof:lastmodified":1449025947,
+    "wof:lastmodified":1466666044,
     "wof:name":"Allied Associates Architectural Lighting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "equipment"
     ]
 },
-  "bbox": [-95.977408,41.194468,-95.977408,41.194468],
+  "bbox": [
+    -95.977408,
+    41.194468,
+    -95.977408,
+    41.194468
+],
   "geometry": {"coordinates":[-95.977408,41.194468],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203129801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.960368,41.267047,-95.960368,41.267047",
     "geom:latitude":41.267047,
     "geom:longitude":-95.960368,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3230 Burt St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203129801,
-    "wof:lastmodified":1449026469,
+    "wof:lastmodified":1466666370,
     "wof:name":"Omaha Public Schools",
     "wof:parent_id":85872525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.960368,41.267047,-95.960368,41.267047],
+  "bbox": [
+    -95.960368,
+    41.267047,
+    -95.960368,
+    41.267047
+],
   "geometry": {"coordinates":[-95.960368,41.267047],"type":"Point"}
 }

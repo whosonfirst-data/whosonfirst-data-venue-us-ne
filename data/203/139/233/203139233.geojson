@@ -2,13 +2,14 @@
   "id": 203139233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.113274,41.205181,-96.113274,41.205181",
     "geom:latitude":41.205181,
     "geom:longitude":-96.113274,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12759 Q St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":203139233,
-    "wof:lastmodified":1449025114,
+    "wof:lastmodified":1466666427,
     "wof:name":"Kohlls Pharmacy",
     "wof:parent_id":85872531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.113274,41.205181,-96.113274,41.205181],
+  "bbox": [
+    -96.113274,
+    41.205181,
+    -96.113274,
+    41.205181
+],
   "geometry": {"coordinates":[-96.113274,41.205181],"type":"Point"}
 }

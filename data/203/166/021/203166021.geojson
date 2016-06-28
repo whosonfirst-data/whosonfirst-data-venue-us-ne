@@ -2,13 +2,14 @@
   "id": 203166021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.625057,40.782886,-96.625057,40.782886",
     "geom:latitude":40.782886,
     "geom:longitude":-96.625057,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2900 S 70th St Ste 100",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203166021,
-    "wof:lastmodified":1449026011,
+    "wof:lastmodified":1466669668,
     "wof:name":"Ventures For Excellence Inc",
     "wof:parent_id":85878697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.625057,40.782886,-96.625057,40.782886],
+  "bbox": [
+    -96.625057,
+    40.782886,
+    -96.625057,
+    40.782886
+],
   "geometry": {"coordinates":[-96.625057,40.782886],"type":"Point"}
 }

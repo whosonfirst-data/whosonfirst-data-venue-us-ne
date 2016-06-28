@@ -2,13 +2,14 @@
   "id": 203167265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.607382,40.81168,-96.607382,40.81168",
     "geom:latitude":40.81168,
     "geom:longitude":-96.607382,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"249 Cherry Hill Blvd Ste 5",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":203167265,
-    "wof:lastmodified":1449025917,
+    "wof:lastmodified":1466666551,
     "wof:name":"Cherry Hill Dentistry LLC",
     "wof:parent_id":85878725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.607382,40.81168,-96.607382,40.81168],
+  "bbox": [
+    -96.607382,
+    40.81168,
+    -96.607382,
+    40.81168
+],
   "geometry": {"coordinates":[-96.607382,40.81168],"type":"Point"}
 }

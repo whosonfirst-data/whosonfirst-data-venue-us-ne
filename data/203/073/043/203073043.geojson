@@ -2,13 +2,14 @@
   "id": 203073043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.93169,41.234852,-95.93169,41.234852",
     "geom:latitude":41.234852,
     "geom:longitude":-95.93169,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2601 S 12 St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203073043,
-    "wof:lastmodified":1449025203,
+    "wof:lastmodified":1466666043,
     "wof:name":"Jill's Moving Boxes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "local"
     ]
 },
-  "bbox": [-95.93169,41.234852,-95.93169,41.234852],
+  "bbox": [
+    -95.93169,
+    41.234852,
+    -95.93169,
+    41.234852
+],
   "geometry": {"coordinates":[-95.93169,41.234852],"type":"Point"}
 }

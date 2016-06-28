@@ -2,13 +2,14 @@
   "id": 203131771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.980522,41.270106,-95.980522,41.270106",
     "geom:latitude":41.270106,
     "geom:longitude":-95.980522,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1120 N 45th St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203131771,
-    "wof:lastmodified":1449025481,
+    "wof:lastmodified":1466666391,
     "wof:name":"P & A Holdings Llc",
     "wof:parent_id":85867055,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "equipment"
     ]
 },
-  "bbox": [-95.980522,41.270106,-95.980522,41.270106],
-  "geometry": {"coordinates":[-95.980522,41.270106],"type":"Point"}
+  "bbox": [
+    -95.980522,
+    41.270106,
+    -95.980522,
+    41.270106
+],
+  "geometry": {"coordinates":[-95.98052199999999,41.270106],"type":"Point"}
 }

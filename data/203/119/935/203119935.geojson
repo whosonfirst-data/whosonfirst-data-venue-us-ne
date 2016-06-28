@@ -2,13 +2,14 @@
   "id": 203119935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.976903,41.257755,-95.976903,41.257755",
     "geom:latitude":41.257755,
     "geom:longitude":-95.976903,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4239 Farnam St Ste 800",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":203119935,
-    "wof:lastmodified":1449026322,
+    "wof:lastmodified":1466666298,
     "wof:name":"Martin J Winkler Md",
     "wof:parent_id":85872523,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "family"
     ]
 },
-  "bbox": [-95.976903,41.257755,-95.976903,41.257755],
-  "geometry": {"coordinates":[-95.976903,41.257755],"type":"Point"}
+  "bbox": [
+    -95.976903,
+    41.257755,
+    -95.976903,
+    41.257755
+],
+  "geometry": {"coordinates":[-95.97690299999999,41.257755],"type":"Point"}
 }

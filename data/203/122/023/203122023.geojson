@@ -2,13 +2,14 @@
   "id": 203122023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.967903,41.262501,-95.967903,41.262501",
     "geom:latitude":41.262501,
     "geom:longitude":-95.967903,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2679 Farnam St Ste 201",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203122023,
-    "wof:lastmodified":1449026028,
+    "wof:lastmodified":1466666301,
     "wof:name":"Leopard Incorporated",
     "wof:parent_id":85872525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "design"
     ]
 },
-  "bbox": [-95.967903,41.262501,-95.967903,41.262501],
-  "geometry": {"coordinates":[-95.967903,41.262501],"type":"Point"}
+  "bbox": [
+    -95.967903,
+    41.262501,
+    -95.967903,
+    41.262501
+],
+  "geometry": {"coordinates":[-95.96790300000001,41.262501],"type":"Point"}
 }

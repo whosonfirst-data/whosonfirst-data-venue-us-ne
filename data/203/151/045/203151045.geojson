@@ -2,13 +2,14 @@
   "id": 203151045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.083818,41.287623,-96.083818,41.287623",
     "geom:latitude":41.287623,
     "geom:longitude":-96.083818,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10909 W Maple Rd",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -69,10 +70,11 @@
         }
     ],
     "wof:id":203151045,
-    "wof:lastmodified":1449024958,
+    "wof:lastmodified":1466666466,
     "wof:name":"Alkar Billiards & Bar Stools",
     "wof:parent_id":85872503,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -86,6 +88,11 @@
         "store"
     ]
 },
-  "bbox": [-96.083818,41.287623,-96.083818,41.287623],
-  "geometry": {"coordinates":[-96.083818,41.287623],"type":"Point"}
+  "bbox": [
+    -96.083818,
+    41.287623,
+    -96.083818,
+    41.287623
+],
+  "geometry": {"coordinates":[-96.08381799999999,41.287623],"type":"Point"}
 }

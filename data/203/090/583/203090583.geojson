@@ -2,13 +2,14 @@
   "id": 203090583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.963672,41.310778,-95.963672,41.310778",
     "geom:latitude":41.310778,
     "geom:longitude":-95.963672,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5751 N 34th St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203090583,
-    "wof:lastmodified":1449026445,
+    "wof:lastmodified":1466666124,
     "wof:name":"1 A A A 24 A Locksmith",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "key"
     ]
 },
-  "bbox": [-95.963672,41.310778,-95.963672,41.310778],
+  "bbox": [
+    -95.963672,
+    41.310778,
+    -95.963672,
+    41.310778
+],
   "geometry": {"coordinates":[-95.963672,41.310778],"type":"Point"}
 }

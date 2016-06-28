@@ -2,13 +2,14 @@
   "id": 203005183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.92944,41.253367,-95.92944,41.253367",
     "geom:latitude":41.253367,
     "geom:longitude":-95.92944,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1013 Jones St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":203005183,
-    "wof:lastmodified":1449026712,
+    "wof:lastmodified":1466669623,
     "wof:name":"Nomad Lounge",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "venue"
     ]
 },
-  "bbox": [-95.92944,41.253367,-95.92944,41.253367],
+  "bbox": [
+    -95.92944,
+    41.253367,
+    -95.92944,
+    41.253367
+],
   "geometry": {"coordinates":[-95.92944,41.253367],"type":"Point"}
 }

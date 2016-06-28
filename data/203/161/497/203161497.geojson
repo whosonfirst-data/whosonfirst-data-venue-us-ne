@@ -2,13 +2,14 @@
   "id": 203161497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.657089,40.397483,-95.657089,40.397483",
     "geom:latitude":40.397483,
     "geom:longitude":-95.657089,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"217 Main St",
     "sg:city":"Brownville",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":203161497,
-    "wof:lastmodified":1449025667,
+    "wof:lastmodified":1466666534,
     "wof:name":"USPS - United States Post Office - Brownville Main Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "shipping"
     ]
 },
-  "bbox": [-95.657089,40.397483,-95.657089,40.397483],
+  "bbox": [
+    -95.657089,
+    40.397483,
+    -95.657089,
+    40.397483
+],
   "geometry": {"coordinates":[-95.657089,40.397483],"type":"Point"}
 }

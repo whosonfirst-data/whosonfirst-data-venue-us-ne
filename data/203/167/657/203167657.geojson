@@ -2,13 +2,14 @@
   "id": 203167657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.70166,40.738449,-96.70166,40.738449",
     "geom:latitude":40.738449,
     "geom:longitude":-96.70166,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7001 S 14th St",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203167657,
-    "wof:lastmodified":1449025917,
+    "wof:lastmodified":1466666559,
     "wof:name":"Southwest High School",
     "wof:parent_id":85878709,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "high"
     ]
 },
-  "bbox": [-96.70166,40.738449,-96.70166,40.738449],
+  "bbox": [
+    -96.70166,
+    40.738449,
+    -96.70166,
+    40.738449
+],
   "geometry": {"coordinates":[-96.70166,40.738449],"type":"Point"}
 }

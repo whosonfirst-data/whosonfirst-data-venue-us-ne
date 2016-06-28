@@ -2,13 +2,14 @@
   "id": 203003381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.9356,41.254299,-95.9356,41.254299",
     "geom:latitude":41.254299,
     "geom:longitude":-95.9356,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1417 Jackson St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":203003381,
-    "wof:lastmodified":1449026720,
+    "wof:lastmodified":1466669573,
     "wof:name":"The Max",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "club"
     ]
 },
-  "bbox": [-95.9356,41.254299,-95.9356,41.254299],
-  "geometry": {"coordinates":[-95.9356,41.254299],"type":"Point"}
+  "bbox": [
+    -95.9356,
+    41.254299,
+    -95.9356,
+    41.254299
+],
+  "geometry": {"coordinates":[-95.93559999999999,41.254299],"type":"Point"}
 }

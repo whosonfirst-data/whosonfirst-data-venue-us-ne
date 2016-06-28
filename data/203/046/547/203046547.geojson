@@ -2,13 +2,14 @@
   "id": 203046547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.991062,41.28977,-95.991062,41.28977",
     "geom:latitude":41.28977,
     "geom:longitude":-95.991062,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5032 Emmet St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203046547,
-    "wof:lastmodified":1449025997,
+    "wof:lastmodified":1466665876,
     "wof:name":"Locksmith 1 2 5",
     "wof:parent_id":85805755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "key"
     ]
 },
-  "bbox": [-95.991062,41.28977,-95.991062,41.28977],
+  "bbox": [
+    -95.991062,
+    41.28977,
+    -95.991062,
+    41.28977
+],
   "geometry": {"coordinates":[-95.991062,41.28977],"type":"Point"}
 }

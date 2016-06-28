@@ -2,13 +2,14 @@
   "id": 203086817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.91266,41.308981,-95.91266,41.308981",
     "geom:latitude":41.308981,
     "geom:longitude":-95.91266,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1230 E Hartman Ave",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":203086817,
-    "wof:lastmodified":1449026251,
+    "wof:lastmodified":1466666092,
     "wof:name":"Burke's Direct Mail And Fulfillment Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "mail"
     ]
 },
-  "bbox": [-95.91266,41.308981,-95.91266,41.308981],
+  "bbox": [
+    -95.91266,
+    41.308981,
+    -95.91266,
+    41.308981
+],
   "geometry": {"coordinates":[-95.91266,41.308981],"type":"Point"}
 }

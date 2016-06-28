@@ -2,13 +2,14 @@
   "id": 203140249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.082084,41.205282,-96.082084,41.205282",
     "geom:latitude":41.205282,
     "geom:longitude":-96.082084,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10841 Q St Ste 113",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -66,10 +67,11 @@
         }
     ],
     "wof:id":203140249,
-    "wof:lastmodified":1449025203,
+    "wof:lastmodified":1466666435,
     "wof:name":"Add Activity Marketing Service",
     "wof:parent_id":85872531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -80,6 +82,11 @@
         "consultant"
     ]
 },
-  "bbox": [-96.082084,41.205282,-96.082084,41.205282],
-  "geometry": {"coordinates":[-96.082084,41.205282],"type":"Point"}
+  "bbox": [
+    -96.082084,
+    41.205282,
+    -96.082084,
+    41.205282
+],
+  "geometry": {"coordinates":[-96.08208399999999,41.205282],"type":"Point"}
 }

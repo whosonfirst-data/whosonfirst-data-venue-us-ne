@@ -2,13 +2,14 @@
   "id": 203133317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.012398,41.270401,-96.012398,41.270401",
     "geom:latitude":41.270401,
     "geom:longitude":-96.012398,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6523 Western Ave",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":203133317,
-    "wof:lastmodified":1449026512,
+    "wof:lastmodified":1466666401,
     "wof:name":"Western Hills Elementary School",
     "wof:parent_id":85872535,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "elementary"
     ]
 },
-  "bbox": [-96.012398,41.270401,-96.012398,41.270401],
+  "bbox": [
+    -96.012398,
+    41.270401,
+    -96.012398,
+    41.270401
+],
   "geometry": {"coordinates":[-96.012398,41.270401],"type":"Point"}
 }

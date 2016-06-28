@@ -2,13 +2,14 @@
   "id": 203044883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.000801,41.285099,-96.000801,41.285099",
     "geom:latitude":41.285099,
     "geom:longitude":-96.000801,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5702 NW Radial Hwy",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203044883,
-    "wof:lastmodified":1449025923,
+    "wof:lastmodified":1466665858,
     "wof:name":"Louis Liquor",
     "wof:parent_id":85872535,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "wine"
     ]
 },
-  "bbox": [-96.000801,41.285099,-96.000801,41.285099],
+  "bbox": [
+    -96.000801,
+    41.285099,
+    -96.000801,
+    41.285099
+],
   "geometry": {"coordinates":[-96.000801,41.285099],"type":"Point"}
 }

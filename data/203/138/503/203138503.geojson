@@ -2,13 +2,14 @@
   "id": 203138503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.196797,41.203623,-96.196797,41.203623",
     "geom:latitude":41.203623,
     "geom:longitude":-96.196797,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18021 R Plz Suite 1",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":203138503,
-    "wof:lastmodified":1449025455,
+    "wof:lastmodified":1466666422,
     "wof:name":"Belcher Family Dentistry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "dentistry"
     ]
 },
-  "bbox": [-96.196797,41.203623,-96.196797,41.203623],
+  "bbox": [
+    -96.196797,
+    41.203623,
+    -96.196797,
+    41.203623
+],
   "geometry": {"coordinates":[-96.196797,41.203623],"type":"Point"}
 }

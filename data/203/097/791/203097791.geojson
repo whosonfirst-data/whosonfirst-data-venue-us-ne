@@ -2,13 +2,14 @@
   "id": 203097791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.029949,41.252416,-96.029949,41.252416",
     "geom:latitude":41.252416,
     "geom:longitude":-96.029949,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7510 Howard St Apt 3",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203097791,
-    "wof:lastmodified":1449025660,
+    "wof:lastmodified":1466666170,
     "wof:name":"Aaa Emergency Tree Service",
     "wof:parent_id":85872509,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tree"
     ]
 },
-  "bbox": [-96.029949,41.252416,-96.029949,41.252416],
+  "bbox": [
+    -96.029949,
+    41.252416,
+    -96.029949,
+    41.252416
+],
   "geometry": {"coordinates":[-96.029949,41.252416],"type":"Point"}
 }

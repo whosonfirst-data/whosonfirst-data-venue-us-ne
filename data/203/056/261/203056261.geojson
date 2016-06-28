@@ -2,13 +2,14 @@
   "id": 203056261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.949193,41.244844,-95.949193,41.244844",
     "geom:latitude":41.244844,
     "geom:longitude":-95.949193,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1547 S 25th Ave",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203056261,
-    "wof:lastmodified":1449025437,
+    "wof:lastmodified":1466665928,
     "wof:name":"26 Hour A Locksmith",
     "wof:parent_id":85872527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "key"
     ]
 },
-  "bbox": [-95.949193,41.244844,-95.949193,41.244844],
-  "geometry": {"coordinates":[-95.949193,41.244844],"type":"Point"}
+  "bbox": [
+    -95.949193,
+    41.244844,
+    -95.949193,
+    41.244844
+],
+  "geometry": {"coordinates":[-95.94919299999999,41.244844],"type":"Point"}
 }

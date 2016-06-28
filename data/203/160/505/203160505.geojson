@@ -2,13 +2,14 @@
   "id": 203160505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.742471,40.265839,-96.742471,40.265839",
     "geom:latitude":40.265839,
     "geom:longitude":-96.742471,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"817 Court St",
     "sg:city":"Beatrice",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203160505,
-    "wof:lastmodified":1449026543,
+    "wof:lastmodified":1466666528,
     "wof:name":"State Farm Insurance Agent-Cami Saathoff",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.742471,40.265839,-96.742471,40.265839],
-  "geometry": {"coordinates":[-96.742471,40.265839],"type":"Point"}
+  "bbox": [
+    -96.742471,
+    40.265839,
+    -96.742471,
+    40.265839
+],
+  "geometry": {"coordinates":[-96.74247099999999,40.265839],"type":"Point"}
 }

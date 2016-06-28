@@ -2,13 +2,14 @@
   "id": 203139789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.115627,41.204395,-96.115627,41.204395",
     "geom:latitude":41.204395,
     "geom:longitude":-96.115627,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12875 Deauville Dr",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -74,10 +75,11 @@
         }
     ],
     "wof:id":203139789,
-    "wof:lastmodified":1449025112,
+    "wof:lastmodified":1466666435,
     "wof:name":"Hamilton Safe Of Colorado Inc",
     "wof:parent_id":85872531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -92,6 +94,11 @@
         "furniture"
     ]
 },
-  "bbox": [-96.115627,41.204395,-96.115627,41.204395],
+  "bbox": [
+    -96.115627,
+    41.204395,
+    -96.115627,
+    41.204395
+],
   "geometry": {"coordinates":[-96.115627,41.204395],"type":"Point"}
 }

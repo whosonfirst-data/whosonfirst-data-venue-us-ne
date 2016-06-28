@@ -2,13 +2,14 @@
   "id": 203126313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.969009,41.259239,-95.969009,41.259239",
     "geom:latitude":41.259239,
     "geom:longitude":-95.969009,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"143 S 38th St Ste A",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":203126313,
-    "wof:lastmodified":1449025616,
+    "wof:lastmodified":1466666340,
     "wof:name":"Surprise Thrift Shop",
     "wof:parent_id":85872525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "hand"
     ]
 },
-  "bbox": [-95.969009,41.259239,-95.969009,41.259239],
+  "bbox": [
+    -95.969009,
+    41.259239,
+    -95.969009,
+    41.259239
+],
   "geometry": {"coordinates":[-95.969009,41.259239],"type":"Point"}
 }

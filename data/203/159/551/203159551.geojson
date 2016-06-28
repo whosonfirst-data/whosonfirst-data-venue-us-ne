@@ -2,13 +2,14 @@
   "id": 203159551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.843099,40.394891,-95.843099,40.394891",
     "geom:latitude":40.394891,
     "geom:longitude":-95.843099,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1314 10th St",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203159551,
-    "wof:lastmodified":1449025172,
+    "wof:lastmodified":1466666524,
     "wof:name":"Broady, Edith Day Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "day"
     ]
 },
-  "bbox": [-95.843099,40.394891,-95.843099,40.394891],
+  "bbox": [
+    -95.843099,
+    40.394891,
+    -95.843099,
+    40.394891
+],
   "geometry": {"coordinates":[-95.843099,40.394891],"type":"Point"}
 }

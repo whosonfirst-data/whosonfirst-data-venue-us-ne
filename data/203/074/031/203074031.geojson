@@ -2,13 +2,14 @@
   "id": 203074031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.937599,41.234402,-95.937599,41.234402",
     "geom:latitude":41.234402,
     "geom:longitude":-95.937599,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1602 Vinton St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203074031,
-    "wof:lastmodified":1449025966,
+    "wof:lastmodified":1466666047,
     "wof:name":"Vinton St Tobacco",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-95.937599,41.234402,-95.937599,41.234402],
-  "geometry": {"coordinates":[-95.937599,41.234402],"type":"Point"}
+  "bbox": [
+    -95.937599,
+    41.234402,
+    -95.937599,
+    41.234402
+],
+  "geometry": {"coordinates":[-95.93759900000001,41.234402],"type":"Point"}
 }

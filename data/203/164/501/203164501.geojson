@@ -2,13 +2,14 @@
   "id": 203164501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.696751,40.791451,-96.696751,40.791451",
     "geom:latitude":40.791451,
     "geom:longitude":-96.696751,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2130 S 17th St",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203164501,
-    "wof:lastmodified":1449025172,
+    "wof:lastmodified":1466666541,
     "wof:name":"Physical Therapy Solutions",
     "wof:parent_id":85878719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "physical"
     ]
 },
-  "bbox": [-96.696751,40.791451,-96.696751,40.791451],
-  "geometry": {"coordinates":[-96.696751,40.791451],"type":"Point"}
+  "bbox": [
+    -96.696751,
+    40.791451,
+    -96.696751,
+    40.791451
+],
+  "geometry": {"coordinates":[-96.69675100000001,40.791451],"type":"Point"}
 }

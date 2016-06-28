@@ -2,13 +2,14 @@
   "id": 203056149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.965041,41.241527,-95.965041,41.241527",
     "geom:latitude":41.241527,
     "geom:longitude":-95.965041,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3528 Center St",
     "sg:city":"Omaha",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203056149,
-    "wof:lastmodified":1449025438,
+    "wof:lastmodified":1466665925,
     "wof:name":"Richies",
     "wof:parent_id":85872527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.965041,41.241527,-95.965041,41.241527],
+  "bbox": [
+    -95.965041,
+    41.241527,
+    -95.965041,
+    41.241527
+],
   "geometry": {"coordinates":[-95.965041,41.241527],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203021249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.942679,41.259617,-95.942679,41.259617",
     "geom:latitude":41.259617,
     "geom:longitude":-95.942679,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2027 Dodge St Ste 100",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203021249,
-    "wof:lastmodified":1449026154,
+    "wof:lastmodified":1466665670,
     "wof:name":"Mullin Robert W",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.942679,41.259617,-95.942679,41.259617],
+  "bbox": [
+    -95.942679,
+    41.259617,
+    -95.942679,
+    41.259617
+],
   "geometry": {"coordinates":[-95.942679,41.259617],"type":"Point"}
 }

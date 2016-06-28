@@ -2,13 +2,14 @@
   "id": 203163983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.698384,40.791721,-96.698384,40.791721",
     "geom:latitude":40.791721,
     "geom:longitude":-96.698384,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1602 South St",
     "sg:city":"Lincoln",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203163983,
-    "wof:lastmodified":1449026841,
+    "wof:lastmodified":1466666543,
     "wof:name":"Brewsky's Food & Spirits",
     "wof:parent_id":85878719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.698384,40.791721,-96.698384,40.791721],
+  "bbox": [
+    -96.698384,
+    40.791721,
+    -96.698384,
+    40.791721
+],
   "geometry": {"coordinates":[-96.698384,40.791721],"type":"Point"}
 }

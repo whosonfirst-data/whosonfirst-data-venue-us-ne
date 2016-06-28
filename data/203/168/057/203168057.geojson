@@ -2,13 +2,14 @@
   "id": 203168057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.609944,40.741338,-96.609944,40.741338",
     "geom:latitude":40.741338,
     "geom:longitude":-96.609944,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6911 E Shore Dr",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":203168057,
-    "wof:lastmodified":1449025927,
+    "wof:lastmodified":1466666554,
     "wof:name":"Thomas D. Calvert P.C.",
     "wof:parent_id":85878707,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "surgeons"
     ]
 },
-  "bbox": [-96.609944,40.741338,-96.609944,40.741338],
+  "bbox": [
+    -96.609944,
+    40.741338,
+    -96.609944,
+    40.741338
+],
   "geometry": {"coordinates":[-96.609944,40.741338],"type":"Point"}
 }

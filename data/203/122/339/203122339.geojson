@@ -2,13 +2,14 @@
   "id": 203122339,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.977464,41.257477,-95.977464,41.257477",
     "geom:latitude":41.257477,
     "geom:longitude":-95.977464,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4239 Farnam St Ste 823",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203122339,
-    "wof:lastmodified":1449026027,
+    "wof:lastmodified":1466666308,
     "wof:name":"Howard Thomas C MD",
     "wof:parent_id":85872523,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.977464,41.257477,-95.977464,41.257477],
+  "bbox": [
+    -95.977464,
+    41.257477,
+    -95.977464,
+    41.257477
+],
   "geometry": {"coordinates":[-95.977464,41.257477],"type":"Point"}
 }

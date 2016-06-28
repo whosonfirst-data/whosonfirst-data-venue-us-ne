@@ -2,13 +2,14 @@
   "id": 203165041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.6537,40.85313,-96.6537,40.85313",
     "geom:latitude":40.85313,
     "geom:longitude":-96.6537,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4017 Progressive Ave # 3",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -70,10 +71,11 @@
         }
     ],
     "wof:id":203165041,
-    "wof:lastmodified":1449026867,
+    "wof:lastmodified":1466666539,
     "wof:name":"Prime Services Inc",
     "wof:parent_id":85878741,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -89,6 +91,11 @@
         "panel"
     ]
 },
-  "bbox": [-96.6537,40.85313,-96.6537,40.85313],
+  "bbox": [
+    -96.6537,
+    40.85313,
+    -96.6537,
+    40.85313
+],
   "geometry": {"coordinates":[-96.6537,40.85313],"type":"Point"}
 }

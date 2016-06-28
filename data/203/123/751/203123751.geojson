@@ -2,13 +2,14 @@
   "id": 203123751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.976945,41.257756,-95.976945,41.257756",
     "geom:latitude":41.257756,
     "geom:longitude":-95.976945,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4242 Farnam St Ste 270",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":203123751,
-    "wof:lastmodified":1449025472,
+    "wof:lastmodified":1466666318,
     "wof:name":"Simply Well",
     "wof:parent_id":85872523,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "medicine"
     ]
 },
-  "bbox": [-95.976945,41.257756,-95.976945,41.257756],
+  "bbox": [
+    -95.976945,
+    41.257756,
+    -95.976945,
+    41.257756
+],
   "geometry": {"coordinates":[-95.976945,41.257756],"type":"Point"}
 }

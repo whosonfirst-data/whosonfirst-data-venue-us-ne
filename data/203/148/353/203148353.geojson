@@ -2,13 +2,14 @@
   "id": 203148353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.997631,41.34441,-95.997631,41.34441",
     "geom:latitude":41.34441,
     "geom:longitude":-95.997631,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9236 Raven Oaks Dr",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203148353,
-    "wof:lastmodified":1449026545,
+    "wof:lastmodified":1466666463,
     "wof:name":"Kuhn Jim L Atty",
     "wof:parent_id":85813863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.997631,41.34441,-95.997631,41.34441],
+  "bbox": [
+    -95.997631,
+    41.34441,
+    -95.997631,
+    41.34441
+],
   "geometry": {"coordinates":[-95.997631,41.34441],"type":"Point"}
 }

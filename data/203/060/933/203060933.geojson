@@ -2,13 +2,14 @@
   "id": 203060933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.99515,41.247837,-95.99515,41.247837",
     "geom:latitude":41.247837,
     "geom:longitude":-95.99515,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5200 Pierce St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203060933,
-    "wof:lastmodified":1449026689,
+    "wof:lastmodified":1466665962,
     "wof:name":"A & 1 Locksmith 24 Hour",
     "wof:parent_id":85872523,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "key"
     ]
 },
-  "bbox": [-95.99515,41.247837,-95.99515,41.247837],
+  "bbox": [
+    -95.99515,
+    41.247837,
+    -95.99515,
+    41.247837
+],
   "geometry": {"coordinates":[-95.99515,41.247837],"type":"Point"}
 }

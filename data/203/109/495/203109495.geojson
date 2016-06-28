@@ -2,13 +2,14 @@
   "id": 203109495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.187535,41.259867,-96.187535,41.259867",
     "geom:latitude":41.259867,
     "geom:longitude":-96.187535,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17404 Burke St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203109495,
-    "wof:lastmodified":1449025578,
+    "wof:lastmodified":1466666238,
     "wof:name":"Dudzinski Bernie",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.187535,41.259867,-96.187535,41.259867],
+  "bbox": [
+    -96.187535,
+    41.259867,
+    -96.187535,
+    41.259867
+],
   "geometry": {"coordinates":[-96.187535,41.259867],"type":"Point"}
 }

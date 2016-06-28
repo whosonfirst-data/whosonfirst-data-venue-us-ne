@@ -2,13 +2,14 @@
   "id": 203098497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.035429,41.259692,-96.035429,41.259692",
     "geom:latitude":41.259692,
     "geom:longitude":-96.035429,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7810 Dodge St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":203098497,
-    "wof:lastmodified":1449026671,
+    "wof:lastmodified":1466666173,
     "wof:name":"Relax The Back Store",
     "wof:parent_id":85872509,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "mattress"
     ]
 },
-  "bbox": [-96.035429,41.259692,-96.035429,41.259692],
-  "geometry": {"coordinates":[-96.035429,41.259692],"type":"Point"}
+  "bbox": [
+    -96.035429,
+    41.259692,
+    -96.035429,
+    41.259692
+],
+  "geometry": {"coordinates":[-96.03542899999999,41.259692],"type":"Point"}
 }

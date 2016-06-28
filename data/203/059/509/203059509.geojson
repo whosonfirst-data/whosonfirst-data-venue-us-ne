@@ -2,13 +2,14 @@
   "id": 203059509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.018963,41.243768,-96.018963,41.243768",
     "geom:latitude":41.243768,
     "geom:longitude":-96.018963,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6825 Pine St Ste 358",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":203059509,
-    "wof:lastmodified":1449025427,
+    "wof:lastmodified":1466665955,
     "wof:name":"Booz Allen Hamilton Inc.",
     "wof:parent_id":85867059,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [-96.018963,41.243768,-96.018963,41.243768],
+  "bbox": [
+    -96.018963,
+    41.243768,
+    -96.018963,
+    41.243768
+],
   "geometry": {"coordinates":[-96.018963,41.243768],"type":"Point"}
 }

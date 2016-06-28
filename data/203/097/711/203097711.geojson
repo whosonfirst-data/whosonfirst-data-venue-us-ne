@@ -2,13 +2,14 @@
   "id": 203097711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.031548,41.24881,-96.031548,41.24881",
     "geom:latitude":41.24881,
     "geom:longitude":-96.031548,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7615 Pacific St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -69,10 +70,11 @@
         }
     ],
     "wof:id":203097711,
-    "wof:lastmodified":1449025661,
+    "wof:lastmodified":1466666166,
     "wof:name":"Edward Jones - Financial Advisor: TYLER J LANGEL",
     "wof:parent_id":85872509,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -86,6 +88,11 @@
         "stock"
     ]
 },
-  "bbox": [-96.031548,41.24881,-96.031548,41.24881],
+  "bbox": [
+    -96.031548,
+    41.24881,
+    -96.031548,
+    41.24881
+],
   "geometry": {"coordinates":[-96.031548,41.24881],"type":"Point"}
 }

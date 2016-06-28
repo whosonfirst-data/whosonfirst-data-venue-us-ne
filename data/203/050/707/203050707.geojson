@@ -2,13 +2,14 @@
   "id": 203050707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.962517,41.246968,-95.962517,41.246968",
     "geom:latitude":41.246968,
     "geom:longitude":-95.962517,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1326 Turner Blvd",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203050707,
-    "wof:lastmodified":1449025989,
+    "wof:lastmodified":1466665901,
     "wof:name":"Fj Rizzuto Ent",
     "wof:parent_id":85872527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "carpenter"
     ]
 },
-  "bbox": [-95.962517,41.246968,-95.962517,41.246968],
-  "geometry": {"coordinates":[-95.962517,41.246968],"type":"Point"}
+  "bbox": [
+    -95.962517,
+    41.246968,
+    -95.962517,
+    41.246968
+],
+  "geometry": {"coordinates":[-95.96251700000001,41.246968],"type":"Point"}
 }

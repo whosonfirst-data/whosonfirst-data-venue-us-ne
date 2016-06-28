@@ -2,13 +2,14 @@
   "id": 203144885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.119429,41.232035,-96.119429,41.232035",
     "geom:latitude":41.232035,
     "geom:longitude":-96.119429,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2945 S 132nd St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":203144885,
-    "wof:lastmodified":1449026361,
+    "wof:lastmodified":1466666462,
     "wof:name":"First Community Bank",
     "wof:parent_id":85872531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "mortgage"
     ]
 },
-  "bbox": [-96.119429,41.232035,-96.119429,41.232035],
+  "bbox": [
+    -96.119429,
+    41.232035,
+    -96.119429,
+    41.232035
+],
   "geometry": {"coordinates":[-96.119429,41.232035],"type":"Point"}
 }

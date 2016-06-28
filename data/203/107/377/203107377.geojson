@@ -2,13 +2,14 @@
   "id": 203107377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.990501,41.217608,-95.990501,41.217608",
     "geom:latitude":41.217608,
     "geom:longitude":-95.990501,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4228 S 50th St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203107377,
-    "wof:lastmodified":1449024946,
+    "wof:lastmodified":1466666223,
     "wof:name":"Lsi Staffing Solutions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.990501,41.217608,-95.990501,41.217608],
-  "geometry": {"coordinates":[-95.990501,41.217608],"type":"Point"}
+  "bbox": [
+    -95.990501,
+    41.217608,
+    -95.990501,
+    41.217608
+],
+  "geometry": {"coordinates":[-95.99050099999999,41.217608],"type":"Point"}
 }

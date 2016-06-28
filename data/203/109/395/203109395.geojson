@@ -2,13 +2,14 @@
   "id": 203109395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.191819,41.250917,-96.191819,41.250917",
     "geom:latitude":41.250917,
     "geom:longitude":-96.191819,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17880 Marcy St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":203109395,
-    "wof:lastmodified":1449025582,
+    "wof:lastmodified":1466666237,
     "wof:name":"Elkhorn Ridge Middle School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "middle"
     ]
 },
-  "bbox": [-96.191819,41.250917,-96.191819,41.250917],
+  "bbox": [
+    -96.191819,
+    41.250917,
+    -96.191819,
+    41.250917
+],
   "geometry": {"coordinates":[-96.191819,41.250917],"type":"Point"}
 }

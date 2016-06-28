@@ -2,13 +2,14 @@
   "id": 203046059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.000999,41.299702,-96.000999,41.299702",
     "geom:latitude":41.299702,
     "geom:longitude":-96.000999,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5632 Ames Ave",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":203046059,
-    "wof:lastmodified":1449025998,
+    "wof:lastmodified":1466665866,
     "wof:name":"Cash America",
     "wof:parent_id":85805755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.000999,41.299702,-96.000999,41.299702],
-  "geometry": {"coordinates":[-96.000999,41.299702],"type":"Point"}
+  "bbox": [
+    -96.000999,
+    41.299702,
+    -96.000999,
+    41.299702
+],
+  "geometry": {"coordinates":[-96.00099899999999,41.299702],"type":"Point"}
 }

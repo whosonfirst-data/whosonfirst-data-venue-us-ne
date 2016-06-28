@@ -2,13 +2,14 @@
   "id": 203153891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.934572,41.257587,-95.934572,41.257587",
     "geom:latitude":41.257587,
     "geom:longitude":-95.934572,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1403 Farnam St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":203153891,
-    "wof:lastmodified":1449026287,
+    "wof:lastmodified":1466666499,
     "wof:name":"The Paxton Chophouse",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "wine"
     ]
 },
-  "bbox": [-95.934572,41.257587,-95.934572,41.257587],
+  "bbox": [
+    -95.934572,
+    41.257587,
+    -95.934572,
+    41.257587
+],
   "geometry": {"coordinates":[-95.934572,41.257587],"type":"Point"}
 }

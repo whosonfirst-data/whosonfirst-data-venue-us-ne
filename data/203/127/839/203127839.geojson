@@ -2,13 +2,14 @@
   "id": 203127839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.981731,41.256241,-95.981731,41.256241",
     "geom:latitude":41.256241,
     "geom:longitude":-95.981731,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"412 S Saddle Creek Rd",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":203127839,
-    "wof:lastmodified":1449026708,
+    "wof:lastmodified":1466666349,
     "wof:name":"University of Nebraska Medical Center",
     "wof:parent_id":85872523,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "college"
     ]
 },
-  "bbox": [-95.981731,41.256241,-95.981731,41.256241],
+  "bbox": [
+    -95.981731,
+    41.256241,
+    -95.981731,
+    41.256241
+],
   "geometry": {"coordinates":[-95.981731,41.256241],"type":"Point"}
 }

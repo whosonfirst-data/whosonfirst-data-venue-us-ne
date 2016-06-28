@@ -2,13 +2,14 @@
   "id": 203080843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.933296,41.246799,-95.933296,41.246799",
     "geom:latitude":41.246799,
     "geom:longitude":-95.933296,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1234 S 13th St Ste 203",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203080843,
-    "wof:lastmodified":1449026827,
+    "wof:lastmodified":1466666070,
     "wof:name":"Philips Shoe Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.933296,41.246799,-95.933296,41.246799],
+  "bbox": [
+    -95.933296,
+    41.246799,
+    -95.933296,
+    41.246799
+],
   "geometry": {"coordinates":[-95.933296,41.246799],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203111995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.024,41.226562,-96.024,41.226562",
     "geom:latitude":41.226562,
     "geom:longitude":-96.024,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3650 S 72nd St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":203111995,
-    "wof:lastmodified":1449026907,
+    "wof:lastmodified":1466666275,
     "wof:name":"Omaha Executive Inn & Suites",
     "wof:parent_id":85867059,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "lodging"
     ]
 },
-  "bbox": [-96.024,41.226562,-96.024,41.226562],
+  "bbox": [
+    -96.024,
+    41.226562,
+    -96.024,
+    41.226562
+],
   "geometry": {"coordinates":[-96.024,41.226562],"type":"Point"}
 }

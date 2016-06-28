@@ -2,13 +2,14 @@
   "id": 203045179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.989743,41.274008,-95.989743,41.274008",
     "geom:latitude":41.274008,
     "geom:longitude":-95.989743,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1540 N Saddle Creek Rd",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -57,16 +58,22 @@
         }
     ],
     "wof:id":203045179,
-    "wof:lastmodified":1449026648,
+    "wof:lastmodified":1466665854,
     "wof:name":"Omaha Auto Detail",
     "wof:parent_id":85867055,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "detailing"
     ]
 },
-  "bbox": [-95.989743,41.274008,-95.989743,41.274008],
+  "bbox": [
+    -95.989743,
+    41.274008,
+    -95.989743,
+    41.274008
+],
   "geometry": {"coordinates":[-95.989743,41.274008],"type":"Point"}
 }

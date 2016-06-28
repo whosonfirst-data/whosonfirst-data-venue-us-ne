@@ -2,13 +2,14 @@
   "id": 203057311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.002197,41.245201,-96.002197,41.245201",
     "geom:latitude":41.245201,
     "geom:longitude":-96.002197,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5814 Woolworth Ave",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203057311,
-    "wof:lastmodified":1449025861,
+    "wof:lastmodified":1466665933,
     "wof:name":"Schepers Frank M Atty",
     "wof:parent_id":85872513,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-96.002197,41.245201,-96.002197,41.245201],
+  "bbox": [
+    -96.002197,
+    41.245201,
+    -96.002197,
+    41.245201
+],
   "geometry": {"coordinates":[-96.002197,41.245201],"type":"Point"}
 }

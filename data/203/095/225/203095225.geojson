@@ -2,13 +2,14 @@
   "id": 203095225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.977372,41.356003,-95.977372,41.356003",
     "geom:latitude":41.356003,
     "geom:longitude":-95.977372,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10625 Calhoun Rd",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":203095225,
-    "wof:lastmodified":1449025889,
+    "wof:lastmodified":1466666146,
     "wof:name":"Uta Halee & Cooper Village",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -78,6 +80,11 @@
         "addiction"
     ]
 },
-  "bbox": [-95.977372,41.356003,-95.977372,41.356003],
+  "bbox": [
+    -95.977372,
+    41.356003,
+    -95.977372,
+    41.356003
+],
   "geometry": {"coordinates":[-95.977372,41.356003],"type":"Point"}
 }

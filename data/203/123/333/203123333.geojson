@@ -2,13 +2,14 @@
   "id": 203123333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.947209,41.268095,-95.947209,41.268095",
     "geom:latitude":41.268095,
     "geom:longitude":-95.947209,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2416 Cuming St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203123333,
-    "wof:lastmodified":1449025477,
+    "wof:lastmodified":1466666309,
     "wof:name":"Sam & Louie's New York Pizzeria",
     "wof:parent_id":85872525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "italian"
     ]
 },
-  "bbox": [-95.947209,41.268095,-95.947209,41.268095],
+  "bbox": [
+    -95.947209,
+    41.268095,
+    -95.947209,
+    41.268095
+],
   "geometry": {"coordinates":[-95.947209,41.268095],"type":"Point"}
 }

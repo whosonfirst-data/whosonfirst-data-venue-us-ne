@@ -2,13 +2,14 @@
   "id": 203079179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.932116,41.236913,-95.932116,41.236913",
     "geom:latitude":41.236913,
     "geom:longitude":-95.932116,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1208 Castelar St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":203079179,
-    "wof:lastmodified":1449026531,
+    "wof:lastmodified":1466666061,
     "wof:name":"Rv Realty",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "broker"
     ]
 },
-  "bbox": [-95.932116,41.236913,-95.932116,41.236913],
-  "geometry": {"coordinates":[-95.932116,41.236913],"type":"Point"}
+  "bbox": [
+    -95.932116,
+    41.236913,
+    -95.932116,
+    41.236913
+],
+  "geometry": {"coordinates":[-95.93211599999999,41.236913],"type":"Point"}
 }

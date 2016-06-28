@@ -2,13 +2,14 @@
   "id": 203055467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.973829,41.228386,-95.973829,41.228386",
     "geom:latitude":41.228386,
     "geom:longitude":-95.973829,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4054 Vinton St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203055467,
-    "wof:lastmodified":1449025351,
+    "wof:lastmodified":1466665923,
     "wof:name":"Mel's Grooming",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "pet"
     ]
 },
-  "bbox": [-95.973829,41.228386,-95.973829,41.228386],
-  "geometry": {"coordinates":[-95.973829,41.228386],"type":"Point"}
+  "bbox": [
+    -95.973829,
+    41.228386,
+    -95.973829,
+    41.228386
+],
+  "geometry": {"coordinates":[-95.97382899999999,41.228386],"type":"Point"}
 }

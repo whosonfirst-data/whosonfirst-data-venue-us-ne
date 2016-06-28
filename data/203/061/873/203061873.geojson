@@ -2,13 +2,14 @@
   "id": 203061873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.015099,41.228699,-96.015099,41.228699",
     "geom:latitude":41.228699,
     "geom:longitude":-96.015099,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3215 S 66th Avenue Cir",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203061873,
-    "wof:lastmodified":1449026334,
+    "wof:lastmodified":1466665972,
     "wof:name":"Champlin Tires",
     "wof:parent_id":85867059,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tire"
     ]
 },
-  "bbox": [-96.015099,41.228699,-96.015099,41.228699],
-  "geometry": {"coordinates":[-96.015099,41.228699],"type":"Point"}
+  "bbox": [
+    -96.015099,
+    41.228699,
+    -96.015099,
+    41.228699
+],
+  "geometry": {"coordinates":[-96.01509900000001,41.228699],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203133385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.009697,41.2561,-96.009697,41.2561",
     "geom:latitude":41.2561,
     "geom:longitude":-96.009697,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6506 University Dr S",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203133385,
-    "wof:lastmodified":1449026512,
+    "wof:lastmodified":1466666404,
     "wof:name":"University Village",
     "wof:parent_id":85872507,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-96.009697,41.2561,-96.009697,41.2561],
+  "bbox": [
+    -96.009697,
+    41.2561,
+    -96.009697,
+    41.2561
+],
   "geometry": {"coordinates":[-96.009697,41.2561],"type":"Point"}
 }

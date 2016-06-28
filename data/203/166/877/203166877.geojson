@@ -2,13 +2,14 @@
   "id": 203166877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.708477,40.813342,-96.708477,40.813342",
     "geom:latitude":40.813342,
     "geom:longitude":-96.708477,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"124 S 9th St Ste 3",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203166877,
-    "wof:lastmodified":1449026011,
+    "wof:lastmodified":1466666559,
     "wof:name":"5zs Star City Bead Shop",
     "wof:parent_id":85878699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-96.708477,40.813342,-96.708477,40.813342],
+  "bbox": [
+    -96.708477,
+    40.813342,
+    -96.708477,
+    40.813342
+],
   "geometry": {"coordinates":[-96.708477,40.813342],"type":"Point"}
 }

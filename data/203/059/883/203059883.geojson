@@ -2,13 +2,14 @@
   "id": 203059883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.981796,41.2523,-95.981796,41.2523",
     "geom:latitude":41.2523,
     "geom:longitude":-95.981796,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4541 Leavenworth St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203059883,
-    "wof:lastmodified":1449025427,
+    "wof:lastmodified":1466665963,
     "wof:name":"Rja Siding Windows Doors and Roofing",
     "wof:parent_id":85872523,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "installation"
     ]
 },
-  "bbox": [-95.981796,41.2523,-95.981796,41.2523],
+  "bbox": [
+    -95.981796,
+    41.2523,
+    -95.981796,
+    41.2523
+],
   "geometry": {"coordinates":[-95.981796,41.2523],"type":"Point"}
 }

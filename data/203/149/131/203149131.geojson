@@ -2,13 +2,14 @@
   "id": 203149131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.097794,41.263459,-96.097794,41.263459",
     "geom:latitude":41.263459,
     "geom:longitude":-96.097794,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11720 W Dodge Rd",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -70,10 +71,11 @@
         }
     ],
     "wof:id":203149131,
-    "wof:lastmodified":1449024939,
+    "wof:lastmodified":1466666465,
     "wof:name":"Patrick Lemmers Insurance Agency Inc - Farmers Insurance",
     "wof:parent_id":85872503,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -83,6 +85,11 @@
         "homeowner"
     ]
 },
-  "bbox": [-96.097794,41.263459,-96.097794,41.263459],
-  "geometry": {"coordinates":[-96.097794,41.263459],"type":"Point"}
+  "bbox": [
+    -96.097794,
+    41.263459,
+    -96.097794,
+    41.263459
+],
+  "geometry": {"coordinates":[-96.09779399999999,41.263459],"type":"Point"}
 }

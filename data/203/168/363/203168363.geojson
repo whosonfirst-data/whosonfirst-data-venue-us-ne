@@ -2,13 +2,14 @@
   "id": 203168363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.60844,40.75703,-96.60844,40.75703",
     "geom:latitude":40.75703,
     "geom:longitude":-96.60844,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5537 Ezekiel Pl",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":203168363,
-    "wof:lastmodified":1449025927,
+    "wof:lastmodified":1466666561,
     "wof:name":"Nebraska Iowa Electrical",
     "wof:parent_id":85878707,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "equipment-testing"
     ]
 },
-  "bbox": [-96.60844,40.75703,-96.60844,40.75703],
+  "bbox": [
+    -96.60844,
+    40.75703,
+    -96.60844,
+    40.75703
+],
   "geometry": {"coordinates":[-96.60844,40.75703],"type":"Point"}
 }

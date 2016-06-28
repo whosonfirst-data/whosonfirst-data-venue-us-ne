@@ -2,13 +2,14 @@
   "id": 203166911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.702283,40.814732,-96.702283,40.814732",
     "geom:latitude":40.814732,
     "geom:longitude":-96.702283,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1320 P St Ste 100",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":203166911,
-    "wof:lastmodified":1449026011,
+    "wof:lastmodified":1466666561,
     "wof:name":"Bison Witches Bar & Deli",
     "wof:parent_id":85878699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "tavern"
     ]
 },
-  "bbox": [-96.702283,40.814732,-96.702283,40.814732],
-  "geometry": {"coordinates":[-96.702283,40.814732],"type":"Point"}
+  "bbox": [
+    -96.702283,
+    40.814732,
+    -96.702283,
+    40.814732
+],
+  "geometry": {"coordinates":[-96.70228299999999,40.814732],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203141391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.085857,41.202729,-96.085857,41.202729",
     "geom:latitude":41.202729,
     "geom:longitude":-96.085857,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5435 S. 110th Plaza, Apt 251",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":203141391,
-    "wof:lastmodified":1449025588,
+    "wof:lastmodified":1466666436,
     "wof:name":"Longaberger with Michele Prell, Independent Home Consultant",
     "wof:parent_id":85872531,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "house"
     ]
 },
-  "bbox": [-96.085857,41.202729,-96.085857,41.202729],
+  "bbox": [
+    -96.085857,
+    41.202729,
+    -96.085857,
+    41.202729
+],
   "geometry": {"coordinates":[-96.085857,41.202729],"type":"Point"}
 }

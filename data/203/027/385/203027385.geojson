@@ -2,13 +2,14 @@
   "id": 203027385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.930603,41.256302,-95.930603,41.256302",
     "geom:latitude":41.256302,
     "geom:longitude":-95.930603,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"420 S 11th St Apt 410",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203027385,
-    "wof:lastmodified":1449025287,
+    "wof:lastmodified":1466665734,
     "wof:name":"Tourtellot Marilyn Interiors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "design"
     ]
 },
-  "bbox": [-95.930603,41.256302,-95.930603,41.256302],
+  "bbox": [
+    -95.930603,
+    41.256302,
+    -95.930603,
+    41.256302
+],
   "geometry": {"coordinates":[-95.930603,41.256302],"type":"Point"}
 }

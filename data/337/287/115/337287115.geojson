@@ -2,13 +2,14 @@
   "id": 337287115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.998641,41.242499,-95.998641,41.242499",
     "geom:latitude":41.242499,
     "geom:longitude":-95.998641,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5555 Walnut St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337287115,
-    "wof:lastmodified":1449026987,
+    "wof:lastmodified":1466665576,
     "wof:name":"24 All Day Locksmith",
     "wof:parent_id":85872513,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "key"
     ]
 },
-  "bbox": [-95.998641,41.242499,-95.998641,41.242499],
-  "geometry": {"coordinates":[-95.998641,41.242499],"type":"Point"}
+  "bbox": [
+    -95.998641,
+    41.242499,
+    -95.998641,
+    41.242499
+],
+  "geometry": {"coordinates":[-95.99864100000001,41.242499],"type":"Point"}
 }

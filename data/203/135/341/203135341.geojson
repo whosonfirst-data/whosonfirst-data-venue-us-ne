@@ -2,13 +2,14 @@
   "id": 203135341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.07585,41.309954,-96.07585,41.309954",
     "geom:latitude":41.309954,
     "geom:longitude":-96.07585,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5660 N 103rd St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203135341,
-    "wof:lastmodified":1449025648,
+    "wof:lastmodified":1466666415,
     "wof:name":"Jennifer Manard Chiropractic Pc",
     "wof:parent_id":85872505,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "chiropractic"
     ]
 },
-  "bbox": [-96.07585,41.309954,-96.07585,41.309954],
+  "bbox": [
+    -96.07585,
+    41.309954,
+    -96.07585,
+    41.309954
+],
   "geometry": {"coordinates":[-96.07585,41.309954],"type":"Point"}
 }

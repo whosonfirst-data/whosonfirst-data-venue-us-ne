@@ -2,13 +2,14 @@
   "id": 203170367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.74153,40.779976,-99.74153,40.779976",
     "geom:latitude":40.779976,
     "geom:longitude":-99.74153,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"613 N Washington St",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":203170367,
-    "wof:lastmodified":1449025107,
+    "wof:lastmodified":1466666568,
     "wof:name":"Derek L. Mitchell P.C.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "bankruptcy"
     ]
 },
-  "bbox": [-99.74153,40.779976,-99.74153,40.779976],
+  "bbox": [
+    -99.74153,
+    40.779976,
+    -99.74153,
+    40.779976
+],
   "geometry": {"coordinates":[-99.74153,40.779976],"type":"Point"}
 }

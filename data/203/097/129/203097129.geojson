@@ -2,13 +2,14 @@
   "id": 203097129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.032885,41.259689,-96.032885,41.259689",
     "geom:latitude":41.259689,
     "geom:longitude":-96.032885,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7615 Dodge St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203097129,
-    "wof:lastmodified":1449025660,
+    "wof:lastmodified":1466666153,
     "wof:name":"Stanton Optical",
     "wof:parent_id":85872509,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "machinery"
     ]
 },
-  "bbox": [-96.032885,41.259689,-96.032885,41.259689],
-  "geometry": {"coordinates":[-96.032885,41.259689],"type":"Point"}
+  "bbox": [
+    -96.032885,
+    41.259689,
+    -96.032885,
+    41.259689
+],
+  "geometry": {"coordinates":[-96.03288499999999,41.259689],"type":"Point"}
 }

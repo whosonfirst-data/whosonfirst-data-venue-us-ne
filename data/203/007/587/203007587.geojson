@@ -2,13 +2,14 @@
   "id": 203007587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.92921,41.257433,-95.92921,41.257433",
     "geom:latitude":41.257433,
     "geom:longitude":-95.92921,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1001 Farnam St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203007587,
-    "wof:lastmodified":1449026519,
+    "wof:lastmodified":1466665594,
     "wof:name":"Podraza Jill A Atty",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.92921,41.257433,-95.92921,41.257433],
+  "bbox": [
+    -95.92921,
+    41.257433,
+    -95.92921,
+    41.257433
+],
   "geometry": {"coordinates":[-95.92921,41.257433],"type":"Point"}
 }

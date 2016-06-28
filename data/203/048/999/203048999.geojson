@@ -2,13 +2,14 @@
   "id": 203048999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.002853,41.282431,-96.002853,41.282431",
     "geom:latitude":41.282431,
     "geom:longitude":-96.002853,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5846 Ohio St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203048999,
-    "wof:lastmodified":1449025586,
+    "wof:lastmodified":1466665899,
     "wof:name":"0 0 24 7 Locksmith",
     "wof:parent_id":85872535,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "key"
     ]
 },
-  "bbox": [-96.002853,41.282431,-96.002853,41.282431],
+  "bbox": [
+    -96.002853,
+    41.282431,
+    -96.002853,
+    41.282431
+],
   "geometry": {"coordinates":[-96.002853,41.282431],"type":"Point"}
 }

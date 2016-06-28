@@ -2,13 +2,14 @@
   "id": 202988001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.260827,41.105431,-96.260827,41.105431",
     "geom:latitude":41.105431,
     "geom:longitude":-96.260827,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13548 S 220th St #2",
     "sg:city":"Gretna",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202988001,
-    "wof:lastmodified":1449060984,
+    "wof:lastmodified":1466665645,
     "wof:name":"Eden Tree Pros",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-96.260827,41.105431,-96.260827,41.105431],
-  "geometry": {"coordinates":[-96.260827,41.105431],"type":"Point"}
+  "bbox": [
+    -96.260827,
+    41.105431,
+    -96.260827,
+    41.105431
+],
+  "geometry": {"coordinates":[-96.26082700000001,41.105431],"type":"Point"}
 }

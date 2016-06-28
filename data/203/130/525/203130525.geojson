@@ -2,13 +2,14 @@
   "id": 203130525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.988545,41.265063,-95.988545,41.265063",
     "geom:latitude":41.265063,
     "geom:longitude":-95.988545,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4924 Underwood Ave",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":203130525,
-    "wof:lastmodified":1449025571,
+    "wof:lastmodified":1466666377,
     "wof:name":"Blue Line Coffee",
     "wof:parent_id":85867055,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.988545,41.265063,-95.988545,41.265063],
+  "bbox": [
+    -95.988545,
+    41.265063,
+    -95.988545,
+    41.265063
+],
   "geometry": {"coordinates":[-95.988545,41.265063],"type":"Point"}
 }

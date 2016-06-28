@@ -2,13 +2,14 @@
   "id": 203170207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.087173,40.675011,-99.087173,40.675011",
     "geom:latitude":40.675011,
     "geom:longitude":-99.087173,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4800 3rd Ave",
     "sg:city":"Kearney",
     "sg:classifiers":[
@@ -67,10 +68,11 @@
         }
     ],
     "wof:id":203170207,
-    "wof:lastmodified":1449025107,
+    "wof:lastmodified":1466666564,
     "wof:name":"Target",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -78,6 +80,11 @@
         "merchandise"
     ]
 },
-  "bbox": [-99.087173,40.675011,-99.087173,40.675011],
-  "geometry": {"coordinates":[-99.087173,40.675011],"type":"Point"}
+  "bbox": [
+    -99.087173,
+    40.675011,
+    -99.087173,
+    40.675011
+],
+  "geometry": {"coordinates":[-99.08717300000001,40.675011],"type":"Point"}
 }

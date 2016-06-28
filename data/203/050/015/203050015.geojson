@@ -2,13 +2,14 @@
   "id": 203050015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.978302,41.2561,-95.978302,41.2561",
     "geom:latitude":41.2561,
     "geom:longitude":-95.978302,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4350 Dewey Ave",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203050015,
-    "wof:lastmodified":1449025988,
+    "wof:lastmodified":1466669642,
     "wof:name":"Nebraska Health System Massage Center",
     "wof:parent_id":85872523,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.978302,41.2561,-95.978302,41.2561],
+  "bbox": [
+    -95.978302,
+    41.2561,
+    -95.978302,
+    41.2561
+],
   "geometry": {"coordinates":[-95.978302,41.2561],"type":"Point"}
 }

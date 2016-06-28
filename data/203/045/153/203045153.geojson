@@ -2,13 +2,14 @@
   "id": 203045153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.015323,41.294517,-96.015323,41.294517",
     "geom:latitude":41.294517,
     "geom:longitude":-96.015323,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3945 N 67th St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203045153,
-    "wof:lastmodified":1449026648,
+    "wof:lastmodified":1466665853,
     "wof:name":"27 Hour A Locksmith",
     "wof:parent_id":85805755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "key"
     ]
 },
-  "bbox": [-96.015323,41.294517,-96.015323,41.294517],
+  "bbox": [
+    -96.015323,
+    41.294517,
+    -96.015323,
+    41.294517
+],
   "geometry": {"coordinates":[-96.015323,41.294517],"type":"Point"}
 }

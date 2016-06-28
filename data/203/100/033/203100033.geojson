@@ -2,13 +2,14 @@
   "id": 203100033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.15805,41.278418,-96.15805,41.278418",
     "geom:latitude":41.278418,
     "geom:longitude":-96.15805,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2051 N 156th St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -71,10 +72,11 @@
         }
     ],
     "wof:id":203100033,
-    "wof:lastmodified":1449026363,
+    "wof:lastmodified":1466669653,
     "wof:name":"Allstate Insurance Company - Devan Kennington",
     "wof:parent_id":85806957,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -86,6 +88,11 @@
         "renter"
     ]
 },
-  "bbox": [-96.15805,41.278418,-96.15805,41.278418],
+  "bbox": [
+    -96.15805,
+    41.278418,
+    -96.15805,
+    41.278418
+],
   "geometry": {"coordinates":[-96.15805,41.278418],"type":"Point"}
 }

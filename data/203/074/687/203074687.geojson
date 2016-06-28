@@ -2,13 +2,14 @@
   "id": 203074687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.929604,41.235298,-95.929604,41.235298",
     "geom:latitude":41.235298,
     "geom:longitude":-95.929604,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2532 S 10th St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":203074687,
-    "wof:lastmodified":1449025966,
+    "wof:lastmodified":1466666051,
     "wof:name":"Waterman's Auto Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "towing"
     ]
 },
-  "bbox": [-95.929604,41.235298,-95.929604,41.235298],
+  "bbox": [
+    -95.929604,
+    41.235298,
+    -95.929604,
+    41.235298
+],
   "geometry": {"coordinates":[-95.929604,41.235298],"type":"Point"}
 }

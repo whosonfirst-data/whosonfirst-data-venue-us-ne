@@ -2,13 +2,14 @@
   "id": 203125709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.967697,41.257,-95.967697,41.257",
     "geom:latitude":41.257,
     "geom:longitude":-95.967697,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3717 Harney St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203125709,
-    "wof:lastmodified":1449026804,
+    "wof:lastmodified":1466666344,
     "wof:name":"Haller Michael Jr Atty",
     "wof:parent_id":85872525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.967697,41.257,-95.967697,41.257],
+  "bbox": [
+    -95.967697,
+    41.257,
+    -95.967697,
+    41.257
+],
   "geometry": {"coordinates":[-95.967697,41.257],"type":"Point"}
 }

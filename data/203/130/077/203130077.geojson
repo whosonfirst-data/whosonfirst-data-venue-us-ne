@@ -2,13 +2,14 @@
   "id": 203130077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.959135,41.259907,-95.959135,41.259907",
     "geom:latitude":41.259907,
     "geom:longitude":-95.959135,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"124 N 31st Ave",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":203130077,
-    "wof:lastmodified":1449025566,
+    "wof:lastmodified":1466666369,
     "wof:name":"124 N. 31st. Avenue",
     "wof:parent_id":85872525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.959135,41.259907,-95.959135,41.259907],
+  "bbox": [
+    -95.959135,
+    41.259907,
+    -95.959135,
+    41.259907
+],
   "geometry": {"coordinates":[-95.959135,41.259907],"type":"Point"}
 }

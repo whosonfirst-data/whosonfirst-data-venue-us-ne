@@ -2,13 +2,14 @@
   "id": 203095385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.957102,41.318601,-95.957102,41.318601",
     "geom:latitude":41.318601,
     "geom:longitude":-95.957102,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3020 Huntington Ave",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":203095385,
-    "wof:lastmodified":1449025891,
+    "wof:lastmodified":1466666147,
     "wof:name":"World Fellowship Christian Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.957102,41.318601,-95.957102,41.318601],
-  "geometry": {"coordinates":[-95.957102,41.318601],"type":"Point"}
+  "bbox": [
+    -95.957102,
+    41.318601,
+    -95.957102,
+    41.318601
+],
+  "geometry": {"coordinates":[-95.95710200000001,41.318601],"type":"Point"}
 }

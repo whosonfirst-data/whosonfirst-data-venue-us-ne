@@ -2,13 +2,14 @@
   "id": 203164915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.646862,40.846187,-96.646862,40.846187",
     "geom:latitude":40.846187,
     "geom:longitude":-96.646862,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5323 Gladstone St",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":203164915,
-    "wof:lastmodified":1449025172,
+    "wof:lastmodified":1466666551,
     "wof:name":"Wood Shaper The",
     "wof:parent_id":85853163,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "carving"
     ]
 },
-  "bbox": [-96.646862,40.846187,-96.646862,40.846187],
+  "bbox": [
+    -96.646862,
+    40.846187,
+    -96.646862,
+    40.846187
+],
   "geometry": {"coordinates":[-96.646862,40.846187],"type":"Point"}
 }
