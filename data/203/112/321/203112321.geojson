@@ -2,9 +2,14 @@
   "id": 203112321,
   "type": "Feature",
   "properties": {
+    "addr:full":"8218 F St Omaha NE 68127",
+    "addr:housenumber":"8218",
+    "addr:postcode":"68127",
+    "addr:street":"F St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.040508,41.219769,-96.040508,41.219769",
     "geom:latitude":41.219769,
     "geom:longitude":-96.040508,
@@ -50,11 +55,13 @@
     "sg:website":"http://www.getyourgeek.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688563,
+        85872511,
+        102191575,
+        404518711,
         85633793,
         85973483,
         102082789,
-        85872511
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -64,9 +71,10 @@
     "wof:geomhash":"b8db0115f5b9dd1f5ec6f8222aae95ce",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082789,
+            "localadmin_id":404518711,
             "locality_id":85973483,
             "neighbourhood_id":85872511,
             "region_id":85688563,
@@ -74,7 +82,7 @@
         }
     ],
     "wof:id":203112321,
-    "wof:lastmodified":1466666266,
+    "wof:lastmodified":1491885182,
     "wof:name":"Geeks",
     "wof:parent_id":85872511,
     "wof:placetype":"venue",

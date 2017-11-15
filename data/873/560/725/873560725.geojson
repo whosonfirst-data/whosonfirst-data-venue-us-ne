@@ -2,6 +2,10 @@
   "id": 873560725,
   "type": "Feature",
   "properties": {
+    "addr:full":"5555 N 90th St Omaha NE 68134",
+    "addr:housenumber":"5555",
+    "addr:postcode":"68134",
+    "addr:street":"N 90Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":873560725,
-    "wof:lastmodified":1466665760,
+    "wof:lastmodified":1472633810,
     "wof:name":"Bakers Pharmacy",
     "wof:parent_id":85872505,
     "wof:placetype":"venue",

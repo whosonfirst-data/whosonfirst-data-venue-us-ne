@@ -2,9 +2,14 @@
   "id": 873977845,
   "type": "Feature",
   "properties": {
+    "addr:full":"10408 S 15th St Bellevue NE 68123",
+    "addr:housenumber":"10408",
+    "addr:postcode":"68123",
+    "addr:street":"S 15Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.935452,41.15932,-95.935452,41.15932",
     "geom:latitude":41.15932,
     "geom:longitude":-95.935452,
@@ -30,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688563,
+        85821583,
+        102191575,
+        404519143,
         85633793,
         85974545,
         102082777,
-        85821583
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,8 +52,10 @@
     "wof:geomhash":"872eff285d1d10e8638560a455aee6ea",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082777,
+            "localadmin_id":404519143,
             "locality_id":85974545,
             "neighbourhood_id":85821583,
             "region_id":85688563,
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":873977845,
-    "wof:lastmodified":1466669740,
+    "wof:lastmodified":1491893186,
     "wof:name":"Outback Steakhouse",
     "wof:parent_id":85821583,
     "wof:placetype":"venue",

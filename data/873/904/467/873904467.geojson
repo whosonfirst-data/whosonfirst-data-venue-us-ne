@@ -2,9 +2,14 @@
   "id": 873904467,
   "type": "Feature",
   "properties": {
+    "addr:full":"9811 S 36th St Bellevue NE 68123",
+    "addr:housenumber":"9811",
+    "addr:postcode":"68123",
+    "addr:street":"S 36Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.967026,41.162558,-95.967026,41.162558",
     "geom:latitude":41.162558,
     "geom:longitude":-95.967026,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688563,
+        85821583,
+        102191575,
+        404519143,
         85633793,
         85974545,
         102082777,
-        85821583
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,8 +50,10 @@
     "wof:geomhash":"bf21cf061f57dc68681e05eed2cb1230",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082777,
+            "localadmin_id":404519143,
             "locality_id":85974545,
             "neighbourhood_id":85821583,
             "region_id":85688563,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":873904467,
-    "wof:lastmodified":1466668383,
+    "wof:lastmodified":1491893212,
     "wof:name":"Jehovah's Witnesses East",
     "wof:parent_id":85821583,
     "wof:placetype":"venue",

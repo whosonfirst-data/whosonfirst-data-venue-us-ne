@@ -2,14 +2,20 @@
   "id": 873684569,
   "type": "Feature",
   "properties": {
+    "addr:full":"1222 S 27th St Lincoln NE 68502",
+    "addr:housenumber":"1222",
+    "addr:postcode":"68502",
+    "addr:street":"S 27Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.682352,40.798943,-96.682352,40.798943",
     "geom:latitude":40.798943,
     "geom:longitude":-96.682352,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1222 S 27th St",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102083503,
         85688563
     ],
+    "wof:brand_id":1125157529,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5j1GqijQ1iz1F1RuXywUZj_40.798943_-96.682352@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464296126,
-    "wof:geomhash":"e38de613e9b7aab683f635dc6d6bdedc",
+    "wof:geomhash":"57775f0500a52247a789cd4c281f3307",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":873684569,
-    "wof:lastmodified":1466666582,
+    "wof:lastmodified":1510699758,
     "wof:name":"Valentino's",
     "wof:parent_id":85878727,
     "wof:placetype":"venue",

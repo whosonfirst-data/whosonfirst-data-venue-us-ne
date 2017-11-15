@@ -2,9 +2,14 @@
   "id": 873681299,
   "type": "Feature",
   "properties": {
+    "addr:full":"5610 Highland Dr Papillion NE 68133",
+    "addr:housenumber":"5610",
+    "addr:postcode":"68133",
+    "addr:street":"Highland Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.00101,41.146532,-96.00101,41.146532",
     "geom:latitude":41.146532,
     "geom:longitude":-96.00101,
@@ -30,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688563,
+        85821583,
+        102191575,
+        404519143,
         85633793,
         85974545,
         102082777,
-        85821583
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,8 +52,10 @@
     "wof:geomhash":"ac3209226f3d046dad21b3b3e0193fe1",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082777,
+            "localadmin_id":404519143,
             "locality_id":85974545,
             "neighbourhood_id":85821583,
             "region_id":85688563,
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":873681299,
-    "wof:lastmodified":1466666554,
+    "wof:lastmodified":1491893162,
     "wof:name":"Jims Mvg & Delivery Co Inc",
     "wof:parent_id":85821583,
     "wof:placetype":"venue",

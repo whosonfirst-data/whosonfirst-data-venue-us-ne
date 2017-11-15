@@ -2,9 +2,14 @@
   "id": 203113427,
   "type": "Feature",
   "properties": {
+    "addr:full":"4513 S 88th St Omaha NE 68127",
+    "addr:housenumber":"4513",
+    "addr:postcode":"68127",
+    "addr:street":"S 88Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.048112,41.215284,-96.048112,41.215284",
     "geom:latitude":41.215284,
     "geom:longitude":-96.048112,
@@ -43,11 +48,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688563,
+        85872511,
+        102191575,
+        404518711,
         85633793,
         85973483,
         102082789,
-        85872511
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,9 +64,10 @@
     "wof:geomhash":"55ee64c0ca30c8fe5a73bc05eaa95ac1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082789,
+            "localadmin_id":404518711,
             "locality_id":85973483,
             "neighbourhood_id":85872511,
             "region_id":85688563,
@@ -67,7 +75,7 @@
         }
     ],
     "wof:id":203113427,
-    "wof:lastmodified":1466666278,
+    "wof:lastmodified":1491885193,
     "wof:name":"Heartland Printing & Equipment",
     "wof:parent_id":85872511,
     "wof:placetype":"venue",

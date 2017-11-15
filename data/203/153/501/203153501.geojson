@@ -2,9 +2,14 @@
   "id": 203153501,
   "type": "Feature",
   "properties": {
+    "addr:full":"6112 Military Ave Omaha NE 68197",
+    "addr:housenumber":"6112",
+    "addr:postcode":"68197",
+    "addr:street":"Military Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.007321,41.286848,-96.007321,41.286848",
     "geom:latitude":41.286848,
     "geom:longitude":-96.007321,
@@ -40,11 +45,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688563,
+        85872535,
+        102191575,
+        404518711,
         85633793,
         85973483,
         102082789,
-        85872535
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,9 +61,10 @@
     "wof:geomhash":"5dbca2d496a782d3fb2a312074c9a148",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082789,
+            "localadmin_id":404518711,
             "locality_id":85973483,
             "neighbourhood_id":85872535,
             "region_id":85688563,
@@ -64,7 +72,7 @@
         }
     ],
     "wof:id":203153501,
-    "wof:lastmodified":1466666490,
+    "wof:lastmodified":1491888405,
     "wof:name":"Tryst Hair Studio",
     "wof:parent_id":85872535,
     "wof:placetype":"venue",

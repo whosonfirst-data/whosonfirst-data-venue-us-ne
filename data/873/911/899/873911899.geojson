@@ -2,14 +2,20 @@
   "id": 873911899,
   "type": "Feature",
   "properties": {
+    "addr:full":"1001 Fort Crook Rd N Bellevue NE 68005",
+    "addr:housenumber":"1001",
+    "addr:postcode":"68005",
+    "addr:street":"Fort Crook Rd N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.926617,41.177201,-95.926617,41.177201",
     "geom:latitude":41.177201,
     "geom:longitude":-95.926617,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1001 Fort Crook Rd N",
     "sg:city":"Bellevue",
     "sg:classifiers":[
@@ -29,23 +35,28 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688563,
+        85804025,
+        102191575,
+        404519143,
         85633793,
         85974545,
         102082777,
-        85804025
+        85688563
     ],
+    "wof:brand_id":1125155179,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_23CXWlulc03lS6QVEWg01w_41.177201_-95.926617@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464300048,
-    "wof:geomhash":"60eb2fc814fe4c4c4f5e41cc01f2db13",
+    "wof:geomhash":"eb6e6ea2a578d13cb18be7dcfafaf126",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082777,
+            "localadmin_id":404519143,
             "locality_id":85974545,
             "neighbourhood_id":85804025,
             "region_id":85688563,
@@ -53,7 +64,7 @@
         }
     ],
     "wof:id":873911899,
-    "wof:lastmodified":1466668527,
+    "wof:lastmodified":1510699386,
     "wof:name":"Powerhouse Gym",
     "wof:parent_id":85804025,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 873978607,
   "type": "Feature",
   "properties": {
+    "addr:full":"12720 I Street  Suite 200 Omaha NE 68137",
+    "addr:housenumber":"12720",
+    "addr:postcode":"68137",
+    "addr:street":"I Street Suite 200",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":873978607,
-    "wof:lastmodified":1466669725,
+    "wof:lastmodified":1472634123,
     "wof:name":"Hayneedle",
     "wof:parent_id":85872531,
     "wof:placetype":"venue",

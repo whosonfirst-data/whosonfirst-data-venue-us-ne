@@ -2,9 +2,14 @@
   "id": 873667401,
   "type": "Feature",
   "properties": {
+    "addr:full":"2213 Thurston Cir Bellevue NE 68005",
+    "addr:housenumber":"2213",
+    "addr:postcode":"68005",
+    "addr:street":"Thurston Cir",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.925231,41.160102,-95.925231,41.160102",
     "geom:latitude":41.160102,
     "geom:longitude":-95.925231,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688563,
+        85804025,
+        102191575,
+        404519143,
         85633793,
         85974545,
         102082777,
-        85804025
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,8 +50,10 @@
     "wof:geomhash":"4147295229db1a5afd597dd4c211f0c7",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082777,
+            "localadmin_id":404519143,
             "locality_id":85974545,
             "neighbourhood_id":85804025,
             "region_id":85688563,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":873667401,
-    "wof:lastmodified":1466666439,
+    "wof:lastmodified":1491931297,
     "wof:name":"Servero Of Bellevue",
     "wof:parent_id":85804025,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 873933553,
   "type": "Feature",
   "properties": {
+    "addr:full":"4800 Superior St Lincoln NE 68504",
+    "addr:housenumber":"4800",
+    "addr:postcode":"68504",
+    "addr:street":"Superior St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.65109,40.857216,-96.65109,40.857216",
     "geom:latitude":40.857216,
     "geom:longitude":-96.65109,
@@ -25,10 +30,13 @@
     "sg:province":"NE",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688563,
+        85878741,
+        102191575,
+        404521111,
         85633793,
         85973555,
         102083503,
+        85688563,
         85824241
     ],
     "wof:breaches":[],
@@ -40,6 +48,16 @@
     "wof:geomhash":"c1e5673fbe9cf44bd76fa6f95bb8a781",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878741,
+            "region_id":85688563,
+            "venue_id":873933553
+        },
+        {
             "country_id":85633793,
             "county_id":102083503,
             "locality_id":85973555,
@@ -49,9 +67,9 @@
         }
     ],
     "wof:id":873933553,
-    "wof:lastmodified":1466668711,
+    "wof:lastmodified":1491903376,
     "wof:name":"Superior Bingo",
-    "wof:parent_id":85824241,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],

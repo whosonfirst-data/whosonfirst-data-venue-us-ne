@@ -2,6 +2,10 @@
   "id": 203166501,
   "type": "Feature",
   "properties": {
+    "addr:full":"1201 Q St Lincoln NE 68508",
+    "addr:housenumber":"1201",
+    "addr:postcode":"68508",
+    "addr:street":"Q St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -89,7 +93,7 @@
         }
     ],
     "wof:id":203166501,
-    "wof:lastmodified":1466666552,
+    "wof:lastmodified":1472633928,
     "wof:name":"FedEx Office Print & Ship Center",
     "wof:parent_id":85878699,
     "wof:placetype":"venue",

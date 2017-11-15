@@ -2,6 +2,10 @@
   "id": 873825513,
   "type": "Feature",
   "properties": {
+    "addr:full":"10902 John Galt Blvd Omaha NE 68137",
+    "addr:housenumber":"10902",
+    "addr:postcode":"68137",
+    "addr:street":"John Galt Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":873825513,
-    "wof:lastmodified":1466667595,
+    "wof:lastmodified":1472633942,
     "wof:name":"Computer Source Inc",
     "wof:parent_id":85872531,
     "wof:placetype":"venue",

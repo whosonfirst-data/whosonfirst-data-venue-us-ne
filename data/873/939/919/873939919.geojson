@@ -2,9 +2,14 @@
   "id": 873939919,
   "type": "Feature",
   "properties": {
+    "addr:full":"1004 Lincoln Rd Bellevue NE 68005",
+    "addr:housenumber":"1004",
+    "addr:postcode":"68005",
+    "addr:street":"Lincoln Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.908029,41.150577,-95.908029,41.150577",
     "geom:latitude":41.150577,
     "geom:longitude":-95.908029,
@@ -33,11 +38,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688563,
+        85804025,
+        102191575,
+        404519143,
         85633793,
         85974545,
         102082777,
-        85804025
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,8 +55,10 @@
     "wof:geomhash":"b7bec1dbbef11b7014732337ccd460b8",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082777,
+            "localadmin_id":404519143,
             "locality_id":85974545,
             "neighbourhood_id":85804025,
             "region_id":85688563,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":873939919,
-    "wof:lastmodified":1466668957,
+    "wof:lastmodified":1491931312,
     "wof:name":"Home Access Solutions",
     "wof:parent_id":85804025,
     "wof:placetype":"venue",

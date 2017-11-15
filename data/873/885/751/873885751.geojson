@@ -2,6 +2,10 @@
   "id": 873885751,
   "type": "Feature",
   "properties": {
+    "addr:full":"3233 Cornhusker Hwy Lincoln NE 68504",
+    "addr:housenumber":"3233",
+    "addr:postcode":"68504",
+    "addr:street":"Cornhusker Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":873885751,
-    "wof:lastmodified":1466668223,
+    "wof:lastmodified":1472634004,
     "wof:name":"Servacheck",
     "wof:parent_id":85878741,
     "wof:placetype":"venue",

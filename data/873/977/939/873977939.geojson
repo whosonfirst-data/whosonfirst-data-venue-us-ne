@@ -2,14 +2,20 @@
   "id": 873977939,
   "type": "Feature",
   "properties": {
+    "addr:full":"8920 Fort St Omaha NE 68134",
+    "addr:housenumber":"8920",
+    "addr:postcode":"68134",
+    "addr:street":"Fort St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.05128,41.307072,-96.05128,41.307072",
     "geom:latitude":41.307072,
     "geom:longitude":-96.05128,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8920 Fort St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         85872505,
         102082789
     ],
+    "wof:brand_id":1125156297,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7UH9Yu7fS6lilPnnUGWme0_41.306765_-96.050983@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464302294,
-    "wof:geomhash":"4aed69a7dbe2b11a03e1cfee38361f9c",
+    "wof:geomhash":"af2418ae227e82acba5f37e85346195a",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":873977939,
-    "wof:lastmodified":1466669742,
+    "wof:lastmodified":1510695374,
     "wof:name":"Runza",
     "wof:parent_id":85872505,
     "wof:placetype":"venue",

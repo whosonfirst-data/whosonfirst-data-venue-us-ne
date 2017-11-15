@@ -2,9 +2,14 @@
   "id": 202985939,
   "type": "Feature",
   "properties": {
+    "addr:full":"2111 Harvell Dr Bellevue NE 68005",
+    "addr:housenumber":"2111",
+    "addr:postcode":"68005",
+    "addr:street":"Harvell Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.923082,41.155168,-95.923082,41.155168",
     "geom:latitude":41.155168,
     "geom:longitude":-95.923082,
@@ -38,11 +43,13 @@
     "sg:website":"http://www.atakravmaga.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688563,
+        85821583,
+        102191575,
+        404519143,
         85633793,
         85974545,
         102082777,
-        85821583
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,9 +59,10 @@
     "wof:geomhash":"4bbd095530c18cd754c7e4ace95de5e0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082777,
+            "localadmin_id":404519143,
             "locality_id":85974545,
             "neighbourhood_id":85821583,
             "region_id":85688563,
@@ -62,7 +70,7 @@
         }
     ],
     "wof:id":202985939,
-    "wof:lastmodified":1466665577,
+    "wof:lastmodified":1491893188,
     "wof:name":"ATA Black Belt Academy & Krav Maga",
     "wof:parent_id":85821583,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 873842405,
   "type": "Feature",
   "properties": {
+    "addr:full":"800 S 13th St Lincoln NE 68508",
+    "addr:housenumber":"800",
+    "addr:postcode":"68508",
+    "addr:street":"S 13Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.702597,40.804744,-96.702597,40.804744",
     "geom:latitude":40.804744,
     "geom:longitude":-96.702597,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"800 S 13th St",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102083503,
         85688563
     ],
+    "wof:brand_id":420575691,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_45aj45AVCT6vIis2Udh0qu_40.804744_-96.702597@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464298617,
-    "wof:geomhash":"844fc8044c198a0d2f70cb86f5a9cbce",
+    "wof:geomhash":"a191a495f07ab1b49a2a80baf59a3ebf",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":873842405,
-    "wof:lastmodified":1466667734,
+    "wof:lastmodified":1510677753,
     "wof:name":"Mothers Against Drunk Driving",
     "wof:parent_id":85878705,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 873880241,
   "type": "Feature",
   "properties": {
+    "addr:full":"840 N 40th St Lincoln NE 68503",
+    "addr:housenumber":"840",
+    "addr:postcode":"68503",
+    "addr:street":"N 40Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":873880241,
-    "wof:lastmodified":1466668113,
+    "wof:lastmodified":1472633986,
     "wof:name":"KOLN",
     "wof:parent_id":85878701,
     "wof:placetype":"venue",

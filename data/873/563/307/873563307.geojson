@@ -2,6 +2,10 @@
   "id": 873563307,
   "type": "Feature",
   "properties": {
+    "addr:full":"12319 S 28th St Bellevue NE 68123",
+    "addr:housenumber":"12319",
+    "addr:postcode":"68123",
+    "addr:street":"S 28Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":873563307,
-    "wof:lastmodified":1466665745,
+    "wof:lastmodified":1472633773,
     "wof:name":"Illuminescents",
     "wof:parent_id":85820061,
     "wof:placetype":"venue",

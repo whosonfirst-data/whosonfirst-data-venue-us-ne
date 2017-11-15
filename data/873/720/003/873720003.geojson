@@ -2,6 +2,10 @@
   "id": 873720003,
   "type": "Feature",
   "properties": {
+    "addr:full":"3132 N 108th St Omaha NE 68164",
+    "addr:housenumber":"3132",
+    "addr:postcode":"68164",
+    "addr:street":"N 108Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":873720003,
-    "wof:lastmodified":1466669672,
+    "wof:lastmodified":1472633744,
     "wof:name":"American Animal Hospital",
     "wof:parent_id":85872503,
     "wof:placetype":"venue",

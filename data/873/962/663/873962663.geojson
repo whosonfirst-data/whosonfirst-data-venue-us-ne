@@ -2,9 +2,14 @@
   "id": 873962663,
   "type": "Feature",
   "properties": {
+    "addr:full":"11535 S 36th St Bellevue NE 68123",
+    "addr:housenumber":"11535",
+    "addr:postcode":"68123",
+    "addr:street":"S 36Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.966654,41.141493,-95.966654,41.141493",
     "geom:latitude":41.141493,
     "geom:longitude":-95.966654,
@@ -26,11 +31,13 @@
     "sg:website":"www.midlandsrealestate.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688563,
+        85821583,
+        102191575,
+        404519143,
         85633793,
         85974545,
         102082777,
-        85821583
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +48,10 @@
     "wof:geomhash":"1b11dd7e5b8d7e95c34fc06c57c6a8bc",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082777,
+            "localadmin_id":404519143,
             "locality_id":85974545,
             "neighbourhood_id":85821583,
             "region_id":85688563,
@@ -50,7 +59,7 @@
         }
     ],
     "wof:id":873962663,
-    "wof:lastmodified":1466669422,
+    "wof:lastmodified":1491893178,
     "wof:name":"Midlands Real Estate",
     "wof:parent_id":85821583,
     "wof:placetype":"venue",

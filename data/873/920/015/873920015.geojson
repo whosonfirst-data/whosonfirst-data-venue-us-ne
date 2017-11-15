@@ -2,9 +2,14 @@
   "id": 873920015,
   "type": "Feature",
   "properties": {
+    "addr:full":"7001 Edenton Rd Lincoln NE 68516",
+    "addr:housenumber":"7001",
+    "addr:postcode":"68516",
+    "addr:street":"Edenton Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.625286,40.758091,-96.625286,40.758091",
     "geom:latitude":40.758091,
     "geom:longitude":-96.625286,
@@ -29,13 +34,14 @@
     "sg:website":"www.elcchurch.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878695,
+        85878707,
         102191575,
         404521111,
         85633793,
         85973555,
         102083503,
-        85688563
+        85688563,
+        85878695
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,15 +57,25 @@
             "county_id":102083503,
             "localadmin_id":404521111,
             "locality_id":85973555,
+            "neighbourhood_id":85878707,
+            "region_id":85688563,
+            "venue_id":873920015
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
             "neighbourhood_id":85878695,
             "region_id":85688563,
             "venue_id":873920015
         }
     ],
     "wof:id":873920015,
-    "wof:lastmodified":1466668500,
+    "wof:lastmodified":1491932648,
     "wof:name":"East Lincoln Christian Church",
-    "wof:parent_id":85878695,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],

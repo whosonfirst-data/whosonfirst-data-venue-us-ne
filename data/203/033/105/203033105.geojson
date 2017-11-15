@@ -2,6 +2,10 @@
   "id": 203033105,
   "type": "Feature",
   "properties": {
+    "addr:full":"500 S 18th St Omaha NE 68102",
+    "addr:housenumber":"500",
+    "addr:postcode":"68102",
+    "addr:street":"S 18Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":203033105,
-    "wof:lastmodified":1466665762,
+    "wof:lastmodified":1472633909,
     "wof:name":"Legal Aid Society",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

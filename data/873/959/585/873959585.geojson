@@ -2,9 +2,14 @@
   "id": 873959585,
   "type": "Feature",
   "properties": {
+    "addr:full":"11510 S 39th St Bellevue NE 68123",
+    "addr:housenumber":"11510",
+    "addr:postcode":"68123",
+    "addr:street":"S 39Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.970652,41.137139,-95.970652,41.137139",
     "geom:latitude":41.137139,
     "geom:longitude":-95.970652,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688563,
+        85821583,
+        102191575,
+        404519143,
         85633793,
         85974545,
         102082777,
-        85821583
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,8 +51,10 @@
     "wof:geomhash":"e76350f528eab664ca4846092a8b4b5b",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082777,
+            "localadmin_id":404519143,
             "locality_id":85974545,
             "neighbourhood_id":85821583,
             "region_id":85688563,
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":873959585,
-    "wof:lastmodified":1466669242,
+    "wof:lastmodified":1491893171,
     "wof:name":"Ixe Electronics LLC",
     "wof:parent_id":85821583,
     "wof:placetype":"venue",

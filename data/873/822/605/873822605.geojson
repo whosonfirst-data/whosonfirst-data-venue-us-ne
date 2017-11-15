@@ -2,9 +2,14 @@
   "id": 873822605,
   "type": "Feature",
   "properties": {
+    "addr:full":"809 Cary St Bellevue NE 68147",
+    "addr:housenumber":"809",
+    "addr:postcode":"68147",
+    "addr:street":"Cary St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.926481,41.172744,-95.926481,41.172744",
     "geom:latitude":41.172744,
     "geom:longitude":-95.926481,
@@ -30,11 +35,13 @@
     "sg:website":"www.aamco.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688563,
+        85804025,
+        102191575,
+        404519143,
         85633793,
         85974545,
         102082777,
-        85804025
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,8 +52,10 @@
     "wof:geomhash":"94a8941ec5f88b74e0878fb28152d2d3",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082777,
+            "localadmin_id":404519143,
             "locality_id":85974545,
             "neighbourhood_id":85804025,
             "region_id":85688563,
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":873822605,
-    "wof:lastmodified":1466667574,
+    "wof:lastmodified":1491931311,
     "wof:name":"AAMCO Transmissions",
     "wof:parent_id":85804025,
     "wof:placetype":"venue",

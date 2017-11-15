@@ -2,14 +2,20 @@
   "id": 202988755,
   "type": "Feature",
   "properties": {
+    "addr:full":"221 Main St Louisville NE 68037",
+    "addr:housenumber":"221",
+    "addr:postcode":"68037",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.162162,41.000771,-96.162162,41.000771",
     "geom:latitude":41.000771,
     "geom:longitude":-96.162162,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"221 Main St",
     "sg:city":"Louisville",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         85974337,
         102082791
     ],
+    "wof:brand_id":1125152049,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6vPJcTCZtgPkXKUUJYrKC5_41.000771_-96.162162@1303262940"
     },
     "wof:country":"US",
-    "wof:geomhash":"591d3c4222345cb4b4967c48e0e32992",
+    "wof:geomhash":"f61ffc8a46eac9d0ede80d4588d29e3a",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":202988755,
-    "wof:lastmodified":1466665650,
+    "wof:lastmodified":1510694909,
     "wof:name":"Main Street Cafe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

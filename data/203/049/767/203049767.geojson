@@ -2,9 +2,14 @@
   "id": 203049767,
   "type": "Feature",
   "properties": {
+    "addr:full":"2603 N 45th St Omaha NE 68104",
+    "addr:housenumber":"2603",
+    "addr:postcode":"68104",
+    "addr:street":"N 45Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.980698,41.2827,-95.980698,41.2827",
     "geom:latitude":41.2827,
     "geom:longitude":-95.980698,
@@ -30,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688563,
+        85872535,
+        102191575,
+        404518711,
         85633793,
         85973483,
         102082789,
-        85872535
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +51,10 @@
     "wof:geomhash":"67d68a4c25d0aaad01c014445028d3e1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082789,
+            "localadmin_id":404518711,
             "locality_id":85973483,
             "neighbourhood_id":85872535,
             "region_id":85688563,
@@ -54,7 +62,7 @@
         }
     ],
     "wof:id":203049767,
-    "wof:lastmodified":1466665904,
+    "wof:lastmodified":1491888421,
     "wof:name":"Park & Sons Heating & Air Conditioning",
     "wof:parent_id":85872535,
     "wof:placetype":"venue",

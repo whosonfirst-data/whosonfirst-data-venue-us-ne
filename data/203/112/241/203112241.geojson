@@ -2,9 +2,14 @@
   "id": 203112241,
   "type": "Feature",
   "properties": {
+    "addr:full":"8594 Frederick St Omaha NE 68124",
+    "addr:housenumber":"8594",
+    "addr:postcode":"68124",
+    "addr:street":"Frederick St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.046988,41.22974,-96.046988,41.22974",
     "geom:latitude":41.22974,
     "geom:longitude":-96.046988,
@@ -30,11 +35,13 @@
     "sg:website":"http://www.1stchoicepersonnel.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688563,
+        85872511,
+        102191575,
+        404518711,
         85633793,
         85973483,
         102082789,
-        85872511
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +51,10 @@
     "wof:geomhash":"ff684f88e789336d44caad6442b1ef42",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082789,
+            "localadmin_id":404518711,
             "locality_id":85973483,
             "neighbourhood_id":85872511,
             "region_id":85688563,
@@ -54,7 +62,7 @@
         }
     ],
     "wof:id":203112241,
-    "wof:lastmodified":1466666264,
+    "wof:lastmodified":1491885182,
     "wof:name":"1st Choice Personnel",
     "wof:parent_id":85872511,
     "wof:placetype":"venue",

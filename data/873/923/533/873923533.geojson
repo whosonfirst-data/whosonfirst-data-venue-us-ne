@@ -2,14 +2,20 @@
   "id": 873923533,
   "type": "Feature",
   "properties": {
+    "addr:full":"2006 S 10th St Lincoln NE 68502",
+    "addr:housenumber":"2006",
+    "addr:postcode":"68502",
+    "addr:street":"S 10Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.707069,40.79194,-96.707069,40.79194",
     "geom:latitude":40.79194,
     "geom:longitude":-96.707069,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2006 S 10th St",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102083503,
         85688563
     ],
+    "wof:brand_id":1125154283,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ui6PQzJlaTelL1A6PEL16_40.791940_-96.707069@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464300280,
-    "wof:geomhash":"b574794128d332ee6a95d346b83c2071",
+    "wof:geomhash":"8bf588e4de04073f58400ccfaa2db958",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":873923533,
-    "wof:lastmodified":1466668613,
+    "wof:lastmodified":1510693857,
     "wof:name":"Bill's Barber Shop",
     "wof:parent_id":85878719,
     "wof:placetype":"venue",

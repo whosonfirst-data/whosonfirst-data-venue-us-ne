@@ -2,6 +2,10 @@
   "id": 873879991,
   "type": "Feature",
   "properties": {
+    "addr:full":"2001 N 72nd St Omaha NE 68134",
+    "addr:housenumber":"2001",
+    "addr:postcode":"68134",
+    "addr:street":"N 72Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":873879991,
-    "wof:lastmodified":1466668190,
+    "wof:lastmodified":1472634000,
     "wof:name":"Office of Job Corps",
     "wof:parent_id":85872507,
     "wof:placetype":"venue",

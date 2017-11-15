@@ -2,9 +2,14 @@
   "id": 873801005,
   "type": "Feature",
   "properties": {
+    "addr:full":"3406 Castile Dr Bellevue NE 68123",
+    "addr:housenumber":"3406",
+    "addr:postcode":"68123",
+    "addr:street":"Castile Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.962753,41.129513,-95.962753,41.129513",
     "geom:latitude":41.129513,
     "geom:longitude":-95.962753,
@@ -25,11 +30,13 @@
     "sg:province":"NE",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688563,
+        85821583,
+        102191575,
+        404519143,
         85633793,
         85974545,
         102082777,
-        85821583
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,8 +47,10 @@
     "wof:geomhash":"a2da4c6da92aef36b2f899212feaaeb9",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082777,
+            "localadmin_id":404519143,
             "locality_id":85974545,
             "neighbourhood_id":85821583,
             "region_id":85688563,
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":873801005,
-    "wof:lastmodified":1466667328,
+    "wof:lastmodified":1491893214,
     "wof:name":"Diva's Clothing",
     "wof:parent_id":85821583,
     "wof:placetype":"venue",

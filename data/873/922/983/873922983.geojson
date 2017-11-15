@@ -2,6 +2,10 @@
   "id": 873922983,
   "type": "Feature",
   "properties": {
+    "addr:full":"530 Turner Blvd Omaha NE 68105",
+    "addr:housenumber":"530",
+    "addr:postcode":"68105",
+    "addr:street":"Turner Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":873922983,
-    "wof:lastmodified":1466668668,
+    "wof:lastmodified":1472634044,
     "wof:name":"Omaha City Ofc Dewey Park Otdr",
     "wof:parent_id":85872525,
     "wof:placetype":"venue",

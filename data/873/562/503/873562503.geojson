@@ -2,9 +2,14 @@
   "id": 873562503,
   "type": "Feature",
   "properties": {
+    "addr:full":"15905 Jackson Dr Omaha NE 68118",
+    "addr:housenumber":"15905",
+    "addr:postcode":"68118",
+    "addr:street":"Jackson Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.164484,41.252224,-96.164484,41.252224",
     "geom:latitude":41.252224,
     "geom:longitude":-96.164484,
@@ -24,7 +29,15 @@
     "sg:postcode":"68118",
     "sg:province":"NE",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85806957,
+        102191575,
+        404519987,
+        85633793,
+        85973479,
+        102082789,
+        85688563
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3MIuy3l8Q0J6i8UmMLCFdB_41.252224_-96.164484@1294165850"
@@ -32,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1464294526,
     "wof:geomhash":"f9b0a441ff367cb8b26d7b732ca04c25",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404519987,
+            "locality_id":85973479,
+            "neighbourhood_id":85806957,
+            "region_id":85688563,
+            "venue_id":873562503
+        }
+    ],
     "wof:id":873562503,
-    "wof:lastmodified":1466665753,
+    "wof:lastmodified":1491916845,
     "wof:name":"Blue Yonder Company",
-    "wof:parent_id":-1,
+    "wof:parent_id":85806957,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],

@@ -2,14 +2,20 @@
   "id": 873774761,
   "type": "Feature",
   "properties": {
+    "addr:full":"11515 S 39th St Bellevue NE 68123",
+    "addr:housenumber":"11515",
+    "addr:postcode":"68123",
+    "addr:street":"S 39Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.9705,41.137065,-95.9705,41.137065",
     "geom:latitude":41.137065,
     "geom:longitude":-95.9705,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"11515 S 39th St",
     "sg:city":"Bellevue",
     "sg:classifiers":[
@@ -28,23 +34,28 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688563,
+        85821583,
+        102191575,
+        404519143,
         85633793,
         85974545,
         102082777,
-        85821583
+        85688563
     ],
+    "wof:brand_id":1125150317,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7aSNK8HeazL1jQgINEzpfs_41.137065_-95.970500@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464297423,
-    "wof:geomhash":"58af758b45ce96ce396efe4027372570",
+    "wof:geomhash":"b870b2602bed93b1d8b991951759fd6d",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082777,
+            "localadmin_id":404519143,
             "locality_id":85974545,
             "neighbourhood_id":85821583,
             "region_id":85688563,
@@ -52,7 +63,7 @@
         }
     ],
     "wof:id":873774761,
-    "wof:lastmodified":1466667166,
+    "wof:lastmodified":1510697389,
     "wof:name":"Securities America Inc",
     "wof:parent_id":85821583,
     "wof:placetype":"venue",

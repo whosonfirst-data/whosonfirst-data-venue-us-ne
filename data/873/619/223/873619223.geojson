@@ -2,6 +2,10 @@
   "id": 873619223,
   "type": "Feature",
   "properties": {
+    "addr:full":"3400 W Luke St Lincoln NE 68524",
+    "addr:housenumber":"3400",
+    "addr:postcode":"68524",
+    "addr:street":"W Luke St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":873619223,
-    "wof:lastmodified":1466666100,
+    "wof:lastmodified":1472633767,
     "wof:name":"Lincoln Fire Dept",
     "wof:parent_id":102529023,
     "wof:placetype":"venue",

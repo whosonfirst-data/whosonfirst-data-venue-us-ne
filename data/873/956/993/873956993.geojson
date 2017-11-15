@@ -2,9 +2,14 @@
   "id": 873956993,
   "type": "Feature",
   "properties": {
+    "addr:full":"8616 S 38th Ave Bellevue NE 68147",
+    "addr:housenumber":"8616",
+    "addr:postcode":"68147",
+    "addr:street":"S 38Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.970331,41.17317,-95.970331,41.17317",
     "geom:latitude":41.17317,
     "geom:longitude":-95.970331,
@@ -31,11 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688563,
+        85821583,
+        102191575,
+        404519143,
         85633793,
         85974545,
         102082777,
-        85821583
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,8 +53,10 @@
     "wof:geomhash":"d81cac9ee83ea3246b98785fa0e0ebb7",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082777,
+            "localadmin_id":404519143,
             "locality_id":85974545,
             "neighbourhood_id":85821583,
             "region_id":85688563,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":873956993,
-    "wof:lastmodified":1466669295,
+    "wof:lastmodified":1491893212,
     "wof:name":"D R Design",
     "wof:parent_id":85821583,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 873976153,
   "type": "Feature",
   "properties": {
+    "addr:full":"10780 M St Omaha NE 68127",
+    "addr:housenumber":"10780",
+    "addr:postcode":"68127",
+    "addr:street":"M St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":873976153,
-    "wof:lastmodified":1466669555,
+    "wof:lastmodified":1472634115,
     "wof:name":"Subway",
     "wof:parent_id":85872511,
     "wof:placetype":"venue",

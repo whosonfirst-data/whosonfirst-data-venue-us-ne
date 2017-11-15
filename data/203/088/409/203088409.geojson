@@ -2,14 +2,20 @@
   "id": 203088409,
   "type": "Feature",
   "properties": {
+    "addr:full":"2414 Patrick Ave Omaha NE 68111",
+    "addr:housenumber":"2414",
+    "addr:postcode":"68111",
+    "addr:street":"Patrick Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.94724,41.278486,-95.94724,41.278486",
     "geom:latitude":41.278486,
     "geom:longitude":-95.94724,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2414 Patrick Ave",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         102082789,
         85872525
     ],
+    "wof:brand_id":420574723,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_19u2biaEJPYdbLbd0vGEX5_41.278486_-95.947240@1303262942"
     },
     "wof:country":"US",
-    "wof:geomhash":"7bbd75f4cd35aac8b0314ce5a5949258",
+    "wof:geomhash":"37753e64810db951fd2b3835632631a2",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":203088409,
-    "wof:lastmodified":1466666099,
+    "wof:lastmodified":1510604495,
     "wof:name":"Locksmith",
     "wof:parent_id":85872525,
     "wof:placetype":"venue",

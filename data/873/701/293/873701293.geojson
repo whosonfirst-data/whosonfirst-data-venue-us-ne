@@ -2,14 +2,20 @@
   "id": 873701293,
   "type": "Feature",
   "properties": {
+    "addr:full":"3909 N 90th St Omaha NE 68134",
+    "addr:housenumber":"3909",
+    "addr:postcode":"68134",
+    "addr:street":"N 90Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.052494,41.295392,-96.052494,41.295392",
     "geom:latitude":41.295392,
     "geom:longitude":-96.052494,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3909 N 90th St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102082789,
         85688563
     ],
+    "wof:brand_id":1125154849,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0kF7IfsZ0R9noHxchefVUf_41.295392_-96.052494@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464296418,
-    "wof:geomhash":"a08fff9acba6b8c29ea7aaf4dfb59865",
+    "wof:geomhash":"dd2899797baed2fd6260854d1caf1662",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":873701293,
-    "wof:lastmodified":1466666674,
+    "wof:lastmodified":1510695724,
     "wof:name":"Brake Masters",
     "wof:parent_id":85867061,
     "wof:placetype":"venue",

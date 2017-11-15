@@ -2,14 +2,20 @@
   "id": 873978167,
   "type": "Feature",
   "properties": {
+    "addr:full":"826 P St Lincoln NE 68508",
+    "addr:housenumber":"826",
+    "addr:postcode":"68508",
+    "addr:street":"P St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.70905,40.815108,-96.70905,40.815108",
     "geom:latitude":40.815108,
     "geom:longitude":-96.70905,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"826 P St",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102083503,
         85688563
     ],
+    "wof:brand_id":1125152363,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4viQdzfu0wRPUVu5bTs9TQ_40.814833_-96.708771@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464302302,
-    "wof:geomhash":"ef352b239e64c4dd15cc1ed4ab1f88b9",
+    "wof:geomhash":"c07cb92661ca1314d8cc0cd3749e9c38",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":873978167,
-    "wof:lastmodified":1466669697,
+    "wof:lastmodified":1510696799,
     "wof:name":"Old Chicago",
     "wof:parent_id":85878699,
     "wof:placetype":"venue",

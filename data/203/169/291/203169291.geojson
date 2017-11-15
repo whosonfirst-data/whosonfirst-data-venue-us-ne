@@ -2,9 +2,14 @@
   "id": 203169291,
   "type": "Feature",
   "properties": {
+    "addr:full":"4706 S 85th Ct Lincoln NE 68526",
+    "addr:housenumber":"4706",
+    "addr:postcode":"68526",
+    "addr:street":"S 85Th Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.605362,40.76598,-96.605362,40.76598",
     "geom:latitude":40.76598,
     "geom:longitude":-96.605362,
@@ -38,11 +43,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688563,
+        85878707,
+        102191575,
+        404521111,
         85633793,
         85973555,
         102083503,
-        85878707
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,9 +59,10 @@
     "wof:geomhash":"60917c5b4e2fa2883ffbbc4ed601a9f1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083503,
+            "localadmin_id":404521111,
             "locality_id":85973555,
             "neighbourhood_id":85878707,
             "region_id":85688563,
@@ -62,7 +70,7 @@
         }
     ],
     "wof:id":203169291,
-    "wof:lastmodified":1466666566,
+    "wof:lastmodified":1491932641,
     "wof:name":"Perry Lanes",
     "wof:parent_id":85878707,
     "wof:placetype":"venue",

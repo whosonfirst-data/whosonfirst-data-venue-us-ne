@@ -2,14 +2,20 @@
   "id": 873946147,
   "type": "Feature",
   "properties": {
+    "addr:full":"715 S 72nd St Omaha NE 68114",
+    "addr:housenumber":"715",
+    "addr:postcode":"68114",
+    "addr:street":"S 72Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.023858,41.252356,-96.023858,41.252356",
     "geom:latitude":41.252356,
     "geom:longitude":-96.023858,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"715 S 72nd St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -39,13 +45,14 @@
         102082789,
         85688563
     ],
+    "wof:brand_id":1125155287,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Ro7G31lhqYkim3ZoA7Bhb_41.252356_-96.023858@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464300939,
-    "wof:geomhash":"266824b394a37ca82d885e8053a863d4",
+    "wof:geomhash":"4b21a80d65ba3ca163ecdd97e549f682",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,7 +66,7 @@
         }
     ],
     "wof:id":873946147,
-    "wof:lastmodified":1466668855,
+    "wof:lastmodified":1510695022,
     "wof:name":"Pet Smart",
     "wof:parent_id":85872509,
     "wof:placetype":"venue",

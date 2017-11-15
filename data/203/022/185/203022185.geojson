@@ -2,14 +2,20 @@
   "id": 203022185,
   "type": "Feature",
   "properties": {
+    "addr:full":"510 S 12th St Omaha NE 68102",
+    "addr:housenumber":"510",
+    "addr:postcode":"68102",
+    "addr:street":"S 12Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.931901,41.255348,-95.931901,41.255348",
     "geom:latitude":41.255348,
     "geom:longitude":-95.931901,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"510 S 12th St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -41,12 +47,13 @@
         85973483,
         102082789
     ],
+    "wof:brand_id":1125150837,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6uAoRl2Da58LCZyKGUpdYo_41.255348_-95.931901@1303262941"
     },
     "wof:country":"US",
-    "wof:geomhash":"8bfb9714a5fa0d0be234afe99a9a3037",
+    "wof:geomhash":"3bba7aafa62e5044c8f5fbff1d98887a",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -59,7 +66,7 @@
         }
     ],
     "wof:id":203022185,
-    "wof:lastmodified":1466665673,
+    "wof:lastmodified":1510695416,
     "wof:name":"Maggie Moo's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

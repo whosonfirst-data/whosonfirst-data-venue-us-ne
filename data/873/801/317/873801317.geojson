@@ -2,9 +2,14 @@
   "id": 873801317,
   "type": "Feature",
   "properties": {
+    "addr:full":"2811 SW 6th St Lincoln NE 68522",
+    "addr:housenumber":"2811",
+    "addr:postcode":"68522",
+    "addr:street":"Sw 6Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.728353,40.781785,-96.728353,40.781785",
     "geom:latitude":40.781785,
     "geom:longitude":-96.728353,
@@ -34,7 +39,10 @@
         85633793,
         85974679,
         102083503,
-        85688563
+        85688563,
+        85878743,
+        404521111,
+        85973555
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,12 +61,22 @@
             "neighbourhood_id":420525807,
             "region_id":85688563,
             "venue_id":873801317
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878743,
+            "region_id":85688563,
+            "venue_id":873801317
         }
     ],
     "wof:id":873801317,
-    "wof:lastmodified":1466667355,
+    "wof:lastmodified":1491902358,
     "wof:name":"Busy Feet",
-    "wof:parent_id":420525807,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],

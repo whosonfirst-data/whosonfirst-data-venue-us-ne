@@ -2,9 +2,14 @@
   "id": 873952473,
   "type": "Feature",
   "properties": {
+    "addr:full":"10525 S 15th St Bellevue NE 68123",
+    "addr:housenumber":"10525",
+    "addr:postcode":"68123",
+    "addr:street":"S 15Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.935292,41.15866,-95.935292,41.15866",
     "geom:latitude":41.15866,
     "geom:longitude":-95.935292,
@@ -26,11 +31,13 @@
     "sg:website":"www.buffalowildwings.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688563,
+        85821583,
+        102191575,
+        404519143,
         85633793,
         85974545,
         102082777,
-        85821583
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +48,10 @@
     "wof:geomhash":"9f1c16c47cd61c902225dca3c5ffe7a3",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082777,
+            "localadmin_id":404519143,
             "locality_id":85974545,
             "neighbourhood_id":85821583,
             "region_id":85688563,
@@ -50,7 +59,7 @@
         }
     ],
     "wof:id":873952473,
-    "wof:lastmodified":1466669110,
+    "wof:lastmodified":1491893198,
     "wof:name":"Buffalo Wild Wings Grill & Bar",
     "wof:parent_id":85821583,
     "wof:placetype":"venue",

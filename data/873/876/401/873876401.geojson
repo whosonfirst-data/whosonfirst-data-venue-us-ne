@@ -2,14 +2,20 @@
   "id": 873876401,
   "type": "Feature",
   "properties": {
+    "addr:full":"5450 N 90th St Omaha NE 68134",
+    "addr:housenumber":"5450",
+    "addr:postcode":"68134",
+    "addr:street":"N 90Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.052692,41.308142,-96.052692,41.308142",
     "geom:latitude":41.308142,
     "geom:longitude":-96.052692,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5450 N 90th St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85872505,
         102082789
     ],
+    "wof:brand_id":420575537,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7mf9xLkAf2EFuZKe3mbnfR_41.308142_-96.052692@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464299361,
-    "wof:geomhash":"0b4b05aac0afc407085ad6d47266ef6a",
+    "wof:geomhash":"c731513407ab71c093b4ad409cff1572",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":873876401,
-    "wof:lastmodified":1466668079,
+    "wof:lastmodified":1510602959,
     "wof:name":"Hair Masters",
     "wof:parent_id":85872505,
     "wof:placetype":"venue",

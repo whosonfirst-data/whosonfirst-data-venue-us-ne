@@ -2,6 +2,10 @@
   "id": 873611515,
   "type": "Feature",
   "properties": {
+    "addr:full":"6223 Maple St Omaha NE 68104",
+    "addr:housenumber":"6223",
+    "addr:postcode":"68104",
+    "addr:street":"Maple St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":873611515,
-    "wof:lastmodified":1466666094,
+    "wof:lastmodified":1472633816,
     "wof:name":"US Post Office",
     "wof:parent_id":85872535,
     "wof:placetype":"venue",

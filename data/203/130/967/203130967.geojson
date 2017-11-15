@@ -2,9 +2,14 @@
   "id": 203130967,
   "type": "Feature",
   "properties": {
+    "addr:full":"6126 Hamilton St Omaha NE 68132",
+    "addr:housenumber":"6126",
+    "addr:postcode":"68132",
+    "addr:street":"Hamilton St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.007517,41.27232,-96.007517,41.27232",
     "geom:latitude":41.27232,
     "geom:longitude":-96.007517,
@@ -36,11 +41,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688563,
+        85872535,
+        102191575,
+        404518711,
         85633793,
         85973483,
         102082789,
-        85872535
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,9 +57,10 @@
     "wof:geomhash":"2dac40542fd6633cd0bf2fcbd6ed027d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082789,
+            "localadmin_id":404518711,
             "locality_id":85973483,
             "neighbourhood_id":85872535,
             "region_id":85688563,
@@ -60,7 +68,7 @@
         }
     ],
     "wof:id":203130967,
-    "wof:lastmodified":1466666388,
+    "wof:lastmodified":1491888425,
     "wof:name":"Biggs Fence",
     "wof:parent_id":85872535,
     "wof:placetype":"venue",

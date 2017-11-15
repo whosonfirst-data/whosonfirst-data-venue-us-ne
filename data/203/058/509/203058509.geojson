@@ -2,14 +2,20 @@
   "id": 203058509,
   "type": "Feature",
   "properties": {
+    "addr:full":"4952 Grover St Omaha NE 68106",
+    "addr:housenumber":"4952",
+    "addr:postcode":"68106",
+    "addr:street":"Grover St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.989656,41.22699,-95.989656,41.22699",
     "geom:latitude":41.22699,
     "geom:longitude":-95.989656,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4952 Grover St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -30,12 +36,13 @@
         85973483,
         102082789
     ],
+    "wof:brand_id":1125159367,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0AuDa4h9qDYaEEESFwyb2H_41.226990_-95.989656@1303262941"
     },
     "wof:country":"US",
-    "wof:geomhash":"68d5bbeda73a358251ddbe97505690a2",
+    "wof:geomhash":"164b343c22bf050003d536c2bbd9fce1",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":203058509,
-    "wof:lastmodified":1466665942,
+    "wof:lastmodified":1510693225,
     "wof:name":"Shear Pleasure",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

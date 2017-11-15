@@ -2,14 +2,20 @@
   "id": 873587671,
   "type": "Feature",
   "properties": {
+    "addr:full":"5840 Arbor Rd Lincoln NE 68517",
+    "addr:housenumber":"5840",
+    "addr:postcode":"68517",
+    "addr:street":"Arbor Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.635658,40.893089,-96.635658,40.893089",
     "geom:latitude":40.893089,
     "geom:longitude":-96.635658,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5840 Arbor Rd",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102083503,
         85824241
     ],
+    "wof:brand_id":1125157057,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_61KKDiwfeyHn5wGmf0DHuR_40.893089_-96.635658@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464294804,
-    "wof:geomhash":"ad5cb213ea28628b1d9b584af1dfe860",
+    "wof:geomhash":"802ec079df9b9981d09715de7b1c1c9c",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":873587671,
-    "wof:lastmodified":1466665933,
+    "wof:lastmodified":1510613520,
     "wof:name":"SAIA Motor Freight Line Inc",
     "wof:parent_id":85824241,
     "wof:placetype":"venue",

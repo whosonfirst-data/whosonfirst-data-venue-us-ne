@@ -2,9 +2,14 @@
   "id": 873877231,
   "type": "Feature",
   "properties": {
+    "addr:full":"12210 S 36th St Bellevue NE 68123",
+    "addr:housenumber":"12210",
+    "addr:postcode":"68123",
+    "addr:street":"S 36Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.966643,41.123714,-95.966643,41.123714",
     "geom:latitude":41.123714,
     "geom:longitude":-95.966643,
@@ -25,11 +30,13 @@
     "sg:province":"NE",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688563,
+        85821583,
+        102191575,
+        404519143,
         85633793,
         85974545,
         102082777,
-        85821583
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,8 +47,10 @@
     "wof:geomhash":"e4599fc43bd318a45343778d7f338658",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082777,
+            "localadmin_id":404519143,
             "locality_id":85974545,
             "neighbourhood_id":85821583,
             "region_id":85688563,
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":873877231,
-    "wof:lastmodified":1466668087,
+    "wof:lastmodified":1491893189,
     "wof:name":"St Mathews Evangelist",
     "wof:parent_id":85821583,
     "wof:placetype":"venue",

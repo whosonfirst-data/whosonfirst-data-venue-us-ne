@@ -2,14 +2,20 @@
   "id": 873801653,
   "type": "Feature",
   "properties": {
+    "addr:full":"610 S 55th St Lincoln NE 68510",
+    "addr:housenumber":"610",
+    "addr:postcode":"68510",
+    "addr:street":"S 55Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.645264,40.806279,-96.645264,40.806279",
     "geom:latitude":40.806279,
     "geom:longitude":-96.645264,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"610 S 55th St",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102083503,
         85688563
     ],
+    "wof:brand_id":1125157895,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6zTUJ5loyv6BsU2fYPMuer_40.806279_-96.645264@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464297793,
-    "wof:geomhash":"1100c516b8b8861196b2d1bc17490368",
+    "wof:geomhash":"4211777b6f535fb808bab0d339b10a54",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":873801653,
-    "wof:lastmodified":1466667383,
+    "wof:lastmodified":1510694207,
     "wof:name":"Longaberger",
     "wof:parent_id":85878703,
     "wof:placetype":"venue",

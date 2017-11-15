@@ -2,6 +2,10 @@
   "id": 873751515,
   "type": "Feature",
   "properties": {
+    "addr:full":"205 Acorn Cir Gretna NE 68028",
+    "addr:housenumber":"205",
+    "addr:postcode":"68028",
+    "addr:street":"Acorn Cir;Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":873751515,
-    "wof:lastmodified":1466667019,
+    "wof:lastmodified":1472633873,
     "wof:name":"Deluxe Heating & Cooling",
     "wof:parent_id":85834285,
     "wof:placetype":"venue",

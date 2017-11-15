@@ -2,6 +2,10 @@
   "id": 873819019,
   "type": "Feature",
   "properties": {
+    "addr:full":"4321 Jacquelyn Cir Lincoln NE 68516",
+    "addr:housenumber":"4321",
+    "addr:postcode":"68516",
+    "addr:street":"Jacquelyn Cir",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":873819019,
-    "wof:lastmodified":1466667484,
+    "wof:lastmodified":1472633931,
     "wof:name":"Wolf Appraisal Inc",
     "wof:parent_id":85878739,
     "wof:placetype":"venue",

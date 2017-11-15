@@ -2,6 +2,10 @@
   "id": 203014897,
   "type": "Feature",
   "properties": {
+    "addr:full":"1202 Howard Street Omaha NE 68102",
+    "addr:housenumber":"1202",
+    "addr:postcode":"68102",
+    "addr:street":"Howard Street",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":203014897,
-    "wof:lastmodified":1466665641,
+    "wof:lastmodified":1472633799,
     "wof:name":"WheatFields Express",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 873976717,
   "type": "Feature",
   "properties": {
+    "addr:full":"1702 South St Lincoln NE 68502",
+    "addr:housenumber":"1702",
+    "addr:postcode":"68502",
+    "addr:street":"South St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.696506,40.791954,-96.696506,40.791954",
     "geom:latitude":40.791954,
     "geom:longitude":-96.696506,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1702 South St",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -39,13 +45,14 @@
         102083503,
         85688563
     ],
+    "wof:brand_id":1125157529,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ddrw5TSyLi8c0QiVUybHm_40.791954_-96.696506@1299784598"
     },
     "wof:country":"US",
     "wof:created":1464302247,
-    "wof:geomhash":"3e0e8603ec36e3693316a9772dbe7544",
+    "wof:geomhash":"9487327dace9a69274a521f0248b8b27",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,7 +66,7 @@
         }
     ],
     "wof:id":873976717,
-    "wof:lastmodified":1466669650,
+    "wof:lastmodified":1510699758,
     "wof:name":"Valentino's",
     "wof:parent_id":85878719,
     "wof:placetype":"venue",

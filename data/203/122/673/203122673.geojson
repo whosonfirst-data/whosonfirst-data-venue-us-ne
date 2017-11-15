@@ -2,6 +2,10 @@
   "id": 203122673,
   "type": "Feature",
   "properties": {
+    "addr:full":"4242 Farnam St Ste 360 Omaha NE 68131",
+    "addr:housenumber":"4242",
+    "addr:postcode":"68131",
+    "addr:street":"Farnam St Ste 360",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":203122673,
-    "wof:lastmodified":1466666315,
+    "wof:lastmodified":1472633922,
     "wof:name":"Midwest Dermatology Clinic PC",
     "wof:parent_id":85872523,
     "wof:placetype":"venue",

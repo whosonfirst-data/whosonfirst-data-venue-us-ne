@@ -2,9 +2,14 @@
   "id": 873576039,
   "type": "Feature",
   "properties": {
+    "addr:full":"607 Logan Ave Bellevue NE 68005",
+    "addr:housenumber":"607",
+    "addr:postcode":"68005",
+    "addr:street":"Logan Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.902206,41.153419,-95.902206,41.153419",
     "geom:latitude":41.153419,
     "geom:longitude":-95.902206,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688563,
+        85804025,
+        102191575,
+        404519143,
         85633793,
         85974545,
         102082777,
-        85804025
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,8 +50,10 @@
     "wof:geomhash":"d842e961a83be6ca7719d351150892cd",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082777,
+            "localadmin_id":404519143,
             "locality_id":85974545,
             "neighbourhood_id":85804025,
             "region_id":85688563,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":873576039,
-    "wof:lastmodified":1466665807,
+    "wof:lastmodified":1491931327,
     "wof:name":"Stone's Woodturning",
     "wof:parent_id":85804025,
     "wof:placetype":"venue",

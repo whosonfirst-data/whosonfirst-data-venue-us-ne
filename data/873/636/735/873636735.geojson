@@ -2,9 +2,14 @@
   "id": 873636735,
   "type": "Feature",
   "properties": {
+    "addr:full":"1620 Wilshire Dr Bellevue NE 68005",
+    "addr:housenumber":"1620",
+    "addr:postcode":"68005",
+    "addr:street":"Wilshire Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.918957,41.146638,-95.918957,41.146638",
     "geom:latitude":41.146638,
     "geom:longitude":-95.918957,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688563,
+        85821583,
+        102191575,
+        404519143,
         85633793,
         85974545,
         102082777,
-        85821583
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,8 +50,10 @@
     "wof:geomhash":"4c1b5bd52cb77dffc46d5d268ac837d9",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082777,
+            "localadmin_id":404519143,
             "locality_id":85974545,
             "neighbourhood_id":85821583,
             "region_id":85688563,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":873636735,
-    "wof:lastmodified":1466666259,
+    "wof:lastmodified":1491893174,
     "wof:name":"Bertolini Schroeder & Blount",
     "wof:parent_id":85821583,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 873772853,
   "type": "Feature",
   "properties": {
+    "addr:full":"502 Fortune Dr Papillion NE 68046",
+    "addr:housenumber":"502",
+    "addr:postcode":"68046",
+    "addr:street":"Fortune Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.027829,41.159504,-96.027829,41.159504",
     "geom:latitude":41.159504,
     "geom:longitude":-96.027829,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"502 Fortune Dr",
     "sg:city":"Papillion",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85843697,
         102082789
     ],
+    "wof:brand_id":420575363,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0FsHPGarO9Sopfz6Ly2BiT_41.159504_-96.027829@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464297399,
-    "wof:geomhash":"09f8317eca56639f46634011e74a9885",
+    "wof:geomhash":"fddda42ef6b6f23b27f8e43a8c81122f",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":873772853,
-    "wof:lastmodified":1466667188,
+    "wof:lastmodified":1510602458,
     "wof:name":"ADT Security Services Inc",
     "wof:parent_id":85843697,
     "wof:placetype":"venue",

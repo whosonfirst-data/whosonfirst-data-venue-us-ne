@@ -2,14 +2,20 @@
   "id": 873674225,
   "type": "Feature",
   "properties": {
+    "addr:full":"2788 Franklin St Lincoln NE 68502",
+    "addr:housenumber":"2788",
+    "addr:postcode":"68502",
+    "addr:street":"Franklin St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.682419,40.793507,-96.682419,40.793507",
     "geom:latitude":40.793507,
     "geom:longitude":-96.682419,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2788 Franklin St",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102083503,
         85688563
     ],
+    "wof:brand_id":1125155577,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Ng9pQSoADOWpkjEuVsDrn_40.793507_-96.682419@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464295847,
-    "wof:geomhash":"52fcbbbf7365cf95d08b2a324d696b28",
+    "wof:geomhash":"7dd1b94c174a3374857222e320b835b1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":873674225,
-    "wof:lastmodified":1466666482,
+    "wof:lastmodified":1510699535,
     "wof:name":"Calvary Lutheran Church",
     "wof:parent_id":85878727,
     "wof:placetype":"venue",

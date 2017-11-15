@@ -2,9 +2,14 @@
   "id": 873719751,
   "type": "Feature",
   "properties": {
+    "addr:full":"1403 Wilshire Dr Bellevue NE 68005",
+    "addr:housenumber":"1403",
+    "addr:postcode":"68005",
+    "addr:street":"Wilshire Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.918058,41.146803,-95.918058,41.146803",
     "geom:latitude":41.146803,
     "geom:longitude":-95.918058,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688563,
+        85821583,
+        102191575,
+        404519143,
         85633793,
         85974545,
         102082777,
-        85821583
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,8 +50,10 @@
     "wof:geomhash":"242e4b771c8394e29f2faf9b0a3d3064",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082777,
+            "localadmin_id":404519143,
             "locality_id":85974545,
             "neighbourhood_id":85821583,
             "region_id":85688563,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":873719751,
-    "wof:lastmodified":1466666823,
+    "wof:lastmodified":1491893161,
     "wof:name":"Lovell Shelly Day Care",
     "wof:parent_id":85821583,
     "wof:placetype":"venue",

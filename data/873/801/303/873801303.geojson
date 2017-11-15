@@ -2,6 +2,10 @@
   "id": 873801303,
   "type": "Feature",
   "properties": {
+    "addr:full":"3306 A St Lincoln NE 68510",
+    "addr:housenumber":"3306",
+    "addr:postcode":"68510",
+    "addr:street":"A St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":873801303,
-    "wof:lastmodified":1466667354,
+    "wof:lastmodified":1472633865,
     "wof:name":"National Pharmacy",
     "wof:parent_id":85892213,
     "wof:placetype":"venue",

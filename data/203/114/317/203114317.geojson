@@ -2,9 +2,14 @@
   "id": 203114317,
   "type": "Feature",
   "properties": {
+    "addr:full":"7812 F St Omaha NE 68127",
+    "addr:housenumber":"7812",
+    "addr:postcode":"68127",
+    "addr:street":"F St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.03596,41.219742,-96.03596,41.219742",
     "geom:latitude":41.219742,
     "geom:longitude":-96.03596,
@@ -36,11 +41,13 @@
     "sg:website":"http://www.ntsthefuncompany.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688563,
+        85867059,
+        102191575,
+        404518711,
         85633793,
         85973483,
         102082789,
-        85867059
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,9 +57,10 @@
     "wof:geomhash":"28caa77c2c42de837248a5ad294a95d8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082789,
+            "localadmin_id":404518711,
             "locality_id":85973483,
             "neighbourhood_id":85867059,
             "region_id":85688563,
@@ -60,7 +68,7 @@
         }
     ],
     "wof:id":203114317,
-    "wof:lastmodified":1466666277,
+    "wof:lastmodified":1491920587,
     "wof:name":"Nebraska Electronic Dart Association",
     "wof:parent_id":85867059,
     "wof:placetype":"venue",

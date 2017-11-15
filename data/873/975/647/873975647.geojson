@@ -2,6 +2,10 @@
   "id": 873975647,
   "type": "Feature",
   "properties": {
+    "addr:full":"2123 Paul St Omaha NE 68102",
+    "addr:housenumber":"2123",
+    "addr:postcode":"68102",
+    "addr:street":"Paul St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":873975647,
-    "wof:lastmodified":1466669717,
+    "wof:lastmodified":1472634128,
     "wof:name":"Educare of Omaha",
     "wof:parent_id":85872525,
     "wof:placetype":"venue",

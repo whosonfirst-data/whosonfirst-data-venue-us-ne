@@ -2,9 +2,14 @@
   "id": 202985801,
   "type": "Feature",
   "properties": {
+    "addr:full":"1501 J F Kennedy Dr Bellevue NE 68005",
+    "addr:housenumber":"1501",
+    "addr:postcode":"68005",
+    "addr:street":"J F Kennedy Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.913192,41.144958,-95.913192,41.144958",
     "geom:latitude":41.144958,
     "geom:longitude":-95.913192,
@@ -33,11 +38,13 @@
     "sg:website":"http://www.kpe-inc.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688563,
+        85821583,
+        102191575,
+        404519143,
         85633793,
         85974545,
         102082777,
-        85821583
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,9 +54,10 @@
     "wof:geomhash":"14e817071b6e78276531ec9ada145b2c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082777,
+            "localadmin_id":404519143,
             "locality_id":85974545,
             "neighbourhood_id":85821583,
             "region_id":85688563,
@@ -57,7 +65,7 @@
         }
     ],
     "wof:id":202985801,
-    "wof:lastmodified":1466665576,
+    "wof:lastmodified":1491893161,
     "wof:name":"K P E Consulting Engineers",
     "wof:parent_id":85821583,
     "wof:placetype":"venue",

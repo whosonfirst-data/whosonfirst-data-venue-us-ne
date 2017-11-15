@@ -2,6 +2,10 @@
   "id": 873954313,
   "type": "Feature",
   "properties": {
+    "addr:full":"3878 Smith St Lincoln NE 68506",
+    "addr:housenumber":"3878",
+    "addr:postcode":"68506",
+    "addr:street":"Smith St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":873954313,
-    "wof:lastmodified":1466669105,
+    "wof:lastmodified":1472634075,
     "wof:name":"Ralph's Services",
     "wof:parent_id":85892213,
     "wof:placetype":"venue",

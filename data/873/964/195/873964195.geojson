@@ -2,6 +2,10 @@
   "id": 873964195,
   "type": "Feature",
   "properties": {
+    "addr:full":"12123 Emmet St Omaha NE 68164",
+    "addr:housenumber":"12123",
+    "addr:postcode":"68164",
+    "addr:street":"Emmet St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":873964195,
-    "wof:lastmodified":1466669301,
+    "wof:lastmodified":1472634073,
     "wof:name":"Designers",
     "wof:parent_id":85872503,
     "wof:placetype":"venue",

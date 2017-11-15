@@ -2,9 +2,14 @@
   "id": 203044883,
   "type": "Feature",
   "properties": {
+    "addr:full":"5702 NW Radial Hwy Omaha NE 68104",
+    "addr:housenumber":"5702",
+    "addr:postcode":"68104",
+    "addr:street":"Nw Radial Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.000801,41.285099,-96.000801,41.285099",
     "geom:latitude":41.285099,
     "geom:longitude":-96.000801,
@@ -30,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688563,
+        85872535,
+        102191575,
+        404518711,
         85633793,
         85973483,
         102082789,
-        85872535
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +51,10 @@
     "wof:geomhash":"3a5c12f282fd134c1d100ca8d053eaac",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082789,
+            "localadmin_id":404518711,
             "locality_id":85973483,
             "neighbourhood_id":85872535,
             "region_id":85688563,
@@ -54,7 +62,7 @@
         }
     ],
     "wof:id":203044883,
-    "wof:lastmodified":1466665858,
+    "wof:lastmodified":1491888402,
     "wof:name":"Louis Liquor",
     "wof:parent_id":85872535,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 873867157,
   "type": "Feature",
   "properties": {
+    "addr:full":"3333 Oak View Dr Omaha NE 68144",
+    "addr:housenumber":"3333",
+    "addr:postcode":"68144",
+    "addr:street":"Oak View Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.135084,41.226764,-96.135084,41.226764",
     "geom:latitude":41.226764,
     "geom:longitude":-96.135084,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3333 Oak View Dr",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102082789,
         85688563
     ],
+    "wof:brand_id":420574789,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4b4CqYwJJA4GtFzFgK5Ph3_41.226764_-96.135084@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464299175,
-    "wof:geomhash":"75eac54d99e3e7949857dd280b91653d",
+    "wof:geomhash":"f80844dee20529a9efd9cc637527e059",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":873867157,
-    "wof:lastmodified":1466667980,
+    "wof:lastmodified":1510604032,
     "wof:name":"Barnes & Noble Booksellers",
     "wof:parent_id":85872531,
     "wof:placetype":"venue",

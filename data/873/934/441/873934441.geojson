@@ -2,9 +2,14 @@
   "id": 873934441,
   "type": "Feature",
   "properties": {
+    "addr:full":"8705 S 9th St Bellevue NE 68147",
+    "addr:housenumber":"8705",
+    "addr:postcode":"68147",
+    "addr:street":"S 9Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.928005,41.174281,-95.928005,41.174281",
     "geom:latitude":41.174281,
     "geom:longitude":-95.928005,
@@ -31,11 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688563,
+        85804025,
+        102191575,
+        404519143,
         85633793,
         85974545,
         102082777,
-        85804025
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,8 +53,10 @@
     "wof:geomhash":"cff449939d5da4771d0d9855a8eb8e26",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082777,
+            "localadmin_id":404519143,
             "locality_id":85974545,
             "neighbourhood_id":85804025,
             "region_id":85688563,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":873934441,
-    "wof:lastmodified":1466668729,
+    "wof:lastmodified":1491931300,
     "wof:name":"Harvest Roasting",
     "wof:parent_id":85804025,
     "wof:placetype":"venue",

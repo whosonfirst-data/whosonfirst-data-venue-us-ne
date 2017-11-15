@@ -2,9 +2,14 @@
   "id": 873606847,
   "type": "Feature",
   "properties": {
+    "addr:full":"2901 Greensboro Ave Bellevue NE 68005",
+    "addr:housenumber":"2901",
+    "addr:postcode":"68005",
+    "addr:street":"Greensboro Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.932081,41.144131,-95.932081,41.144131",
     "geom:latitude":41.144131,
     "geom:longitude":-95.932081,
@@ -30,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688563,
+        85821583,
+        102191575,
+        404519143,
         85633793,
         85974545,
         102082777,
-        85821583
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,8 +52,10 @@
     "wof:geomhash":"c1c4cf30424bc9c827f9ab1b3d3324e3",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082777,
+            "localadmin_id":404519143,
             "locality_id":85974545,
             "neighbourhood_id":85821583,
             "region_id":85688563,
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":873606847,
-    "wof:lastmodified":1466666064,
+    "wof:lastmodified":1491893218,
     "wof:name":"Amazing Products",
     "wof:parent_id":85821583,
     "wof:placetype":"venue",

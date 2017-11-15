@@ -2,6 +2,10 @@
   "id": 873740289,
   "type": "Feature",
   "properties": {
+    "addr:full":"13625 California St Omaha NE 68154",
+    "addr:housenumber":"13625",
+    "addr:postcode":"68154",
+    "addr:street":"California St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":873740289,
-    "wof:lastmodified":1466666922,
+    "wof:lastmodified":1472633824,
     "wof:name":"Lockwood Development",
     "wof:parent_id":85806957,
     "wof:placetype":"venue",

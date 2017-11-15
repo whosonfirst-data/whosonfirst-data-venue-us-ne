@@ -2,9 +2,14 @@
   "id": 203108035,
   "type": "Feature",
   "properties": {
+    "addr:full":"6524 L St Omaha NE 68117",
+    "addr:housenumber":"6524",
+    "addr:postcode":"68117",
+    "addr:street":"L St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.013611,41.212777,-96.013611,41.212777",
     "geom:latitude":41.212777,
     "geom:longitude":-96.013611,
@@ -26,11 +31,13 @@
     "sg:website":"www.autobosstint.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688563,
+        85867059,
+        102191575,
+        404518711,
         85633793,
         85973483,
         102082789,
-        85867059
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,9 +47,10 @@
     "wof:geomhash":"d4f0e0f81f271b044f996be90f49e7e7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082789,
+            "localadmin_id":404518711,
             "locality_id":85973483,
             "neighbourhood_id":85867059,
             "region_id":85688563,
@@ -50,7 +58,7 @@
         }
     ],
     "wof:id":203108035,
-    "wof:lastmodified":1466669655,
+    "wof:lastmodified":1491920573,
     "wof:name":"Auto Boss",
     "wof:parent_id":85867059,
     "wof:placetype":"venue",

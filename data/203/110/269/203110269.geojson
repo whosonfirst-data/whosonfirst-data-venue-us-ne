@@ -2,6 +2,10 @@
   "id": 203110269,
   "type": "Feature",
   "properties": {
+    "addr:full":"PO Box 19294 Omaha NE 68119",
+    "addr:housenumber":"po box",
+    "addr:postcode":"19294;68119",
+    "addr:street":"",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":203110269,
-    "wof:lastmodified":1466666245,
+    "wof:lastmodified":1472633913,
     "wof:name":"Omaha Flight Center the",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

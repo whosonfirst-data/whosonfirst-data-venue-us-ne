@@ -2,9 +2,14 @@
   "id": 873888341,
   "type": "Feature",
   "properties": {
+    "addr:full":"2502 Gindy Dr Bellevue NE 68147",
+    "addr:housenumber":"2502",
+    "addr:postcode":"68147",
+    "addr:street":"Gindy Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.94861,41.171138,-95.94861,41.171138",
     "geom:latitude":41.171138,
     "geom:longitude":-95.94861,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688563,
+        85821583,
+        102191575,
+        404519143,
         85633793,
         85974545,
         102082777,
-        85821583
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,8 +51,10 @@
     "wof:geomhash":"706022b1af995d9cb39a2fef6ae663ce",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082777,
+            "localadmin_id":404519143,
             "locality_id":85974545,
             "neighbourhood_id":85821583,
             "region_id":85688563,
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":873888341,
-    "wof:lastmodified":1466668217,
+    "wof:lastmodified":1491893195,
     "wof:name":"Jk Painting Inc",
     "wof:parent_id":85821583,
     "wof:placetype":"venue",

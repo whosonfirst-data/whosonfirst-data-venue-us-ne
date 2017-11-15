@@ -2,9 +2,14 @@
   "id": 873822729,
   "type": "Feature",
   "properties": {
+    "addr:full":"9803 S 21st Cir Bellevue NE 68123",
+    "addr:housenumber":"9803",
+    "addr:postcode":"68123",
+    "addr:street":"S 21St Cir",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.942923,41.163029,-95.942923,41.163029",
     "geom:latitude":41.163029,
     "geom:longitude":-95.942923,
@@ -30,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688563,
+        85821583,
+        102191575,
+        404519143,
         85633793,
         85974545,
         102082777,
-        85821583
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,8 +52,10 @@
     "wof:geomhash":"861de2b0fc1fa235d55b6f97cf8bb09e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082777,
+            "localadmin_id":404519143,
             "locality_id":85974545,
             "neighbourhood_id":85821583,
             "region_id":85688563,
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":873822729,
-    "wof:lastmodified":1466667588,
+    "wof:lastmodified":1491893161,
     "wof:name":"Bellevue Quality Builders Inc",
     "wof:parent_id":85821583,
     "wof:placetype":"venue",

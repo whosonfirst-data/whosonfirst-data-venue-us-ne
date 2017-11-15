@@ -2,9 +2,14 @@
   "id": 203133317,
   "type": "Feature",
   "properties": {
+    "addr:full":"6523 Western Ave Omaha NE 68132",
+    "addr:housenumber":"6523",
+    "addr:postcode":"68132",
+    "addr:street":"Western Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.012398,41.270401,-96.012398,41.270401",
     "geom:latitude":41.270401,
     "geom:longitude":-96.012398,
@@ -31,11 +36,13 @@
     "sg:website":"http://www.msd.anl.gov",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688563,
+        85872535,
+        102191575,
+        404518711,
         85633793,
         85973483,
         102082789,
-        85872535
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,9 +52,10 @@
     "wof:geomhash":"69e76744f1a288e03db2fe2d005c8697",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082789,
+            "localadmin_id":404518711,
             "locality_id":85973483,
             "neighbourhood_id":85872535,
             "region_id":85688563,
@@ -55,7 +63,7 @@
         }
     ],
     "wof:id":203133317,
-    "wof:lastmodified":1466666401,
+    "wof:lastmodified":1491888419,
     "wof:name":"Western Hills Elementary School",
     "wof:parent_id":85872535,
     "wof:placetype":"venue",

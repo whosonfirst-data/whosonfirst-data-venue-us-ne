@@ -2,14 +2,20 @@
   "id": 873947505,
   "type": "Feature",
   "properties": {
+    "addr:full":"3431 Aviation Rd Lincoln NE 68524",
+    "addr:housenumber":"3431",
+    "addr:postcode":"68524",
+    "addr:street":"Aviation Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.744158,40.844624,-96.744158,40.844624",
     "geom:latitude":40.844624,
     "geom:longitude":-96.744158,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3431 Aviation Rd",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102083503,
         85878717
     ],
+    "wof:brand_id":1125153727,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6GwgMQ9j0iwXUUlKZVCYqo_40.844624_-96.744158@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464301033,
-    "wof:geomhash":"a2f0cac7749445d3b90da11c52a03e1f",
+    "wof:geomhash":"19a94e9a972394e59080893de170a4d5",
     "wof:hierarchy":[
         {
             "campus_id":102529023,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":873947505,
-    "wof:lastmodified":1466668956,
+    "wof:lastmodified":1510695746,
     "wof:name":"System Support Center",
     "wof:parent_id":102529023,
     "wof:placetype":"venue",

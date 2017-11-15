@@ -2,14 +2,20 @@
   "id": 337286289,
   "type": "Feature",
   "properties": {
+    "addr:full":"310 N 3 St Springfield NE 68059",
+    "addr:housenumber":"310;3",
+    "addr:postcode":"68059",
+    "addr:street":"N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.1334,41.080799,-96.1334,41.080799",
     "geom:latitude":41.080799,
     "geom:longitude":-96.1334,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"310 N 3 St",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -30,12 +36,13 @@
         85974553,
         102082777
     ],
+    "wof:brand_id":1125157459,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_31iKbNg11AW08Kjy605NkI_41.080799_-96.133400@1303262940"
     },
     "wof:country":"US",
-    "wof:geomhash":"f8f48321f98131ed75e9947be8cbdad3",
+    "wof:geomhash":"7e97de2f9eb44aa3e1de9ed4c572b046",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":337286289,
-    "wof:lastmodified":1466665578,
+    "wof:lastmodified":1510699923,
     "wof:name":"Our Redeemer Lutheran Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

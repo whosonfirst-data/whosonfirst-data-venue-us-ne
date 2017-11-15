@@ -2,9 +2,14 @@
   "id": 203089053,
   "type": "Feature",
   "properties": {
+    "addr:full":"3617 N 42nd St Omaha NE 68111",
+    "addr:housenumber":"3617",
+    "addr:postcode":"68111",
+    "addr:street":"N 42Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.975739,41.291506,-95.975739,41.291506",
     "geom:latitude":41.291506,
     "geom:longitude":-95.975739,
@@ -30,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688563,
+        85872535,
+        102191575,
+        404518711,
         85633793,
         85973483,
         102082789,
-        85872535
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +51,10 @@
     "wof:geomhash":"d7fb03591b80cdd11b58aca6c75dc821",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082789,
+            "localadmin_id":404518711,
             "locality_id":85973483,
             "neighbourhood_id":85872535,
             "region_id":85688563,
@@ -54,7 +62,7 @@
         }
     ],
     "wof:id":203089053,
-    "wof:lastmodified":1466666106,
+    "wof:lastmodified":1491888423,
     "wof:name":"Good Time Rentals",
     "wof:parent_id":85872535,
     "wof:placetype":"venue",

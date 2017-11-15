@@ -2,6 +2,10 @@
   "id": 873947607,
   "type": "Feature",
   "properties": {
+    "addr:full":"12221 T St Omaha NE 68137",
+    "addr:housenumber":"12221",
+    "addr:postcode":"68137",
+    "addr:street":"T St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":873947607,
-    "wof:lastmodified":1466668984,
+    "wof:lastmodified":1472634079,
     "wof:name":"Sanders Insurance",
     "wof:parent_id":85872531,
     "wof:placetype":"venue",

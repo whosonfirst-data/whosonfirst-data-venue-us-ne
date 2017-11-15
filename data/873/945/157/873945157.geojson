@@ -2,6 +2,10 @@
   "id": 873945157,
   "type": "Feature",
   "properties": {
+    "addr:full":"625 Stadium Dr Lincoln NE 68508",
+    "addr:housenumber":"625",
+    "addr:postcode":"68508",
+    "addr:street":"Stadium Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":873945157,
-    "wof:lastmodified":1466668815,
+    "wof:lastmodified":1472634055,
     "wof:name":"Parking & Transit Svc",
     "wof:parent_id":85878731,
     "wof:placetype":"venue",

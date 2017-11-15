@@ -2,14 +2,20 @@
   "id": 873645863,
   "type": "Feature",
   "properties": {
+    "addr:full":"4141 N 27th St Lincoln NE 68521",
+    "addr:housenumber":"4141",
+    "addr:postcode":"68521",
+    "addr:street":"N 27Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.681954,40.854728,-96.681954,40.854728",
     "geom:latitude":40.854728,
     "geom:longitude":-96.681954,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4141 N 27th St",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102083503,
         85688563
     ],
+    "wof:brand_id":1125150695,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7g54wouP0MSjEUZMrMqbch_40.854728_-96.681954@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464295545,
-    "wof:geomhash":"3dabfb4ae92666e19a0410e264a6e928",
+    "wof:geomhash":"56c6feac1cee1967aac987dc61763f21",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":873645863,
-    "wof:lastmodified":1466666326,
+    "wof:lastmodified":1510697252,
     "wof:name":"Tru Green Chem Lawn",
     "wof:parent_id":85878721,
     "wof:placetype":"venue",

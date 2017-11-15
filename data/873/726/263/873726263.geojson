@@ -2,6 +2,10 @@
   "id": 873726263,
   "type": "Feature",
   "properties": {
+    "addr:full":"5555 N 90th St Omaha NE 68134",
+    "addr:housenumber":"5555",
+    "addr:postcode":"68134",
+    "addr:street":"N 90Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":873726263,
-    "wof:lastmodified":1466666832,
+    "wof:lastmodified":1472633776,
     "wof:name":"US Bank",
     "wof:parent_id":85872505,
     "wof:placetype":"venue",

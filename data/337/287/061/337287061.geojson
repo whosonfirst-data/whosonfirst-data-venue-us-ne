@@ -2,9 +2,14 @@
   "id": 337287061,
   "type": "Feature",
   "properties": {
+    "addr:full":"6808 Spring St Omaha NE 68106",
+    "addr:housenumber":"6808",
+    "addr:postcode":"68106",
+    "addr:street":"Spring St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.018161,41.230787,-96.018161,41.230787",
     "geom:latitude":41.230787,
     "geom:longitude":-96.018161,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688563,
+        85867059,
+        102191575,
+        404518711,
         85633793,
         85973483,
         102082789,
-        85867059
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +49,10 @@
     "wof:geomhash":"1356a8c7d1a507741cd6aa35d9ced1a4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082789,
+            "localadmin_id":404518711,
             "locality_id":85973483,
             "neighbourhood_id":85867059,
             "region_id":85688563,
@@ -52,7 +60,7 @@
         }
     ],
     "wof:id":337287061,
-    "wof:lastmodified":1466665576,
+    "wof:lastmodified":1491920588,
     "wof:name":"University of NE",
     "wof:parent_id":85867059,
     "wof:placetype":"venue",

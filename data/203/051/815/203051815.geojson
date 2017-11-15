@@ -2,6 +2,10 @@
   "id": 203051815,
   "type": "Feature",
   "properties": {
+    "addr:full":"1026 Park Ave Apt 318 Omaha NE 68105",
+    "addr:housenumber":"1026;318",
+    "addr:postcode":"68105",
+    "addr:street":"Park Ave Apt",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":203051815,
-    "wof:lastmodified":1466665910,
+    "wof:lastmodified":1472633915,
     "wof:name":"Park Ave Plaza Apts",
     "wof:parent_id":85872527,
     "wof:placetype":"venue",

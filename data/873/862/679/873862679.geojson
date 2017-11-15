@@ -2,9 +2,14 @@
   "id": 873862679,
   "type": "Feature",
   "properties": {
+    "addr:full":"1820 Hillcrest Dr Bellevue NE 68005",
+    "addr:housenumber":"1820",
+    "addr:postcode":"68005",
+    "addr:street":"Hillcrest Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.916608,41.140731,-95.916608,41.140731",
     "geom:latitude":41.140731,
     "geom:longitude":-95.916608,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688563,
+        85821583,
+        102191575,
+        404519143,
         85633793,
         85974545,
         102082777,
-        85821583
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,8 +50,10 @@
     "wof:geomhash":"70c5763f60afc5636bb50f69f609c823",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082777,
+            "localadmin_id":404519143,
             "locality_id":85974545,
             "neighbourhood_id":85821583,
             "region_id":85688563,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":873862679,
-    "wof:lastmodified":1466667982,
+    "wof:lastmodified":1491893183,
     "wof:name":"Edward Jones 09181",
     "wof:parent_id":85821583,
     "wof:placetype":"venue",

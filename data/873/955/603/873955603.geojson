@@ -2,14 +2,20 @@
   "id": 873955603,
   "type": "Feature",
   "properties": {
+    "addr:full":"5601 Pioneers Blvd Lincoln NE 68506",
+    "addr:housenumber":"5601",
+    "addr:postcode":"68506",
+    "addr:street":"Pioneers Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.64338,40.769736,-96.64338,40.769736",
     "geom:latitude":40.769736,
     "geom:longitude":-96.64338,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5601 Pioneers Blvd",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102083503,
         85688563
     ],
+    "wof:brand_id":1125151373,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3JY75v3usX8cjlEpkFHj1F_40.769736_-96.643380@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464301359,
-    "wof:geomhash":"701bb753a297c4520bf00503487a79d6",
+    "wof:geomhash":"5fab30c6b681a1e536fbe9a55b32d8d4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":873955603,
-    "wof:lastmodified":1466669192,
+    "wof:lastmodified":1510695797,
     "wof:name":"Kindercare Child Care Network",
     "wof:parent_id":85811821,
     "wof:placetype":"venue",

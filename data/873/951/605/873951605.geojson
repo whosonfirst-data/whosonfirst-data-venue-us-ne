@@ -2,6 +2,10 @@
   "id": 873951605,
   "type": "Feature",
   "properties": {
+    "addr:full":"4721 Douglas Cir Lincoln NE 68504",
+    "addr:housenumber":"4721",
+    "addr:postcode":"68504",
+    "addr:street":"Douglas Cir",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":873951605,
-    "wof:lastmodified":1466669141,
+    "wof:lastmodified":1472634090,
     "wof:name":"Site Response Svc",
     "wof:parent_id":85878741,
     "wof:placetype":"venue",

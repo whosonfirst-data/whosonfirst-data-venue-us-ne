@@ -2,6 +2,10 @@
   "id": 203099151,
   "type": "Feature",
   "properties": {
+    "addr:full":"10000 California St # 2417 Omaha NE 68114",
+    "addr:housenumber":"10000",
+    "addr:postcode":"68114",
+    "addr:street":"California St # 2417",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":203099151,
-    "wof:lastmodified":1466666173,
+    "wof:lastmodified":1472633915,
     "wof:name":"Things Remembered",
     "wof:parent_id":85867061,
     "wof:placetype":"venue",

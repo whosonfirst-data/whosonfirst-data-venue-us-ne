@@ -2,6 +2,10 @@
   "id": 873946425,
   "type": "Feature",
   "properties": {
+    "addr:full":"4701 Normal Blvd Lincoln NE 68506",
+    "addr:housenumber":"4701",
+    "addr:postcode":"68506",
+    "addr:street":"Normal Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":873946425,
-    "wof:lastmodified":1466668926,
+    "wof:lastmodified":1472634072,
     "wof:name":"Holy Family Medical Spec",
     "wof:parent_id":85878735,
     "wof:placetype":"venue",

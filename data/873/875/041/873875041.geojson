@@ -2,6 +2,10 @@
   "id": 873875041,
   "type": "Feature",
   "properties": {
+    "addr:full":"3001 Cornhusker Hwy Lincoln NE 68504",
+    "addr:housenumber":"3001",
+    "addr:postcode":"68504",
+    "addr:street":"Cornhusker Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":873875041,
-    "wof:lastmodified":1466668032,
+    "wof:lastmodified":1472633978,
     "wof:name":"Cargill Ag Horizons",
     "wof:parent_id":85878691,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 873810821,
   "type": "Feature",
   "properties": {
+    "addr:full":"11523 S 60th St Papillion NE 68133",
+    "addr:housenumber":"11523",
+    "addr:postcode":"68133",
+    "addr:street":"S 60Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.004418,41.136022,-96.004418,41.136022",
     "geom:latitude":41.136022,
     "geom:longitude":-96.004418,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688563,
+        85821583,
+        102191575,
+        404519143,
         85633793,
         85974545,
         102082777,
-        85821583
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,8 +51,10 @@
     "wof:geomhash":"1c04b001d8758da2659ac250c9d2865f",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082777,
+            "localadmin_id":404519143,
             "locality_id":85974545,
             "neighbourhood_id":85821583,
             "region_id":85688563,
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":873810821,
-    "wof:lastmodified":1466667462,
+    "wof:lastmodified":1491893200,
     "wof:name":"D-TEC Corp",
     "wof:parent_id":85821583,
     "wof:placetype":"venue",

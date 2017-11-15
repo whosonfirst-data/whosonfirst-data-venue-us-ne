@@ -2,9 +2,14 @@
   "id": 203165011,
   "type": "Feature",
   "properties": {
+    "addr:full":"3400 Gladstone St Lincoln NE 68504",
+    "addr:housenumber":"3400",
+    "addr:postcode":"68504",
+    "addr:street":"Gladstone St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.671562,40.84634,-96.671562,40.84634",
     "geom:latitude":40.84634,
     "geom:longitude":-96.671562,
@@ -32,11 +37,13 @@
     "sg:website":"http://www.sentryelectric.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688563,
+        85878741,
+        102191575,
+        404521111,
         85633793,
         85973555,
         102083503,
-        85878741
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,9 +53,10 @@
     "wof:geomhash":"0b8913f3883d168952cd60ca34a2c70f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083503,
+            "localadmin_id":404521111,
             "locality_id":85973555,
             "neighbourhood_id":85878741,
             "region_id":85688563,
@@ -56,7 +64,7 @@
         }
     ],
     "wof:id":203165011,
-    "wof:lastmodified":1466666538,
+    "wof:lastmodified":1491903384,
     "wof:name":"Sentry Electric Inc",
     "wof:parent_id":85878741,
     "wof:placetype":"venue",

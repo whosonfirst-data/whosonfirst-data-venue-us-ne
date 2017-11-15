@@ -2,6 +2,10 @@
   "id": 873976461,
   "type": "Feature",
   "properties": {
+    "addr:full":"12245 W Center Rd Omaha NE 68144",
+    "addr:housenumber":"12245",
+    "addr:postcode":"68144",
+    "addr:street":"W Center Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":873976461,
-    "wof:lastmodified":1466669614,
+    "wof:lastmodified":1472634121,
     "wof:name":"Starbucks Coffee",
     "wof:parent_id":85872531,
     "wof:placetype":"venue",

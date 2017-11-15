@@ -2,9 +2,14 @@
   "id": 203046187,
   "type": "Feature",
   "properties": {
+    "addr:full":"6504 Parker St Omaha NE 68104",
+    "addr:housenumber":"6504",
+    "addr:postcode":"68104",
+    "addr:street":"Parker St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.012066,41.276998,-96.012066,41.276998",
     "geom:latitude":41.276998,
     "geom:longitude":-96.012066,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688563,
+        85872535,
+        102191575,
+        404518711,
         85633793,
         85973483,
         102082789,
-        85872535
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +49,10 @@
     "wof:geomhash":"1f6ce5dfbb77f9e16bf296325a2abcd1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082789,
+            "localadmin_id":404518711,
             "locality_id":85973483,
             "neighbourhood_id":85872535,
             "region_id":85688563,
@@ -52,7 +60,7 @@
         }
     ],
     "wof:id":203046187,
-    "wof:lastmodified":1466665869,
+    "wof:lastmodified":1491888413,
     "wof:name":"3 Always A Emerg Locksmith",
     "wof:parent_id":85872535,
     "wof:placetype":"venue",

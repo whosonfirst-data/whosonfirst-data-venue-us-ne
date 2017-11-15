@@ -2,6 +2,10 @@
   "id": 203110745,
   "type": "Feature",
   "properties": {
+    "addr:full":"2851 Capehart Rd Ste I Bellevue NE 68123",
+    "addr:housenumber":"2851",
+    "addr:postcode":"68123",
+    "addr:street":"Capehart Rd Ste I",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":203110745,
-    "wof:lastmodified":1466666255,
+    "wof:lastmodified":1472633922,
     "wof:name":"Prairie Road",
     "wof:parent_id":85820061,
     "wof:placetype":"venue",

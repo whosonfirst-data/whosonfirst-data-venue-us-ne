@@ -2,9 +2,14 @@
   "id": 873948667,
   "type": "Feature",
   "properties": {
+    "addr:full":"1201 Gregg Rd Bellevue NE 68005",
+    "addr:housenumber":"1201",
+    "addr:postcode":"68005",
+    "addr:street":"Gregg Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.908317,41.160011,-95.908317,41.160011",
     "geom:latitude":41.160011,
     "geom:longitude":-95.908317,
@@ -26,11 +31,13 @@
     "sg:website":"www.bellevuecia.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688563,
+        85804025,
+        102191575,
+        404519143,
         85633793,
         85974545,
         102082777,
-        85804025
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +48,10 @@
     "wof:geomhash":"03f1bef61629446eb25648b1e9e70d43",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082777,
+            "localadmin_id":404519143,
             "locality_id":85974545,
             "neighbourhood_id":85804025,
             "region_id":85688563,
@@ -50,7 +59,7 @@
         }
     ],
     "wof:id":873948667,
-    "wof:lastmodified":1466669115,
+    "wof:lastmodified":1491931321,
     "wof:name":"Resource Center",
     "wof:parent_id":85804025,
     "wof:placetype":"venue",

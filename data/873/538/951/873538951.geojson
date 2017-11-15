@@ -2,6 +2,10 @@
   "id": 873538951,
   "type": "Feature",
   "properties": {
+    "addr:full":"4324 S 90th St Omaha NE 68127",
+    "addr:housenumber":"4324",
+    "addr:postcode":"68127",
+    "addr:street":"S 90Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":873538951,
-    "wof:lastmodified":1466665645,
+    "wof:lastmodified":1472633831,
     "wof:name":"Single Source Transportation",
     "wof:parent_id":85872511,
     "wof:placetype":"venue",

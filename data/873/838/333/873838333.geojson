@@ -2,14 +2,20 @@
   "id": 873838333,
   "type": "Feature",
   "properties": {
+    "addr:full":"6901 Starlite Dr Omaha NE 68152",
+    "addr:housenumber":"6901",
+    "addr:postcode":"68152",
+    "addr:street":"Starlite Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.019791,41.326819,-96.019791,41.326819",
     "geom:latitude":41.326819,
     "geom:longitude":-96.019791,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6901 Starlite Dr",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102082789,
         85688563
     ],
+    "wof:brand_id":420575691,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_25XkdLzpjR074oRkvocsPd_41.326819_-96.019791@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464298511,
-    "wof:geomhash":"d77a8cf16e21260826e17eb3b2ce836e",
+    "wof:geomhash":"956b1a984faa13f3441861c41e45fbe8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":873838333,
-    "wof:lastmodified":1466667701,
+    "wof:lastmodified":1510602691,
     "wof:name":"Mothers Against Drunk Driving",
     "wof:parent_id":85813863,
     "wof:placetype":"venue",

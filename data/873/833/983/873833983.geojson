@@ -2,6 +2,10 @@
   "id": 873833983,
   "type": "Feature",
   "properties": {
+    "addr:full":"123 Beverly Dr Omaha NE 68114",
+    "addr:housenumber":"123",
+    "addr:postcode":"68114",
+    "addr:street":"Beverly Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":873833983,
-    "wof:lastmodified":1466667734,
+    "wof:lastmodified":1472633953,
     "wof:name":"ODaniel Motor Center",
     "wof:parent_id":85872509,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 203116117,
   "type": "Feature",
   "properties": {
+    "addr:full":"5641 S 85th Cir Omaha NE 68127",
+    "addr:housenumber":"5641",
+    "addr:postcode":"68127",
+    "addr:street":"S 85Th Cir",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -98,7 +102,7 @@
         }
     ],
     "wof:id":203116117,
-    "wof:lastmodified":1466666279,
+    "wof:lastmodified":1472633917,
     "wof:name":"General Fire & Safety",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

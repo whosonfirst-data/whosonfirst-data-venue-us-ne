@@ -2,6 +2,10 @@
   "id": 873959375,
   "type": "Feature",
   "properties": {
+    "addr:full":"1500 U St Lincoln NE 68508",
+    "addr:housenumber":"1500",
+    "addr:postcode":"68508",
+    "addr:street":"U St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":873959375,
-    "wof:lastmodified":1466669186,
+    "wof:lastmodified":1472634087,
     "wof:name":"University Health Ctr",
     "wof:parent_id":85878731,
     "wof:placetype":"venue",

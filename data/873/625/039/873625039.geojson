@@ -2,9 +2,14 @@
   "id": 873625039,
   "type": "Feature",
   "properties": {
+    "addr:full":"10106 S 15th St Bellevue NE 68123",
+    "addr:housenumber":"10106",
+    "addr:postcode":"68123",
+    "addr:street":"S 15Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.935433,41.160082,-95.935433,41.160082",
     "geom:latitude":41.160082,
     "geom:longitude":-95.935433,
@@ -30,11 +35,13 @@
     "sg:website":"www.ocrinc.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688563,
+        85821583,
+        102191575,
+        404519143,
         85633793,
         85974545,
         102082777,
-        85821583
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,8 +52,10 @@
     "wof:geomhash":"ed7b968c5ca441eff8f5e44638cc1d1e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082777,
+            "localadmin_id":404519143,
             "locality_id":85974545,
             "neighbourhood_id":85821583,
             "region_id":85688563,
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":873625039,
-    "wof:lastmodified":1466666138,
+    "wof:lastmodified":1491893187,
     "wof:name":"OCR Auto Sales",
     "wof:parent_id":85821583,
     "wof:placetype":"venue",

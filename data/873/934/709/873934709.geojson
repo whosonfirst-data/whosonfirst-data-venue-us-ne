@@ -2,14 +2,20 @@
   "id": 873934709,
   "type": "Feature",
   "properties": {
+    "addr:full":"13406 W Maple Rd Omaha NE 68164",
+    "addr:housenumber":"13406",
+    "addr:postcode":"68164",
+    "addr:street":"W Maple Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.120943,41.29227,-96.120943,41.29227",
     "geom:latitude":41.29227,
     "geom:longitude":-96.120943,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"13406 W Maple Rd",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102082789,
         85688563
     ],
+    "wof:brand_id":1125152959,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6nL3sCu1DDXhEjwlh4isF8_41.292270_-96.120943@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464300493,
-    "wof:geomhash":"e1cfc09674edd4f3c59f4a37d2ef4a51",
+    "wof:geomhash":"659ff444945cb0b0b1892b7b4ed877eb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":873934709,
-    "wof:lastmodified":1466668765,
+    "wof:lastmodified":1510699013,
     "wof:name":"Learning Express",
     "wof:parent_id":85872503,
     "wof:placetype":"venue",

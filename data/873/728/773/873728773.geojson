@@ -2,6 +2,10 @@
   "id": 873728773,
   "type": "Feature",
   "properties": {
+    "addr:full":"2201 Old Cheney Rd Lincoln NE 68512",
+    "addr:housenumber":"2201",
+    "addr:postcode":"68512",
+    "addr:street":"Old Cheney Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":873728773,
-    "wof:lastmodified":1466666882,
+    "wof:lastmodified":1472633839,
     "wof:name":"Knolls Restaurant & Lounge",
     "wof:parent_id":85878739,
     "wof:placetype":"venue",

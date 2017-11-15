@@ -2,14 +2,20 @@
   "id": 873675021,
   "type": "Feature",
   "properties": {
+    "addr:full":"3525 Harrison St Bellevue NE 68147",
+    "addr:housenumber":"3525",
+    "addr:postcode":"68147",
+    "addr:street":"Harrison St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.965976,41.190779,-95.965976,41.190779",
     "geom:latitude":41.190779,
     "geom:longitude":-95.965976,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3525 Harrison St",
     "sg:city":"Bellevue",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102082777,
         85688563
     ],
+    "wof:brand_id":1125154875,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Ntw5vaBvVT5jAWDNx3ic0_41.190779_-95.965976@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464295869,
-    "wof:geomhash":"295a82285e1896200604b3ad10f33cb9",
+    "wof:geomhash":"d3f7deac186b26a79d05c91149065b8e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":873675021,
-    "wof:lastmodified":1466666482,
+    "wof:lastmodified":1510696908,
     "wof:name":"Grocery Outlet",
     "wof:parent_id":85849923,
     "wof:placetype":"venue",

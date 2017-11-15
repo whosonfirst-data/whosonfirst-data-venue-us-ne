@@ -2,14 +2,20 @@
   "id": 873845409,
   "type": "Feature",
   "properties": {
+    "addr:full":"15303 Westchester Dr Omaha NE 68154",
+    "addr:housenumber":"15303",
+    "addr:postcode":"68154",
+    "addr:street":"Westchester Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.154541,41.258819,-96.154541,41.258819",
     "geom:latitude":41.258819,
     "geom:longitude":-96.154541,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"15303 Westchester Dr",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102082789,
         85688563
     ],
+    "wof:brand_id":1125155931,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1U27ZKIrjwGerRwTbMdh2f_41.258819_-96.154541@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464298691,
-    "wof:geomhash":"ad17649a93e81e6605cacbc468eeeffc",
+    "wof:geomhash":"c2297da3320d47e3bc55591415bb2859",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":873845409,
-    "wof:lastmodified":1466667775,
+    "wof:lastmodified":1510697228,
     "wof:name":"General Grand Chptr Order Eas",
     "wof:parent_id":85806957,
     "wof:placetype":"venue",

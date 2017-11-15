@@ -2,14 +2,20 @@
   "id": 873921165,
   "type": "Feature",
   "properties": {
+    "addr:full":"120 Regency Pkwy Omaha NE 68114",
+    "addr:housenumber":"120",
+    "addr:postcode":"68114",
+    "addr:street":"Regency Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.072722,41.257749,-96.072722,41.257749",
     "geom:latitude":41.257749,
     "geom:longitude":-96.072722,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"120 Regency Pkwy",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102082789,
         85688563
     ],
+    "wof:brand_id":1125152247,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5iUU0rOAOVWzCrz5nuC2lw_41.257749_-96.072722@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464300230,
-    "wof:geomhash":"1d6439a65c76bb193a0407992cab3a0c",
+    "wof:geomhash":"5fa355888dd7d07620414a2009442148",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":873921165,
-    "wof:lastmodified":1466668533,
+    "wof:lastmodified":1510694094,
     "wof:name":"Williams-Sonoma",
     "wof:parent_id":85867061,
     "wof:placetype":"venue",

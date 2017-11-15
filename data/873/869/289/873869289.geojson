@@ -2,14 +2,20 @@
   "id": 873869289,
   "type": "Feature",
   "properties": {
+    "addr:full":"2215 S 86th Ave Omaha NE 68124",
+    "addr:housenumber":"2215",
+    "addr:postcode":"68124",
+    "addr:street":"S 86Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.047173,41.237322,-96.047173,41.237322",
     "geom:latitude":41.237322,
     "geom:longitude":-96.047173,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2215 S 86th Ave",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102082789,
         85688563
     ],
+    "wof:brand_id":1125158545,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_27KrzbwYiyoZwl6iY95tds_41.237322_-96.047173@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464299212,
-    "wof:geomhash":"0d71bad302e0ee1983fd91b756e779a8",
+    "wof:geomhash":"a088812f79ab5a713c49c0a017ed6dab",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":873869289,
-    "wof:lastmodified":1466668005,
+    "wof:lastmodified":1510699701,
     "wof:name":"Hair Today",
     "wof:parent_id":85872533,
     "wof:placetype":"venue",

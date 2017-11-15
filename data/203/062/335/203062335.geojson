@@ -2,9 +2,14 @@
   "id": 203062335,
   "type": "Feature",
   "properties": {
+    "addr:full":"3718 S 66th St Ste 1 Omaha NE 68106",
+    "addr:housenumber":"3718",
+    "addr:postcode":"68106",
+    "addr:street":"S 66Th St Ste 1",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.014512,41.225031,-96.014512,41.225031",
     "geom:latitude":41.225031,
     "geom:longitude":-96.014512,
@@ -30,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688563,
+        85867059,
+        102191575,
+        404518711,
         85633793,
         85973483,
         102082789,
-        85867059
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +51,10 @@
     "wof:geomhash":"2f64fd709b0cc0f81ffe820f56ef4c7b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082789,
+            "localadmin_id":404518711,
             "locality_id":85973483,
             "neighbourhood_id":85867059,
             "region_id":85688563,
@@ -54,7 +62,7 @@
         }
     ],
     "wof:id":203062335,
-    "wof:lastmodified":1466665966,
+    "wof:lastmodified":1491920574,
     "wof:name":"Donovan Brothers Heating & Cooling Inc",
     "wof:parent_id":85867059,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 873910083,
   "type": "Feature",
   "properties": {
+    "addr:full":"11016 S 213th St Gretna NE 68028",
+    "addr:housenumber":"11016",
+    "addr:postcode":"68028",
+    "addr:street":"S 213Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.249539,41.148111,-96.249539,41.148111",
     "geom:latitude":41.148111,
     "geom:longitude":-96.249539,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"11016 S 213th St",
     "sg:city":"Gretna",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85834285,
         102082789
     ],
+    "wof:brand_id":1125153123,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_78hunm3mXkAnogJ3K5756g_41.148111_-96.249539@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464300015,
-    "wof:geomhash":"9b4535bef06aa5b52b3c48eb361c3654",
+    "wof:geomhash":"5a1e567cd5c8cbb5d94820935abd6335",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":873910083,
-    "wof:lastmodified":1466668407,
+    "wof:lastmodified":1510699545,
     "wof:name":"Studio One",
     "wof:parent_id":85834285,
     "wof:placetype":"venue",

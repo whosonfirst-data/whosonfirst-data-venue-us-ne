@@ -2,9 +2,14 @@
   "id": 203047815,
   "type": "Feature",
   "properties": {
+    "addr:full":"2732 N 47th Ave Omaha NE 68104",
+    "addr:housenumber":"2732",
+    "addr:postcode":"68104",
+    "addr:street":"N 47Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.984306,41.283439,-95.984306,41.283439",
     "geom:latitude":41.283439,
     "geom:longitude":-95.984306,
@@ -39,11 +44,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688563,
+        85872535,
+        102191575,
+        404518711,
         85633793,
         85973483,
         102082789,
-        85872535
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,9 +60,10 @@
     "wof:geomhash":"d39d2d323aa7bce941efdbb19d053569",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082789,
+            "localadmin_id":404518711,
             "locality_id":85973483,
             "neighbourhood_id":85872535,
             "region_id":85688563,
@@ -63,7 +71,7 @@
         }
     ],
     "wof:id":203047815,
-    "wof:lastmodified":1466665893,
+    "wof:lastmodified":1491888426,
     "wof:name":"Terry's Tile Marble & Stone",
     "wof:parent_id":85872535,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 873776795,
   "type": "Feature",
   "properties": {
+    "addr:full":"11824 S 25th St Bellevue NE 68123",
+    "addr:housenumber":"11824",
+    "addr:postcode":"68123",
+    "addr:street":"S 25Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.94656,41.133832,-95.94656,41.133832",
     "geom:latitude":41.133832,
     "geom:longitude":-95.94656,
@@ -25,11 +30,13 @@
     "sg:province":"NE",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688563,
+        85821583,
+        102191575,
+        404519143,
         85633793,
         85974545,
         102082777,
-        85821583
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,8 +47,10 @@
     "wof:geomhash":"74f040245f0b87c1bc9a28d716931439",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082777,
+            "localadmin_id":404519143,
             "locality_id":85974545,
             "neighbourhood_id":85821583,
             "region_id":85688563,
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":873776795,
-    "wof:lastmodified":1466667208,
+    "wof:lastmodified":1491893187,
     "wof:name":"Farm Bureau Insurance",
     "wof:parent_id":85821583,
     "wof:placetype":"venue",

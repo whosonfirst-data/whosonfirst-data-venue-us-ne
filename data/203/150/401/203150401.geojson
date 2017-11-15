@@ -2,9 +2,14 @@
   "id": 203150401,
   "type": "Feature",
   "properties": {
+    "addr:full":"1433 N 131st Avenue Cir Omaha NE 68154",
+    "addr:housenumber":"1433",
+    "addr:postcode":"68154",
+    "addr:street":"N 131St Avenue Cir",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.118795,41.272874,-96.118795,41.272874",
     "geom:latitude":41.272874,
     "geom:longitude":-96.118795,
@@ -42,11 +47,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688563,
+        85806957,
+        102191575,
+        404519987,
         85633793,
         85973479,
         102082789,
-        85806957
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,9 +63,10 @@
     "wof:geomhash":"3ed42772073dcf5577d2aa3c13a86e7c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082789,
+            "localadmin_id":404519987,
             "locality_id":85973479,
             "neighbourhood_id":85806957,
             "region_id":85688563,
@@ -66,7 +74,7 @@
         }
     ],
     "wof:id":203150401,
-    "wof:lastmodified":1466666473,
+    "wof:lastmodified":1491916832,
     "wof:name":"M S Marketing Solutions, Inc.",
     "wof:parent_id":85806957,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 873892859,
   "type": "Feature",
   "properties": {
+    "addr:full":"11812 S 25th St Bellevue NE 68123",
+    "addr:housenumber":"11812",
+    "addr:postcode":"68123",
+    "addr:street":"S 25Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.946461,41.134075,-95.946461,41.134075",
     "geom:latitude":41.134075,
     "geom:longitude":-95.946461,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688563,
+        85821583,
+        102191575,
+        404519143,
         85633793,
         85974545,
         102082777,
-        85821583
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,8 +50,10 @@
     "wof:geomhash":"aaf124c38de7c10a7f19bca5c4d39404",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082777,
+            "localadmin_id":404519143,
             "locality_id":85974545,
             "neighbourhood_id":85821583,
             "region_id":85688563,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":873892859,
-    "wof:lastmodified":1466668301,
+    "wof:lastmodified":1491893164,
     "wof:name":"Migun Of Nebraska",
     "wof:parent_id":85821583,
     "wof:placetype":"venue",

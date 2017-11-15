@@ -2,14 +2,20 @@
   "id": 873935349,
   "type": "Feature",
   "properties": {
+    "addr:full":"7245 N 30th St Omaha NE 68112",
+    "addr:housenumber":"7245",
+    "addr:postcode":"68112",
+    "addr:street":"N 30Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.957193,41.325078,-95.957193,41.325078",
     "geom:latitude":41.325078,
     "geom:longitude":-95.957193,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7245 N 30th St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102082789,
         85688563
     ],
+    "wof:brand_id":1125153781,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7gGH29txeBvPeCIVfsWLjA_41.325078_-95.957193@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464300506,
-    "wof:geomhash":"b76be99272954fe812738b6726701a31",
+    "wof:geomhash":"72ce380061c0802a25061f7841f0dc59",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":873935349,
-    "wof:lastmodified":1466668724,
+    "wof:lastmodified":1510696826,
     "wof:name":"Interstate Brands Corp",
     "wof:parent_id":85805287,
     "wof:placetype":"venue",

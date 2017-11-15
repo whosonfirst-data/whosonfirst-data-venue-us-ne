@@ -2,9 +2,14 @@
   "id": 203047775,
   "type": "Feature",
   "properties": {
+    "addr:full":"6606 Blondo St Omaha NE 68104",
+    "addr:housenumber":"6606",
+    "addr:postcode":"68104",
+    "addr:street":"Blondo St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.014503,41.277901,-96.014503,41.277901",
     "geom:latitude":41.277901,
     "geom:longitude":-96.014503,
@@ -26,11 +31,13 @@
     "sg:website":"www.kumandgo.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688563,
+        85872535,
+        102191575,
+        404518711,
         85633793,
         85973483,
         102082789,
-        85872535
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,9 +47,10 @@
     "wof:geomhash":"dadc505851bfabef7d31183c87bc3565",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082789,
+            "localadmin_id":404518711,
             "locality_id":85973483,
             "neighbourhood_id":85872535,
             "region_id":85688563,
@@ -50,7 +58,7 @@
         }
     ],
     "wof:id":203047775,
-    "wof:lastmodified":1466665890,
+    "wof:lastmodified":1491888425,
     "wof:name":"Kum & Go",
     "wof:parent_id":85872535,
     "wof:placetype":"venue",

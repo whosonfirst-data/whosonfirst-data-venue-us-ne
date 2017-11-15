@@ -2,9 +2,14 @@
   "id": 203057941,
   "type": "Feature",
   "properties": {
+    "addr:full":"6790 Grover St Ste 202 Omaha NE 68106",
+    "addr:housenumber":"6790",
+    "addr:postcode":"68106",
+    "addr:street":"Grover St Ste 202",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.0177,41.2271,-96.0177,41.2271",
     "geom:latitude":41.2271,
     "geom:longitude":-96.0177,
@@ -30,11 +35,13 @@
     "sg:website":"www.fenlonlaw.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688563,
+        85867059,
+        102191575,
+        404518711,
         85633793,
         85973483,
         102082789,
-        85867059
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +51,10 @@
     "wof:geomhash":"8c32000dbf5ae7d9617fbc1b6973f2da",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082789,
+            "localadmin_id":404518711,
             "locality_id":85973483,
             "neighbourhood_id":85867059,
             "region_id":85688563,
@@ -54,7 +62,7 @@
         }
     ],
     "wof:id":203057941,
-    "wof:lastmodified":1466665945,
+    "wof:lastmodified":1491920597,
     "wof:name":"Fenlon James F",
     "wof:parent_id":85867059,
     "wof:placetype":"venue",

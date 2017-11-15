@@ -2,9 +2,14 @@
   "id": 203047231,
   "type": "Feature",
   "properties": {
+    "addr:full":"6101 NW Radial Hwy Omaha NE 68104",
+    "addr:housenumber":"6101",
+    "addr:postcode":"68104",
+    "addr:street":"Nw Radial Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.007164,41.286728,-96.007164,41.286728",
     "geom:latitude":41.286728,
     "geom:longitude":-96.007164,
@@ -20,11 +25,13 @@
     "sg:website":"http://www.walgreens.com/default.jsp?ec=iyp_yellowpages_trademark",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688563,
+        85872535,
+        102191575,
+        404518711,
         85633793,
         85973483,
         102082789,
-        85872535
+        85688563
     ],
     "wof:brand_id":420573909,
     "wof:breaches":[],
@@ -35,9 +42,10 @@
     "wof:geomhash":"160138bddf08a7150dcd914e5b8a04a1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082789,
+            "localadmin_id":404518711,
             "locality_id":85973483,
             "neighbourhood_id":85872535,
             "region_id":85688563,
@@ -45,7 +53,7 @@
         }
     ],
     "wof:id":203047231,
-    "wof:lastmodified":1466665876,
+    "wof:lastmodified":1491888400,
     "wof:name":"Walgreens Pharmacies",
     "wof:parent_id":85872535,
     "wof:placetype":"venue",

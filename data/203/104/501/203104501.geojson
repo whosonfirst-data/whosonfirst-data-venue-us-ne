@@ -2,14 +2,20 @@
   "id": 203104501,
   "type": "Feature",
   "properties": {
+    "addr:full":"5815 M St Omaha NE 68117",
+    "addr:housenumber":"5815",
+    "addr:postcode":"68117",
+    "addr:street":"M St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.002595,41.211521,-96.002595,41.211521",
     "geom:latitude":41.211521,
     "geom:longitude":-96.002595,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5815 M St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         85973483,
         102082789
     ],
+    "wof:brand_id":1125151223,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5SadOYkTgU0mt1JMw4MNhm_41.211521_-96.002595@1303262942"
     },
     "wof:country":"US",
-    "wof:geomhash":"2ed87b6b3df9bb0700b74861903fabfd",
+    "wof:geomhash":"e61af667efae60b4d36637de7221c83a",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":203104501,
-    "wof:lastmodified":1466666206,
+    "wof:lastmodified":1510697269,
     "wof:name":"Indoff Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

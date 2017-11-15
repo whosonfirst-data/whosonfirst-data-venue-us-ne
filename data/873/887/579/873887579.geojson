@@ -2,14 +2,20 @@
   "id": 873887579,
   "type": "Feature",
   "properties": {
+    "addr:full":"10000 California St Omaha NE 68114",
+    "addr:housenumber":"10000",
+    "addr:postcode":"68114",
+    "addr:street":"California St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.069001,41.264008,-96.069001,41.264008",
     "geom:latitude":41.264008,
     "geom:longitude":-96.069001,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"10000 California St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102082789,
         85688563
     ],
+    "wof:brand_id":1125152599,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0IPvSo5wxRth3oHUIjCKWh_41.264008_-96.069001@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464299584,
-    "wof:geomhash":"79715c778136e6a2e04b68124769e6fb",
+    "wof:geomhash":"39be2c32e5287386de37a6ba6fbaf8f2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":873887579,
-    "wof:lastmodified":1466668223,
+    "wof:lastmodified":1510695221,
     "wof:name":"Hot Topic Inc",
     "wof:parent_id":85867061,
     "wof:placetype":"venue",

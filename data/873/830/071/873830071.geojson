@@ -2,6 +2,10 @@
   "id": 873830071,
   "type": "Feature",
   "properties": {
+    "addr:full":"3333 Cleveland Ave Lincoln NE 68504",
+    "addr:housenumber":"3333",
+    "addr:postcode":"68504",
+    "addr:street":"Cleveland Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":873830071,
-    "wof:lastmodified":1466667572,
+    "wof:lastmodified":1472633940,
     "wof:name":"IBA Inc",
     "wof:parent_id":85878741,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 873954511,
   "type": "Feature",
   "properties": {
+    "addr:full":"333 N Cotner Blvd Lincoln NE 68505",
+    "addr:housenumber":"333",
+    "addr:postcode":"68505",
+    "addr:street":"N Cotner Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":873954511,
-    "wof:lastmodified":1466669158,
+    "wof:lastmodified":1472634086,
     "wof:name":"Monamour Beauty Salon",
     "wof:parent_id":85878703,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 873624365,
   "type": "Feature",
   "properties": {
+    "addr:full":"4602 Longview St Papillion NE 68113",
+    "addr:housenumber":"4602",
+    "addr:postcode":"68113",
+    "addr:street":"Longview St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.983765,41.142276,-95.983765,41.142276",
     "geom:latitude":41.142276,
     "geom:longitude":-95.983765,
@@ -31,11 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688563,
+        85821583,
+        102191575,
+        404519143,
         85633793,
         85974545,
         102082777,
-        85821583
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,8 +53,10 @@
     "wof:geomhash":"d0bf18cd3159f0fee0e85f9893ffc860",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082777,
+            "localadmin_id":404519143,
             "locality_id":85974545,
             "neighbourhood_id":85821583,
             "region_id":85688563,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":873624365,
-    "wof:lastmodified":1466666155,
+    "wof:lastmodified":1491893206,
     "wof:name":"Knutson Cabinet & Construction",
     "wof:parent_id":85821583,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 873853685,
   "type": "Feature",
   "properties": {
+    "addr:full":"6001 Normal Blvd Lincoln NE 68506",
+    "addr:housenumber":"6001",
+    "addr:postcode":"68506",
+    "addr:street":"Normal Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":873853685,
-    "wof:lastmodified":1466667897,
+    "wof:lastmodified":1472633978,
     "wof:name":"Krayon Campus Inc",
     "wof:parent_id":85878697,
     "wof:placetype":"venue",

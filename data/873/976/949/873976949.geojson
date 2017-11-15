@@ -2,14 +2,20 @@
   "id": 873976949,
   "type": "Feature",
   "properties": {
+    "addr:full":"4322 S 33rd St Lincoln NE 68516",
+    "addr:housenumber":"4322",
+    "addr:postcode":"68516",
+    "addr:street":"S 33Rd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.672267,40.769165,-96.672267,40.769165",
     "geom:latitude":40.769165,
     "geom:longitude":-96.672267,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4322 S 33rd St",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -39,13 +45,14 @@
         102083503,
         85688563
     ],
+    "wof:brand_id":1125156297,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0bVlcuE0IUE4Mhd6uTmqXy_40.769165_-96.672267@1299784598"
     },
     "wof:country":"US",
     "wof:created":1464302259,
-    "wof:geomhash":"41874bbe3c59998634cce93f0c00a826",
+    "wof:geomhash":"428042ef8cfcbb9eacd90362ed486581",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,7 +66,7 @@
         }
     ],
     "wof:id":873976949,
-    "wof:lastmodified":1466669737,
+    "wof:lastmodified":1510695374,
     "wof:name":"Runza",
     "wof:parent_id":85811821,
     "wof:placetype":"venue",

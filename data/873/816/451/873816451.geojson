@@ -2,14 +2,20 @@
   "id": 873816451,
   "type": "Feature",
   "properties": {
+    "addr:full":"3600 N 20th St Lincoln NE 68521",
+    "addr:housenumber":"3600",
+    "addr:postcode":"68521",
+    "addr:street":"N 20Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.691572,40.847721,-96.691572,40.847721",
     "geom:latitude":40.847721,
     "geom:longitude":-96.691572,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3600 N 20th St",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102083503,
         85688563
     ],
+    "wof:brand_id":1125159247,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0rOVndG2YormFrhVAdol9x_40.847721_-96.691572@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464298043,
-    "wof:geomhash":"c78dd7ac21ec7d940055dd27a77f02f3",
+    "wof:geomhash":"c159b31018c7a47ece5a4fc29652135b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":873816451,
-    "wof:lastmodified":1466667487,
+    "wof:lastmodified":1510693877,
     "wof:name":"Fed Ex World Service Ctr",
     "wof:parent_id":85878721,
     "wof:placetype":"venue",

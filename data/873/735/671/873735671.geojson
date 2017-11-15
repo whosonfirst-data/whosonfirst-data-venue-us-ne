@@ -2,9 +2,14 @@
   "id": 873735671,
   "type": "Feature",
   "properties": {
+    "addr:full":"4001 N 48th St Lincoln NE 68504",
+    "addr:housenumber":"4001",
+    "addr:postcode":"68504",
+    "addr:street":"N 48Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.653604,40.854672,-96.653604,40.854672",
     "geom:latitude":40.854672,
     "geom:longitude":-96.653604,
@@ -31,10 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688563,
+        85878741,
+        102191575,
+        404521111,
         85633793,
         85973555,
         102083503,
+        85688563,
         85824241
     ],
     "wof:breaches":[],
@@ -46,6 +54,16 @@
     "wof:geomhash":"6a4e7f9a8b2bc95036d389029d3daf7e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878741,
+            "region_id":85688563,
+            "venue_id":873735671
+        },
+        {
             "country_id":85633793,
             "county_id":102083503,
             "locality_id":85973555,
@@ -55,9 +73,9 @@
         }
     ],
     "wof:id":873735671,
-    "wof:lastmodified":1466666935,
+    "wof:lastmodified":1491903377,
     "wof:name":"North American Flooring",
-    "wof:parent_id":85824241,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],

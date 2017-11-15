@@ -2,14 +2,20 @@
   "id": 873769037,
   "type": "Feature",
   "properties": {
+    "addr:full":"2312 N 72nd St Omaha NE 68134",
+    "addr:housenumber":"2312",
+    "addr:postcode":"68134",
+    "addr:street":"N 72Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.023957,41.281315,-96.023957,41.281315",
     "geom:latitude":41.281315,
     "geom:longitude":-96.023957,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2312 N 72nd St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102082789,
         85688563
     ],
+    "wof:brand_id":1125153713,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1rpEFEnx7V7uCCniyPlMKT_41.281315_-96.023957@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464297350,
-    "wof:geomhash":"9ba3689c0dbe4d32fd200a683d8a8aa1",
+    "wof:geomhash":"43ee54be64d167c08562ffa76d75d035",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":873769037,
-    "wof:lastmodified":1466667102,
+    "wof:lastmodified":1510694614,
     "wof:name":"Rentway",
     "wof:parent_id":85872507,
     "wof:placetype":"venue",

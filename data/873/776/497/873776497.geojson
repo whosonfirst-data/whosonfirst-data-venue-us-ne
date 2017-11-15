@@ -2,14 +2,20 @@
   "id": 873776497,
   "type": "Feature",
   "properties": {
+    "addr:full":"11329 P St Omaha NE 68137",
+    "addr:housenumber":"11329",
+    "addr:postcode":"68137",
+    "addr:street":"P St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.089805,41.206206,-96.089805,41.206206",
     "geom:latitude":41.206206,
     "geom:longitude":-96.089805,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"11329 P St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102082789,
         85688563
     ],
+    "wof:brand_id":1125150235,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7FZF4WFpZdRQV5RppR2yA2_41.206206_-96.089805@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464297443,
-    "wof:geomhash":"a7b06d95719239f9de78036a4e074215",
+    "wof:geomhash":"d19ff5092992e921e28e99143776a178",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":873776497,
-    "wof:lastmodified":1466667179,
+    "wof:lastmodified":1510696765,
     "wof:name":"GMAC",
     "wof:parent_id":85872531,
     "wof:placetype":"venue",

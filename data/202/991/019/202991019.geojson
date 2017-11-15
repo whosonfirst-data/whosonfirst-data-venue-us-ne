@@ -2,14 +2,20 @@
   "id": 202991019,
   "type": "Feature",
   "properties": {
+    "addr:full":"7902 Towne Center Pkwy # 101 Papillion NE 68046",
+    "addr:housenumber":"7902",
+    "addr:postcode":"68046",
+    "addr:street":"Towne Center Pkwy # 101",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.030011,41.137364,-96.030011,41.137364",
     "geom:latitude":41.137364,
     "geom:longitude":-96.030011,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7902 Towne Center Pkwy # 101",
     "sg:city":"Papillion",
     "sg:classifiers":[
@@ -45,12 +51,13 @@
         85974551,
         102082777
     ],
+    "wof:brand_id":1125151541,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3VBHch0Qkwwt7l3zKanQS0_41.137364_-96.030011@1303262940"
     },
     "wof:country":"US",
-    "wof:geomhash":"c75eafc3c1ab6e152fefb1bbe2c93f55",
+    "wof:geomhash":"6ac8f77500f8979a29b9f7ab2c3a11f8",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -63,7 +70,7 @@
         }
     ],
     "wof:id":202991019,
-    "wof:lastmodified":1466669625,
+    "wof:lastmodified":1510695397,
     "wof:name":"Coldwater Creek",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 873744513,
   "type": "Feature",
   "properties": {
+    "addr:full":"3302 S 122nd St Omaha NE 68144",
+    "addr:housenumber":"3302",
+    "addr:postcode":"68144",
+    "addr:street":"S 122Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.103814,41.225853,-96.103814,41.225853",
     "geom:latitude":41.225853,
     "geom:longitude":-96.103814,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3302 S 122nd St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102082789,
         85688563
     ],
+    "wof:brand_id":1125156841,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_44JFoGXnHBWLMB6CoWIn28_41.225853_-96.103814@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464297002,
-    "wof:geomhash":"fbabb76edf096526fbc73f9a5f219f04",
+    "wof:geomhash":"7501f08d17b1ac124ef6a7b547565beb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":873744513,
-    "wof:lastmodified":1466666981,
+    "wof:lastmodified":1510696905,
     "wof:name":"Sisters Of Charity",
     "wof:parent_id":85872531,
     "wof:placetype":"venue",

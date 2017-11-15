@@ -2,6 +2,10 @@
   "id": 873903953,
   "type": "Feature",
   "properties": {
+    "addr:full":"1600 P St Lincoln NE 68508",
+    "addr:housenumber":"1600 p",
+    "addr:postcode":"68508",
+    "addr:street":"St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":873903953,
-    "wof:lastmodified":1466668440,
+    "wof:lastmodified":1472634023,
     "wof:name":"Wells Fargo Bank",
     "wof:parent_id":85878699,
     "wof:placetype":"venue",

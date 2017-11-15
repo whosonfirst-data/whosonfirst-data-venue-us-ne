@@ -2,9 +2,14 @@
   "id": 203169155,
   "type": "Feature",
   "properties": {
+    "addr:full":"4400 S 86th St Ste 100 Lincoln NE 68526",
+    "addr:housenumber":"4400",
+    "addr:postcode":"68526",
+    "addr:street":"S 86Th St Ste 100",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.603569,40.769009,-96.603569,40.769009",
     "geom:latitude":40.769009,
     "geom:longitude":-96.603569,
@@ -32,11 +37,13 @@
     "sg:website":"http://www.shivelylaw.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688563,
+        85878707,
+        102191575,
+        404521111,
         85633793,
         85973555,
         102083503,
-        85878707
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,9 +53,10 @@
     "wof:geomhash":"7840ad14f9a671311864d587d5a1c8fa",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083503,
+            "localadmin_id":404521111,
             "locality_id":85973555,
             "neighbourhood_id":85878707,
             "region_id":85688563,
@@ -56,7 +64,7 @@
         }
     ],
     "wof:id":203169155,
-    "wof:lastmodified":1466666565,
+    "wof:lastmodified":1491932653,
     "wof:name":"Shively Law Offices",
     "wof:parent_id":85878707,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 202994167,
   "type": "Feature",
   "properties": {
+    "addr:full":"1110 Douglas St Apt 101 Omaha NE 68102",
+    "addr:housenumber":"1110;101",
+    "addr:postcode":"68102",
+    "addr:street":"Douglas St Apt",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":202994167,
-    "wof:lastmodified":1466665584,
+    "wof:lastmodified":1472633740,
     "wof:name":"Julia Russell Designs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

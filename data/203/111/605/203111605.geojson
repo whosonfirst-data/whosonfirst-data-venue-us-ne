@@ -2,9 +2,14 @@
   "id": 203111605,
   "type": "Feature",
   "properties": {
+    "addr:full":"7710 Mercy Rd Ste 110 Omaha NE 68124",
+    "addr:housenumber":"7710",
+    "addr:postcode":"68124",
+    "addr:street":"Mercy Rd Ste 110",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.033076,41.23785,-96.033076,41.23785",
     "geom:latitude":41.23785,
     "geom:longitude":-96.033076,
@@ -25,11 +30,13 @@
     "sg:province":"NE",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688563,
+        85867059,
+        102191575,
+        404518711,
         85633793,
         85973483,
         102082789,
-        85867059
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,9 +46,10 @@
     "wof:geomhash":"de28438e405909acde14118acac90738",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082789,
+            "localadmin_id":404518711,
             "locality_id":85973483,
             "neighbourhood_id":85867059,
             "region_id":85688563,
@@ -49,7 +57,7 @@
         }
     ],
     "wof:id":203111605,
-    "wof:lastmodified":1466666265,
+    "wof:lastmodified":1491920569,
     "wof:name":"Bergen Mercy Medical Bldg Phrm",
     "wof:parent_id":85867059,
     "wof:placetype":"venue",

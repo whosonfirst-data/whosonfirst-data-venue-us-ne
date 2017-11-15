@@ -2,9 +2,14 @@
   "id": 873722139,
   "type": "Feature",
   "properties": {
+    "addr:full":"3803 Cornhusker Rd Bellevue NE 68123",
+    "addr:housenumber":"3803",
+    "addr:postcode":"68123",
+    "addr:street":"Cornhusker Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.98125,41.161683,-95.98125,41.161683",
     "geom:latitude":41.161683,
     "geom:longitude":-95.98125,
@@ -34,11 +39,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688563,
+        85821583,
+        102191575,
+        404519143,
         85633793,
         85974545,
         102082777,
-        85821583
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,8 +56,10 @@
     "wof:geomhash":"94c3c9a7a5551d9b13ef8387b23b9269",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082777,
+            "localadmin_id":404519143,
             "locality_id":85974545,
             "neighbourhood_id":85821583,
             "region_id":85688563,
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":873722139,
-    "wof:lastmodified":1466666799,
+    "wof:lastmodified":1491893211,
     "wof:name":"Trees Shrubs & More Inc",
     "wof:parent_id":85821583,
     "wof:placetype":"venue",

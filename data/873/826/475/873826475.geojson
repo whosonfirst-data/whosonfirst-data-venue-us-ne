@@ -2,9 +2,14 @@
   "id": 873826475,
   "type": "Feature",
   "properties": {
+    "addr:full":"2812 Angie Dr Bellevue NE 68005",
+    "addr:housenumber":"2812",
+    "addr:postcode":"68005",
+    "addr:street":"Angie Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.933507,41.149805,-95.933507,41.149805",
     "geom:latitude":41.149805,
     "geom:longitude":-95.933507,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688563,
+        85821583,
+        102191575,
+        404519143,
         85633793,
         85974545,
         102082777,
-        85821583
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,8 +50,10 @@
     "wof:geomhash":"54963c991a797862954111b92f8be712",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082777,
+            "localadmin_id":404519143,
             "locality_id":85974545,
             "neighbourhood_id":85821583,
             "region_id":85688563,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":873826475,
-    "wof:lastmodified":1466667600,
+    "wof:lastmodified":1491893162,
     "wof:name":"Powell Visions Inc",
     "wof:parent_id":85821583,
     "wof:placetype":"venue",

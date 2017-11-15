@@ -2,14 +2,20 @@
   "id": 873921173,
   "type": "Feature",
   "properties": {
+    "addr:full":"620 N 48th St Lincoln NE 68504",
+    "addr:housenumber":"620",
+    "addr:postcode":"68504",
+    "addr:street":"N 48Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.653587,40.817742,-96.653587,40.817742",
     "geom:latitude":40.817742,
     "geom:longitude":-96.653587,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"620 N 48th St",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102083503,
         85688563
     ],
+    "wof:brand_id":1125155407,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5sVNqyfxrDQ979V5MpPBvY_40.817742_-96.653587@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464300230,
-    "wof:geomhash":"984fee77db5ca8df4e40a59aa115dfe2",
+    "wof:geomhash":"24349cd7465e9eb347684f6a87588b44",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":873921173,
-    "wof:lastmodified":1466668534,
+    "wof:lastmodified":1510695073,
     "wof:name":"New Horizons Computer Learning",
     "wof:parent_id":85878701,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 203111083,
   "type": "Feature",
   "properties": {
+    "addr:full":"3802 Raynor Pkwy Bellevue NE 68123",
+    "addr:housenumber":"3802",
+    "addr:postcode":"68123",
+    "addr:street":"Raynor Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.976173,41.14666,-95.976173,41.14666",
     "geom:latitude":41.14666,
     "geom:longitude":-95.976173,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688563,
+        85821583,
+        102191575,
+        404519143,
         85633793,
         85974545,
         102082777,
-        85821583
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +50,10 @@
     "wof:geomhash":"adde0f6071760d2cee4cad8f6fe8059e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082777,
+            "localadmin_id":404519143,
             "locality_id":85974545,
             "neighbourhood_id":85821583,
             "region_id":85688563,
@@ -53,7 +61,7 @@
         }
     ],
     "wof:id":203111083,
-    "wof:lastmodified":1466666255,
+    "wof:lastmodified":1491893160,
     "wof:name":"Creighton Family Healthcare",
     "wof:parent_id":85821583,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 203112177,
   "type": "Feature",
   "properties": {
+    "addr:full":"7253 Grover St Omaha NE 68124",
+    "addr:housenumber":"7253",
+    "addr:postcode":"68124",
+    "addr:street":"Grover St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.024767,41.227194,-96.024767,41.227194",
     "geom:latitude":41.227194,
     "geom:longitude":-96.024767,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688563,
+        85867059,
+        102191575,
+        404518711,
         85633793,
         85973483,
         102082789,
-        85867059
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +49,10 @@
     "wof:geomhash":"6f297a60eba0a51de22d692da3e28f11",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082789,
+            "localadmin_id":404518711,
             "locality_id":85973483,
             "neighbourhood_id":85867059,
             "region_id":85688563,
@@ -52,7 +60,7 @@
         }
     ],
     "wof:id":203112177,
-    "wof:lastmodified":1466666262,
+    "wof:lastmodified":1491920579,
     "wof:name":"Sirius Nutrition",
     "wof:parent_id":85867059,
     "wof:placetype":"venue",

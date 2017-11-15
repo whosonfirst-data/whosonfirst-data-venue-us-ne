@@ -2,6 +2,10 @@
   "id": 873977005,
   "type": "Feature",
   "properties": {
+    "addr:full":"1000 Saunders Ave Lincoln NE 68521",
+    "addr:housenumber":"1000",
+    "addr:postcode":"68521",
+    "addr:street":"Saunders Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":873977005,
-    "wof:lastmodified":1466669541,
+    "wof:lastmodified":1472634107,
     "wof:name":"Sidelines",
     "wof:parent_id":85892215,
     "wof:placetype":"venue",

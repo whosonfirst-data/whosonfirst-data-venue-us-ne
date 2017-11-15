@@ -2,9 +2,14 @@
   "id": 873738817,
   "type": "Feature",
   "properties": {
+    "addr:full":"205 Fairlane Dr Bellevue NE 68005",
+    "addr:housenumber":"205",
+    "addr:postcode":"68005",
+    "addr:street":"Fairlane Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.924665,41.158666,-95.924665,41.158666",
     "geom:latitude":41.158666,
     "geom:longitude":-95.924665,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688563,
+        85804025,
+        102191575,
+        404519143,
         85633793,
         85974545,
         102082777,
-        85804025
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,8 +50,10 @@
     "wof:geomhash":"331528b2c7172a946d7751f8e98e0803",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082777,
+            "localadmin_id":404519143,
             "locality_id":85974545,
             "neighbourhood_id":85804025,
             "region_id":85688563,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":873738817,
-    "wof:lastmodified":1466666948,
+    "wof:lastmodified":1491931322,
     "wof:name":"Avery Heights Apartments",
     "wof:parent_id":85804025,
     "wof:placetype":"venue",

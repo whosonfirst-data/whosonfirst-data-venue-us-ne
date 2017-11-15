@@ -2,14 +2,20 @@
   "id": 873623039,
   "type": "Feature",
   "properties": {
+    "addr:full":"4500 S 70th St Lincoln NE 68516",
+    "addr:housenumber":"4500",
+    "addr:postcode":"68516",
+    "addr:street":"S 70Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.625061,40.769069,-96.625061,40.769069",
     "geom:latitude":40.769069,
     "geom:longitude":-96.625061,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4500 S 70th St",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102083503,
         85688563
     ],
+    "wof:brand_id":1125152059,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1MlWa4jrBfBUZNPrwB3GPo_40.769069_-96.625061@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464295281,
-    "wof:geomhash":"662e5e45bcc6ef1bc2aafd734722e9cc",
+    "wof:geomhash":"43c48c21ee96ffe1ec3266b9a9c2e675",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":873623039,
-    "wof:lastmodified":1466666126,
+    "wof:lastmodified":1510697079,
     "wof:name":"Papa Murphy's Take 'N' Bake",
     "wof:parent_id":85878695,
     "wof:placetype":"venue",

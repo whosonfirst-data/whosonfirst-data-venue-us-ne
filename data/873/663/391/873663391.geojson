@@ -2,14 +2,20 @@
   "id": 873663391,
   "type": "Feature",
   "properties": {
+    "addr:full":"2240 N 48th St Lincoln NE 68504",
+    "addr:housenumber":"2240",
+    "addr:postcode":"68504",
+    "addr:street":"N 48Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.653568,40.834888,-96.653568,40.834888",
     "geom:latitude":40.834888,
     "geom:longitude":-96.653568,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2240 N 48th St",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102083503,
         85688563
     ],
+    "wof:brand_id":420573809,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6yh1ILTyiAL6UkiC0PgwEY_40.834888_-96.653568@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464295734,
-    "wof:geomhash":"5ac62aaaf2bc62f383f972f308b80164",
+    "wof:geomhash":"d4134fadedc9663ee835583e123095e8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":873663391,
-    "wof:lastmodified":1466666409,
+    "wof:lastmodified":1510603478,
     "wof:name":"Payless Shoe Source",
     "wof:parent_id":85853163,
     "wof:placetype":"venue",

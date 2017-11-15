@@ -2,9 +2,14 @@
   "id": 203149421,
   "type": "Feature",
   "properties": {
+    "addr:full":"13625 California St Ste 300 Omaha NE 68154",
+    "addr:housenumber":"13625",
+    "addr:postcode":"68154",
+    "addr:street":"California St Ste 300",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.127994,41.265474,-96.127994,41.265474",
     "geom:latitude":41.265474,
     "geom:longitude":-96.127994,
@@ -32,11 +37,13 @@
     "sg:website":"http://identalomaha.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688563,
+        85806957,
+        102191575,
+        404519987,
         85633793,
         85973479,
         102082789,
-        85806957
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,9 +53,10 @@
     "wof:geomhash":"76a39b53ea1acf1071c5d2a1eb2be68d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082789,
+            "localadmin_id":404519987,
             "locality_id":85973479,
             "neighbourhood_id":85806957,
             "region_id":85688563,
@@ -56,7 +64,7 @@
         }
     ],
     "wof:id":203149421,
-    "wof:lastmodified":1466666472,
+    "wof:lastmodified":1491916822,
     "wof:name":"Innovative Dental",
     "wof:parent_id":85806957,
     "wof:placetype":"venue",

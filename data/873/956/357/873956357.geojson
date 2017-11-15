@@ -2,14 +2,20 @@
   "id": 873956357,
   "type": "Feature",
   "properties": {
+    "addr:full":"2400 Theresa St Lincoln NE 68521",
+    "addr:housenumber":"2400",
+    "addr:postcode":"68521",
+    "addr:street":"Theresa St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.684838,40.839042,-96.684838,40.839042",
     "geom:latitude":40.839042,
     "geom:longitude":-96.684838,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2400 Theresa St",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102083503,
         85688563
     ],
+    "wof:brand_id":1125152633,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_03xJjaD0OGWLvR84ZDNAOY_40.839042_-96.684838@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464301385,
-    "wof:geomhash":"2af3c235369416852a5e1d850ed6abb2",
+    "wof:geomhash":"e809310d9b70fcb335af67b74c8ec8f8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":873956357,
-    "wof:lastmodified":1466669128,
+    "wof:lastmodified":1510697377,
     "wof:name":"Waste Water Treatment Plant",
     "wof:parent_id":85878691,
     "wof:placetype":"venue",

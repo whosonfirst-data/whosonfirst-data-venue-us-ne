@@ -2,14 +2,20 @@
   "id": 873855043,
   "type": "Feature",
   "properties": {
+    "addr:full":"805 Burns Pl Gretna NE 68028",
+    "addr:housenumber":"805",
+    "addr:postcode":"68028",
+    "addr:street":"Burns Pl;Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.249202,41.141793,-96.249202,41.141793",
     "geom:latitude":41.141793,
     "geom:longitude":-96.249202,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"805 Burns Pl",
     "sg:city":"Gretna",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85834285,
         102082789
     ],
+    "wof:brand_id":1125150857,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5i60esF6qRxEaVSS66Bhob_41.141793_-96.249202@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464298914,
-    "wof:geomhash":"f937d53220cf9ff3a023c18485e8493d",
+    "wof:geomhash":"aef4a71c6f98e1e9b72ca4cfbdaf5ad2",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":873855043,
-    "wof:lastmodified":1466667841,
+    "wof:lastmodified":1510694215,
     "wof:name":"Burlington Northern",
     "wof:parent_id":85834285,
     "wof:placetype":"venue",

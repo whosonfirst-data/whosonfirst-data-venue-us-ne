@@ -2,14 +2,20 @@
   "id": 873835171,
   "type": "Feature",
   "properties": {
+    "addr:full":"178 Gateway Mall Lincoln NE 68505",
+    "addr:housenumber":"178",
+    "addr:postcode":"68505",
+    "addr:street":"Gateway Mall",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.641401,40.814255,-96.641401,40.814255",
     "geom:latitude":40.814255,
     "geom:longitude":-96.641401,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"178 Gateway Mall",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102083503,
         85688563
     ],
+    "wof:brand_id":1125156927,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4zCliZAKBFdHQYMFcVTbQe_40.814255_-96.641401@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464298448,
-    "wof:geomhash":"4ebb527ea94ec4ab83868064f3542518",
+    "wof:geomhash":"8d4ce817ef749eecf7e53e84853db7d6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":873835171,
-    "wof:lastmodified":1466667639,
+    "wof:lastmodified":1510695437,
     "wof:name":"Cali Nails",
     "wof:parent_id":85878703,
     "wof:placetype":"venue",

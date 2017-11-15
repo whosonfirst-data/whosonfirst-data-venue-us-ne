@@ -2,14 +2,20 @@
   "id": 873926503,
   "type": "Feature",
   "properties": {
+    "addr:full":"802 Allied Rd Bellevue NE 68123",
+    "addr:housenumber":"802",
+    "addr:postcode":"68123",
+    "addr:street":"Allied Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.914594,41.068816,-95.914594,41.068816",
     "geom:latitude":41.068816,
     "geom:longitude":-95.914594,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"802 Allied Rd",
     "sg:city":"Bellevue",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102082777,
         85820061
     ],
+    "wof:brand_id":1125156125,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7bBQ0zCfERtdF66VG9wGSb_41.068816_-95.914594@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464300337,
-    "wof:geomhash":"0627a95dc05ce40d78000876dbcfda16",
+    "wof:geomhash":"939f67817d89749d95eeb88d5746b828",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":873926503,
-    "wof:lastmodified":1466668636,
+    "wof:lastmodified":1510613400,
     "wof:name":"Rinker Materials Corporation",
     "wof:parent_id":85820061,
     "wof:placetype":"venue",

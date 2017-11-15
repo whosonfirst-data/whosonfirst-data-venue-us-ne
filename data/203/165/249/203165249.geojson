@@ -2,14 +2,20 @@
   "id": 203165249,
   "type": "Feature",
   "properties": {
+    "addr:full":"68 Gateway Mall Lincoln NE 68505",
+    "addr:housenumber":"68",
+    "addr:postcode":"68505",
+    "addr:street":"Gateway Mall",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.63687,40.813745,-96.63687,40.813745",
     "geom:latitude":40.813745,
     "geom:longitude":-96.63687,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"68 Gateway Mall",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -37,12 +43,13 @@
         102083503,
         85878703
     ],
+    "wof:brand_id":1125151895,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5A78enhCRz4u0fj24Gtah8_40.813745_-96.636870@1303262943"
     },
     "wof:country":"US",
-    "wof:geomhash":"036fb2e2d2ebe2a5a9c9c1b2093e3008",
+    "wof:geomhash":"5c4e3e53a0d1c0d72de6345c1c9271b8",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":203165249,
-    "wof:lastmodified":1466666542,
+    "wof:lastmodified":1510697711,
     "wof:name":"JCPenney Custom Decorating",
     "wof:parent_id":85878703,
     "wof:placetype":"venue",

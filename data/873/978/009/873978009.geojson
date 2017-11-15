@@ -2,14 +2,20 @@
   "id": 873978009,
   "type": "Feature",
   "properties": {
+    "addr:full":"12241 W Center Rd Omaha NE 68144",
+    "addr:housenumber":"12241",
+    "addr:postcode":"68144",
+    "addr:street":"W Center Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.104496,41.23397,-96.104496,41.23397",
     "geom:latitude":41.23397,
     "geom:longitude":-96.104496,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"12241 W Center Rd",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -49,13 +55,14 @@
         102082789,
         85688563
     ],
+    "wof:brand_id":1125150837,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4LVvWuqDK5A9Zxx6zNEsrp_41.233940_-96.105114@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464302297,
-    "wof:geomhash":"3238a510c9326b671215dd19f6398aa0",
+    "wof:geomhash":"59a5ff9fbee1e2ad65eba7c250193b8d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -69,7 +76,7 @@
         }
     ],
     "wof:id":873978009,
-    "wof:lastmodified":1466669559,
+    "wof:lastmodified":1510695416,
     "wof:name":"Maggie Moo's",
     "wof:parent_id":85872531,
     "wof:placetype":"venue",

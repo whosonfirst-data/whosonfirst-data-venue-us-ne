@@ -2,9 +2,14 @@
   "id": 873721029,
   "type": "Feature",
   "properties": {
+    "addr:full":"802 Fort Crook Rd S Bellevue NE 68123",
+    "addr:housenumber":"802",
+    "addr:postcode":"68123",
+    "addr:street":"Fort Crook Rd S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.926933,41.153589,-95.926933,41.153589",
     "geom:latitude":41.153589,
     "geom:longitude":-95.926933,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688563,
+        85821583,
+        102191575,
+        404519143,
         85633793,
         85974545,
         102082777,
-        85821583
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,8 +50,10 @@
     "wof:geomhash":"dd37033a7365197e5312bf6af9d3b57a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082777,
+            "localadmin_id":404519143,
             "locality_id":85974545,
             "neighbourhood_id":85821583,
             "region_id":85688563,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":873721029,
-    "wof:lastmodified":1466666786,
+    "wof:lastmodified":1491893209,
     "wof:name":"H M S",
     "wof:parent_id":85821583,
     "wof:placetype":"venue",

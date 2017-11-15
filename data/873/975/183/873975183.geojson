@@ -2,14 +2,20 @@
   "id": 873975183,
   "type": "Feature",
   "properties": {
+    "addr:full":"212 Bellevue Blvd N Bellevue NE 68005",
+    "addr:housenumber":"212",
+    "addr:postcode":"68005",
+    "addr:street":"Bellevue Blvd N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.911668,41.162698,-95.911668,41.162698",
     "geom:latitude":41.162698,
     "geom:longitude":-95.911668,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"212 Bellevue Blvd N",
     "sg:city":"Bellevue",
     "sg:classifiers":[],
@@ -22,23 +28,28 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688563,
+        85804025,
+        102191575,
+        404519143,
         85633793,
         85974545,
         102082777,
-        85804025
+        85688563
     ],
+    "wof:brand_id":1125151871,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7GSkpNWYNbhdPWn3dZjFZb_41.162698_-95.911668@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464302197,
-    "wof:geomhash":"1d2eacc86e43355af340c22a35d3552a",
+    "wof:geomhash":"7aaa6ab43f8e37ceae5e913f593525f2",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082777,
+            "localadmin_id":404519143,
             "locality_id":85974545,
             "neighbourhood_id":85804025,
             "region_id":85688563,
@@ -46,7 +57,7 @@
         }
     ],
     "wof:id":873975183,
-    "wof:lastmodified":1466669562,
+    "wof:lastmodified":1510698679,
     "wof:name":"Amsoil Synthetic Lubricants",
     "wof:parent_id":85804025,
     "wof:placetype":"venue",

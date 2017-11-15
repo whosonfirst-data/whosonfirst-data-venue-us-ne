@@ -2,6 +2,10 @@
   "id": 873886931,
   "type": "Feature",
   "properties": {
+    "addr:full":"1001 Galloway Cir Lincoln NE 68512",
+    "addr:housenumber":"1001",
+    "addr:postcode":"68512",
+    "addr:street":"Galloway Cir",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":873886931,
-    "wof:lastmodified":1466668260,
+    "wof:lastmodified":1472634003,
     "wof:name":"Woods Park Tire & Auto Service",
     "wof:parent_id":85878709,
     "wof:placetype":"venue",

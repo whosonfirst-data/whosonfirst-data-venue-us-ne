@@ -2,6 +2,10 @@
   "id": 203020185,
   "type": "Feature",
   "properties": {
+    "addr:full":"1623 Farnam St Ste 830 Omaha NE 68102",
+    "addr:housenumber":"1623",
+    "addr:postcode":"68102",
+    "addr:street":"Farnam St Ste 830",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":203020185,
-    "wof:lastmodified":1466665662,
+    "wof:lastmodified":1472633872,
     "wof:name":"Farnam Group Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

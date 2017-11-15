@@ -2,14 +2,20 @@
   "id": 873978177,
   "type": "Feature",
   "properties": {
+    "addr:full":"937 S 13th St Lincoln NE 68508",
+    "addr:housenumber":"937",
+    "addr:postcode":"68508",
+    "addr:street":"S 13Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.703018,40.803979,-96.703018,40.803979",
     "geom:latitude":40.803979,
     "geom:longitude":-96.703018,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"937 S 13th St",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -39,13 +45,14 @@
         102083503,
         85688563
     ],
+    "wof:brand_id":1125156297,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_34MkAk8cyZcxifeK4Oo1ps_40.804051_-96.702792@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464302303,
-    "wof:geomhash":"e69854b284978e2e8e7d86f66ad228ca",
+    "wof:geomhash":"7e2b09425f73eb5e712359372ffbcf95",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,7 +66,7 @@
         }
     ],
     "wof:id":873978177,
-    "wof:lastmodified":1466669590,
+    "wof:lastmodified":1510695374,
     "wof:name":"Runza",
     "wof:parent_id":85878705,
     "wof:placetype":"venue",

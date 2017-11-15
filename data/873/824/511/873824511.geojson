@@ -2,6 +2,10 @@
   "id": 873824511,
   "type": "Feature",
   "properties": {
+    "addr:full":"1300 Military Rd Lincoln NE 68508",
+    "addr:housenumber":"1300",
+    "addr:postcode":"68508",
+    "addr:street":"Military Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":873824511,
-    "wof:lastmodified":1466667581,
+    "wof:lastmodified":1472633941,
     "wof:name":"Military Nebraska Department",
     "wof:parent_id":85878731,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 873871549,
   "type": "Feature",
   "properties": {
+    "addr:full":"1111 Lincoln Mall Lincoln NE 68508",
+    "addr:housenumber":"1111",
+    "addr:postcode":"68508",
+    "addr:street":"Lincoln Mall",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":873871549,
-    "wof:lastmodified":1466668048,
+    "wof:lastmodified":1472633979,
     "wof:name":"Olsson Associates",
     "wof:parent_id":85878699,
     "wof:placetype":"venue",

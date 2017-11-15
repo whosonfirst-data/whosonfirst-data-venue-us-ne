@@ -2,9 +2,14 @@
   "id": 203048979,
   "type": "Feature",
   "properties": {
+    "addr:full":"4970 NW Radial Hwy Side Omaha NE 68104",
+    "addr:housenumber":"4970",
+    "addr:postcode":"68104",
+    "addr:street":"Nw Radial Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.989403,41.281502,-95.989403,41.281502",
     "geom:latitude":41.281502,
     "geom:longitude":-95.989403,
@@ -34,11 +39,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688563,
+        85872535,
+        102191575,
+        404518711,
         85633793,
         85973483,
         102082789,
-        85872535
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,9 +55,10 @@
     "wof:geomhash":"e3bab31a9932812813323285ba63f007",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082789,
+            "localadmin_id":404518711,
             "locality_id":85973483,
             "neighbourhood_id":85872535,
             "region_id":85688563,
@@ -58,7 +66,7 @@
         }
     ],
     "wof:id":203048979,
-    "wof:lastmodified":1466665897,
+    "wof:lastmodified":1491888419,
     "wof:name":"Walter Kit DVM",
     "wof:parent_id":85872535,
     "wof:placetype":"venue",

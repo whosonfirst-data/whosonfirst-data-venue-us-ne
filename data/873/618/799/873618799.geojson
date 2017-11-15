@@ -2,6 +2,10 @@
   "id": 873618799,
   "type": "Feature",
   "properties": {
+    "addr:full":"1111 N 27th St Lincoln NE 68503",
+    "addr:housenumber":"1111",
+    "addr:postcode":"68503",
+    "addr:street":"N 27Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":873618799,
-    "wof:lastmodified":1466666139,
+    "wof:lastmodified":1472633835,
     "wof:name":"Alps 23",
     "wof:parent_id":85878723,
     "wof:placetype":"venue",

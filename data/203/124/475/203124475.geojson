@@ -2,6 +2,10 @@
   "id": 203124475,
   "type": "Feature",
   "properties": {
+    "addr:full":"2464 Harney St Apt 48 Omaha NE 68131",
+    "addr:housenumber":"2464;48",
+    "addr:postcode":"68131",
+    "addr:street":"Harney St Apt",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":203124475,
-    "wof:lastmodified":1466666319,
+    "wof:lastmodified":1472633922,
     "wof:name":"Matt Gatewood Custom Wood",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 873842005,
   "type": "Feature",
   "properties": {
+    "addr:full":"555 S 70th St Lincoln NE 68510",
+    "addr:housenumber":"555",
+    "addr:postcode":"68510",
+    "addr:street":"S 70Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":873842005,
-    "wof:lastmodified":1466667677,
+    "wof:lastmodified":1472633951,
     "wof:name":"St Elizabeth Emergency Phys",
     "wof:parent_id":85878703,
     "wof:placetype":"venue",

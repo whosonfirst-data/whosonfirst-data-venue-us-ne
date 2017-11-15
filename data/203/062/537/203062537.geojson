@@ -2,9 +2,14 @@
   "id": 203062537,
   "type": "Feature",
   "properties": {
+    "addr:full":"5423 Poppleton Ave Omaha NE 68106",
+    "addr:housenumber":"",
+    "addr:postcode":"5423;68106",
+    "addr:street":"Poppleton Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.996901,41.246863,-95.996901,41.246863",
     "geom:latitude":41.246863,
     "geom:longitude":-95.996901,
@@ -25,11 +30,13 @@
     "sg:province":"NE",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688563,
+        85867059,
+        102191575,
+        404518711,
         85633793,
         85973483,
         102082789,
-        85867059
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,9 +46,10 @@
     "wof:geomhash":"7d9a4bd410a7a2c3ba37cad6d105b897",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082789,
+            "localadmin_id":404518711,
             "locality_id":85973483,
             "neighbourhood_id":85867059,
             "region_id":85688563,
@@ -49,7 +57,7 @@
         }
     ],
     "wof:id":203062537,
-    "wof:lastmodified":1466665973,
+    "wof:lastmodified":1491920590,
     "wof:name":"Smeall Aaron PC Llo",
     "wof:parent_id":85867059,
     "wof:placetype":"venue",

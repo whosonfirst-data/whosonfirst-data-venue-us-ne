@@ -2,6 +2,10 @@
   "id": 203013091,
   "type": "Feature",
   "properties": {
+    "addr:full":"2027 Dodge St Ste 501 Omaha NE 68102",
+    "addr:housenumber":"2027",
+    "addr:postcode":"ste;68102",
+    "addr:street":"Dodge St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":203013091,
-    "wof:lastmodified":1466665622,
+    "wof:lastmodified":1472633771,
     "wof:name":"Olson Steven J Atty",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

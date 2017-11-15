@@ -2,9 +2,14 @@
   "id": 873866657,
   "type": "Feature",
   "properties": {
+    "addr:full":"1501 Thurston Ave Bellevue NE 68123",
+    "addr:housenumber":"1501",
+    "addr:postcode":"68123",
+    "addr:street":"Thurston Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.934504,41.161833,-95.934504,41.161833",
     "geom:latitude":41.161833,
     "geom:longitude":-95.934504,
@@ -25,11 +30,13 @@
     "sg:province":"NE",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688563,
+        85821583,
+        102191575,
+        404519143,
         85633793,
         85974545,
         102082777,
-        85821583
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,8 +47,10 @@
     "wof:geomhash":"72a2a1120f0eb353eb1a798a1fbac61e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082777,
+            "localadmin_id":404519143,
             "locality_id":85974545,
             "neighbourhood_id":85821583,
             "region_id":85688563,
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":873866657,
-    "wof:lastmodified":1466668014,
+    "wof:lastmodified":1491893183,
     "wof:name":"Bellevue West Sr High",
     "wof:parent_id":85821583,
     "wof:placetype":"venue",

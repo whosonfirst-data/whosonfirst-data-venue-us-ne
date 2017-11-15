@@ -2,6 +2,10 @@
   "id": 873898169,
   "type": "Feature",
   "properties": {
+    "addr:full":"4001 N 23rd St Lincoln NE 68521",
+    "addr:housenumber":"4001",
+    "addr:postcode":"68521",
+    "addr:street":"N 23Rd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":873898169,
-    "wof:lastmodified":1466668290,
+    "wof:lastmodified":1472634010,
     "wof:name":"Moo's Bath & Weeds",
     "wof:parent_id":85878721,
     "wof:placetype":"venue",

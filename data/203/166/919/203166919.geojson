@@ -2,6 +2,10 @@
   "id": 203166919,
   "type": "Feature",
   "properties": {
+    "addr:full":"1401 O St Ste 2001 Lincoln NE 68508",
+    "addr:housenumber":"1401;2001",
+    "addr:postcode":"68508",
+    "addr:street":"O St Ste",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":203166919,
-    "wof:lastmodified":1466666562,
+    "wof:lastmodified":1472633928,
     "wof:name":"R & D Micro Inc",
     "wof:parent_id":85878699,
     "wof:placetype":"venue",

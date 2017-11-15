@@ -2,6 +2,10 @@
   "id": 873961565,
   "type": "Feature",
   "properties": {
+    "addr:full":"123 S 84th St Lincoln NE 68510",
+    "addr:housenumber":"123",
+    "addr:postcode":"68510",
+    "addr:street":"S 84Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":873961565,
-    "wof:lastmodified":1466669390,
+    "wof:lastmodified":1472634096,
     "wof:name":"H H Harney Inc",
     "wof:parent_id":85878725,
     "wof:placetype":"venue",

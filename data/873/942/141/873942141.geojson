@@ -2,9 +2,14 @@
   "id": 873942141,
   "type": "Feature",
   "properties": {
+    "addr:full":"801 W Avery Rd Bellevue NE 68123",
+    "addr:housenumber":"801",
+    "addr:postcode":"68123",
+    "addr:street":"W Avery Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.929026,41.164339,-95.929026,41.164339",
     "geom:latitude":41.164339,
     "geom:longitude":-95.929026,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688563,
+        85804025,
+        102191575,
+        404519143,
         85633793,
         85974545,
         102082777,
-        85804025
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,8 +51,10 @@
     "wof:geomhash":"4e2e1de507344f8c65df1cd4882e8f9f",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082777,
+            "localadmin_id":404519143,
             "locality_id":85974545,
             "neighbourhood_id":85804025,
             "region_id":85688563,
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":873942141,
-    "wof:lastmodified":1466668793,
+    "wof:lastmodified":1491931308,
     "wof:name":"Avery Storage",
     "wof:parent_id":85804025,
     "wof:placetype":"venue",

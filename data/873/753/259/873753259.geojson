@@ -2,14 +2,20 @@
   "id": 873753259,
   "type": "Feature",
   "properties": {
+    "addr:full":"2510 Randolph St Lincoln NE 68510",
+    "addr:housenumber":"2510",
+    "addr:postcode":"68510",
+    "addr:street":"Randolph St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.684297,40.806291,-96.684297,40.806291",
     "geom:latitude":40.806291,
     "geom:longitude":-96.684297,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2510 Randolph St",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102083503,
         85688563
     ],
+    "wof:brand_id":420575761,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2f0Vf9dnaPz0N5xQXRn1hq_40.806291_-96.684297@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464297122,
-    "wof:geomhash":"169ef6a73e195bc0a54136d2354771ee",
+    "wof:geomhash":"4137daf8bc77436d2c4d17a301a22a7e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":873753259,
-    "wof:lastmodified":1466667018,
+    "wof:lastmodified":1510602958,
     "wof:name":"Labor Ready",
     "wof:parent_id":85878727,
     "wof:placetype":"venue",

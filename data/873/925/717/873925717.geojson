@@ -2,9 +2,14 @@
   "id": 873925717,
   "type": "Feature",
   "properties": {
+    "addr:full":"1003 Lincoln Rd Bellevue NE 68005",
+    "addr:housenumber":"1003",
+    "addr:postcode":"68005",
+    "addr:street":"Lincoln Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.907945,41.150708,-95.907945,41.150708",
     "geom:latitude":41.150708,
     "geom:longitude":-95.907945,
@@ -26,11 +31,13 @@
     "sg:website":"www.bellevuelibrary.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688563,
+        85804025,
+        102191575,
+        404519143,
         85633793,
         85974545,
         102082777,
-        85804025
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +48,10 @@
     "wof:geomhash":"a09d0f9c1370536e3bb82d6a4a467bfc",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082777,
+            "localadmin_id":404519143,
             "locality_id":85974545,
             "neighbourhood_id":85804025,
             "region_id":85688563,
@@ -50,7 +59,7 @@
         }
     ],
     "wof:id":873925717,
-    "wof:lastmodified":1466668663,
+    "wof:lastmodified":1491931312,
     "wof:name":"Bellevue Public Library",
     "wof:parent_id":85804025,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 873778295,
   "type": "Feature",
   "properties": {
+    "addr:full":"1001 Limerick Rd Papillion NE 68046",
+    "addr:housenumber":"1001",
+    "addr:postcode":"68046",
+    "addr:street":"Limerick Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":873778295,
-    "wof:lastmodified":1466667196,
+    "wof:lastmodified":1472633883,
     "wof:name":"Papillion Senior Citizens Ctr",
     "wof:parent_id":85843697,
     "wof:placetype":"venue",

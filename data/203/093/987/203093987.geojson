@@ -2,6 +2,10 @@
   "id": 203093987,
   "type": "Feature",
   "properties": {
+    "addr:full":"8001 Northridge Dr Omaha NE 68112",
+    "addr:housenumber":"8001",
+    "addr:postcode":"68112",
+    "addr:street":"Northridge Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":203093987,
-    "wof:lastmodified":1466666146,
+    "wof:lastmodified":1472633920,
     "wof:name":"AAA Locksmith 24 Hour",
     "wof:parent_id":85813863,
     "wof:placetype":"venue",

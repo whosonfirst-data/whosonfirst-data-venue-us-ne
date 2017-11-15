@@ -2,9 +2,14 @@
   "id": 873947483,
   "type": "Feature",
   "properties": {
+    "addr:full":"11792 S 25th St Bellevue NE 68123",
+    "addr:housenumber":"11792",
+    "addr:postcode":"68123",
+    "addr:street":"S 25Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.946296,41.13448,-95.946296,41.13448",
     "geom:latitude":41.13448,
     "geom:longitude":-95.946296,
@@ -30,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688563,
+        85821583,
+        102191575,
+        404519143,
         85633793,
         85974545,
         102082777,
-        85821583
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,8 +52,10 @@
     "wof:geomhash":"356e6d30d152df298d49ea6d35232935",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082777,
+            "localadmin_id":404519143,
             "locality_id":85974545,
             "neighbourhood_id":85821583,
             "region_id":85688563,
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":873947483,
-    "wof:lastmodified":1466668950,
+    "wof:lastmodified":1491893200,
     "wof:name":"Pampered Pet Spa",
     "wof:parent_id":85821583,
     "wof:placetype":"venue",

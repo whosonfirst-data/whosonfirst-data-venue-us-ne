@@ -2,9 +2,14 @@
   "id": 873771463,
   "type": "Feature",
   "properties": {
+    "addr:full":"435 Galvin Rd N Bellevue NE 68005",
+    "addr:housenumber":"435",
+    "addr:postcode":"68005",
+    "addr:street":"Galvin Rd N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.923431,41.164988,-95.923431,41.164988",
     "geom:latitude":41.164988,
     "geom:longitude":-95.923431,
@@ -25,11 +30,13 @@
     "sg:province":"NE",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688563,
+        85804025,
+        102191575,
+        404519143,
         85633793,
         85974545,
         102082777,
-        85804025
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,8 +47,10 @@
     "wof:geomhash":"d29a85be060707c35cc103ab56eb420c",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082777,
+            "localadmin_id":404519143,
             "locality_id":85974545,
             "neighbourhood_id":85804025,
             "region_id":85688563,
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":873771463,
-    "wof:lastmodified":1466667143,
+    "wof:lastmodified":1491931304,
     "wof:name":"D & F Sportscards",
     "wof:parent_id":85804025,
     "wof:placetype":"venue",

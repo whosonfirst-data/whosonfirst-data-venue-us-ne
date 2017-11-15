@@ -2,14 +2,20 @@
   "id": 873978117,
   "type": "Feature",
   "properties": {
+    "addr:full":"505 N 27th St Lincoln NE 68503",
+    "addr:housenumber":"505",
+    "addr:postcode":"68503",
+    "addr:street":"N 27Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.68239,40.817945,-96.68239,40.817945",
     "geom:latitude":40.817945,
     "geom:longitude":-96.68239,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"505 N 27th St",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102083503,
         85688563
     ],
+    "wof:brand_id":1125152509,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Pm3OxPrWUvXVApWm1mQTH_40.818046_-96.682461@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464302301,
-    "wof:geomhash":"9d46146a24589ec5b169caa34c3ffe6c",
+    "wof:geomhash":"af7fa63242af0c038a9819df1a3cfd05",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":873978117,
-    "wof:lastmodified":1466669581,
+    "wof:lastmodified":1510697063,
     "wof:name":"Wing Zone",
     "wof:parent_id":85878723,
     "wof:placetype":"venue",

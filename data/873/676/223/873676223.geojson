@@ -2,9 +2,14 @@
   "id": 873676223,
   "type": "Feature",
   "properties": {
+    "addr:full":"1406 Childs Rd E Bellevue NE 68005",
+    "addr:housenumber":"1406",
+    "addr:postcode":"68005",
+    "addr:street":"Childs Rd E",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.911898,41.175169,-95.911898,41.175169",
     "geom:latitude":41.175169,
     "geom:longitude":-95.911898,
@@ -30,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688563,
+        85804025,
+        102191575,
+        404519143,
         85633793,
         85974545,
         102082777,
-        85804025
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,8 +52,10 @@
     "wof:geomhash":"3bc54dddc41157eddd5c57a6411f8d9e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082777,
+            "localadmin_id":404519143,
             "locality_id":85974545,
             "neighbourhood_id":85804025,
             "region_id":85688563,
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":873676223,
-    "wof:lastmodified":1466666498,
+    "wof:lastmodified":1491931307,
     "wof:name":"Advanced Carpet Cleaning",
     "wof:parent_id":85804025,
     "wof:placetype":"venue",

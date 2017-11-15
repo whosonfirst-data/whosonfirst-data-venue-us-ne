@@ -2,9 +2,14 @@
   "id": 873931089,
   "type": "Feature",
   "properties": {
+    "addr:full":"1805 Lloyd St Bellevue NE 68005",
+    "addr:housenumber":"1805",
+    "addr:postcode":"68005",
+    "addr:street":"Lloyd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.918125,41.148489,-95.918125,41.148489",
     "geom:latitude":41.148489,
     "geom:longitude":-95.918125,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688563,
+        85821583,
+        102191575,
+        404519143,
         85633793,
         85974545,
         102082777,
-        85821583
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,8 +50,10 @@
     "wof:geomhash":"ec253dbe4cc956a81843013c6318dd26",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082777,
+            "localadmin_id":404519143,
             "locality_id":85974545,
             "neighbourhood_id":85821583,
             "region_id":85688563,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":873931089,
-    "wof:lastmodified":1466668642,
+    "wof:lastmodified":1491893158,
     "wof:name":"Riviera Apartments",
     "wof:parent_id":85821583,
     "wof:placetype":"venue",

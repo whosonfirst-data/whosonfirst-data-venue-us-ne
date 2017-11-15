@@ -2,6 +2,10 @@
   "id": 873539999,
   "type": "Feature",
   "properties": {
+    "addr:full":"1281 S Cotner Blvd Lincoln NE 68510",
+    "addr:housenumber":"1281",
+    "addr:postcode":"68510",
+    "addr:street":"S Cotner Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":873539999,
-    "wof:lastmodified":1466665648,
+    "wof:lastmodified":1472633837,
     "wof:name":"Coinery",
     "wof:parent_id":85878683,
     "wof:placetype":"venue",

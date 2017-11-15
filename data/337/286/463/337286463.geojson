@@ -2,6 +2,10 @@
   "id": 337286463,
   "type": "Feature",
   "properties": {
+    "addr:full":"345 Riverfront Dr Omaha NE 68102",
+    "addr:housenumber":"345",
+    "addr:postcode":"68102",
+    "addr:street":"Riverfront Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":337286463,
-    "wof:lastmodified":1466665578,
+    "wof:lastmodified":1472633739,
     "wof:name":"Rick's Cafe Boatyard",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

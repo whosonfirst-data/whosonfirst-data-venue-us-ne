@@ -2,9 +2,14 @@
   "id": 203047995,
   "type": "Feature",
   "properties": {
+    "addr:full":"5105 Bedford Ave Omaha NE 68104",
+    "addr:housenumber":"5105",
+    "addr:postcode":"68104",
+    "addr:street":"Bedford Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.9935,41.288601,-95.9935,41.288601",
     "geom:latitude":41.288601,
     "geom:longitude":-95.9935,
@@ -31,11 +36,13 @@
     "sg:website":"www.ops.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688563,
+        85872535,
+        102191575,
+        404518711,
         85633793,
         85973483,
         102082789,
-        85872535
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,9 +52,10 @@
     "wof:geomhash":"4e05b3c4bf246533439bce4cd6a5cb6e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082789,
+            "localadmin_id":404518711,
             "locality_id":85973483,
             "neighbourhood_id":85872535,
             "region_id":85688563,
@@ -55,7 +63,7 @@
         }
     ],
     "wof:id":203047995,
-    "wof:lastmodified":1466665896,
+    "wof:lastmodified":1491888410,
     "wof:name":"Monroe Middle School",
     "wof:parent_id":85872535,
     "wof:placetype":"venue",

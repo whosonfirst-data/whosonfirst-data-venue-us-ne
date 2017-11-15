@@ -2,6 +2,10 @@
   "id": 873562123,
   "type": "Feature",
   "properties": {
+    "addr:full":"3322 Starr St Lincoln NE 68503",
+    "addr:housenumber":"3322",
+    "addr:postcode":"68503",
+    "addr:street":"Starr St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":873562123,
-    "wof:lastmodified":1466665729,
+    "wof:lastmodified":1472633845,
     "wof:name":"Haucks Billiard Supply",
     "wof:parent_id":85878701,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 203116027,
   "type": "Feature",
   "properties": {
+    "addr:full":"8155 L St Omaha NE 68127",
+    "addr:housenumber":"8155",
+    "addr:postcode":"68127",
+    "addr:street":"L St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.041403,41.212591,-96.041403,41.212591",
     "geom:latitude":41.212591,
     "geom:longitude":-96.041403,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8155 L St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -35,12 +41,13 @@
         85973483,
         102082789
     ],
+    "wof:brand_id":1125154025,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1R2IDdyIumDt7luVHNrR3v_41.212591_-96.041403@1303262942"
     },
     "wof:country":"US",
-    "wof:geomhash":"e9d49a90750581168c596d5e9b1b6abd",
+    "wof:geomhash":"f0931f532f7a3044bd2b520eb5b01fc0",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":203116027,
-    "wof:lastmodified":1466666278,
+    "wof:lastmodified":1510697396,
     "wof:name":"American National Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

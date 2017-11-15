@@ -2,14 +2,20 @@
   "id": 873952945,
   "type": "Feature",
   "properties": {
+    "addr:full":"3045 N 70th St Lincoln NE 68507",
+    "addr:housenumber":"3045",
+    "addr:postcode":"68507",
+    "addr:street":"N 70Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.624983,40.843303,-96.624983,40.843303",
     "geom:latitude":40.843303,
     "geom:longitude":-96.624983,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3045 N 70th St",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102083503,
         85824241
     ],
+    "wof:brand_id":420575383,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Ys6QiEmouO6wr12rwU92d_40.843303_-96.624983@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464301265,
-    "wof:geomhash":"5c3a5d513419c0b48f99968cf471e13d",
+    "wof:geomhash":"d4b8415dac4f3b08f4efd372e7acf0a9",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":873952945,
-    "wof:lastmodified":1466669234,
+    "wof:lastmodified":1510602532,
     "wof:name":"Bank Of The West",
     "wof:parent_id":85824241,
     "wof:placetype":"venue",

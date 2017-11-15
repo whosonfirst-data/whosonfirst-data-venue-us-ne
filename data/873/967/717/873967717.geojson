@@ -2,6 +2,10 @@
   "id": 873967717,
   "type": "Feature",
   "properties": {
+    "addr:full":"2222 Cuming St Omaha NE 68102",
+    "addr:housenumber":"2222",
+    "addr:postcode":"68102",
+    "addr:street":"Cuming St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":873967717,
-    "wof:lastmodified":1466669484,
+    "wof:lastmodified":1472634111,
     "wof:name":"Shared Mobility Coach",
     "wof:parent_id":85872525,
     "wof:placetype":"venue",

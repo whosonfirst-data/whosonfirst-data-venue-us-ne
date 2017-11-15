@@ -2,6 +2,10 @@
   "id": 873950163,
   "type": "Feature",
   "properties": {
+    "addr:full":"13254 Stevens St Omaha NE 68137",
+    "addr:housenumber":"13254",
+    "addr:postcode":"68137",
+    "addr:street":"Stevens St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":873950163,
-    "wof:lastmodified":1466669014,
+    "wof:lastmodified":1472634059,
     "wof:name":"Business By Phone",
     "wof:parent_id":85872531,
     "wof:placetype":"venue",

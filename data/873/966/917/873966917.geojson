@@ -2,9 +2,14 @@
   "id": 873966917,
   "type": "Feature",
   "properties": {
+    "addr:full":"1759 R St NW Washington NE 68068",
+    "addr:housenumber":"1759",
+    "addr:postcode":"68068",
+    "addr:street":"R St Nw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.040866,38.912864,-77.040866,38.912864",
     "geom:latitude":38.912864,
     "geom:longitude":-77.040866,
@@ -30,12 +35,13 @@
     "sg:website":"www.aicr.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688741,
+        85866031,
         102191575,
+        1108723661,
         85633793,
         85931779,
         102084889,
-        85866031
+        85688741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,13 +56,14 @@
             "country_id":85633793,
             "county_id":102084889,
             "locality_id":85931779,
+            "macrohood_id":1108723661,
             "neighbourhood_id":85866031,
             "region_id":85688741,
             "venue_id":873966917
         }
     ],
     "wof:id":873966917,
-    "wof:lastmodified":1466669536,
+    "wof:lastmodified":1490401863,
     "wof:name":"American Institute For Cancer Research",
     "wof:parent_id":85866031,
     "wof:placetype":"venue",

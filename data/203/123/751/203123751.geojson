@@ -2,6 +2,10 @@
   "id": 203123751,
   "type": "Feature",
   "properties": {
+    "addr:full":"4242 Farnam St Ste 270 Omaha NE 68131",
+    "addr:housenumber":"4242",
+    "addr:postcode":"68131",
+    "addr:street":"Farnam St Ste 270",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":203123751,
-    "wof:lastmodified":1466666318,
+    "wof:lastmodified":1472633921,
     "wof:name":"Simply Well",
     "wof:parent_id":85872523,
     "wof:placetype":"venue",

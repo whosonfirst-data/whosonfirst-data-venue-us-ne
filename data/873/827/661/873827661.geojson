@@ -2,6 +2,10 @@
   "id": 873827661,
   "type": "Feature",
   "properties": {
+    "addr:full":"225 N Cotner Blvd Lincoln NE 68505",
+    "addr:housenumber":"225",
+    "addr:postcode":"68505",
+    "addr:street":"N Cotner Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":873827661,
-    "wof:lastmodified":1466667623,
+    "wof:lastmodified":1472633946,
     "wof:name":"Steve Reed",
     "wof:parent_id":85878703,
     "wof:placetype":"venue",

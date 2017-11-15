@@ -2,9 +2,14 @@
   "id": 203115641,
   "type": "Feature",
   "properties": {
+    "addr:full":"8998 L St Omaha NE 68127",
+    "addr:housenumber":"8998",
+    "addr:postcode":"68127",
+    "addr:street":"L St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.052551,41.21323,-96.052551,41.21323",
     "geom:latitude":41.21323,
     "geom:longitude":-96.052551,
@@ -30,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688563,
+        85872511,
+        102191575,
+        404518711,
         85633793,
         85973483,
         102082789,
-        85872511
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +51,10 @@
     "wof:geomhash":"05dde90df35abd77c0279354edddb546",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082789,
+            "localadmin_id":404518711,
             "locality_id":85973483,
             "neighbourhood_id":85872511,
             "region_id":85688563,
@@ -54,7 +62,7 @@
         }
     ],
     "wof:id":203115641,
-    "wof:lastmodified":1466666286,
+    "wof:lastmodified":1491885179,
     "wof:name":"Cybersys",
     "wof:parent_id":85872511,
     "wof:placetype":"venue",

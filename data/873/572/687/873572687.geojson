@@ -2,6 +2,10 @@
   "id": 873572687,
   "type": "Feature",
   "properties": {
+    "addr:full":"1010 N St Lincoln NE 68508",
+    "addr:housenumber":"1010",
+    "addr:postcode":"68508",
+    "addr:street":"N St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":873572687,
-    "wof:lastmodified":1466665824,
+    "wof:lastmodified":1472633759,
     "wof:name":"Unemployment Insurance Office",
     "wof:parent_id":85878699,
     "wof:placetype":"venue",

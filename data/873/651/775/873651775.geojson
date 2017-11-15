@@ -2,6 +2,10 @@
   "id": 873651775,
   "type": "Feature",
   "properties": {
+    "addr:full":"2300 W Adams St Lincoln NE 68524",
+    "addr:housenumber":"2300",
+    "addr:postcode":"68524",
+    "addr:street":"W Adams St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":873651775,
-    "wof:lastmodified":1466666340,
+    "wof:lastmodified":1472633822,
     "wof:name":"Standard Parking",
     "wof:parent_id":102529023,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 873957135,
   "type": "Feature",
   "properties": {
+    "addr:full":"2107 Herman Dr Bellevue NE 68005",
+    "addr:housenumber":"2107",
+    "addr:postcode":"68005",
+    "addr:street":"Herman Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.923082,41.153575,-95.923082,41.153575",
     "geom:latitude":41.153575,
     "geom:longitude":-95.923082,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2107 Herman Dr",
     "sg:city":"Bellevue",
     "sg:classifiers":[
@@ -25,23 +31,28 @@
     "sg:province":"NE",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688563,
+        85821583,
+        102191575,
+        404519143,
         85633793,
         85974545,
         102082777,
-        85821583
+        85688563
     ],
+    "wof:brand_id":1125150357,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4R4JvfuZtwWPlGvE5NpAqL_41.153575_-95.923082@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464301410,
-    "wof:geomhash":"2273187d3506d8398884385250b06348",
+    "wof:geomhash":"25fc9cfdacf2a0147892537264daee86",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082777,
+            "localadmin_id":404519143,
             "locality_id":85974545,
             "neighbourhood_id":85821583,
             "region_id":85688563,
@@ -49,7 +60,7 @@
         }
     ],
     "wof:id":873957135,
-    "wof:lastmodified":1466669074,
+    "wof:lastmodified":1510697020,
     "wof:name":"Kmart Pharmacies Inc",
     "wof:parent_id":85821583,
     "wof:placetype":"venue",

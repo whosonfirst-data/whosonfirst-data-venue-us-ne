@@ -2,6 +2,10 @@
   "id": 203097325,
   "type": "Feature",
   "properties": {
+    "addr:full":"10000 California St # 3537 Omaha NE 68114",
+    "addr:housenumber":"10000",
+    "addr:postcode":"68114",
+    "addr:street":"California St # 3537",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":203097325,
-    "wof:lastmodified":1466666159,
+    "wof:lastmodified":1472633917,
     "wof:name":"Spencer's",
     "wof:parent_id":85867061,
     "wof:placetype":"venue",

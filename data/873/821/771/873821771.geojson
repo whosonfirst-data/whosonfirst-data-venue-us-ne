@@ -2,6 +2,10 @@
   "id": 873821771,
   "type": "Feature",
   "properties": {
+    "addr:full":"11248 John Galt Blvd Omaha NE 68137",
+    "addr:housenumber":"11248",
+    "addr:postcode":"68137",
+    "addr:street":"John Galt Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":873821771,
-    "wof:lastmodified":1466667578,
+    "wof:lastmodified":1472633939,
     "wof:name":"Pickfair Fincl Info Systems",
     "wof:parent_id":85872531,
     "wof:placetype":"venue",

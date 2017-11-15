@@ -2,6 +2,10 @@
   "id": 873970295,
   "type": "Feature",
   "properties": {
+    "addr:full":"2340 Paul St Omaha NE 68102",
+    "addr:housenumber":"2340",
+    "addr:postcode":"68102",
+    "addr:street":"Paul St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":873970295,
-    "wof:lastmodified":1466669420,
+    "wof:lastmodified":1472634113,
     "wof:name":"Jobosh II",
     "wof:parent_id":85872525,
     "wof:placetype":"venue",

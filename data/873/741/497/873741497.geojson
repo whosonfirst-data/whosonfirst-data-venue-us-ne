@@ -2,6 +2,10 @@
   "id": 873741497,
   "type": "Feature",
   "properties": {
+    "addr:full":"600 W Cornhusker Hwy Lincoln NE 68521",
+    "addr:housenumber":"600",
+    "addr:postcode":"68521",
+    "addr:street":"W Cornhusker Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":873741497,
-    "wof:lastmodified":1466666948,
+    "wof:lastmodified":1472633839,
     "wof:name":"Nebraska Concrete & Aggregates",
     "wof:parent_id":85892215,
     "wof:placetype":"venue",

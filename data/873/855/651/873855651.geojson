@@ -2,9 +2,14 @@
   "id": 873855651,
   "type": "Feature",
   "properties": {
+    "addr:full":"3403 W Van Dorn St Lincoln NE 68522",
+    "addr:housenumber":"3403",
+    "addr:postcode":"68522",
+    "addr:street":"W Van Dorn St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.778027,40.784639,-96.778027,40.784639",
     "geom:latitude":40.784639,
     "geom:longitude":-96.778027,
@@ -34,7 +39,8 @@
         85633793,
         85973555,
         102083503,
-        85688563
+        85688563,
+        85813295
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,12 +59,19 @@
             "neighbourhood_id":85878743,
             "region_id":85688563,
             "venue_id":873855651
+        },
+        {
+            "country_id":85633793,
+            "county_id":102083503,
+            "neighbourhood_id":85813295,
+            "region_id":85688563,
+            "venue_id":873855651
         }
     ],
     "wof:id":873855651,
-    "wof:lastmodified":1466667915,
+    "wof:lastmodified":1491902357,
     "wof:name":"Pioneers Golf Course",
-    "wof:parent_id":85878743,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],

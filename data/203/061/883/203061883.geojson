@@ -2,14 +2,20 @@
   "id": 203061883,
   "type": "Feature",
   "properties": {
+    "addr:full":"4837 Woolworth Ave Omaha NE 68106",
+    "addr:housenumber":"",
+    "addr:postcode":"4837;68106",
+    "addr:street":"Woolworth Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.985802,41.244801,-95.985802,41.244801",
     "geom:latitude":41.244801,
     "geom:longitude":-95.985802,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4837 Woolworth Ave",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -36,12 +42,13 @@
         102082789,
         85872523
     ],
+    "wof:brand_id":1125159011,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6jeBx5cHVMUqjCNZJYr4Ni_41.244801_-95.985802@1303262941"
     },
     "wof:country":"US",
-    "wof:geomhash":"d38b27d83c70355e0db5481a8a749af7",
+    "wof:geomhash":"b9b3c3124845301b16330f07a191aa2d",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":203061883,
-    "wof:lastmodified":1466665972,
+    "wof:lastmodified":1510696616,
     "wof:name":"Holy Cross Catholic Church",
     "wof:parent_id":85872523,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 873543953,
   "type": "Feature",
   "properties": {
+    "addr:full":"13434 Taylor St Omaha NE 68164",
+    "addr:housenumber":"13434",
+    "addr:postcode":"68164",
+    "addr:street":"Taylor St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":873543953,
-    "wof:lastmodified":1466665667,
+    "wof:lastmodified":1472633849,
     "wof:name":"Guild Communications",
     "wof:parent_id":85872503,
     "wof:placetype":"venue",

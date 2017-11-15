@@ -2,14 +2,20 @@
   "id": 873782605,
   "type": "Feature",
   "properties": {
+    "addr:full":"4638 S 132nd St Omaha NE 68137",
+    "addr:housenumber":"4638",
+    "addr:postcode":"68137",
+    "addr:street":"S 132Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.119606,41.213679,-96.119606,41.213679",
     "geom:latitude":41.213679,
     "geom:longitude":-96.119606,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4638 S 132nd St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102082789,
         85688563
     ],
+    "wof:brand_id":1125153947,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6i3J24gVR5L6MzrUiNDub8_41.213679_-96.119606@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464297525,
-    "wof:geomhash":"676107f58b147ae9096f791dafa595fc",
+    "wof:geomhash":"2685c1a06380ce593aec546951803926",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":873782605,
-    "wof:lastmodified":1466667236,
+    "wof:lastmodified":1510695229,
     "wof:name":"Decision One",
     "wof:parent_id":85872531,
     "wof:placetype":"venue",

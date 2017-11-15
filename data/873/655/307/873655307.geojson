@@ -2,6 +2,10 @@
   "id": 873655307,
   "type": "Feature",
   "properties": {
+    "addr:full":"12555 Krug Ave Omaha NE 68144",
+    "addr:housenumber":"",
+    "addr:postcode":"12555;68144",
+    "addr:street":"Krug Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":873655307,
-    "wof:lastmodified":1466666343,
+    "wof:lastmodified":1472633771,
     "wof:name":"Oak Vlley APT Hsing For Eldrly",
     "wof:parent_id":85872531,
     "wof:placetype":"venue",

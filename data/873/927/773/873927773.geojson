@@ -2,9 +2,14 @@
   "id": 873927773,
   "type": "Feature",
   "properties": {
+    "addr:full":"6009 Center St Omaha NE 68106",
+    "addr:housenumber":"6009",
+    "addr:postcode":"68106",
+    "addr:street":"Center St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.007144,41.237883,-96.007144,41.237883",
     "geom:latitude":41.237883,
     "geom:longitude":-96.007144,
@@ -31,13 +36,14 @@
     "sg:website":"www.sterilmfg.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85867059,
+        85872513,
         102191575,
         404518711,
         85633793,
         85973483,
         102082789,
-        85688563
+        85688563,
+        85867059
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,15 +59,25 @@
             "county_id":102082789,
             "localadmin_id":404518711,
             "locality_id":85973483,
+            "neighbourhood_id":85872513,
+            "region_id":85688563,
+            "venue_id":873927773
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
             "neighbourhood_id":85867059,
             "region_id":85688563,
             "venue_id":873927773
         }
     ],
     "wof:id":873927773,
-    "wof:lastmodified":1466668684,
+    "wof:lastmodified":1491920576,
     "wof:name":"Steril Manufacturing Co",
-    "wof:parent_id":85867059,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],

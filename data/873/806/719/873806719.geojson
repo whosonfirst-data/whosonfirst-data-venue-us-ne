@@ -2,14 +2,20 @@
   "id": 873806719,
   "type": "Feature",
   "properties": {
+    "addr:full":"8441 W Center Rd Omaha NE 68124",
+    "addr:housenumber":"8441",
+    "addr:postcode":"68124",
+    "addr:street":"W Center Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.048021,41.234184,-96.048021,41.234184",
     "geom:latitude":41.234184,
     "geom:longitude":-96.048021,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8441 W Center Rd",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102082789,
         85688563
     ],
+    "wof:brand_id":1125152101,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Zs3WmylSgFMcB24D2b5xy_41.234184_-96.048021@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464297863,
-    "wof:geomhash":"e0ba479ed13202d01840fa046e086d27",
+    "wof:geomhash":"fa74486510a70be94b2429b84fe9d3f1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":873806719,
-    "wof:lastmodified":1466667433,
+    "wof:lastmodified":1510694962,
     "wof:name":"New China Buffet",
     "wof:parent_id":85872511,
     "wof:placetype":"venue",

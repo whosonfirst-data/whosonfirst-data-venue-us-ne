@@ -2,6 +2,10 @@
   "id": 203011247,
   "type": "Feature",
   "properties": {
+    "addr:full":"1105 Howard St Ste 1 Omaha NE 68102",
+    "addr:housenumber":"1105",
+    "addr:postcode":"68102",
+    "addr:street":"Howard St Ste 1",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":203011247,
-    "wof:lastmodified":1466665602,
+    "wof:lastmodified":1472633866,
     "wof:name":"Spaghetti Works",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

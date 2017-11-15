@@ -2,9 +2,14 @@
   "id": 873851413,
   "type": "Feature",
   "properties": {
+    "addr:full":"308 Garden Ave Bellevue NE 68005",
+    "addr:housenumber":"308",
+    "addr:postcode":"68005",
+    "addr:street":"Garden Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.918468,41.142954,-95.918468,41.142954",
     "geom:latitude":41.142954,
     "geom:longitude":-95.918468,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688563,
+        85821583,
+        102191575,
+        404519143,
         85633793,
         85974545,
         102082777,
-        85821583
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,8 +50,10 @@
     "wof:geomhash":"39cd27d5088ffb567d70cb624513a9eb",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082777,
+            "localadmin_id":404519143,
             "locality_id":85974545,
             "neighbourhood_id":85821583,
             "region_id":85688563,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":873851413,
-    "wof:lastmodified":1466667841,
+    "wof:lastmodified":1491893195,
     "wof:name":"Art Chase Construction",
     "wof:parent_id":85821583,
     "wof:placetype":"venue",

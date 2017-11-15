@@ -2,6 +2,10 @@
   "id": 202993995,
   "type": "Feature",
   "properties": {
+    "addr:full":"450 N Chestnut St Ste 3 Wahoo NE 68066",
+    "addr:housenumber":"450",
+    "addr:postcode":"68066",
+    "addr:street":"N Chestnut St Ste 3",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":202993995,
-    "wof:lastmodified":1466665591,
+    "wof:lastmodified":1472633739,
     "wof:name":"The Hair Studio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

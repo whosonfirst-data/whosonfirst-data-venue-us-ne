@@ -2,6 +2,10 @@
   "id": 203150427,
   "type": "Feature",
   "properties": {
+    "addr:full":"12329 Parker Cir Omaha NE 68154",
+    "addr:housenumber":"12329",
+    "addr:postcode":"68154",
+    "addr:street":"Parker Cir",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":203150427,
-    "wof:lastmodified":1466666473,
+    "wof:lastmodified":1472633917,
     "wof:name":"Amsoil Dealer Direct Jobber",
     "wof:parent_id":85872503,
     "wof:placetype":"venue",

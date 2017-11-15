@@ -2,14 +2,20 @@
   "id": 203144653,
   "type": "Feature",
   "properties": {
+    "addr:full":"2610 S 144th St Omaha NE 68144",
+    "addr:housenumber":"2610",
+    "addr:postcode":"68144",
+    "addr:street":"S 144Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.138689,41.235609,-96.138689,41.235609",
     "geom:latitude":41.235609,
     "geom:longitude":-96.138689,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2610 S 144th St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -34,23 +40,27 @@
     "sg:website":"http://www.tiresplus.com/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688563,
+        85806957,
+        102191575,
+        404519987,
         85633793,
         85973479,
         102082789,
-        85806957
+        85688563
     ],
+    "wof:brand_id":1125150107,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4BybVaP0LD2UqXWNHj6ISs_41.235609_-96.138689@1303262943"
     },
     "wof:country":"US",
-    "wof:geomhash":"a4477325cabc79aed3f683abac39eac8",
+    "wof:geomhash":"95df6a144fb36348f57905d64e7f141c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082789,
+            "localadmin_id":404519987,
             "locality_id":85973479,
             "neighbourhood_id":85806957,
             "region_id":85688563,
@@ -58,7 +68,7 @@
         }
     ],
     "wof:id":203144653,
-    "wof:lastmodified":1466666455,
+    "wof:lastmodified":1510694630,
     "wof:name":"Tires Plus Total Car Care",
     "wof:parent_id":85806957,
     "wof:placetype":"venue",

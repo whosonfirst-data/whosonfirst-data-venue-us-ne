@@ -2,9 +2,14 @@
   "id": 873770981,
   "type": "Feature",
   "properties": {
+    "addr:full":"2204 Longo Dr Bellevue NE 68005",
+    "addr:housenumber":"2204",
+    "addr:postcode":"68005",
+    "addr:street":"Longo Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.923952,41.155841,-95.923952,41.155841",
     "geom:latitude":41.155841,
     "geom:longitude":-95.923952,
@@ -26,11 +31,13 @@
     "sg:website":"www.sacfcu.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688563,
+        85821583,
+        102191575,
+        404519143,
         85633793,
         85974545,
         102082777,
-        85821583
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,8 +48,10 @@
     "wof:geomhash":"6cef7332f41d2fb9306bd99e9fbc3385",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082777,
+            "localadmin_id":404519143,
             "locality_id":85974545,
             "neighbourhood_id":85821583,
             "region_id":85688563,
@@ -50,7 +59,7 @@
         }
     ],
     "wof:id":873770981,
-    "wof:lastmodified":1466667182,
+    "wof:lastmodified":1491893175,
     "wof:name":"SAC Federal Credit Union",
     "wof:parent_id":85821583,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 873977685,
   "type": "Feature",
   "properties": {
+    "addr:full":"816 Galvin Rd S Bellevue NE 68005",
+    "addr:housenumber":"816",
+    "addr:postcode":"68005",
+    "addr:street":"Galvin Rd S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.918252,41.153051,-95.918252,41.153051",
     "geom:latitude":41.153051,
     "geom:longitude":-95.918252,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"816 Galvin Rd S",
     "sg:city":"Bellevue",
     "sg:classifiers":[
@@ -31,23 +37,28 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688563,
+        85821583,
+        102191575,
+        404519143,
         85633793,
         85974545,
         102082777,
-        85821583
+        85688563
     ],
+    "wof:brand_id":1125156297,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1xR4g6l0Ani4Eq3Lc6sSQT_41.152607_-95.918179@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464302286,
-    "wof:geomhash":"6acfde5b1dcf7b72489c6dc27b08050b",
+    "wof:geomhash":"9c46ff05ca9a7d0d8e7a3bd584c5d4c0",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082777,
+            "localadmin_id":404519143,
             "locality_id":85974545,
             "neighbourhood_id":85821583,
             "region_id":85688563,
@@ -55,7 +66,7 @@
         }
     ],
     "wof:id":873977685,
-    "wof:lastmodified":1466669670,
+    "wof:lastmodified":1510695374,
     "wof:name":"Runza",
     "wof:parent_id":85821583,
     "wof:placetype":"venue",

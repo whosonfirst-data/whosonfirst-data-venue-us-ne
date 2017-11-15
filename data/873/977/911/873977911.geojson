@@ -2,6 +2,10 @@
   "id": 873977911,
   "type": "Feature",
   "properties": {
+    "addr:full":"4020 Dodge St Omaha NE 68131",
+    "addr:housenumber":"4020",
+    "addr:postcode":"68131",
+    "addr:street":"Dodge St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":873977911,
-    "wof:lastmodified":1466669690,
+    "wof:lastmodified":1472634128,
     "wof:name":"Subway",
     "wof:parent_id":85872525,
     "wof:placetype":"venue",

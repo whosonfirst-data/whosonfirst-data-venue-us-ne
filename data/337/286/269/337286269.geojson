@@ -2,14 +2,20 @@
   "id": 337286269,
   "type": "Feature",
   "properties": {
+    "addr:full":"11675 S 73rd St Papillion NE 68046",
+    "addr:housenumber":"11675",
+    "addr:postcode":"68046",
+    "addr:street":"S 73Rd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.024984,41.135143,-96.024984,41.135143",
     "geom:latitude":41.135143,
     "geom:longitude":-96.024984,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"11675 S 73rd St",
     "sg:city":"Papillion",
     "sg:classifiers":[
@@ -45,12 +51,13 @@
         85974551,
         102082777
     ],
+    "wof:brand_id":1125155667,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4IHX8zubtJvaf6HEzyzgNz_41.135143_-96.024984@1303262940"
     },
     "wof:country":"US",
-    "wof:geomhash":"87aff148b787c8a03d9848fce5d7a940",
+    "wof:geomhash":"9d5464248657423281a84b6a927339e7",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -63,7 +70,7 @@
         }
     ],
     "wof:id":337286269,
-    "wof:lastmodified":1466665578,
+    "wof:lastmodified":1510698984,
     "wof:name":"Red Robin Gourmet Burgers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

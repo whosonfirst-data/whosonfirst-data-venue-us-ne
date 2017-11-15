@@ -2,9 +2,14 @@
   "id": 873686553,
   "type": "Feature",
   "properties": {
+    "addr:full":"399 Sun Valley Blvd Lincoln NE 68528",
+    "addr:housenumber":"399",
+    "addr:postcode":"68528",
+    "addr:street":"Sun Valley Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.724712,40.814814,-96.724712,40.814814",
     "geom:latitude":40.814814,
     "geom:longitude":-96.724712,
@@ -29,13 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85878743,
+        85878689,
         102191575,
         404521111,
         85633793,
         85973555,
         102083503,
-        85688563
+        85688563,
+        85878743
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,15 +57,25 @@
             "county_id":102083503,
             "localadmin_id":404521111,
             "locality_id":85973555,
+            "neighbourhood_id":85878689,
+            "region_id":85688563,
+            "venue_id":873686553
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
             "neighbourhood_id":85878743,
             "region_id":85688563,
             "venue_id":873686553
         }
     ],
     "wof:id":873686553,
-    "wof:lastmodified":1466666610,
+    "wof:lastmodified":1491902356,
     "wof:name":"Big John's Billiards",
-    "wof:parent_id":85878743,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],

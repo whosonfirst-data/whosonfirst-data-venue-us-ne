@@ -2,14 +2,20 @@
   "id": 873551959,
   "type": "Feature",
   "properties": {
+    "addr:full":"10832 Old Mill Rd Omaha NE 68154",
+    "addr:housenumber":"10832",
+    "addr:postcode":"68154",
+    "addr:street":"Old Mill Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.082041,41.260988,-96.082041,41.260988",
     "geom:latitude":41.260988,
     "geom:longitude":-96.082041,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"10832 Old Mill Rd",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102082789,
         85688563
     ],
+    "wof:brand_id":1125155631,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Lf7Z2ATItmy9rFDv8NWL7_41.260988_-96.082041@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464294400,
-    "wof:geomhash":"021152c622075d98c17e57b27a3ac22d",
+    "wof:geomhash":"4cf35ef0c74c936e12d8aef903db8b35",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":873551959,
-    "wof:lastmodified":1466665720,
+    "wof:lastmodified":1510699709,
     "wof:name":"Leukemia & Lymphoma Society",
     "wof:parent_id":85867061,
     "wof:placetype":"venue",

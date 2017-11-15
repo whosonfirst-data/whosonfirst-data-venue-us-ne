@@ -2,6 +2,10 @@
   "id": 873713679,
   "type": "Feature",
   "properties": {
+    "addr:full":"1313 Eldon Dr Lincoln NE 68510",
+    "addr:housenumber":"1313",
+    "addr:postcode":"68510",
+    "addr:street":"Eldon Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":873713679,
-    "wof:lastmodified":1466666777,
+    "wof:lastmodified":1472633830,
     "wof:name":"Acme Electric",
     "wof:parent_id":85878703,
     "wof:placetype":"venue",

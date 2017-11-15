@@ -2,9 +2,14 @@
   "id": 203048483,
   "type": "Feature",
   "properties": {
+    "addr:full":"5721 NW Radial Hwy Omaha NE 68104",
+    "addr:housenumber":"5721",
+    "addr:postcode":"68104",
+    "addr:street":"Nw Radial Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.001363,41.284821,-96.001363,41.284821",
     "geom:latitude":41.284821,
     "geom:longitude":-96.001363,
@@ -25,11 +30,13 @@
     "sg:province":"NE",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688563,
+        85872535,
+        102191575,
+        404518711,
         85633793,
         85973483,
         102082789,
-        85872535
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,9 +46,10 @@
     "wof:geomhash":"6f87968cdaec2ddf2dc414edf91e1961",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082789,
+            "localadmin_id":404518711,
             "locality_id":85973483,
             "neighbourhood_id":85872535,
             "region_id":85688563,
@@ -49,7 +57,7 @@
         }
     ],
     "wof:id":203048483,
-    "wof:lastmodified":1466665887,
+    "wof:lastmodified":1491888407,
     "wof:name":"Bull's Barber Shop",
     "wof:parent_id":85872535,
     "wof:placetype":"venue",

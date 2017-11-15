@@ -2,9 +2,14 @@
   "id": 873895857,
   "type": "Feature",
   "properties": {
+    "addr:full":"2613 Coffey Ave Bellevue NE 68123",
+    "addr:housenumber":"2613",
+    "addr:postcode":"68123",
+    "addr:street":"Coffey Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.949853,41.133144,-95.949853,41.133144",
     "geom:latitude":41.133144,
     "geom:longitude":-95.949853,
@@ -31,11 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688563,
+        85821583,
+        102191575,
+        404519143,
         85633793,
         85974545,
         102082777,
-        85821583
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,8 +53,10 @@
     "wof:geomhash":"936d2d138c0a9d5c5727f26581c612fe",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082777,
+            "localadmin_id":404519143,
             "locality_id":85974545,
             "neighbourhood_id":85821583,
             "region_id":85688563,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":873895857,
-    "wof:lastmodified":1466668345,
+    "wof:lastmodified":1491893170,
     "wof:name":"Trunk Treasures & Frameworks",
     "wof:parent_id":85821583,
     "wof:placetype":"venue",

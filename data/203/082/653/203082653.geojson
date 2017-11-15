@@ -2,6 +2,10 @@
   "id": 203082653,
   "type": "Feature",
   "properties": {
+    "addr:full":"900 Grace St Omaha NE 68110",
+    "addr:housenumber":"900",
+    "addr:postcode":"68110",
+    "addr:street":"Grace St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -68,7 +72,7 @@
         }
     ],
     "wof:id":203082653,
-    "wof:lastmodified":1466666071,
+    "wof:lastmodified":1472633916,
     "wof:name":"A Quick Dump",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 873829545,
   "type": "Feature",
   "properties": {
+    "addr:full":"1402 Freeman Dr Bellevue NE 68005",
+    "addr:housenumber":"1402",
+    "addr:postcode":"68005",
+    "addr:street":"Freeman Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.901625,41.146169,-95.901625,41.146169",
     "geom:latitude":41.146169,
     "geom:longitude":-95.901625,
@@ -28,11 +33,16 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688563,
+        85804025,
+        102191575,
+        404519143,
         85633793,
         85974545,
         102082777,
-        85804025
+        85688563,
+        85820061,
+        404520905,
+        85974747
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,18 +53,30 @@
     "wof:geomhash":"cb8f425fb368eb5f920394ce62cd9bc3",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082777,
+            "localadmin_id":404519143,
             "locality_id":85974545,
             "neighbourhood_id":85804025,
+            "region_id":85688563,
+            "venue_id":873829545
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082777,
+            "localadmin_id":404520905,
+            "locality_id":85974747,
+            "neighbourhood_id":85820061,
             "region_id":85688563,
             "venue_id":873829545
         }
     ],
     "wof:id":873829545,
-    "wof:lastmodified":1466667613,
+    "wof:lastmodified":1491931333,
     "wof:name":"Alyiska Travel Service",
-    "wof:parent_id":85804025,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],

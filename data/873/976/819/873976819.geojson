@@ -2,14 +2,20 @@
   "id": 873976819,
   "type": "Feature",
   "properties": {
+    "addr:full":"2655 S 70th St Lincoln NE 68506",
+    "addr:housenumber":"2655",
+    "addr:postcode":"68506",
+    "addr:street":"S 70Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.62578,40.785868,-96.62578,40.785868",
     "geom:latitude":40.785868,
     "geom:longitude":-96.62578,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2655 S 70th St",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102083503,
         85878697
     ],
+    "wof:brand_id":1125157529,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3kDPv1EDLlxjiCtCyVrVVF_40.785868_-96.625780@1299784598"
     },
     "wof:country":"US",
     "wof:created":1464302250,
-    "wof:geomhash":"4bdf4a15d7385b44099eb39dfed1b096",
+    "wof:geomhash":"d4b5b6098e80ae5e445bc76ee874a07e",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":873976819,
-    "wof:lastmodified":1466669727,
+    "wof:lastmodified":1510699758,
     "wof:name":"Valentino's",
     "wof:parent_id":85878697,
     "wof:placetype":"venue",

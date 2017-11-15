@@ -2,6 +2,10 @@
   "id": 873909805,
   "type": "Feature",
   "properties": {
+    "addr:full":"4102 Woolworth Ave Omaha NE 68105",
+    "addr:housenumber":"4102",
+    "addr:postcode":"68105",
+    "addr:street":"Woolworth Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":873909805,
-    "wof:lastmodified":1466668473,
+    "wof:lastmodified":1472634024,
     "wof:name":"County of Douglas",
     "wof:parent_id":85872523,
     "wof:placetype":"venue",

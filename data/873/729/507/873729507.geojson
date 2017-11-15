@@ -2,9 +2,14 @@
   "id": 873729507,
   "type": "Feature",
   "properties": {
+    "addr:full":"2015 Pratt Ave Bellevue NE 68123",
+    "addr:housenumber":"2015",
+    "addr:postcode":"68123",
+    "addr:street":"Pratt Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.942141,41.158054,-95.942141,41.158054",
     "geom:latitude":41.158054,
     "geom:longitude":-95.942141,
@@ -25,11 +30,13 @@
     "sg:province":"NE",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688563,
+        85821583,
+        102191575,
+        404519143,
         85633793,
         85974545,
         102082777,
-        85821583
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,8 +47,10 @@
     "wof:geomhash":"ec4268cf931722ce4e0a94ed91004416",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082777,
+            "localadmin_id":404519143,
             "locality_id":85974545,
             "neighbourhood_id":85821583,
             "region_id":85688563,
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":873729507,
-    "wof:lastmodified":1466666886,
+    "wof:lastmodified":1491893159,
     "wof:name":"Supercuts",
     "wof:parent_id":85821583,
     "wof:placetype":"venue",

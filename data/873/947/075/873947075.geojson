@@ -2,9 +2,14 @@
   "id": 873947075,
   "type": "Feature",
   "properties": {
+    "addr:full":"1306 Robinwood Dr Bellevue NE 68005",
+    "addr:housenumber":"1306",
+    "addr:postcode":"68005",
+    "addr:street":"Robinwood Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.910619,41.164398,-95.910619,41.164398",
     "geom:latitude":41.164398,
     "geom:longitude":-95.910619,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688563,
+        85804025,
+        102191575,
+        404519143,
         85633793,
         85974545,
         102082777,
-        85804025
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,8 +51,10 @@
     "wof:geomhash":"5d9e06724be6b29e81ad4c72da378b58",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082777,
+            "localadmin_id":404519143,
             "locality_id":85974545,
             "neighbourhood_id":85804025,
             "region_id":85688563,
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":873947075,
-    "wof:lastmodified":1466668842,
+    "wof:lastmodified":1491931330,
     "wof:name":"Waterfowl University",
     "wof:parent_id":85804025,
     "wof:placetype":"venue",

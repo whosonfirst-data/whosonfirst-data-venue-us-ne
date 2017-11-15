@@ -2,14 +2,20 @@
   "id": 873978143,
   "type": "Feature",
   "properties": {
+    "addr:full":"904 N 70th St Lincoln NE 68505",
+    "addr:housenumber":"904",
+    "addr:postcode":"68505",
+    "addr:street":"N 70Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.624992,40.821766,-96.624992,40.821766",
     "geom:latitude":40.821766,
     "geom:longitude":-96.624992,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"904 N 70th St",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -39,13 +45,14 @@
         102083503,
         85688563
     ],
+    "wof:brand_id":1125157529,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2bylEfDI4mM1eVuWIDPNsP_40.821966_-96.624916@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464302302,
-    "wof:geomhash":"70d16961d5cfde886bae3cd20aa5f4f3",
+    "wof:geomhash":"b3abc26205948832c2d983413bfaa0f8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,7 +66,7 @@
         }
     ],
     "wof:id":873978143,
-    "wof:lastmodified":1466669586,
+    "wof:lastmodified":1510699758,
     "wof:name":"Valentino's",
     "wof:parent_id":85878725,
     "wof:placetype":"venue",

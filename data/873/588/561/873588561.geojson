@@ -2,6 +2,10 @@
   "id": 873588561,
   "type": "Feature",
   "properties": {
+    "addr:full":"2545 Randolph St Lincoln NE 68510",
+    "addr:housenumber":"2545",
+    "addr:postcode":"68510",
+    "addr:street":"Randolph St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":873588561,
-    "wof:lastmodified":1466665935,
+    "wof:lastmodified":1472633795,
     "wof:name":"Lincoln Gym",
     "wof:parent_id":85878727,
     "wof:placetype":"venue",

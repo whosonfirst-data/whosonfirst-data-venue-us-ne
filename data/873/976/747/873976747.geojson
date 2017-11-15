@@ -2,14 +2,20 @@
   "id": 873976747,
   "type": "Feature",
   "properties": {
+    "addr:full":"5401 Havelock Ave Lincoln NE 68504",
+    "addr:housenumber":"5401",
+    "addr:postcode":"68504",
+    "addr:street":"Havelock Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.646317,40.857142,-96.646317,40.857142",
     "geom:latitude":40.857142,
     "geom:longitude":-96.646317,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5401 Havelock Ave",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102083503,
         85824241
     ],
+    "wof:brand_id":1125157529,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_35f2kvRQtBLVJCuO519TLy_40.857142_-96.646317@1299784598"
     },
     "wof:country":"US",
     "wof:created":1464302247,
-    "wof:geomhash":"fa660f1cf91c2a12c33a5acf2a1f6454",
+    "wof:geomhash":"b4580a14f8e91104f6e85209c8f3243b",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":873976747,
-    "wof:lastmodified":1466669722,
+    "wof:lastmodified":1510699758,
     "wof:name":"Valentino's",
     "wof:parent_id":85824241,
     "wof:placetype":"venue",

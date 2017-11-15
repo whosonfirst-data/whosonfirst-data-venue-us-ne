@@ -2,14 +2,20 @@
   "id": 873874497,
   "type": "Feature",
   "properties": {
+    "addr:full":"6808 P St Lincoln NE 68505",
+    "addr:housenumber":"6808 p",
+    "addr:postcode":"68505",
+    "addr:street":"St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.625524,40.814549,-96.625524,40.814549",
     "geom:latitude":40.814549,
     "geom:longitude":-96.625524,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6808 P St",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102083503,
         85688563
     ],
+    "wof:brand_id":1125150843,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7a6tGxc9itOjOFJjZJGNj5_40.814549_-96.625524@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464299326,
-    "wof:geomhash":"0ec44c987fa4204c49d5917d61393cea",
+    "wof:geomhash":"87e1ff5923c215edffd4ab17d51168eb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":873874497,
-    "wof:lastmodified":1466668098,
+    "wof:lastmodified":1510693807,
     "wof:name":"Tuesday Morning Inc",
     "wof:parent_id":85878725,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 873818279,
   "type": "Feature",
   "properties": {
+    "addr:full":"3306 S 66th Ave Cir Omaha NE 68106",
+    "addr:housenumber":"3306",
+    "addr:postcode":"68106",
+    "addr:street":"S 66Th Ave Cir",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":873818279,
-    "wof:lastmodified":1466667491,
+    "wof:lastmodified":1472633933,
     "wof:name":"Grover Diesel Inc",
     "wof:parent_id":85867059,
     "wof:placetype":"venue",

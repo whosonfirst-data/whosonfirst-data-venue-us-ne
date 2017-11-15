@@ -2,9 +2,14 @@
   "id": 873818465,
   "type": "Feature",
   "properties": {
+    "addr:full":"519 Fort Crook Rd N Bellevue NE 68005",
+    "addr:housenumber":"519",
+    "addr:postcode":"68005",
+    "addr:street":"Fort Crook Rd N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.925057,41.16729,-95.925057,41.16729",
     "geom:latitude":41.16729,
     "geom:longitude":-95.925057,
@@ -30,11 +35,13 @@
     "sg:website":"www.tiresplus.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688563,
+        85804025,
+        102191575,
+        404519143,
         85633793,
         85974545,
         102082777,
-        85804025
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,8 +52,10 @@
     "wof:geomhash":"5c27d57881175749a856d9f4a0de71cf",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082777,
+            "localadmin_id":404519143,
             "locality_id":85974545,
             "neighbourhood_id":85804025,
             "region_id":85688563,
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":873818465,
-    "wof:lastmodified":1466667514,
+    "wof:lastmodified":1491931307,
     "wof:name":"Tires Plus",
     "wof:parent_id":85804025,
     "wof:placetype":"venue",

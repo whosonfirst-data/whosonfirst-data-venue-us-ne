@@ -2,9 +2,14 @@
   "id": 203058755,
   "type": "Feature",
   "properties": {
+    "addr:full":"2225 S 64th Plz Omaha NE 68106",
+    "addr:housenumber":"2225",
+    "addr:postcode":"68106",
+    "addr:street":"S 64Th",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.010571,41.27913,-96.010571,41.27913",
     "geom:latitude":41.27913,
     "geom:longitude":-96.010571,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688563,
+        85872535,
+        102191575,
+        404518711,
         85633793,
         85973483,
         102082789,
-        85872535
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +49,10 @@
     "wof:geomhash":"7b97a70766771f998b59ad9621887ce7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082789,
+            "localadmin_id":404518711,
             "locality_id":85973483,
             "neighbourhood_id":85872535,
             "region_id":85688563,
@@ -52,7 +60,7 @@
         }
     ],
     "wof:id":203058755,
-    "wof:lastmodified":1466665948,
+    "wof:lastmodified":1491888399,
     "wof:name":"Broadmoor At Aksarben Village",
     "wof:parent_id":85872535,
     "wof:placetype":"venue",

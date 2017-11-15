@@ -2,9 +2,14 @@
   "id": 873898437,
   "type": "Feature",
   "properties": {
+    "addr:full":"2613 Morrie Dr Bellevue NE 68123",
+    "addr:housenumber":"2613",
+    "addr:postcode":"68123",
+    "addr:street":"Morrie Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.9514,41.162344,-95.9514,41.162344",
     "geom:latitude":41.162344,
     "geom:longitude":-95.9514,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688563,
+        85821583,
+        102191575,
+        404519143,
         85633793,
         85974545,
         102082777,
-        85821583
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,8 +50,10 @@
     "wof:geomhash":"846665712bb0fe22ead3ccf9eedbc03f",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082777,
+            "localadmin_id":404519143,
             "locality_id":85974545,
             "neighbourhood_id":85821583,
             "region_id":85688563,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":873898437,
-    "wof:lastmodified":1466668324,
+    "wof:lastmodified":1491893167,
     "wof:name":"Julie Lampman",
     "wof:parent_id":85821583,
     "wof:placetype":"venue",

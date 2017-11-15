@@ -2,14 +2,20 @@
   "id": 873591493,
   "type": "Feature",
   "properties": {
+    "addr:full":"2935 Pine Lake Rd Lincoln NE 68516",
+    "addr:housenumber":"2935",
+    "addr:postcode":"68516",
+    "addr:street":"Pine Lake Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.678501,40.740478,-96.678501,40.740478",
     "geom:latitude":40.740478,
     "geom:longitude":-96.678501,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2935 Pine Lake Rd",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102083503,
         85878733
     ],
+    "wof:brand_id":1125153335,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0I4vFE9eW27pSskCdRiRJZ_40.740478_-96.678501@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464294849,
-    "wof:geomhash":"9b1c09835d712b433edec87d32a8ddc0",
+    "wof:geomhash":"9cdf94503ff2a4825e6e77a9665ce826",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":873591493,
-    "wof:lastmodified":1466665944,
+    "wof:lastmodified":1510699014,
     "wof:name":"Primary Residential Mortgage",
     "wof:parent_id":85878733,
     "wof:placetype":"venue",

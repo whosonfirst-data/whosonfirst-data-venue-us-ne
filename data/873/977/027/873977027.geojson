@@ -2,6 +2,10 @@
   "id": 873977027,
   "type": "Feature",
   "properties": {
+    "addr:full":"4501 N 27th St Lincoln NE 68521",
+    "addr:housenumber":"4501",
+    "addr:postcode":"68521",
+    "addr:street":"N 27Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":873977027,
-    "wof:lastmodified":1466669547,
+    "wof:lastmodified":1472634109,
     "wof:name":"IHOP",
     "wof:parent_id":85878721,
     "wof:placetype":"venue",

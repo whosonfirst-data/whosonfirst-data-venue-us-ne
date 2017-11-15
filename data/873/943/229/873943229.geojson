@@ -2,14 +2,20 @@
   "id": 873943229,
   "type": "Feature",
   "properties": {
+    "addr:full":"6105 O St Lincoln NE 68510",
+    "addr:housenumber":"6105",
+    "addr:postcode":"68510",
+    "addr:street":"O St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.635682,40.813254,-96.635682,40.813254",
     "geom:latitude":40.813254,
     "geom:longitude":-96.635682,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6105 O St",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102083503,
         85688563
     ],
+    "wof:brand_id":1125152079,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6ZSagc9rBGgW51zLW24Ey9_40.813254_-96.635682@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464300815,
-    "wof:geomhash":"30eed8a501e6158470b33b05fc45a288",
+    "wof:geomhash":"e42671ffbc359605a8047331827f447a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":873943229,
-    "wof:lastmodified":1466668824,
+    "wof:lastmodified":1510697801,
     "wof:name":"Big Apple Bagels",
     "wof:parent_id":85878703,
     "wof:placetype":"venue",

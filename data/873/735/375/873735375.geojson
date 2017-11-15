@@ -2,9 +2,14 @@
   "id": 873735375,
   "type": "Feature",
   "properties": {
+    "addr:full":"6201 Underwood Ave Omaha NE 68132",
+    "addr:housenumber":"6201",
+    "addr:postcode":"68132",
+    "addr:street":"Underwood Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.009782,41.265052,-96.009782,41.265052",
     "geom:latitude":41.265052,
     "geom:longitude":-96.009782,
@@ -28,13 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85872507,
+        85872535,
         102191575,
         404518711,
         85633793,
         85973483,
         102082789,
-        85688563
+        85688563,
+        85872507
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,15 +56,25 @@
             "county_id":102082789,
             "localadmin_id":404518711,
             "locality_id":85973483,
+            "neighbourhood_id":85872535,
+            "region_id":85688563,
+            "venue_id":873735375
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082789,
+            "localadmin_id":404518711,
+            "locality_id":85973483,
             "neighbourhood_id":85872507,
             "region_id":85688563,
             "venue_id":873735375
         }
     ],
     "wof:id":873735375,
-    "wof:lastmodified":1466666908,
+    "wof:lastmodified":1491888419,
     "wof:name":"Rose Salter Medical Resea",
-    "wof:parent_id":85872507,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],

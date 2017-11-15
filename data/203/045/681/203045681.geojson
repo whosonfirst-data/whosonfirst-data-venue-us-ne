@@ -2,9 +2,14 @@
   "id": 203045681,
   "type": "Feature",
   "properties": {
+    "addr:full":"4855 Decatur St Omaha NE 68104",
+    "addr:housenumber":"4855",
+    "addr:postcode":"68104",
+    "addr:street":"Decatur St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.986698,41.276172,-95.986698,41.276172",
     "geom:latitude":41.276172,
     "geom:longitude":-95.986698,
@@ -34,11 +39,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688563,
+        85872535,
+        102191575,
+        404518711,
         85633793,
         85973483,
         102082789,
-        85872535
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,9 +55,10 @@
     "wof:geomhash":"f9d3cfa2c52b227c60ee855841e59c5f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082789,
+            "localadmin_id":404518711,
             "locality_id":85973483,
             "neighbourhood_id":85872535,
             "region_id":85688563,
@@ -58,7 +66,7 @@
         }
     ],
     "wof:id":203045681,
-    "wof:lastmodified":1466665864,
+    "wof:lastmodified":1491888416,
     "wof:name":"Arts For All",
     "wof:parent_id":85872535,
     "wof:placetype":"venue",

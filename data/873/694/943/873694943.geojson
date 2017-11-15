@@ -2,14 +2,20 @@
   "id": 873694943,
   "type": "Feature",
   "properties": {
+    "addr:full":"1307 H St Lincoln NE 68508",
+    "addr:housenumber":"1307",
+    "addr:postcode":"68508",
+    "addr:street":"H St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.701199,40.80694,-96.701199,40.80694",
     "geom:latitude":40.80694,
     "geom:longitude":-96.701199,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1307 H St",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102083503,
         85688563
     ],
+    "wof:brand_id":1125151809,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0WyVe13kUoKsYsPsCkuebo_40.806940_-96.701199@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464296350,
-    "wof:geomhash":"4658e59642723f4cb84dd2ab9802df6d",
+    "wof:geomhash":"81f49595bacb2af991d1aa139033b217",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":873694943,
-    "wof:lastmodified":1466666679,
+    "wof:lastmodified":1510693839,
     "wof:name":"United Transportation Union",
     "wof:parent_id":85878699,
     "wof:placetype":"venue",

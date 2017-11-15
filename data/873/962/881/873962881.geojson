@@ -2,9 +2,14 @@
   "id": 873962881,
   "type": "Feature",
   "properties": {
+    "addr:full":"7800 Amber Hill Rd Lincoln NE 68516",
+    "addr:housenumber":"7800",
+    "addr:postcode":"68516",
+    "addr:street":"Amber Hill Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.611925,40.732216,-96.611925,40.732216",
     "geom:latitude":40.732216,
     "geom:longitude":-96.611925,
@@ -33,7 +38,10 @@
         85633793,
         85973555,
         102083503,
-        85878685
+        85878685,
+        85878707,
+        102191575,
+        404521111
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,12 +58,22 @@
             "neighbourhood_id":85878685,
             "region_id":85688563,
             "venue_id":873962881
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878707,
+            "region_id":85688563,
+            "venue_id":873962881
         }
     ],
     "wof:id":873962881,
-    "wof:lastmodified":1466669480,
+    "wof:lastmodified":1491932652,
     "wof:name":"Ayers Distributing Inc",
-    "wof:parent_id":85878685,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],

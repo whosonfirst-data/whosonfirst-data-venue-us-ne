@@ -2,6 +2,10 @@
   "id": 873879987,
   "type": "Feature",
   "properties": {
+    "addr:full":"5555 S 48th St Lincoln NE 68516",
+    "addr:housenumber":"5555",
+    "addr:postcode":"68516",
+    "addr:street":"S 48Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":873879987,
-    "wof:lastmodified":1466668190,
+    "wof:lastmodified":1472634000,
     "wof:name":"Earl May Nursery & Garden Ctr",
     "wof:parent_id":85811821,
     "wof:placetype":"venue",

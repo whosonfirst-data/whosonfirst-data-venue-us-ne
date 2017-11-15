@@ -2,14 +2,20 @@
   "id": 873917735,
   "type": "Feature",
   "properties": {
+    "addr:full":"100 Centennial Mall N Lincoln NE 68508",
+    "addr:housenumber":"100",
+    "addr:postcode":"68508",
+    "addr:street":"Centennial Mall N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.699668,40.814738,-96.699668,40.814738",
     "geom:latitude":40.814738,
     "geom:longitude":-96.699668,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"100 Centennial Mall N",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102083503,
         85688563
     ],
+    "wof:brand_id":1125155405,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3D9CXQDMIWhnwgKEF2A5MA_40.814738_-96.699668@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464300173,
-    "wof:geomhash":"eaa25a91c011ff90933f63fb3d9c4f61",
+    "wof:geomhash":"8284e4320b7b72730bc82279e915d075",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":873917735,
-    "wof:lastmodified":1466668565,
+    "wof:lastmodified":1510695073,
     "wof:name":"National Park Svc",
     "wof:parent_id":85878699,
     "wof:placetype":"venue",

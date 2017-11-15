@@ -2,14 +2,20 @@
   "id": 873977915,
   "type": "Feature",
   "properties": {
+    "addr:full":"1325 NW Radial Hwy Omaha NE 68132",
+    "addr:housenumber":"1325",
+    "addr:postcode":"68132",
+    "addr:street":"Nw Radial Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.983101,41.271351,-95.983101,41.271351",
     "geom:latitude":41.271351,
     "geom:longitude":-95.983101,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1325 NW Radial Hwy",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -39,13 +45,14 @@
         102082789,
         85688563
     ],
+    "wof:brand_id":1125156297,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2jbUtxauy9mgAzPD0sBaKb_41.271922_-95.983366@1293134755"
     },
     "wof:country":"US",
     "wof:created":1464302294,
-    "wof:geomhash":"9d3426b6ce6779bb5b14ee1499dc114e",
+    "wof:geomhash":"477fe3a9a5081b38dc7972c1caa8a1a6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,7 +66,7 @@
         }
     ],
     "wof:id":873977915,
-    "wof:lastmodified":1466669741,
+    "wof:lastmodified":1510695374,
     "wof:name":"Runza",
     "wof:parent_id":85867055,
     "wof:placetype":"venue",

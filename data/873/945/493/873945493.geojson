@@ -2,14 +2,20 @@
   "id": 873945493,
   "type": "Feature",
   "properties": {
+    "addr:full":"8614 Raven Oaks Dr Omaha NE 68152",
+    "addr:housenumber":"8614",
+    "addr:postcode":"68152",
+    "addr:street":"Raven Oaks Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.000227,41.337896,-96.000227,41.337896",
     "geom:latitude":41.337896,
     "geom:longitude":-96.000227,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8614 Raven Oaks Dr",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102082789,
         85688563
     ],
+    "wof:brand_id":1125151809,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2p3l8GEwMRxkyWdYZupnIC_41.337896_-96.000227@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464300901,
-    "wof:geomhash":"0ce0e8fea24560d236c2c9a79aaf9a44",
+    "wof:geomhash":"db71f37a12a59bc4642231febf144093",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":873945493,
-    "wof:lastmodified":1466668905,
+    "wof:lastmodified":1510693839,
     "wof:name":"United Transportation Union",
     "wof:parent_id":85813863,
     "wof:placetype":"venue",

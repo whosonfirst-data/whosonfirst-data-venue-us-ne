@@ -2,14 +2,20 @@
   "id": 873813293,
   "type": "Feature",
   "properties": {
+    "addr:full":"2626 O St Lincoln NE 68510",
+    "addr:housenumber":"2626",
+    "addr:postcode":"68510",
+    "addr:street":"O St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.682674,40.813659,-96.682674,40.813659",
     "geom:latitude":40.813659,
     "geom:longitude":-96.682674,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2626 O St",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102083503,
         85688563
     ],
+    "wof:brand_id":420575127,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6geJSGxlXcCL6yQZKKO9X4_40.813659_-96.682674@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464297983,
-    "wof:geomhash":"69d2459d7d11d207746c94c0b6e1f48f",
+    "wof:geomhash":"d101de1d60863c2ce638d77abcba1ac4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":873813293,
-    "wof:lastmodified":1466667446,
+    "wof:lastmodified":1510602801,
     "wof:name":"Service Master Co",
     "wof:parent_id":85878723,
     "wof:placetype":"venue",

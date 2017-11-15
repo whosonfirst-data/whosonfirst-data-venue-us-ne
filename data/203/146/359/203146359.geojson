@@ -2,9 +2,14 @@
   "id": 203146359,
   "type": "Feature",
   "properties": {
+    "addr:full":"1704 S 138th St Omaha NE 68144",
+    "addr:housenumber":"1704",
+    "addr:postcode":"68144",
+    "addr:street":"S 138Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.128547,41.243342,-96.128547,41.243342",
     "geom:latitude":41.243342,
     "geom:longitude":-96.128547,
@@ -38,11 +43,13 @@
     "sg:website":"http://www.ahutton.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688563,
+        85806957,
+        102191575,
+        404519987,
         85633793,
         85973479,
         102082789,
-        85806957
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,9 +59,10 @@
     "wof:geomhash":"92ba8faaed70d155570a8ca6b5803db4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082789,
+            "localadmin_id":404519987,
             "locality_id":85973479,
             "neighbourhood_id":85806957,
             "region_id":85688563,
@@ -62,7 +70,7 @@
         }
     ],
     "wof:id":203146359,
-    "wof:lastmodified":1466666456,
+    "wof:lastmodified":1491916832,
     "wof:name":"Indoff, Incorporated",
     "wof:parent_id":85806957,
     "wof:placetype":"venue",

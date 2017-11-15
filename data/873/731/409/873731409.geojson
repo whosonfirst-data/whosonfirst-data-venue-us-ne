@@ -2,14 +2,20 @@
   "id": 873731409,
   "type": "Feature",
   "properties": {
+    "addr:full":"9735 Giles Rd La Vista NE 68128",
+    "addr:housenumber":"9735",
+    "addr:postcode":"68128",
+    "addr:street":"Giles Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.063155,41.176218,-96.063155,41.176218",
     "geom:latitude":41.176218,
     "geom:longitude":-96.063155,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"9735 Giles Rd",
     "sg:city":"La Vista",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         85843697,
         102082789
     ],
+    "wof:brand_id":1125151591,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1RLPjMERLSuRAYfNGpRcFm_41.176218_-96.063155@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464296797,
-    "wof:geomhash":"e1ec0fa0c850963addcae28ae77db564",
+    "wof:geomhash":"c29dc708d8f0e033c0315f681b949d44",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":873731409,
-    "wof:lastmodified":1466666900,
+    "wof:lastmodified":1510693872,
     "wof:name":"First Horizon Home Loan Corp",
     "wof:parent_id":85843697,
     "wof:placetype":"venue",

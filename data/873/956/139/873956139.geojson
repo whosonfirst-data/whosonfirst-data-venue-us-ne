@@ -2,9 +2,14 @@
   "id": 873956139,
   "type": "Feature",
   "properties": {
+    "addr:full":"1901 SW 5th St Lincoln NE 68522",
+    "addr:housenumber":"1901",
+    "addr:postcode":"68522",
+    "addr:street":"Sw 5Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.726663,40.791841,-96.726663,40.791841",
     "geom:latitude":40.791841,
     "geom:longitude":-96.726663,
@@ -37,7 +42,8 @@
         85633793,
         85973555,
         102083503,
-        85688563
+        85688563,
+        85878737
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,12 +62,22 @@
             "neighbourhood_id":85878743,
             "region_id":85688563,
             "venue_id":873956139
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
+            "neighbourhood_id":85878737,
+            "region_id":85688563,
+            "venue_id":873956139
         }
     ],
     "wof:id":873956139,
-    "wof:lastmodified":1466669071,
+    "wof:lastmodified":1491902358,
     "wof:name":"Regal Excavating",
-    "wof:parent_id":85878743,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],

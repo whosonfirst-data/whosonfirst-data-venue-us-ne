@@ -2,9 +2,14 @@
   "id": 203115977,
   "type": "Feature",
   "properties": {
+    "addr:full":"8606 G St Omaha NE 68127",
+    "addr:housenumber":"8606",
+    "addr:postcode":"68127",
+    "addr:street":"G St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.04569,41.218268,-96.04569,41.218268",
     "geom:latitude":41.218268,
     "geom:longitude":-96.04569,
@@ -20,11 +25,13 @@
     "sg:website":"http://www.deluxebody.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688563,
+        85872511,
+        102191575,
+        404518711,
         85633793,
         85973483,
         102082789,
-        85872511
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -34,9 +41,10 @@
     "wof:geomhash":"a6d9741c9565684cc4ebd3c78273e3d5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082789,
+            "localadmin_id":404518711,
             "locality_id":85973483,
             "neighbourhood_id":85872511,
             "region_id":85688563,
@@ -44,7 +52,7 @@
         }
     ],
     "wof:id":203115977,
-    "wof:lastmodified":1466666289,
+    "wof:lastmodified":1491885193,
     "wof:name":"DeLuxe Body Co",
     "wof:parent_id":85872511,
     "wof:placetype":"venue",

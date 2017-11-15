@@ -2,14 +2,20 @@
   "id": 873580765,
   "type": "Feature",
   "properties": {
+    "addr:full":"1333 N 33rd St Lincoln NE 68503",
+    "addr:housenumber":"1333",
+    "addr:postcode":"68503",
+    "addr:street":"N 33Rd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.672934,40.826815,-96.672934,40.826815",
     "geom:latitude":40.826815,
     "geom:longitude":-96.672934,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1333 N 33rd St",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102083503,
         85688563
     ],
+    "wof:brand_id":1125150589,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0cXmgYaM2hdb0CjS5xt0YB_40.826815_-96.672934@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464294730,
-    "wof:geomhash":"2e949f57a6e4f2cffcd530de4dd3cdc2",
+    "wof:geomhash":"7817354e254aa1d58e0c1ce6103041aa",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":873580765,
-    "wof:lastmodified":1466665902,
+    "wof:lastmodified":1510699576,
     "wof:name":"Faith United Methodist Church",
     "wof:parent_id":85878701,
     "wof:placetype":"venue",

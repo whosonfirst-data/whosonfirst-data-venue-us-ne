@@ -2,6 +2,10 @@
   "id": 873978179,
   "type": "Feature",
   "properties": {
+    "addr:full":"1332 P St Lincoln NE 68508",
+    "addr:housenumber":"1332 p",
+    "addr:postcode":"68508",
+    "addr:street":"St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -65,7 +69,7 @@
         }
     ],
     "wof:id":873978179,
-    "wof:lastmodified":1466669591,
+    "wof:lastmodified":1472634116,
     "wof:name":"Planet Sub",
     "wof:parent_id":85878699,
     "wof:placetype":"venue",

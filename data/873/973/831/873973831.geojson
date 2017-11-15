@@ -2,14 +2,20 @@
   "id": 873973831,
   "type": "Feature",
   "properties": {
+    "addr:full":"1144 Belmont Ave Lincoln NE 68521",
+    "addr:housenumber":"1144",
+    "addr:postcode":"68521",
+    "addr:street":"Belmont Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.705008,40.839269,-96.705008,40.839269",
     "geom:latitude":40.839269,
     "geom:longitude":-96.705008,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1144 Belmont Ave",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102083503,
         85688563
     ],
+    "wof:brand_id":1125156481,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6BxFbRxqUjniani3TpZEeG_40.839357_-96.704581@1293134755"
     },
     "wof:country":"US",
     "wof:created":1464302151,
-    "wof:geomhash":"080f3784061e7cbeaf0a2726fd28d1d3",
+    "wof:geomhash":"61a14ff65503c6668ac1ee8a71f2a650",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":873973831,
-    "wof:lastmodified":1466669670,
+    "wof:lastmodified":1510695427,
     "wof:name":"Shear Design",
     "wof:parent_id":85868917,
     "wof:placetype":"venue",

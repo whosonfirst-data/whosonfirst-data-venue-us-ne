@@ -2,6 +2,10 @@
   "id": 203125279,
   "type": "Feature",
   "properties": {
+    "addr:full":"3000 Farnam St Ste 1AE Omaha NE 68131",
+    "addr:housenumber":"3000",
+    "addr:postcode":"68131",
+    "addr:street":"Farnam St Ste 1Ae",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":203125279,
-    "wof:lastmodified":1466666335,
+    "wof:lastmodified":1472633918,
     "wof:name":"Data Line Of Omaha",
     "wof:parent_id":85872525,
     "wof:placetype":"venue",

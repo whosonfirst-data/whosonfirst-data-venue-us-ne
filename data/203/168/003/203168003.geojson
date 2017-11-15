@@ -2,9 +2,14 @@
   "id": 203168003,
   "type": "Feature",
   "properties": {
+    "addr:full":"6220 S 57th St Lincoln NE 68516",
+    "addr:housenumber":"6220",
+    "addr:postcode":"68516",
+    "addr:street":"S 57Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.642292,40.750275,-96.642292,40.750275",
     "geom:latitude":40.750275,
     "geom:longitude":-96.642292,
@@ -36,11 +41,13 @@
     "sg:website":"http://clickserve.dartsearch.net/link/click?lid=43000000313867512&ds_s_kwgid=58000000006820725&ds_e_matchtype={MatchType}&ds_e_kwdid={OrderItemId}&ds_e_adid={AdId}&ds_url_v=2",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688563,
+        85878707,
+        102191575,
+        404521111,
         85633793,
         85973555,
         102083503,
-        85878707
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,9 +57,10 @@
     "wof:geomhash":"8b0d512f4b93da7ebc097aac6e076baf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083503,
+            "localadmin_id":404521111,
             "locality_id":85973555,
             "neighbourhood_id":85878707,
             "region_id":85688563,
@@ -60,7 +68,7 @@
         }
     ],
     "wof:id":203168003,
-    "wof:lastmodified":1466669668,
+    "wof:lastmodified":1491932644,
     "wof:name":"Trade Center Automotive",
     "wof:parent_id":85878707,
     "wof:placetype":"venue",

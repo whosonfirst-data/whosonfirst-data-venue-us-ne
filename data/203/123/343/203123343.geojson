@@ -2,6 +2,10 @@
   "id": 203123343,
   "type": "Feature",
   "properties": {
+    "addr:full":"3876 Farnam St Omaha NE 68131",
+    "addr:housenumber":"3876",
+    "addr:postcode":"68131",
+    "addr:street":"Farnam St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":203123343,
-    "wof:lastmodified":1466666309,
+    "wof:lastmodified":1472633913,
     "wof:name":"Procare3 Physical Occupational & Speech Therapy",
     "wof:parent_id":85872525,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 873798997,
   "type": "Feature",
   "properties": {
+    "addr:full":"1525 Pine Lake Rd Lincoln NE 68516",
+    "addr:housenumber":"1525",
+    "addr:postcode":"68516",
+    "addr:street":"Pine Lake Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.701042,40.738426,-96.701042,40.738426",
     "geom:latitude":40.738426,
     "geom:longitude":-96.701042,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1525 Pine Lake Rd",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102083503,
         85878709
     ],
+    "wof:brand_id":1125150641,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_722whhqNu2lTKvXPdUDysP_40.738426_-96.701042@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464297762,
-    "wof:geomhash":"43efbec793612819c45430d2d891f5ff",
+    "wof:geomhash":"30c335fb26f26028ca1ddf65474e3ca9",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":873798997,
-    "wof:lastmodified":1466667361,
+    "wof:lastmodified":1510613320,
     "wof:name":"Tuffy Auto Svc Ctr",
     "wof:parent_id":85878709,
     "wof:placetype":"venue",

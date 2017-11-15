@@ -2,6 +2,10 @@
   "id": 873978025,
   "type": "Feature",
   "properties": {
+    "addr:full":"13750 W Maple Rd Omaha NE 68164",
+    "addr:housenumber":"13750",
+    "addr:postcode":"68164",
+    "addr:street":"W Maple Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":873978025,
-    "wof:lastmodified":1466669563,
+    "wof:lastmodified":1472634109,
     "wof:name":"Burger King",
     "wof:parent_id":85872503,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 873957319,
   "type": "Feature",
   "properties": {
+    "addr:full":"11259 John Galt Blvd Omaha NE 68137",
+    "addr:housenumber":"11259",
+    "addr:postcode":"68137",
+    "addr:street":"John Galt Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":873957319,
-    "wof:lastmodified":1466669122,
+    "wof:lastmodified":1472634074,
     "wof:name":"Floor Fashions Inc",
     "wof:parent_id":85872531,
     "wof:placetype":"venue",

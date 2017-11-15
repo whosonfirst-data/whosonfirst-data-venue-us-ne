@@ -2,14 +2,20 @@
   "id": 873871415,
   "type": "Feature",
   "properties": {
+    "addr:full":"217 N 49th St Omaha NE 68132",
+    "addr:housenumber":"217",
+    "addr:postcode":"68132",
+    "addr:street":"N 49Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.9878,41.261265,-95.9878,41.261265",
     "geom:latitude":41.261265,
     "geom:longitude":-95.9878,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"217 N 49th St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102082789,
         85688563
     ],
+    "wof:brand_id":1125152785,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3n80oRRaMXVfaJWXLY43lr_41.261265_-95.987800@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464299264,
-    "wof:geomhash":"840b68557c0b3e339b81b3798ad8cb71",
+    "wof:geomhash":"6ec8174e9e327f1f3cb7ddd3dc3d8276",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":873871415,
-    "wof:lastmodified":1466668032,
+    "wof:lastmodified":1510697423,
     "wof:name":"Hidden Treasures",
     "wof:parent_id":85867055,
     "wof:placetype":"venue",

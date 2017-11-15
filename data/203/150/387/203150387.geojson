@@ -2,9 +2,14 @@
   "id": 203150387,
   "type": "Feature",
   "properties": {
+    "addr:full":"12809 W Dodge Rd Omaha NE 68154",
+    "addr:housenumber":"12809",
+    "addr:postcode":"68154",
+    "addr:street":"W Dodge Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.111785,41.262868,-96.111785,41.262868",
     "geom:latitude":41.262868,
     "geom:longitude":-96.111785,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688563,
+        85806957,
+        102191575,
+        404519987,
         85633793,
         85973479,
         102082789,
-        85806957
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +50,10 @@
     "wof:geomhash":"2a6895dd40479cbca6f9605f4909c251",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082789,
+            "localadmin_id":404519987,
             "locality_id":85973479,
             "neighbourhood_id":85806957,
             "region_id":85688563,
@@ -53,7 +61,7 @@
         }
     ],
     "wof:id":203150387,
-    "wof:lastmodified":1466666472,
+    "wof:lastmodified":1491916828,
     "wof:name":"Alegent Health",
     "wof:parent_id":85806957,
     "wof:placetype":"venue",

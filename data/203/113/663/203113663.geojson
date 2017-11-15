@@ -2,9 +2,14 @@
   "id": 203113663,
   "type": "Feature",
   "properties": {
+    "addr:full":"10404 F Plz Omaha NE 68127",
+    "addr:housenumber":"10404",
+    "addr:postcode":"68127",
+    "addr:street":"F Plz",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.076782,41.219409,-96.076782,41.219409",
     "geom:latitude":41.219409,
     "geom:longitude":-96.076782,
@@ -35,11 +40,13 @@
     "sg:website":"http://www.qpii.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688563,
+        85872511,
+        102191575,
+        404518711,
         85633793,
         85973483,
         102082789,
-        85872511
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,9 +56,10 @@
     "wof:geomhash":"48a042ff87c2473dc8881aff04154835",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082789,
+            "localadmin_id":404518711,
             "locality_id":85973483,
             "neighbourhood_id":85872511,
             "region_id":85688563,
@@ -59,7 +67,7 @@
         }
     ],
     "wof:id":203113663,
-    "wof:lastmodified":1466666281,
+    "wof:lastmodified":1491885186,
     "wof:name":"Quality Pork Intl Inc",
     "wof:parent_id":85872511,
     "wof:placetype":"venue",

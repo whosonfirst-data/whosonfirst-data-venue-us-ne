@@ -2,9 +2,14 @@
   "id": 873882247,
   "type": "Feature",
   "properties": {
+    "addr:full":"2813 Greensboro Ave Bellevue NE 68005",
+    "addr:housenumber":"2813",
+    "addr:postcode":"68005",
+    "addr:street":"Greensboro Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.933653,41.144269,-95.933653,41.144269",
     "geom:latitude":41.144269,
     "geom:longitude":-95.933653,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688563,
+        85821583,
+        102191575,
+        404519143,
         85633793,
         85974545,
         102082777,
-        85821583
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,8 +50,10 @@
     "wof:geomhash":"65c222260893768efee82ba9ea6ad484",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082777,
+            "localadmin_id":404519143,
             "locality_id":85974545,
             "neighbourhood_id":85821583,
             "region_id":85688563,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":873882247,
-    "wof:lastmodified":1466668132,
+    "wof:lastmodified":1491893170,
     "wof:name":"Impressive Nails",
     "wof:parent_id":85821583,
     "wof:placetype":"venue",

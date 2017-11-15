@@ -2,6 +2,10 @@
   "id": 873678859,
   "type": "Feature",
   "properties": {
+    "addr:full":"5000 Central Park Dr Lincoln NE 68504",
+    "addr:housenumber":"5000",
+    "addr:postcode":"68504",
+    "addr:street":"Central Park Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":873678859,
-    "wof:lastmodified":1466666560,
+    "wof:lastmodified":1472633845,
     "wof:name":"Holroyd Inv Properties/H I P",
     "wof:parent_id":85878703,
     "wof:placetype":"venue",

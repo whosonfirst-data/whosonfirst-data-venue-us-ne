@@ -2,14 +2,20 @@
   "id": 873957595,
   "type": "Feature",
   "properties": {
+    "addr:full":"606 Danville Dr Lincoln NE 68510",
+    "addr:housenumber":"606",
+    "addr:postcode":"68510",
+    "addr:street":"Danville Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.628868,40.808871,-96.628868,40.808871",
     "geom:latitude":40.808871,
     "geom:longitude":-96.628868,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"606 Danville Dr",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102083503,
         85688563
     ],
+    "wof:brand_id":1125157501,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3wFn8unaffdW0ieqe0gaKN_40.808871_-96.628868@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464301426,
-    "wof:geomhash":"17d14cb4e73dceb20e5a80fdf60cd759",
+    "wof:geomhash":"9c9cf32f61ba9a10733234ddd4fc0e7e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":873957595,
-    "wof:lastmodified":1466669196,
+    "wof:lastmodified":1510694027,
     "wof:name":"Sisters Of St Francis",
     "wof:parent_id":85878703,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 202992377,
   "type": "Feature",
   "properties": {
+    "addr:full":"215 S 1 St Springfield NE 68059",
+    "addr:housenumber":"215;1",
+    "addr:postcode":"68059",
+    "addr:street":"S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":202992377,
-    "wof:lastmodified":1466665584,
+    "wof:lastmodified":1472633739,
     "wof:name":"Charter Communication",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

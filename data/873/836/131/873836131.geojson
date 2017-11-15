@@ -2,6 +2,10 @@
   "id": 873836131,
   "type": "Feature",
   "properties": {
+    "addr:full":"4223 S 143rd Cir Omaha NE 68137",
+    "addr:housenumber":"4223",
+    "addr:postcode":"68137",
+    "addr:street":"S 143Rd Cir",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":873836131,
-    "wof:lastmodified":1466667654,
+    "wof:lastmodified":1472633949,
     "wof:name":"Board of Certifications",
     "wof:parent_id":85872531,
     "wof:placetype":"venue",

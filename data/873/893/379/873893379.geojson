@@ -2,14 +2,20 @@
   "id": 873893379,
   "type": "Feature",
   "properties": {
+    "addr:full":"5844 Fremont St Lincoln NE 68507",
+    "addr:housenumber":"5844",
+    "addr:postcode":"68507",
+    "addr:street":"Fremont St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.640639,40.848708,-96.640639,40.848708",
     "geom:latitude":40.848708,
     "geom:longitude":-96.640639,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5844 Fremont St",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102083503,
         85824241
     ],
+    "wof:brand_id":1125150807,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_46mFMgyk94Y4LAr55xM5IL_40.848708_-96.640639@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464299694,
-    "wof:geomhash":"11456bfc12b87cfe608202d9550a7094",
+    "wof:geomhash":"eadefc036bb92c4cb6683c103363ff58",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":873893379,
-    "wof:lastmodified":1466668255,
+    "wof:lastmodified":1510697331,
     "wof:name":"Medicap Pharmacy",
     "wof:parent_id":85824241,
     "wof:placetype":"venue",

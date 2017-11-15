@@ -2,14 +2,20 @@
   "id": 873976373,
   "type": "Feature",
   "properties": {
+    "addr:full":"13805 P St Omaha NE 68137",
+    "addr:housenumber":"13805",
+    "addr:postcode":"68137",
+    "addr:street":"P St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.130594,41.206379,-96.130594,41.206379",
     "geom:latitude":41.206379,
     "geom:longitude":-96.130594,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"13805 P St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -39,13 +45,14 @@
         102082789,
         85688563
     ],
+    "wof:brand_id":1125157529,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Vd7MvRWGYx6FIc5jFjnNC_41.206379_-96.130594@1299784598"
     },
     "wof:country":"US",
     "wof:created":1464302236,
-    "wof:geomhash":"4e8e73df1d7a925fb3eb94082a2d1bd5",
+    "wof:geomhash":"220447bccc7ba9c546b83da6a8b163bb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,7 +66,7 @@
         }
     ],
     "wof:id":873976373,
-    "wof:lastmodified":1466669603,
+    "wof:lastmodified":1510699758,
     "wof:name":"Valentino's",
     "wof:parent_id":85872531,
     "wof:placetype":"venue",

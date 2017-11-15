@@ -2,6 +2,10 @@
   "id": 873579647,
   "type": "Feature",
   "properties": {
+    "addr:full":"12717 S 28th Ave Bellevue NE 68123",
+    "addr:housenumber":"12717",
+    "addr:postcode":"68123",
+    "addr:street":"S 28Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":873579647,
-    "wof:lastmodified":1466665871,
+    "wof:lastmodified":1472633796,
     "wof:name":"Physicians Lab",
     "wof:parent_id":85820061,
     "wof:placetype":"venue",

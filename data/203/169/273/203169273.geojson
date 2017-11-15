@@ -2,9 +2,14 @@
   "id": 203169273,
   "type": "Feature",
   "properties": {
+    "addr:full":"4420 Pioneer Greens Dr Lincoln NE 68526",
+    "addr:housenumber":"4420",
+    "addr:postcode":"68526",
+    "addr:street":"Pioneer Greens Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.602224,40.768685,-96.602224,40.768685",
     "geom:latitude":40.768685,
     "geom:longitude":-96.602224,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688563,
+        85878707,
+        102191575,
+        404521111,
         85633793,
         85973555,
         102083503,
-        85878707
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +49,10 @@
     "wof:geomhash":"c2a93c2526571e531898d167bcc85c70",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083503,
+            "localadmin_id":404521111,
             "locality_id":85973555,
             "neighbourhood_id":85878707,
             "region_id":85688563,
@@ -52,7 +60,7 @@
         }
     ],
     "wof:id":203169273,
-    "wof:lastmodified":1466666566,
+    "wof:lastmodified":1491932641,
     "wof:name":"Sterling Transportation S",
     "wof:parent_id":85878707,
     "wof:placetype":"venue",

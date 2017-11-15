@@ -2,9 +2,14 @@
   "id": 873724369,
   "type": "Feature",
   "properties": {
+    "addr:full":"438 Galvin Rd N Bellevue NE 68005",
+    "addr:housenumber":"438",
+    "addr:postcode":"68005",
+    "addr:street":"Galvin Rd N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.923792,41.165375,-95.923792,41.165375",
     "geom:latitude":41.165375,
     "geom:longitude":-95.923792,
@@ -30,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688563,
+        85804025,
+        102191575,
+        404519143,
         85633793,
         85974545,
         102082777,
-        85804025
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,8 +52,10 @@
     "wof:geomhash":"5150b25cf2e75c02b801a75d1c1928b3",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082777,
+            "localadmin_id":404519143,
             "locality_id":85974545,
             "neighbourhood_id":85804025,
             "region_id":85688563,
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":873724369,
-    "wof:lastmodified":1466666827,
+    "wof:lastmodified":1491931329,
     "wof:name":"Ed's Coins",
     "wof:parent_id":85804025,
     "wof:placetype":"venue",

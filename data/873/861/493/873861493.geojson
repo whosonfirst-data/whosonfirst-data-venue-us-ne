@@ -2,9 +2,14 @@
   "id": 873861493,
   "type": "Feature",
   "properties": {
+    "addr:full":"9704 S 21st Ave Bellevue NE 68123",
+    "addr:housenumber":"9704",
+    "addr:postcode":"68123",
+    "addr:street":"S 21St Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.943431,41.163096,-95.943431,41.163096",
     "geom:latitude":41.163096,
     "geom:longitude":-95.943431,
@@ -33,11 +38,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688563,
+        85821583,
+        102191575,
+        404519143,
         85633793,
         85974545,
         102082777,
-        85821583
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,8 +55,10 @@
     "wof:geomhash":"dea98ab3b0c2fb7b5be50ae1412eb53a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082777,
+            "localadmin_id":404519143,
             "locality_id":85974545,
             "neighbourhood_id":85821583,
             "region_id":85688563,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":873861493,
-    "wof:lastmodified":1466667950,
+    "wof:lastmodified":1491893207,
     "wof:name":"Ken Eakins Associates",
     "wof:parent_id":85821583,
     "wof:placetype":"venue",

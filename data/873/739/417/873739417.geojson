@@ -2,14 +2,20 @@
   "id": 873739417,
   "type": "Feature",
   "properties": {
+    "addr:full":"925 N Adams St Papillion NE 68046",
+    "addr:housenumber":"925",
+    "addr:postcode":"68046",
+    "addr:street":"N Adams St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.04429,41.170317,-96.04429,41.170317",
     "geom:latitude":41.170317,
     "geom:longitude":-96.04429,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"925 N Adams St",
     "sg:city":"Papillion",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         85843697,
         102082789
     ],
+    "wof:brand_id":1125151397,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2cPWA2sWOZwa1BfYUACLT9_41.170317_-96.044290@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464296912,
-    "wof:geomhash":"a3fa69cc609ca4196be3c76fb94c2a21",
+    "wof:geomhash":"b72c5950310fb52c1d3b570af915dfcc",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":873739417,
-    "wof:lastmodified":1466666928,
+    "wof:lastmodified":1510613539,
     "wof:name":"Texaco Xpress Lube",
     "wof:parent_id":85843697,
     "wof:placetype":"venue",

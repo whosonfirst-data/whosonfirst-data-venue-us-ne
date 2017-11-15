@@ -2,14 +2,20 @@
   "id": 873863835,
   "type": "Feature",
   "properties": {
+    "addr:full":"3820 N 90th St Omaha NE 68134",
+    "addr:housenumber":"3820",
+    "addr:postcode":"68134",
+    "addr:street":"N 90Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.053218,41.291635,-96.053218,41.291635",
     "geom:latitude":41.291635,
     "geom:longitude":-96.053218,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3820 N 90th St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102082789,
         85688563
     ],
+    "wof:brand_id":1125150239,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7h2Jib88LixCSAlXqLBKRb_41.291635_-96.053218@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464299111,
-    "wof:geomhash":"cd2a8db62a55d7089f6e5d4ed28d215e",
+    "wof:geomhash":"71a4e5966c8b30edfc0705f15f5ac814",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":873863835,
-    "wof:lastmodified":1466668009,
+    "wof:lastmodified":1510696771,
     "wof:name":"Grease Monkey",
     "wof:parent_id":85867061,
     "wof:placetype":"venue",

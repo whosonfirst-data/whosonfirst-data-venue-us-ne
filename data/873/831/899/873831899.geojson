@@ -2,14 +2,20 @@
   "id": 873831899,
   "type": "Feature",
   "properties": {
+    "addr:full":"370 N 114th St Omaha NE 68154",
+    "addr:housenumber":"370",
+    "addr:postcode":"68154",
+    "addr:street":"N 114Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.091077,41.260686,-96.091077,41.260686",
     "geom:latitude":41.260686,
     "geom:longitude":-96.091077,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"370 N 114th St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102082789,
         85688563
     ],
+    "wof:brand_id":420575423,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6WZeM1Qe3pkRD8okoqUqGf_41.260686_-96.091077@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464298373,
-    "wof:geomhash":"a3d3b9571709159e8626ce24e3681474",
+    "wof:geomhash":"c7fed706053c45b3cd13195605b7fbac",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":873831899,
-    "wof:lastmodified":1466667703,
+    "wof:lastmodified":1510602382,
     "wof:name":"PIP Printing",
     "wof:parent_id":85872503,
     "wof:placetype":"venue",

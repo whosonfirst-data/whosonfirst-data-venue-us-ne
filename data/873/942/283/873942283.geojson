@@ -2,14 +2,20 @@
   "id": 873942283,
   "type": "Feature",
   "properties": {
+    "addr:full":"2200 W Adams St Lincoln NE 68524",
+    "addr:housenumber":"2200",
+    "addr:postcode":"68524",
+    "addr:street":"W Adams St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.743164,40.842994,-96.743164,40.842994",
     "geom:latitude":40.842994,
     "geom:longitude":-96.743164,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2200 W Adams St",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102083503,
         85878717
     ],
+    "wof:brand_id":1125151817,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Em5VH1gDtc8s5Nmn4F5MU_40.842994_-96.743164@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464300778,
-    "wof:geomhash":"e50fad67ad2f472672a74a2a71d9bb1f",
+    "wof:geomhash":"5d460b7a625fae9d5150243a95641d93",
     "wof:hierarchy":[
         {
             "campus_id":102529023,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":873942283,
-    "wof:lastmodified":1466668831,
+    "wof:lastmodified":1510699271,
     "wof:name":"Airborne",
     "wof:parent_id":102529023,
     "wof:placetype":"venue",

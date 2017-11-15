@@ -2,9 +2,14 @@
   "id": 337287835,
   "type": "Feature",
   "properties": {
+    "addr:full":"3645 Adams St Ste B Lincoln NE 68504",
+    "addr:housenumber":"3645",
+    "addr:postcode":"68504",
+    "addr:street":"Adams St Ste B",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.668455,40.842621,-96.668455,40.842621",
     "geom:latitude":40.842621,
     "geom:longitude":-96.668455,
@@ -35,11 +40,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688563,
+        85878741,
+        102191575,
+        404521111,
         85633793,
         85973555,
         102083503,
-        85878741
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,9 +56,10 @@
     "wof:geomhash":"0156702198b8d7acb04e114f2a2301a7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083503,
+            "localadmin_id":404521111,
             "locality_id":85973555,
             "neighbourhood_id":85878741,
             "region_id":85688563,
@@ -59,7 +67,7 @@
         }
     ],
     "wof:id":337287835,
-    "wof:lastmodified":1466665577,
+    "wof:lastmodified":1491903378,
     "wof:name":"Paul's Towing",
     "wof:parent_id":85878741,
     "wof:placetype":"venue",

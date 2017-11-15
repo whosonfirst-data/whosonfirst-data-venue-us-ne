@@ -2,14 +2,20 @@
   "id": 873956173,
   "type": "Feature",
   "properties": {
+    "addr:full":"508 S Polk St Papillion NE 68046",
+    "addr:housenumber":"508",
+    "addr:postcode":"68046",
+    "addr:street":"S Polk St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.049555,41.151753,-96.049555,41.151753",
     "geom:latitude":41.151753,
     "geom:longitude":-96.049555,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"508 S Polk St",
     "sg:city":"Papillion",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85843697,
         102082789
     ],
+    "wof:brand_id":1125156485,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1d3P7Xhpw5jhqSUVEqHhqt_41.151753_-96.049555@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464301379,
-    "wof:geomhash":"6c6e4c37e9cd2b6ac9e27ec6ba571b9e",
+    "wof:geomhash":"d740488bb2cbb8d9d7edfee68625551b",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":873956173,
-    "wof:lastmodified":1466669080,
+    "wof:lastmodified":1510695425,
     "wof:name":"St Paul's United Methodist Chr",
     "wof:parent_id":85843697,
     "wof:placetype":"venue",

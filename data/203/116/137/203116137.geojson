@@ -2,9 +2,14 @@
   "id": 203116137,
   "type": "Feature",
   "properties": {
+    "addr:full":"4523 S 88th St Omaha NE 68127",
+    "addr:housenumber":"4523",
+    "addr:postcode":"68127",
+    "addr:street":"S 88Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.048113,41.215156,-96.048113,41.215156",
     "geom:latitude":41.215156,
     "geom:longitude":-96.048113,
@@ -29,11 +34,13 @@
     "sg:website":"http://www.htmsales.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688563,
+        85872511,
+        102191575,
+        404518711,
         85633793,
         85973483,
         102082789,
-        85872511
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +50,10 @@
     "wof:geomhash":"b9f6086b166d3dbc04a96e8e4ebbd465",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082789,
+            "localadmin_id":404518711,
             "locality_id":85973483,
             "neighbourhood_id":85872511,
             "region_id":85688563,
@@ -53,7 +61,7 @@
         }
     ],
     "wof:id":203116137,
-    "wof:lastmodified":1466666280,
+    "wof:lastmodified":1491885190,
     "wof:name":"Htm Sales Inc",
     "wof:parent_id":85872511,
     "wof:placetype":"venue",

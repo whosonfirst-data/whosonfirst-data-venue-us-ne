@@ -2,14 +2,20 @@
   "id": 873876621,
   "type": "Feature",
   "properties": {
+    "addr:full":"2125 N 120th St Omaha NE 68164",
+    "addr:housenumber":"2125",
+    "addr:postcode":"68164",
+    "addr:street":"N 120Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.100446,41.27922,-96.100446,41.27922",
     "geom:latitude":41.27922,
     "geom:longitude":-96.100446,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2125 N 120th St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102082789,
         85688563
     ],
+    "wof:brand_id":1125155407,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1exGkNjn8jcUDz1zlii3zD_41.279220_-96.100446@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464299364,
-    "wof:geomhash":"8b65b0412d7223a12b61fe033bd900e7",
+    "wof:geomhash":"86eda1401286d6e9a2f5047c1fd328ca",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":873876621,
-    "wof:lastmodified":1466668107,
+    "wof:lastmodified":1510695073,
     "wof:name":"New Horizons Computer Learning",
     "wof:parent_id":85872503,
     "wof:placetype":"venue",

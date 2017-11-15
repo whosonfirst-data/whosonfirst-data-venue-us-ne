@@ -2,14 +2,20 @@
   "id": 873711347,
   "type": "Feature",
   "properties": {
+    "addr:full":"9425 Laurel Cir Omaha NE 68134",
+    "addr:housenumber":"9425",
+    "addr:postcode":"68134",
+    "addr:street":"Laurel Cir",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.060875,41.311707,-96.060875,41.311707",
     "geom:latitude":41.311707,
     "geom:longitude":-96.060875,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"9425 Laurel Cir",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85872505,
         102082789
     ],
+    "wof:brand_id":420575423,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1P6wQ4ItPKhDgWZBL8KH2c_41.311707_-96.060875@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464296537,
-    "wof:geomhash":"cb95964fa722e587cc9f6cc8c16fe26c",
+    "wof:geomhash":"7aa1eae3ae180edc3876df95d42cd68d",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":873711347,
-    "wof:lastmodified":1466666733,
+    "wof:lastmodified":1510602381,
     "wof:name":"PIP Printing",
     "wof:parent_id":85872505,
     "wof:placetype":"venue",

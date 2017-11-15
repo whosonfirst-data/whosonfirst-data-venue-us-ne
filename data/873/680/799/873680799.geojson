@@ -2,6 +2,10 @@
   "id": 873680799,
   "type": "Feature",
   "properties": {
+    "addr:full":"4245 S 143rd Cir Omaha NE 68137",
+    "addr:housenumber":"4245",
+    "addr:postcode":"68137",
+    "addr:street":"S 143Rd Cir",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":873680799,
-    "wof:lastmodified":1466666585,
+    "wof:lastmodified":1472633845,
     "wof:name":"Davis Design",
     "wof:parent_id":85872531,
     "wof:placetype":"venue",

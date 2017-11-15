@@ -2,9 +2,14 @@
   "id": 873754959,
   "type": "Feature",
   "properties": {
+    "addr:full":"309 Douglas Dr Bellevue NE 68005",
+    "addr:housenumber":"309",
+    "addr:postcode":"68005",
+    "addr:street":"Douglas Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.903443,41.158563,-95.903443,41.158563",
     "geom:latitude":41.158563,
     "geom:longitude":-95.903443,
@@ -25,11 +30,13 @@
     "sg:province":"NE",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688563,
+        85804025,
+        102191575,
+        404519143,
         85633793,
         85974545,
         102082777,
-        85804025
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,8 +47,10 @@
     "wof:geomhash":"10e4fd7dd3244e9aa3c50b8779a38096",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082777,
+            "localadmin_id":404519143,
             "locality_id":85974545,
             "neighbourhood_id":85804025,
             "region_id":85688563,
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":873754959,
-    "wof:lastmodified":1466667087,
+    "wof:lastmodified":1491931333,
     "wof:name":"Mike Jungers",
     "wof:parent_id":85804025,
     "wof:placetype":"venue",

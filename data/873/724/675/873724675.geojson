@@ -2,14 +2,20 @@
   "id": 873724675,
   "type": "Feature",
   "properties": {
+    "addr:full":"120 O St Lincoln NE 68508",
+    "addr:housenumber":"120",
+    "addr:postcode":"68508",
+    "addr:street":"O St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.719008,40.813771,-96.719008,40.813771",
     "geom:latitude":40.813771,
     "geom:longitude":-96.719008,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"120 O St",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102083503,
         85688563
     ],
+    "wof:brand_id":1125159631,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Ms8ZASzs5Nx4ozkr9MTo7_40.813771_-96.719008@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464296708,
-    "wof:geomhash":"0847ee03dcf787bb43d37e0a8f7ae1cc",
+    "wof:geomhash":"e9a6f975248a5606bec78bda5f6cf5c2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":873724675,
-    "wof:lastmodified":1466666852,
+    "wof:lastmodified":1510695700,
     "wof:name":"OReilly Automotive Inc",
     "wof:parent_id":85878737,
     "wof:placetype":"venue",

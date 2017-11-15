@@ -2,9 +2,14 @@
   "id": 873931511,
   "type": "Feature",
   "properties": {
+    "addr:full":"4815 Cornhusker Hwy Lincoln NE 68504",
+    "addr:housenumber":"4815",
+    "addr:postcode":"68504",
+    "addr:street":"Cornhusker Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.658874,40.848755,-96.658874,40.848755",
     "geom:latitude":40.848755,
     "geom:longitude":-96.658874,
@@ -30,13 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85853163,
+        85878741,
         102191575,
         404521111,
         85633793,
         85973555,
         102083503,
-        85688563
+        85688563,
+        85853163
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,15 +58,25 @@
             "county_id":102083503,
             "localadmin_id":404521111,
             "locality_id":85973555,
+            "neighbourhood_id":85878741,
+            "region_id":85688563,
+            "venue_id":873931511
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083503,
+            "localadmin_id":404521111,
+            "locality_id":85973555,
             "neighbourhood_id":85853163,
             "region_id":85688563,
             "venue_id":873931511
         }
     ],
     "wof:id":873931511,
-    "wof:lastmodified":1466668700,
+    "wof:lastmodified":1491903378,
     "wof:name":"I Deal Wheels Inc",
-    "wof:parent_id":85853163,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],

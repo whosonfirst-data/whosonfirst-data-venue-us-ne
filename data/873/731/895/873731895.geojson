@@ -2,9 +2,14 @@
   "id": 873731895,
   "type": "Feature",
   "properties": {
+    "addr:full":"707 Fort Crook Rd N Bellevue NE 68005",
+    "addr:housenumber":"707",
+    "addr:postcode":"68005",
+    "addr:street":"Fort Crook Rd N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.925435,41.171931,-95.925435,41.171931",
     "geom:latitude":41.171931,
     "geom:longitude":-95.925435,
@@ -30,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688563,
+        85804025,
+        102191575,
+        404519143,
         85633793,
         85974545,
         102082777,
-        85804025
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,8 +52,10 @@
     "wof:geomhash":"0035464ac3a6db50c72dff6396edb1bd",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082777,
+            "localadmin_id":404519143,
             "locality_id":85974545,
             "neighbourhood_id":85804025,
             "region_id":85688563,
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":873731895,
-    "wof:lastmodified":1466666939,
+    "wof:lastmodified":1491931326,
     "wof:name":"Penske Truck Rental & Leasing",
     "wof:parent_id":85804025,
     "wof:placetype":"venue",

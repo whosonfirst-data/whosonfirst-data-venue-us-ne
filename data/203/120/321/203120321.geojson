@@ -2,6 +2,10 @@
   "id": 203120321,
   "type": "Feature",
   "properties": {
+    "addr:full":"555 N 30th St Omaha NE 68131",
+    "addr:housenumber":"555",
+    "addr:postcode":"68131",
+    "addr:street":"N 30Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":203120321,
-    "wof:lastmodified":1466666297,
+    "wof:lastmodified":1472633917,
     "wof:name":"Emanuel Jane M MD",
     "wof:parent_id":85872525,
     "wof:placetype":"venue",

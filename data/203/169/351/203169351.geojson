@@ -2,6 +2,10 @@
   "id": 203169351,
   "type": "Feature",
   "properties": {
+    "addr:full":"6100 W O St Bldg 91 Lincoln NE 68528",
+    "addr:housenumber":"6100;91",
+    "addr:postcode":"68528",
+    "addr:street":"W O St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":203169351,
-    "wof:lastmodified":1466666568,
+    "wof:lastmodified":1472633924,
     "wof:name":"Mr Wus Chinese Gourmet",
     "wof:parent_id":85813295,
     "wof:placetype":"venue",

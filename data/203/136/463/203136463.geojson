@@ -2,14 +2,20 @@
   "id": 203136463,
   "type": "Feature",
   "properties": {
+    "addr:full":"3217 N 90th St Omaha NE 68134",
+    "addr:housenumber":"3217",
+    "addr:postcode":"68134",
+    "addr:street":"N 90Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.052271,41.286539,-96.052271,41.286539",
     "geom:latitude":41.286539,
     "geom:longitude":-96.052271,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3217 N 90th St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -47,12 +53,13 @@
         102082789,
         85867061
     ],
+    "wof:brand_id":1125157687,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3lERrh3qfUX8DGkkwSQByl_41.286539_-96.052271@1303262942"
     },
     "wof:country":"US",
-    "wof:geomhash":"6c33ecec4487180202ce970275ffdb73",
+    "wof:geomhash":"96c1b7c92ea52c3f1c0fa83cb2fde1c7",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -65,7 +72,7 @@
         }
     ],
     "wof:id":203136463,
-    "wof:lastmodified":1466666424,
+    "wof:lastmodified":1510699514,
     "wof:name":"Novus Auto Glass Repair",
     "wof:parent_id":85867061,
     "wof:placetype":"venue",

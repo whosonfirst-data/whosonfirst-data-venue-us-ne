@@ -2,6 +2,10 @@
   "id": 873735209,
   "type": "Feature",
   "properties": {
+    "addr:full":"2312 Village Ct Omaha NE 68144",
+    "addr:housenumber":"2312",
+    "addr:postcode":"68144",
+    "addr:street":"Village Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":873735209,
-    "wof:lastmodified":1466666895,
+    "wof:lastmodified":1472633786,
     "wof:name":"Single Source",
     "wof:parent_id":85872531,
     "wof:placetype":"venue",

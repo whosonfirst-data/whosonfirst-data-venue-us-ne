@@ -2,9 +2,14 @@
   "id": 203166137,
   "type": "Feature",
   "properties": {
+    "addr:full":"3001 S 51st St Lincoln NE 68506",
+    "addr:housenumber":"3001",
+    "addr:postcode":"68506",
+    "addr:street":"S 51St St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.651594,40.783058,-96.651594,40.783058",
     "geom:latitude":40.783058,
     "geom:longitude":-96.651594,
@@ -25,11 +30,13 @@
     "sg:province":"NE",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688563,
+        85878735,
+        102191575,
+        404521111,
         85633793,
         85973555,
         102083503,
-        85878735
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,9 +46,10 @@
     "wof:geomhash":"67548994bda2e7da46cbe772bb69f77c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083503,
+            "localadmin_id":404521111,
             "locality_id":85973555,
             "neighbourhood_id":85878735,
             "region_id":85688563,
@@ -49,7 +57,7 @@
         }
     ],
     "wof:id":203166137,
-    "wof:lastmodified":1466666545,
+    "wof:lastmodified":1491893379,
     "wof:name":"Villa Hair Care",
     "wof:parent_id":85878735,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 873753245,
   "type": "Feature",
   "properties": {
+    "addr:full":"6401 Pine Lake Rd Lincoln NE 68516",
+    "addr:housenumber":"6401",
+    "addr:postcode":"68516",
+    "addr:street":"Pine Lake Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.633654,40.74075,-96.633654,40.74075",
     "geom:latitude":40.74075,
     "geom:longitude":-96.633654,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6401 Pine Lake Rd",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102083503,
         85688563
     ],
+    "wof:brand_id":1125152251,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0AErKb4EgcLwQMOol49Jv1_40.740750_-96.633654@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464297122,
-    "wof:geomhash":"9425d8075370573605215b637f5e4c74",
+    "wof:geomhash":"46fe74fa900818c7ce560d613d893add",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":873753245,
-    "wof:lastmodified":1466667016,
+    "wof:lastmodified":1510604943,
     "wof:name":"Youth For Christ",
     "wof:parent_id":85878707,
     "wof:placetype":"venue",

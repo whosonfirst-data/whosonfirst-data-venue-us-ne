@@ -2,14 +2,20 @@
   "id": 873744145,
   "type": "Feature",
   "properties": {
+    "addr:full":"1210 Royal Dr Papillion NE 68046",
+    "addr:housenumber":"1210",
+    "addr:postcode":"68046",
+    "addr:street":"Royal Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.04217,41.172805,-96.04217,41.172805",
     "geom:latitude":41.172805,
     "geom:longitude":-96.04217,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1210 Royal Dr",
     "sg:city":"Papillion",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85843697,
         102082789
     ],
+    "wof:brand_id":420574359,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3UdJE7aWhhOVqDpbNkt8G0_41.172805_-96.042170@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464296996,
-    "wof:geomhash":"85ca976e4140657e5588e4f2b5b0ad94",
+    "wof:geomhash":"a35afecac33ab8a4bf4e9a82d9e339f1",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":873744145,
-    "wof:lastmodified":1466666951,
+    "wof:lastmodified":1510604166,
     "wof:name":"United Rentals",
     "wof:parent_id":85843697,
     "wof:placetype":"venue",

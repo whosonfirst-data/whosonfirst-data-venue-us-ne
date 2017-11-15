@@ -2,9 +2,14 @@
   "id": 873654965,
   "type": "Feature",
   "properties": {
+    "addr:full":"11412 S 47th St Papillion NE 68133",
+    "addr:housenumber":"11412",
+    "addr:postcode":"68133",
+    "addr:street":"S 47Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.984816,41.141469,-95.984816,41.141469",
     "geom:latitude":41.141469,
     "geom:longitude":-95.984816,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688563,
+        85821583,
+        102191575,
+        404519143,
         85633793,
         85974545,
         102082777,
-        85821583
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,8 +50,10 @@
     "wof:geomhash":"3bb99997e0cd7982bee8d553c23e0941",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082777,
+            "localadmin_id":404519143,
             "locality_id":85974545,
             "neighbourhood_id":85821583,
             "region_id":85688563,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":873654965,
-    "wof:lastmodified":1466666381,
+    "wof:lastmodified":1491893176,
     "wof:name":"Omahalink",
     "wof:parent_id":85821583,
     "wof:placetype":"venue",

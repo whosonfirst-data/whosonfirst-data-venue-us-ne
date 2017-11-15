@@ -2,14 +2,20 @@
   "id": 873934071,
   "type": "Feature",
   "properties": {
+    "addr:full":"1205 Golden Gate Dr Papillion NE 68046",
+    "addr:housenumber":"1205",
+    "addr:postcode":"68046",
+    "addr:street":"Golden Gate Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.04179,41.142891,-96.04179,41.142891",
     "geom:latitude":41.142891,
     "geom:longitude":-96.04179,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1205 Golden Gate Dr",
     "sg:city":"Papillion",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85843697,
         102082789
     ],
+    "wof:brand_id":420574285,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6lNeUrASg4Hr9B9BLOGe8a_41.142891_-96.041790@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464300482,
-    "wof:geomhash":"0da412161becc7a47bc4cb2f0ea5c499",
+    "wof:geomhash":"56e6d16483f453660c36c19af0cd689d",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":873934071,
-    "wof:lastmodified":1466668678,
+    "wof:lastmodified":1510603884,
     "wof:name":"Shelter Insurance",
     "wof:parent_id":85843697,
     "wof:placetype":"venue",

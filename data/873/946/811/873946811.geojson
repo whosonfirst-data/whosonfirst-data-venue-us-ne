@@ -2,6 +2,10 @@
   "id": 873946811,
   "type": "Feature",
   "properties": {
+    "addr:full":"333 S 132nd St Omaha NE 68154",
+    "addr:housenumber":"333",
+    "addr:postcode":"68154",
+    "addr:street":"S 132Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":873946811,
-    "wof:lastmodified":1466669026,
+    "wof:lastmodified":1472634087,
     "wof:name":"B'Nai B'Rith Youth Org",
     "wof:parent_id":85806957,
     "wof:placetype":"venue",

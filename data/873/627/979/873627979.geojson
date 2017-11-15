@@ -2,14 +2,20 @@
   "id": 873627979,
   "type": "Feature",
   "properties": {
+    "addr:full":"6400 Cornhusker Hwy Lincoln NE 68507",
+    "addr:housenumber":"6400",
+    "addr:postcode":"68507",
+    "addr:street":"Cornhusker Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.637069,40.865321,-96.637069,40.865321",
     "geom:latitude":40.865321,
     "geom:longitude":-96.637069,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6400 Cornhusker Hwy",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102083503,
         85824241
     ],
+    "wof:brand_id":1125152915,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5iE0NQSkrPnzsmDWnGfPug_40.865321_-96.637069@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464295340,
-    "wof:geomhash":"e4f2365e6299328d3a02f5195fe17525",
+    "wof:geomhash":"036ab4fd9db69ff7212a614d80f26dbf",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":873627979,
-    "wof:lastmodified":1466666218,
+    "wof:lastmodified":1510697217,
     "wof:name":"Two Men & A Truck",
     "wof:parent_id":85824241,
     "wof:placetype":"venue",

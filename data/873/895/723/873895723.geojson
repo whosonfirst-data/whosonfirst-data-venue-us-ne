@@ -2,14 +2,20 @@
   "id": 873895723,
   "type": "Feature",
   "properties": {
+    "addr:full":"7160 S 29th St Lincoln NE 68516",
+    "addr:housenumber":"7160",
+    "addr:postcode":"68516",
+    "addr:street":"S 29Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.678326,40.739004,-96.678326,40.739004",
     "geom:latitude":40.739004,
     "geom:longitude":-96.678326,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7160 S 29th St",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102083503,
         85878733
     ],
+    "wof:brand_id":1125155393,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5SBUCFQTZzztpMNPkrDHTg_40.739004_-96.678326@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464299734,
-    "wof:geomhash":"e9d0cba6a236e99da4919b7bdc3ba1b2",
+    "wof:geomhash":"0711d4d1e28922c1fcee585b415487ec",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":873895723,
-    "wof:lastmodified":1466668312,
+    "wof:lastmodified":1510698646,
     "wof:name":"Massachusetts Mutual Life Ins",
     "wof:parent_id":85878733,
     "wof:placetype":"venue",

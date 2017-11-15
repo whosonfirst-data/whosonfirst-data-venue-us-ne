@@ -2,14 +2,20 @@
   "id": 873865547,
   "type": "Feature",
   "properties": {
+    "addr:full":"6902 S 36th St Bellevue NE 68147",
+    "addr:housenumber":"6902",
+    "addr:postcode":"68147",
+    "addr:street":"S 36Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.967479,41.190104,-95.967479,41.190104",
     "geom:latitude":41.190104,
     "geom:longitude":-95.967479,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6902 S 36th St",
     "sg:city":"Bellevue",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102082777,
         85688563
     ],
+    "wof:brand_id":1125152393,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1h2TvUa48LFVEIhZriCLEQ_41.190104_-95.967479@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464299148,
-    "wof:geomhash":"cb32e32e31f3420844c57892d8f669b7",
+    "wof:geomhash":"43e4881815633f3a711f36b3afc71296",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":873865547,
-    "wof:lastmodified":1466667999,
+    "wof:lastmodified":1510613364,
     "wof:name":"Cutting Crew",
     "wof:parent_id":85849923,
     "wof:placetype":"venue",

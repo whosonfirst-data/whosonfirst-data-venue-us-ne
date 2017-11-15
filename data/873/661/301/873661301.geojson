@@ -2,14 +2,20 @@
   "id": 873661301,
   "type": "Feature",
   "properties": {
+    "addr:full":"2610 S Locust St Grand Island NE 68801",
+    "addr:housenumber":"2610",
+    "addr:postcode":"68801",
+    "addr:street":"S Locust St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-98.339853,40.896526,-98.339853,40.896526",
     "geom:latitude":40.896526,
     "geom:longitude":-98.339853,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2610 S Locust St",
     "sg:city":"Grand Island",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102083477,
         85688563
     ],
+    "wof:brand_id":1125158977,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0xDEhTe650PfK9ufPlMTTB_40.896526_-98.339853@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464295711,
-    "wof:geomhash":"708be7f3e0234052fd4975ae917a095c",
+    "wof:geomhash":"95fd41a65059b54975d4038aacc0e1c4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":873661301,
-    "wof:lastmodified":1466666376,
+    "wof:lastmodified":1510696033,
     "wof:name":"El Tapatio",
     "wof:parent_id":85840711,
     "wof:placetype":"venue",

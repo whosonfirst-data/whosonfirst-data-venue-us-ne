@@ -2,14 +2,20 @@
   "id": 873977061,
   "type": "Feature",
   "properties": {
+    "addr:full":"201 Capitol Beach Blvd Lincoln NE 68528",
+    "addr:housenumber":"201",
+    "addr:postcode":"68528",
+    "addr:street":"Capitol Beach Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.740979,40.814564,-96.740979,40.814564",
     "geom:latitude":40.814564,
     "geom:longitude":-96.740979,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"201 Capitol Beach Blvd",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -39,13 +45,14 @@
         102083503,
         85688563
     ],
+    "wof:brand_id":1125157529,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7EHzsqfkwdQtF4vfzJr2gk_40.814564_-96.740979@1299784598"
     },
     "wof:country":"US",
     "wof:created":1464302263,
-    "wof:geomhash":"b0b8ef005f35c6e45dbe3cc636202012",
+    "wof:geomhash":"4446d92bfc87466fab6ce69d6e298d6a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,7 +66,7 @@
         }
     ],
     "wof:id":873977061,
-    "wof:lastmodified":1466669556,
+    "wof:lastmodified":1510699758,
     "wof:name":"Valentino's",
     "wof:parent_id":85878689,
     "wof:placetype":"venue",

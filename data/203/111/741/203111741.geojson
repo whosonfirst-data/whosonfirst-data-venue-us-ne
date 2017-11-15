@@ -2,9 +2,14 @@
   "id": 203111741,
   "type": "Feature",
   "properties": {
+    "addr:full":"3251 Westgate Rd Omaha NE 68124",
+    "addr:housenumber":"3251",
+    "addr:postcode":"68124",
+    "addr:street":"Westgate Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.030701,41.22953,-96.030701,41.22953",
     "geom:latitude":41.22953,
     "geom:longitude":-96.030701,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688563,
+        85867059,
+        102191575,
+        404518711,
         85633793,
         85973483,
         102082789,
-        85867059
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +49,10 @@
     "wof:geomhash":"40d802ce7c2fa173b0b968bdd43c37a8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082789,
+            "localadmin_id":404518711,
             "locality_id":85973483,
             "neighbourhood_id":85867059,
             "region_id":85688563,
@@ -52,7 +60,7 @@
         }
     ],
     "wof:id":203111741,
-    "wof:lastmodified":1466666268,
+    "wof:lastmodified":1491920569,
     "wof:name":"Ralph Peitzmeier Builder",
     "wof:parent_id":85867059,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 873795497,
   "type": "Feature",
   "properties": {
+    "addr:full":"4724 N 111th Cir Omaha NE 68164",
+    "addr:housenumber":"4724",
+    "addr:postcode":"68164",
+    "addr:street":"N 111Th Cir",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":873795497,
-    "wof:lastmodified":1466667316,
+    "wof:lastmodified":1472633889,
     "wof:name":"Hornek Real Estate Svc",
     "wof:parent_id":85872505,
     "wof:placetype":"venue",

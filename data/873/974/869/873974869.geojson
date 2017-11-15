@@ -2,14 +2,20 @@
   "id": 873974869,
   "type": "Feature",
   "properties": {
+    "addr:full":"806 Village Sq Gretna NE 68028",
+    "addr:housenumber":"806",
+    "addr:postcode":"68028",
+    "addr:street":"Village Sq;Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.239641,41.145879,-96.239641,41.145879",
     "geom:latitude":41.145879,
     "geom:longitude":-96.239641,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"806 Village Sq",
     "sg:city":"Gretna",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         85834285,
         102082789
     ],
+    "wof:brand_id":420575225,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_76iwDkMSoZAtw2xw6guN8R_41.145842_-96.239574@1293134755"
     },
     "wof:country":"US",
     "wof:created":1464302186,
-    "wof:geomhash":"4c4f7c05bae7c3f5d3bcb30003e1580d",
+    "wof:geomhash":"ce234b737f66a0a8d0f0d33beecd8a20",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":873974869,
-    "wof:lastmodified":1466669730,
+    "wof:lastmodified":1510601920,
     "wof:name":"Godfather's Pizza",
     "wof:parent_id":85834285,
     "wof:placetype":"venue",

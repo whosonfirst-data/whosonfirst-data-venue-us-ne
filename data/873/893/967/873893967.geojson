@@ -2,14 +2,20 @@
   "id": 873893967,
   "type": "Feature",
   "properties": {
+    "addr:full":"7921 Dodge St Omaha NE 68114",
+    "addr:housenumber":"7921",
+    "addr:postcode":"68114",
+    "addr:street":"Dodge St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.038693,41.259601,-96.038693,41.259601",
     "geom:latitude":41.259601,
     "geom:longitude":-96.038693,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7921 Dodge St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102082789,
         85688563
     ],
+    "wof:brand_id":1125150317,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4whI39kSFAQaQF0J5W6s5h_41.259601_-96.038693@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464299704,
-    "wof:geomhash":"d274d4675ec3985f6c33abb03743a47b",
+    "wof:geomhash":"cc9c9492783cf88325068ba6faaa29ff",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":873893967,
-    "wof:lastmodified":1466668329,
+    "wof:lastmodified":1510697389,
     "wof:name":"Securities America Inc",
     "wof:parent_id":85872509,
     "wof:placetype":"venue",

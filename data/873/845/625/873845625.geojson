@@ -2,6 +2,10 @@
   "id": 873845625,
   "type": "Feature",
   "properties": {
+    "addr:full":"11111 S 84th St Papillion NE 68046",
+    "addr:housenumber":"11111",
+    "addr:postcode":"68046",
+    "addr:street":"S 84Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":873845625,
-    "wof:lastmodified":1466667800,
+    "wof:lastmodified":1472633963,
     "wof:name":"Alegent Health Midlands Hosp",
     "wof:parent_id":85843697,
     "wof:placetype":"venue",

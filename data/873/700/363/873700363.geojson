@@ -2,6 +2,10 @@
   "id": 873700363,
   "type": "Feature",
   "properties": {
+    "addr:full":"1501 Park Ave Omaha NE 68105",
+    "addr:housenumber":"1501",
+    "addr:postcode":"68105",
+    "addr:street":"Park",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":873700363,
-    "wof:lastmodified":1466666676,
+    "wof:lastmodified":1472633779,
     "wof:name":"Omaha Housing Auth Park Towers",
     "wof:parent_id":85872527,
     "wof:placetype":"venue",

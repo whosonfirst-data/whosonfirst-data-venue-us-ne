@@ -2,6 +2,10 @@
   "id": 873912811,
   "type": "Feature",
   "properties": {
+    "addr:full":"12289 W Center Rd Omaha NE 68144",
+    "addr:housenumber":"12289",
+    "addr:postcode":"68144",
+    "addr:street":"W Center Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":873912811,
-    "wof:lastmodified":1466668541,
+    "wof:lastmodified":1472634031,
     "wof:name":"Payless Shoe Source",
     "wof:parent_id":85872531,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 873656947,
   "type": "Feature",
   "properties": {
+    "addr:full":"229 Gateway Mall Lincoln NE 68505",
+    "addr:housenumber":"229",
+    "addr:postcode":"68505",
+    "addr:street":"Gateway Mall",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.641432,40.814103,-96.641432,40.814103",
     "geom:latitude":40.814103,
     "geom:longitude":-96.641432,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"229 Gateway Mall",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -41,13 +47,14 @@
         102083503,
         85688563
     ],
+    "wof:brand_id":1125153211,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4hIkwVOM7RBLM9ITzClbKl_40.814103_-96.641432@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464295666,
-    "wof:geomhash":"882a734c9946af6f1f48f5533ba6279e",
+    "wof:geomhash":"01fa8db80cef5eddd65f68a51ea98c3b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,7 +68,7 @@
         }
     ],
     "wof:id":873656947,
-    "wof:lastmodified":1466666391,
+    "wof:lastmodified":1510693772,
     "wof:name":"Deck The Walls",
     "wof:parent_id":85878703,
     "wof:placetype":"venue",

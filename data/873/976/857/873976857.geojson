@@ -2,14 +2,20 @@
   "id": 873976857,
   "type": "Feature",
   "properties": {
+    "addr:full":"100 N 1st St Lincoln NE 68508",
+    "addr:housenumber":"100",
+    "addr:postcode":"68508",
+    "addr:street":"N 1St St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.720244,40.813772,-96.720244,40.813772",
     "geom:latitude":40.813772,
     "geom:longitude":-96.720244,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"100 N 1st St",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -40,13 +46,14 @@
         102083503,
         85688563
     ],
+    "wof:brand_id":1125154131,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4MvQ0QqMbu9yf4rVRFuxFk_40.813772_-96.720244@1299784598"
     },
     "wof:country":"US",
     "wof:created":1464302256,
-    "wof:geomhash":"d2a415bc9b6cc82afbe279cf8720d60b",
+    "wof:geomhash":"62d74540a5fa35c9b25d0b300ec5b927",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,7 +67,7 @@
         }
     ],
     "wof:id":873976857,
-    "wof:lastmodified":1466669730,
+    "wof:lastmodified":1510699748,
     "wof:name":"Mr. Goodcents Subs & Pasta",
     "wof:parent_id":85878737,
     "wof:placetype":"venue",

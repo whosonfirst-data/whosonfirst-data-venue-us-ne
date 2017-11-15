@@ -2,14 +2,20 @@
   "id": 873550261,
   "type": "Feature",
   "properties": {
+    "addr:full":"13076 Renfro Cir Omaha NE 68137",
+    "addr:housenumber":"13076",
+    "addr:postcode":"68137",
+    "addr:street":"Renfro Cir",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.11798,41.203157,-96.11798,41.203157",
     "geom:latitude":41.203157,
     "geom:longitude":-96.11798,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"13076 Renfro Cir",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102082789,
         85688563
     ],
+    "wof:brand_id":1125153565,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5vD9m04gWh4cmiKj6S5kyH_41.203157_-96.117980@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464294381,
-    "wof:geomhash":"ddb66dbe9ce41ac4e2213bd6834f883f",
+    "wof:geomhash":"3445825958024b27329e97decdf94d7f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":873550261,
-    "wof:lastmodified":1466665668,
+    "wof:lastmodified":1510693203,
     "wof:name":"Tyson Foods Inc",
     "wof:parent_id":85872531,
     "wof:placetype":"venue",

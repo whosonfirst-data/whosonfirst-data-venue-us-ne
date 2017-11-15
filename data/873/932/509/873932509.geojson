@@ -2,6 +2,10 @@
   "id": 873932509,
   "type": "Feature",
   "properties": {
+    "addr:full":"4312 Leavenworth St Omaha NE 68105",
+    "addr:housenumber":"4312",
+    "addr:postcode":"68105",
+    "addr:street":"Leavenworth St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":873932509,
-    "wof:lastmodified":1466668703,
+    "wof:lastmodified":1472634044,
     "wof:name":"Sandhills Heating and Cooling",
     "wof:parent_id":85872523,
     "wof:placetype":"venue",

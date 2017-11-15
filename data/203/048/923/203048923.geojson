@@ -2,9 +2,14 @@
   "id": 203048923,
   "type": "Feature",
   "properties": {
+    "addr:full":"2821 N 56th St Omaha NE 68104",
+    "addr:housenumber":"2821",
+    "addr:postcode":"68104",
+    "addr:street":"N 56Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.999901,41.2841,-95.999901,41.2841",
     "geom:latitude":41.2841,
     "geom:longitude":-95.999901,
@@ -29,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688563,
+        85872535,
+        102191575,
+        404518711,
         85633793,
         85973483,
         102082789,
-        85872535
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +50,10 @@
     "wof:geomhash":"027d9c28e93e5a3dc67b16bfb1d389f5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082789,
+            "localadmin_id":404518711,
             "locality_id":85973483,
             "neighbourhood_id":85872535,
             "region_id":85688563,
@@ -53,7 +61,7 @@
         }
     ],
     "wof:id":203048923,
-    "wof:lastmodified":1466665895,
+    "wof:lastmodified":1491888416,
     "wof:name":"Kelley Lawrence J DDS",
     "wof:parent_id":85872535,
     "wof:placetype":"venue",

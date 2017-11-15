@@ -2,9 +2,14 @@
   "id": 203048403,
   "type": "Feature",
   "properties": {
+    "addr:full":"6135 Military Ave Omaha NE 68104",
+    "addr:housenumber":"6135",
+    "addr:postcode":"68104",
+    "addr:street":"Military Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.007797,41.286701,-96.007797,41.286701",
     "geom:latitude":41.286701,
     "geom:longitude":-96.007797,
@@ -25,11 +30,13 @@
     "sg:province":"NE",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688563,
+        85872535,
+        102191575,
+        404518711,
         85633793,
         85973483,
         102082789,
-        85872535
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,9 +46,10 @@
     "wof:geomhash":"fd9e94eb12abf86591fe0f21df372a0a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082789,
+            "localadmin_id":404518711,
             "locality_id":85973483,
             "neighbourhood_id":85872535,
             "region_id":85688563,
@@ -49,7 +57,7 @@
         }
     ],
     "wof:id":203048403,
-    "wof:lastmodified":1466665884,
+    "wof:lastmodified":1491888399,
     "wof:name":"Full House",
     "wof:parent_id":85872535,
     "wof:placetype":"venue",

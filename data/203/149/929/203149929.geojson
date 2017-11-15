@@ -2,9 +2,14 @@
   "id": 203149929,
   "type": "Feature",
   "properties": {
+    "addr:full":"14301 Fnb Pkwy Ste 301 Omaha NE 68154",
+    "addr:housenumber":"14301",
+    "addr:postcode":"68154",
+    "addr:street":"Fnb Pkwy Ste 301",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.136799,41.265326,-96.136799,41.265326",
     "geom:latitude":41.265326,
     "geom:longitude":-96.136799,
@@ -19,11 +24,13 @@
     "sg:province":"NE",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688563,
+        85806957,
+        102191575,
+        404519987,
         85633793,
         85973479,
         102082789,
-        85806957
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -33,9 +40,10 @@
     "wof:geomhash":"b3b5c9b3e1cab248a546327fc16ea7b3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082789,
+            "localadmin_id":404519987,
             "locality_id":85973479,
             "neighbourhood_id":85806957,
             "region_id":85688563,
@@ -43,7 +51,7 @@
         }
     ],
     "wof:id":203149929,
-    "wof:lastmodified":1466666484,
+    "wof:lastmodified":1491916818,
     "wof:name":"Resource Real Estate Management, Inc.",
     "wof:parent_id":85806957,
     "wof:placetype":"venue",

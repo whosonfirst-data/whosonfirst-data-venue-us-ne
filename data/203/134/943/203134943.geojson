@@ -2,14 +2,20 @@
   "id": 203134943,
   "type": "Feature",
   "properties": {
+    "addr:full":"850 N Saddle Creek Rd Omaha NE 68132",
+    "addr:housenumber":"850",
+    "addr:postcode":"68132",
+    "addr:street":"N Saddle Creek Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.9813,41.2673,-95.9813,41.2673",
     "geom:latitude":41.2673,
     "geom:longitude":-95.9813,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"850 N Saddle Creek Rd",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -32,12 +38,13 @@
         102082789,
         85867055
     ],
+    "wof:brand_id":1125154849,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_470jxFakKJL2E5PuWV5Ftw_41.267300_-95.981300@1303262942"
     },
     "wof:country":"US",
-    "wof:geomhash":"ad4c891e6b19596b2757ea048d17c67c",
+    "wof:geomhash":"c4e2a674aa48e81ee9d0560fdfc37f15",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":203134943,
-    "wof:lastmodified":1466666416,
+    "wof:lastmodified":1510695724,
     "wof:name":"Brake Masters",
     "wof:parent_id":85867055,
     "wof:placetype":"venue",

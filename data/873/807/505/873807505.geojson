@@ -2,14 +2,20 @@
   "id": 873807505,
   "type": "Feature",
   "properties": {
+    "addr:full":"2520 S 132nd St Omaha NE 68144",
+    "addr:housenumber":"2520",
+    "addr:postcode":"68144",
+    "addr:street":"S 132Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.119574,41.234262,-96.119574,41.234262",
     "geom:latitude":41.234262,
     "geom:longitude":-96.119574,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2520 S 132nd St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102082789,
         85688563
     ],
+    "wof:brand_id":1125156293,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_32wjViklnWjrakM1UyYXYJ_41.234262_-96.119574@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464297880,
-    "wof:geomhash":"4641cfbac991f89f0e1bb850b0bb1046",
+    "wof:geomhash":"9294302d0b8b5e7ce0ef56df3d423a13",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":873807505,
-    "wof:lastmodified":1466667421,
+    "wof:lastmodified":1510695377,
     "wof:name":"R J Reynolds Tobacco Company",
     "wof:parent_id":85872531,
     "wof:placetype":"venue",

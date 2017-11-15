@@ -2,14 +2,20 @@
   "id": 203121969,
   "type": "Feature",
   "properties": {
+    "addr:full":"2952 Farnam St Omaha NE 68131",
+    "addr:housenumber":"2952",
+    "addr:postcode":"68131",
+    "addr:street":"Farnam St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.967903,41.262501,-95.967903,41.262501",
     "geom:latitude":41.262501,
     "geom:longitude":-95.967903,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2952 Farnam St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         102082789,
         85872525
     ],
+    "wof:brand_id":1125156297,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3fJGipK9K73R1mKpUUKc8I_41.262501_-95.967903@1303262942"
     },
     "wof:country":"US",
-    "wof:geomhash":"857f0131696196c1d7d326355fa8282d",
+    "wof:geomhash":"90679d23a011052a6a612525f81d2298",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":203121969,
-    "wof:lastmodified":1466666322,
+    "wof:lastmodified":1510695374,
     "wof:name":"Runza",
     "wof:parent_id":85872525,
     "wof:placetype":"venue",

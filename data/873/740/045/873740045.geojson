@@ -2,6 +2,10 @@
   "id": 873740045,
   "type": "Feature",
   "properties": {
+    "addr:full":"2223 N 91st Plz Omaha NE 68134",
+    "addr:housenumber":"2223",
+    "addr:postcode":"68134",
+    "addr:street":"N 91St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":873740045,
-    "wof:lastmodified":1466666903,
+    "wof:lastmodified":1472633797,
     "wof:name":"Omaha Chiropractic Associates",
     "wof:parent_id":85867061,
     "wof:placetype":"venue",

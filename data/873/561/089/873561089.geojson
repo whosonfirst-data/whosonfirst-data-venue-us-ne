@@ -2,6 +2,10 @@
   "id": 873561089,
   "type": "Feature",
   "properties": {
+    "addr:full":"201 N 7th St Lincoln NE 68508",
+    "addr:housenumber":"201",
+    "addr:postcode":"68508",
+    "addr:street":"N 7Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":873561089,
-    "wof:lastmodified":1466665724,
+    "wof:lastmodified":1472633844,
     "wof:name":"Amtrak",
     "wof:parent_id":85878699,
     "wof:placetype":"venue",

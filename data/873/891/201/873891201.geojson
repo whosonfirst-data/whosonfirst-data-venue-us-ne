@@ -2,14 +2,20 @@
   "id": 873891201,
   "type": "Feature",
   "properties": {
+    "addr:full":"4400 S 70th St Lincoln NE 68516",
+    "addr:housenumber":"4400",
+    "addr:postcode":"68516",
+    "addr:street":"S 70Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.625074,40.768533,-96.625074,40.768533",
     "geom:latitude":40.768533,
     "geom:longitude":-96.625074,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4400 S 70th St",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102083503,
         85688563
     ],
+    "wof:brand_id":1125151019,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5uWkz657s1aJm5q1LkADPl_40.768533_-96.625074@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464299652,
-    "wof:geomhash":"2751727ceb411380217b0b58b5e8159d",
+    "wof:geomhash":"2399d6e0e29cc4ff2f95f768fb7803d0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":873891201,
-    "wof:lastmodified":1466668215,
+    "wof:lastmodified":1510693726,
     "wof:name":"Popeye's Chicken & Biscuits",
     "wof:parent_id":85878695,
     "wof:placetype":"venue",

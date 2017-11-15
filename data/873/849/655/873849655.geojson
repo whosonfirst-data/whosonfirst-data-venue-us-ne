@@ -2,14 +2,20 @@
   "id": 873849655,
   "type": "Feature",
   "properties": {
+    "addr:full":"7007 N 97th Cir Omaha NE 68122",
+    "addr:housenumber":"7007",
+    "addr:postcode":"68122",
+    "addr:street":"N 97Th Cir",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.063687,41.321304,-96.063687,41.321304",
     "geom:latitude":41.321304,
     "geom:longitude":-96.063687,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7007 N 97th Cir",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85872505,
         102082789
     ],
+    "wof:brand_id":1125153443,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0yNLzhdiAS10sYXyc2PrPS_41.321304_-96.063687@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464298805,
-    "wof:geomhash":"4cd91b69b4729618eba8b8ac71abda59",
+    "wof:geomhash":"685308e868f7120af1a064b0f2f58ef4",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":873849655,
-    "wof:lastmodified":1466667863,
+    "wof:lastmodified":1510699406,
     "wof:name":"Costco Warehouse",
     "wof:parent_id":85872505,
     "wof:placetype":"venue",

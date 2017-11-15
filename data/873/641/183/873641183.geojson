@@ -2,9 +2,14 @@
   "id": 873641183,
   "type": "Feature",
   "properties": {
+    "addr:full":"4319 Hike Cir Bellevue NE 68123",
+    "addr:housenumber":"4319",
+    "addr:postcode":"68123",
+    "addr:street":"Hike Cir",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.978127,41.132413,-95.978127,41.132413",
     "geom:latitude":41.132413,
     "geom:longitude":-95.978127,
@@ -25,11 +30,13 @@
     "sg:province":"NE",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688563,
+        85821583,
+        102191575,
+        404519143,
         85633793,
         85974545,
         102082777,
-        85821583
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,8 +47,10 @@
     "wof:geomhash":"22b55c4409378bf1ae5916e9d1a35ee4",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082777,
+            "localadmin_id":404519143,
             "locality_id":85974545,
             "neighbourhood_id":85821583,
             "region_id":85688563,
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":873641183,
-    "wof:lastmodified":1466666244,
+    "wof:lastmodified":1491893168,
     "wof:name":"Gifts & Baskets Galore",
     "wof:parent_id":85821583,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 873816727,
   "type": "Feature",
   "properties": {
+    "addr:full":"4000 Bel-Ridge Dr Lincoln NE 68521",
+    "addr:housenumber":"",
+    "addr:postcode":"4000;68521",
+    "addr:street":"Bel-Ridge Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.698312,40.851332,-96.698312,40.851332",
     "geom:latitude":40.851332,
     "geom:longitude":-96.698312,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4000 Bel-Ridge Dr",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102083503,
         85688563
     ],
+    "wof:brand_id":1125155947,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0DbY5G6yjY9kbariDjdJ9X_40.851332_-96.698312@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464298048,
-    "wof:geomhash":"714b46c469ac2f6c376cb9b1e8fb4ffb",
+    "wof:geomhash":"fdad9d49f70ff9795a5f09f90f1e476a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":873816727,
-    "wof:lastmodified":1466667515,
+    "wof:lastmodified":1510699782,
     "wof:name":"Mary Kay Consultant",
     "wof:parent_id":85868917,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 203145857,
   "type": "Feature",
   "properties": {
+    "addr:full":"2804 S 143rd Plz Omaha NE 68144",
+    "addr:housenumber":"2804",
+    "addr:postcode":"68144",
+    "addr:street":"S 143Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.136757,41.227476,-96.136757,41.227476",
     "geom:latitude":41.227476,
     "geom:longitude":-96.136757,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2804 S 143rd Plz",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -59,12 +65,13 @@
         102082789,
         85872531
     ],
+    "wof:brand_id":1125153275,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2vacqaPtK7NINglkhStICj_41.227476_-96.136757@1303262943"
     },
     "wof:country":"US",
-    "wof:geomhash":"619cae763f5cc946eddd38c5d4bb4b52",
+    "wof:geomhash":"27dfc297aa3c5d66531abe6d2f4b40c5",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -77,7 +84,7 @@
         }
     ],
     "wof:id":203145857,
-    "wof:lastmodified":1466666462,
+    "wof:lastmodified":1510698835,
     "wof:name":"Alltel Wireless",
     "wof:parent_id":85872531,
     "wof:placetype":"venue",

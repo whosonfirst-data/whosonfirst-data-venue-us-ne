@@ -2,9 +2,14 @@
   "id": 873963941,
   "type": "Feature",
   "properties": {
+    "addr:full":"2613 Gindy Dr Bellevue NE 68147",
+    "addr:housenumber":"2613",
+    "addr:postcode":"68147",
+    "addr:street":"Gindy Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.951302,41.171014,-95.951302,41.171014",
     "geom:latitude":41.171014,
     "geom:longitude":-95.951302,
@@ -25,11 +30,13 @@
     "sg:province":"NE",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688563,
+        85821583,
+        102191575,
+        404519143,
         85633793,
         85974545,
         102082777,
-        85821583
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,8 +47,10 @@
     "wof:geomhash":"57dfe048aae3e6f8f3b8044290237096",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082777,
+            "localadmin_id":404519143,
             "locality_id":85974545,
             "neighbourhood_id":85821583,
             "region_id":85688563,
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":873963941,
-    "wof:lastmodified":1466669499,
+    "wof:lastmodified":1491893196,
     "wof:name":"E & K Svc Inc",
     "wof:parent_id":85821583,
     "wof:placetype":"venue",

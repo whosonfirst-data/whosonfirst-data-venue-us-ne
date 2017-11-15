@@ -2,6 +2,10 @@
   "id": 873848625,
   "type": "Feature",
   "properties": {
+    "addr:full":"3301 N 73rd St Lincoln NE 68507",
+    "addr:housenumber":"3301",
+    "addr:postcode":"68507",
+    "addr:street":"N 73Rd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":873848625,
-    "wof:lastmodified":1466667838,
+    "wof:lastmodified":1472633965,
     "wof:name":"Pathology Service Assoc",
     "wof:parent_id":85824241,
     "wof:placetype":"venue",

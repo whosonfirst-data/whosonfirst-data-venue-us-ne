@@ -2,14 +2,20 @@
   "id": 873852461,
   "type": "Feature",
   "properties": {
+    "addr:full":"5001 S 19th St Lincoln NE 68512",
+    "addr:housenumber":"5001",
+    "addr:postcode":"68512",
+    "addr:street":"S 19Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.694828,40.765009,-96.694828,40.765009",
     "geom:latitude":40.765009,
     "geom:longitude":-96.694828,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5001 S 19th St",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -39,13 +45,14 @@
         102083503,
         85688563
     ],
+    "wof:brand_id":420575465,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6mfkIvCzZzcSI5dlhtLCTE_40.765009_-96.694828@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464298860,
-    "wof:geomhash":"347f4164819b5006a712b9f23e8932b2",
+    "wof:geomhash":"5b8ec906a8735f797581d7330657bc66",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,7 +66,7 @@
         }
     ],
     "wof:id":873852461,
-    "wof:lastmodified":1466667851,
+    "wof:lastmodified":1510602103,
     "wof:name":"Ferguson Enterprises Inc",
     "wof:parent_id":420525805,
     "wof:placetype":"venue",

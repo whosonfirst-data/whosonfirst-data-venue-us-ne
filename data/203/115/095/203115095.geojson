@@ -2,9 +2,14 @@
   "id": 203115095,
   "type": "Feature",
   "properties": {
+    "addr:full":"4405 S 96th St Omaha NE 68127",
+    "addr:housenumber":"4405",
+    "addr:postcode":"68127",
+    "addr:street":"S 96Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.062307,41.216168,-96.062307,41.216168",
     "geom:latitude":41.216168,
     "geom:longitude":-96.062307,
@@ -31,11 +36,13 @@
     "sg:website":"http://www.optimus-corp.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688563,
+        85872511,
+        102191575,
+        404518711,
         85633793,
         85973483,
         102082789,
-        85872511
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,9 +52,10 @@
     "wof:geomhash":"20096bed7c315028e05a0e3749243e22",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082789,
+            "localadmin_id":404518711,
             "locality_id":85973483,
             "neighbourhood_id":85872511,
             "region_id":85688563,
@@ -55,7 +63,7 @@
         }
     ],
     "wof:id":203115095,
-    "wof:lastmodified":1466669657,
+    "wof:lastmodified":1491885183,
     "wof:name":"Optimus Corporation",
     "wof:parent_id":85872511,
     "wof:placetype":"venue",

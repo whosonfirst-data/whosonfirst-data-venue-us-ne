@@ -2,14 +2,20 @@
   "id": 873626883,
   "type": "Feature",
   "properties": {
+    "addr:full":"3716 N 90th St Omaha NE 68134",
+    "addr:housenumber":"3716",
+    "addr:postcode":"68134",
+    "addr:street":"N 90Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.053172,41.29228,-96.053172,41.29228",
     "geom:latitude":41.29228,
     "geom:longitude":-96.053172,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3716 N 90th St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102082789,
         85688563
     ],
+    "wof:brand_id":1125151805,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7cr0PxXrFYcE4jIhyXa9Tq_41.292280_-96.053172@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464295329,
-    "wof:geomhash":"da0ce7ecc15ba19a813b81cc6601bcd7",
+    "wof:geomhash":"c7829139ea93079a3890f3a7d2587d3c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":873626883,
-    "wof:lastmodified":1466666200,
+    "wof:lastmodified":1510693834,
     "wof:name":"Tires Plus",
     "wof:parent_id":85867061,
     "wof:placetype":"venue",

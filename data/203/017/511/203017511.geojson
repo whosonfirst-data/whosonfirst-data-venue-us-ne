@@ -2,14 +2,20 @@
   "id": 203017511,
   "type": "Feature",
   "properties": {
+    "addr:full":"737 N 14th St Omaha NE 68102",
+    "addr:housenumber":"737",
+    "addr:postcode":"68102",
+    "addr:street":"N 14Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.934256,41.266126,-95.934256,41.266126",
     "geom:latitude":41.266126,
     "geom:longitude":-95.934256,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"737 N 14th St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -35,12 +41,13 @@
         85973483,
         102082789
     ],
+    "wof:brand_id":1125155549,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1OfbYDtEbdZgz8BRIb9Q3j_41.266126_-95.934256@1303262941"
     },
     "wof:country":"US",
-    "wof:geomhash":"7b38c2ddddf031da7a4d61cd80b84d83",
+    "wof:geomhash":"666d7a9e8221982f277b74894ac52b45",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":203017511,
-    "wof:lastmodified":1466665654,
+    "wof:lastmodified":1510699941,
     "wof:name":"Urban Outfitters",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

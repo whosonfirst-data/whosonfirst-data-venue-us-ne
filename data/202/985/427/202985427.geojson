@@ -2,9 +2,14 @@
   "id": 202985427,
   "type": "Feature",
   "properties": {
+    "addr:full":"800 Fort Crook Rd S 802 Bellevue NE 68005",
+    "addr:housenumber":"800;802",
+    "addr:postcode":"68005",
+    "addr:street":"Fort Crook Rd S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.927279,41.154134,-95.927279,41.154134",
     "geom:latitude":41.154134,
     "geom:longitude":-95.927279,
@@ -39,11 +44,13 @@
     "sg:website":"http://www.cashflowbilling.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688563,
+        85821583,
+        102191575,
+        404519143,
         85633793,
         85974545,
         102082777,
-        85821583
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,9 +60,10 @@
     "wof:geomhash":"8fb651f8bceb1354053cfc87fd0e3c90",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082777,
+            "localadmin_id":404519143,
             "locality_id":85974545,
             "neighbourhood_id":85821583,
             "region_id":85688563,
@@ -63,7 +71,7 @@
         }
     ],
     "wof:id":202985427,
-    "wof:lastmodified":1466665574,
+    "wof:lastmodified":1491893178,
     "wof:name":"Healthcare Management Solutions Inc",
     "wof:parent_id":85821583,
     "wof:placetype":"venue",

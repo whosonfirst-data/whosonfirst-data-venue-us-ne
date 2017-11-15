@@ -2,6 +2,10 @@
   "id": 203161497,
   "type": "Feature",
   "properties": {
+    "addr:full":"217 Main St Brownville NE 68321",
+    "addr:housenumber":"217",
+    "addr:postcode":"68321",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":203161497,
-    "wof:lastmodified":1466666534,
+    "wof:lastmodified":1472633921,
     "wof:name":"USPS - United States Post Office - Brownville Main Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

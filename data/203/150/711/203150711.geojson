@@ -2,9 +2,14 @@
   "id": 203150711,
   "type": "Feature",
   "properties": {
+    "addr:full":"539 N 155th Plz Omaha NE 68154",
+    "addr:housenumber":"539",
+    "addr:postcode":"68154",
+    "addr:street":"N 155Th",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.156364,41.263643,-96.156364,41.263643",
     "geom:latitude":41.263643,
     "geom:longitude":-96.156364,
@@ -45,11 +50,13 @@
     "sg:website":"http://www.gnc.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688563,
+        85806957,
+        102191575,
+        404519987,
         85633793,
         85973479,
         102082789,
-        85806957
+        85688563
     ],
     "wof:brand_id":420573847,
     "wof:breaches":[],
@@ -60,9 +67,10 @@
     "wof:geomhash":"38b00551221970bb0a2d1377cfacd269",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082789,
+            "localadmin_id":404519987,
             "locality_id":85973479,
             "neighbourhood_id":85806957,
             "region_id":85688563,
@@ -70,7 +78,7 @@
         }
     ],
     "wof:id":203150711,
-    "wof:lastmodified":1466666479,
+    "wof:lastmodified":1491916841,
     "wof:name":"GNC",
     "wof:parent_id":85806957,
     "wof:placetype":"venue",

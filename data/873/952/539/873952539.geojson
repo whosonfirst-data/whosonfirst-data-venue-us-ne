@@ -2,14 +2,20 @@
   "id": 873952539,
   "type": "Feature",
   "properties": {
+    "addr:full":"3505 S 140th Plz Omaha NE 68144",
+    "addr:housenumber":"3505",
+    "addr:postcode":"68144",
+    "addr:street":"S 140Th",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.131869,41.225755,-96.131869,41.225755",
     "geom:latitude":41.225755,
     "geom:longitude":-96.131869,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3505 S 140th Plz",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102082789,
         85688563
     ],
+    "wof:brand_id":1125150763,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0g9D8xLNIrJOsiVGipL8jz_41.225755_-96.131869@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464301247,
-    "wof:geomhash":"4ceac47a82c7ad9055e56c6384281198",
+    "wof:geomhash":"c37827795e23a17f471f003760e0fac6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":873952539,
-    "wof:lastmodified":1466669128,
+    "wof:lastmodified":1510697650,
     "wof:name":"Babies R Us",
     "wof:parent_id":85872531,
     "wof:placetype":"venue",

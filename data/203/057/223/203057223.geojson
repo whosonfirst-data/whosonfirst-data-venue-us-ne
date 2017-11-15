@@ -2,9 +2,14 @@
   "id": 203057223,
   "type": "Feature",
   "properties": {
+    "addr:full":"3307 S 67th St Ste 6 Omaha NE 68106",
+    "addr:housenumber":"3307",
+    "addr:postcode":"68106",
+    "addr:street":"S 67Th St Ste 6",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.016701,41.229099,-96.016701,41.229099",
     "geom:latitude":41.229099,
     "geom:longitude":-96.016701,
@@ -25,11 +30,13 @@
     "sg:province":"NE",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688563,
+        85867059,
+        102191575,
+        404518711,
         85633793,
         85973483,
         102082789,
-        85867059
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,9 +46,10 @@
     "wof:geomhash":"f7bb7b00149640d27dfe20fd8d8d15f5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082789,
+            "localadmin_id":404518711,
             "locality_id":85973483,
             "neighbourhood_id":85867059,
             "region_id":85688563,
@@ -49,7 +57,7 @@
         }
     ],
     "wof:id":203057223,
-    "wof:lastmodified":1466665929,
+    "wof:lastmodified":1491920584,
     "wof:name":"Santa Barbara System Corp",
     "wof:parent_id":85867059,
     "wof:placetype":"venue",

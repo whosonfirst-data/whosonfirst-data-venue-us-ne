@@ -2,9 +2,14 @@
   "id": 873895827,
   "type": "Feature",
   "properties": {
+    "addr:full":"910 Ginny Ave Bellevue NE 68005",
+    "addr:housenumber":"910",
+    "addr:postcode":"68005",
+    "addr:street":"Ginny Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.906983,41.151529,-95.906983,41.151529",
     "geom:latitude":41.151529,
     "geom:longitude":-95.906983,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688563,
+        85804025,
+        102191575,
+        404519143,
         85633793,
         85974545,
         102082777,
-        85804025
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,8 +50,10 @@
     "wof:geomhash":"568f724617ce90cfa8165512c4541ba3",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082777,
+            "localadmin_id":404519143,
             "locality_id":85974545,
             "neighbourhood_id":85804025,
             "region_id":85688563,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":873895827,
-    "wof:lastmodified":1466668339,
+    "wof:lastmodified":1491931294,
     "wof:name":"Country Estate Apartments",
     "wof:parent_id":85804025,
     "wof:placetype":"venue",

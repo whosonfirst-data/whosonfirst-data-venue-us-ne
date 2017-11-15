@@ -2,9 +2,14 @@
   "id": 203165185,
   "type": "Feature",
   "properties": {
+    "addr:full":"3730 Cornhusker Hwy Lincoln NE 68504",
+    "addr:housenumber":"3730",
+    "addr:postcode":"68504",
+    "addr:street":"Cornhusker Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.668429,40.843825,-96.668429,40.843825",
     "geom:latitude":40.843825,
     "geom:longitude":-96.668429,
@@ -35,11 +40,13 @@
     "sg:website":"http://www.napaautocare.com/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688563,
+        85878741,
+        102191575,
+        404521111,
         85633793,
         85973555,
         102083503,
-        85878741
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,9 +56,10 @@
     "wof:geomhash":"68f7d67d0d7cd5f17b1b397830312e29",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083503,
+            "localadmin_id":404521111,
             "locality_id":85973555,
             "neighbourhood_id":85878741,
             "region_id":85688563,
@@ -59,7 +67,7 @@
         }
     ],
     "wof:id":203165185,
-    "wof:lastmodified":1466666540,
+    "wof:lastmodified":1491903371,
     "wof:name":"Metzger's Auto Service Inc",
     "wof:parent_id":85878741,
     "wof:placetype":"venue",

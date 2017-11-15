@@ -2,6 +2,10 @@
   "id": 873787931,
   "type": "Feature",
   "properties": {
+    "addr:full":"4711 Innovation Dr Lincoln NE 68521",
+    "addr:housenumber":"4711",
+    "addr:postcode":"68521",
+    "addr:street":"Innovation Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":873787931,
-    "wof:lastmodified":1466667284,
+    "wof:lastmodified":1472633898,
     "wof:name":"Digital Ims",
     "wof:parent_id":85878717,
     "wof:placetype":"venue",

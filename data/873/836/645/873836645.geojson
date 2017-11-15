@@ -2,6 +2,10 @@
   "id": 873836645,
   "type": "Feature",
   "properties": {
+    "addr:full":"10828 John Galt Blvd Omaha NE 68137",
+    "addr:housenumber":"10828",
+    "addr:postcode":"68137",
+    "addr:street":"John Galt Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":873836645,
-    "wof:lastmodified":1466667717,
+    "wof:lastmodified":1472633955,
     "wof:name":"Applied Data Consultants Inc",
     "wof:parent_id":85872531,
     "wof:placetype":"venue",

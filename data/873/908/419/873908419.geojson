@@ -2,14 +2,20 @@
   "id": 873908419,
   "type": "Feature",
   "properties": {
+    "addr:full":"8900 Andermatt Dr Lincoln NE 68526",
+    "addr:housenumber":"",
+    "addr:postcode":"8900;68526",
+    "addr:street":"Andermatt Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.593553,40.733193,-96.593553,40.733193",
     "geom:latitude":40.733193,
     "geom:longitude":-96.593553,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8900 Andermatt Dr",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102083503,
         85878685
     ],
+    "wof:brand_id":1125153163,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7k2yoYFZoUt9Kyy3mSsAtt_40.733193_-96.593553@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464299983,
-    "wof:geomhash":"8de233cfb0f9daaf11bf57bf81931c1a",
+    "wof:geomhash":"afca507156f4dcf3c99df4773020fe1e",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":873908419,
-    "wof:lastmodified":1466668435,
+    "wof:lastmodified":1510694656,
     "wof:name":"Menards",
     "wof:parent_id":85878685,
     "wof:placetype":"venue",

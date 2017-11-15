@@ -2,9 +2,14 @@
   "id": 873796361,
   "type": "Feature",
   "properties": {
+    "addr:full":"11764 McCarty Loup Bellevue NE 68123",
+    "addr:housenumber":"11764",
+    "addr:postcode":"68123",
+    "addr:street":"Mccarty Loup",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.976791,41.133354,-95.976791,41.133354",
     "geom:latitude":41.133354,
     "geom:longitude":-95.976791,
@@ -25,11 +30,13 @@
     "sg:province":"NE",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688563,
+        85821583,
+        102191575,
+        404519143,
         85633793,
         85974545,
         102082777,
-        85821583
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,8 +47,10 @@
     "wof:geomhash":"4c7a48717672f9687835c5a3da44cf70",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082777,
+            "localadmin_id":404519143,
             "locality_id":85974545,
             "neighbourhood_id":85821583,
             "region_id":85688563,
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":873796361,
-    "wof:lastmodified":1466667306,
+    "wof:lastmodified":1491893169,
     "wof:name":"Mgg Rentals",
     "wof:parent_id":85821583,
     "wof:placetype":"venue",

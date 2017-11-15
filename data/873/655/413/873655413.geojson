@@ -2,14 +2,20 @@
   "id": 873655413,
   "type": "Feature",
   "properties": {
+    "addr:full":"1750 N 120th St Omaha NE 68154",
+    "addr:housenumber":"1750",
+    "addr:postcode":"68154",
+    "addr:street":"N 120Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.100607,41.276294,-96.100607,41.276294",
     "geom:latitude":41.276294,
     "geom:longitude":-96.100607,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1750 N 120th St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102082789,
         85688563
     ],
+    "wof:brand_id":1125152347,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_64rl7IYUTPYy2mxCIWH86j_41.276294_-96.100607@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464295650,
-    "wof:geomhash":"5834bf382e772db5521f025cd1cf5cbd",
+    "wof:geomhash":"51b16179cc21c02a47086690f5f4f3fa",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":873655413,
-    "wof:lastmodified":1466666350,
+    "wof:lastmodified":1510613373,
     "wof:name":"Fish Window Cleaning",
     "wof:parent_id":85872503,
     "wof:placetype":"venue",

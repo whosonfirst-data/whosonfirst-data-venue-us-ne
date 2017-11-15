@@ -2,6 +2,10 @@
   "id": 873849101,
   "type": "Feature",
   "properties": {
+    "addr:full":"2820 S 123rd Ct Omaha NE 68144",
+    "addr:housenumber":"2820",
+    "addr:postcode":"68144",
+    "addr:street":"S 123Rd Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":873849101,
-    "wof:lastmodified":1466667794,
+    "wof:lastmodified":1472633957,
     "wof:name":"LA Fonda's",
     "wof:parent_id":85872531,
     "wof:placetype":"venue",

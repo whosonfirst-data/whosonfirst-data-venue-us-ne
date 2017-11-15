@@ -2,9 +2,14 @@
   "id": 203134715,
   "type": "Feature",
   "properties": {
+    "addr:full":"6100 Lafayette Ave Omaha NE 68132",
+    "addr:housenumber":"6100",
+    "addr:postcode":"68132",
+    "addr:street":"Lafayette Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.007209,41.271537,-96.007209,41.271537",
     "geom:latitude":41.271537,
     "geom:longitude":-96.007209,
@@ -28,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688563,
+        85872535,
+        102191575,
+        404518711,
         85633793,
         85973483,
         102082789,
-        85872535
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +49,10 @@
     "wof:geomhash":"508040e5803b76cafe55834e7abacbe1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082789,
+            "localadmin_id":404518711,
             "locality_id":85973483,
             "neighbourhood_id":85872535,
             "region_id":85688563,
@@ -52,7 +60,7 @@
         }
     ],
     "wof:id":203134715,
-    "wof:lastmodified":1466666411,
+    "wof:lastmodified":1491888415,
     "wof:name":"A A A & 1 Locksmith 24 Hour",
     "wof:parent_id":85872535,
     "wof:placetype":"venue",

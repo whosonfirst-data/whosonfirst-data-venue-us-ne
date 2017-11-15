@@ -2,14 +2,20 @@
   "id": 873932077,
   "type": "Feature",
   "properties": {
+    "addr:full":"901 Sac Blvd Offutt Afb NE 68113",
+    "addr:housenumber":"901",
+    "addr:postcode":"68113",
+    "addr:street":"Sac Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.920844,41.12242,-95.920844,41.12242",
     "geom:latitude":41.12242,
     "geom:longitude":-95.920844,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"901 Sac Blvd",
     "sg:city":"Offutt Afb",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102082777,
         85820061
     ],
+    "wof:brand_id":1125156001,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0iZwPri5lQIeLSo6qqOA75_41.122420_-95.920844@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464300447,
-    "wof:geomhash":"9592b3b09f4ddeedacf17a843117eb55",
+    "wof:geomhash":"578dad1d9897bc8f40d3d93329bc05cd",
     "wof:hierarchy":[
         {
             "campus_id":102529985,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":873932077,
-    "wof:lastmodified":1466668644,
+    "wof:lastmodified":1510697083,
     "wof:name":"Sun Microsystems",
     "wof:parent_id":102529985,
     "wof:placetype":"venue",
