@@ -7,13 +7,16 @@
     "addr:postcode":"68048",
     "addr:street":"N 5Th St Ste 1",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.884997,41.011552,-95.884997,41.011552",
     "geom:latitude":41.011552,
     "geom:longitude":-95.884997,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"136 N 5th St Ste 1",
     "sg:city":"Plattsmouth",
     "sg:classifiers":[
@@ -52,7 +55,7 @@
         "sg:id":"SG_4hFY3KgzYDKL5mAOinyudC_41.011552_-95.884997@1303262940"
     },
     "wof:country":"US",
-    "wof:geomhash":"188dbfbaa32d0de3c46ee878ae1d5efa",
+    "wof:geomhash":"e7a08934392f7525eb43fd8a6589ae0b",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -65,12 +68,14 @@
         }
     ],
     "wof:id":202991725,
-    "wof:lastmodified":1472633740,
+    "wof:lastmodified":1510941717,
     "wof:name":"City Hall",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ne",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        873959285
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "town",

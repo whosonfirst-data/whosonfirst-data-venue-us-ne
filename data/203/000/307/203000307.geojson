@@ -7,13 +7,16 @@
     "addr:postcode":"68102",
     "addr:street":"Farnam St Ste 300",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.929199,41.257401,-95.929199,41.257401",
     "geom:latitude":41.257401,
     "geom:longitude":-95.929199,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1001 Farnam St Ste 300",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -39,7 +42,7 @@
         "sg:id":"SG_3cXp0I1ULCcAqszgvLeaOP_41.257401_-95.929199@1303262940"
     },
     "wof:country":"US",
-    "wof:geomhash":"e3ce0ce478300255633330790e257e24",
+    "wof:geomhash":"61b358958be6985ae79a399e851e4989",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":203000307,
-    "wof:lastmodified":1472633742,
+    "wof:lastmodified":1510942267,
     "wof:name":"Gallup & Schaefer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ne",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        873929559
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

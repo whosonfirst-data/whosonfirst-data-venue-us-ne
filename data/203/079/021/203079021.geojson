@@ -7,13 +7,16 @@
     "addr:postcode":"68108",
     "addr:street":"S 13Th St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.933297,41.245377,-95.933297,41.245377",
     "geom:latitude":41.245377,
     "geom:longitude":-95.933297,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1406 S 13th St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -44,7 +47,7 @@
         "sg:id":"SG_71k7wyBlv8DTAnquHvOsiP_41.245377_-95.933297@1303262941"
     },
     "wof:country":"US",
-    "wof:geomhash":"42e2d0a02d4cf1b4879550a02664043e",
+    "wof:geomhash":"91f0260a2dcd59527f39515a36338a92",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -57,12 +60,14 @@
         }
     ],
     "wof:id":203079021,
-    "wof:lastmodified":1472633912,
+    "wof:lastmodified":1510943740,
     "wof:name":"Bohemian Cafe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ne",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        873617657
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "modern",

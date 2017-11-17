@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.978543,41.257904,-95.978543,41.257904",
     "geom:latitude":41.257904,
     "geom:longitude":-95.978543,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4242 Farnam St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1464294416,
-    "wof:geomhash":"07045985ebef6855c5ec0b3e1d9f21bc",
+    "wof:geomhash":"e1c07acfaaa818e01a507ef5be860c07",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,13 +64,15 @@
         }
     ],
     "wof:id":873553431,
-    "wof:lastmodified":1472633742,
+    "wof:lastmodified":1510943239,
     "wof:name":"Simply Well",
     "wof:parent_id":85872523,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        203123751
+    ],
     "wof:tags":[
         "health",
         "care"

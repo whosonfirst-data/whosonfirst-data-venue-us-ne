@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.033548,41.259267,-96.033548,41.259267",
     "geom:latitude":41.259267,
     "geom:longitude":-96.033548,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"7717 Dodge St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -44,11 +46,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:way":185739193,
         "sg:id":"SG_7G3spK8rau6xFRxzS3UEKJ_41.259267_-96.033548@1299784598"
     },
     "wof:country":"US",
     "wof:created":1464302221,
-    "wof:geomhash":"9500bb4d1c299f6a2f9bf3743ea4eaf6",
+    "wof:geomhash":"de16f34b505dec39a048e9a9f18e81d0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":873975919,
-    "wof:lastmodified":1472634131,
+    "wof:lastmodified":1510942995,
     "wof:name":"McDonald's",
     "wof:parent_id":85872509,
     "wof:placetype":"venue",

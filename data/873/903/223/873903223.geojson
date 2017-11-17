@@ -7,13 +7,16 @@
     "addr:postcode":"68114",
     "addr:street":"Regency Pkwy",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.072722,41.257749,-96.072722,41.257749",
     "geom:latitude":41.257749,
     "geom:longitude":-96.072722,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"120 Regency Pkwy",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1464299883,
-    "wof:geomhash":"1d6439a65c76bb193a0407992cab3a0c",
+    "wof:geomhash":"5fa355888dd7d07620414a2009442148",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,12 +60,14 @@
         }
     ],
     "wof:id":873903223,
-    "wof:lastmodified":1472634014,
+    "wof:lastmodified":1510944027,
     "wof:name":"Topps of Omaha",
     "wof:parent_id":85867061,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ne",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        873960691
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

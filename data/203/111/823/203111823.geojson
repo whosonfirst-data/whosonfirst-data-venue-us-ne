@@ -7,13 +7,16 @@
     "addr:postcode":"68124",
     "addr:street":"S 103Rd St Ste 200",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.07312,41.24814,-96.07312,41.24814",
     "geom:latitude":41.24814,
     "geom:longitude":-96.07312,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1125 S 103rd St Ste 200",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -50,7 +53,7 @@
         "sg:id":"SG_4viSRU9N4Mswza6kf7Y0S5_41.248140_-96.073120@1303262942"
     },
     "wof:country":"US",
-    "wof:geomhash":"af327cd61e824586df5fd116dddd20cd",
+    "wof:geomhash":"8f1b678f79761cb00beca74b9ad3c1aa",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -63,12 +66,14 @@
         }
     ],
     "wof:id":203111823,
-    "wof:lastmodified":1472633924,
+    "wof:lastmodified":1510943769,
     "wof:name":"Gold Circle Entertainment",
     "wof:parent_id":85872533,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ne",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        873762269
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "broadcast",

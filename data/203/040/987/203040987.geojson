@@ -7,13 +7,16 @@
     "addr:postcode":"68102",
     "addr:street":"Harney St Ste 204",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.937202,41.257198,-95.937202,41.257198",
     "geom:latitude":41.257198,
     "geom:longitude":-95.937202,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1823 Harney St Ste 204",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -42,7 +45,7 @@
         "sg:id":"SG_19r70wzw4IAtZDcjIJ7p5f_41.257198_-95.937202@1303262941"
     },
     "wof:country":"US",
-    "wof:geomhash":"213ea96324d21e0b45bd52a3d7e5558b",
+    "wof:geomhash":"58bd166531d4a2766ccea0956df98e6d",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,12 +58,14 @@
         }
     ],
     "wof:id":203040987,
-    "wof:lastmodified":1472633921,
+    "wof:lastmodified":1510943036,
     "wof:name":"Burnes Law Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ne",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        873667907
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "bankruptcy"

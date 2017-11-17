@@ -7,13 +7,16 @@
     "addr:postcode":"68131",
     "addr:street":"Farnam St Ste 363",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.976402,41.257801,-95.976402,41.257801",
     "geom:latitude":41.257801,
     "geom:longitude":-95.976402,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4242 Farnam St Ste 363",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_4Bt1kIXaejivXVPOW4OGCD_41.257801_-95.976402@1303262942"
     },
     "wof:country":"US",
-    "wof:geomhash":"ca7c50f07ad2993d82231458a3badc97",
+    "wof:geomhash":"57690404b142fba45d6fe6270daede85",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":203124097,
-    "wof:lastmodified":1472633911,
+    "wof:lastmodified":1510941551,
     "wof:name":"Neurological Surgery Inc",
     "wof:parent_id":85872523,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ne",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        873603111
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

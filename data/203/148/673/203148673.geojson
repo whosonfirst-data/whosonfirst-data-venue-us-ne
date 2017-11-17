@@ -7,13 +7,16 @@
     "addr:postcode":"68154",
     "addr:street":"W. Dodge Road Suite 450",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.091273,41.264484,-96.091273,41.264484",
     "geom:latitude":41.264484,
     "geom:longitude":-96.091273,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"First National Bank Building 11404 W. Dodge Road, Suite 450",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
         "sg:id":"SG_3z6gVMVl41ikjhJJcQ77Yn_41.264484_-96.091273@1303262943"
     },
     "wof:country":"US",
-    "wof:geomhash":"7ff6cd6fc449d6d1373a7f4505a3986a",
+    "wof:geomhash":"f4958b78a58083d41dc353007a495b8c",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -60,12 +63,14 @@
         }
     ],
     "wof:id":203148673,
-    "wof:lastmodified":1472633916,
+    "wof:lastmodified":1510943601,
     "wof:name":"Knowles Law Firm",
     "wof:parent_id":85872503,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ne",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        873845113
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "personal",

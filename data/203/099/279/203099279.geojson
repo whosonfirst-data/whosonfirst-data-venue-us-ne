@@ -7,13 +7,16 @@
     "addr:postcode":"68114",
     "addr:street":"Regency Parkway Dr",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.074666,41.255596,-96.074666,41.255596",
     "geom:latitude":41.255596,
     "geom:longitude":-96.074666,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"444 Regency Parkway Dr",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -62,7 +65,7 @@
         "sg:id":"SG_5ru3mc4DdqSaCq8SPGsSjT_41.255596_-96.074666@1303262942"
     },
     "wof:country":"US",
-    "wof:geomhash":"c7cd54da65a88e3e77fc24537dd3ad3f",
+    "wof:geomhash":"a3ec4a09b0db3402703c51d2e9faae39",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -75,12 +78,14 @@
         }
     ],
     "wof:id":203099279,
-    "wof:lastmodified":1472633915,
+    "wof:lastmodified":1510944170,
     "wof:name":"John K. Green Attorney At Law",
     "wof:parent_id":85867061,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ne",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        873593633
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney",

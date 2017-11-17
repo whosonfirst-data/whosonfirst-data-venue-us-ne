@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-100.625855,40.202634,-100.625855,40.202634",
     "geom:latitude":40.202634,
     "geom:longitude":-100.625855,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"502 Norris Ave",
     "sg:city":"Mc Cook",
     "sg:classifiers":[
@@ -39,16 +41,18 @@
     },
     "wof:country":"US",
     "wof:created":1464300227,
-    "wof:geomhash":"3289a9eb7dc8a262dbc8298ae6fa8243",
+    "wof:geomhash":"132922bb80359d4001a5a3e76828f1b9",
     "wof:hierarchy":[],
     "wof:id":873920999,
-    "wof:lastmodified":1472634040,
+    "wof:lastmodified":1510942737,
     "wof:name":"Red Willow County Sheriff Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        873910721
+    ],
     "wof:tags":[
         "department",
         "sheriff"

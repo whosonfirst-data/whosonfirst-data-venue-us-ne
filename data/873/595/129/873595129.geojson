@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.978612,41.258745,-95.978612,41.258745",
     "geom:latitude":41.258745,
     "geom:longitude":-95.978612,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4200 Douglas St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1464294906,
-    "wof:geomhash":"3bc2f0751f158e3746f76dca54ddfa87",
+    "wof:geomhash":"7bdd4f340ae88cf7c1cfb2676a4763ef",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,13 +63,15 @@
         }
     ],
     "wof:id":873595129,
-    "wof:lastmodified":1472633756,
+    "wof:lastmodified":1510943604,
     "wof:name":"Clarkson Family Medicine",
     "wof:parent_id":85872523,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        203124455
+    ],
     "wof:tags":[
         "physician",
         "surgeon"

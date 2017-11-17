@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.02389,41.257675,-96.02389,41.257675",
     "geom:latitude":41.257675,
     "geom:longitude":-96.02389,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"330 S 72nd St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -51,10 +53,11 @@
     "wof:brand_id":420575453,
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:way":185940051,
         "sg:id":"SG_73G5elJXgiJ3JT9PJWt6NH_41.257675_-96.023890@1303262942"
     },
     "wof:country":"US",
-    "wof:geomhash":"5de63265bd84d4bf8d171420ece93bcd",
+    "wof:geomhash":"75c5924b07b8506d494e97418bac6283",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":203097667,
-    "wof:lastmodified":1472633918,
+    "wof:lastmodified":1510943927,
     "wof:name":"Red Lobster",
     "wof:parent_id":85872507,
     "wof:placetype":"venue",

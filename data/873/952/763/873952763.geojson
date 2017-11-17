@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.355755,41.494697,-96.355755,41.494697",
     "geom:latitude":41.494697,
     "geom:longitude":-96.355755,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"23425 Co Rd 28",
     "sg:city":"Arlington",
     "sg:classifiers":[
@@ -39,16 +41,18 @@
     },
     "wof:country":"US",
     "wof:created":1464301259,
-    "wof:geomhash":"21c5697e05add5591f7518ba9e2e1d16",
+    "wof:geomhash":"8aed5eb80c458817b3704e386d0043bb",
     "wof:hierarchy":[],
     "wof:id":873952763,
-    "wof:lastmodified":1472634096,
+    "wof:lastmodified":1510943100,
     "wof:name":"Hutch's Handiwork's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        873666523
+    ],
     "wof:tags":[
         "general",
         "contractor"

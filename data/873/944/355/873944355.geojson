@@ -7,13 +7,16 @@
     "addr:postcode":"68128",
     "addr:street":"S 84Th St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.042898,41.180175,-96.042898,41.180175",
     "geom:latitude":41.180175,
     "geom:longitude":-96.042898,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"7865 S 84th St",
     "sg:city":"La Vista",
     "sg:classifiers":[
@@ -44,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1464300858,
-    "wof:geomhash":"0783af99d398b719dcfb0d7150da6408",
+    "wof:geomhash":"2da466d5034ec1e4fec1a2a096b889ac",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,12 +58,14 @@
         }
     ],
     "wof:id":873944355,
-    "wof:lastmodified":1472634063,
+    "wof:lastmodified":1510943720,
     "wof:name":"Chilis",
     "wof:parent_id":85843697,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ne",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        873976163
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "drinking",

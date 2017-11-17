@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.993207,41.212593,-95.993207,41.212593",
     "geom:latitude":41.212593,
     "geom:longitude":-95.993207,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5020 L St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -40,16 +42,18 @@
     },
     "wof:country":"US",
     "wof:created":1464297784,
-    "wof:geomhash":"c77e0ed63b5864dc4b9780a1243367e1",
+    "wof:geomhash":"b3dd3e54f54b67cf62a7c09672b1e87e",
     "wof:hierarchy":[],
     "wof:id":873800925,
-    "wof:lastmodified":1472633898,
+    "wof:lastmodified":1510943598,
     "wof:name":"Alegent Health",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        337287405
+    ],
     "wof:tags":[
         "therapist",
         "physical"

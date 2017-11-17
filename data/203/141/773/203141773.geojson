@@ -7,13 +7,16 @@
     "addr:postcode":"68137",
     "addr:street":"P St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.090501,41.206686,-96.090501,41.206686",
     "geom:latitude":41.206686,
     "geom:longitude":-96.090501,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"11425 P St",
     "sg:city":"Omaha",
     "sg:classifiers":[],
@@ -35,7 +38,7 @@
         "sg:id":"SG_5yRhsZLck8jttpKumAuOhW_41.206686_-96.090501@1303262942"
     },
     "wof:country":"US",
-    "wof:geomhash":"4c790a8770a54ce26670fc42045cad4e",
+    "wof:geomhash":"36c823383382435dc69f85c90f07ae0e",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -48,12 +51,14 @@
         }
     ],
     "wof:id":203141773,
-    "wof:lastmodified":1472633922,
+    "wof:lastmodified":1510942298,
     "wof:name":"Milt's Mini Storage",
     "wof:parent_id":85872531,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ne",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        873868507
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

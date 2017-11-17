@@ -7,13 +7,16 @@
     "addr:postcode":"68105",
     "addr:street":"Center St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.965041,41.241527,-95.965041,41.241527",
     "geom:latitude":41.241527,
     "geom:longitude":-95.965041,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3528 Center St",
     "sg:city":"Omaha",
     "sg:classifiers":[],
@@ -35,7 +38,7 @@
         "sg:id":"SG_1nzkq4s4fQaAtq7aOvBSih_41.241527_-95.965041@1303262941"
     },
     "wof:country":"US",
-    "wof:geomhash":"8f03cfa0e4f33ad967f30b25564d7834",
+    "wof:geomhash":"c4176dfe581850fcf11c92b8c994d56e",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -48,12 +51,14 @@
         }
     ],
     "wof:id":203056149,
-    "wof:lastmodified":1472633916,
+    "wof:lastmodified":1510941289,
     "wof:name":"Richies",
     "wof:parent_id":85872527,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ne",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        873975849
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

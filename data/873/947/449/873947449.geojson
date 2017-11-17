@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.931755,41.257577,-95.931755,41.257577",
     "geom:latitude":41.257577,
     "geom:longitude":-95.931755,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1299 Farnam St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -39,16 +41,18 @@
     },
     "wof:country":"US",
     "wof:created":1464301031,
-    "wof:geomhash":"9a1a719470b7eed838e2a4d26bb24e58",
+    "wof:geomhash":"3cea30c656d5d1008b1926ddb6c92c68",
     "wof:hierarchy":[],
     "wof:id":873947449,
-    "wof:lastmodified":1472634072,
+    "wof:lastmodified":1510943299,
     "wof:name":"Stinson Morrison Hecker LLP",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        202994311
+    ],
     "wof:tags":[
         "attorney"
     ]

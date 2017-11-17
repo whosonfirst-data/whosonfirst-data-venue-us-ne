@@ -7,13 +7,16 @@
     "addr:postcode":"68137",
     "addr:street":"Millard Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.120506,41.212103,-96.120506,41.212103",
     "geom:latitude":41.212103,
     "geom:longitude":-96.120506,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"13205 Millard Ave",
     "sg:city":"Omaha",
     "sg:classifiers":[],
@@ -35,7 +38,7 @@
         "sg:id":"SG_64GG6vsQnleneszNJBpkBy_41.212103_-96.120506@1303262942"
     },
     "wof:country":"US",
-    "wof:geomhash":"ec5ef876135023787860ed81ce2564cb",
+    "wof:geomhash":"b7686a1e238e3b6f0f44e504664b678c",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -48,12 +51,14 @@
         }
     ],
     "wof:id":203139435,
-    "wof:lastmodified":1472633919,
+    "wof:lastmodified":1510943630,
     "wof:name":"Paul's Millard Sinclair",
     "wof:parent_id":85872531,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ne",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        873928033
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

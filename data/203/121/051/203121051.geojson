@@ -7,13 +7,16 @@
     "addr:postcode":"68131",
     "addr:street":"Farnam St Ste 1200",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.965619,41.257436,-95.965619,41.257436",
     "geom:latitude":41.257436,
     "geom:longitude":-95.965619,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3555 Farnam St Ste 1200",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_6s4RSbY5CLVtWYkjxtA3aN_41.257436_-95.965619@1303262942"
     },
     "wof:country":"US",
-    "wof:geomhash":"23054518a67411feb63d05a1c69d56ba",
+    "wof:geomhash":"3e9061cb82fa8abf945274f0d45f9512",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":203121051,
-    "wof:lastmodified":1472633918,
+    "wof:lastmodified":1510943713,
     "wof:name":"Kiewit Plaza Barber Shop",
     "wof:parent_id":85872525,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ne",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        873901761
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -7,13 +7,16 @@
     "addr:postcode":"68131",
     "addr:street":"Dodge St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.976501,41.259602,-95.976501,41.259602",
     "geom:latitude":41.259602,
     "geom:longitude":-95.976501,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4353 Dodge St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -44,7 +47,7 @@
         "sg:id":"SG_4mokUbXEb5U1lOnomtgiFc_41.259602_-95.976501@1303262942"
     },
     "wof:country":"US",
-    "wof:geomhash":"dc780b51818838c8b6f91c40fe3bf622",
+    "wof:geomhash":"0358742fbfa3e848d779d7b7688fdac9",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -57,12 +60,14 @@
         }
     ],
     "wof:id":203123111,
-    "wof:lastmodified":1472633916,
+    "wof:lastmodified":1510943871,
     "wof:name":"Midwest Eye Care P C",
     "wof:parent_id":85872523,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ne",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        873966911
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "ophthalmologist"

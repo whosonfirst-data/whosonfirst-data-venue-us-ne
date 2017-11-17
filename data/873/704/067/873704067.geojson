@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.034485,41.150804,-96.034485,41.150804",
     "geom:latitude":41.150804,
     "geom:longitude":-96.034485,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"806 E Halleck St",
     "sg:city":"Papillion",
     "sg:classifiers":[
@@ -38,16 +40,18 @@
     },
     "wof:country":"US",
     "wof:created":1464296446,
-    "wof:geomhash":"977963ea1cb11dff577f9763c259f135",
+    "wof:geomhash":"b1c764792de5689dc456fca1b10a2d34",
     "wof:hierarchy":[],
     "wof:id":873704067,
-    "wof:lastmodified":1472633752,
+    "wof:lastmodified":1510942570,
     "wof:name":"Papio Bay Concession Stand",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        202991467
+    ],
     "wof:tags":[
         "concessionaire"
     ]

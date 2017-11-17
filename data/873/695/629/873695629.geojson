@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.990223,41.24151,-95.990223,41.24151",
     "geom:latitude":41.24151,
     "geom:longitude":-95.990223,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4951 Center St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1464296362,
-    "wof:geomhash":"a487f1f48e4c52e1d241e5be24a6956e",
+    "wof:geomhash":"8d06393157c195b664bde07975720edd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,13 +64,15 @@
         }
     ],
     "wof:id":873695629,
-    "wof:lastmodified":1472633808,
+    "wof:lastmodified":1510942717,
     "wof:name":"Z Family Practice",
     "wof:parent_id":85872513,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        203061355
+    ],
     "wof:tags":[
         "physician",
         "medical",

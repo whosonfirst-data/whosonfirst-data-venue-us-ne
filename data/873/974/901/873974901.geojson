@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.9608,41.264702,-95.9608,41.264702",
     "geom:latitude":41.264702,
     "geom:longitude":-95.9608,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3225 California St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1464302187,
-    "wof:geomhash":"dd4eb7b7fc754380fca423adf7300c1c",
+    "wof:geomhash":"9acf00658121edb3a49fbf81b81022c3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,13 +63,15 @@
         }
     ],
     "wof:id":873974901,
-    "wof:lastmodified":1472634124,
+    "wof:lastmodified":1510941748,
     "wof:name":"Snap Productions",
     "wof:parent_id":85872525,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        203127517
+    ],
     "wof:tags":[
         "performing"
     ]

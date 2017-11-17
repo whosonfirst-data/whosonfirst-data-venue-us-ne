@@ -7,13 +7,16 @@
     "addr:postcode":"68505",
     "addr:street":"N Cotner Blvd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.635539,40.820482,-96.635539,40.820482",
     "geom:latitude":40.820482,
     "geom:longitude":-96.635539,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"770 N Cotner Blvd",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1464296471,
-    "wof:geomhash":"02eee35ec522bdcc2dca52c0c7e4e6db",
+    "wof:geomhash":"0146cd2b972ca4e6caee29f5e1548c08",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,12 +64,14 @@
         }
     ],
     "wof:id":873706169,
-    "wof:lastmodified":1472633766,
+    "wof:lastmodified":1510941852,
     "wof:name":"A T I Title Company",
     "wof:parent_id":85878703,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ne",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        873965609
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "abstract",

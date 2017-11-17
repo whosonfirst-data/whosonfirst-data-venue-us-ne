@@ -7,13 +7,16 @@
     "addr:postcode":"68131",
     "addr:street":"California St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.960252,41.264768,-95.960252,41.264768",
     "geom:latitude":41.264768,
     "geom:longitude":-95.960252,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3225 California St",
     "sg:city":"Omaha",
     "sg:classifiers":[],
@@ -34,7 +37,7 @@
         "sg:id":"SG_6PuWSFCEcjOvcrWW9V5nu3_41.264768_-95.960252@1303262942"
     },
     "wof:country":"US",
-    "wof:geomhash":"ca7d662292b140073782bd3ce5af34b5",
+    "wof:geomhash":"fdb64af23d5e40053afe5b2db716c7eb",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -47,12 +50,14 @@
         }
     ],
     "wof:id":203127517,
-    "wof:lastmodified":1472633919,
+    "wof:lastmodified":1510941748,
     "wof:name":"Snap Productions",
     "wof:parent_id":85872525,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ne",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        873974901
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

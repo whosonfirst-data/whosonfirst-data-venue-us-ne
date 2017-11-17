@@ -7,13 +7,16 @@
     "addr:postcode":"68114",
     "addr:street":"S 72Nd St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.023933,41.252289,-96.023933,41.252289",
     "geom:latitude":41.252289,
     "geom:longitude":-96.023933,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"711 S 72nd St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1464300852,
-    "wof:geomhash":"b10a346c0f2f73adebe1df295a02435e",
+    "wof:geomhash":"e481f6bfa01c348cd7137a61e274e04a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,13 +60,17 @@
         }
     ],
     "wof:id":873944177,
-    "wof:lastmodified":1472634056,
+    "wof:lastmodified":1510943915,
     "wof:name":"Wendy's",
     "wof:parent_id":85867059,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ne",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        203097943
+    ],
+    "wof:supersedes":[
+        203097943
+    ],
     "wof:tags":[]
 },
   "bbox": [

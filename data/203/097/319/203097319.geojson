@@ -7,13 +7,16 @@
     "addr:postcode":"68114",
     "addr:street":"Dodge St Suite # 325",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.026871,41.259659,-96.026871,41.259659",
     "geom:latitude":41.259659,
     "geom:longitude":-96.026871,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"7400 Dodge St Suite #325",
     "sg:city":"Omaha",
     "sg:classifiers":[],
@@ -36,7 +39,7 @@
         "sg:id":"SG_40yAohovvwS8pS7ufcPBbZ_41.259659_-96.026871@1303262942"
     },
     "wof:country":"US",
-    "wof:geomhash":"e851421ad7fd53e419faac99e15f536d",
+    "wof:geomhash":"5ad9d23cfd12641b12659f0e6d9992a9",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":203097319,
-    "wof:lastmodified":1472633916,
+    "wof:lastmodified":1510941532,
     "wof:name":"Barnes & Noble Booksellers",
     "wof:parent_id":85872509,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ne",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        873635107
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

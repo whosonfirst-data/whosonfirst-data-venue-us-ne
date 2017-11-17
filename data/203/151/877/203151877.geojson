@@ -7,13 +7,16 @@
     "addr:postcode":"68164",
     "addr:street":"N 129Th St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.115115,41.291914,-96.115115,41.291914",
     "geom:latitude":41.291914,
     "geom:longitude":-96.115115,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3655 N 129th St",
     "sg:city":"Omaha",
     "sg:classifiers":[],
@@ -35,7 +38,7 @@
         "sg:id":"SG_7NvNXlbeCkJnsKwTOWbS55_41.291914_-96.115115@1303262943"
     },
     "wof:country":"US",
-    "wof:geomhash":"c00f593f672c5f099a87a7649453b33b",
+    "wof:geomhash":"07d89da936e8f68769be04ab906afa6d",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -48,12 +51,14 @@
         }
     ],
     "wof:id":203151877,
-    "wof:lastmodified":1472633923,
+    "wof:lastmodified":1510942194,
     "wof:name":"Hiro Sushi",
     "wof:parent_id":85872503,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ne",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        873976539
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

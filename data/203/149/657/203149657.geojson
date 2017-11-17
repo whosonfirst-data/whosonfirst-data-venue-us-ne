@@ -7,13 +7,16 @@
     "addr:postcode":"68154",
     "addr:street":"N 114Th St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.092015,41.267379,-96.092015,41.267379",
     "geom:latitude":41.267379,
     "geom:longitude":-96.092015,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"777 N 114th St",
     "sg:city":"Omaha",
     "sg:classifiers":[],
@@ -34,7 +37,7 @@
         "sg:id":"SG_14SA5vL3RTCa9JIaMvuzWi_41.267379_-96.092015@1303262943"
     },
     "wof:country":"US",
-    "wof:geomhash":"27e65cadc6860e0b02b13613fbc03540",
+    "wof:geomhash":"f83f0adace69d5569334db70ccdbbf4a",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -47,12 +50,14 @@
         }
     ],
     "wof:id":203149657,
-    "wof:lastmodified":1472633922,
+    "wof:lastmodified":1510943389,
     "wof:name":"Clancy's Pub",
     "wof:parent_id":85872503,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ne",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        873978015
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -7,13 +7,16 @@
     "addr:postcode":"68102",
     "addr:street":"Jackson St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.931602,41.254299,-95.931602,41.254299",
     "geom:latitude":41.254299,
     "geom:longitude":-95.931602,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1123 Jackson St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -39,16 +42,20 @@
     },
     "wof:country":"US",
     "wof:created":1464302028,
-    "wof:geomhash":"05b27e099c411b010da6fac2d3238d05",
+    "wof:geomhash":"9b3ace41d742afe9fc8dc74125e97065",
     "wof:hierarchy":[],
     "wof:id":873971159,
-    "wof:lastmodified":1472634112,
+    "wof:lastmodified":1510943470,
     "wof:name":"Big Brain Productions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ne",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        203022983
+    ],
+    "wof:supersedes":[
+        203022983
+    ],
     "wof:tags":[
         "piercing"
     ]

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.169501,41.192073,-96.169501,41.192073",
     "geom:latitude":41.192073,
     "geom:longitude":-96.169501,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6718 S 163rd St",
     "sg:city":"Omaha",
     "sg:classifiers":[],
@@ -31,7 +33,7 @@
         "sg:id":"SG_1R00Y1HPW4N2q4zEJ9bCkk_41.192073_-96.169501@1303262942"
     },
     "wof:country":"US",
-    "wof:geomhash":"007dcc84bca7bb36b348322722d35d09",
+    "wof:geomhash":"c38127e8957206c660518d2a490f576b",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -43,13 +45,15 @@
         }
     ],
     "wof:id":337287705,
-    "wof:lastmodified":1472633739,
+    "wof:lastmodified":1510941796,
     "wof:name":"K&S Builders Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        873599001
+    ],
     "wof:tags":[]
 },
   "bbox": [

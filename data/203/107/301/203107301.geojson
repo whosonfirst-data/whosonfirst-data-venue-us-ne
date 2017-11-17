@@ -7,13 +7,16 @@
     "addr:postcode":"68117",
     "addr:street":"L St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.997546,41.212269,-95.997546,41.212269",
     "geom:latitude":41.212269,
     "geom:longitude":-95.997546,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5405 L St",
     "sg:city":"Omaha",
     "sg:classifiers":[],
@@ -35,7 +38,7 @@
         "sg:id":"SG_2YAaAsOzqMKSezTt0gZefx_41.212269_-95.997546@1303262942"
     },
     "wof:country":"US",
-    "wof:geomhash":"415c130d9afb6f0a37ccfc10213f436c",
+    "wof:geomhash":"be39b1442924109d37934695be765bdc",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -48,12 +51,14 @@
         }
     ],
     "wof:id":203107301,
-    "wof:lastmodified":1472633921,
+    "wof:lastmodified":1510942585,
     "wof:name":"Wendy's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ne",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        203107371
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

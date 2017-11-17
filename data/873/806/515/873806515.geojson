@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.090896,41.265708,-96.090896,41.265708",
     "geom:latitude":41.265708,
     "geom:longitude":-96.090896,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"743 N 114th St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1464297859,
-    "wof:geomhash":"22480ec470b4d881ea2e637ca9983430",
+    "wof:geomhash":"25cd2f267121fe7ecc0a4f87286e6511",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,13 +59,15 @@
         }
     ],
     "wof:id":873806515,
-    "wof:lastmodified":1472633902,
+    "wof:lastmodified":1510943704,
     "wof:name":"Feta's Gyros",
     "wof:parent_id":85872503,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        203148561
+    ],
     "wof:tags":[]
 },
   "bbox": [
