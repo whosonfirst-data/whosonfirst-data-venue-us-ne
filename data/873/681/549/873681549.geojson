@@ -7,6 +7,7 @@
     "addr:postcode":"68102",
     "addr:street":"Douglas St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-16",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.94685,41.258752,-95.94685,41.258752",
@@ -14,6 +15,7 @@
     "geom:longitude":-95.94685,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2002 Douglas St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -38,15 +40,17 @@
     },
     "wof:country":"US",
     "wof:created":1464296039,
-    "wof:geomhash":"4c25ecccfd026c773937e037b26f3c4e",
+    "wof:geomhash":"fd8e36c52f51b18caf2f9fc225e610ab",
     "wof:hierarchy":[],
     "wof:id":873681549,
-    "wof:lastmodified":1472633834,
+    "wof:lastmodified":1534439104,
     "wof:name":"Locher Cellilli Pavelka Dostal",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ne",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        203026499
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"

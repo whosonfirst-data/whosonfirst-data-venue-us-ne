@@ -7,6 +7,7 @@
     "addr:postcode":"68005",
     "addr:street":"Peoples Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-16",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-95.923294,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2211 Peoples Rd",
     "sg:city":"Bellevue",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1464298912,
-    "wof:geomhash":"5abfb04974ab235ab81d4fa1ba690d04",
+    "wof:geomhash":"b9a7f9b472722c944cc398c31924cff2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,12 +64,14 @@
         }
     ],
     "wof:id":873854887,
-    "wof:lastmodified":1491931333,
+    "wof:lastmodified":1534439107,
     "wof:name":"Accuprint Laser Svc",
     "wof:parent_id":85804025,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ne",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        873925725
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "parts",

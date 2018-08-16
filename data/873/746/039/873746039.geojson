@@ -2,18 +2,24 @@
   "id": 873746039,
   "type": "Feature",
   "properties": {
-    "addr:full":"710 W 11th St Kearney NE 68845",
+    "addr:city":"Kearney",
+    "addr:full":"710 W 11Th St Kearney, Ne 68845",
+    "addr:house_number":"710",
     "addr:housenumber":"710",
+    "addr:phone":"+1 308-234-3041",
     "addr:postcode":"68845",
+    "addr:road":"W 11Th St",
+    "addr:state":"NE",
     "addr:street":"W 11Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-99.094243,40.68507,-99.094243,40.68507",
-    "geom:latitude":40.68507,
-    "geom:longitude":-99.094243,
+    "geom:bbox":"-99.09182,40.68501,-99.09182,40.68501",
+    "geom:latitude":40.68501,
+    "geom:longitude":-99.09182,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"710 W 11th St",
     "sg:city":"Kearney",
     "sg:classifiers":[
@@ -28,19 +34,23 @@
     "sg:postcode":"68845",
     "sg:province":"NE",
     "sg:website":"www.bchs.us",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102533025
+    ],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8403100015,
         "sg:id":"SG_4YM4NwonODcI4c8nKLmH30_40.685070_-99.094243@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464297026,
-    "wof:geomhash":"d23fd09f54521c4a9392783ab3a1c9b6",
+    "wof:geomhash":"50ae66c0d8ae44aa5aaf1407fbf26a47",
     "wof:hierarchy":[],
     "wof:id":873746039,
-    "wof:lastmodified":1472633844,
-    "wof:name":"Trails & Rails Museum",
+    "wof:lastmodified":1534439105,
+    "wof:name":"Trails And Rails Museum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ne",
@@ -49,10 +59,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -99.094243,
-    40.68507,
-    -99.094243,
-    40.68507
+    -99.09182,
+    40.68501,
+    -99.09182,
+    40.68501
 ],
-  "geometry": {"coordinates":[-99.09424300000001,40.68507],"type":"Point"}
+  "geometry": {"coordinates":[-99.09182,40.68501],"type":"Point"}
 }

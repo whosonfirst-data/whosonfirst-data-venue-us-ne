@@ -14,6 +14,7 @@
     "geom:longitude":-95.978543,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4242 Farnam St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -53,7 +54,7 @@
     },
     "wof:country":"US",
     "wof:created":1464300176,
-    "wof:geomhash":"07045985ebef6855c5ec0b3e1d9f21bc",
+    "wof:geomhash":"e1c07acfaaa818e01a507ef5be860c07",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -67,13 +68,15 @@
         }
     ],
     "wof:id":873917981,
-    "wof:lastmodified":1472634035,
+    "wof:lastmodified":1534439106,
     "wof:name":"Simply Well LLC",
     "wof:parent_id":85872523,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        873553431
+    ],
     "wof:tags":[
         "medical",
         "care"

@@ -7,6 +7,7 @@
     "addr:postcode":"68102",
     "addr:street":"Dodge St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-16",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.942703,41.259701,-95.942703,41.259701",
@@ -14,6 +15,7 @@
     "geom:longitude":-95.942703,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2027 Dodge St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -39,7 +41,7 @@
         "sg:id":"SG_2utuhvqbY7xJaNVtTheFa4_41.259701_-95.942703@1303262941"
     },
     "wof:country":"US",
-    "wof:geomhash":"e8a55041e92953f71549e4169cafdb16",
+    "wof:geomhash":"bdcd3ffe25aa9005af1f7f6b018f303d",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +54,14 @@
         }
     ],
     "wof:id":203025237,
-    "wof:lastmodified":1472633873,
+    "wof:lastmodified":1534439107,
     "wof:name":"Brown Thomas R Atty",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ne",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        203011287
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

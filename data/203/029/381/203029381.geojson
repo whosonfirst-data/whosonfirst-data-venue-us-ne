@@ -7,6 +7,7 @@
     "addr:postcode":"68102",
     "addr:street":"Harney St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-16",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.936401,41.256699,-95.936401,41.256699",
@@ -14,6 +15,7 @@
     "geom:longitude":-95.936401,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1504 Harney St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -39,7 +41,7 @@
         "sg:id":"SG_0O3UHlaWyGeKfU0MHAeYaw_41.256699_-95.936401@1303262941"
     },
     "wof:country":"US",
-    "wof:geomhash":"172ab3a8ba72d337c7e6a1299611b320",
+    "wof:geomhash":"64f4b041de22c6f9152cde38b96e5c9c",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +54,14 @@
         }
     ],
     "wof:id":203029381,
-    "wof:lastmodified":1472633897,
+    "wof:lastmodified":1534439104,
     "wof:name":"Best Western Redick Plaza Hotel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ne",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        203030601
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

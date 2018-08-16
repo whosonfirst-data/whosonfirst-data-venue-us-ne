@@ -7,6 +7,7 @@
     "addr:postcode":"68131",
     "addr:street":"S Saddle Creek Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-16",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.980554,41.257126,-95.980554,41.257126",
@@ -14,6 +15,7 @@
     "geom:longitude":-95.980554,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"414 S Saddle Creek Rd",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1464301270,
-    "wof:geomhash":"ad0cd8c3abfa356cc6795b8dad5013c2",
+    "wof:geomhash":"b6b5e22218a3c8617aa1025412f56827",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +60,14 @@
         }
     ],
     "wof:id":873953093,
-    "wof:lastmodified":1472634064,
+    "wof:lastmodified":1534439105,
     "wof:name":"Metro Health Svc Federal CU",
     "wof:parent_id":85872523,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ne",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        203127347
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

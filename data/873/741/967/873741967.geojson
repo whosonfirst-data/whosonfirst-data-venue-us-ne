@@ -2,18 +2,24 @@
   "id": 873741967,
   "type": "Feature",
   "properties": {
-    "addr:full":"544 Jackson St Sidney NE 69162",
+    "addr:city":"Sidney",
+    "addr:full":"544 Jackson St Sidney, Ne 69162",
+    "addr:house_number":"544",
     "addr:housenumber":"544",
+    "addr:phone":"+1 308-254-2150",
     "addr:postcode":"69162",
+    "addr:road":"Jackson St",
+    "addr:state":"NE",
     "addr:street":"Jackson St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-102.970902,41.143988,-102.970902,41.143988",
-    "geom:latitude":41.143988,
-    "geom:longitude":-102.970902,
+    "geom:bbox":"-102.97111,41.14399,-102.97111,41.14399",
+    "geom:latitude":41.14399,
+    "geom:longitude":-102.97111,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"544 Jackson St",
     "sg:city":"Sidney",
     "sg:classifiers":[
@@ -27,18 +33,20 @@
     "sg:phone":"+1 308 254 2150",
     "sg:postcode":"69162",
     "sg:province":"NE",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8403100085,
         "sg:id":"SG_4D8nPOCRHAvhlC5106PlhB_41.143988_-102.970902@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464296954,
-    "wof:geomhash":"8ee6e98261efe89bc3ad71decdced2ad",
+    "wof:geomhash":"90b69b1e61850f4db917f451ef5521da",
     "wof:hierarchy":[],
     "wof:id":873741967,
-    "wof:lastmodified":1472633899,
+    "wof:lastmodified":1534439105,
     "wof:name":"Cheyenne County Historical",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,10 +56,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -102.970902,
-    41.143988,
-    -102.970902,
-    41.143988
+    -102.97111,
+    41.14399,
+    -102.97111,
+    41.14399
 ],
-  "geometry": {"coordinates":[-102.970902,41.143988],"type":"Point"}
+  "geometry": {"coordinates":[-102.97111,41.14399],"type":"Point"}
 }

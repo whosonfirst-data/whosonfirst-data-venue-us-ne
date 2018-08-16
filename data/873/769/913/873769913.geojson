@@ -7,6 +7,7 @@
     "addr:postcode":"68137",
     "addr:street":"S 144Th St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-16",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.13866,41.219209,-96.13866,41.219209",
@@ -14,6 +15,7 @@
     "geom:longitude":-96.13866,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4281 S 144th St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1464297364,
-    "wof:geomhash":"4098a426ee4dffbfcf6da78968e5abea",
+    "wof:geomhash":"8320130f296feb0eda84e7f4802770ed",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,12 +59,14 @@
         }
     ],
     "wof:id":873769913,
-    "wof:lastmodified":1472633908,
+    "wof:lastmodified":1534439106,
     "wof:name":"Jeanine Rowe's Studio",
     "wof:parent_id":85872531,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ne",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        873914991
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

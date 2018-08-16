@@ -2,18 +2,24 @@
   "id": 873865649,
   "type": "Feature",
   "properties": {
-    "addr:full":"2401 Central Ave Kearney NE 68847",
+    "addr:city":"Kearney",
+    "addr:full":"2401 Central Avenue Kearney, Ne 68847",
+    "addr:house_number":"2401",
     "addr:housenumber":"2401",
+    "addr:phone":"+1 308-865-8559",
     "addr:postcode":"68847",
+    "addr:road":"Central Avenue",
+    "addr:state":"NE",
     "addr:street":"Central Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-99.081674,40.699926,-99.081674,40.699926",
-    "geom:latitude":40.699926,
-    "geom:longitude":-99.081674,
+    "geom:bbox":"-99.08159,40.69932,-99.08159,40.69932",
+    "geom:latitude":40.69932,
+    "geom:longitude":-99.08159,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"2401 Central Ave",
     "sg:city":"Kearney",
     "sg:classifiers":[
@@ -30,18 +36,22 @@
     "sg:tags":[
         "gallery"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102533025
+    ],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8409503764,
         "sg:id":"SG_0kaGtZDLMwbd0rSXcERC6c_40.699926_-99.081674@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464299150,
-    "wof:geomhash":"925edcc1d49e803f199b3b0c5d440451",
+    "wof:geomhash":"a56d1c8fd9dbd866cf5f969061b9729d",
     "wof:hierarchy":[],
     "wof:id":873865649,
-    "wof:lastmodified":1472633981,
+    "wof:lastmodified":1534439106,
     "wof:name":"Museum Of Nebraska Art",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -53,10 +63,10 @@
     ]
 },
   "bbox": [
-    -99.081674,
-    40.699926,
-    -99.081674,
-    40.699926
+    -99.08159,
+    40.69932,
+    -99.08159,
+    40.69932
 ],
-  "geometry": {"coordinates":[-99.08167400000001,40.699926],"type":"Point"}
+  "geometry": {"coordinates":[-99.08159000000001,40.69932],"type":"Point"}
 }

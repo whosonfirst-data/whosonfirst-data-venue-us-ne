@@ -2,18 +2,24 @@
   "id": 873790469,
   "type": "Feature",
   "properties": {
-    "addr:full":"2740 A St Lincoln NE 68502",
+    "addr:city":"Lincoln",
+    "addr:full":"2740 A Street Lincoln, Ne 68502",
+    "addr:house_number":"2740",
     "addr:housenumber":"2740",
+    "addr:phone":"+1 402-441-7847",
     "addr:postcode":"68502",
+    "addr:road":"A Street",
+    "addr:state":"NE",
     "addr:street":"A St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-96.682352,40.798943,-96.682352,40.798943",
-    "geom:latitude":40.798943,
-    "geom:longitude":-96.682352,
+    "geom:bbox":"-96.6816,40.79903,-96.6816,40.79903",
+    "geom:latitude":40.79903,
+    "geom:longitude":-96.6816,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"2740 A St",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -31,7 +37,10 @@
         "parks"
     ],
     "sg:website":"www.lincoln.ne.gov",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102529023
+    ],
     "wof:belongsto":[
         85878727,
         102191575,
@@ -43,11 +52,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8403100267,
         "sg:id":"SG_6hb6r7jyqGUFK3XaJnqnbR_40.798943_-96.682352@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464297646,
-    "wof:geomhash":"e38de613e9b7aab683f635dc6d6bdedc",
+    "wof:geomhash":"db2c39b990b7c14b1c6c8cafabc3c657",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,8 +71,8 @@
         }
     ],
     "wof:id":873790469,
-    "wof:lastmodified":1472633893,
-    "wof:name":"Pioneers Park Nature Ctr",
+    "wof:lastmodified":1534439105,
+    "wof:name":"Pioneer Park Nature Center",
     "wof:parent_id":85878727,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ne",
@@ -73,10 +83,10 @@
     ]
 },
   "bbox": [
-    -96.682352,
-    40.798943,
-    -96.682352,
-    40.798943
+    -96.6816,
+    40.79903,
+    -96.6816,
+    40.79903
 ],
-  "geometry": {"coordinates":[-96.68235199999999,40.798943],"type":"Point"}
+  "geometry": {"coordinates":[-96.6816,40.79903],"type":"Point"}
 }

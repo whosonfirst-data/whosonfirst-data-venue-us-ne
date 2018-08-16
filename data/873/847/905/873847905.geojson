@@ -14,6 +14,7 @@
     "geom:longitude":-96.100626,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"11805 Skylark Dr",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -43,7 +44,7 @@
     },
     "wof:country":"US",
     "wof:created":1464298768,
-    "wof:geomhash":"f14703c26fe7c2811bf84a167cf12a37",
+    "wof:geomhash":"2d63fcdf7468cdf944d1e7bc404ea147",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,13 +58,15 @@
         }
     ],
     "wof:id":873847905,
-    "wof:lastmodified":1472633965,
+    "wof:lastmodified":1534439106,
     "wof:name":"Clancy's Pub",
     "wof:parent_id":85872531,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        203146697
+    ],
     "wof:tags":[]
 },
   "bbox": [

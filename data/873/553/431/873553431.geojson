@@ -7,6 +7,7 @@
     "addr:postcode":"68131",
     "addr:street":"Farnam St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-16",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-95.978543,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"4242 Farnam St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -64,12 +65,14 @@
         }
     ],
     "wof:id":873553431,
-    "wof:lastmodified":1510943239,
+    "wof:lastmodified":1534439106,
     "wof:name":"Simply Well",
     "wof:parent_id":85872523,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ne",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        873917981
+    ],
     "wof:supersedes":[
         203123751
     ],

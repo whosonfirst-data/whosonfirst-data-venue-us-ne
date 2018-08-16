@@ -2,18 +2,24 @@
   "id": 873938247,
   "type": "Feature",
   "properties": {
-    "addr:full":"1627 H St Lincoln NE 68508",
+    "addr:city":"Lincoln",
+    "addr:full":"1627 H St Lincoln, Ne 68508",
+    "addr:house_number":"1627",
     "addr:housenumber":"1627",
+    "addr:phone":"+1 402-471-4764",
     "addr:postcode":"68508",
+    "addr:road":"H St",
+    "addr:state":"NE",
     "addr:street":"H St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-96.697073,40.806849,-96.697073,40.806849",
-    "geom:latitude":40.806849,
-    "geom:longitude":-96.697073,
+    "geom:bbox":"-96.70414,40.81153,-96.70414,40.81153",
+    "geom:latitude":40.81153,
+    "geom:longitude":-96.70414,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"1627 H St",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -27,7 +33,10 @@
     "sg:phone":"+1 402 471 4764",
     "sg:postcode":"68508",
     "sg:province":"NE",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102529023
+    ],
     "wof:belongsto":[
         85878699,
         102191575,
@@ -39,11 +48,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8403100005,
         "sg:id":"SG_3FjrQisjY8f0Sp1AQMZQhP_40.806849_-96.697073@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464300616,
-    "wof:geomhash":"b4aa98054fde7b7e742392c3d1bab341",
+    "wof:geomhash":"25520d4c7a27fc13eb90ccb8770aefdc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +67,7 @@
         }
     ],
     "wof:id":873938247,
-    "wof:lastmodified":1472634054,
+    "wof:lastmodified":1534439108,
     "wof:name":"Thomas P Kennard House",
     "wof:parent_id":85878699,
     "wof:placetype":"venue",
@@ -67,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -96.697073,
-    40.806849,
-    -96.697073,
-    40.806849
+    -96.70414,
+    40.81153,
+    -96.70414,
+    40.81153
 ],
-  "geometry": {"coordinates":[-96.697073,40.806849],"type":"Point"}
+  "geometry": {"coordinates":[-96.70414,40.81153],"type":"Point"}
 }

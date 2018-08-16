@@ -15,6 +15,7 @@
     "geom:longitude":-95.923959,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2206 Longo Dr",
     "sg:city":"Bellevue",
     "sg:classifiers":[
@@ -44,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1464301285,
-    "wof:geomhash":"3278e72ca81a7775fb4aa6b2ab7b008e",
+    "wof:geomhash":"0c08b2535f7a0abcf04d1a3c2355e84b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,13 +59,15 @@
         }
     ],
     "wof:id":873953519,
-    "wof:lastmodified":1491893205,
+    "wof:lastmodified":1534439107,
     "wof:name":"Hoogevn Chrprctc Wllnss Clnc",
     "wof:parent_id":85821583,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        873879479
+    ],
     "wof:tags":[]
 },
   "bbox": [

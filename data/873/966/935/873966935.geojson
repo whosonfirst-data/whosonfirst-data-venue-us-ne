@@ -2,18 +2,24 @@
   "id": 873966935,
   "type": "Feature",
   "properties": {
-    "addr:full":"2402 Clay St Bellevue NE 68005",
+    "addr:city":"Bellevue",
+    "addr:full":"2402 Clay Street Bellevue, Ne 68005",
+    "addr:house_number":"2402",
     "addr:housenumber":"2402",
+    "addr:phone":"+1 402-292-1880",
     "addr:postcode":"68005",
+    "addr:road":"Clay Street",
+    "addr:state":"NE",
     "addr:street":"Clay St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-95.905479,41.134438,-95.905479,41.134438",
-    "geom:latitude":41.134438,
-    "geom:longitude":-95.905479,
+    "geom:bbox":"-95.9056,41.13442,-95.9056,41.13442",
+    "geom:latitude":41.13442,
+    "geom:longitude":-95.9056,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"2402 Clay St",
     "sg:city":"Bellevue",
     "sg:classifiers":[
@@ -35,21 +41,27 @@
         "tourist"
     ],
     "sg:website":"http://www.omahachamber.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102524739,
+        102531489,
+        102529985
+    ],
     "wof:belongsto":[
-        85688563,
+        85820061,
         85633793,
         85974747,
         102082777,
-        85820061
+        85688563
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8403100248,
         "sg:id":"SG_05kmzukd1zxchtLXLCq7Lx_41.133934_-95.905605@1293134755"
     },
     "wof:country":"US",
     "wof:created":1464301874,
-    "wof:geomhash":"78dc957a1799c969f1351d2668b26cc4",
+    "wof:geomhash":"946fb3050f877be8bf7cd06542f251a8",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -61,8 +73,8 @@
         }
     ],
     "wof:id":873966935,
-    "wof:lastmodified":1472634124,
-    "wof:name":"Sarpy County Historical Museum",
+    "wof:lastmodified":1534439108,
+    "wof:name":"Sarpy County Historical Society Foundation",
     "wof:parent_id":85820061,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ne",
@@ -77,10 +89,10 @@
     ]
 },
   "bbox": [
-    -95.905479,
-    41.134438,
-    -95.905479,
-    41.134438
+    -95.9056,
+    41.13442,
+    -95.9056,
+    41.13442
 ],
-  "geometry": {"coordinates":[-95.905479,41.134438],"type":"Point"}
+  "geometry": {"coordinates":[-95.90560000000001,41.13442],"type":"Point"}
 }

@@ -7,6 +7,7 @@
     "addr:postcode":"68803",
     "addr:street":"N Howard Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-16",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.369837,40.927723,-98.369837,40.927723",
@@ -14,6 +15,7 @@
     "geom:longitude":-98.369837,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"908 N Howard Ave",
     "sg:city":"Grand Island",
     "sg:classifiers":[
@@ -38,15 +40,17 @@
     },
     "wof:country":"US",
     "wof:created":1464294984,
-    "wof:geomhash":"21c2867495252be7c4f226bfb7c1ca98",
+    "wof:geomhash":"506217015eaa65805a5b8b1a704bbf1b",
     "wof:hierarchy":[],
     "wof:id":873599767,
-    "wof:lastmodified":1472633829,
+    "wof:lastmodified":1534439106,
     "wof:name":"Gruendel & Gruendel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ne",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        873873683
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "psychologist"

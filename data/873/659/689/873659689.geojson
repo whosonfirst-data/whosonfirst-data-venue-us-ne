@@ -7,6 +7,7 @@
     "addr:postcode":"68114",
     "addr:street":"California St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-16",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.069001,41.264008,-96.069001,41.264008",
@@ -14,6 +15,7 @@
     "geom:longitude":-96.069001,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"10000 California St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1464295695,
-    "wof:geomhash":"79715c778136e6a2e04b68124769e6fb",
+    "wof:geomhash":"39be2c32e5287386de37a6ba6fbaf8f2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,12 +59,14 @@
         }
     ],
     "wof:id":873659689,
-    "wof:lastmodified":1472633811,
+    "wof:lastmodified":1534439108,
     "wof:name":"Westroad Shopping Mall",
     "wof:parent_id":85867061,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ne",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        873966791
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

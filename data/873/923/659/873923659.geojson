@@ -2,18 +2,24 @@
   "id": 873923659,
   "type": "Feature",
   "properties": {
-    "addr:full":"211 E St Central City NE 68826",
+    "addr:city":"Central City",
+    "addr:full":"211 E St Central City, Ne 68826-1326",
+    "addr:house_number":"211",
     "addr:housenumber":"211",
-    "addr:postcode":"68826",
+    "addr:phone":"+1 308-946-2757",
+    "addr:postcode":"68826-1326",
+    "addr:road":"E St",
+    "addr:state":"NE",
     "addr:street":"E St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-98.002253,41.117232,-98.002253,41.117232",
-    "geom:latitude":41.117232,
-    "geom:longitude":-98.002253,
+    "geom:bbox":"-98.00307,41.11677,-98.00307,41.11677",
+    "geom:latitude":41.11677,
+    "geom:longitude":-98.00307,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"211 E St",
     "sg:city":"Central City",
     "sg:classifiers":[
@@ -30,19 +36,21 @@
     "sg:tags":[
         "gallery"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8403100115,
         "sg:id":"SG_29J8oKNERsct2FRrGLJNVd_41.117232_-98.002253@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464300282,
-    "wof:geomhash":"53332402f8002349efc94692ef47427e",
+    "wof:geomhash":"85348b647bee2cd0ac43d2c973d8e2e5",
     "wof:hierarchy":[],
     "wof:id":873923659,
-    "wof:lastmodified":1472634039,
-    "wof:name":"Merrick Cnty Historical Museum",
+    "wof:lastmodified":1534439107,
+    "wof:name":"Merrick County Historical Museum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ne",
@@ -53,10 +61,10 @@
     ]
 },
   "bbox": [
-    -98.002253,
-    41.117232,
-    -98.002253,
-    41.117232
+    -98.00307,
+    41.11677,
+    -98.00307,
+    41.11677
 ],
-  "geometry": {"coordinates":[-98.002253,41.117232],"type":"Point"}
+  "geometry": {"coordinates":[-98.00306999999999,41.11677],"type":"Point"}
 }

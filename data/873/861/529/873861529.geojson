@@ -7,6 +7,7 @@
     "addr:postcode":"68102",
     "addr:street":"Farnam St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-16",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.931755,41.257577,-95.931755,41.257577",
@@ -14,6 +15,7 @@
     "geom:longitude":-95.931755,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1299 Farnam St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -46,15 +48,17 @@
     },
     "wof:country":"US",
     "wof:created":1464299068,
-    "wof:geomhash":"9a1a719470b7eed838e2a4d26bb24e58",
+    "wof:geomhash":"3cea30c656d5d1008b1926ddb6c92c68",
     "wof:hierarchy":[],
     "wof:id":873861529,
-    "wof:lastmodified":1472633976,
+    "wof:lastmodified":1534439104,
     "wof:name":"M J Java Coffee Cafe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ne",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        203039357
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "tea",

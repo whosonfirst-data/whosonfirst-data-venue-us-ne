@@ -7,6 +7,7 @@
     "addr:postcode":"68638",
     "addr:street":"Esther St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-16",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.967206,41.364363,-97.967206,41.364363",
@@ -14,6 +15,7 @@
     "geom:longitude":-97.967206,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"209 Esther St",
     "sg:city":"Fullerton",
     "sg:classifiers":[
@@ -38,15 +40,17 @@
     },
     "wof:country":"US",
     "wof:created":1464297889,
-    "wof:geomhash":"d9bb854336a812fc973399cedfb12db2",
+    "wof:geomhash":"b1b77ab659c4bdf22f5be4dd402b12d8",
     "wof:hierarchy":[],
     "wof:id":873807917,
-    "wof:lastmodified":1472633922,
+    "wof:lastmodified":1534439107,
     "wof:name":"Nance County Clerk",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ne",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        873952469
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "county"

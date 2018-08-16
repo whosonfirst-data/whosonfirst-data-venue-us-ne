@@ -7,6 +7,7 @@
     "addr:postcode":"68114",
     "addr:street":"S 72Nd St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-16",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-96.023911,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "sg:address":"700 S 72nd St",
     "sg:city":"Omaha",
     "sg:classifiers":[],
@@ -51,12 +52,14 @@
         }
     ],
     "wof:id":203098677,
-    "wof:lastmodified":1510941720,
+    "wof:lastmodified":1534439107,
     "wof:name":"Nebraska Furniture Mart",
     "wof:parent_id":85872509,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ne",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        873942249
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

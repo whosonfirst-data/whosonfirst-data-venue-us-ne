@@ -14,6 +14,7 @@
     "geom:longitude":-96.092517,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"256 N 115th St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -49,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1464301336,
-    "wof:geomhash":"982e1239d530d95bae29e58cb3f09090",
+    "wof:geomhash":"f7c40c2db62f9ea599d6e460efbd52b1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -63,13 +64,15 @@
         }
     ],
     "wof:id":873954893,
-    "wof:lastmodified":1472634098,
+    "wof:lastmodified":1534439107,
     "wof:name":"REB & Associates Inc",
     "wof:parent_id":85872503,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        873780091
+    ],
     "wof:tags":[
         "motion",
         "to",

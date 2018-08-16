@@ -14,6 +14,7 @@
     "geom:longitude":-96.13866,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4281 S 144th St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1464300106,
-    "wof:geomhash":"4098a426ee4dffbfcf6da78968e5abea",
+    "wof:geomhash":"8320130f296feb0eda84e7f4802770ed",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +61,15 @@
         }
     ],
     "wof:id":873914991,
-    "wof:lastmodified":1472634037,
+    "wof:lastmodified":1534439106,
     "wof:name":"Janine Rowe Salon",
     "wof:parent_id":85872531,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        873769913
+    ],
     "wof:tags":[
         "shop"
     ]

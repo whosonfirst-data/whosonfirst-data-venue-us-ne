@@ -14,6 +14,7 @@
     "geom:longitude":-96.10279,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"12020 Shamrock Plz",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1464297023,
-    "wof:geomhash":"c3f8f875beb20c9f53727da2e1eca613",
+    "wof:geomhash":"7cc49584a386fc5d01662d0e14bdf88a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +61,15 @@
         }
     ],
     "wof:id":873745863,
-    "wof:lastmodified":1472633879,
+    "wof:lastmodified":1534439105,
     "wof:name":"KMG America Corp",
     "wof:parent_id":85872503,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        873645747
+    ],
     "wof:tags":[
         "company"
     ]

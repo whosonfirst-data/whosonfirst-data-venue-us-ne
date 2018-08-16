@@ -14,6 +14,7 @@
     "geom:longitude":-96.678501,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2935 Pine Lake Rd",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -41,7 +42,7 @@
     },
     "wof:country":"US",
     "wof:created":1464301150,
-    "wof:geomhash":"9b1c09835d712b433edec87d32a8ddc0",
+    "wof:geomhash":"9cdf94503ff2a4825e6e77a9665ce826",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,13 +54,15 @@
         }
     ],
     "wof:id":873949999,
-    "wof:lastmodified":1472634098,
+    "wof:lastmodified":1534439107,
     "wof:name":"Macro Financial Concepts Inc",
     "wof:parent_id":85878733,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        873538273
+    ],
     "wof:tags":[]
 },
   "bbox": [

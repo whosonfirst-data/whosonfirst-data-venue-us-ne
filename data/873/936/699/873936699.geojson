@@ -2,18 +2,24 @@
   "id": 873936699,
   "type": "Feature",
   "properties": {
-    "addr:full":"800 W 13th St Crete NE 68333",
+    "addr:city":"Crete",
+    "addr:full":"800 W 13Th St Crete, Ne 68333",
+    "addr:house_number":"800",
     "addr:housenumber":"800",
+    "addr:phone":"+1 800-913-8478",
     "addr:postcode":"68333",
+    "addr:road":"W 13Th St",
+    "addr:state":"NE",
     "addr:street":"W 13Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-96.969148,40.625313,-96.969148,40.625313",
-    "geom:latitude":40.625313,
-    "geom:longitude":-96.969148,
+    "geom:bbox":"-96.96897,40.62524,-96.96897,40.62524",
+    "geom:latitude":40.62524,
+    "geom:longitude":-96.96897,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"800 W 13th St",
     "sg:city":"Crete",
     "sg:classifiers":[
@@ -27,18 +33,20 @@
     "sg:phone":"+1 402 826 5050",
     "sg:postcode":"68333",
     "sg:province":"NE",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8403100092,
         "sg:id":"SG_1EcyS4J95RbX8xgNRMAbwL_40.625313_-96.969148@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464300557,
-    "wof:geomhash":"798e221da0e87a9ff52283e96f5da224",
+    "wof:geomhash":"be21d62da3bc2703d3243b1cef8a9af2",
     "wof:hierarchy":[],
     "wof:id":873936699,
-    "wof:lastmodified":1472634059,
+    "wof:lastmodified":1534439107,
     "wof:name":"Benne Memorial Museum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,10 +56,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -96.969148,
-    40.625313,
-    -96.969148,
-    40.625313
+    -96.96897,
+    40.62524,
+    -96.96897,
+    40.62524
 ],
-  "geometry": {"coordinates":[-96.969148,40.625313],"type":"Point"}
+  "geometry": {"coordinates":[-96.96897,40.62524],"type":"Point"}
 }

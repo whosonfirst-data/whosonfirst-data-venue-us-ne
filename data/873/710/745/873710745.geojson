@@ -7,6 +7,7 @@
     "addr:postcode":"68114",
     "addr:street":"W Dodge Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-16",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.051445,41.263403,-96.051445,41.263403",
@@ -14,6 +15,7 @@
     "geom:longitude":-96.051445,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"8990 W Dodge Rd",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1464296530,
-    "wof:geomhash":"69c9aba7510ef64d8084c0ea5bc2df77",
+    "wof:geomhash":"13b7ceddc196215100df3fe38a0a740a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,12 +64,14 @@
         }
     ],
     "wof:id":873710745,
-    "wof:lastmodified":1472633829,
+    "wof:lastmodified":1534439106,
     "wof:name":"Mid-America Agency",
     "wof:parent_id":85867061,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ne",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        873847657
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "agency",

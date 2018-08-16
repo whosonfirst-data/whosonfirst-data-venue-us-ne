@@ -7,6 +7,7 @@
     "addr:postcode":"68131",
     "addr:street":"Farnam St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-16",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.954827,41.257827,-95.954827,41.257827",
@@ -14,6 +15,7 @@
     "geom:longitude":-95.954827,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2910 Farnam St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
         "sg:id":"SG_750FJHcY4umRKDVBgUZEBM_41.257827_-95.954827@1303262942"
     },
     "wof:country":"US",
-    "wof:geomhash":"b15d7c59b1ee0acdd8215d5612fb4c17",
+    "wof:geomhash":"111f61cce5fb27894fd7eeeb446b2631",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -58,12 +60,14 @@
         }
     ],
     "wof:id":203121601,
-    "wof:lastmodified":1472633918,
+    "wof:lastmodified":1534439105,
     "wof:name":"Think Tank Llc",
     "wof:parent_id":85872525,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ne",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        203123827
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

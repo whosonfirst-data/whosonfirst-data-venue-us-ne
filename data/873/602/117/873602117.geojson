@@ -7,6 +7,7 @@
     "addr:postcode":"68114",
     "addr:street":"S 107Th Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-16",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.080819,41.249016,-96.080819,41.249016",
@@ -14,6 +15,7 @@
     "geom:longitude":-96.080819,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"920 S 107th Ave",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1464295009,
-    "wof:geomhash":"488d5aeccaec35b93248117683af3697",
+    "wof:geomhash":"16266b0ea1e4309a3ceb67789843d0d0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,12 +59,14 @@
         }
     ],
     "wof:id":873602117,
-    "wof:lastmodified":1472633754,
+    "wof:lastmodified":1534439105,
     "wof:name":"Professional Insurance Agents",
     "wof:parent_id":85872503,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ne",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        873566629
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

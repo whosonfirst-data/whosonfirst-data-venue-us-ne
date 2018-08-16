@@ -14,6 +14,7 @@
     "geom:longitude":-96.024037,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2120 S 72nd St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1464300589,
-    "wof:geomhash":"af0d9247f0f2a21d0af7d699f8aea254",
+    "wof:geomhash":"7bfa5e733861fc8725cab925052b1a8a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +61,15 @@
         }
     ],
     "wof:id":873937441,
-    "wof:lastmodified":1472634055,
+    "wof:lastmodified":1534439107,
     "wof:name":"David J Cullan & Assoc Law Ofc",
     "wof:parent_id":85867059,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        873629269
+    ],
     "wof:tags":[
         "attorney"
     ]

@@ -14,6 +14,7 @@
     "geom:longitude":-103.665748,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4021 Ave B",
     "sg:city":"Scottsbluff",
     "sg:classifiers":[
@@ -38,16 +39,18 @@
     },
     "wof:country":"US",
     "wof:created":1464296591,
-    "wof:geomhash":"101b016b467d0ce1f7bc57b3cebdbac0",
+    "wof:geomhash":"0971d63f717f5db224ef4f0751805838",
     "wof:hierarchy":[],
     "wof:id":873715821,
-    "wof:lastmodified":1472633837,
+    "wof:lastmodified":1534439105,
     "wof:name":"Behavioral Health Unit",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        873710481
+    ],
     "wof:tags":[
         "mental"
     ]

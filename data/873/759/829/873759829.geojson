@@ -2,18 +2,24 @@
   "id": 873759829,
   "type": "Feature",
   "properties": {
-    "addr:full":"380 S Maple St Nelson NE 68961",
+    "addr:city":"Nelson",
+    "addr:full":"380 S Maple St Nelson, Ne 68961",
+    "addr:house_number":"380",
     "addr:housenumber":"380",
+    "addr:phone":"+1 402-225-2351",
     "addr:postcode":"68961",
+    "addr:road":"S Maple St",
+    "addr:state":"NE",
     "addr:street":"S Maple St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-98.071472,40.201486,-98.071472,40.201486",
-    "geom:latitude":40.201486,
-    "geom:longitude":-98.071472,
+    "geom:bbox":"-98.04995,40.20213,-98.04995,40.20213",
+    "geom:latitude":40.20213,
+    "geom:longitude":-98.04995,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"380 S Maple St",
     "sg:city":"Nelson",
     "sg:classifiers":[
@@ -27,19 +33,21 @@
     "sg:phone":"+1 402 225 4117",
     "sg:postcode":"68961",
     "sg:province":"NE",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8403100104,
         "sg:id":"SG_2Lmoy1gHxYmA7Eqqw3NjO4_40.201486_-98.071472@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464297204,
-    "wof:geomhash":"bddb0a46ca2a512eec10f205f3c302c3",
+    "wof:geomhash":"fcddab2415abc4fe072c0878f3b45e2e",
     "wof:hierarchy":[],
     "wof:id":873759829,
-    "wof:lastmodified":1472633905,
-    "wof:name":"Vietnam War Museum",
+    "wof:lastmodified":1534439105,
+    "wof:name":"Vietnam War National Museum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ne",
@@ -48,10 +56,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -98.071472,
-    40.201486,
-    -98.071472,
-    40.201486
+    -98.04995,
+    40.20213,
+    -98.04995,
+    40.20213
 ],
-  "geometry": {"coordinates":[-98.071472,40.201486],"type":"Point"}
+  "geometry": {"coordinates":[-98.04995,40.20213],"type":"Point"}
 }

@@ -14,6 +14,7 @@
     "geom:longitude":-95.991302,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5050 Ames Ave",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -48,7 +49,7 @@
         "sg:id":"SG_2t7lkADZtcTpetNzIijngT_41.299801_-95.991302@1303262941"
     },
     "wof:country":"US",
-    "wof:geomhash":"02b59e77215a2ee44c3ce643eedb8a60",
+    "wof:geomhash":"41b025fd25c4a9587605d14a8ce1e8ae",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -61,13 +62,15 @@
         }
     ],
     "wof:id":203049583,
-    "wof:lastmodified":1472633911,
+    "wof:lastmodified":1534439104,
     "wof:name":"University Medical Associates",
     "wof:parent_id":85805755,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        873946783
+    ],
     "wof:tags":[
         "family",
         "practice",

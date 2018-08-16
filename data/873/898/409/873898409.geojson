@@ -2,18 +2,24 @@
   "id": 873898409,
   "type": "Feature",
   "properties": {
-    "addr:full":"102 W 3rd St Wilber NE 68465",
+    "addr:city":"Wilber",
+    "addr:full":"102 W 3Rd St Wilber, Ne 68465",
+    "addr:house_number":"102",
     "addr:housenumber":"102",
+    "addr:phone":"+1 402-821-2183",
     "addr:postcode":"68465",
+    "addr:road":"W 3Rd St",
+    "addr:state":"NE",
     "addr:street":"W 3Rd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-96.961802,40.481433,-96.961802,40.481433",
-    "geom:latitude":40.481433,
-    "geom:longitude":-96.961802,
+    "geom:bbox":"-96.96077,40.48143,-96.96077,40.48143",
+    "geom:latitude":40.48143,
+    "geom:longitude":-96.96077,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"102 W 3rd St",
     "sg:city":"Wilber",
     "sg:classifiers":[
@@ -30,18 +36,20 @@
     "sg:tags":[
         "gallery"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8403100001,
         "sg:id":"SG_3ot1UDZeu6UpjR7O7nRTsf_40.481433_-96.961802@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464299789,
-    "wof:geomhash":"88147cd0e7d7f705a6af9505fa34ba74",
+    "wof:geomhash":"87cf2dcf10bb2efbbe426bd8f9f624e8",
     "wof:hierarchy":[],
     "wof:id":873898409,
-    "wof:lastmodified":1472634011,
+    "wof:lastmodified":1534439106,
     "wof:name":"Wilber Czech Museum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -53,10 +61,10 @@
     ]
 },
   "bbox": [
-    -96.961802,
-    40.481433,
-    -96.961802,
-    40.481433
+    -96.96077,
+    40.48143,
+    -96.96077,
+    40.48143
 ],
-  "geometry": {"coordinates":[-96.96180200000001,40.481433],"type":"Point"}
+  "geometry": {"coordinates":[-96.96077,40.48143],"type":"Point"}
 }

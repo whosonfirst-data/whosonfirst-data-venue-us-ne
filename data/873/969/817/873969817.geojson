@@ -2,18 +2,24 @@
   "id": 873969817,
   "type": "Feature",
   "properties": {
-    "addr:full":"801 S 10th St Omaha NE 68108",
+    "addr:city":"Omaha",
+    "addr:full":"801 S 10Th Street Omaha, Ne 68108-3207",
+    "addr:house_number":"801",
     "addr:housenumber":"801",
-    "addr:postcode":"68108",
+    "addr:phone":"+1 402-444-5071",
+    "addr:postcode":"68108-3207",
+    "addr:road":"S 10Th Street",
+    "addr:state":"NE",
     "addr:street":"S 10Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-95.9291,41.251999,-95.9291,41.251999",
-    "geom:latitude":41.251999,
-    "geom:longitude":-95.9291,
+    "geom:bbox":"-95.92823,41.25163,-95.92823,41.25163",
+    "geom:latitude":41.25163,
+    "geom:longitude":-95.92823,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"801 S 10th St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -28,19 +34,25 @@
     "sg:postcode":"68108",
     "sg:province":"NE",
     "sg:website":"www.dwhm.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102524739,
+        102531489,
+        102529985
+    ],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8403100190,
         "sg:id":"SG_2r7qUnxXVCh4ZAIsFQ1RHS_41.252069_-95.929287@1293134755"
     },
     "wof:country":"US",
     "wof:created":1464301976,
-    "wof:geomhash":"e8b890469864d1c5cafaa30b3e8d63c7",
+    "wof:geomhash":"8f8985be8c230e543cb07303e822d8c5",
     "wof:hierarchy":[],
     "wof:id":873969817,
-    "wof:lastmodified":1472634118,
-    "wof:name":"Durham Western Heritage Museum",
+    "wof:lastmodified":1534439108,
+    "wof:name":"Durham Museum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ne",
@@ -49,10 +61,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -95.9291,
-    41.251999,
-    -95.9291,
-    41.251999
+    -95.92823,
+    41.25163,
+    -95.92823,
+    41.25163
 ],
-  "geometry": {"coordinates":[-95.92910000000001,41.251999],"type":"Point"}
+  "geometry": {"coordinates":[-95.92823,41.25163],"type":"Point"}
 }

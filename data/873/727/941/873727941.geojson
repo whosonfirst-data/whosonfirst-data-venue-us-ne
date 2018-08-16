@@ -7,6 +7,7 @@
     "addr:postcode":"68114",
     "addr:street":"California St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-16",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-96.069001,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"10000 California St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -64,12 +65,14 @@
         }
     ],
     "wof:id":873727941,
-    "wof:lastmodified":1511322709,
+    "wof:lastmodified":1534439107,
     "wof:name":"GNC",
     "wof:parent_id":85867061,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ne",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        873934851
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "health",

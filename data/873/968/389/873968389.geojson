@@ -2,18 +2,24 @@
   "id": 873968389,
   "type": "Feature",
   "properties": {
-    "addr:full":"1111 Jones St Omaha NE 68102",
+    "addr:city":"Omaha",
+    "addr:full":"1111 Jones St Omaha, Ne 68102-3221",
+    "addr:house_number":"1111",
     "addr:housenumber":"1111",
-    "addr:postcode":"68102",
+    "addr:phone":"+1 402-341-3800",
+    "addr:postcode":"68102-3221",
+    "addr:road":"Jones St",
+    "addr:state":"NE",
     "addr:street":"Jones St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-95.931801,41.253201,-95.931801,41.253201",
-    "geom:latitude":41.253201,
-    "geom:longitude":-95.931801,
+    "geom:bbox":"-95.93073,41.25328,-95.93073,41.25328",
+    "geom:latitude":41.25328,
+    "geom:longitude":-95.93073,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"1111 Jones St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -27,19 +33,25 @@
     "sg:phone":"+1 402 346 0230",
     "sg:postcode":"68102",
     "sg:province":"NE",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102524739,
+        102531489,
+        102529985
+    ],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8403100166,
         "sg:id":"SG_1J7ot94ilZPigRx7MCV3Zb_41.253282_-95.931819@1293134755"
     },
     "wof:country":"US",
     "wof:created":1464301929,
-    "wof:geomhash":"672f6f76fb925e7a46ead1abc9cae241",
+    "wof:geomhash":"68e64fd9324dbe2e63f4d02576a3dd82",
     "wof:hierarchy":[],
     "wof:id":873968389,
-    "wof:lastmodified":1472634113,
-    "wof:name":"Museum Kaneko",
+    "wof:lastmodified":1534439108,
+    "wof:name":"Kaneko",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ne",
@@ -48,10 +60,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -95.931801,
-    41.253201,
-    -95.931801,
-    41.253201
+    -95.93073,
+    41.25328,
+    -95.93073,
+    41.25328
 ],
-  "geometry": {"coordinates":[-95.93180099999999,41.253201],"type":"Point"}
+  "geometry": {"coordinates":[-95.93073,41.25328],"type":"Point"}
 }

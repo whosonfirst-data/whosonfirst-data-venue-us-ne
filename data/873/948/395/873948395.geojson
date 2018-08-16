@@ -14,6 +14,7 @@
     "geom:longitude":-96.698354,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2222 S 16th St",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -47,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1464301076,
-    "wof:geomhash":"1ad0f8401772279363e4114ca2975ffe",
+    "wof:geomhash":"e8a5307e679803a0ae61ad17413b4214",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,13 +62,15 @@
         }
     ],
     "wof:id":873948395,
-    "wof:lastmodified":1472634066,
+    "wof:lastmodified":1534439107,
     "wof:name":"Lincoln Aesthetic & Rcnstrctv",
     "wof:parent_id":85878719,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        873943495
+    ],
     "wof:tags":[
         "physician",
         "surgeon"

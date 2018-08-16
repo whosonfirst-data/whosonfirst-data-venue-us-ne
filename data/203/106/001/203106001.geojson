@@ -7,6 +7,7 @@
     "addr:postcode":"68117",
     "addr:street":"L St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-16",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.991761,41.212521,-95.991761,41.212521",
@@ -14,6 +15,7 @@
     "geom:longitude":-95.991761,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5020 L St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -50,7 +52,7 @@
         "sg:id":"SG_1mYqBokPxN4uDr7o7YPUYb_41.212521_-95.991761@1303262942"
     },
     "wof:country":"US",
-    "wof:geomhash":"14ddf101ae93c12c0af58226193502d9",
+    "wof:geomhash":"90861faf7f7833964cc4d221b95c8434",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -63,12 +65,14 @@
         }
     ],
     "wof:id":203106001,
-    "wof:lastmodified":1472633911,
+    "wof:lastmodified":1534439106,
     "wof:name":"Alegent Health Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ne",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        873800925
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "therapist",

@@ -2,18 +2,24 @@
   "id": 873961959,
   "type": "Feature",
   "properties": {
-    "addr:full":"950 U St Gering NE 69341",
+    "addr:city":"Gering",
+    "addr:full":"950 U St Gering, Ne 69341-2246",
+    "addr:house_number":"950",
     "addr:housenumber":"950",
-    "addr:postcode":"69341",
+    "addr:phone":"+1 308-436-7104",
+    "addr:postcode":"69341-2246",
+    "addr:road":"U St",
+    "addr:state":"NE",
     "addr:street":"U St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-103.658537,41.830322,-103.658537,41.830322",
-    "geom:latitude":41.830322,
-    "geom:longitude":-103.658537,
+    "geom:bbox":"-103.65848,41.83033,-103.65848,41.83033",
+    "geom:latitude":41.83033,
+    "geom:longitude":-103.65848,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"950 U St",
     "sg:city":"Gering",
     "sg:classifiers":[
@@ -27,19 +33,23 @@
     "sg:phone":"+1 308 436 7104",
     "sg:postcode":"69341",
     "sg:province":"NE",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102531629
+    ],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8403100254,
         "sg:id":"SG_6DbTunwDkZg5hOQN5qbnHj_41.830322_-103.658537@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464301652,
-    "wof:geomhash":"13bf3581d7b85c98c2ff18edc774626b",
+    "wof:geomhash":"76cd2c73c24701cc4d758202e28abc07",
     "wof:hierarchy":[],
     "wof:id":873961959,
-    "wof:lastmodified":1472634103,
-    "wof:name":"Wyobraska Museum",
+    "wof:lastmodified":1534439108,
+    "wof:name":"Wyobraska Natural History Museum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ne",
@@ -48,10 +58,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -103.658537,
-    41.830322,
-    -103.658537,
-    41.830322
+    -103.65848,
+    41.83033,
+    -103.65848,
+    41.83033
 ],
-  "geometry": {"coordinates":[-103.658537,41.830322],"type":"Point"}
+  "geometry": {"coordinates":[-103.65848,41.83033],"type":"Point"}
 }

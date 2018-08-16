@@ -7,6 +7,7 @@
     "addr:postcode":"68127",
     "addr:street":"J St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-16",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-96.071548,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"10179 J St",
     "sg:city":"Omaha",
     "sg:classifiers":[],
@@ -38,7 +40,7 @@
         "sg:id":"SG_0kBq0m0yjceNsuAVQgglYs_41.214218_-96.071548@1303262942"
     },
     "wof:country":"US",
-    "wof:geomhash":"181d9481d79d083e65b04cf0cd9e88a9",
+    "wof:geomhash":"9e2b11218919e153bbc13998aeeab80a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -52,12 +54,14 @@
         }
     ],
     "wof:id":203113617,
-    "wof:lastmodified":1491885186,
+    "wof:lastmodified":1534439106,
     "wof:name":"Classic Art Glass Company Inc",
     "wof:parent_id":85872511,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ne",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        873833459
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -7,6 +7,7 @@
     "addr:postcode":"68131",
     "addr:street":"Farnam St Ste 450",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-16",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.976417,41.257864,-95.976417,41.257864",
@@ -14,6 +15,7 @@
     "geom:longitude":-95.976417,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4242 Farnam St Ste 450",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -40,7 +42,7 @@
         "sg:id":"SG_15qZ3hvUySzoGDMoEjjZgv_41.257864_-95.976417@1303262942"
     },
     "wof:country":"US",
-    "wof:geomhash":"4b2b61123043b52ebc1e4988ff49f50d",
+    "wof:geomhash":"c593bf0830f73fe5ebf38e1c999edffa",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +55,14 @@
         }
     ],
     "wof:id":203120389,
-    "wof:lastmodified":1472633922,
+    "wof:lastmodified":1534439105,
     "wof:name":"Schafer Edwin C MD",
     "wof:parent_id":85872523,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ne",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        203125053
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

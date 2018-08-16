@@ -7,6 +7,7 @@
     "addr:postcode":"68132",
     "addr:street":"Underwood Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-16",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.992495,41.265132,-95.992495,41.265132",
@@ -14,6 +15,7 @@
     "geom:longitude":-95.992495,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5010 Underwood Ave",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1464295725,
-    "wof:geomhash":"daf3c86b189e2cd063e14b35494dc2a5",
+    "wof:geomhash":"e0e1e684b4357d269b601d3ccadc62e6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,12 +63,14 @@
         }
     ],
     "wof:id":873662473,
-    "wof:lastmodified":1472633790,
+    "wof:lastmodified":1534439105,
     "wof:name":"KGOR FM 99.9 Advertising",
     "wof:parent_id":85867055,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ne",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        203133219
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "company",

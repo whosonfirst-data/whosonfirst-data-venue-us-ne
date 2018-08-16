@@ -2,18 +2,24 @@
   "id": 203027545,
   "type": "Feature",
   "properties": {
-    "addr:full":"500 S 20th St Omaha NE 68102",
+    "addr:city":"Omaha",
+    "addr:full":"500 S 20Th St Omaha, Ne 68102-2508",
+    "addr:house_number":"500",
     "addr:housenumber":"500",
-    "addr:postcode":"68102",
+    "addr:phone":"+1 402-342-6164",
+    "addr:postcode":"68102-2508",
+    "addr:road":"S 20Th St",
+    "addr:state":"NE",
     "addr:street":"S 20Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-95.942276,41.255502,-95.942276,41.255502",
-    "geom:latitude":41.255502,
-    "geom:longitude":-95.942276,
+    "geom:bbox":"-95.94312,41.25483,-95.94312,41.25483",
+    "geom:latitude":41.25483,
+    "geom:longitude":-95.94312,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"500 S 20th St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -28,7 +34,12 @@
     "sg:postcode":"68102",
     "sg:province":"NE",
     "sg:website":"www.ocm.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102524739,
+        102531489,
+        102529985
+    ],
     "wof:belongsto":[
         85688563,
         85633793,
@@ -37,10 +48,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8403100200,
         "sg:id":"SG_3D7dFEFRGJYiT2SnGL0i7V_41.255502_-95.942276@1303262941"
     },
     "wof:country":"US",
-    "wof:geomhash":"eae234ebf7c2f854dd73b3a320f9a45c",
+    "wof:geomhash":"d853b517d1996e1d8d702a5949cd2579",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,8 +65,8 @@
         }
     ],
     "wof:id":203027545,
-    "wof:lastmodified":1472633870,
-    "wof:name":"Omaha Children's Museum",
+    "wof:lastmodified":1534439108,
+    "wof:name":"Omaha Children'S Museum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ne",
@@ -63,10 +75,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -95.942276,
-    41.255502,
-    -95.942276,
-    41.255502
+    -95.94312,
+    41.25483,
+    -95.94312,
+    41.25483
 ],
-  "geometry": {"coordinates":[-95.94227600000001,41.255502],"type":"Point"}
+  "geometry": {"coordinates":[-95.94311999999999,41.25483],"type":"Point"}
 }

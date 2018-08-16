@@ -7,6 +7,7 @@
     "addr:postcode":"68005",
     "addr:street":"Fort Crook Rd N",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-16",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-95.926617,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1001 Fort Crook Rd N",
     "sg:city":"Bellevue",
     "sg:classifiers":[
@@ -49,7 +51,7 @@
     },
     "wof:country":"US",
     "wof:created":1464295378,
-    "wof:geomhash":"60eb2fc814fe4c4c4f5e41cc01f2db13",
+    "wof:geomhash":"eb6e6ea2a578d13cb18be7dcfafaf126",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -63,12 +65,14 @@
         }
     ],
     "wof:id":873631401,
-    "wof:lastmodified":1491931304,
+    "wof:lastmodified":1534439106,
     "wof:name":"Peek-N-Pat's Ceramic Shoppe",
     "wof:parent_id":85804025,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ne",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        873852249
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "equipment",

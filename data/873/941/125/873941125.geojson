@@ -14,6 +14,7 @@
     "geom:longitude":-96.672871,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3201 Pioneers Blvd",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -47,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1464300736,
-    "wof:geomhash":"5511ad4f4054e42d174b8adff4375396",
+    "wof:geomhash":"c92a17016e14300d8463dcd4e686884f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,13 +62,15 @@
         }
     ],
     "wof:id":873941125,
-    "wof:lastmodified":1472634050,
+    "wof:lastmodified":1534439107,
     "wof:name":"Frizzll-Pratt Vckie A Ms Plmhp",
     "wof:parent_id":85811821,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        873778919
+    ],
     "wof:tags":[
         "specialty",
         "outpatient"

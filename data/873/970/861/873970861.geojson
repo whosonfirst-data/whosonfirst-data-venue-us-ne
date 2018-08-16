@@ -14,6 +14,7 @@
     "geom:longitude":-95.955299,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2900 Douglas St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -47,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1464302017,
-    "wof:geomhash":"23bda590f97d6046619f22fd32167046",
+    "wof:geomhash":"e1bf0b9b74b39a5e2e66d9d833b7d209",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,13 +62,15 @@
         }
     ],
     "wof:id":873970861,
-    "wof:lastmodified":1472634124,
+    "wof:lastmodified":1534439108,
     "wof:name":"Multi-Vest Real Estate Co",
     "wof:parent_id":85872525,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        203124917
+    ],
     "wof:tags":[
         "apartment",
         "agency"

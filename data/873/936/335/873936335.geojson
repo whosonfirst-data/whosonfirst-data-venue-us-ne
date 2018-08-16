@@ -2,18 +2,24 @@
   "id": 873936335,
   "type": "Feature",
   "properties": {
-    "addr:full":"405 S 11th St Omaha NE 68102",
+    "addr:city":"Omaha",
+    "addr:full":"405 S 11Th St Omaha, Ne 68102-2805",
+    "addr:house_number":"405",
     "addr:housenumber":"405",
-    "addr:postcode":"68102",
+    "addr:phone":"+1 402-342-9617",
+    "addr:postcode":"68102-2805",
+    "addr:road":"S 11Th St",
+    "addr:state":"NE",
     "addr:street":"S 11Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-95.930494,41.255501,-95.930494,41.255501",
-    "geom:latitude":41.255501,
-    "geom:longitude":-95.930494,
+    "geom:bbox":"-95.93047,41.25633,-95.93047,41.25633",
+    "geom:latitude":41.25633,
+    "geom:longitude":-95.93047,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"405 S 11th St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -30,19 +36,25 @@
     "sg:tags":[
         "mill"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102524739,
+        102531489,
+        102529985
+    ],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8403100191,
         "sg:id":"SG_3hQmLEtBGu4otXx8kNrcHx_41.255501_-95.930494@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464300531,
-    "wof:geomhash":"80c1c837ae9b395530f7f272daabf2c6",
+    "wof:geomhash":"357a83c6c485cde065b811792efcf399",
     "wof:hierarchy":[],
     "wof:id":873936335,
-    "wof:lastmodified":1472634047,
-    "wof:name":"Coop Artist Gallery Inc",
+    "wof:lastmodified":1534439108,
+    "wof:name":"Artist Coop Gallery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ne",
@@ -53,10 +65,10 @@
     ]
 },
   "bbox": [
-    -95.930494,
-    41.255501,
-    -95.930494,
-    41.255501
+    -95.93047,
+    41.25633,
+    -95.93047,
+    41.25633
 ],
-  "geometry": {"coordinates":[-95.930494,41.255501],"type":"Point"}
+  "geometry": {"coordinates":[-95.93047,41.25633],"type":"Point"}
 }

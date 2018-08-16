@@ -2,18 +2,24 @@
   "id": 873729253,
   "type": "Feature",
   "properties": {
-    "addr:full":"1128 Elm St Fairbury NE 68352",
+    "addr:city":"Fairbury",
+    "addr:full":"1128 Elm St Fairbury, Ne 68352",
+    "addr:house_number":"1128",
     "addr:housenumber":"1128",
+    "addr:phone":"+1 402-729-3707",
     "addr:postcode":"68352",
+    "addr:road":"Elm St",
+    "addr:state":"NE",
     "addr:street":"Elm St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-97.186623,40.143812,-97.186623,40.143812",
-    "geom:latitude":40.143812,
-    "geom:longitude":-97.186623,
+    "geom:bbox":"-97.1866,40.14327,-97.1866,40.14327",
+    "geom:latitude":40.14327,
+    "geom:longitude":-97.1866,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"1128 Elm St",
     "sg:city":"Fairbury",
     "sg:classifiers":[
@@ -30,18 +36,20 @@
     "sg:tags":[
         "gallery"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8403100076,
         "sg:id":"SG_7X06h1gKgfOzeZkWAOF9p7_40.143812_-97.186623@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464296770,
-    "wof:geomhash":"9d8d1cebb586fe1cf3c630cd52828a1b",
+    "wof:geomhash":"27122b602aa5cd20ca4f0f7b9c05c74d",
     "wof:hierarchy":[],
     "wof:id":873729253,
-    "wof:lastmodified":1472633775,
+    "wof:lastmodified":1534439105,
     "wof:name":"Fairbury City Museum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -53,10 +61,10 @@
     ]
 },
   "bbox": [
-    -97.186623,
-    40.143812,
-    -97.186623,
-    40.143812
+    -97.1866,
+    40.14327,
+    -97.1866,
+    40.14327
 ],
-  "geometry": {"coordinates":[-97.186623,40.143812],"type":"Point"}
+  "geometry": {"coordinates":[-97.1866,40.14327],"type":"Point"}
 }

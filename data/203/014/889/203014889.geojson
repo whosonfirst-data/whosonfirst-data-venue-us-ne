@@ -2,17 +2,22 @@
   "id": 203014889,
   "type": "Feature",
   "properties": {
-    "addr:full":"2200 Dodge St Omaha NE 68102",
+    "addr:city":"Omaha",
+    "addr:full":"2200 Dodge St Omaha, Ne 68102-1208",
+    "addr:house_number":"2200",
     "addr:housenumber":"2200",
-    "addr:postcode":"68102",
+    "addr:phone":"+1 402-342-3300",
+    "addr:postcode":"68102-1208",
+    "addr:road":"Dodge St",
+    "addr:state":"NE",
     "addr:street":"Dodge St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-95.944801,41.2598,-95.944801,41.2598",
-    "geom:latitude":41.2598,
-    "geom:longitude":-95.944801,
+    "geom:bbox":"-95.94557,41.26074,-95.94557,41.26074",
+    "geom:latitude":41.26074,
+    "geom:longitude":-95.94557,
     "iso:country":"US",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
@@ -37,7 +42,12 @@
     "sg:tags":[
         "venue"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102524739,
+        102531489,
+        102529985
+    ],
     "wof:belongsto":[
         85688563,
         85633793,
@@ -46,11 +56,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8403100177,
         "osm:node":366492281,
         "sg:id":"SG_05QBgkywLVs3YemcFzkDyJ_41.259800_-95.944801@1303262940"
     },
     "wof:country":"US",
-    "wof:geomhash":"e09fb090efba1b286afaf402639fbe3b",
+    "wof:geomhash":"c6d3ffa03890f07c39aee7f849a2a4cd",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -63,7 +74,7 @@
         }
     ],
     "wof:id":203014889,
-    "wof:lastmodified":1510944185,
+    "wof:lastmodified":1534439108,
     "wof:name":"Joslyn Art Museum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -75,10 +86,10 @@
     ]
 },
   "bbox": [
-    -95.944801,
-    41.2598,
-    -95.944801,
-    41.2598
+    -95.94557,
+    41.26074,
+    -95.94557,
+    41.26074
 ],
-  "geometry": {"coordinates":[-95.944801,41.2598],"type":"Point"}
+  "geometry": {"coordinates":[-95.94557,41.26074],"type":"Point"}
 }

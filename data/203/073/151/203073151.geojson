@@ -2,17 +2,21 @@
   "id": 203073151,
   "type": "Feature",
   "properties": {
-    "addr:full":"100 Bancroft St Omaha NE 68108",
+    "addr:city":"Omaha",
+    "addr:full":"100 Bancroft Street Omaha, Ne 68108",
+    "addr:house_number":"100",
     "addr:housenumber":"100",
     "addr:postcode":"68108",
+    "addr:road":"Bancroft Street",
+    "addr:state":"NE",
     "addr:street":"Bancroft St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-95.919968,41.234119,-95.919968,41.234119",
-    "geom:latitude":41.234119,
-    "geom:longitude":-95.919968,
+    "geom:bbox":"-95.91992,41.23426,-95.91992,41.23426",
+    "geom:latitude":41.23426,
+    "geom:longitude":-95.91992,
     "iso:country":"US",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
@@ -24,7 +28,12 @@
     "sg:postcode":"68108",
     "sg:province":"NE",
     "sg:website":"http://www.lauritzengardens.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102524739,
+        102531489,
+        102529985
+    ],
     "wof:belongsto":[
         85688563,
         85633793,
@@ -33,11 +42,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8409502277,
         "osm:way":30446918,
         "sg:id":"SG_2ephH0XyBC5Akc3JYuYrzn_41.234119_-95.919968@1303262941"
     },
     "wof:country":"US",
-    "wof:geomhash":"edee0bdb3f4bc76309ab358d25523bac",
+    "wof:geomhash":"1cc0e97ebab84bdb2d34a2a553454a5b",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -50,7 +60,7 @@
         }
     ],
     "wof:id":203073151,
-    "wof:lastmodified":1510942115,
+    "wof:lastmodified":1534439108,
     "wof:name":"Lauritzen Gardens",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -60,10 +70,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -95.919968,
-    41.234119,
-    -95.919968,
-    41.234119
+    -95.91992,
+    41.23426,
+    -95.91992,
+    41.23426
 ],
-  "geometry": {"coordinates":[-95.919968,41.234119],"type":"Point"}
+  "geometry": {"coordinates":[-95.91992,41.23426],"type":"Point"}
 }

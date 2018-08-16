@@ -7,6 +7,7 @@
     "addr:postcode":"68102",
     "addr:street":"Farnam St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-16",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.938499,41.257599,-95.938499,41.257599",
@@ -14,6 +15,7 @@
     "geom:longitude":-95.938499,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1700 Farnam St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -39,7 +41,7 @@
         "sg:id":"SG_75N6ivB6sbpbWFXtnHS79A_41.257599_-95.938499@1303262940"
     },
     "wof:country":"US",
-    "wof:geomhash":"380fa674cdf1fc0b847bf78998b942e7",
+    "wof:geomhash":"bf26644ce42d997aea9b7bcc50e23a74",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,12 +54,14 @@
         }
     ],
     "wof:id":203006067,
-    "wof:lastmodified":1472633742,
+    "wof:lastmodified":1534439105,
     "wof:name":"Katskee Melvin R Atty",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ne",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        873762967
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

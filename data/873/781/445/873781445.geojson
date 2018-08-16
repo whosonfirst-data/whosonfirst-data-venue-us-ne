@@ -2,18 +2,24 @@
   "id": 873781445,
   "type": "Feature",
   "properties": {
-    "addr:full":"1105 N Morrell St Fremont NE 68025",
+    "addr:city":"Fremont",
+    "addr:full":"1105 N Morrell St Fremont, Ne 68025",
+    "addr:house_number":"1105",
     "addr:housenumber":"1105",
+    "addr:phone":"+1 402-721-8961",
     "addr:postcode":"68025",
+    "addr:road":"N Morrell St",
+    "addr:state":"NE",
     "addr:street":"N Morrell St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-96.508942,41.442004,-96.508942,41.442004",
-    "geom:latitude":41.442004,
-    "geom:longitude":-96.508942,
+    "geom:bbox":"-96.50895,41.44045,-96.50895,41.44045",
+    "geom:latitude":41.44045,
+    "geom:longitude":-96.50895,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"1105 N Morrell St",
     "sg:city":"Fremont",
     "sg:classifiers":[
@@ -30,18 +36,22 @@
     "sg:tags":[
         "gallery"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102527327
+    ],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8403100075,
         "sg:id":"SG_6EpPKphe6Z2bWxhS0WBGAA_41.442004_-96.508942@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464297510,
-    "wof:geomhash":"f8f6e71696df7552fd524b54a9f4618c",
+    "wof:geomhash":"f8de620f2a7d3c7b45662f3bd60bcedb",
     "wof:hierarchy":[],
     "wof:id":873781445,
-    "wof:lastmodified":1472633873,
+    "wof:lastmodified":1534439108,
     "wof:name":"Double S Traders",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -53,10 +63,10 @@
     ]
 },
   "bbox": [
-    -96.508942,
-    41.442004,
-    -96.508942,
-    41.442004
+    -96.50895,
+    41.44045,
+    -96.50895,
+    41.44045
 ],
-  "geometry": {"coordinates":[-96.508942,41.442004],"type":"Point"}
+  "geometry": {"coordinates":[-96.50895,41.44045],"type":"Point"}
 }

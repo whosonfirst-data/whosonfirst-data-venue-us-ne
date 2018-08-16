@@ -14,6 +14,7 @@
     "geom:longitude":-95.948249,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2500 Cass St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -43,7 +44,7 @@
         "sg:id":"SG_20d3QYpqcAYVAdcw4EIVYB_41.263897_-95.948249@1303262943"
     },
     "wof:country":"US",
-    "wof:geomhash":"bab8eab9245475e8149085acd534f6e0",
+    "wof:geomhash":"08c9b92c0d93250a433726ff3142717d",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,13 +57,15 @@
         }
     ],
     "wof:id":203152315,
-    "wof:lastmodified":1472633921,
+    "wof:lastmodified":1534439105,
     "wof:name":"Creighton Book Store",
     "wof:parent_id":85872525,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        203152309
+    ],
     "wof:tags":[
         "bookstore"
     ]

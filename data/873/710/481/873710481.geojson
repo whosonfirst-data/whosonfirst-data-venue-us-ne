@@ -7,6 +7,7 @@
     "addr:postcode":"69361",
     "addr:street":"Ave B",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-16",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-103.665748,41.886947,-103.665748,41.886947",
@@ -14,6 +15,7 @@
     "geom:longitude":-103.665748,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4021 Ave B",
     "sg:city":"Scottsbluff",
     "sg:classifiers":[
@@ -39,15 +41,17 @@
     },
     "wof:country":"US",
     "wof:created":1464296526,
-    "wof:geomhash":"101b016b467d0ce1f7bc57b3cebdbac0",
+    "wof:geomhash":"0971d63f717f5db224ef4f0751805838",
     "wof:hierarchy":[],
     "wof:id":873710481,
-    "wof:lastmodified":1472633801,
+    "wof:lastmodified":1534439105,
     "wof:name":"Behavior Health Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ne",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        873715821
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "specialty",

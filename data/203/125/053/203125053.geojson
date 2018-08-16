@@ -14,6 +14,7 @@
     "geom:longitude":-95.976417,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4242 Farnam St Ste 450",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -40,7 +41,7 @@
         "sg:id":"SG_30Awnkt6u3D1ExpNRM2t4r_41.257864_-95.976417@1303262942"
     },
     "wof:country":"US",
-    "wof:geomhash":"4b2b61123043b52ebc1e4988ff49f50d",
+    "wof:geomhash":"c593bf0830f73fe5ebf38e1c999edffa",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,13 +54,15 @@
         }
     ],
     "wof:id":203125053,
-    "wof:lastmodified":1472633910,
+    "wof:lastmodified":1534439105,
     "wof:name":"Schafer Michael E MD",
     "wof:parent_id":85872523,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        203120389
+    ],
     "wof:tags":[]
 },
   "bbox": [

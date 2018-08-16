@@ -2,18 +2,24 @@
   "id": 873940085,
   "type": "Feature",
   "properties": {
-    "addr:full":"3133 US Hwy 34 Grand Island NE 68801",
+    "addr:city":"Grand Island",
+    "addr:full":"3133 W Us Hwy 34 Grand Island, Ne 68801-7280",
+    "addr:house_number":"3133",
     "addr:housenumber":"3133",
-    "addr:postcode":"68801",
+    "addr:phone":"+1 308-385-5316",
+    "addr:postcode":"68801-7280",
+    "addr:road":"W Us Hwy 34",
+    "addr:state":"NE",
     "addr:street":"Us Hwy 34",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-98.375651,40.887888,-98.375651,40.887888",
-    "geom:latitude":40.887888,
-    "geom:longitude":-98.375651,
+    "geom:bbox":"-98.37584,40.88787,-98.37584,40.88787",
+    "geom:latitude":40.88787,
+    "geom:longitude":-98.37584,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"3133 US Hwy 34",
     "sg:city":"Grand Island",
     "sg:classifiers":[
@@ -27,19 +33,23 @@
     "sg:phone":"+1 308 385 5316",
     "sg:postcode":"68801",
     "sg:province":"NE",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102531229
+    ],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8409501821,
         "sg:id":"SG_77I63EZPJKyX0Y2dKQy3ee_40.887888_-98.375651@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464300697,
-    "wof:geomhash":"378c672097de1847f0df1a959b0fcc55",
+    "wof:geomhash":"f68c3d5c065f9306f0cb09cd708117ff",
     "wof:hierarchy":[],
     "wof:id":873940085,
-    "wof:lastmodified":1472634049,
-    "wof:name":"Stuhr Museum of Prairie Pionr",
+    "wof:lastmodified":1534439107,
+    "wof:name":"Stuhr Museum Of The Prairie Pioneer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ne",
@@ -48,10 +58,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -98.375651,
-    40.887888,
-    -98.375651,
-    40.887888
+    -98.37584,
+    40.88787,
+    -98.37584,
+    40.88787
 ],
-  "geometry": {"coordinates":[-98.375651,40.887888],"type":"Point"}
+  "geometry": {"coordinates":[-98.37584,40.88787],"type":"Point"}
 }

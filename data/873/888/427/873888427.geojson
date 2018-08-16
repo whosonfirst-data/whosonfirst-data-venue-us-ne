@@ -2,18 +2,24 @@
   "id": 873888427,
   "type": "Feature",
   "properties": {
-    "addr:full":"724 S 12th St Omaha NE 68102",
+    "addr:city":"Omaha",
+    "addr:full":"724 S 12Th St Omaha, Ne 68102-3202",
+    "addr:house_number":"724",
     "addr:housenumber":"724",
-    "addr:postcode":"68102",
+    "addr:phone":"+1 402-341-7130",
+    "addr:postcode":"68102-3202",
+    "addr:road":"S 12Th St",
+    "addr:state":"NE",
     "addr:street":"S 12Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-95.932024,41.252564,-95.932024,41.252564",
-    "geom:latitude":41.252564,
-    "geom:longitude":-95.932024,
+    "geom:bbox":"-95.93236,41.25263,-95.93236,41.25263",
+    "geom:latitude":41.25263,
+    "geom:longitude":-95.93236,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"724 S 12th St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -33,19 +39,25 @@
         "information"
     ],
     "sg:website":"www.bemiscenter.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102524739,
+        102531489,
+        102529985
+    ],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8403100225,
         "sg:id":"SG_5KvEXzX6wq3eRT83Zhn3hq_41.252564_-95.932024@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464299598,
-    "wof:geomhash":"c5e2c1a63781fd7e4c81759da60f62a4",
+    "wof:geomhash":"29c26e04bfa08c2ea1701394a257228b",
     "wof:hierarchy":[],
     "wof:id":873888427,
-    "wof:lastmodified":1472634002,
-    "wof:name":"Bemis Center-Contemporary Arts",
+    "wof:lastmodified":1534439106,
+    "wof:name":"Bemis Center For Contemporary Arts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ne",
@@ -58,10 +70,10 @@
     ]
 },
   "bbox": [
-    -95.932024,
-    41.252564,
-    -95.932024,
-    41.252564
+    -95.93236,
+    41.25263,
+    -95.93236,
+    41.25263
 ],
-  "geometry": {"coordinates":[-95.932024,41.252564],"type":"Point"}
+  "geometry": {"coordinates":[-95.93236,41.25263],"type":"Point"}
 }

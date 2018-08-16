@@ -14,6 +14,7 @@
     "geom:longitude":-96.118183,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4780 S 131st St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -43,7 +44,7 @@
     },
     "wof:country":"US",
     "wof:created":1464294586,
-    "wof:geomhash":"335d991b6c5fb7f6acac80de190a4624",
+    "wof:geomhash":"5bde3664dd1124b95e5cfcea2a5f4c32",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,13 +58,15 @@
         }
     ],
     "wof:id":873568027,
-    "wof:lastmodified":1472633853,
+    "wof:lastmodified":1534439105,
     "wof:name":"Heartland AG Marketing Inc",
     "wof:parent_id":85872531,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        873552253
+    ],
     "wof:tags":[]
 },
   "bbox": [

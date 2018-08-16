@@ -14,6 +14,7 @@
     "geom:longitude":-95.990223,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4951 Center St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -47,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1464300232,
-    "wof:geomhash":"a487f1f48e4c52e1d241e5be24a6956e",
+    "wof:geomhash":"8d06393157c195b664bde07975720edd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,13 +62,15 @@
         }
     ],
     "wof:id":873921273,
-    "wof:lastmodified":1472634036,
+    "wof:lastmodified":1534439106,
     "wof:name":"Antonio B Saqueton PC",
     "wof:parent_id":85872513,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        203063423
+    ],
     "wof:tags":[
         "physician",
         "surgeon"

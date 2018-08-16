@@ -2,19 +2,25 @@
   "id": 873763649,
   "type": "Feature",
   "properties": {
-    "addr:full":"1111 Bellevue Blvd N Bellevue NE 68005",
+    "addr:city":"Bellevue",
+    "addr:full":"1111 Bellevue Blvd North Bellevue, Ne 68005",
+    "addr:house_number":"1111",
     "addr:housenumber":"1111",
+    "addr:phone":"+1 402-731-3140",
     "addr:postcode":"68005",
+    "addr:road":"Bellevue Blvd North",
+    "addr:state":"NE",
     "addr:street":"Bellevue Blvd N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-95.918798,41.178625,-95.918798,41.178625",
-    "geom:latitude":41.178625,
-    "geom:longitude":-95.918798,
+    "geom:bbox":"-95.91877,41.17881,-95.91877,41.17881",
+    "geom:latitude":41.17881,
+    "geom:longitude":-95.91877,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"1111 Bellevue Blvd N",
     "sg:city":"Bellevue",
     "sg:classifiers":[
@@ -33,7 +39,12 @@
         "nature"
     ],
     "sg:website":"www.fontenelleforest.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102524739,
+        102531489,
+        102529985
+    ],
     "wof:belongsto":[
         85804025,
         102191575,
@@ -45,11 +56,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8403100366,
         "sg:id":"SG_1TM5e494M5MDki9WH7U7PO_41.178625_-95.918798@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464297268,
-    "wof:geomhash":"99da40ddcac3024f6ce98ac4d09517f7",
+    "wof:geomhash":"388a0c277143d904f1729f7afac05cc4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -63,8 +75,8 @@
         }
     ],
     "wof:id":873763649,
-    "wof:lastmodified":1491931333,
-    "wof:name":"Fontenelle Nature Assn",
+    "wof:lastmodified":1534439105,
+    "wof:name":"Fontenelle Nature Association",
     "wof:parent_id":85804025,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ne",
@@ -76,10 +88,10 @@
     ]
 },
   "bbox": [
-    -95.918798,
-    41.178625,
-    -95.918798,
-    41.178625
+    -95.91877,
+    41.17881,
+    -95.91877,
+    41.17881
 ],
-  "geometry": {"coordinates":[-95.918798,41.178625],"type":"Point"}
+  "geometry": {"coordinates":[-95.91876999999999,41.17881],"type":"Point"}
 }

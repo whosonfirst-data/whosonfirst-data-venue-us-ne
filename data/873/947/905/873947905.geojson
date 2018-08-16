@@ -14,6 +14,7 @@
     "geom:longitude":-96.699668,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"100 Centennial Mall N",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -48,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1464301055,
-    "wof:geomhash":"eaa25a91c011ff90933f63fb3d9c4f61",
+    "wof:geomhash":"8284e4320b7b72730bc82279e915d075",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,13 +63,15 @@
         }
     ],
     "wof:id":873947905,
-    "wof:lastmodified":1472634088,
+    "wof:lastmodified":1534439107,
     "wof:name":"US Federal Highway Adm",
     "wof:parent_id":85878699,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        873917717
+    ],
     "wof:tags":[
         "paving",
         "contractor"

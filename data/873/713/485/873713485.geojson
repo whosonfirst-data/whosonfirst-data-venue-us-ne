@@ -2,18 +2,24 @@
   "id": 873713485,
   "type": "Feature",
   "properties": {
-    "addr:full":"240 N Walnut St Wahoo NE 68066",
+    "addr:city":"Wahoo",
+    "addr:full":"240 N Walnut St Wahoo, Ne 68066-1858",
+    "addr:house_number":"240",
     "addr:housenumber":"240",
-    "addr:postcode":"68066",
+    "addr:phone":"+1 402-443-3090",
+    "addr:postcode":"68066-1858",
+    "addr:road":"N Walnut St",
+    "addr:state":"NE",
     "addr:street":"N Walnut St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-96.623833,41.207667,-96.623833,41.207667",
-    "geom:latitude":41.207667,
-    "geom:longitude":-96.623833,
+    "geom:bbox":"-96.62381,41.20776,-96.62381,41.20776",
+    "geom:latitude":41.20776,
+    "geom:longitude":-96.62381,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"240 N Walnut St",
     "sg:city":"Wahoo",
     "sg:classifiers":[
@@ -31,19 +37,21 @@
         "gallery"
     ],
     "sg:website":"www.visitsaunderscounty.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8403100332,
         "sg:id":"SG_5YRBwqpEWVd63sqIOsWrrg_41.207667_-96.623833@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464296562,
-    "wof:geomhash":"6ed38ebcc6707e59d3ad29f1bb14f178",
+    "wof:geomhash":"8bc5053070fd5ef30d5d3cb8c0393bf9",
     "wof:hierarchy":[],
     "wof:id":873713485,
-    "wof:lastmodified":1472633807,
-    "wof:name":"Saunders County Historical Soc",
+    "wof:lastmodified":1534439108,
+    "wof:name":"Saunders County Historical Society",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ne",
@@ -54,10 +62,10 @@
     ]
 },
   "bbox": [
-    -96.623833,
-    41.207667,
-    -96.623833,
-    41.207667
+    -96.62381,
+    41.20776,
+    -96.62381,
+    41.20776
 ],
-  "geometry": {"coordinates":[-96.623833,41.207667],"type":"Point"}
+  "geometry": {"coordinates":[-96.62381000000001,41.20776],"type":"Point"}
 }

@@ -2,18 +2,24 @@
   "id": 873854449,
   "type": "Feature",
   "properties": {
-    "addr:full":"706 Wyoming St Table Rock NE 68447",
+    "addr:city":"Table Rock",
+    "addr:full":"706 Wyoming Table Rock, Ne 68447",
+    "addr:house_number":"706",
     "addr:housenumber":"706",
+    "addr:phone":"+1 402-839-4135",
     "addr:postcode":"68447",
+    "addr:road":"Wyoming",
+    "addr:state":"NE",
     "addr:street":"Wyoming St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-96.101178,40.181809,-96.101178,40.181809",
-    "geom:latitude":40.181809,
-    "geom:longitude":-96.101178,
+    "geom:bbox":"-96.08622,40.18882,-96.08622,40.18882",
+    "geom:latitude":40.18882,
+    "geom:longitude":-96.08622,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"706 Wyoming St",
     "sg:city":"Table Rock",
     "sg:classifiers":[
@@ -31,19 +37,21 @@
         "society",
         "historical"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8403100122,
         "sg:id":"SG_29xi76w86Q030MJHo0rCdr_40.181809_-96.101178@1294165850"
     },
     "wof:country":"US",
     "wof:created":1464298904,
-    "wof:geomhash":"69f11d90c72cf98b7c099561edd68628",
+    "wof:geomhash":"c4e4b4235e307d72fae85c1ca5b9a8ec",
     "wof:hierarchy":[],
     "wof:id":873854449,
-    "wof:lastmodified":1472633970,
-    "wof:name":"Table Rock Historical Society",
+    "wof:lastmodified":1534439106,
+    "wof:name":"Table Rock Historical Society Museum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ne",
@@ -55,10 +63,10 @@
     ]
 },
   "bbox": [
-    -96.101178,
-    40.181809,
-    -96.101178,
-    40.181809
+    -96.08622,
+    40.18882,
+    -96.08622,
+    40.18882
 ],
-  "geometry": {"coordinates":[-96.101178,40.181809],"type":"Point"}
+  "geometry": {"coordinates":[-96.08622,40.18882],"type":"Point"}
 }

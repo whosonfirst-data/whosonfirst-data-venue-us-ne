@@ -14,6 +14,7 @@
     "geom:longitude":-96.026866,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7400 Dodge St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1464297427,
-    "wof:geomhash":"63fde929aafe962cf189342a9c182997",
+    "wof:geomhash":"618dca404e14664d10de01eff21d4342",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +61,15 @@
         }
     ],
     "wof:id":873775073,
-    "wof:lastmodified":1472633851,
+    "wof:lastmodified":1534439105,
     "wof:name":"Gold Plaza",
     "wof:parent_id":85872509,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        873593863
+    ],
     "wof:tags":[
         "jeweler"
     ]

@@ -14,6 +14,7 @@
     "geom:longitude":-96.023933,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"700 S 72nd St",
     "sg:city":"Omaha",
     "sg:classifiers":[
@@ -44,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1464300777,
-    "wof:geomhash":"b10a346c0f2f73adebe1df295a02435e",
+    "wof:geomhash":"e481f6bfa01c348cd7137a61e274e04a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,13 +59,15 @@
         }
     ],
     "wof:id":873942249,
-    "wof:lastmodified":1472634054,
+    "wof:lastmodified":1534439107,
     "wof:name":"Nebraska Furniture Mart Inc",
     "wof:parent_id":85867059,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ne",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        203098677
+    ],
     "wof:tags":[]
 },
   "bbox": [
